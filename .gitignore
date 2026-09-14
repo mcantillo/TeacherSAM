@@ -1,0 +1,55 @@
+# ---------- macOS ----------
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+Icon?
+
+# ---------- Windows ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---------- LaTeX (auxiliares de compilación) ----------
+# Los PDF NO se ignoran: son el material entregable y los recursos originales.
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*-blx.bib
+*.nav
+*.snm
+*.vrb
+*.lof
+*.lot
+*.xdv
+*.dvi
+# Excepción: las clases leen el .aux de la guía del trimestre (ver CLAUDE.md).
+!materias/**/guia-didactica/*.aux
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---------- Editores ----------
+.vscode/
+.idea/
+*.swp
+*~
