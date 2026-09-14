@@ -1,0 +1,391 @@
+% =====================================================================
+% PLANTILLA: Guía del estudiante (trimestral) -- Área de Matemáticas
+% María Mercedes Cantillo · Colegio San Alberto Magno
+% ---------------------------------------------------------------------
+% Una guía por periodo (trimestre). Soporta los temas de las clases del
+% periodo: cada clase (clase.tex) remite a los temas de esta guía.
+%
+% Estructura obligatoria:
+%   1. \frase        frase introductoria (cita real, con fuente)
+%   2. Introducción   objetivo del periodo + entrada al hilo conductor
+%   3. DBA            enunciado oficial tomado de dba/ (nunca de memoria)
+%   4. Marco teórico  soporte académico; aquí van las citas de científicos
+%   5. \tema{...}     un bloque por tema, cada uno con:
+%                      hilo -> explicación -> aplicacion -> ejercicios -> resumen
+%   6. Cierre del hilo conductor
+%   7. Evaluación     secciones institucionales (matriz, autoevaluación, seguimiento)
+%   8. Referencias    toda cita del documento debe aparecer aquí
+%
+% Hilo conductor: una historia que atraviesa toda la guía (historia de la
+% humanidad, o literatura: Harry Potter, Las crónicas de Narnia, El señor
+% de los anillos...). Este ejemplo usa la historia del cálculo.
+%
+% Compilar:  latexmk -pdf guia-periodo-I-derivadas.tex
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% ======================== DATOS DE LA GUÍA ============================
+\tipodocumento{Guía del estudiante}
+\asignatura{Cálculo}
+\titulo{La matemática del cambio: la derivada}
+\grado{11°}
+\periodo{I}
+\hiloconductor{La carrera por el cálculo: de Galileo a la Luna}
+% ======================================================================
+% DBA: matematicas grado 11 · DBA 5 y DBA 8 (dba/matematicas/grados/grado11.tex)
+
+\begin{document}
+
+\encabezado
+
+% ---------------------------------------------------------------------
+% 1. Frase introductoria
+% ---------------------------------------------------------------------
+% verificado: https://portalegalileo.museogalileo.it/egjr.asp?c=36261 — Il Saggiatore (Roma, 1623), pasaje del «grandissimo libro» escrito «in lingua matematica»
+\frase{La filosofía está escrita en ese grandísimo libro que tenemos
+abierto ante los ojos, quiero decir, el universo, pero no se puede
+entender si antes no se aprende a entender la lengua [\ldots] en que está
+escrito. Está escrito en lengua matemática.}
+{Galileo Galilei, \emph{El ensayador} (1623)}
+
+% ---------------------------------------------------------------------
+% 2. Introducción
+% ---------------------------------------------------------------------
+\seccion{Introducción}
+
+Todo cambia: la posición de un dron, la temperatura de una taza de café,
+el precio de un producto, la población de una ciudad. En este periodo
+aprenderemos la herramienta que la humanidad inventó para \emph{medir el
+cambio en un instante}: la \textbf{derivada}.
+
+Nuestro hilo conductor es una historia real. A finales del siglo XVII, dos
+hombres que nunca trabajaron juntos ---Isaac Newton en Inglaterra y
+Gottfried Leibniz en Alemania--- inventaron el cálculo casi al mismo
+tiempo, y terminaron enfrentados en una de las disputas más famosas de la
+ciencia. Seguiremos a sus herederos: una marquesa francesa que tradujo a
+Newton, una matemática que Einstein admiraba y una mujer que calculó a
+mano la ruta de un astronauta. En cada tema daremos un paso de esa carrera.
+
+\textbf{Al terminar este periodo podrás:}
+\begin{itemize}
+  \item interpretar la derivada como razón de cambio y como pendiente de
+        la recta tangente;
+  \item calcular derivadas de funciones polinómicas con las reglas básicas;
+  \item usar la derivada para describir el movimiento y resolver problemas.
+\end{itemize}
+
+Este trimestre trabaja dos Derechos Básicos de Aprendizaje del Ministerio de
+Educación Nacional~\cite{mendba}:
+
+\begin{dba}[Grado 11 · DBA 5]
+Interpreta la noción de derivada como razón de cambio y como valor de la
+pendiente de la tangente a una curva y desarrolla métodos para hallar las
+derivadas de algunas funciones básicas en contextos matemáticos y no
+matemáticos.
+\end{dba}
+
+\begin{dba}[Grado 11 · DBA 8]
+Encuentra derivadas de funciones, reconoce sus propiedades y las utiliza
+para resolver problemas.
+\end{dba}
+
+% ---------------------------------------------------------------------
+% 3. Marco teórico (las citas van aquí, con su referencia)
+% ---------------------------------------------------------------------
+\seccion{Marco teórico}
+
+\subsubsection*{Un problema antiguo: medir lo que cambia}
+
+Desde la Antigüedad se sabía calcular una velocidad \emph{promedio}:
+distancia recorrida dividida entre el tiempo empleado. Lo difícil era la
+velocidad \emph{en un instante}, cuando el tiempo transcurrido es cero.
+Galileo estudió la caída de los cuerpos con experimentos de planos
+inclinados y mostró que la naturaleza podía describirse con
+matemáticas~\cite{galileo1623}. Newton, que nació el año en que murió
+Galileo, reconoció la deuda con quienes lo precedieron:
+
+% verificado: https://digitallibrary.hsp.org/index.php/detail/objects/9792 — original: «If I have seen further it is by standing on ye sholders of Giants»
+\begin{cita}{Isaac Newton, carta a Robert Hooke (5 feb. 1675/76)~\cite{newton1676}}
+Si he visto más lejos es porque estoy de pie sobre hombros de gigantes.
+\end{cita}
+
+\subsubsection*{Newton, Leibniz y dos notaciones}
+
+Newton llamó a su método \emph{fluxiones} y escribía $\dot{y}$ para la
+rapidez de cambio. Leibniz escribió $\dv{y}{x}$, pensando en un cociente
+de cambios muy pequeños. Hoy usamos las dos, y también la notación $f'(x)$
+de Lagrange. La obra principal de Newton, los \emph{Principia} (1687),
+llegó a buena parte de Europa gracias a \textbf{Émilie du Châtelet}, que la
+tradujo al francés y le añadió un comentario propio~\cite{chatelet1759}.
+
+\subsubsection*{La derivada como lenguaje de la ciencia y la tecnología}
+
+En 1843, \textbf{Ada Lovelace} describió cómo una máquina podría seguir
+instrucciones para calcular, casi un siglo antes de las computadoras:
+
+% verificado: https://psychclassics.yorku.ca/Lovelace/lovelace.htm — Nota A: «the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves»
+\begin{cita}{Ada Lovelace, \emph{Notas} a la memoria de Menabrea (1843), Nota A~\cite{lovelace1843}}
+La Máquina Analítica teje patrones algebraicos, así como el telar de
+Jacquard teje flores y hojas.
+\end{cita}
+
+En el siglo XX, \textbf{Emmy Noether} demostró que cada simetría de las
+leyes de la física corresponde a una cantidad que se conserva, un
+resultado construido con derivadas. Al morir ella, Albert Einstein
+escribió:
+
+% verificado: https://mathshistory.st-andrews.ac.uk/Obituaries/Noether_Emmy_Einstein/ — «Pure mathematics is, in its way, the poetry of logical ideas»
+\begin{cita}{Albert Einstein, carta a \emph{The New York Times} (1935)~\cite{einstein1935}}
+La matemática pura es, a su manera, la poesía de las ideas lógicas.
+\end{cita}
+
+Y en 1962, \textbf{Katherine Johnson} verificó a mano, en la NASA, los
+cálculos de la trayectoria orbital de John Glenn: posiciones, velocidades
+y sus razones de cambio~\cite{shetterly2016}. La formalización moderna del
+concepto que usaremos se encuentra en cualquier texto de cálculo
+universitario~\cite{stewart2018}.
+
+% ---------------------------------------------------------------------
+% 4. Temas
+% ---------------------------------------------------------------------
+\tema{La pendiente: medir el cambio}\label{tema:pendiente}
+
+\begin{hilo}
+Galileo deja caer esferas por un plano inclinado y mide cuánto recorren
+en cada intervalo de tiempo. Descubre algo sorprendente: la distancia no
+crece de manera uniforme, sino que se acelera. ¿Cómo medir qué tan
+rápido va la esfera?
+\end{hilo}
+
+La \textbf{razón de cambio promedio} de una función $f$ entre $x=a$ y
+$x=b$ es la pendiente de la recta que une los dos puntos (recta secante):
+\[
+  m = \frac{\Delta y}{\Delta x} = \frac{f(b)-f(a)}{b-a}.
+\]
+Si $f(t)$ es una posición y $t$ el tiempo, esa pendiente es la
+\emph{velocidad media}.
+
+\begin{ejemplo}[Velocidad media]
+Un objeto en caída libre recorre aproximadamente $d(t)=5t^2$ metros en
+$t$ segundos. Entre $t=1$ y $t=3$:
+\[
+  v_{\text{media}} = \frac{d(3)-d(1)}{3-1} = \frac{45-5}{2} = \qty{20}{m/s}.
+\]
+\end{ejemplo}
+
+\begin{aplicacion}[Ingeniería civil]
+La pendiente de una rampa, una carretera o un tejado es una razón de
+cambio: cuántos metros sube por cada metro que avanza. Los ingenieros la
+calculan para que una silla de ruedas pueda subir una rampa o para que el
+agua lluvia corra por un techo.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Calcula la velocidad media del objeto anterior entre $t=2$ y
+$t=4$. ¿Es mayor o menor que entre $t=1$ y $t=3$? ¿Por qué?
+\espacio{2.5cm}
+\pregunta Una rampa sube \qty{0,6}{m} en una distancia horizontal de
+\qty{7,5}{m}. Calcula su pendiente y exprésala en porcentaje.
+\espacio{2.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item La razón de cambio promedio es $\dfrac{\Delta y}{\Delta x}$: la
+        pendiente de la recta secante.
+  \item Si la función es una posición, esa razón es la velocidad media.
+  \item Una razón de cambio siempre tiene unidades: \unit{m/s}, \unit{\degreeCelsius\per\minute}, \ldots
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Del límite a la recta tangente}\label{tema:tangente}
+
+\begin{hilo}
+Newton, encerrado en su casa durante la peste de 1665, se hace la
+pregunta clave: ¿qué pasa con la velocidad media cuando el intervalo de
+tiempo se hace cada vez más pequeño, casi cero?
+\end{hilo}
+
+Si acercamos el punto $b$ al punto $a$, la recta secante se convierte en
+la \textbf{recta tangente}. Escribiendo $b=a+h$:
+\[
+  f'(a) = \lim_{h\to 0} \frac{f(a+h)-f(a)}{h}.
+\]
+Este número es la \textbf{derivada} de $f$ en $a$: la pendiente de la
+tangente y la razón de cambio \emph{instantánea}.
+
+\begin{ejemplo}[Tangente a $f(x)=x^2$ en $x=1$]
+\[
+  f'(1) = \lim_{h\to0}\frac{(1+h)^2-1}{h}
+        = \lim_{h\to0}\frac{2h+h^2}{h}
+        = \lim_{h\to0}(2+h) = 2.
+\]
+La recta tangente en $(1,1)$ es $y = 2x-1$.
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=-0.5, xmax=2.6, ymin=-1.2, ymax=5,
+             xtick={1,2}, ytick={1,4},
+             width=0.5\linewidth, height=0.42\linewidth,
+             legend pos=outer north east,
+             legend style={draw=none, font=\footnotesize}]
+  \addplot+[domain=-0.3:2.2] {x^2};
+  \addplot+[domain=0:2.5] {3*x-2};
+  \addplot+[domain=0:2.5] {2*x-1};
+  \addplot[only marks, mark=*, mark size=1.8pt] coordinates {(1,1) (2,4)};
+  \legend{$y=x^2$, secante, tangente}
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+\begin{aplicacion}[Tecnología del celular]
+El GPS de un celular no mide la velocidad directamente: registra tu
+posición en intervalos muy cortos y calcula el cociente
+$\Delta\text{posición}/\Delta t$. Mientras más corto el intervalo, más se
+acerca a la velocidad instantánea: exactamente la idea del límite.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Usa la definición con límite para hallar $f'(2)$ si $f(x)=x^2$.
+Escribe la ecuación de la recta tangente en $(2,4)$.
+\espacio{3cm}
+\pregunta Completa la tabla para $f(x)=x^2$, $a=1$, y explica hacia qué
+número se acerca el cociente:
+\begin{center}
+\begin{tabular}{c|cccc}
+  $h$ & $0{,}1$ & $0{,}01$ & $0{,}001$ & $0{,}0001$\\\hline
+  $\dfrac{f(1+h)-f(1)}{h}$ & & & & \\[2ex]
+\end{tabular}
+\end{center}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item La derivada es el límite de las razones de cambio promedio:
+        $f'(a) = \lim\limits_{h\to 0} \frac{f(a+h)-f(a)}{h}$.
+  \item Geométricamente, $f'(a)$ es la pendiente de la recta tangente en
+        $(a, f(a))$.
+  \item Físicamente, si $f$ es una posición, $f'(a)$ es la velocidad instantánea.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{La derivada y sus reglas}\label{tema:reglas}
+
+\begin{hilo}
+Calcular límites para cada función es lento. Leibniz busca atajos: reglas
+que den la derivada directamente. Tres siglos después, Katherine Johnson
+usará esas mismas reglas para calcular, a mano, el regreso de un
+astronauta a la Tierra.
+\end{hilo}
+
+\begin{teorema}[Reglas básicas de derivación]
+Para constantes $c$ y $n$:
+\[
+  \dv{}{x}\,c = 0, \qquad
+  \dv{}{x}\,x^n = n\,x^{n-1}, \qquad
+  \dv{}{x}\bigl[c\,f(x)\bigr] = c\,f'(x), \qquad
+  \dv{}{x}\bigl[f(x)\pm g(x)\bigr] = f'(x)\pm g'(x).
+\]
+\end{teorema}
+
+\begin{ejemplo}[Un brazo robótico]
+La posición (en \unit{cm}) de la pinza de un brazo robótico es
+$s(t) = t^3 - 6t^2 + 9t$, con $t$ en segundos. Su velocidad es
+\[
+  v(t) = s'(t) = 3t^2 - 12t + 9 = 3(t-1)(t-3),
+\]
+así que la pinza se detiene ($v=0$) en $t=\qty{1}{s}$ y en $t=\qty{3}{s}$:
+son los momentos en que cambia de dirección.
+\end{ejemplo}
+
+\begin{aplicacion}[Robótica]
+Los robots corrigen su movimiento con un controlador que mira el error
+(cuánto les falta para llegar), cuánto error han acumulado y la
+\emph{derivada del error}: qué tan rápido se están acercando. Sin la
+derivada, el robot frenaría tarde y se pasaría del objetivo.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Deriva:
+\begin{opciones*}(3)
+  \item $f(x)=4x^5-3x^2+x-8$
+  \item $g(t)=\dfrac{t^4}{2}-7t$
+  \item $h(x)=\sqrt{x}$
+\end{opciones*}
+\espacio{3cm}
+\pregunta Con la función $s(t)$ del brazo robótico, calcula la velocidad
+en $t=\qty{2}{s}$. ¿Qué significa que sea negativa?
+\espacio{3cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Regla de la potencia: $(x^n)' = n\,x^{n-1}$.
+  \item La derivada de una suma es la suma de las derivadas; las
+        constantes multiplicativas se conservan y las constantes solas se anulan.
+  \item Donde $v(t)=s'(t)=0$, el objeto se detiene y puede cambiar de dirección.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+% 5. Cierre del hilo conductor
+% ---------------------------------------------------------------------
+\seccion{Cierre: de los hombros de gigantes a la Luna}
+
+Newton y Leibniz discutieron durante años sobre quién había inventado
+primero el cálculo. Hoy sabemos que ambos llegaron a él de forma
+independiente, y que su invento fue más grande que su pelea: gracias a
+du Châtelet se difundió, gracias a Noether se convirtió en lenguaje de la
+física, y gracias a Katherine Johnson un ser humano pudo volver a salvo
+del espacio. Ahora tú también estás sobre esos hombros.
+
+% ---------------------------------------------------------------------
+% 6. Evaluación (secciones institucionales)
+% ---------------------------------------------------------------------
+\matrizevaluacion
+  {Interpreta la derivada como razón de cambio y como pendiente de la tangente.}
+  {Calcula derivadas de polinomios y las usa para analizar el movimiento.}
+  {Participa con curiosidad en la reconstrucción histórica del cálculo.}
+  {Reconoce el aporte de mujeres y hombres de distintas épocas a la ciencia.}
+
+\autoevaluacion
+
+\seguimientodocente
+
+% ---------------------------------------------------------------------
+% 7. Referencias (toda cita del documento debe estar aquí)
+% ---------------------------------------------------------------------
+\begin{referencias}
+% verificado: https://www.e-rara.ch/doi/10.3931/e-rara-14635 — pie de imprenta: Desaint & Saillant; Lambert, 2 vols., 1756–1759
+\bibitem{chatelet1759} Du Châtelet, É. (1759). \emph{Principes mathématiques
+  de la philosophie naturelle} (2 vols., 1756--1759). París: Desaint \& Saillant; Lambert.
+% verificado: https://www.mathwomen.agnesscott.org/women/EinsteinNYTLetter.pdf — NYT, 4 may. 1935 (carta fechada el 1 de mayo)
+\bibitem{einstein1935} Einstein, A. (1935, 4 de mayo). The late Emmy
+  Noether [Carta al editor]. \emph{The New York Times}.
+% verificado: https://portalegalileo.museogalileo.it/egjr.asp?c=36261 — Roma: Giacomo Mascardi, 1623
+\bibitem{galileo1623} Galilei, G. (1623). \emph{Il Saggiatore}. Roma:
+  Giacomo Mascardi.
+% verificado: https://www.scss.tcd.ie/Brian.Coghlan/repository/J_Byrne/A_Lovelace/J_Fuegi_&_J_Francis_2003.pdf — Scientific Memoirs 3 (1843), pp. 666–731: traducción de Menabrea con las notas de Lovelace
+\bibitem{lovelace1843} Lovelace, A. A. (1843). Sketch of the Analytical Engine
+  invented by Charles Babbage, by L. F. Menabrea, with notes by the translator.
+  \emph{Scientific Memoirs}, 3, 666--731.
+% verificado: https://gblumen.mineducacion.gov.co/cgi-bin/koha/opac-detail.pl?biblionumber=4785 — MEN 2016, ISBN 978-958-691-925-8
+\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos
+  Básicos de Aprendizaje V.2: Matemáticas}. Bogotá: MEN.
+% verificado: https://digitallibrary.hsp.org/index.php/detail/objects/9792 — original en la Historical Society of Pennsylvania, colección Simon Gratz
+\bibitem{newton1676} Newton, I. (1675/76, 5 de febrero, calendario juliano). Carta a
+  Robert Hooke. Historical Society of Pennsylvania, colección Simon Gratz.
+% verificado: https://cmc.marmot.org/Record/.b62339163 — William Morrow, 2016
+\bibitem{shetterly2016} Shetterly, M. L. (2016). \emph{Hidden Figures}.
+  Nueva York: William Morrow.
+% verificado: https://www.cengage.com/c/ebook-c%C3%A1lculo-de-una-variable-trascendentes-tempranas-8e-stewart/9780357087244/ — Cengage, 8.ª ed.
+\bibitem{stewart2018} Stewart, J. (2018). \emph{Cálculo de una variable:
+  trascendentes tempranas} (8.ª ed.). México: Cengage Learning.
+\end{referencias}
+
+\end{document}

@@ -1,0 +1,3594 @@
+MATEMÁTICAS
+
+Guía de Apoyo Educativo en el área de las matemáticas.
+
+Conceptos de la geometría plana y la representación y caracterización de ángulos y figuras geométricas.
+
+Autor:
+
+Adriana Quintero Palomino
+
+Imagen 1: Punto. 30
+
+Imagen 2: Línea. 31
+
+Imagen 3: Recta 32
+
+Imagen 4: Puntos sobre la recta. 32
+
+Imagen 5: Rectas Paralelas. 33
+
+Imagen 6: Rectas Intersecantes. 34
+
+Imagen 7: Rayo. 35
+
+Imagen 8: Segmento. 36
+
+Imagen 9: Punto Medio 36
+
+Imagen 10: Plano. 37
+
+Imagen 11: Regla. 38
+
+Imagen 12: Compás. 39
+
+Imagen 13: Ángulo. 41
+
+Imagen 14: Ángulo de 30 grados orientado a derecha. 42
+
+Imagen 15: Ángulo de 30 grados orientado a izquierda. 42
+
+Imagen 16: Ángulo Recto. 43
+
+Imagen 17: Ángulo Agudo. 44
+
+Imagen 18: Ángulo Llano. 45
+
+Imagen 19: Ángulo Perigonal. 45
+
+Imagen 20: Ángulo Obtuso. 46
+
+Imagen 21: Ángulo Entrante. 47
+
+Imagen 22: Orientación en la medida de ángulos. 48
+
+Imagen 23: Transportador. 50
+
+Imagen 24: Ángulo sobre transportador. 50
+
+Imagen 25: Ángulos Adyacentes. 51
+
+Imagen 26: Ángulos Opuestos por el vértice. 52
+
+Imagen 27: Ángulos Opuestos por el vértice. 53
+
+Imagen 28: Ángulos Complementarios. 54
+
+Imagen 29: Ángulos Suplementarios. 55
+
+Imagen 30: Ángulos Adyacentes. 56
+
+Imagen 31: Ángulos Adyacentes y Suplementarios. 56
+
+Imagen 32: Ángulo Conjugado. 58
+
+Imagen 33: Rectas perpendiculares. 59
+
+Imagen 34: Punto Externo a una recta. 60
+
+Imagen 35: Semicirculo que corta la recta. 61
+
+Imagen 36: Punto desde los radios. 61
+
+Imagen 37: Recta que une P y Q. 62
+
+Imagen 38: Recta L1. 63
+
+Imagen 39: Cortes de Circunferencia. 63
+
+Imagen 40: Punto Superior de corte. 64
+
+Imagen 41: Recta perpendicular. 64
+
+Imagen 42: Rectas Paralelas y Perpendicular. 65
+
+Imagen 43: Rectas Paralelas. 66
+
+Imagen 44: Punto externo a recta. 67
+
+Imagen 45: Recta Perpendicular. 67
+
+Imagen 46: Recta paralela a L1. 68
+
+Imagen 47: Rectas Intersecantes. 69
+
+Imagen 48: Bisectriz. 69
+
+Imagen 49: Ángulo Agudo. 70
+
+Imagen 50: Cortes sobre lados del ángulo. 70
+
+Imagen 51: Corte externo al ángulo. 71
+
+Imagen 52: Bisectriz. 71
+
+Imagen 53: Dsitancia de Bisectriz a lados. 72
+
+Imagen 54: Ejercicio a. 74
+
+Imagen 55: Ejercicio b. 74
+
+Imagen 56: Ejercicio C. 74
+
+Imagen 57: Ejercicio D. 75
+
+Imagen 58: Ejercicio E. 75
+
+Imagen 59: Recta Secante a Paralelas. 76
+
+Imagen 60: Ángulo generado por secante en paralelas. 77
+
+Imagen 61: Ángulos entre paralelas. 81
+
+Imagen 62: Ángulos entre paralelos. 84
+
+Imagen 63: Ángulos Internos entre Paralelas 86
+
+Imagen 64: Ángulo alfa. 87
+
+Imagen 65: Traslación de Ángulo. 88
+
+Imagen 66: Ángulo y su suplementario. 88
+
+Imagen 67: Partes de un Triángulo. 91
+
+Imagen 68: Altura de un Triángulo. 91
+
+Imagen 69: Altura de un Obtusángulo. 92
+
+Imagen 70: Triángulo Escaleno. 93
+
+Imagen 71: Triángulo Isoceles. 93
+
+Imagen 72: Triángulo Equilatero. 94
+
+Imagen 73: Triángulo Acutangulo. 95
+
+Imagen 74: Triángulo Rectángulo. 95
+
+Imagen 75: Triángulo Obtusángulo. 96
+
+Imagen 76: Ángulo Externo. 97
+
+Imagen 77: Paralela a la base. 98
+
+Imagen 78: Triangulo rectángulo. 100
+
+Imagen 79: Prolongación de lados. 101
+
+Imagen 80: Bisectriz de un ángulo. 103
+
+Imagen 81: Dos Bisectrices de un triángulo. 104
+
+Imagen 82: Mediatriz. 106
+
+Imagen 83: Cortes Externos. 107
+
+Imagen 84: Mediatriz. 107
+
+Imagen 85: Triángulo y sus mediatrices. 109
+
+Imagen 86: Equidistancia del punto medio de la hipotenusa 110
+
+Imagen 87: Perpendicular a base. 111
+
+Imagen 88: Distancia al vértice opuesto. 112
+
+Imagen 89: Mediana. 114
+
+Imagen 90: Barcientro. 114
+
+Imagen 91: Una mediana deltriángulo. 115
+
+Imagen 92: Paralelas a la base. 116
+
+Imagen 93: Más paralelas a la base 117
+
+Imagen 94: Paralelas al lado BC 117
+
+Imagen 95: Dos medianas de un triángulo. 118
+
+Imagen 96: Medianas de un triángulo. 119
+
+Imagen 97: Triángulo con sus alturas. 120
+
+Imagen 98: Triángulo Inscrito en triángulo. 120
+
+Imagen 99: Bisectrices de ángulos adyacentes. 122
+
+Imagen 100: Triángulo Equilatero. 123
+
+Imagen 101: Ángulo entre altura a bisectriz. 125
+
+Imagen 102: Segmentos Congruentes. 126
+
+Imagen 103: Ángulos Semejantes 127
+
+Imagen 104: Triángulos Congruentes. 127
+
+Imagen 105: Triángulos Semejantes. 130
+
+Imagen 106: Triángulos Semejantes. 132
+
+Imagen 107: Triángulos con lados porporcionales. 132
+
+Imagen 108: Triángulos de Cortes de rectas. 134
+
+Imagen 109: Triángulo Rectángulo. 139
+
+Imagen 110: Demostración Gráfica. 140
+
+Imagen 111: Triángulo Ejemplo 1. 142
+
+Imagen 112: Triángulo Ejemplo 2. 144
+
+Imagen 113: Raíz Cuadrada de 2. 147
+
+Imagen 114: Raíz Cuadrada de 3. 148
+
+Imagen 115: Raíz cuadrada de 5. 149
+
+Imagen 116: Rectángulo y diagonal de este. 150
+
+Imagen 117: Gráfico y representación en triángulo. 152
+
+Imagen 118: Polígono A 159
+
+Imagen 119: Polígono B. 159
+
+Imagen 120: Sección Circular. 159
+
+Imagen 121: Estrella. 160
+
+Imagen 122: Giro de Figura. 160
+
+Imagen 123: Poligono Equlatero. 162
+
+Imagen 124: Poligono Equiángulo. 162
+
+Imagen 125: Poligono Regular 162
+
+Imagen 126: Partes de un Polígono. 164
+
+Imagen 127: Diagonales. 165
+
+Imagen 128: Triángulo. 167
+
+Imagen 129: Cuadrado 167
+
+Imagen 130: Pentagono. 168
+
+Imagen 131: Hexágono. 168
+
+Imagen 132: Advertencia. 169
+
+Imagen 133: Curvas. 170
+
+Imagen 134: Flecha. 171
+
+Imagen 135: Cuadrilatero. 172
+
+Imagen 136: Marco. 173
+
+Imagen 137: Rectángulo sin casquete circular. 174
+
+Imagen 138: Daigonales de un pol+igono. 175
+
+Imagen 139: Trinagulos Internos. 178
+
+Imagen 140: Ángulo Externo. 180
+
+Imagen 141: Ángulo Externo. 182
+
+Imagen 142: Diagonales de un polígono. 187
+
+Imagen 143: Cuadrilatero. 188
+
+Imagen 144: Cuadrilatero en cuadrícula. 188
+
+Imagen 145: Figura de 5 lados. 190
+
+Imagen 146: Diagonales del pentágono. 191
+
+Imagen 147: Terreno. 192
+
+Imagen 148: Triángulación del terreno. 193
+
+Imagen 149: Complemento al terreno. 195
+
+Imagen 150: Terreno. 197
+
+Imagen 151: Circunferencia y su radio. 200
+
+Imagen 152: Rectas de la Circunferencia. 202
+
+Imagen 153: Círculo. 204
+
+Imagen 154: Decágono. 205
+
+Imagen 155:Icoságono. 206
+
+Imagen 156: Pentacontágono 206
+
+Imagen 157: Triángulo rectángulo sobre circunferencia. 209
+
+Imagen 158: Cuadrilatero con círculo inscrito. 212
+
+Imagen 159: Ángulo central a una Circunferencia. 214
+
+Imagen 160: Ángulo Inscrito. 215
+
+# TEMA 1: ÁNGULOS
+
+## DEFINICIÓN Y CLASIFICACIÓN DE ÁNGULOS
+
+La palabra “geometría” viene de las palabras griegas “geo” que significa tierra y la palabra “metría” que significa medición. Podemos traducir esta palabra como: “medición de la tierra”.
+
+La geometría es la rama de las matemáticas que estudia las mediciones a través del estudio de las propiedades y relaciones de los puntos, líneas, ángulos, superficies y los sólidos.
+
+La geometría descansa sobre varios conceptos básicos como el punto y la recta. Entre estos conceptos está el de ángulo, que se introduce en esta sección.
+
+- PUNTO:
+
+Objeto geométrico que sirve para indicar una ubicación. Un punto tiene dimensiones largo, ancho y alto igual a cero unidades.
+
+Generalmente denotaremos a un punto con una letra mayúscula:
+
+Imagen 1: Punto.
+
+Descripción Imagen: El punto es un circulo relleno, está etiquetado con la letra A.
+
+- LÍNEA:
+
+Objeto geométrico que tiene solamente longitud diferente de cero y que se genera al mover un punto.
+
+Imagen 2: Línea.
+
+Descripción Imagen: Dos puntos A y B unidos por un trazo semicircular.
+
+Observa que en geometría, cuando decimos «línea», no nos referimos necesariamente a una línea recta.
+
+- RECTA:
+
+Línea que se extiende en ambos sentidos sin cambiar de dirección:
+
+Imagen 3: Recta
+
+Descripción Imagen: Segmento de recta, con puntas en flecha, ambas con direcciones opuestas. Está etiquetada con la letra l.
+
+La recta se denota por L.
+
+Otra forma de denotar a una recta que pase por los puntos A y B es:
+
+```latex
+\overleftrightarrow{AB}
+```
+<!-- alt: AB con flecha de dos puntas encima. -->
+
+Imagen 4: Puntos sobre la recta.
+
+Descripción Imagen: Segmento de recta, con puntas en flecha, ambas con direcciones opuestas. Sobre esta se encuentran marcados los puntos A y B.
+
+En el plano dos rectas pueden cortarse (compartir uno de sus puntos) o pueden no cortarse (no compartir algún punto).
+
+No es posible que dos rectas compartan dos puntos, pues de ser así, ambas rectas serían la misma. Recuerda, por dos puntos pasa solamente una recta.
+
+Cuando no se cortan se llaman rectas paralelas.
+
+## RECTAS PARALELAS
+
+Dos rectas A1 y A2 que se encuentran en un mismo plano son paralelas si no se cortan por más que se prolonguen.
+
+En la siguiente imagen, las rectas A1 y A2 son paralelas. Esto se denota como: $\left. A_{1} \right|\left| A_{2} \right.$ <!-- alt: A sub 1 2 líneas verticales a sub 2 -->
+
+Imagen 5: Rectas Paralelas.
+
+Descripción Imagen: Segmento de recta, etiquetado con A sub 1, bajo esta otro segmento de recta con la misma inclinación, nunca se cortan, la segunda está etiquetada con A sub 2.
+
+Euclides propuso el siguiente postulado para las paralelas
+
+### Postulado De Las Paralelas
+
+Por un punto cualquiera puede trazarse una paralela a una recta dada, y solamente una.
+
+Cuando dos rectas se cortan comparten solamente uno de sus puntos.
+
+- PUNTO DE INTERSECCIÓN:
+
+Punto que pertenece a dos objetos geométricos a la vez.
+
+En la siguiente figura, el punto P pertenece a las rectas A1 y A2:
+
+Imagen 6: Rectas Intersecantes.
+
+Descripción Imagen: Segmento de recta, etiquetado con A sub 1, esta se encuentra intersecada (cortada en un punto) por otro segmento de recta, la segunda está etiquetada con A sub 2. El punto de corte está marcado con la letra P.
+
+El punto P es el punto de intersección de las rectas A1 y A2.
+
+- RAYO:
+
+Una parte de una recta que tiene un punto inicial y no tiene punto final.
+
+Imagen 7: Rayo.
+
+Descripción Imagen: Segmento de recta, el cual inicia en el punto etiquetado con A, termina en punta de flecha, sobre este se encuentra un punto etiquetado con la letra B.
+
+Y se denota por:
+
+```latex
+\overrightarrow{AB}
+```
+
+Para denotar al rayo siempre indicamos primero el punto inicial y después otro punto cualquiera por el cual también pase.
+
+- SEGMENTO
+
+Parte de una recta delimitada por dos puntos. Estos puntos son los extremos del segmento.
+
+Imagen 8: Segmento.
+
+Descripción Imagen: Segmento de recta, sobre esta, dos puntos A y B, el segmento entre estos están remarcado, lo sobrante entre el segmento y las puntas de flecha está punteado.
+
+El segmento con extremos en los puntos A y B se denota por:
+
+```latex
+\overline{AB}
+```
+
+- PUNTO MEDIO
+
+Es el punto que divide un segmento en dos segmentos de la misma medida.
+
+La siguiente imagen muestra un segmento $\overline{AB}$ con su punto medio M:
+
+Imagen 9: Punto Medio
+
+Descripción Imagen: Segmento de recta, sobre esta, dos puntos A y B, el segmento entre estos está remarcado, lo sobrante entre el segmento y las puntas de flecha está punteado, entre los puntos A y B se encuentra el punto M, exactamente en la mitad de estos dos.
+
+- SUPERFICIE
+
+Objeto geométrico que tiene longitud y ancho diferentes de cero.
+
+Una bandera ondeando es un buen ejemplo de superficie, si suponemos que el grosor de la tela es cero.
+
+- PLANO
+
+Superficie tal que al tomar cualesquiera dos de sus puntos, la línea recta que los conecta está completamente en esa superficie.
+
+La siguiente imagen muestra un plano:
+
+Imagen 10: Plano.
+
+Descripción Imagen: Paralelepípedo, relleno de color, etiquetado con la letra p.
+
+El símbolo $\pi$ denota al plano mostrado.
+
+- GEOMETRÍA PLANA
+
+Rama de la Geometría que estudia las propiedades de los objetos geométricos en el plano.
+
+Para realizar trazos en geometría utilizaremos una regla y un compás.
+
+- REGLA
+
+Instrumento que se utiliza para hacer mediciones y para trazar rectas en el plano.
+
+La siguiente figura muestra una regla:
+
+Imagen 11: Regla.
+
+Descripción Imagen: Imagen de una regla, esta es una tira con medidas en centímetros.
+
+En geometría plana solamente nos interesa dibujar rectas. No utilizaremos la regla para hacer mediciones.
+
+- COMPÁS
+
+Instrumento que se utiliza en geometría para comparar longitudes y trazar arcos y círculos.
+
+El compás está compuesto de dos brazos. En uno de ellos está una punta de lápiz para dibujar los trazos y en el otro está una punta (generalmente metálica) que sirve de apoyo sobre el papel en el cual se trazará el dibujo.
+
+La siguiente figura muestra un compás:
+
+Imagen 12: Compás.
+
+Descripción Imagen: Imagen de un compás, la herramienta utilizada para el trazo de circunferencias.
+
+## ÁNGULOS EN EL PLANO
+
+Con las definiciones dadas en la sección anterior podemos iniciar el estudio de la geometría plana.
+
+Los objetos más elementales que sirven para estudiar las propiedades de otros objetos geométricos son los que se han definido hasta aquí.
+
+El siguiente objeto en orden de complejidad es el ángulo plano, que se define en la siguiente sección.
+
+- ÁNGULO
+
+Un ángulo plano está formado por dos rayos que tienen un mismo punto inicial. El vértice del ángulo es el punto inicial común a los dos rayos.
+
+Imagen 13: Ángulo.
+
+Descripción Imagen: Dos segmentos de recta que se encuentran en su punto de origen, este está etiquetado con la letra A, el espacio que se genera en la separación de estos está un poco sombreado, las puntas de los segmentos están etiquetados con la letras B y C.
+
+```latex
+\angle BAC
+```
+
+Un ángulo puede denotarse por el símbolo $\angle$ , seguido de tres letras mayúsculas o por una letra griega, por ejemplo, $\alpha$ .
+
+La medida del ángulo da una idea de la abertura entre sus lados.
+
+Cuando dos ángulos se pueden superponer haciendo coincidir el sus vértices y sus lados, decimos que los dos ángulos son iguales.
+
+- IGUALDAD DE ÁNGULOS
+
+Dos ángulos son iguales si tienen la misma medida.
+
+Los siguientes ángulos tienen la misma medida:
+
+Imagen 14: Ángulo de 30 grados orientado a derecha.
+
+Descripción Imagen: Representación gráfica de un ángulo de 30º orientado a la derecha, generado por los segmentos de recta C y D.
+
+Imagen 15: Ángulo de 30 grados orientado a izquierda.
+
+Descripción Imagen: Representación gráfica de un ángulo de 30º orientado a la izquierda, generado por los segmentos de recta A y B.
+
+Es decir, si la abertura entre los lados de cada ángulo es igual, los ángulos tienen la misma medida.
+
+Para facilitar el uso del estudio de la geometría plana se han clasificado los ángulos de acuerdo a su medida.
+
+## CLASIFICACIÓN
+
+Cuando dos rectas se cortan forman 4 ángulos. Cuando los 4 ángulos son iguales, tenemos cuatro ángulos rectos.
+
+- ÁNGULO RECTO:
+
+Ángulo que se forma cuando dos rectas se cortan formando cuatro ángulos de la misma medida.
+
+El siguiente ángulo es recto:
+
+Imagen 16: Ángulo Recto.
+
+Descripción Imagen: Representación gráfica de un ángulo de 90º, el cual se genera por dos segmentos perpendiculares el cual forma un ángulo recto. Generado por los segmentos de recta A y B.
+
+- ÁNGULO AGUDO
+
+Ángulo cuya medida es menor a la de un ángulo recto.
+
+El ángulo α mostrado en la siguiente figura es agudo:
+
+Imagen 17: Ángulo Agudo.
+
+Descripción Imagen: Representación gráfica de un ángulo de medida menor a 90º orientado a la derecha.
+
+- ÁNGULO LLANO
+
+Ángulo cuya medida es igual a la de dos ángulos rectos.
+
+El ángulo α mostrado en la siguiente figura es llano:
+
+Imagen 18: Ángulo Llano.
+
+Descripción Imagen: Representación gráfica de un ángulo de 180º, el cual es el formado sobre un segmento de recta, totalmente abierto.
+
+- ÁNGULO PERIGONAL
+
+Ángulo que mide lo mismo que cuatro ángulos rectos.
+
+En la siguiente figura el ángulo α es perigonal.
+
+Imagen 19: Ángulo Perigonal.
+
+Descripción Imagen: Representación gráfica de un ángulo de 360º, el cual va de 0 hasta 360º.
+
+- ÁNGULO OBTUSO
+
+Ángulo cuya medida es mayor a la de un ángulo recto pero menor a la de un ángulo llano.
+
+El ángulo α mostrado en la siguiente figura es obtuso:
+
+Imagen 20: Ángulo Obtuso.
+
+Descripción Imagen: Representación gráfica de un ángulo de medida mayor a 90º.
+
+- ÁNGULO ENTRANTE
+
+Ángulo que mide más que un ángulo llano, pero menos que un ángulo perigonal.
+
+En la siguiente figura, el ángulo α es entrante:
+
+Imagen 21: Ángulo Entrante.
+
+Descripción Imagen: Representación gráfica de un ángulo de mayor a 180º, generado por los segmentos de recta C y B, este es el externo a los dos.
+
+## MEDICIÓN
+
+Ya se mencionó que la medida del ángulo da una idea de la abertura entre sus lados. A mayor abertura entre los lados del ángulo, mayor es su medida.
+
+En geometría, los ángulos se miden siempre en el sentido contrario de giro de las manecillas del reloj.
+
+Imagen 22: Orientación en la medida de ángulos.
+
+Descripción Imagen: Representación gráfica de un ángulo de con una flecha entre este orientado en el sentido contrario de las manecillas del reloj.
+
+Si un ángulo se requiere medir en el mismo sentido en que giran las manecillas del reloj, consideramos su medida negativa.
+
+Las unidades de medida del ángulo que consideraremos por ahora son los grados sexagesimales.
+
+### Grados Sexagesimales
+
+Unidad de medida de ángulo equivalente a un $\frac{1}{360}$ parte de la vuelta completa.
+
+Un grado sexagesimal se denota con el símbolo: º, y generalmente se le llama diciendo sola mente “grado”.
+
+El instrumento que utilizamos para medir ángulos se llama “transportador”.
+
+TRANSPORTADOR
+
+- Instrumento para medir la magnitud de un ángulo.
+
+- La escala que utilizan los transportadores es el grado sexagesimal.
+
+- La siguiente figura muestra un transportador:
+
+Imagen 23: Transportador.
+
+Descripción Imagen: Representación gráfica de un transportador, que es el elemento utilizado para medir ángulos, este es una reglilla circular.
+
+Para medir un ángulo primero ubicamos el centro del transportador en el vértice del ángulo, y el origen (cero) sobre el lado inicial del ángulo, como se muestra en la siguiente figura:
+
+Imagen 24: Ángulo sobre transportador.
+
+Descripción Imagen: Representación gráfica de un transportador, sobre este se encuentra marcado un ángulo de 56º, el cual está antes del punto medio perpendicular a la base de este.
+
+La medida del ángulo γ mostrado en la figura anterior es: γ = 56º.
+
+También frecuentemente encontraremos dos ángulos que comparten el vértice y un lado.
+
+## ÁNGULOS ADYACENTES
+
+Dos ángulos son adyacentes cuando tienen el mismo vértice y comparten un lado común ubicado entre ellos.
+
+En la siguiente figura los dos ángulos son adyacentes:
+
+Imagen 25: Ángulos Adyacentes.
+
+Descripción Imagen: Representación gráfica de un ángulo de 180º sobre este se encuentra una partición de entre dos ángulos alfa y beta.
+
+Los ángulos α y β tienen un mismo punto por vértice y tienen un lado en común que queda entre los otros lados, por eso son adyacentes.
+
+## ÁNGULOS OPUESTOS POR EL VÉRTICE
+
+Dos ángulos son opuestos por el vértice si la prolongación de los lados de uno son los ángulos del otro.
+
+Los siguientes ángulos son opuestos por el vértice:
+
+Imagen 26: Ángulos Opuestos por el vértice.
+
+Descripción Imagen: Dos segmentos de recta que se cortan en un punto, este corte genera cuatro divisiones, dos a dos opuestas, un par de estas está marcadas con las letras alfa y beta.
+
+Teorema 1:
+
+Los ángulos opuestos por el vértice tienen la misma medida
+
+Consideramos la figura:
+
+Imagen 27: Ángulos Opuestos por el vértice.
+
+Descripción Imagen: Dos segmentos de recta que se coartan en un punto, este corte genera cuatro divisiones, dos a dos opuestas, un par de estas opuestas está marcadas con las letras alfa y beta, el otro para está marcado con las letra gama y delta, están también opuestas.
+
+De la figura es evidente que: α + δ = 180◦, y también que: β + δ = 180◦.
+
+Esto nos permite igualar:
+
+α + δ = β + δ
+
+Restando δ de ambos lados de la igualdad obtenemos:
+
+α = β.
+
+En palabras, los ángulos opuestos por el vértice tienen la misma medida.
+
+Otros pares de ángulos que se definen en geometría por su frecuente aparición en la resolución de problemas son los que a continuación se mencionan.
+
+## ÁNGULOS COMPLEMETARIOS
+
+Dos ángulos son complementarios si la suma de sus medidas es igual a la medida de un ángulo recto.
+
+En otras palabras, si la suma de dos ángulos es igual a 90◦, entonces los ángulos son complementarios.
+
+En la siguiente figura, los ángulos α y β son complementarios.
+
+Imagen 28: Ángulos Complementarios.
+
+Descripción Imagen: Representación gráfica de un ángulo de 90 grados, este divido en dos ángulos. Uno con nombre alfa y el otro con nombre beta.
+
+No se requiere que los ángulos sean adyacentes para que sean complementarios. Basta con que la suma de sus medidas sea 90.
+
+Entonces decimos que el ángulo α es el complemento del ángulo β y también que el ángulo β es el complemento del ángulo α.
+
+## ÁNGULOS SUPLEMENTARIOS
+
+Dos ángulos son suplementarios si la suma de sus medidas es igual a la medida de un ángulo llano.
+
+En otras palabras, si la suma de dos ángulos es igual a 180◦, entonces los ángulos son complementarios.
+
+En la siguiente figura, los ángulos α y β son suplementarios.
+
+Imagen 29: Ángulos Suplementarios.
+
+Descripción Imagen: Representación gráfica de un ángulo de 180º, este divido en dos ángulos. Uno con nombre alfa y el otro con nombre beta.
+
+De manera semejante a los ángulos complementarios, no se requiere que los ángulos sean adyacentes para que sean suplementarios. Basta con que la suma de sus medidas sea 180 º.
+
+Entonces decimos que el ángulo α es el suplemento del ángulo β y también que el ángulo β es el suplemento del ángulo α.
+
+Observa que la suma de dos ángulos adyacentes que se forman al cortarse dos rectas es igual a 180 º.
+
+En otras palabras, si la suma de dos ángulos adyacentes es igual a 180º, entonces los lados no comunes están sobre una línea recta.
+
+También podemos decir que si dos ángulos adyacentes son suplementarios, entonces sus lados externos están en la misma línea recta.
+
+Imagen 30: Ángulos Adyacentes.
+
+Descripción Imagen: Representación gráfica de un ángulo de 180 grados, este divido en dos ángulos.
+
+Más aún, si formamos varios ángulos con vértice común y en uno de los lados de una línea recta, la suma de todos ellos es igual a 180º:
+
+Imagen 31: Ángulos Adyacentes y Suplementarios.
+
+Descripción Imagen: Representación gráfica de un ángulo de 180 grados, este divido en 6 ángulos de diferentes medias, los 6 ángulos son adyacentes y suplementarios, su suma es equivalente a 180 grados.
+
+Teorema 2:
+
+Si dos ángulos tienen el mismo suplemento son iguales.
+
+Si los ángulos α y β tienen el mismo suplemento, denotado por ξ, entonces cumplen:
+
+α + ξ = 180◦
+
+Entonces:
+
+α = 180◦ − ξ
+
+β + ξ = 180◦
+
+Entonces:
+
+β = 180◦ − ξ
+
+Como ambos, α y β son iguales a 180º − ξ, deben ser iguales entre sí.
+
+Este mismo método puede utilizarse para demostrar el siguiente:
+
+Teorema 3:
+
+Si dos ángulos tienen el mismo complemento son iguales.
+
+El cual se te queda como ejercicio.
+
+ÁNGULOS CONJUGADOS
+
+Dos ángulos son suplementarios si la suma de sus medidas es igual a la medida de un ángulo perigonal.
+
+En otras palabras, si la suma de dos ángulos es igual a 360◦, entonces los ángulos son conjugados.
+
+Los ángulos α y β mostrados en la siguiente figura son conjugados:
+
+Imagen 32: Ángulo Conjugado.
+
+Descripción Imagen: Representación gráfica de los dos ángulos generados a partir de dos segmentos de recta, cuya suma sea equivalente a 360 grados. La suma de estos ángulos es 360 grados, uno es menor a 180 grados.
+
+Entonces decimos que el ángulo α es el conjugado del ángulo β y también que el ángulo β es el conjugado del ángulo α.
+
+Cuando dos rectas se cortan, pueden formarse cuatro ángulos iguales. Entonces decimos que las rectas son perpendiculares.
+
+## RECTAS PERPENDICULARES
+
+Dos rectas A1 y A2 son perpendiculares si al cortarse forman cuatro ángulos rectos, y esto se denota por A1 ⊥ A2.
+
+En la siguiente figura, las rectas A1 y A2 son perpendiculares:
+
+Imagen 33: Rectas perpendiculares.
+
+Descripción Imagen: Representación gráfica de dos rectas que se cortan formando un ángulo de 90 grados, estas rectas se denominan perpendiculares.
+
+Teorema 4:
+
+Solamente se puede trazar una perpendicular a una recta desde un punto.
+
+Para trazar una perpendicular a una recta desde un punto fuera de ésta podemos usar el siguiente procedimiento.
+
+Ejemplo 1:
+
+Traza una perpendicular a una recta dada desde un punto externo.
+
+Solución:
+
+Empezamos dibujando la recta a la cual se le trazará la perpendicular:
+
+Imagen 34: Punto Externo a una recta.
+
+Descripción Imagen: Representación gráfica de un segmento de recta denominado como L1 y un punto externo a esta denominado con la letra P.
+
+Ahora vamos a trazar una perpendicular que pase por el punto P.
+
+Con este fin, apoyando el compás en el punto P trazamos dos arcos que corten la recta l1 como se muestra enseguida:
+
+Imagen 35: Semicírculo que corta la recta.
+
+Descripción Imagen: Semicírculo generado desde el punto P externo a la recta L1, este corta a la recta en dos puntos, los puntos A y B.
+
+Donde A y B son los puntos de intersección del arco con la recta l1.
+
+Ahora vamos a trazar, con el mismo radio, apoyándonos primero en A y luego en B dos arcos que se corten.
+
+El punto de intersección de los dos arcos lo llamaremos Q, como se muestra enseguida:
+
+Imagen 36: Punto desde los radios.
+
+Descripción Imagen: Punto de encuentro inferior de los circulo generados con compás a partir del punto A y del punto B. Este punto se denota con la letra Q.
+
+Trazamos la recta que pasa por los puntos P y Q.
+
+Denotamos a esta recta por l2.
+
+Imagen 37: Recta que une P y Q.
+
+Descripción Imagen: Segmento de recta que une los puntos P y Q, esta recta es perpendicular a la recta L1.
+
+Se cumple que l1 $\perp$ l2.
+
+Este mismo procedimiento se utiliza para dividir un segmento en dos partes iguales.
+
+Ejemplo 2:
+
+Traza una perpendicular a una recta dada desde uno de sus puntos.
+
+Solución:
+
+Empezamos dibujando la recta l1 y el punto P por el cual pasará la perpendicular a l1:
+
+Imagen 38: Recta L1.
+
+Descripción Imagen: Representación gráfica de una recta denominada como l1 y punto P sobre esta.
+
+Ahora, con ayuda del compás vamos a trazar dos arcos que corten la recta A1 apoyándonos en el punto P, como se muestra enseguida:
+
+Imagen 39: Cortes de Circunferencia.
+
+Descripción Imagen: Representación gráfica de una recta denominada como l1 y punto P sobre esta, el círculo generado desde el punto P, corta la recta en dos puntos, A y B.
+
+Ahora vamos a trazar, con una mayor abertura del compás, dos arcos que se corten, apoyándonos primero en el punto A y luego en B.
+
+Imagen 40: Punto Superior de corte.
+
+Descripción Imagen: Representación gráfica de una recta denominada como l1 y punto P sobre esta, el círculo generado desde el punto P, corta la recta en dos puntos, A y B. Desde el punto A se genera un círculo y desde el punto B otro, en la parte de arriba estos se cortan en un punto Q.
+
+Ahora basta unir los puntos P y Q para obtener la recta l2 perpendicular a l1:
+
+Imagen 41: Recta perpendicular.
+
+Descripción Imagen: Representación gráfica de una recta denominada como l1 y punto P sobre esta, el círculo generado desde el punto P, corta la recta en dos puntos, A y B. Desde el punto A se genera un círculo y desde el punto B otro, en la parte de arriba estos se cortan en un punto Q. Se traza la recta que une los puntos P y Q, esta es perpendicular a l1.
+
+Teorema 5:
+
+Dos rectas l1 y l2 situadas en un mismo plano y perpendicular a una tercera recta l3, son paralelas entre sí.
+
+Si las rectas l1 y l2 no fueran paralelas, se podrían prolongar lo suficiente hasta que se cortaran en un punto de intersección P.
+
+Entonces, sería posible trazar dos perpendiculares a la recta l3 desde el punto P, lo cual es imposible de acuerdo al teorema anterior.
+
+Imagen 42: Rectas Paralelas y Perpendicular.
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas y una perpendicular a estas.
+
+También tenemos el siguiente teorema relacionado con el anterior:
+
+Teorema 6:
+
+Dos rectas l1 y l2 situadas en un mismo plano y paralelas a una tercera recta l3, son paralelas entre sí.
+
+Empezamos suponiendo que l1 y l2 son paralelas a l3. Debemos demostrar que l1 $\left\| \right.$ l2.
+
+Si no lo fueran, entonces deberían cortarse en un punto de intersección P.
+
+Esto significa que debería ser posible trazar dos rectas paralelas a la recta l3 desde el punto P, lo cual es imposible por el postulado de las paralelas.
+
+Entonces, l1 es paralela a l2.
+
+Imagen 43: Rectas Paralelas.
+
+Descripción Imagen: Representación gráfica de 3 rectas paralelas entre sí, estas son L1, L2 L3.
+
+Ahora veremos cómo trazar una recta paralela a otra dada por un punto dado.
+
+Obviamente, el punto dado debe ser externo a la recta dada, pues si el punto está sobre la recta, la paralela será ella misma, pues toda recta es paralela a sí misma.
+
+Ejemplo 3:
+
+Traza una recta paralela a una recta l1 dada por un punto P dado.
+
+Solución:
+
+Empezamos dibujando la situación:
+
+Imagen 44: Punto externo a recta.
+
+Descripción Imagen: Representación gráfica de un segmento de recta denominado como L1 y un punto externo a esta denominado con la letra P.
+
+Ahora trazamos una recta perpendicular a l1 por el punto P:
+
+Imagen 45: Recta Perpendicular.
+
+Descripción Imagen: Representación gráfica de un segmento de recta denominado como L1 y la recta perpendicular a esta que pasa por el punto externo P.
+
+Para terminar trazamos una perpendicular a l2 que pase por el punto P:
+
+Imagen 46: Recta paralela a L1.
+
+Descripción Imagen: Representación gráfica de un segmento de recta denominado como L1 y la recta perpendicular a esta que pasa por el punto externo P, recta perpendicular a l2 que pasa por el punto P, denominada l3.
+
+La recta l3 es paralela a l1.
+
+Si dos rectas se cortan, pero no son perpendiculares entonces se dice que son oblicuas.
+
+## RECTAS OBLÍCUAS
+
+Dos rectas en un mismo plano son oblicuas si no son ni paralelas ni perpendiculares.
+
+Las rectas l1 y l2 de la siguiente figura son oblicuas:
+
+Imagen 47: Rectas Intersecantes.
+
+Descripción Imagen: Representación gráfica de dos rectas l1 y l2 que se cortan en un punto.
+
+Algunas definiciones que servirán para resolver algunos problemas son las siguientes:
+
+- BISECTRIZ
+
+Recta que divide a un ángulo en dos ángulos de la misma medida.
+
+La siguiente figura muestra un ángulo con su bisectriz:
+
+Imagen 48: Bisectriz.
+
+Descripción Imagen: Representación gráfica de un ángulo, este dividido en dos partes iguales, la recta que divide el ángulo en dos partes iguales está etiquetada con la palabra bisectriz.
+
+Para trazar la bisectriz de un ángulo utilizamos el procedimiento que se explica en el siguiente ejemplo.
+
+Ejemplo 4:
+
+Traza una bisectriz a un ángulo dado.
+
+Solución:
+
+Empezamos mostrando el ángulo al cual trazaremos la bisectriz:
+
+Imagen 49: Ángulo Agudo.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menos a 90 grados.
+
+Primero abrimos el compás para dibujar dos arcos que corten, uno a cada lado del ángulo:
+
+Imagen 50: Cortes sobre lados del ángulo.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menos a 90 grados. Con compas se trazan los cortes sobre los lados del ángulo, en los puntos A y B con el mismo radio.
+
+Ahora, apoyándonos en cada punto de intersección generados con estos trazos, volvemos a trazar dos arcos, que se corten entre ellos.
+
+Imagen 51: Corte externo al ángulo.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menos a 90 grados. Con compas se trazan los cortes sobre los lados del ángulo, en los puntos A y B con el mismo radio. Desde los puntos A y B se generan círculos, estos se cortan en un punto, el punto Q.
+
+Para terminar sólo falta trazar la recta que pasa por el vértice del ángulo y el punto Q:
+
+Imagen 52: Bisectriz.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menos a 90 grados. Con compas se trazan los cortes sobre los lados del ángulo, en los puntos A y B con el mismo radio. Desde los puntos A y B se generan círculos, estos se cortan en un punto, el punto Q. Se traza la recta que une al origen del ángulo con el punto Q.
+
+La bisectriz tiene la propiedad de que cada uno de sus puntos equidista de los lados del ángulo.
+
+Imagen 53: Distancia de Bisectriz a lados.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menos a 90 grados. Con compas se trazan los cortes sobre los lados del ángulo, en los puntos A y B con el mismo radio. Desde los puntos A y B se generan círculos, estos se cortan en un punto, el punto Q. Se traza la recta que une al origen del ángulo con el punto Q.
+
+Se marcan las distancias de un punto de cada lado a la bisectriz. Estas son iguales.
+
+Observa cómo se construyó la bisectriz del ángulo: se tomaron dos puntos equidistantes del vértice del ángulo y con éstos se construyó un punto Q equidistante de los lados del mismo.
+
+Al unir el vértice del ángulo con Q obtenemos la bisectriz del ángulo.
+
+### Practica lo aprendido:
+
+1. Investiga la definición de los siguientes términos:
+
+a. Definición
+
+b. Axioma
+
+c. Postulado
+
+d. Teorema
+
+e. Lema
+
+f. Corolario
+
+g. Demostración
+
+h. Hipótesis
+
+i. Conclusión
+
+j. Problema
+
+De acuerdo a su significado en matemáticas.
+
+2. Mide los siguiente ángulos:
+
+Imagen 54: Ejercicio a.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, menor a 45 grados.
+
+Imagen 55: Ejercicio b.
+
+Descripción Imagen: Representación gráfica de un ángulo agudo, mayor a 45º.
+
+Imagen 56: Ejercicio C.
+
+Descripción Imagen: Representación gráfica de un ángulo obtuso, mayor a 90 grados.
+
+Imagen 57: Ejercicio D.
+
+Descripción Imagen: Representación gráfica de un ángulo entrante, mayor a 180 grados.
+
+Imagen 58: Ejercicio E.
+
+Descripción Imagen: Representación gráfica de un ángulo entrante, mayor a 180 grados.
+
+3. Traza la bisectriz para cada uno de los ángulos del ejercicio anterior dibujándolos en tu cuaderno.
+
+4. Demuestra que: si dos ángulos tienen el mismo conjugado son iguales.
+
+5. Demuestra que: Si dos ángulos suplementarios son iguales, entonces cada uno es un ángulo recto.
+
+6. Demuestra que: Si dos ángulos complementarios son iguales, entonces cada uno mide 45◦.
+
+## ÁNGULOS FORMADOS POR DOS RECTAS PARALELAS Y UNA SECANTE
+
+Cuando dos rectas paralelas son cortadas por una tercera recta que no es paralela a ellas, se forman varios ángulos de interés.
+
+- SECANTE
+
+La secante a una curva o a una figura geométrica es una recta que la corta.
+
+La secante también se conoce como transversal cuando corta a varias rectas.
+
+La siguiente figura muestra dos rectas paralelas y una secante que las corta:
+
+Imagen 59: Recta Secante a Paralelas.
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas l1 y l2, estas cortadas por otra recta. Etiquetada con la palabra secante.
+
+Al cortar la secante a las dos rectas paralelas se forman ocho ángulos:
+
+Imagen 60: Ángulo generado por secante en paralelas.
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas l1 y l2, estas cortadas por otra recta. Etiquetada con la palabra secante. El corte con la recta l1 genera los ángulos en el sentido de las manecillas beta, alfa, gama y delta. El corte con la segunda recta genera los ángulos eta, épsilon, sigma y teta.
+
+Para simplificar su estudio, estos ángulos se clasifican de la siguiente manera.
+
+- ÁNGULOS INTERNOS
+
+Ángulos que quedan entre las rectas paralelas.
+
+En la figura anterior, los ángulos: γ, δ, ε y ζ son los ángulos internos.
+
+- ÁNGULOS EXTERNOS
+
+Aquellos ángulos que quedan fuera de entre las rectas paralelas.
+
+En la figura anterior, los ángulos: α, β, η y θ son los ángulos externos.
+
+- ÁNGULOS ALTERNOS
+
+Aquellos pares de ángulos que quedan en lados opuestos de la recta secante y que no son adyacentes.
+
+En la figura anterior, los pares de ángulos: (α, δ), (β, ε), (η, δ) y (θ, α) son algunos ejemplos de pares de ángulos alternos.
+
+- ÁNGULOS CORRESPONDIENTES
+
+Aquellos pares de ángulos que quedan en el mismo lado de la recta secante, no son adyacentes y siendo uno interno y el otro externo.
+
+En la figura anterior, los pares de ángulos: (α, ε), (β, ζ), (η, γ) y (δ, θ) son correspondientes.
+
+- ÁNGULOS ALTERNOS INTERNOS
+
+Aquellos pares de ángulos que son a la vez tanto alternos como internos.
+
+En la figura anterior, los pares de ángulos que son alternos internos son: (γ, ζ) y (δ, ε).
+
+- ÁNGULOS ALTERNOS EXTERNOS
+
+Aquellos pares de ángulos que son a la vez tanto alternos como externos.
+
+En la figura anterior, los pares de ángulos que son alternos externos son: (α, θ) y (β, η).
+
+- ÁNGULOS CORRESPONDIENTES INTERNOS
+
+Aquellos pares de ángulos que son a la vez tanto correspondientes como internos.
+
+En la figura anterior, los pares de ángulos que son correspondientes internos son: (γ, ε) y (δ, ζ).
+
+- ÁNGULOS CORRESPONDIENTES EXTERNOS
+
+Aquellos pares de ángulos que son a la vez tanto correspondientes como externos.
+
+En la figura anterior, los pares de ángulos que son correspondientes externos son: (α, η) y (β, θ).
+
+Ya se demostró que los ángulos opuestos por el vértice tienen la misma medida, entonces, se cumple:
+
+I. α = δ
+
+II. β = γ
+
+III. ε = θ
+
+IV. ζ = η
+
+Imagen 61: Ángulos entre paralelas.
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas l1 y l2, estas cortadas por otra recta. Etiquetada con la palabra secante. El corte con la recta l1 genera los ángulos en el sentido de las manecillas beta, alfa, gama y delta. El corte con la segunda recta genera los ángulos eta, épsilon, sigma y teta. Opuestos en cada caso resaltados con un color.
+
+Sin embargo, existen otros ángulos que son iguales y otros que tienen propiedades interesantes. Por ejemplo, algunos pares de ángulos son suplementarios:
+
+i. (α, β)
+
+ii. (α, γ)
+
+iii. (γ, δ)
+
+iv. (β , δ)
+
+v. (ε, ζ)
+
+vi. (ε, η)
+
+vii. (η, θ )
+
+viii. (ζ, θ )
+
+Teorema 1:
+
+Si una secante corta dos rectas paralelas, los ángulos alternos internos son iguales.
+
+Para convencerte de que el teorema es verdadero, observa que si trasladamos la recta l2 poco a poco en dirección a la recta l1 sin cambiar su inclinación, entonces vamos a alcanzar la recta l1 y ambas rectas se confundirán.
+
+Esto hace que el ángulo ε quede exactamente encima del ángulo α, que el ángulo ζ quede exactamente encima del ángulo β , que el ángulo η quede exactamente encima del ángulo γ, y que el ángulo θ quede exactamente encima del ángulo δ.
+
+La igualdad de los ángulos que quedan superpuestos se justifica por el paralelismo de las rectas l1 y l2 y que la recta secante no cambia de dirección, sino que se mantiene fija todo el tiempo.
+
+Sin embargo, esto que se ha dado no es una demostración, sino solamente evidencia de que el teorema es verdadero.
+
+Para dar una demostración completa de este teorema necesitaremos otros conceptos que se darán en secciones posteriores.
+
+Del argumento anterior también se desprende el siguiente:
+
+Teorema 2:
+
+Si una secante corta dos rectas paralelas, los ángulos correspondientes son iguales.
+
+Recuerda que los pares de ángulos correspondientes son
+
+i. (α, ε)
+
+ii. (β , ζ)
+
+iii. (γ, η)
+
+iv. (δ, θ )
+
+Y precisamente estos pares de ángulos son los que se dijo quedan superpuestos al trasladar la recta l2 hasta que quede sobre la recta l1. También es cierto el siguiente:
+
+Teorema 3
+
+Si una secante corta dos rectas paralelas, los ángulos alternos externos son iguales.
+
+Considerando que α = ε porque son ángulos correspondientes, y que ε = θ porque son ángulos opuestos por el vértice, por transitividad, tenemos que α = θ, que son ángulos alternos externos.
+
+De manera semejante podemos probar que β = η. De la figura es evidente también el siguiente:
+
+Teorema 4:
+
+La suma de dos ángulos internos adjuntos es igual a 180o
+
+Observa que la secante forma dos ángulos internos adjuntos en cada recta. Como los ángulos están sobre el mismo lado de la recta, la suma de todos ellos (solamente son dos) es igual a 180◦.
+
+Teorema 5:
+
+En la siguiente figura, los ángulos γ y ε son suplementarios. Igualmente, los ángulos δ y ζ son suplementarios.
+
+Imagen 62: Ángulos entre paralelos.
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas l1 y l2, estas cortadas por otra recta. Etiquetada con la palabra secante. El corte con la recta l1 genera los ángulos en el sentido de las manecillas beta, alfa, gama y delta. El corte con la segunda recta genera los ángulos eta, épsilon, sigma y teta. Opuestos en cada caso resaltados con un color.
+
+Dado que α = ε, y que α + γ = 180º, al sustituir ε en lugar de α demostramos que son suplementarios. De manera semejante se demuestra que δ + ζ = 180º.
+
+Estos teoremas sirven para demostrar otros teoremas.
+
+Ejemplo 1:
+
+Demuestra que si dos ángulos tienen paralelos sus lados uno a uno, entonces los ángulos, bien son iguales, bien son suplementarios.
+
+Solución:
+
+Empezamos elaborando una figura para realizar una mejor imagen del problema:
+
+Imagen 63: Ángulos Internos entre Paralelas
+
+Descripción Imagen: Representación gráfica de un par de rectas paralelas l1 y l2, estas cortadas por otro par de rectas l3 y l4, genera un ángulo interno beta con la recta l2 y otro interno alfa con la recta l1.
+
+En la figura se han trazado también dos pares de rectas paralelas prolongando los lados de cada ángulo hasta que se intersecten mutuamente.
+
+Por hipótesis: $\left. l_{1} \right|\left| l_{2} \right.$ y $\left. l_{3} \right|\left| l_{4} \right.$ .
+
+Considerando que las rectas l1 y l2 son paralelas, vemos que el ángulo φ mostrado en la figura es igual al ángulo α, porque son correspondientes.
+
+Considerando que las rectas l3 y l4 son paralelas, vemos que el ángulo φ es igual al ángulo β porque son correspondientes.
+
+Y por transitividad, tenemos:
+
+α = φ = β
+
+El otro caso consiste en que el ángulo dado sea ψ en lugar de β.
+
+Observa que en este caso también se cumple que los lados de los ángulos son paralelos uno a uno, pero ahora los ángulos no son iguales, sino complementarios.
+
+Con esto queda demostrado el teorema.
+
+Ejemplo 2:
+
+Demuestra que si dos ángulos tienen sus lados perpendiculares uno a uno, entonces, los ángulos son iguales o son suplementarios.
+
+Solución:
+
+De nuevo empezamos dibujando la situación:
+
+Imagen 64: Ángulo alfa.
+
+Descripción Imagen: Representación de un ángulo alfa sobre una recta horizontal y este mismo, sobre una recta vertical.
+
+Podemos trasladar uno de los ángulos para que coincidan en sus vértices:
+
+Imagen 65: Traslación de Ángulo.
+
+Descripción Imagen: Representación de un ángulo alfa sobre una recta horizontal, al lado de este su complementario y al lado del complemento se ubicó el ángulo alfa vertical.
+
+Dado que los lados de los ángulos (uno a uno) son perpendiculares, los ángulos α y β son complementarios, al igual que los ángulos α‘y β.
+
+Esto nos permite escribir:
+
+α + β = α‘+ β
+
+Al restar β en ambos lados de la igualdad obtenemos el resultado buscado.
+
+El otro caso, en el que α y β sean suplementarios se obtiene cuando los lados del ángulo α‘son como se indica en la siguiente figura:
+
+Imagen 66: Ángulo y su suplementario.
+
+Descripción Imagen: Representación de un ángulo alfa, al lado de este su suplementario.
+
+### Practica lo aprendido
+
+1. Defina y grafique:
+
+a. Interiores
+
+b. Exteriores
+
+c. Ángulos Internos
+
+d. Correspondientes
+
+# TEMA 2: TRIÁNGULOS
+
+En esta sección empezamos el estudio de las figuras geométricas planas creadas de segmentos de rectas.
+
+Cuando la figura está formada por tres segmentos de recta y unidos por sus puntos extremos, esta figura se llama triángulo.
+
+Los triángulos se clasifican de acuerdo a la medida de sus lados y a la medida de sus ángulos para facilitar su estudio.
+
+## DEFINICIÓN Y CLASIFICACIÓN
+
+Empezamos con las definiciones básicas.
+
+TRIÁNGULO
+
+Figura geométrica plana cerrada, limitada por tres segmentos de recta unidos por sus extremos.
+
+Los puntos donde se intersectan dos segmentos se llaman vértices del triángulo y los segmentos lados.
+
+La siguiente figura muestra un triángulo:
+
+Imagen 67: Partes de un Triángulo.
+
+Descripción Imagen: Triángulo donde cada uno de sus catetos está marcado con la palabra lado, y cada una de sus esquinas etiquetadas con la palabra vértice.
+
+La base del triángulo es el lado sobre el cual descansa. Otro elemento importante del triángulo es su altura.
+
+ALTURA DE UN TRIÁNGULO
+
+La altura de un triángulo es el segmento de recta que es perpendicular a la base y que pasa por el vértice opuesto a la base.
+
+En la siguiente figura se muestra un triángulo con su altura denotada por h:
+
+Imagen 68: Altura de un Triángulo.
+
+Descripción Imagen: Triángulo acutángulo el cual se ha marcado la recta perpendicular a la base que pasa por el otro vértice. Este segmento está etiquetado con la letra h.
+
+Cuando el triángulo tiene un ángulo obtuso es posible que se requiera extender la base para que la perpendicular pase por el vértice opuesto, como en el siguiente ejemplo:
+
+Imagen 69: Altura de un Obtusángulo.
+
+Descripción Imagen: Triángulo obtusángulo el cual se ha marcado la recta perpendicular a la base que pasa por el otro vértice, esta es externa al triángulo. Este segmento está etiquetado con la letra h.
+
+El triángulo es una figura geométrica ampliamente utilizada en arquitectura e ingeniería. Los triángulos se clasifican de acuerdo a la medida de sus lados como:
+
+### Triángulo Escaleno
+
+Aquel triángulo que tiene las medidas de todos sus lados diferentes.
+
+El siguiente triángulo es escaleno:
+
+Imagen 70: Triángulo Escaleno.
+
+Descripción Imagen: Triángulo escaleno, el cual se caracteriza por tener diferentes medidas en sus 3 lados.
+
+### Triángulo Isósceles
+
+Aquel triángulo que tiene dos lados con la misma medida.
+
+El siguiente triángulo es isósceles:
+
+Imagen 71: Triángulo Isósceles.
+
+Descripción Imagen: Triángulo escaleno, el cual se caracteriza por tener dos lados iguales y un tercero con medida diferente.
+
+### Triángulo Equilátero
+
+Aquel triángulo que tiene las medidas de todos sus lados iguales.
+
+El siguiente triángulo es equilátero:
+
+Imagen 72: Triángulo Equilátero.
+
+Descripción Imagen: Triángulo equilátero, el cual se caracteriza por tener igual medida en sus 3 lados.
+
+Los triángulos también se clasifican de acuerdo a la medida de sus ángulos internos, como sigue.
+
+### Triángulo Acutángulo
+
+Aquel triángulo que tiene todos sus ángulos agudos.
+
+El siguiente triángulo es acutángulo:
+
+Imagen 73: Triángulo Acutángulo.
+
+Descripción Imagen: Triángulo acutángulo, el cual se caracteriza por tener 3 ángulos agudos.
+
+### Triángulo Rectángulo
+
+Aquel triángulo que tiene un ángulo recto.
+
+El siguiente triángulo es un triángulo rectángulo:
+
+Imagen 74: Triángulo Rectángulo.
+
+Descripción Imagen: Triángulo rectángulo, el cual se caracteriza por tener un ángulo recto.
+
+### Triángulo Obtusángulo
+
+Aquel triángulo que tiene un ángulo obtuso.
+
+El siguiente triángulo es un triángulo obtuso:
+
+Imagen 75: Triángulo Obtusángulo.
+
+Descripción Imagen: Triángulo Obtusángulo, el cual se caracteriza por tener un ángulo obtuso.
+
+En un triángulo rectángulo se definen además,
+
+- Hipotenusa: es el lado opuesto al ángulo recto.
+
+- Cateto: es cada uno de los lados que forman el ángulo recto.
+
+Para el triángulo también se definen los siguientes elementos.
+
+ÁNGULO EXTERNO
+
+Es aquel ángulo que se forma cuando se prolonga uno de los lados del triángulo.
+
+La siguiente figura muestra un ángulo externo φ del triángulo:
+
+Imagen 76: Ángulo Externo.
+
+Descripción Imagen: Triángulo con ángulo de la base marcado en su complementario.
+
+ÁNGULO INTERNO OPUESTO
+
+Aquellos ángulos internos del triángulo que no son adyacentes al ángulo externo considerado.
+
+En la figura anterior, los ángulos α y γ son ángulos internos opuestos al ángulo externo φ mostrado.
+
+Teorema 1:
+
+El ángulo externo de un triángulo es igual a la suma de los otros dos ángulos internos opuestos.
+
+Empezamos trazando una recta paralela al lado del triángulo que no es parte del ángulo externo, por el vértice de éste:
+
+Imagen 77: Paralela a la base.
+
+Descripción Imagen: Triángulo acutángulo, por el cual pasa una recta paralela a la base formando ángulos.
+
+Esta recta ha dividido al ángulo externo en dos partes, que se han denotado por ψ y φ‘. Observa que los ángulos α y ψ son alternos internos. Esto significa que α = ψ.
+
+También, observa que φ = φ‘, porque son opuestos por el vértice.
+
+Además, los ángulos φ‘ y β son alternos internos, por lo que φ‘= β = φ.
+
+Entonces, si ξ = ψ + φ es el ángulo externo, tenemos:
+
+ξ = ψ + φ = α + β
+
+Con lo que queda demostrado el teorema.
+
+Ejemplo 1:
+
+Demuestra que la suma de los ángulos internos de un triángulo que se encuentra en el plano es igual a 180º.
+
+Solución:
+
+Basándonos en la figura utilizada para demostrar el teorema anterior, vemos que φ + ψ + γ = 180º, porque los tres están en un mismo lado de una recta.
+
+Además, en esa demostración se justifica que: α = ψ y que β = φ.
+
+Entonces,
+
+α + β + γ = ψ + φ + γ = 180◦
+
+Con lo que queda demostrado este teorema.
+
+Algunos resultados que se desprenden de los dos teoremas antes demostrados son los siguientes:
+
+- Corolario 1:
+
+Cada uno de los ángulos internos de un triángulo equilátero mide 60º.
+
+- Corolario 2:
+
+La suma de cualesquiera dos ángulos internos de un triángulo siempre es menor a 180º.
+
+- Corolario 3:
+
+Un triángulo no puede tener más de un ángulo recto.
+
+- Corolario 4:
+
+Un triángulo no puede tener más de un ángulo obtuso.
+
+- Corolario 5:
+
+Un triángulo tiene al menos dos ángulos agudos.
+
+Ejemplo 2:
+
+Demuestra que la suma de los dos ángulos agudos de un triángulo rectángulo son complementarios.
+
+Solución:
+
+Si el triángulo es rectángulo, necesariamente debe tener un ángulo recto, al cual denotaremos por α.
+
+Los otros dos ángulos deben ser agudos:
+
+Imagen 78: Triangulo rectángulo.
+
+Dado que α + β + γ = 180º, y α = 90º, necesariamente:
+
+90º + β + γ = 180º
+
+Entonces:
+
+β + γ = 90º
+
+Con lo que queda establecido el teorema.
+
+Ejemplo 3:
+
+Demuestra que la suma de los tres ángulos externos de un triángulo que se encuentra en el plano es igual a 360º
+
+Solución:
+
+Empezamos dibujando el triángulo y sus tres ángulos externos:
+
+Imagen 79: Prolongación de lados.
+
+Descripción Imagen: Segmento de recta de prolongación en cada uno de los vértices del triángulo, de los lados del triángulo.
+
+De la figura es evidente que:
+
+- α + α‘ = 180º
+
+- β + β‘ = 180º
+
+- γ + γ‘ = 180º
+
+Al sumar las tres ecuaciones obtenemos:
+
+α + β + γ + α‘+ β‘+ γ‘= 540◦
+
+Pero también sabemos que α + β + γ = 180º, porque éstos son los tres ángulos internos del triángulo.
+
+Entonces,
+
+180o + α‘+ β‘+ γ‘= 540
+
+Α‘+ β‘+ γ‘ = 360◦
+
+Con lo que se demuestra el teorema.
+
+Ejemplo 4:
+
+Demuestra que cada punto de la bisectriz de un ángulo está a la misma distancia de cada uno de los lados del ángulo.
+
+Solución:
+
+Empezamos dibujando la situación:
+
+Imagen 80: Bisectriz de un ángulo.
+
+Descripción Imagen: Ángulo dividido en dos partes iguales con un segmento de recta, se toma un punto sobre la recta y se trazan las dos distancias a los lados del ángulo, se etiquetan con d y d´.
+
+Como la bisectriz divide al ángulo en dos partes iguales, y las distancias son medidas perpendicularmente a los lados del ángulo, los triángulos que se forman son iguales, pues tienen iguales sus tres ángulos y la hipotenusa.
+
+Pero si los triángulos rectángulos son iguales, los catetos son iguales, uno a uno.
+
+Es decir, las distancias d y d‘ son iguales, que era lo que se quería demostrar.
+
+Ejemplo 5:
+
+Demuestra que las tres bisectrices de un triángulo se cortan en un mismo punto.
+
+Solución:
+
+La figura que ilustra la situación es la siguiente:
+
+Imagen 81: Dos Bisectrices de un triángulo.
+
+Descripción Imagen: Triángulo de vértices A, B, C, se traza la bisectriz al ángulo C y la bisectriz al ángulo A, se denominan L2 y L1 respectivamente.
+
+El punto P, por estar en la bisectriz l1, está a la misma distancia de los lados AB como de AC.
+
+Es decir, la distancia desde P hasta AB, la cual denotaremos por: D (P, AB) es la misma que la distancia desde P hasta AC, denotada por: D (P, AC).
+
+Pero el punto P también está en la bisectriz A2, por eso está a la misma distancia de los lados AC como de BC.
+
+Esto implica: D (P, BC) = D (P, AC).
+
+Entonces,
+
+D (P, AB) = D (P, AC) = D (P, BC)
+
+En palabras, el punto P está a la misma distancia de los tres lados del triángulo.
+
+Y la bisectriz del ángulo con vértice en B necesariamente pasará por el punto P, pues este punto equidista de los lados AB como de BC.
+
+Con esto queda demostrado el teorema.
+
+## INCENTRO
+
+Es el punto donde se intersectan las tres bisectrices de un triángulo.
+
+### Mediatriz
+
+La mediatriz de un segmento es la recta que es perpendicular al segmento y que pasa por su punto medio.
+
+La siguiente figura muestra un segmento con su mediatriz:
+
+Imagen 82: Mediatriz.
+
+Descripción Imagen: Segmento de recta que une A con B, se traza la recta perpendicular a esta, que pasa por el punto medio.
+
+Los puntos A y B son extremos del segmento y el punto M es el punto medio de éstos.
+
+El siguiente ejemplo muestra el procedimiento para trazar una mediatriz a un segmento dado.
+
+Ejemplo 6
+
+Traza una mediatriz a un segmento AB dado.
+
+Solución:
+
+Con el compás abierto más que la mitad de la longitud del segmento, trazamos arcos que se corten mutuamente, apoyándonos primero en A y luego en B como se muestra enseguida:
+
+Imagen 83: Cortes Externos.
+
+Descripción Imagen: Segmento de recta que une A con B, se traza circunferencia desde A y desde B, y se muestran los segmentos donde estas se cortan, por el lado superior y por el lado inferior.
+
+Ahora solo falta trazar la recta que pasa por los puntos de intersección de los arcos para obtener la mediatriz del segmento AB:
+
+Imagen 84: Mediatriz.
+
+Descripción Imagen: Segmento de recta que une A con B, se traza circunferencia desde A y desde B, y se muestran los segmentos donde estas se cortan, por el lado superior y por el lado inferior. Se traza el segmento que une los dos cortes.
+
+El punto M indicado en la figura del ejemplo es el punto medio del segmento AB.
+
+El siguiente teorema se da sin demostración por ahora.
+
+Teorema 2:
+
+Cada punto de la mediatriz equidista de los extremos del segmento sobre la cual se le dibujó.
+
+Ejemplo 7:
+
+Demuestra que las tres mediatrices de un triángulo se cortan en un solo punto.
+
+Solución:
+
+Empezamos dibujando la situación:
+
+Imagen 85: Triángulo y sus mediatrices.
+
+Descripción Imagen: Triángulo de vértices A, B, C, se traza la mediatriz a cada uno de los lados de este, se denominan L1, L2 y L3 respectivamente.
+
+El punto P, por pertenecer a la mediatriz l1 está a la misma distancia de los vértices B y C.
+
+Pero P también está sobre la mediatriz l2, por eso equidista de los vértices A y C del triángulo.
+
+Entonces, la otra mediatriz debe pasar necesariamente por el punto P, pues este punto está a la misma distancia de los vértices A y B.
+
+Es decir, las tres mediatrices se cortan en el punto P.
+
+## CIRCUNCENTRO
+
+Es el punto donde se intersectan las tres mediatrices de un triángulo.
+
+Ejemplo 8:
+
+Demuestra que el punto medio de la hipotenusa de un triángulo rectángulo equidista de los tres vértices del triángulo.
+
+Solución:
+
+Trazamos una recta paralela al cateto AB que pase por M, siendo el punto M es el punto de la hipotenusa:
+
+Imagen 86: Equidistancia del punto medio de la hipotenusa
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una recta paralela a la base que pasa por el punto medio de la hipotenusa, denotado por la letra M. Esta recta corta al otro cateto en un punto que se denomina N.
+
+Como los catetos son perpendiculares y l paralela a AB, la recta l es perpendicular al cateto AC.
+
+Observa que el triángulo MCN también es un triángulo rectángulo.
+
+El triángulo inicial 6ABC y el triángulo 6MCN comparten el ángulo con vértice en C y además ambos poseen un ángulo recto.
+
+Esto significa que los ángulos: ∠CMN y ∠C BA, son iguales.
+
+Recuerda también que: |CM| = |BM|, porque M es el punto medio de BC.
+
+Entonces, si trazamos una perpendicular al cateto AB, que pase por el punto M obtendremos:
+
+Imagen 87: Perpendicular a base.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una recta paralela a la base que pasa por el punto medio de la hipotenusa, denotado por la letra M. Esta recta corta al otro cateto en un punto que se denomina N. Se traza el segmento de recta perpendicular a la base que pasa por el punto M, y el punto que corta en la base se denomina con la letra P.
+
+Observa que AC paralela a MP, por lo que el par de ángulos ∠NCM y en ∠PMB son correspondientes, y por tanto, tienen la misma medida.
+
+Los triángulos PBM y NMC son triángulos rectángulos.
+
+Los tres ángulos internos de estos triángulos son idénticos,
+
+Además la hipotenusa de cada uno de éstos (PBM y NMC) mide la mitad del segmento BC (hipotenusa del triángulo ABC).
+
+Esto significa que los triángulos 6PBM y 6NMC son idénticos, es decir, tienen las medidas de sus lados iguales uno a uno.
+
+Entonces, como |MP| = |AN|, y ya dedujimos que |MP| = |CN|, se sigue que |AN| = |CN|.
+
+En otras palabras, el punto N es el punto medio del cateto AC.
+
+Esto es, la recta A es la mediatriz del cateto AC, pues es perpendicular al lado AC y pasa por su punto medio.
+
+Entonces, el punto M, por estar sobre la mediatriz del cateto AC, está a la misma distancia de los vértices A y C.
+
+Pero este punto M está a la misma distancia de B como de C, pues es el punto medio de la hipotenusa del triángulo ABC.
+
+Entonces, el punto M equidista de los tres vértices:
+
+Imagen 88: Distancia al vértice opuesto.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una recta paralela a la base que pasa por el punto medio de la hipotenusa, denotado por la letra M. Esta recta corta al otro cateto en un punto que se denomina N. Se traza el segmento de recta perpendicular a la base que pasa por el punto M, y el punto que corta en la base se denomina con la letra P. Se traza de manera punteada el segmento de recta que une el vértice opuesto a la hipotenusa con el punto medio de esta.
+
+En conclusión, el punto medio de la hipotenusa de un triángulo rectángulo que se encuentra en un plano es el circuncentro del triángulo.
+
+### Mediana
+
+La mediana es el segmento de recta que pasa por el punto medio de un lado del triángulo y por el vértice opuesto.
+
+La siguiente figura muestra un triángulo y una de sus medianas:
+
+Imagen 89: Mediana.
+
+Descripción Imagen: Triángulo en el cual se ha graficado una mediana, esta une un vértice del triángulo con el punto medio de su lado opuesto.
+
+Las tres medianas de un triángulo se cortan en un punto.
+
+## BARICENTRO
+
+Es el punto donde se intersectan las tres medianas de un triángulo.
+
+En la siguiente figura se muestra un triángulo con sus tres medianas y el baricentro:
+
+Imagen 90: Baricentro.
+
+Descripción Imagen: Triángulo en el cual se han graficado las 3 medianas, estas coinciden en un punto, el cual se denomina baricentro.
+
+Físicamente, el baricentro representa el centro de gravedad del triángulo.
+
+Ejemplo 9:
+
+Muestra la interpretación física del baricentro como el centro de gravedad del triángulo.
+
+Solución:
+
+Empezamos dibujando el triángulo y una de sus medianas:
+
+Imagen 91: Una mediana del triángulo.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una de las medianas, la que une el vértice C con el lado opuesto a este.
+
+Ahora vamos a dibujar muchas rectas paralelas a la base del triángulo para dar la interpretación física:
+
+Imagen 92: Paralelas a la base.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una de las medianas, la que une el vértice C con el lado opuesto a este. Se trazan segmentos de recta paralelos a la base (segmento opuesto al vértice C) e interiores al triángulo.
+
+Observa cada una de las tiras horizontales que se formaron con los segmentos agregados al triángulo.
+
+Si buscamos el punto donde cada tira se equilibra, vamos a encontrarlo muy cerca del punto medio de su longitud.
+
+Si hacemos más tiras horizontales, hasta considerar cada tira como un segmento, obtendremos entonces que el punto medio del segmento es el punto donde se equilibra cada tira:
+
+Imagen 93: Más paralelas a la base
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una de las medianas, la que une el vértice C con el lado opuesto a este. Se trazan segmentos de recta paralelos a la base (segmento opuesto al vértice C) e interiores al triángulo.
+
+En otras palabras, la mediana es la recta de equilibrio del triángulo, respecto de los lados AC y BC.
+
+Al considerar una segunda mediana del triángulo, obtenemos otra recta de equilibrio del triángulo:
+
+Imagen 94: Paralelas al lado BC
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se traza una de las medianas, la que une el vértice A con el lado opuesto a este. Se trazan segmentos de recta paralelos al segmento opuesto al vértice A, e interiores al triángulo.
+
+De nuevo, podemos argumentar como en el caso anterior y ver que la mediana es la recta de equilibrio para los lados AB y AC.
+
+Imagen 95: Dos medianas de un triángulo.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se trazan dos de las medianas, la que une el vértice A con el lado opuesto a este, y el vértice C con la base del triángulo (lado opuesto). El punto en el cual se cortan estas medianas se marca con la letra P.
+
+El punto P de intersección de las dos medianas, por pertenecer a la primera mediana dibujada, equilibra a los lados AB y BC.
+
+Pero por pertenecer a la segunda mediana dibujada, equilibra a los lados AB y AC.
+
+Es decir, en el punto P, el triángulo se equilibra respecto de sus tres lados.
+
+Entonces, la otra mediana, que equilibra respecto de los lados AC y BC, debe pasar por ese punto.
+
+Imagen 96: Medianas de un triángulo.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se trazan las medianas, las que unen cada uno de sus vértices con el punto medio de su segmento opuesto. El punto en el cual se cortan estas medianas se marca con la letra P.
+
+Teorema 3:
+
+Las tres medianas de un triángulo se cortan en un mismo punto.
+
+Las tres alturas de un triángulo también se cortan en un mismo punto.
+
+Ejemplo 10:
+
+Demuestra que las tres alturas de un triángulo se cortan en un mismo punto.
+
+Solución:
+
+Empezamos dibujando un triángulo con sus tres alturas:
+
+Imagen 97: Triángulo con sus alturas.
+
+Descripción Imagen: Triángulo rectángulo de vértices A, B, C, se trazan las alturas de este, que son los segmentos de recta perpendiculares a cada lado que pasan por el vértice opuesto.
+
+Dibujamos rectas paralelas a cada uno de los lados que pasen por el vértice opuesto a cada una de ellas para formar otro triángulo:
+
+Imagen 98: Triángulo Inscrito en triángulo.
+
+Descripción Imagen: Triángulo anterior inscrito en otro, de tal manera que cada vértice coincide con el punto medio del segmento.
+
+Dado que AB paralela a BC, se tiene que |B‘C| = |AB|, porque dos rectas paralelas mantienen la misma distancia entre ellas en cualquiera de sus puntos.
+
+También se cumple que AC paralela a BA‘, por lo que |CA‘| = |AB|.
+
+Con esto probamos que el punto C es el punto medio del segmento A‘B‘.
+
+Y como la altura dibujada al triángulo 6ABC que pasa por el punto C es perpendicular al lado AB y éste a su vez es paralelo a B‘A‘, esta altura es la mediatriz del segmento B‘A‘.
+
+De manera semejante podemos probar que las otras alturas son las mediatrices de los otros lados del triángulo A‘B‘C‘.
+
+Y como ya habíamos demostrado que las tres mediatrices de un triángulo se intersectan en un mismo punto, las tres alturas del triángulo ABC se cortan también en un mismo punto por ser las tres mediatrices del triángulo A‘B‘C‘.
+
+## ORTOCENTRO
+
+Es el punto donde se intersectan las tres alturas de un triángulo.
+
+### Practica lo aprendido:
+
+1. Indica si la declaración es falsa o verdadera para cada uno de los ejercicios. Argumenta tu respuesta. Supón que las figuras mencionadas se encuentran en un plano.
+
+a. La suma de las longitudes de dos lados de un triángulo puede ser mayor al tercer lado.
+
+b. Ningún ángulo interno de un triángulo puede ser entrante.
+
+c. Las bisectrices de dos ángulos adyacentes son mutuamente perpendiculares.
+
+Imagen 99: Bisectrices de ángulos adyacentes.
+
+Descripción Imagen: Ángulos suplementarios y las bisectrices de estos, estas forman un ángulo recto.
+
+d. Las bisectrices de dos ángulos complementarios son mutuamente perpendiculares.
+
+e. Las bisectrices de dos ángulos suplementarios son mutuamente perpendiculares.
+
+f. Si se dibuja una línea paralela a la base de un triángulo isósceles que pase por el vértice opuesto, ésta formará dos ángulos de la misma medida con los lados del triángulo.
+
+Imagen 100: Triángulo Equilátero.
+
+Descripción Imagen: Triángulo equilátero con segmento paralelo a la base que pasa por el vértice opuesto a esta.
+
+g. Si la suma de dos ángulos internos de un triángulo es igual al tercer ángulo, entonces el triángulo es rectángulo.
+
+h. Si la mediana de la base de un triángulo es perpendicular a la base, entonces el triángulo es isósceles.
+
+i. Una de las medianas de un triángulo isósceles es perpendicular a la base.
+
+j. Cualquier triángulo rectángulo isósceles puede dividirse en otros dos triángulos rectángulos isósceles a través de una recta.
+
+k. Si la mediatriz de la base de un triángulo coincide con la bisectriz del ángulo con vértice en el vértice opuesto de la base, entonces, el triángulo es isósceles.
+
+l. La perpendicular a la bisectriz forma un triángulo isósceles con los lados del ángulo.
+
+m. Ningún triángulo puede tener más de un ángulo recto.
+
+n. Ningún triángulo puede tener más de un ángulo obtuso.
+
+2. Resuelve cada uno de los siguientes problemas.
+
+a. Las medidas de los ángulos internos agudos de un triángulo rectángulo son tales que uno es igual al doble del otro. ¿Cuáles son las medidas de los tres ángulos internos?
+
+b. Las medidas de los ángulos internos agudos de un triángulo rectángulo son iguales. ¿Cuáles son las medidas de los tres ángulos internos?
+
+c. El ángulo opuesto a la base de un triángulo isósceles mide 50 ◦. ¿Cuánto miden los otros dos ángulos internos?
+
+d. El ángulo opuesto a la base de un triángulo isósceles mide el doble de lo que mide cada uno de los otros dos ángulos. ¿Cuánto miden los ángulos internos de ese triángulo?
+
+e. Dentro de qué clasificaciones cae el triángulo del problema anterior
+
+¿Qué medida debe tener cada uno de los ángulos adyacentes a la base de un triángulo isósceles para que éste sea acutángulo?
+
+f. En el triángulo ABC, el ángulo con vértice en A mide 30◦ y el ángulo externo en B mide 110◦. ¿Cuánto mide el ángulo C?
+
+g. En el triángulo 6ABC los ángulos con vértice en A y B miden 50◦ y 70◦, respectivamente. Se forma un triángulo con las bisectrices de estos dos ángulos y el lado AB. ¿Cuánto mide cada ángulo de este nuevo triángulo?
+
+h. En el siguiente triángulo ABC, ∠CAB = 30◦, ∠C BA = 50◦. ¿Cuánto mide el ángulo formado por la altura y la bisectriz que pasan por C?
+
+Imagen 101: Ángulo entre altura a bisectriz.
+
+Descripción Imagen: Triángulo en el cual se ha identificado una altura a un vértice y la bisectriz de este ángulo.
+
+## CONGRUENCIA DE TRIÁNGULOS
+
+Como habrás observado, la idea de que dos segmentos o dos ángulos tienen la misma medida sirve mucho para demostrar teoremas en geometría.
+
+Igualmente, cuando dos triángulos tienen sus lados de la misma medida, uno a uno, sirve para resolver problemas.
+
+El concepto de congruencia es el que se refiere a la igualdad de objetos geométricos.
+
+CONGRUENCIA
+
+Dos objetos geométricos son congruentes si tienen las mismas medidas y los mismos ángulos.
+
+Por ejemplo, los siguientes segmentos son congruentes:
+
+Imagen 102: Segmentos Congruentes.
+
+Descripción Imagen: Dos segmentos de recta de la misma medida, desde los puntos A y B, y A´ y B´.
+
+Igualmente, los siguiente dos ángulos son congruentes, pues tienen la misma medida:
+
+Imagen 103: Ángulos Semejantes
+
+Descripción Imagen: Dos ángulos idénticos, uno ABC y el otro A´B´C´.
+
+Los siguientes triángulos son congruentes, pues tienen las medidas de sus lados y de sus ángulos iguales, uno a uno:
+
+Imagen 104: Triángulos Congruentes.
+
+Descripción Imagen: Dos triángulos idénticos con vértices ABC y A´B´C´.
+
+Para denotar matemáticamente que los triángulos ABC y A‘B‘C‘son congruentes, vamos a usar la notación:
+
+ABC $\cong$ A‘B‘C‘
+
+Y esto se leerá como: “El triángulo ABC es congruente con el triángulo A‘B‘C‘”.
+
+Existen tres criterios para determinar si dos triángulos dados son o no congruentes. Los criterios son los siguientes:
+
+1. Si dos ángulos de un triángulo son congruentes con dos ángulos de otro triángulo, los dos triángulos son congruentes.
+
+2. Si un ángulo de un triángulo es congruente con el ángulo de otro triángulo, y además los lados del ángulo considerado en cada triángulo son congruentes, entonces los dos triángulos son congruentes.
+
+3. Si las longitudes de los lados de un triángulo son congruentes a las longitudes de los lados de otro triángulo, entonces los dos triángulos son congruentes.
+
+El siguiente teorema es importante:
+
+Teorema 1
+
+La congruencia de triángulos satisface:
+
+ABC $\cong$ ABC
+
+ABC ∼= PQR, entonces PQR ∼ $\cong$ ABC
+
+Si ABC $\cong$ PQR y PQR $\cong$ RST, entonces, ABC $\cong$ RST.
+
+En palabras, la primera afirmación dice en palabras que todo triángulo es congruente a sí mismo. Es decir, la congruencia de triángulos tiene la propiedad reflexiva.
+
+La segunda afirmación dice que si un triángulo es congruente a otro triángulo, el segundo es congruente al primero. Es decir, la congruencia de triángulos tiene la propiedad simétrica.
+
+La tercera afirmación dice que si un primer triángulo es congruente a un segundo triángulo, y a su vez este segundo triángulo es congruente a otro tercer triángulo, entonces el primero y el tercero son congruentes. Es decir, la congruencia entre triángulos tiene la propiedad transitiva.
+
+## SEMEJANZA DE FIGURAS
+
+Dos figuras geométricas son semejantes si tienen los mismos ángulos internos (uno a uno) y sus lados correspondientes tienen la misma proporción.
+
+Cuando decimos que dos figuras son semejantes queremos decir que ambas tienen la misma forma, pero tal vez una es escala de la otra.
+
+Los siguientes dos triángulos son semejantes:
+
+Imagen 105: Triángulos Semejantes.
+
+Descripción Imagen: Dos triángulos, idénticos, con vértices con denominación diferente.
+
+Y matemáticamente lo vamos a denotar por:
+
+ABC A‘B‘C‘
+
+Otra forma de definir la semejanza entre dos triángulos es la siguiente:
+
+SEMEJANZA DE TRIÁNGULOS
+
+Si los triángulos ABC y A‘B‘C‘ satisfacen:
+
+```latex
+\frac{|AB|}{|A'B'|}=\frac{|BC|}{|B'C'|}=\frac{|AC|}{|A'C'|}
+```
+
+Entonces, ABC ∼ A‘B‘C‘.
+
+También podemos verificar que dos triángulos son semejantes si dos de sus ángulos internos son iguales uno a uno.
+
+En la figura donde se muestran los triángulos ABC y A‘B‘C‘, los ángulos satisfacen:
+
+∠BAC = ∠B‘A‘C‘,
+
+∠ABC = ∠A‘B‘C‘, y
+
+∠ACB = ∠A‘C‘B‘.
+
+Ejemplo 1:
+
+Verifica si los triángulos siguientes son semejantes:
+
+Dado que los ángulos son congruentes uno a uno, se concluye que los triángulos son semejantes.
+
+Imagen 106: Triángulos Semejantes.
+
+Descripción Imagen: Dos triángulos, cada uno con medida de ángulos igual a 40º y 60º, sin medida indicada en el ángulo faltante.
+
+Solución:
+
+Observa que el tercer ángulo (de cada triángulo) es el suplemento de 40º + 60º = 100º, pues la suma de los tres ángulos internos del triángulo es igual a 180º.
+
+Ejemplo 2:
+
+Verifica si los siguientes triángulos son semejantes:
+
+Solución:
+
+En este caso, es obvio que hay un ángulo congruente en ambos triángulos, pues en ambos triángulos hay un ángulo que mide 30º.
+
+Imagen 107: Triángulos con lados proporcionales.
+
+Descripción Imagen: Dos triángulos uno con medida en dos lados de 4, y el ángulo entre estos de 30º, el otro triángulo tiene medida en dos lados de 6 cada uno, y el ángulo entre estos con medida de 30º.
+
+Por otra parte, ambos triángulos son isósceles, pues cada lado del ángulo que mide 30◦ tiene la misma longitud en los dos triángulos.
+
+Entonces esos lados son proporcionales:
+
+```latex
+\frac{4}{6}=\frac{4}{6}=\frac{2}{3}
+```
+
+Por lo que los triángulos son semejantes.
+
+Ejemplo 3:
+
+Verifica si los triángulos ABC y A´B‘C‘ con lados |AB| = 5, |BC| = 3, |AC| = 4, |A´B ´‘| = 15, |B´‘C´‘| = 9, |A´‘C´‘| = 12, son semejantes.
+
+Solución:
+
+Ahora utilizaremos la definición que dimos de triángulos semejantes:
+
+```latex
+\frac{|AB|}{|A'B'|}=\frac{|BC|}{|B'C'|}=\frac{|AC|}{|A'C'|}
+```
+
+```latex
+\frac{5}{15}=\frac{3}{9}=\frac{4}{12}
+```
+
+Como se cumple la igualdad, concluimos que: ABC ∼ A‘B‘C‘.
+
+Observa que pudimos utilizar:
+
+```latex
+\frac{|AB|}{|A'B'|}=\frac{|BC|}{|B'C'|}=\frac{|AC|}{|A'C'|}
+```
+
+$\frac{15}{5}=\frac{9}{3}=\frac{12}{4}$ = 3
+
+Por la propiedad simétrica de la semejanza de triángulos y concluir el mismo resultado.
+
+Ejemplo 4:
+
+Verifica si los siguientes triángulos son semejantes:
+
+Solución:
+
+Empezamos observando que hay un ángulo congruente en ambos triángulos, debido a que es opuesto por el vértice.
+
+Imagen 108: Triángulos de Cortes de rectas.
+
+Descripción Imagen: Dos triángulos rectángulos que comparten un ángulo agudo opuesto por el vértice, uno de hipotenusa raíz cuadrada de 52 y un cateto de medida 6, el otro con hipotenusa de medida raíz cuadrada de 13 y un cateto de medida 3.
+
+Ahora vemos inmediatamente que el lado horizontal del triángulo de la izquierda mide el doble que el lado correspondiente del otro triángulo.
+
+Nos falta ver que el lado inclinado del primer triángulo (de la izquierda) mida exactamente el doble que el de la derecha.
+
+Observa que:
+
+```latex
+\sqrt{52}=\sqrt{(4)(13)}=2\sqrt{13}
+```
+
+Es decir, el lado inclinado del triángulo de la izquierda mide el doble del lado que le corresponde del triángulo de la derecha.
+
+Entonces, los triángulos son semejantes.
+
+Como puedes ver los tres criterios de congruencia entre triángulos se pueden extender a criterios de semejanza de triángulos como se enlistan enseguida:
+
+Si dos ángulos de un triángulo son congruentes con dos ángulos de otro triángulo, los dos triángulos son semejantes.
+
+Si un ángulo de un triángulo es congruente con el ángulo de otro triángulo, y además los lados del ángulo considerado en cada triángulo son proporcionales, entonces los dos triángulos son semejantes.
+
+Si las longitudes de los lados de un triángulo son proporcionales a las longitudes de los lados de otro triángulo, entonces los dos triángulos son semejantes.
+
+Lo único que hemos hecho es cambiar la palabra «congruente» por «proporcional» cuando se refiere a la longitud de uno o varios lados de los triángulos.
+
+Ahora podemos aplicar los tres criterios para determinar si dos triángulos son semejantes.
+
+Ejemplo 5:
+
+Expresa los tres criterios de semejanza de triángulos como teoremas.
+
+1. Primer criterio:
+
+Teorema 2
+
+Si dos ángulos de un triángulo son congruentes con los de otro triángulo, entonces los triángulos son semejantes.
+
+Porque si se conocen α y β, el otro ángulo debe medir 180◦ − α− β.
+
+Entonces los tres ángulos de cada triángulo son congruentes y los triángulos son semejantes.
+
+2. Segundo criterio:
+
+Teorema 3
+
+Si uno de los ángulos de un triángulo es congruente con un ángulo de otro segundo triángulo, y los lados de cada uno de estos ángulos son proporcionales, entonces los triángulos son semejantes.
+
+Porque al ser proporcionales los lados del triángulo y el ángulo entre ellos congruente, se tiene que uno es escala del otro, y el tercer lado de los triángulos queda proporcional, quedando los otros ángulos faltantes congruentes entre los triángulos.
+
+3. Tercer criterio:
+
+Teorema 4
+
+Si las longitudes de los lados de un triángulo son proporcionales a las longitudes de los lados de un segundo triángulo, los dos triángulos son proporcionales.
+
+Porque uno es escala del otro.
+
+# TEMA 3: TEOREMA DE PITÁGORAS
+
+En geometría, uno de los teoremas más importantes es el teorema de Pitágoras porque se aplica muy frecuentemente para resolver problemas.
+
+Teorema 1:
+
+En todo triángulo rectángulo que se encuentra en un plano, la suma de los cuadrados de las longitudes de los catetos es igual al cuadrado de la longitud de la hipotenusa. Algebraicamente, si a y b son las longitudes de los catetos del triángulo rectángulo y c es la longitud de su hipotenusa, entonces se cumple:
+
+```latex
+c^{2}=a^{2}+b^{2}
+```
+
+Para demostrarlo consideramos el siguiente triángulo:
+
+Imagen 109: Triángulo Rectángulo.
+
+Descripción Imagen: Triángulo rectángulo, con catetos etiquetados con a y b. La hipotenusa está etiquetada con la letra c.
+
+Empezamos creando las siguientes figuras utilizando el triángulo considerado:
+
+Imagen 110: Demostración Gráfica.
+
+Descripción Imagen: Cuadrado con medida de lado a + b, dentro de este, inscrito el cuadrado de lado c, este cuadrado genera triángulos de medidas equivalentes al anterior. Al lado se encuentra un cuadrado de igual dimensión, sobre este hay un corte paralelo a la altura del cuadrado a una distancia b, hay otro corte paralelo a la base a una distancia b de la base, estos cortes generan 4 figuras, dos cuadrados: uno de lado a y el otro de lado b, y dos rectángulos, uno de largo a y ancho b y otro de largo b y ancho a.
+
+En las dos figuras tenemos un cuadrado de lado a + b.
+
+Observa que en la figura de la izquierda hay un cuadrado inclinado en medio.
+
+Este es un cuadrado porque de los tres ángulos del triángulo rectángulo los dos agudos suman 90◦. Observa que los tres ángulos que están en cada esquina de la figura de en medio suman 180◦, y que siempre están los dos ángulos agudos del triángulo rectángulo, que suman 90◦.
+
+Luego, el ángulo interno del cuadrilátero que está dentro de la figura de la izquierda mide 90◦, porque la suma de los tres es 180◦.
+
+Entonces, el área de este cuadrado es c2, porque su lado mide c unidades.
+
+Por otra parte, cada triángulo que queda alrededor del cuadrado tiene un área de $\frac{ab}{2}$ , y en total son cuatro. Entonces, el área de los cuatro triángulos es: 2ab.
+
+En la figura de la derecha, tenemos un cuadrado que tiene longitud de lado a + b.
+
+El área de este cuadrado es:
+
+```latex
+a^{2}+b^{2}+2ab
+```
+
+Comparando las áreas de las dos figuras, obtenemos:
+
+$a^{2}+b^{2}+2ab$ = $c^{2}+2ab$
+
+Al restar 2ab en ambos lados de la igualdad obtenemos:
+
+$a^{2}+b^{2}=c^{2}$ , que es lo que establece el teorema.
+
+El teorema de Pitágoras puede servir para calcular la longitud de uno de los catetos de un triángulo rectángulo, cuando se conocen la hipotenusa y el otro cateto.
+
+Ejemplo 1
+
+La hipotenusa de un triángulo rectángulo mide 13 cm., y un cateto (horizontal) mide 12 cm. Calcula la longitud x del lado faltante de este triángulo.
+
+Solución:
+
+Aplicamos el teorema de Pitágoras para calcular el valor de x.
+
+Imagen 111: Triángulo Ejemplo 1.
+
+Descripción Imagen: Triángulo rectángulo con hipotenusa de valor 13 un cateto de medida 12 y el otro de medida x.
+
+Nosotros conocemos: a = 12, y c = 13.
+
+Debemos determinar el valor de b = x:
+
+```latex
+a^{2}+b^{2}=c^{2}
+```
+
+Entonces:
+
+```latex
+b^{2}=c^{2}-a^{2}
+```
+
+Ahora sustituimos los valores conocidos:
+
+b = $\sqrt{13^{2}-5^{2}}=\sqrt{169-25}=\sqrt{144}=12$
+
+Entonces, la longitud del cateto es 12 unidades.
+
+El teorema de Pitágoras está escrito de manera que parece que se desea calcular la longitud de la hipotenusa:
+
+Ejemplo 2:
+
+Calcula la longitud de la hipotenusa del triángulo con longitudes de catetos 21 cm y 20 cm, respectivamente.
+
+Solución:
+
+Aplicamos directamente el teorema:
+
+```latex
+a^{2}+b^{2}=c^{2}
+```
+
+```latex
+(21)^{2}+(20)^{2}=c^{2}
+```
+
+441 + 400 = c2
+
+Entonces, la hipotenusa de ese triángulo rectángulo mide: c = $\sqrt{841}$ = 29 cm.
+
+El triángulo es semejante al siguiente:
+
+Imagen 112: Triángulo Ejemplo 2.
+
+Descripción Imagen: Triángulo rectángulo con hipotenusa de valor 29 un cateto de medida 21 y el otro de medida 20.
+
+Igualmente, el teorema de Pitágoras se puede utilizar para verificar que las longitudes de los lados de un triángulo correspondan a un triángulo rectángulo.
+
+Ejemplo 3:
+
+El profesor indicó que un triángulo rectángulo tenía sus lados con medidas: 77 cm, 36 cm y 85 cm. Verifica que se trata de un triángulo rectángulo.
+
+Solución:
+
+Si el triángulo es rectángulo, debe satisfacer el teorema de Pitágoras.
+
+Observa que la hipotenusa siempre es el lado de mayor longitud.
+
+En este caso, la hipotenusa mide 85 cm.
+
+Verificamos si se trata de un triángulo rectángulo:
+
+```latex
+(85)^{2}=(77)^{2}+(36)^{2}
+```
+
+7225 = 5929 + 1296
+
+Como las longitudes de los lados del triángulo satisfacen el teorema de Pitágoras, se trata de un triángulo rectángulo.
+
+No siempre obtendremos longitudes de lados del triángulo rectángulo con números enteros. Algunas veces obtendremos números raciones e inclusive números irracionales.
+
+Ejemplo 4
+
+Calcula la longitud de la hipotenusa c del triángulo rectángulo cuyos catetos miden 7 cm y 4 cm, respectivamente.
+
+Solución:
+
+En este caso, a = 7, y b = 4.
+
+Aplicamos el teorema de Pitágoras para calcular la longitud de la hipotenusa de este triángulo rectángulo:
+
+c = $\sqrt{49+16}$ = $\sqrt{65}$ ≈ 8.062257748
+
+Observa que la hipotenusa de este triángulo rectángulo mide un poco más de 8 unidades.
+
+Igualmente, podemos utilizar el teorema de Pitágoras para encontrar geométricamente la posición de puntos en la recta numérica, como se muestra en el siguiente ejemplo.
+
+Ejemplo 5:
+
+Encuentra la posición de los puntos $\sqrt{2}$ , $\sqrt{3}$ , y $\sqrt{5}$ en la recta numérica.
+
+Solución:
+
+Para calcular la posición de x = $\sqrt{2}$ vamos a construir un triángulo con catetos de longitud 1:
+
+Imagen 113: Raíz Cuadrada de 2.
+
+Descripción Imagen: Recta numérica que inicia en 0, sobre esta un triángulo rectángulo con un cateto adyacente a la recta entre 0 y 1, el cateto de con medida 1, el otro cateto también de medida 1, la hipotenusa de medida raíz cuadrada de 2. Entre el vértice externo del triángulo y la recta hay un arco el cual cruza a la recta en raíz cuadrada de 2.
+
+Ahora que conocemos la ubicación del punto x = $\sqrt{2}$ vamos a utilizarla para calcular la posición del punto $\sqrt{3}$ .
+
+Para este fin, vamos a dibujar un triángulo con catetos $\sqrt{2}$ y 1.
+
+La hipotenusa de este triángulo será de:
+
+c = $\sqrt{a^{2}+b^{2}}$
+
+c = $\sqrt{\sqrt{2}^{2}+1^{2}}$
+
+c = $\sqrt{3}$ unidades.
+
+La figura es la siguiente:
+
+Imagen 114: Raíz Cuadrada de 3.
+
+Descripción Imagen: Recta numérica que inicia en 0, sobre esta un triángulo rectángulo con un cateto adyacente a la recta entre 0 y raíz cuadrada de 2, el cateto con medida raíz cuadrada de 2, el otro cateto tiene medida 1, la hipotenusa de medida raíz cuadrada de 3. Entre el vértice externo del triángulo y la recta hay un arco el cual cruza a la recta en raíz cuadrada de 3.
+
+Finalmente, para calcular la posición del número $\sqrt{5}$ , trazamos un triángulo rectángulo con catetos de longitudes 2 y 1, porque así, la hipotenusa medirá:
+
+c = $\sqrt{2^{2}+1^{2}}=\sqrt{4+1}=\sqrt{5}$
+
+La figura muestra el trazo:
+
+Imagen 115: Raíz cuadrada de 5.
+
+Descripción Imagen: Recta numérica que inicia en 0, sobre esta un triángulo rectángulo con un cateto adyacente a la recta entre 0 y 2, el cateto de con medida 2, el otro cateto de medida 1, la hipotenusa de medida raíz cuadrada de 5. Entre el vértice externo del triángulo y la recta hay un arco el cual cruza a la recta en raíz cuadrada de 5.
+
+Otra forma de encontrar el punto que corresponde a ,5 en la recta numérica es como sigue:
+
+Construimos un rectángulo de base $\sqrt{3}$ y altura $\sqrt{2}$ .
+
+Trazamos la diagonal de ese rectángulo.
+
+Imagen 116: Rectángulo y diagonal de este.
+
+Descripción Imagen: Rectángulo con base raíz cuadrada de 3 y altura raíz cuadrada de 2, la diagonal del rectángulo mide raíz cuadrada de 5.
+
+La diagonal mide $\sqrt{5}$ , porque:
+
+```latex
+D=\sqrt{(\sqrt{3})^{2}+(\sqrt{2})^{2}}
+```
+
+```latex
+D=\sqrt{5}
+```
+
+Muchos problemas aplicados requieren del uso del teorema de Pitágoras.
+
+Al igual que en el caso de problemas aplicados, otras ramas de la matemática utilizan muy frecuentemente el teorema de Pitágoras para resolver problemas.
+
+Por ejemplo, para calcular la distancia entre dos puntos en geometría analítica, vamos a utilizar una fórmula que consiste en la aplicación del teorema de Pitágoras.
+
+En cálculo diferencial e integral, en trigonometría, etc., y en muchas diferentes situaciones vamos a necesitar aplicar este teorema para resolver problemas diversos.
+
+Ejemplo 6:
+
+A un poste del cableado eléctrico se le colocará un cable tensor de acero para darle soporte.
+
+Solución:
+
+La altura a la cual se colocará este cable de acero es de 3.5 metros y se fijará a 1.25 metros de la base del poste. ¿Qué longitud tendrá el cable?
+
+(Omite el cable requerido para fijarlo)
+
+Nosotros tenemos la siguiente situación:
+
+Imagen 117: Gráfico y representación en triángulo.
+
+Descripción Imagen: Plano con recta perpendicular, este etiquetado con la palabra poste, sobre este un recta inclinada que toca el piso y el poste en un punto, esta recta está etiquetada con la palabra cable. Al lado de este un triángulo rectángulo con medida de hipotenusa c, cateto adyacente al piso 1,5 y el otro de medida 3,5.
+
+Necesitamos calcular la hipotenusa del triángulo dibujado a la derecha.
+
+Para eso, aplicamos el teorema de Pitágoras:
+
+c = $\sqrt{a^{2}+b^{2}}$ = $\sqrt{(3,5)^{2}+(1,5)^{2}}$ <!-- alt: raíz cuadrada de (3,5 ) a la 2 mas ( 1 , 5 ) a la 2 -->= $\sqrt{12,25+2,25}$ <!-- alt: raíz cuadrada de 12,25 mas 2, 25 --> = $\sqrt{14,25}$ <!-- alt: raíz cuadrada de 14 , 25 --> ≈ 3.807886553 metros.
+
+Al cortar el cable antes de colocarlo, deben considerar lo que se requiere para ajustarlo en el suelo y en la parte donde se sujetará del poste.
+
+### Practica lo aprendido
+
+1. Resuelve cada uno de los siguientes ejercicios. Las longitudes a y b corresponden a los catetos y c a la hipotenusa.
+
+¿Cuáles de las siguientes longitudes pueden corresponder a los lados de un triángulo rectángulo?
+
+a. a = 3, b = 4, c = 5
+
+b. a = 8, b = 6, c = 10.
+
+c. a = 5, b = 12, c = 13.
+
+d. a = 15, b = 8, c = 17.
+
+e. a = 12, b = 16, c = 20.
+
+f. a = 7, b = 24, c = 25.
+
+g. a = 24, b = 10, c = 26.
+
+h. a = 21, b = 20, c = 29.
+
+i. a = 16, b = 30, c = 34.
+
+j. a = 9, b = 40, c = 41.
+
+k. a = 35, b = 12, c = 37.
+
+l. a = 32, b = 24, c = 40.
+
+m. a = 27, b = 36, c = 45.
+
+n. a = 20, b = 48, c = 52.
+
+o. a = 11, b = 60, c = 61.
+
+p. a = 48, b = 14, c = 50.
+
+q. a = 45, b = 28, c = 53.
+
+r. a = 40, b = 42, c = 58.
+
+s. a = 33, b = 56, c = 65.
+
+t. a = 24, b = 70, c = 74.
+
+u. a = 13, b = 84, c = 85.
+
+v. a = 63, b = 16, c = 65.
+
+w. a = 60, b = 32, c = 68.
+
+x. a = 55, b = 48, c = 73.
+
+y. a = 48, b = 64, c = 80.
+
+2. ¿Cuáles de las siguientes longitudes pueden corresponder a los lados de un triángulo rectángulo?
+
+a. Cateto 1: 7, Hipotenusa: $\sqrt{53}$ . Encontrar la longitud del cateto 2.
+
+b. Cateto 1: 11, Hipotenusa: $\sqrt{265}$ . Encontrar la longitud del cateto 2.
+
+c. Cateto 1: 10, Cateto 2: 9. Encontrar la longitud de la hipotenusa.
+
+d. Cateto 1: 4, Cateto 2: 7. Encontrar la longitud de la hipotenusa.
+
+e. Cateto 1: 7, Hipotenusa: $\sqrt{170}$ . Encontrar la longitud del cateto 2.
+
+f. Cateto 1: 7, Cateto 2: 3. Encontrar la longitud de la hipotenusa.
+
+g. Cateto 1: 13, Cateto 2: 3. Encontrar la longitud de la hipotenusa.
+
+h. Cateto 1: 13, Cateto 2: 7. Encontrar la longitud de la hipotenusa.
+
+i. Cateto 1: 2, Cateto 2: 3. Encontrar la longitud de la hipotenusa.
+
+j. Hipotenusa: $\sqrt{5}$ , Cateto 2: 1. Encontrar la longitud del cateto 1.
+
+k. Cateto 1: 12, Cateto 2: 5. Encontrar la longitud de la hipotenusa.
+
+l. Cateto 1: 9, Hipotenusa: $\sqrt{106}$ . Encontrar la longitud del cateto 2.
+
+m. Cateto 1: 11, Hipotenusa: $\sqrt{122}$ . Encontrar la longitud del cateto 2.
+
+n. Cateto 1: 9, Hipotenusa: $\sqrt{225}$ <!-- alt: raíz cuadrada de 255 -->. Encontrar la longitud del cateto 2.
+
+o. Hipotenusa: $\sqrt{29}$ , Cateto 2: 2. Encontrar la longitud del cateto 1.
+
+p. Cateto 1: 6, Hipotenusa: $\sqrt{72}$ . Encontrar la longitud del cateto 2.
+
+q. Cateto 1: 3, Hipotenusa: $\sqrt{109}$ . Encontrar la longitud del cateto 2.
+
+r. Hipotenusa: $\sqrt{8}$ , Cateto 2: 2. Encontrar la longitud del cateto 1.
+
+s. Cateto 1: 1, Cateto 2: 11. Encontrar la longitud de la hipotenusa
+
+t. Cateto 1: 3, Hipotenusa: $\sqrt{10}$ . Encontrar la longitud del cateto 2.
+
+3. ¿Qué distancias irracionales puedes obtener al dibujar triángulos rectángulos con lados de longitudes 9 cm y 7 cm?
+
+4. ¿Cuánto mide la diagonal de un cuadrado de lado 7 cm?
+
+5. ¿Cuánto mide la diagonal de un cuadrado de lado 10 cm?
+
+6. ¿Cuánto mide la diagonal de un cuadrado de lado x cm?
+
+7. ¿Cuánto mide la diagonal de un rectángulo de base 7 cm y altura 6 cm?
+
+8. ¿Cuánto mide la diagonal de un rectángulo de base 10 cm y con un área de 50 cm cuadrados?
+
+# TEMA 4: POLÍGONOS
+
+## DEFINICIÓN Y CLASIFICACIÓN DE POLÍGONOS
+
+Además del triángulo hay una gran cantidad de otras figuras geométricas delimitadas por segmentos de recta que son importantes en geometría.
+
+- POLÍGONO
+
+Figura geométrica cerrada delimitada por segmentos de recta. Cada uno de los segmentos de recta es uno de sus lados y los puntos donde se intersectan dos segmentos de recta se llaman vértices.
+
+Los polígonos deben cumplir con:
+
+i. Dos lados consecutivos no están sobre la misma recta,
+
+ii. Cada lado del polígono intersecta a exactamente otros dos lados del polígono, y
+
+iii. Los lados del polígono se intersectan por sus extremos.
+
+Por ejemplo, los siguientes son polígonos:
+
+*Imagen 118: Polígono A*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta con diferentes medidas, unidos un sus puntos finales.
+
+*Imagen 119: Polígono B.*
+
+Descripción Imagen: Figura cerrada formada por 7 segmentos de recta con diferentes medidas, unidos un sus puntos finales
+
+Pero los siguientes no lo son:
+
+*Imagen 120: Sección Circular.*
+
+Descripción Imagen: Figura cerrada formada a partir del corte de una sección de una circunferencia.
+
+*Imagen 121: Estrella.*
+
+Descripción Imagen: Estrella de 5 puntas, con los segmentos que unen cada uno de los lados.
+
+*Imagen 122: Giro de Figura.*
+
+Descripción Imagen: Figura cerrada formada por un giro de una parte de esta.
+
+Cada polígono recibe su nombre de acuerdo al número de lados que tiene:
+
+- Triángulo: polígono de tres lados
+
+- Cuadrilátero: polígono de cuatro lados
+
+- Pentágono: polígono de cinco lados
+
+- Hexágono: polígono de seis lados
+
+- Heptágono: polígono de siete lados
+
+- Octágono: polígono de ocho lados
+
+- Eneágono: polígono de nueve lados
+
+- Decágono: polígono de diez lados, etc
+
+### Clasificación
+
+Para facilitar el estudio de las figuras geométricas es conveniente clasificarlas. Los polígonos se clasifican como:
+
+- Equilátero: es aquel polígono que tiene todos sus lados iguales.
+
+- Equiángulo: es aquel polígono que tiene todos sus ángulos iguales.
+
+- Regular: aquel polígono que es equilátero y equiángulo a la vez. Es decir, un polígono es regular si todos sus lados y todos sus ángulos tienen la misma medida.
+
+*Imagen 123: Polígono Equilátero.*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta, todos de igual medida, unidos un sus puntos finales
+
+*Imagen 124: Polígono Equiángulo.*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta con diferentes medidas, pero sus ángulos internos de igual medida.
+
+*Imagen 125: Polígono Regular*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta igual medida, unidos un sus puntos finales, sus ángulos internos de igual medida.
+
+También se definen:
+
+- Cóncavo: es aquel polígono que tiene al menos uno de sus ángulos internos es entrante.
+
+El polígono mostrado como un polígono equilátero, es cóncavo.
+
+- Convexo: es aquel polígono que ninguno de sus ángulos internos es entrante.
+
+El polígono mostrado como un polígono equiángulo, es convexo.
+
+En particular, para el polígono regular de n lados, se definen los siguientes elementos:
+
+- Radio: Es el segmento de recta que va del centro del polígono regular a cualquiera de sus vértices.
+
+- Apotema: Es el segmento de recta que va del centro del polígono al punto medio de cualquiera de sus lados.
+
+- Diagonales: Es el segmento de recta que une dos vértices no consecutivos. En la siguiente figura se muestran cada uno de los siguientes elementos:
+
+*Imagen 126: Partes de un Polígono.*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta, en la cual se identifican: Diagonal, que une dos vértices, radio, que une el centro con un vértice, apotema, perpendicular a un segmento.
+
+En realidad, la diagonal se define para cualquier polígono, no solamente los polígonos regulares. Podemos calcular el número de diagonales que tiene un polígono convexo de la siguiente manera.
+
+Ejemplo 1:
+
+Calcula el número de diagonales que tiene un polígono regular de n lados.
+
+Solución:
+
+Empezamos notando que el polígono regular de n lados tiene n vértices.
+
+Fijándonos en uno de los n vértices, podemos formar n − 3 diagonales, porque una diagonal no puede ir de un vértice a sí mismo, ni a los vértices más próximos a él:
+
+*Imagen 127: Diagonales.*
+
+Descripción Imagen: Polígono que une un vértice con los demás vértices, mediante segmentos de recta.
+
+Observa que hay tres nodos que no sirven para trazar una diagonal.
+
+Los dos vecinos porque en lugar de formar una diagonal generan un lado del polígono.
+
+El tercer vértice es sobre el cual nos hemos fijado: una diagonal no puede iniciar y terminar en el mismo vértice.
+
+Pero nosotros podemos fijarnos en cualquiera de los n vértices del polígono.
+
+Entonces, considerando todos los vértices, podemos trazar n (n − 3) diagonales.
+
+Sin embargo, debemos tener en cuenta que cada diagonal la hemos contado dos veces: una cuando el vértice es inicial y la otra cuando es el punto final de la diagonal.
+
+Recuerda que cada diagonal toca dos vértices.
+
+Es decir, si dividimos entre dos, obtenemos el número de diagonales del polígono regular:
+
+```latex
+D=\frac{n(n-3)}{2}
+```
+
+Podemos verificar el resultado calculando para polígonos de un número de lados pequeño.
+
+Ejemplo 2:
+
+Calcula el número de diagonales para los polígonos regulares de 3, 4, 5 y 6 lados.
+
+Solución:
+
+Empezamos con el triángulo: no se le pueden trazar diagonales.
+
+```latex
+D_{3}=\frac{3(3-3)}{2}=\frac{3(0)}{2}=0
+```
+
+*Imagen 128: Triángulo.*
+
+Descripción Imagen: Figura cerrada formada por 3 segmentos de igual medida, forman un triángulo.
+
+Ahora el cuadrado: se le pueden trazar dos diagonales.
+
+```latex
+D_{4}=\frac{4(4-3)}{4}=\frac{4}{2}=2
+```
+
+*Imagen 129: Cuadrado*
+
+Descripción Imagen: Cuadrado en el cual se identifican sus diagonales, que unen los vértices.
+
+Sigue el pentágono: se le pueden trazar 5 diagonales (recuerda la estrella).
+
+```latex
+D_{5}=\frac{5(5-3)}{2}=\frac{5(2)}{2}=5
+```
+
+*Imagen 130: Pentágono.*
+
+Descripción Imagen: Figura cerrada formada por 5 segmentos de recta de igual medida, con vértices unidos por sus diagonales.
+
+Finalmente, el hexágono:
+
+```latex
+D_{6}=\frac{6(6-3)}{2}=\frac{6(3)}{2}=9
+```
+
+*Imagen 131: Hexágono.*
+
+Descripción Imagen: Figura cerrada formada por 6 segmentos de recta de igual medida, con ángulos internos de igual medida. Con las respectivas diagonales que unen los vértices.
+
+Observa que las diagonales siempre van de un vértice a otro vértice no consecutivo del inicial. Siempre debe haber al menos un vértice entre el inicio y fin de la diagonal.
+
+Ejemplo 3:
+
+Indica la clasificación de cada polígono.
+
+Solución:
+
+Este símbolo se utiliza frecuentemente en señalización para indicar advertencia.
+
+*Imagen 132: Advertencia.*
+
+Descripción Imagen: Triángulo equilátero invertido, el cual tiene al interior un signo de admiración.
+
+Es un triángulo: equilátero, porque todos sus lados tienen la misma medida, y también es equiángulo, porque todos sus ángulos también tienen la misma medida.
+
+Es decir, el triángulo es regular, pues es equilátero y equiángulo a la vez.
+
+También se trata de un triángulo convexo, pues ninguno de sus ángulos internos es entrante.
+
+El siguiente símbolo se utiliza en tránsito:
+
+*Imagen 133: Curvas.*
+
+Descripción Imagen: Rombo el cual tiene al interior una S invertida, símbolo para indicar curvas en la vía.
+
+Este polígono es un cuadrilátero.
+
+Al parecer, todos sus lados tienen la misma medida, por lo que se trata de un cuadrilátero regular.
+
+También tiene las medidas de todos sus ángulos internos iguales, así que es un cuadrilátero equiángulo.
+
+También es convexo, porque todos sus ángulos internos miden lo mismo que un ángulo recto. Siguiente:
+
+*Imagen 134: Flecha.*
+
+Descripción Imagen: Figura de una flecha con punta izquierda.
+
+Ahora tenemos un polígono de siete lados: se trata de un heptágono.
+
+Este heptágono no es ni equilátero, ni equiángulo.
+
+Pero tiene algunos ángulos internos entrantes, por eso es cóncavo.
+
+Ejemplo 4:
+
+¿A qué clase de polígono pertenece el mostrado?
+
+Como el polígono tiene 4 lados se trata de un cuadrilátero.
+
+*Imagen 135: Cuadrilátero.*
+
+Dado que tiene un ángulo interno que es entrante se trata de un cuadrilátero cóncavo.
+
+También es fácil observar que las medidas de todos sus lados son diferente, así que no se trata de un cuadrilátero equilátero.
+
+Al igual que con sus ángulos. Así que tampoco es equiángulo.
+
+En matemáticas, cuando resolvemos problemas, siempre aplicamos las propiedades de los objetos cuando nos ayudan a la solución.
+
+Es importante que aprendas a identificar cuándo una figura no es un polígono porque no podemos aplicar propiedades de polígonos a cualquier figura.
+
+Si encuentras una figura que no sea polígono, posiblemente no tenga las mismas propiedades que éstos.
+
+Ejemplo 5
+
+¿Es la siguiente figura un polígono? ¿Por qué?
+
+Solución:
+
+Esta figura...
+
+*Imagen 136: Marco.*
+
+Descripción Imagen: Figura cerrada formada por un rectángulo, con otro de menor tamaño al interior de este, se unen los vértices de estos mediante segmentos de rectas.
+
+No es un polígono, porque cada lado debe tocar exactamente dos lados en sus extremos.
+
+Observa que cada lado de la figura encuentra a otros dos lados en cada uno de sus extremos.
+
+Es decir, cada lado toca a otros cuatro lados, lo cual no ocurre para los polígonos.
+
+Ejemplo 6:
+
+¿Es la siguiente figura un polígono? ¿Por qué?
+
+Esta figura...
+
+*Imagen 137: Rectángulo sin casquete circular.*
+
+Descripción Imagen: Figura cerrada formada por un rectángulo, al cual se le ha retirado una sección circular.
+
+No es un polígono.
+
+Un polígono es una figura cerrada formada de segmentos de recta solamente.
+
+Esta figura tiene un arco en la parte superior.
+
+Por tanto, no se trata de un polígono.
+
+SUMA DE ÁNGULOS
+
+En esta sección vamos a demostrar algunos teoremas que nos ayudarán a resolver problemas más adelante.
+
+Teorema 1:
+
+La suma de los ángulos internos de un polígono de n lados es igual a 180 (n − 2) ◦
+
+En un polígono de n lados podemos dibujar n − 3 diagonales que forman n − 2 triángulos.
+
+*Imagen 138: Diagonales de un polígono.*
+
+Descripción Imagen: Figura cerrada formada por 8 segmentos unidos en sus puntos terminales. Con los segmentos de recta que unen un vértice con los demás.
+
+La suma de los ángulos internos de esos triángulos es igual a la suma de los ángulos internos del polígono de n lados.
+
+Y como para cada triángulo, la suma de los ángulos internos es 180◦, para los n − 2 triángulos que se trazaron la suma es: 180 (n − 2) ◦.
+
+Ejemplo 1:
+
+Calcula la suma de los ángulos internos de los polígonos de 3, 4, 5, 6, 7 y 8 lados utilizando la fórmula:
+
+Solución:
+
+Sint = 180 (n − 2) ◦
+
+Para n = 3, sabemos que la suma es 180◦:
+
+Sint = 180 (n − 2) ◦ = 180 (3 − 2) ◦ = 180◦
+
+Para n = 4 se trata de un cuadrilátero.
+
+Dentro del cuadrilátero podemos dibujar dos triángulos trazando una de sus diagonales.
+
+Entonces la suma debe ser: 2 × 180◦ = 360◦.
+
+Ahora aplicamos la fórmula:
+
+Sint = 180 (n − 2) ◦ = 180 (4 − 2) ◦ = 180 (2) ◦ = 360◦
+
+Para el caso n = 5 se trata de un pentágono:
+
+Sint = 180 (5 − 2) ◦ = 180 (3) ◦ = 540◦
+
+Para n = 6 se trata de un hexágono:
+
+Sint = 180 (6 − 2) ◦ = 180 (6 − 2) ◦ = 180 (4) = 720◦
+
+Para n = 7 tenemos un heptágono:
+
+Sint = 180 (7 − 2) ◦ = 180 (5) ◦ = 900◦
+
+Y finalmente, para n = 8 tenemos un octágono:
+
+Sint = 180 (8 − 2) ◦ = 180 (6) ◦ = 1080◦
+
+En matemáticas, frecuentemente podemos demostrar un mismo teorema de varias formas. Por ejemplo, el Teorema de Pitágoras tiene más de cien formas diferentes de demostrarse.
+
+Ejemplo 2:
+
+Demuestra de una segunda forma que la suma de los ángulos internos de un polígono de n lados es igual a 180 (n − 2) ◦.
+
+Solución:
+
+Empezamos trazando un polígono de n lados y elegimos un punto dentro del mismo.
+
+Desde este punto interno trazamos segmentos de recta hasta cada uno de los vértices, como se muestra en la siguiente figura:
+
+*Imagen 139: Triángulos Internos.*
+
+Descripción Imagen: Polígono formado por 8 lados de diferente medida, se encuentran las divisiones en triángulos de la unión del centro con cada uno de los vértices.
+
+Así hemos formado n triángulos.
+
+La suma de los ángulos internos todos esos triángulos es 180 n◦.
+
+Pero los ángulos que están alrededor del punto interno al polígono que sirve de vértice común a todos los triángulos que dibujamos, no son parte de los ángulos internos del polígono.
+
+Estos ángulos adyacentes suman 360◦.
+
+Así que la suma de los ángulos internos del polígono es:
+
+Sint = 180 n◦ − 360◦ = 180 (n − 2) ◦
+
+Y con esto terminamos la demostración.
+
+De este teorema se desprenden los siguientes corolarios.
+
+- Corolario 1:
+
+Cada ángulo de un polígono equiángulo mide:
+
+$\left[ \frac{180(n-2)}{n} \right]^{\circ}$ .
+
+- Corolario 2:
+
+La suma de los cuatro ángulos internos de cualquier cuadrilátero es 360◦.
+
+- Corolario 3:
+
+Si al menos tres ángulos internos de un cuadrilátero son iguales, entonces todos sus ángulos internos miden lo mismo.
+
+Teorema 3:
+
+La suma de todos los ángulos externos de un polígono de n lados es 360◦.
+
+Ya sabemos que la suma de los ángulos internos de un polígono de n lados es igual a 180 (n − 2) ◦.
+
+Podemos prolongar cada lado en uno de sus sentidos para observar que un ángulo externo y su correspondiente interno adyacente suman 180◦.
+
+*Imagen 140: Ángulo Externo.*
+
+Descripción Imagen: Polígono de 8 lados, que en su base tiene marcado el ángulo que forma con la base.
+
+Si sumamos todos los ángulos internos con los externos obtenemos:
+
+Sext + Sint = 180 n◦
+
+Si a este valor le restamos la suma de los ángulos internos obtenemos la suma de los ángulos externos:
+
+Sext = 180 n◦ −Sint
+
+= 180 n◦ − 180(n − 2)◦
+
+= 180n◦ −180n◦ + 180 (2)◦
+
+= 360º
+
+Entonces, la suma de los ángulos externos de un polígono de n lados es 360◦ . De este teorema se desprenden los siguientes corolarios:
+
+- Corolario 4:
+
+Cada ángulo externo de un polígono equiángulo de n lados mide:
+
+$\left( \frac{360}{n} \right)^{\circ}$ .
+
+- Corolario 5:
+
+La suma de los ángulos externos de un polígono no depende del número de lados.
+
+Ejemplo 3:
+
+Calcula la medida de cada ángulo externo del polígono de 20 lados.
+
+Solución:
+
+En este caso tenemos n = 20.
+
+Sustituyendo en la fórmula obtenemos:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{20}=18^{\circ}
+```
+
+Enseguida se muestra el polígono regular de 20 lados y uno de sus ángulos externos:
+
+*Imagen 141: Ángulo Externo.*
+
+Descripción Imagen: Polígono formado por 20 lados, el polígono forma con la base en ángulo.
+
+Por otra parte, el ángulo interno debe medir: 180◦ − 18◦ = 162◦ , lo cual podemos verificar usando la fórmula:
+
+```latex
+\alpha_{\operatorname{int} }=\frac{S_{\operatorname{int} }}{n}=\frac{180(n-2)^{\circ}}{n}=\frac{180(18)^{\circ}}{20}=160^{\circ}
+```
+
+Ejemplo 4:
+
+Calcula la medida de cada ángulo externo de los polígonos regulares de 3, 4, 5, 6, 7, y 8 lados.
+
+Solución:
+
+Aplicamos la fórmula en cada caso.
+
+Empezamos con n = 3, el triángulo:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{3}=120^{\circ}
+```
+
+Este resultado es obvio, pues el ángulo interno del triángulo equilátero es de 60◦, su suplemento debe medir 120◦.
+
+Ahora calculamos el valor del ángulo externo del cuadrilátero regular:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{4}=90^{\circ}
+```
+
+Ahora consideramos al pentágono regular:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{5}=72^{\circ}
+```
+
+A continuación, el hexágono regular:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{6}=60^{\circ}
+```
+
+Ahora el heptágono regular:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{7}\approx51,42857143^{\circ}
+```
+
+Y finalmente, el octágono regular:
+
+```latex
+\alpha_{ext}=\frac{360^{\circ}}{8}=45^{\circ}
+```
+
+Ejemplo 5:
+
+¿Cuántos lados tienen el polígono que cumple que la diferencia de la suma de los ángulos internos menos la suma de los ángulos externos es 900º?
+
+Solución:
+
+Definimos por n al número de lados de ese polígono.
+
+Sabemos que:
+
+Sint −Sext = 900◦
+
+Entonces, tenemos que resolver la ecuación:
+
+180(n – 2) - 360 = 900º
+
+180(n – 2) = 900º + 360
+
+180n = 1260 + 360
+
+```latex
+n=\frac{1620^{\circ}}{180^{\circ}}=9
+```
+
+Entonces, se trata de un eneágono, también conocido como nonágono.
+
+Ejemplo 6:
+
+¿Cuántos lados tienen el polígono cuyos ángulos internos suman 1800◦?
+
+Solución:
+
+Debemos resolver la ecuación:
+
+Sint = 1800◦
+
+La solución es:
+
+180(n – 2) - 360 = 1800º
+
+180(n – 2) = 1800º + 360
+
+180n = 2160 + 360
+
+```latex
+n=\frac{2160^{\circ}}{180^{\circ}}=12
+```
+
+Entonces, se trata de un dodecágono.
+
+Ejemplo 7:
+
+¿Cuántos lados tiene el polígono que tiene la propiedad que todos los ángulos internos suman lo mismo que todos los ángulos externos?
+
+Solución:
+
+En este caso tenemos la ecuación: Sint = Sext, la cual resolvemos enseguida:
+
+180(n – 2) = 360º
+
+180n = 360º + 360º
+
+180n = 720º
+
+```latex
+n=\frac{720^{\circ}}{180^{\circ}}=4
+```
+
+Se trata de un cuadrilátero.
+
+### Triangulación de polígonos
+
+Para calcular el área de un polígono de n lados nos apoyaremos en la fórmula para calcular el área de un triángulo.
+
+Empezamos dibujando n − 2 diagonales que partan de un mismo vértice:
+
+*Imagen 142: Diagonales de un polígono.*
+
+Ahora calculamos el área de cada uno de los triángulos que hemos formado dentro del polígono. La suma de todas las áreas de los triángulos es igual al área del polígono.
+
+### Perímetros y Áreas
+
+Ejemplo 1:
+
+Calcula el área del cuadrilátero mostrado:
+
+Solución:
+
+Cuadrilátero:
+
+*Imagen 143: Cuadrilátero.*
+
+Empezamos dibujando dos triángulos dentro del cuadrilátero trazando una de sus diagonales:
+
+*Imagen 144: Cuadrilátero en cuadrícula.*
+
+Descripción Imagen: Cuadrícula de 3 de alto por 5 de ancho, el polígono anterior se dibuja con los 5 cuadrados de la cuadrícula como base, en el lado izquierdo tiene altura de una cuadrícula, el otro lado une la cuadrícula 2 con la cuarta del extremo superior, el otro segmento es la unión de la cuarta cuadrícula de la cara superior con el vértice inferior derecho. Se separa el polígono en dos triángulos.
+
+Ahora tenemos que calcular el área de dos triángulos.
+
+Uno de los triángulos es rectángulo. Su base y altura se han indicado en la figura.
+
+Calcular su área es inmediato:
+
+```latex
+A_{1}=\frac{(5)(1)}{2}=\frac{5}{2}cm^{2}
+```
+
+Para calcular el área A2 del otro triángulo necesitamos medir su altura, como se muestra en la siguiente figura:
+
+Ahora que sabemos que h = 2.75 cm y la base de ese triángulo mide b = 5.1 cm, podemos calcular el área A2:
+
+```latex
+A_{2}=\frac{(5,1)(2,75)}{2}=7,0125cm^{2}
+```
+<!-- alt: a sub 2 igual a (5,1) ( 2, 75) sobre 2 igual a 7,0125 c m a la 2 -->
+
+Al sumar A1 + A2 obtenemos el área del cuadrilátero:
+
+A = A1 + A2 = 2,5 cm2 + 7,0125 cm2 = 9,5125 cm2
+
+De esta manera podemos triangular cualquier polígono para calcular su área.
+
+Ejemplo 2:
+
+Calcula el área del siguiente polígono por medio de triangulación:
+
+Solución:
+
+Polígono a considerar:
+
+*Imagen 145: Figura de 5 lados.*
+
+Descripción Imagen: Figura cerrada formada por 5 lados de diferente media.
+
+Empezamos dibujando las diagonales del pentágono:
+
+*Imagen 146: Diagonales del pentágono.*
+
+Descripción Imagen: Figura cerrada formada por 5 lados de diferente medida, se trazan las diagonales del pentágono.
+
+Ahora solo calculamos el área de cada uno de los triángulos que hemos formado y sumamos estos valores para obtener el área del pentágono:
+
+```latex
+A_{1}=\frac{(4)(2)}{2}=4cm^{2}
+```
+
+```latex
+A_{2}=\frac{(5)(2)}{2}=5cm^{2}
+```
+
+```latex
+A_{3}=\frac{(5)(2)}{2}=5cm^{2}
+```
+
+Y el área del polígono es:
+
+A = A2 + A2 + A3 = 4 $cm^{2}$ + 5 $cm^{2}$ + 5 $cm^{2}$ = 14 $cm^{2}$
+
+Algunas veces conviene considerar un punto dentro del polígono en lugar de un vértice para formar la triangulación.
+
+Ejemplo 3:
+
+Calcula el área del terreno poligonal siguiente. El plano del terreno se ha cuadriculado para su medición.
+
+Solución:
+
+Terreno:
+
+*Imagen 147: Terreno.*
+
+Descripción Imagen: Figura cerrada formada por 7 lados de diferente medida, se inscribe en una cuadrícula.
+
+Empezamos trazando segmentos de recta desde cada vértice del polígono al punto de referencia C marcado en el terreno.
+
+Así que trazamos los segmentos de recta como se muestran en la siguiente figura:
+
+*Imagen 148: Triangulación del terreno.*
+
+Descripción Imagen: Figura cerrada formada por 7 lados de diferente medida, se unen los vértices con el centro, y esto forma 7 triángulos.
+
+Ahora calculamos el área de cada triángulo:
+
+```latex
+A_{1}=\frac{(3)(3)}{2}=4,5cm^{2}
+```
+
+```latex
+A_{2}=\frac{(3)(2)}{2}=3cm^{2}
+```
+
+```latex
+A_{3}=\frac{(3)(2)}{2}=3cm^{2}
+```
+
+```latex
+A_{4}=\frac{(3)(2)}{2}=3cm^{2}
+```
+
+```latex
+A_{5}=\frac{(3)(2)}{2}=3cm^{2}
+```
+
+```latex
+A_{6}=\frac{(3,61)(1,94)}{2}=3,5cm^{2}
+```
+
+```latex
+A_{7}=\frac{(3)(2)}{2}=3cm^{2}
+```
+
+```latex
+\underbrace{A_{i}}=23m^{2}
+```
+
+Entonces, el área del heptágono es: 23 metros cuadrados.
+
+El mismo problema puede atacarse de otra forma: primero calculamos el área de la cuadrícula que se dibujó sobre el plano del terreno y a esta área le restamos las áreas de los triángulos que quedan alrededor del terreno, sobre la cuadrícula.
+
+Ejemplo 4:
+
+Calcula el área y el perímetro del terreno del ejemplo anterior calculando el área de la cuadrícula primero y después restando el área de los triángulos que quedan alrededor.
+
+Solución:
+
+Empezamos trazando los triángulos que quedan fuera del terreno sobre la cuadrícula:
+
+*Imagen 149: Complemento al terreno.*
+
+Descripción Imagen: Figura cerrada formada por 7 lados de diferente medida, se inscribe en una cuadrícula, se sombre el sector externo a esta.
+
+La cuadrícula tiene 30 $m^{2}$ de área; 6 × 5 = 30.
+
+Observa que los triángulos A1, A2 y A3 tienen una base de 2 metros y una altura de 1 m.
+
+Entonces cada uno de ellos tiene un área de 1 metro cuadrado.
+
+El triángulo A4 tiene un área de:
+
+```latex
+A_{4}=\frac{(3)(2)}{2}=3m^{2}
+```
+
+Además hay un cuadrado de área en la esquina inferior derecha de la cuadrícula que no pertenece al terreno.
+
+Entonces, el área del terreno es:
+
+A = A cuadricula – A externa
+
+= 30 − [(3) (1) – 3 − 1]
+
+= 23 $m^{2}$
+
+Como era de esperarse, debemos obtener el mismo resultado usando ambos procedimientos.
+
+Este nuevo procedimiento lo llamaremos «triangulación externa».
+
+Generalmente la triangulación externa es más exacta que la triangulación (interna) porque no re- quiere del cálculo de área a partir de aproximaciones.
+
+Recuerda que para calcular el área del triángulo necesitamos de las medidas de la base y la altura.
+
+Algunas veces vamos a hacer mediciones y obtendremos aproximaciones a los valores reales de estas medidas.
+
+Por eso, algunas veces es preferible usar el método de triangulación externa.
+
+Para calcular el perímetro vamos a aplicar el teorema de Pitágoras. Empezamos observando que algunos lados del terreno tienen lados enteros, mientras que otros son la diagonal de triángulos rectángulos.
+
+Para calcular la longitud de estos últimos vamos a aplicar el Teorema de Pitágoras.
+
+La hipotenusa del triángulo A4 es:
+
+```latex
+h_{4}=\sqrt{2^{2}+3^{2}}=\sqrt{4+9}=\sqrt{13}
+```
+<!-- alt: raíz cuadrada de 2 a la 2 mas 3 a la 2 igual a raíz cuadrada de 4 mas 9 igual a raíz cuadrada de 13 -->
+
+La hipotenusa de cada uno de los triángulos A1, A2 y A3 es:
+
+$h=\sqrt{1^{2}+2^{2}}=\sqrt{1+4}=\sqrt{5}$ m
+
+Mostramos el terreno con las longitudes de todos sus lados:
+
+*Imagen 150: Terreno.*
+
+Descripción Imagen: Figura cerrada formada por 7 lados de diferente medida, se inscribe en una cuadrícula.
+
+El perímetro no es sino la suma de las longitudes de todos los lados del terreno:
+
+P = 3 + 3 $\sqrt{5}$ + 3 + $\sqrt{13}$ + 2 = 8 + $\sqrt{13}$ + 3 $\sqrt{13}$ ≈ 18,314 metros.
+
+# TEMA 5: CIRCUNFERENCIA
+
+En esta sección vamos a estudiar los conceptos básicos relacionados con el objeto geométrico llamado circunferencia.
+
+## DEFINICIÓN Y ELEMENTOS
+
+La circunferencia muy frecuentemente se confunde con el círculo, que aunque están siempre juntos, son diferentes una figura geométrica de la otra.
+
+CIRCUNFERENCIA:
+
+Es la figura geométrica formada por todos los puntos del plano que se encuentran a una distancia constante de un punto fijo llamado centro. La distancia fija se conoce como el radio de la circunferencia.
+
+En la figura de la derecha, el radio es la distancia del centro de la circunferencia a cualquiera de sus puntos. Por eso, también llamamos radio al segmento de recta que va del centro a cualquiera de los puntos de la circunferencia.
+
+El centro de la circunferencia está en su centro y está denotado por la literal C.
+
+Los elementos de la circunferencia son los siguientes:
+
+*Imagen 151: Circunferencia y su radio.*
+
+Descripción Imagen: Circunferencia sobre la cual se identifica un radio r, el centro de esta con la letra C.
+
+- CUERDA
+
+Segmento de recta que tiene sus puntos extremo sobre la circunferencia.
+
+- DIÁMETRO
+
+Es una cuerda que pasa por el centro de la circunferencia. Todo diámetro de una circunferencia es el eje de simetría de la misma. El diámetro es la mayor cuerda que se puede trazar a una circunferencia.
+
+- ARCO
+
+Parte de la circunferencia delimitada por dos puntos de la misma. Estos puntos se llaman extremos del arco.
+
+- TANGENTE
+
+Recta que toca a la circunferencia en un punto solamente.
+
+- PUNTO DE TANGENCIA
+
+El punto donde la recta tangente toca a la circunferencia a la cual es tangente.
+
+Un elemento más que podemos definir, como una generalización del concepto de tangente es el de secante:
+
+- SECANTE
+
+Recta que corta a la circunferencia en dos puntos.
+
+Algunos elementos más que frecuentemente se requieren en las discusiones geométricas son:
+
+- SEMICIRCUNFERENCIA
+
+Arco que abarca la mitad de la circunferencia.
+
+- SEMICÍRCULO
+
+La mitad de un círculo.
+
+*Imagen 152: Rectas de la Circunferencia.*
+
+Descripción Imagen: Circunferencia sobre la cual se identifica un radio r, el centro de esta, el diámetro, que une dos puntos sobre el perímetro y pasa por el centro, una recta tangente que es externa a la circunferencia y la toca en un punto, una cuerda, que es el segmento que une de manera interna dos puntos sobre la circunferencia, y una arco que es sobre la circunferencia entre dos puntos de esta.
+
+Por la forma de la circunferencia es claro que todas las circunferencias son semejantes entre sí, independientemente de la medida de su radio.
+
+De este hecho se desprende que si dividimos el perímetro de la circunferencia entre su diámetro siempre obtenemos el mismo cociente.
+
+Este resultado se establece como un teorema.
+
+Teorema 3:
+
+La razón de la circunferencia al diámetro es constante para todas las circunferencias.
+
+Este teorema da origen a la siguiente definición.
+
+```latex
+\pi
+```
+
+El número $\pi$ es igual al cociente: Circunferencia entre diámetro de una misma circunferencia y este valor es aproximadamente igual a 3,141592654
+
+Matemáticamente, tenemos:
+
+$\pi$ = $\frac{Circunferencia}{Diametro}=\frac{C}{D}$ ≈ 3,141592654
+
+Este número irracional es muy importante en matemáticas y frecuentemente lo aproximamos usando el valor π ≈ 3,1416 para facilitar los cálculos
+
+Otro concepto relacionado con el de circunferencia es el de círculo.
+
+- CÍRCULO
+
+Región del plano delimitada por una circunferencia.
+
+Es decir, la curva que delimita al círculo es una circunferencia. En otras palabras, el círculo es el área que queda encerrada por la circunferencia.
+
+Nosotros podemos calcular el área de un círculo, pero no así para la circunferencia. Igualmente, podemos calcular el perímetro de una circunferencia, pero no así del círculo.
+
+La fórmula para calcular el área del círculo se da en el siguiente teorema.
+
+*Imagen 153: Círculo.*
+
+Descripción Imagen: Circunferencia sobre la cual se identifica el círculo que es el área interior a este.
+
+Teorema 2:
+
+El área Ac del círculo de radio r es igual a:
+
+```latex
+Ac=\pi r^{2}
+```
+
+La demostración de este teorema no es difícil de dar, aunque requiere de la idea de límite, que estudiaremos hasta el curso de cálculo diferencial.
+
+De cualquier manera, enseguida se da una idea general de la demostración.
+
+Consideramos un polígono regular de n lados con vértices sobre la circunferencia de radio r como se muestra en la siguiente figura:
+
+*Imagen 154: Decágono.*
+
+Descripción Imagen: Polígono con 10 lados iguales, inscrito en una circunferencia.
+
+n = 10
+
+*Imagen 155: Icoságono.*
+
+Descripción Imagen: Polígono con 20 lados iguales, inscrito en una circunferencia.
+
+n= 20
+
+*Imagen 156: Pentacontágono*
+
+Descripción Imagen: Polígono con 50 lados iguales, inscrito en una circunferencia.
+
+n = 50
+
+Conforme hacemos crecer el número de lados n del polígono regular, el área del polígono se parece cada vez más al área del círculo.
+
+Nosotros podemos dividir el polígono regular de n lados en n triángulos con vértice en el centro de la circunferencia y base en cada lado del polígono.
+
+Cuando n crece mucho la altura de cada triángulo se acerca mucho al radio de la circunferencia y la suma de todas las bases de los triángulos, que es igual al perímetro del polígono, se acerca cada vez más a la longitud de la circunferencia.
+
+El área del polígono Ap es igual a la suma de las áreas de todos los triángulos que hemos formado:
+
+```latex
+A_{p}=\frac{b_{1}h}{2}+\frac{b_{2}h}{2}+...+\frac{b_{n}h}{2}
+```
+
+```latex
+A_{p}=\frac{h}{2}(b_{1}+b_{2}+...+b_{n})
+```
+
+Pero cuando n crece mucho, la suma de las bases de los triángulos se acerca cada vez más a la longitud de la circunferencia C.
+
+Y ya sabemos que C = $\pi$ · D, donde D es la longitud del diámetro y $\pi$ ≈ 3,1416.
+
+Al sustituir:
+
+$b_{1}+b_{2}+...+b_{n}$ = C
+
+en la fórmula para calcular el área del polígono regular de n lados, obtenemos:
+
+```latex
+Ap=\frac{h}{2}C
+```
+
+```latex
+Ap=\frac{h}{2}2\pi r
+```
+
+```latex
+Ap=\pi hr
+```
+
+Pero ya habíamos dicho que cuando n crece mucho, la altura h de cada triángulo mide lo mismo que el radio de la circunferencia y el área del polígono es igual al área del círculo, luego:
+
+```latex
+Ac=\pi r^{2}
+```
+
+## RECTAS TANGENTES A UNA CIRCUNFERENCIA
+
+Cuando una recta toca a una circunferencia en un punto, la recta se llama tangente. Las rectas tangentes a la circunferencia tienen especial interés en la geometría.
+
+Teorema 1:
+
+El radio de una circunferencia trazado al punto de tangencia es perpendicular a la tangente.
+
+Por la desigualdad del triángulo, AC + AP > CP, para cualquier punto P que esté sobre la tangente, distinto de A, siendo A el punto de tangencia. En otras palabras, para cualquier punto P diferente de A, la distancia desde P hasta el centro de la circunferencia es mayor que el radio.
+
+Es decir, el radio es la menor distancia desde el centro de la circunferencia a la recta tangente, y por eso el radio es perpendicular a la recta tangente.
+
+*Imagen 157: Triángulo rectángulo sobre circunferencia.*
+
+Descripción Imagen: Triángulo rectángulo sobre un radio de la circunferencia y una recta tangente a esta.
+
+Otra forma de dar este mismo resultado es:
+
+Corolario 1:
+
+La perpendicular a una recta tangente a una circunferencia en el punto de tangencia pasa por el centro de la circunferencia.
+
+Teorema 2:
+
+Dos tangentes a una circunferencia que pasan por un mismo punto P externo a la circunferencia y con puntos de tangencia en A y B , respectivamente, cumplen: |AP| = |BP|.
+
+Trazamos dos radios a los puntos de tangencia y el segmento de recta que va del centro de la circunferencia al punto P.
+
+Así hemos formado dos triángulos rectángulo: CAP y CBP siendo ∠CAP y ∠C BP ángulos recto.
+
+En estos triángulos los lados C A y C B tienen la misma medida al ser ambos radios de la misma circunferencia.
+
+Por otra parte, el segmento CP es la hipotenusa de ambos triángulos. Luego, los triángulos rectángulo trazados son iguales y los segmentos AP y BP miden lo mismo.
+
+El resultado de este teorema se hace evidente al observar la simetría de la figura, gracias a la forma que tiene la circunferencia.
+
+Con este teorema podemos demostrar otros que nos ayudarán a resolver otros problemas más adelante.
+
+Teorema 3:
+
+El ángulo formado por los radios.
+
+La cuerda con extremos en los puntos de tangencia.
+
+Observa que los triángulos CAP y CBP son iguales porque tiene sus tres lados iguales.
+
+El lado CP es común a ambos triángulos, los lados CA y CB son radios de la circunferencia y el otro lado de cada triángulo se trata de cada tangente, por eso son iguales.
+
+Esto indica que los triángulos CAP y CBP son congruentes. Por eso, los ángulos ∠APC y ∠BPC son iguales.
+
+También, ∠ACP = ∠BCP.
+
+Observa que el segmento CP es la mediatriz del segmento AB, porque el punto P equidista de los puntos A y B, y también C equidista de A y B, que es el método que utilizamos para trazar la mediatriz de un segmento.
+
+Ejemplo 1:
+
+Demuestra que si los cuatro lados de un cuadrilátero son tangentes a una circunferencia, la suma de las longitudes de dos lados opuestos es igual a la de los otros dos.
+
+Solución:
+
+Empezamos trazando la figura correspondiente:
+
+*Imagen 158: Cuadrilátero con círculo inscrito.*
+
+Descripción Imagen: Cuadrilátero el cual tiene un círculo inscrito en este, el cuadrilátero tiene vértices A, B, C, D, el punto en el que el círculo corta al segmento AB se denomina P, al segmento AD se denomina S, al segmento DC se denomina R, al segmento BC se denomina Q.
+
+Considerando la igualdad:
+
+|AB| + |CD| = |BC| + |AD|.
+
+|AB| = |AP| + |PB|
+
+|BC| = |BQ| + |QC|
+
+|CD| = |CR| + |RD| y
+
+|AD| = |AS| + |SD|.
+
+Luego:
+
+|AB| + |CD| = |BC| + |AD|
+
+(|AP| + |PB|) + (|CR| + |RD|) = (|BQ| + |QC|) + (|AS| + |SD|)
+
+Por otra parte, dado que los lados son tangentes a la circunferencia, la distancia desde cualquier vértice del cuadrilátero hasta dos puntos de tangencia consecutivos es constante.
+
+Entonces, también se cumple:
+
+|AP| = |AS|
+
+|BP| = |BQ|
+
+|CQ| = |CR| y
+
+|DR| = |DS|.
+
+De las cuatro igualdades anteriores, cada uno de los miembros está, bien a la izquierda, bien a la derecha de la ecuación:
+
+|AP| + |PB|) + (|CR| + |RD|) = (|BQ| + |QC|) + (|AS| + |SD|)
+
+Y por eso se cumple la igualdad.
+
+## ÁNGULOS EN LA CIRCUNFERENCIA
+
+En la circunferencia frecuentemente encontramos ciertos ángulos que nos ayudan a encontrar algunas de sus propiedades y a resolver problemas.
+
+- ÁNGULO CENTRAL
+
+En una circunferencia, el ángulo inscrito es aquel que tiene su vértice en el centro de la circunferencia y cuyos lados son dos radios.
+
+La siguiente figura se muestra un ángulo central θ:
+
+*Imagen 159: Ángulo central a una Circunferencia.*
+
+Se dice que un ángulo central es subtendido por el arco cuyos extremos son los puntos donde tocan sus lados a la circunferencia.
+
+Teorema 1:
+
+La medida de un ángulo central es igual a la medida del arco que lo subtiende.
+
+- ÁNGULO INSCRITO
+
+En una circunferencia un ángulo inscrito tiene su vértice en la circunferencia y sus lados son cuerdas.
+
+En la figura se muestra un ángulo inscrito:
+
+*Imagen 160: Ángulo Inscrito.*
+
+Descripción Imagen: Circulo, en el cual desde un punto se trazan dos diagonales, las cuales describen un ángulo.
+
+Teorema 2:
+
+Todo ángulo inscrito mide la mitad del arco que subtiende.

@@ -1,0 +1,71 @@
+% =====================================================================
+% Quiz 1 -- Cálculo 11° -- Trimestre I -- Semana 02 (sesión 004, jue 13 ago.)
+% Clave:  pdflatex -jobname=quiz-clave "\def\clave{}\input{quiz}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Quiz}
+\asignatura{Cálculo}
+\titulo{Quiz 1: los sistemas numéricos}
+\grado{11°}
+\periodo{I}
+\tiempo{20 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias: (1) propiedades comunes y diferentes (puntos 1 y 4); comparar sistemas
+%      numéricos (punto 2); representaciones (punto 3).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual. Escribe los procedimientos: las respuestas sin justificación no tienen
+puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta[1] ¿Cuál de las siguientes afirmaciones es \textbf{falsa}?
+\begin{opciones*}(2)
+  \item Todo número natural es entero.
+  \item Todo número entero es racional.
+  \item Todo número racional es entero.
+  \item El $0$ es un número natural.
+\end{opciones*}
+\begin{solucion}
+c). Contraejemplo: $\frac{1}{2} \in \Q$ pero $\frac{1}{2} \notin \Z$.
+\end{solucion}
+
+\pregunta[1.5] Ordena de menor a mayor y explica cómo los comparaste:
+\[
+  -\frac{3}{4}, \qquad 0{,}7, \qquad -0{,}8, \qquad \frac{2}{3}
+\]
+\begin{solucion}[3cm]
+En decimales: $-0{,}75$; $0{,}7$; $-0{,}8$; $0{,}\overline{6}$. Orden:
+$-0{,}8 < -\frac{3}{4} < \frac{2}{3} < 0{,}7$.
+\end{solucion}
+
+\pregunta[1] Escribe $0{,}\overline{36}$ como fracción irreducible.
+\begin{solucion}[2.5cm]
+$100x - x = 36$, $x = \frac{36}{99} = \frac{4}{11}$.
+\end{solucion}
+
+\pregunta[1.5] Di si cada afirmación es verdadera o falsa. Si es falsa, da un contraejemplo;
+si es verdadera, explica por qué.
+\begin{opciones}
+  \item La resta de números enteros es conmutativa.
+  \item Todo número racional distinto de cero tiene inverso multiplicativo en $\Q$.
+  \item El conjunto $\N$ es cerrado para la resta.
+\end{opciones}
+\begin{solucion}[2.5cm]
+a) Falsa: $5 - 3 = 2$ pero $3 - 5 = -2$. b) Verdadera: el inverso de $\frac{p}{q}$ (con
+$p \neq 0$) es $\frac{q}{p}$, que también es racional. c) Falsa: $3 - 5 = -2 \notin \N$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

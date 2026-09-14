@@ -1,0 +1,1974 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Conceptos de propiedades de la materia grado 6º de educación básica secundaria
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+# Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+En la siguiente guía de apoyo de ciencias naturales para grado sexto encontrará algunas ecuaciones e imágenes que tendrán una descripción inmediatamente después de encontrarla. Las ecuaciones no presentan grados de dificultad más allá de una multiplicación o una división.
+
+En cada capítulo encontrará las secciones “Examínate” que consiste en preguntas o ejercicios para responder junto con la lectura. A continuación encontrará la respuesta que se sugiere para comparar y comprobar los avances de la lectura.
+
+Al final de cada capítulo encontrará una serie de problemas y ejercicios de todas las secciones leídas. A lo largo de la lectura de esta guía encontrarás números en notación científica, así que se sugiere estudiar o repasar el tema para mejor comprensión.
+
+Los laboratorios sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Tabla de contenido
+
+# Tabla de imágenes
+
+Imagen 1. Figura de la sal de mesa 28
+
+Imagen 2. Modelos de 4 moléculas sencillas 32
+
+Imagen 3. Estructura cristalina con rayos X 49
+
+Imagen 4. Resorte con masas colgando. 59
+
+Imagen 5. Viga y bloque 61
+
+Imagen 6. Viga y bloque con ladrillos 62
+
+Imagen 7. Dos bloques puestos sobre una mesa 84
+
+Imagen 8. Jirafa 86
+
+Imagen 9. Dos lagos con profundidades. 87
+
+Imagen 10. Cocodrilo 98
+
+Imagen 11. Un tubo en forma de U 103
+
+Imagen 12. Un enorme tubo 104
+
+Imagen 13. Capas atmosféricas 124
+
+Imagen 14. Una persona con bolsa de agua 128
+
+Imagen 15. Pareja tomando de pitillo 131
+
+Imagen 16. Recipiente con gas con pistón 134
+
+Imagen 17. Fluido atraviesa sección 141
+
+Imagen 18. Burbujas en un tubo 143
+
+Imagen 19. Prueba en tu tina o lavabo 146
+
+# Índice de Tablas
+
+Tabla 1. Densidad de sólidos 54
+
+Tabla 2. Densidad de líquidos 55
+
+Tabla 3. Densidades de algunos gases 127
+
+# CAPÍTULO 1: La naturaleza atómica de la materia
+
+“La vida no se mide por el número de veces que respiramos, sino por los momentos que nos quitan el aliento. George Carlin”
+
+Imagina que vives en el mundo de Alicia en el País de las Maravillas cuando se encogió. Piensa que estás parado en una silla, que saltas de ella y que caes lentamente al piso, y después tu tamaño se va reduciendo de manera continua. Conforme te acercas al piso de madera, te preparas para el impacto. Y, a medida que te acercas al piso, te vuelves cada vez más pequeño. Empiezas a notar que su superficie no es tan lisa como parecía. Surgen grandes grietas que son las irregularidades microscópicas de la madera. Al caer en una de ellas, que parecen precipicios, mientras continúas reduciendo de tamaño, de nuevo te preparas para el impacto, y encuentras que el fondo del precipicio está formado a la vez por muchas más grietas. Al caer en una de éstas y empequeñecerte cada vez más, te das cuenta de que las sólidas paredes crujen y se fruncen. Las superficies palpitantes están formadas por glóbulos difusos, casi todos esféricos y algunos ovalados; algunos mayores que otros, y todos enlazados entre sí, formando cadenas largas de estructuras complejas. Al descender más y más, te sigues preparando para el impacto al acercarte a una de esas esferas nebulosas, cada vez más cercanas, y tú eres cada vez más pequeño. De repente ¡caramba!, entras a un nuevo universo. Caes en un mar de vacuidad, ocupado por bolitas dispersas que pasan con rapidez increíblemente alta. Estás en un átomo, tan vacío de materia como el sistema solar. El piso macizo sobre el que caíste, a excepción de las bolitas de materia por aquí y por allá, es espacio vacío. Si continuaras cayendo podrías atravesar muchos metros a través de materia “sólida” antes de chocar directamente con una bolita subatómica.
+
+Toda la materia, no importa lo maciza que parezca, está formada por bloques constructivos diminutos, que en sí son básicamente espacio vacío. Son los átomos, que se pueden combinar para formar moléculas, las cuales a la vez se aglomeran para formar la materia que vemos a nuestro alrededor.
+
+Dato curioso: No podemos “ver” los átomos porque son demasiado pequeños. Tampoco podemos ver la estrella más lejana. Hay muchas cosas que no podemos ver. Aunque eso no impide que éstas se investiguen o que se recabe evidencia indirecta de ellas.
+
+## La hipótesis atómica
+
+La idea de que la materia está formada por átomos se remonta a los griegos en el siglo V A. C. Los investigadores de la naturaleza de entonces se preguntaban si la materia era continua o no. Podemos romper una piedra en trozos más pequeños, y éstos a la vez para obtener gravilla. La gravilla se puede moler para obtener arena fina, la cual se podría convertir en polvo. Quizá les parecía que hay un fragmento mínimo de roca, un “átomo” que ya no se puede seguir dividiendo.
+
+Aristóteles, el más famoso de los filósofos griegos de la Antigüedad no creía en la idea de los átomos. En el siglo IV A. C. enseñaba que toda materia estaba formada por distintas combinaciones de cuatro elementos: tierra, aire, fuego y agua. Tal idea parecía razonable porque en el mundo que nos rodea sólo se ve la materia en cuatro formas: sólida (tierra), gaseosa (aire), líquida (agua) y del estado de las llamas (fuego). Los griegos consideraban al fuego como el elemento del cambio, ya que se observaba que ocasionaba cambios en las sustancias que ardían. Las ideas de Aristóteles a cerca de la naturaleza de la materia prevalecieron por más de 2.000 años.
+
+A principios del siglo XIX la idea atómica resurgió con un meteorólogo y profesor, el inglés, John Dalton, quien explicó exitosamente las reacciones químicas proponiendo que toda la materia está formada por átomos. Sin embargo, ni él ni sus contemporáneos contaban con pruebas convincentes de tal existencia. Años más tarde, Robert Brown, botánico escocés, notó algo muy raro bajo su microscopio, en 1827. Estaba estudiando los granos de polen suspendidos en agua, y vio que estaban en movimiento continuo y saltando de un lado a otro. Primero creyó que parecían ser alguna clase de formas vivientes en movimiento; pero después encontró que las partículas de polvo y hollín suspendidas en agua se mueven de la misma forma. A este brincoteo perpetuo de las partículas se le llamó después movimiento browniano, y se debe a los choques entre las partículas visibles y los átomos invisibles. Los átomos son invisibles por ser tan pequeños. Aunque no los pudo ver, podía ver su efecto sobre las partículas. Es como ver un globo gigante que una multitud de gente mueve en un partido de fútbol. Desde un avión que vuele alto no verías a las personas, ya que son pequeñas en comparación con el globo; pero sí verías moverse el globo. Los granos de polen que observó Brown en movimiento eran impulsados en forma constante por los átomos (en realidad, por las combinaciones de átomos que llamamos moléculas) que formaban el agua que rodeaba los granos.
+
+Todo esto lo explicó Albert Einstein en 1905, el mismo año en el que anunció su teoría de la relatividad especial. Hasta la explicación de Einstein, que hizo posible calcular las masas de los átomos, muchos físicos prominentes no creían en la existencia de los átomos. Vemos entonces que la realidad del átomo no se estableció sino hasta principios del siglo XX.
+
+En 1963 el físico estadounidense Richard Feynman destacó la importancia de los átomos, al afirmar que si algún cataclismo destruyera todo el conocimiento científico y tan sólo se pudiera heredar una frase a la siguiente generación, la cual contuviera un máximo de información en el menor número de palabras, ésta sería:
+
+“Todas las cosas están formadas por átomos, pequeñas partículas animadas en movimiento perpetuo, que se atraen entre sí cuando están un poco alejadas, pero que se repelen al acercarse entre sí.”
+
+Toda la materia, como zapatos, barcos, cera de sellado, verduras y hasta reyes y todo material que imaginemos, está formado por átomos. Es la hipótesis atómica, que hoy sirve como fundamento central de toda la ciencia.
+
+Dato curioso: No podemos “ver” los átomos porque son demasiado pequeños. Tampoco podemos ver la estrella más lejana. Hay muchas cosas que no podemos ver. Aunque eso no impide que éstas se investiguen o que se recabe evidencia indirecta de ellas.
+
+## Características de los átomos
+
+Los átomos, los bloques que constituyen la materia, son increíblemente pequeños. Un átomo es tantas veces menor que tú como una estrella mediana es tantas veces mayor que tú. Una buena forma de decirlo es que estamos entre los átomos y las estrellas. O bien, otra forma es mencionar la pequeñez de los átomos: el diámetro de un átomo es al diámetro de una manzana como el diámetro de una manzana es al diámetro de la Tierra. Entonces, imagina una manzana llena de átomos, e imagina la Tierra apretadamente llena con manzanas. Ambas contienen aproximadamente la misma cantidad.
+
+Los átomos son numerosos. Hay cerca de 100.000.000.000.000.000.000.000 átomos en un gramo (un dedal) de agua. En notación científica, son 1023 (diez elevado a la 23, es decir un 1 seguido de 23 ceros) átomos. La cantidad 1023 (diez a la 23) es enorme, más que el número de gotas de agua en todos los lagos y ríos del mundo. De manera que hay más átomos en un dedal lleno de agua que gotas de agua en los lagos y ríos del mundo. En la atmósfera hay unos 1022 (diez a la 22) átomos en un litro de aire. Y es interesante que el volumen de la atmósfera contiene unos 1022 (diez a la 22) litros de aire. Se trata de una cantidad increíblemente grande de átomos y es la misma cantidad increíblemente grande de litros de atmósfera. Los átomos son tan pequeños y tan numerosos que hay aproximadamente tantos átomos en el aire de tus pulmones en cualquier momento, que respiraciones de aire en la atmósfera terrestre.
+
+Dato curioso: ¿Cuánto tiempo tomaría contar hasta un millón? Si el conteo de un número toma un segundo, contar sin detenerse hasta un millón tomaría 11,6 días. Contar hasta mil millones es decir 109 (diez a la 9) llevaría 31,7 años. Contar hasta un billón es decir 1012 (diez a la 12) tomaría 31.700 años. Contar hasta 1022 (diez a la 22) ¡llevaría unas diez mil veces la edad del universo! ¡Eureka!
+
+Los átomos se mueven por todos lados. Los átomos están en un estado de movimiento perpetuo. Se mueven de un lugar a otro. En los sólidos, la tasa de “migración” es baja; en los líquidos, alta; y en los gases, la más alta. Por ejemplo, unas gotas de colorante comestible en un vaso de agua se extienden rápidamente hasta pintar toda el agua del vaso. Lo mismo ocurriría con una taza de colorante comestible que se arroje al océano: se dispersaría a tal grado que después lo encontraríamos en cualquier parte de los océanos del mundo.
+
+La dilución del agua es una razón fundamental para que los salmones sean capaces de regresar a su lugar de nacimiento. Los átomos y las moléculas del suelo y la vegetación en un lago o en un arroyo hacen esa agua única. Lo mismo sucede con las zonas de desove. Una vez que salen de los huevos, los jóvenes salmones permanecen en arroyos locales durante dos años, antes de comenzar su travesía hacia el océano, donde permanecerán por cuatro años en promedio. Algo que también llega al océano, por supuesto, es el agua de las regiones en las que crecieron. La composición del agua original se diluye conforme viaja hacia el océano. Ahí, se diluye aún más, pero sin llegar a hacerlo por completo. Cuando llega el tiempo de regresar a su hábitat original, los salmones se dejan guiar por su olfato. Nadan en dirección a los lugares donde aumentan las concentraciones del agua que les es familiar. Con el tiempo, encontrarán la fuente de esa agua. Los seres humanos podemos distinguir entre diferentes aguas embotelladas y los salmones tienen una capacidad mucho mayor para percibir la diferencia entre las aguas, así como los sabuesos tienen una sensibilidad similar para distinguir la composición del aire.
+
+En la atmósfera, los átomos y las moléculas se dispersan con mayor facilidad que en el océano: en el aire se mueven con rapideces de hasta 10 veces la rapidez del sonido. Se extienden tan rápido que el oxígeno que te rodea hoy pudo haber estado a miles de kilómetros hace unos cuantos días. Tus exhalaciones al aire muy rápidamente se mezclan con otros átomos en la atmósfera. Dentro de algunos años, cuando tu respiración de hoy se mezcle totalmente en la atmósfera, quienquiera que inhale aire en la Tierra tomará, en promedio, uno de los átomos de una de tus exhalaciones de hoy. Pero tú exhalas muchas veces, por lo que otras personas toman muchos, muchos de los átomos que alguna vez estuvieron en los pulmones y fueron parte de ti. Naturalmente, también sucede al revés. Aunque no lo creas, en cada una de tus inhalaciones respiras átomos que alguna vez fueron parte de ¡todos los que han vivido alguna vez! Si se considera que los átomos exhalados son parte de nuestros organismos (la nariz de un perro lo distingue con claridad), literalmente se podría afirmar que nos estamos respirando unos a otros.
+
+Los átomos no tienen edad. Muchos átomos de tu organismo son casi tan viejos como el universo mismo. Por ejemplo, cuando respiras, sólo algunos de los átomos que inhalas son expulsados en tu siguiente respiración. Los restantes se quedan en tu cuerpo para formar parte de ti, y después dejan tu organismo por varios medios. No “posees” los átomos que forman tu cuerpo: los tomas prestados. Todos compartimos la misma reserva de átomos, porque los átomos siempre están migrando por los alrededores, dentro de nosotros y entre nosotros. Así, ¡algunos de los átomos de la nariz que te rascas quizás ayer eran parte de la oreja de tu vecino!
+
+La mayoría de la gente sabe que estamos hechos de los mismos tipos de átomos; pero lo que no sabe es que es que estamos hechos de los mismos átomos: átomos que viajan de una persona a otra cuando respiramos y cuando se vaporiza nuestra transpiración. Reciclamos átomos en gran escala.
+
+Entonces, el origen de los átomos más ligeros se encuentra en el origen del Universo, en tanto que la mayoría de los átomos más pesados son más viejos que el Sol y la Tierra. Hay átomos en tu organismo que existieron desde los primeros momentos del tiempo, y se reciclaron a través del universo entre innumerables formas, tanto vivientes como no vivientes. En la actualidad, tú cuidas los átomos de tu organismo y habrá muchos que lo harán después.
+
+Dato curioso: la discriminación olfativa del salmón se ha medido en partes por billón (algo increíble). Los salmones del Pacífico utilizan otros mecanismos de navegación en el mar abierto, que incluyen sensibilidad a la luz polarizada, a las corrientes oceánicas, a los campos magnéticos y a los gradientes de temperatura y salinidad.
+
+#### Examínate
+
+1. ¿Cuáles tienen más edad, los átomos del organismo de un adulto mayor o los de un bebé?
+
+2. La población mundial se incrementa cada año. ¿Significa eso que la masa de la Tierra crece cada año?
+
+3. ¿Realmente hay átomos que alguna vez fueron parte de Albert Einstein dentro del cerebro de toda tu familia?
+
+#### Comprueba tus respuestas
+
+1. La edad de los átomos es igual en ambos; la mayoría de los átomos se produjeron en estrellas que explotaron antes de que existiera el Sistema Solar.
+
+2. El mayor número de gente aumenta la masa de la Tierra en cero. Los átomos que forman nuestros cuerpos son los mismos que había antes que naciéramos. No somos más que polvo y al polvo retornaremos. Las células humanas tan sólo son conjuntos reordenados de material que ya existía. Los átomos que forman un bebé que salen de la matriz deben haber sido suministrados por el alimento que ingirió la madre. Y esos átomos se originaron en estrellas, algunas de galaxias lejanas. (Es interesante que la masa de la Tierra en verdad aumenta porque cada año recibe unas 40.000 toneladas de polvo interplanetario; pero no porque nazca más gente.)
+
+3. Claro que sí, y también de Oprah Winfrey; sin embargo, las configuraciones de esos átomos con respecto a otros son muy distintas. Si alguna vez te sientes como que no vales mucho, consuélate al pensar que muchos de los átomos que hay en ti estarán por siempre en los cuerpos de todas las personas en la Tierra que van a nacer.
+
+## Imágenes atómicas
+
+Los átomos son demasiado pequeños como para poder verlos con luz visible. Podrías conectar un conjunto de microscopios ópticos uno sobre otro y nunca “verías” un átomo, porque la luz está compuesta por ondas, y los átomos son más pequeños que las longitudes de onda de la luz visible. El tamaño de una partícula visible con el máximo aumento deber ser más grande que la longitud de onda de la luz. Esto se entenderá mejor usando una analogía con las ondas en el agua. Un barco es mucho más grande que las ondas que inciden en él. Las ondas de agua pueden revelar características del barco. Las ondas se difractan conforme pasan por el barco, pero la difracción no es nada para las ondas que pasan por la cadena del ancla y revelan poco o nada de ésta. Asimismo, las ondas de la luz visible son demasiado grandes en comparación con el tamaño de un átomo, para revelar los detalles acerca del tamaño y la forma del mismo. Los átomos son increíblemente pequeños.
+
+Sin embargo, existen imágenes en las que podemos vemos una imagen de los átomos: las históricas cadenas de átomos de torio individuales, que fue tomada en 1970. La imagen no es una fotografía sino un micrográfico de electrones que no se hizo con luz, sino con un delgado haz de electrones en un microscopio electrónico de barrido (MEB) desarrollado por Albert Crewe en el Instituto Enrico Fermi, de la Universidad de Chicago. Un haz de electrones, como el que forma la imagen en una pantalla convencional de televisión, es un chorro de partículas que tienen propiedades ondulatorias. La longitud de onda de un haz de electrones es menor que la de la luz visible. Así, los átomos son mayores que las diminutas longitudes de onda de un haz de electrones. El micrográfico de electrones de Crewe es la primera imagen de alta resolución de los átomos individuales.
+
+A mediados de la década de 1980 los investigadores un nuevo tipo de microscopio: el microscopio de barrido y tunelización (MBT). Usa una punta afilada que se pasa sobre una superficie a una distancia de pocos diámetros atómicos de ella, en un orden de punto por punto y renglón por renglón. En cada punto se mide una corriente eléctrica diminuta, llamada corriente de tunelización, entre la punta y la superficie. Las variaciones de la corriente indican la topología de la superficie. Existen muestras de imágenes que resaltan estéticamente la posición de un anillo de átomos. Las ondulaciones en el anillo de átomos revelan la naturaleza ondulatoria de la materia.
+
+Como no podemos ver el interior de un átomo, formamos modelos del mismo. Un modelo es una abstracción que nos ayuda a visualizar lo que no podemos observar y lo importante es que permite realizar predicciones acerca de partes de la naturaleza que no se han visto.
+
+El modelo más familiar del átomo es semejante al del sistema solar. En ambos, la mayoría del volumen es espacio vacío. En el centro hay un diminuto y muy denso núcleo donde se concentra la mayoría de la masa. Alrededor del núcleo hay electrones en órbita. Éstos son los mismos electrones cargados eléctricamente que constituyen la corriente eléctrica en tu calculadora. Aunque los electrones repelen eléctricamente otros electrones, son atraídos eléctricamente hacia el núcleo, que tiene una carga positiva neta. Conforme el tamaño y la carga de los núcleos aumentan, los electrones son jalados más cerca, y las órbitas se vuelven más pequeñas. Es interesante hacer notar que el átomo de uranio, con sus 92 electrones, no es apreciablemente mayor en diámetro que el átomo más ligero, el de hidrógeno. Este modelo se propuso a principios del siglo XX y refleja una comprensión simplificada del átomo. Pronto se descubrió, por ejemplo, que los electrones no están en órbita alrededor del núcleo del átomo de la misma forma en que los planetas giran alrededor del Sol. Sin embargo, como la mayoría de los modelos iniciales, el modelo atómico planetario sirvió como un puente útil hacia una posterior comprensión y hacia modelos más precisos. Cualquier modelo atómico, sin importar qué tan refinado sea, no es más que una representación simbólica del átomo y nunca será un retrato físico del átomo real.
+
+Dato curioso: en ocasiones un modelo resulta útil incluso si es incorrecto. El escocés James Watt desarrolló una máquina de vapor viable en el siglo XVIII con base en un modelo de calor que resultó incorrecto.
+
+## Estructura atómica
+
+El núcleo atómico concentra casi toda la masa de un átomo, aunque sólo ocupa algunas milésimas de billonésima de su volumen. Por lo tanto, el núcleo es extremadamente denso. Si se pudieran empacar núcleos atómicos desnudos entre sí, en una bola de 1 centímetro de diámetro (más o menos el volumen de un haba), ¡esa bola pesaría 133.000.000 de toneladas! Las fuerzas eléctricas gigantescas de repulsión evitan esos empacamientos tan cercanos de núcleos atómicos, porque cada núcleo tiene carga eléctrica que repele a los demás núcleos. Sólo bajo circunstancias especiales los núcleos de dos o más átomos entran en contacto. Cuando eso sucede puede efectuarse una reacción nuclear violenta. Son las reacciones de fusión termonuclear y suceden en los centros de las estrellas, y es lo que a final de cuentas las hace brillar.
+
+El principal bloque constituyente del núcleo es el nucleón, el cual a la vez está compuesto por partículas fundamentales llamadas quarks. Cuando un nucleón está en estado eléctricamente neutral, es un neutrón; cuando está en estado eléctricamente cargado es un protón. Todos los protones son idénticos: unos son copias de otros. Al igual sucede con los neutrones: cada uno es idéntico a otro neutrón. Los núcleos más ligeros tienen aproximadamente la misma cantidad de protones y neutrones; los más masivos tienen más neutrones que protones. Los protones tienen carga eléctrica positiva que repele otras cargas positivas, pero atrae cargas negativas. De manera que tipos de cargas iguales se repelen entre sí y cargas diferentes se atraen mutuamente. Los protones positivos en el núcleo atraen una nube circundante de electrones cargados negativamente para constituir un átomo.
+
+En otros cursos avanzados de física verás que, los electrones constituyen el flujo de electricidad en los circuitos eléctricos. Son extraordinariamente ligeros, casi 2.000 veces más ligeros que los nucleones y, por lo tanto, contribuyen muy poco a la masa del átomo. Un electrón en un átomo es idéntico a cualquier electrón dentro o fuera de cualquier otro átomo. Los electrones se repelen entre sí, pero una multitud de electrones pueden mantenerse unidos dentro de un átomo a causa de su atracción al núcleo cargado positivamente.
+
+El número de protones en el núcleo está eléctricamente balanceado por un número igual de electrones que giran en torno al núcleo. El átomo mismo es eléctricamente neutro, de manera que, por lo general, no atrae ni repele a otros átomos. Sin embargo, cuando los átomos se juntan, a veces los electrones negativos en un átomo pueden estar más cerca del núcleo positivo de otro átomo, lo cual da como resultado una atracción neta entre los átomos. Es por qué algunos átomos se combinan para formar moléculas.
+
+El hecho de que los electrones repelan a otros electrones tiene consecuencias interesantes. Cuando los átomos de tu mano empujan contra los átomos de la pared, por ejemplo, la repulsión eléctrica evita que tu mano pase a través de la pared. Estas mismas repulsiones eléctricas evitan que caigas a través del piso sólido. También nos permiten tener el sentido del tacto. Es interesante que cuando tocas a alguien, tus átomos no se tocan con los átomos de quien tocas. Más bien, los átomos se acercan lo suficiente como para que sientas las fuerzas de repulsión eléctrica. Aún hay una diminuta, casi imperceptible brecha entre tú y la persona que estás tocando.
+
+#### Examínate
+
+¿Por qué los átomos eléctricamente neutros se repelen entre sí cuando están cerca?
+
+#### Comprueba tu respuesta
+
+En un átomo eléctricamente neutro, la cantidad de protones positivos se equilibra con la misma cantidad de electrones negativos. Sin embargo, los electrones residen en la superficie externa del átomo, lo cual significa que la superficie atómica está cargada negativamente. Por lo tanto, dos o más átomos no pueden juntarse sin una repulsión eléctrica entre sus superficies externas. Entonces, no podemos caminar a través de las paredes. En ocasiones, sin embargo, los electrones son capaces de saltar de un átomo al siguiente. Esto sucede durante una reacción química, en la cual los átomos son capaces de enlazarse para formar estructuras más grandes, como las moléculas.
+
+## Los elementos
+
+Cuando una sustancia está compuesta por átomos del mismo tipo, decimos que tal sustancia es un elemento. Por ejemplo, un anillo de oro puro de 24 quilates está compuesto sólo por átomos de oro. Un anillo de oro con menor quilaje está compuesto de oro y otros elementos, como níquel. El líquido plateado en un barómetro o un termómetro es el elemento mercurio: Todo el líquido consiste sólo en átomos de mercurio. Desde luego, si una sustancia contiene sólo un tipo de átomo, correctamente la llamamos un elemento. Un átomo de un elemento específico es la muestra más pequeña de ese elemento. Aunque átomo y elemento a menudo se utilizan de forma indistinta, se prefiere usar elemento cuando se refiere a cantidades macroscópicas. Por ejemplo, hablamos de aislar un átomo de mercurio de un matraz con elemento mercurio.
+
+El hidrógeno es el más ligero de todos los elementos. En el Universo en expansión es el elemento más abundante: más del 90% de los átomos en el Universo conocido son átomos de hidrógeno. El helio, el segundo elemento más ligero proporciona la mayoría de los átomos restantes del Universo. Los átomos más pesados a nuestro alrededor se generaron por la fusión de elementos más ligeros en la profundidad caliente y con alta presión de las estrellas. Los elementos más pesados provienen de cuando enormes estrellas implotaron y luego explotaron: las supernovas. Casi todos los elementos de la tierra son restos de estrellas que explotaron mucho antes de que existiera el sistema solar.
+
+Al igual que puntos de sólo tres colores de luz se combinan para formar la mayoría de los colores perceptibles en una pantalla de televisión, tan sólo 100 elementos distintos conforman todos los materiales que conocemos. En la actualidad se conocen más de 112 elementos. De los cuales cerca de 90 se presentan en la naturaleza. Los otros se producen en laboratorio con aceleradores atómicos de alta potencia y reactores nucleares. Tales elementos producidos en laboratorio son muy inestables (radiactivos) para producirse de forma natural en cantidades significativas.
+
+En una despensa que contiene menos de 100 elementos, tenemos los átomos que constituyen casi cualquier sustancia sencilla, compleja, viviente o no viviente en el Universo conocido. Más del 99% del material de la Tierra está formado de tan sólo una docena de los elementos. Los elementos restantes son relativamente raros. Los seres vivos están formados principalmente por cinco elementos: oxígeno (O), carbono (C), hidrógeno (H), nitrógeno (N) y calcio (Ca). Las letras entre paréntesis son los símbolos químicos de tales elementos, y empiezan con una letra mayúscula.
+
+## La tabla periódica de los elementos
+
+Ir al link Tabla periódica, vínculo externo. Navega por la tabla periódica para entender las propiedades de los elementos de la naturaleza que se describen a continuación.
+
+Los elementos se clasifican de acuerdo con la cantidad de protones que contienen sus átomos. Esa cantidad es el número atómico. El hidrógeno, que contiene un protón por átomo, tiene número atómico 1; el helio, que contiene dos protones por átomo, tiene número atómico 2; y así sucesivamente, en orden hasta el elemento más pesado que se encuentra en la naturaleza, el uranio, con número atómico 92. Los números continúan más allá del número atómico 92 en los elementos transuránicos (posteriores al uranio) que se producen artificialmente. El ordenamiento de los elementos según sus números atómicos forma la tabla periódica de los elementos (navegar tabla periódica con el link de antes).
+
+La tabla periódica presenta los átomos de acuerdo con su número atómico y de acuerdo con su ordenamiento eléctrico. Como los renglones de un calendario que listan los días de la semana, cada elemento, de izquierda a derecha, tiene un protón y un electrón más que el elemento previo. Al avanzar hacia abajo de la tabla, cada elemento tiene una capa más de electrones que el de arriba. Las capas internas están llenas a toda su capacidad, y la capa externa puede estarlo o no, dependiendo del elemento. Sólo los elementos de la extrema derecha de la tabla, como la columna de los sábados en el calendario, tienen las capas externas llenas a toda su capacidad. Se trata de los gases nobles: helio, neón, argón, kriptón, xenón y radón. La tabla periódica es la guía de carreteras del químico y mucho más. La mayoría de los científicos consideran la tabla periódica como el organigrama más elegante alguna vez diseñado. Los enormes esfuerzos e ingenio humanos que se invirtieron en determinar las regularidades representadas por la tabla periódica son tema de una fascinante historia atómico-detectivesca.
+
+Los elementos forman hasta siete capas y cada una tiene su propia capacidad en electrones. La primera capa y la más interior tienen 2 electrones de capacidad; mientras que la segunda tiene capacidad para 8. El arreglo de los electrones en las capas determina propiedades tales como las temperaturas de fusión y de congelación y la conductividad eléctrica, así como el sabor, la textura, la apariencia y el color de las sustancias. Los arreglos de los electrones, en forma muy literal, dan vida y color al mundo.
+
+El modelo del átomo ha evolucionado gracias a los nuevos hallazgos. El modelo clásico del átomo dio forma a un modelo que considera que el electrón es una onda estacionaria, muy distinta a una partícula en órbita. Es el modelo mecánico cuántico, presentado en la década de 1920. La mecánica cuántica es el estudio del mundo a pequeña escala que incluye la predicción de las propiedades ondulatorias de la materia. Trata los lotes a nivel subatómico, ya sean lotes de materia o lotes de cuestiones como energía y cantidad de movimiento angular. Dato curioso: Es interesante saber que de cada 200 átomos de nuestro cuerpo, 126 son de hidrógeno, 51 de oxígeno y sólo 19 de carbono.
+
+## Isótopos
+
+Si bien la cantidad de protones en un núcleo coincide exactamente con la cantidad de electrones entorno a él, en un átomo neutro, la cantidad de protones en el núcleo no es necesariamente igual que la cantidad de neutrones. Por ejemplo, todos los núcleos de hidrógeno tienen un solo protón, aunque la mayoría de ellos no tiene neutrones. Hay un pequeño porcentaje que contiene un neutrón, y otro porcentaje todavía más pequeño que contiene dos neutrones. Asimismo, la mayoría de los núcleos de hierro con 26 protones contienen 30 neutrones; en tanto que un porcentaje pequeño contiene 29 neutrones. Los átomos del mismo elemento que contienen cantidades distintas de neutrones son isótopos del elemento. Todos los distintos isótopos de un elemento tienen la misma cantidad de electrones, así que en su mayor parte se comportan en forma idéntica. Los átomos de hidrógeno en H2O (se escribe, h sub 2 O), por ejemplo, pueden contener un neutrón o no. El oxígeno no “nota la diferencia”; pero si hay una cantidad importante de átomos de hidrógeno que tengan neutrones, el H2O es un poco más densa y se llama adecuadamente “agua pesada”.
+
+Identificamos los isótopos por su número de masa, que es el número total de protones y neutrones (en otras palabras, el número de nucleones) en el núcleo. Por ejemplo, un isótopo de hidrógeno con un protón y sin neutrones tiene un número de masa de 1 y se conoce como hidrógeno-1. Asimismo, un átomo de hierro con 26 protones y 30 neutrones tiene un número de masa de 56 y se conoce como hierro-56. Un átomo de hierro con 26 protones y sólo 29 neutrones se llamaría hierro-55.
+
+La masa total de un átomo se llama masa atómica. Es la suma de las masas de todos sus componentes (electrones, protones y neutrones). Como los electrones son mucho menos masivos que los protones y los neutrones, su contribución con la masa atómica es insignificante. Los átomos son tan pequeños que expresar su masa en unidades de gramos o en kilogramos resulta impráctico; sin embargo, los científicos definieron especialmente una unidad llamada unidad de masa atómica o uma. Un nucleón tiene una masa aproximada de 1 uma. Por lo tanto, un átomo con 12 nucleones, como el carbono-12, tiene una masa aproximada de 12 uma. La tabla periódica lista las masas atómicas en unidades uma.
+
+La mayoría de los elementos tienen varios isótopos. El número de masa atómica de cada elemento de la tabla periódica es el promedio ponderado de las masas de esos isótopos, basada en la frecuencia de cada uno sobre la Tierra. Por ejemplo, el carbono con seis protones y seis neutrones tiene masa atómica igual a 12 uma. Sin embargo, más o menos 1% de todos los átomos de carbono contienen siete neutrones. El isótopo más pesado eleva la masa atómica promedio del carbono de 12,000 a 12,011 uma.
+
+Dato curioso: no hay que confundir un isótopo con un ion, que es un átomo cargado eléctricamente por un exceso o una deficiencia de electrones. ¡Eureka!
+
+Dato curioso: Para que dos elementos químicos se unan, primero deben chocar en la orientación adecuada. Segundo, deben tener suficiente energía cinética para iniciar el rompimiento de enlaces químicos, de manera que se puedan formar otros nuevos.
+
+#### Examínate
+
+1. ¿Qué contribuye más a la masa de un átomo, los electrones o los protones? ¿Y al volumen (tamaño) de un átomo?
+
+2. ¿Qué se representa con un número entero, el número de masa o la masa atómica?
+
+3. ¿Dos isótopos de hierro tienen el mismo número atómico? ¿Tienen el mismo número de masa atómica?
+
+#### Comprueba tus respuestas
+
+1. Los protones contribuyen más a la masa de un átomo; los electrones contribuyen más a su tamaño.
+
+2. El número de masa siempre está dado como un número entero, tal como hidrógeno-1 o carbono-12. En cambio la masa atómica es la masa promedio de los diferentes isótopos de un elemento y por consiguiente se representa con un número fraccionario.
+
+3. Los dos isótopos de hierro tienen el mismo número atómico, 26, porque cada uno tiene 26 protones en el núcleo. Tienen distintos números de masa atómica si tienen cantidades distintas de neutrones en el núcleo.
+
+## Compuestos y mezclas
+
+*Imagen 1. Figura de la sal de mesa*
+
+Descripción de la Imagen 1. Figura de la sal de mesa. La sal de mesa (NaCl) es un compuesto cristalino que no está formado por moléculas. Los átomos de sodio y de cloro se ordenan en un patrón repetitivo, donde cada átomo está rodeado de seis átomos del otro tipo. Los átomos de Cloro ocupan el lugar de las esquinas y el centro de las aristas del cubo.
+
+Un material químicamente puro que consiste en más de un tipo de átomo se llama compuesto. Ejemplos de compuesto incluyen el agua, el amoniaco y el metano. Un compuesto es diferente de los elementos que lo forman, y tan sólo puede separarse en sus elementos constitutivos mediante procesos químicos. El sodio, por ejemplo, es un metal que reacciona violentamente con el agua. El cloro es un gas venenoso y verdoso. Sin embargo, el compuesto que forman esos dos elementos es la inofensiva sal cristalina (NaCI), que esparces sobre las papas. Asimismo, a temperaturas ordinarias, elementos como el hidrógeno y el oxígeno son gases. Cuando se combinan forman el compuesto agua (H2 O), un líquido bastante diferente.
+
+No todas las sustancias reaccionan químicamente entre sí cuando se ponen en contacto. Las sustancias que se mezclan entre sí, sin combinarse químicamente, se llaman mezclas. La arena combinada con sal es una mezcla. El hidrógeno y el oxígeno gaseosos forman una mezcla hasta que se encienden, en cuyo caso forman el compuesto agua. Una mezcla común de la que dependemos todos nosotros es la de nitrógeno y oxígeno, con un poco de argón y pequeñas cantidades de dióxido de carbono y otros gases. Es el aire que respiramos.
+
+#### Examínate
+
+¿La sal de mesa es un elemento, un compuesto o una mezcla?
+
+#### Comprueba tu respuesta
+
+La sal no es un elemento, si lo fuera estaría en la tabla periódica. La sal pura es un compuesto formado por los elementos sodio y cloro, que se representa en la Imagen 1. Observa que los átomos de sodio (grises) y los de cloro (blancos) están ordenados en un patrón tridimensional repetitivo; es decir, un cristal. Cada sodio está rodeado por seis cloros, y cada cloro está rodeado por seis sodios. Es interesante que no haya grupos separados sodio-cloro que se consideren como moléculas
+
+## Moléculas
+
+Una molécula está formada por dos o más átomos unidos al compartir electrones entre sí. (Se dice que esos átomos tienen enlace covalente.) Una molécula puede ser tan sencilla como la combinación de dos átomos de oxígeno O2 (se escribe, O sub 2) o de nitrógeno N2 (se escribe, N sub 2), que forman la mayoría del aire que respiramos.
+
+Dos átomos de hidrógeno se combinan con un solo átomo de oxígeno para producir una molécula de agua (H2O, que se escribe H sub 2 O). Al cambiar un átomo en una molécula se puede producir una inmensa diferencia. Por ejemplo, en la clorofila hay un anillo de átomos de hidrógeno, carbono y oxígeno que rodea un solo átomo de magnesio. Si el átomo de magnesio se sustituye por hierro, la sustancia se reordena y forma el anillo semejante al de la hemoglobina (una proteína que lleva oxígeno a la sangre). Así, un átomo puede ser la diferencia entre una molécula útil para las plantas y otra útil para los seres humanos.
+
+Se requiere energía para separar las moléculas. Esto se puede comprender imaginando un par de imanes pegados. Así como se requiere algo de “energía muscular” para separar los imanes, la descomposición de las moléculas requiere energía. Durante la fotosíntesis las plantas usan energía de la luz solar para romper las cadenas dentro del agua y el dióxido de carbono atmosférico. El principal producto de la fotosíntesis son las moléculas de carbohidratos, que retienen la energía solar hasta que la planta se oxida, ya sea con lentitud al pudrirse o con rapidez al quemarse. Entonces se libera la misma cantidad de energía que la que suministró el Sol. Así, la lenta calidez de la composta en descomposición, o el rápido calentamiento de una fogata en realidad son ¡el calor de la luz solar almacenada!
+
+Hay más cosas que pueden arder, además de las que contienen carbono e hidrógeno. El hierro “arde” (se oxida) también. Es lo que le pasa al oxidarse, la combinación lenta de átomos de oxígeno con átomos de hierro, liberando energía. Cuando se acelera la combustión de hierro, sirve de fuente de calor en los paquetes que usan los esquiadores y los montañistas en invierno, para calentar las manos. Todo proceso en el que se reordenan los átomos y forman moléculas distintas se llama reacción química.
+
+Nuestro sentido del olfato es sensible a cantidades extremadamente pequeñas de moléculas. Nuestros órganos olfatorios distinguen con claridad a gases perjudiciales como el ácido sulfhídrico (que huele a huevos podridos), amoniaco y éter. El olor del perfume es el resultado de moléculas que se evaporan con rapidez y vagan en forma errática en el aire hasta que algunas se acercan a nuestra nariz lo suficiente para ser inhaladas. Sólo son unas pocas de los miles de millones de moléculas erráticas que, en su vagar sin rumbo, van a parar a la nariz. Puedes darte una idea de la rapidez de la difusión molecular en el aire al estar en tu recámara y oler los alimentos muy poco tiempo después que se abre la puerta del horno en la cocina.
+
+*Imagen 2. Modelos de 4 moléculas sencillas*
+
+Descripción de la Imagen 2. Modelos de 4 moléculas sencillas. Los átomos de una molécula no tan sólo se unen entre sí, sino que se unen en formas bien definidas. En la primera dos átomos de O unidos. En otra 3 átomos de H juntos alrededor de un átomo N. En la siguiente se tiene 4 átomos de H unidos alrededor de uno de C. Y el último 2 átomos de H juntos a uno de O.
+
+#### Examínate
+
+¿Cuántos núcleos atómicos hay en un solo átomo de oxígeno? ¿Y en una sola molécula de oxígeno?
+
+#### Comprueba tu respuesta
+
+Hay un núcleo en un átomo de oxígeno (O), y dos en la combinación de dos átomos de oxígeno que forman la molécula de oxígeno (O2).
+
+### Lectura sugerida: Efecto Placebo
+
+La gente siempre ha buscado a curanderos que les alivien sus padecimientos físicos y sus temores. Como tratamiento, los curanderos tradicionales a menudo suministran hierbas o cánticos, o incluso pasan las manos sobre el cuerpo del paciente. Sucede que con más frecuencia sí, que no, ¡se presenta una mejoría! Se trata del efecto placebo. Un placebo puede ser una práctica de cura o una sustancia (píldora) que contenga elementos o moléculas sin algún valor médico. Pero es notable que el efecto placebo sí tenga bases biológicas. Sucede que cuando tienes temor del dolor, la respuesta del cerebro no es movilizar los mecanismos curativos en tu organismo; en vez de ello prepara al organismo contra una amenaza externa. Es una adaptación evolutiva que asigna la máxima prioridad a evitar más daños. Unas hormonas se liberan debido al estrés en el torrente sanguíneo, que aumentan la respiración, la presión sanguínea y el ritmo cardiaco: cambios que normalmente suelen impedir la curación. El cerebro te prepara para la acción; la recuperación puede esperar.
+
+Es la causa de que un buen curandero o médico tiene como primer objetivo reducir el estrés. La mayoría de nosotros comenzamos a sentirnos mejor aún antes de salir del consultorio del curandero o del doctor. Antes de 1940 la mayoría de la medicina se basaba en el efecto placebo, cuando casi las únicas medicinas en los maletines de los doctores eran laxantes, aspirinas y pastillas de azúcar. En casi la mitad de los casos, una píldora de azúcar es tan eficaz para reducir el dolor que una aspirina. La explicación es la siguiente. El dolor es una señal que recibe el cerebro de que algo funciona mal y requiere atención. La señal se induce en el lugar de la inflamación por las prostaglandinas liberadas por los glóbulos blancos de la sangre. La aspirina bloquea la producción de prostaglandinas y, por lo tanto, alivia el dolor. El mecanismo del alivio del dolor mediante un placebo es muy distinto. El placebo engaña al cerebro haciéndole que lo que haya de malo se está atendiendo. Después, la señal del dolor disminuye por la liberación de endorfinas, proteínas semejantes a los opiatos que se encuentran naturalmente en el cerebro. Así, en vez de bloquear la producción de prostaglandinas, las endorfinas bloquean su efecto. Cuando se alivia el dolor, el organismo se puede enfocar en la curación.
+
+Siempre (¡y todavía!) se ha empleado el efecto placebo, con los curanderos y otras personas que dicen tener curas milagrosas fuera del ámbito de la medicina moderna. Esos curanderos aprovechan la tendencia del público a creer que si B es consecuencia de A, entonces B es causado por A. La cura se podría deber al curandero, pero también se podría deber a que el organismo se repara solo. Aunque el efecto placebo seguramente puede influir sobre la percepción del dolor, no se ha demostrado que influya sobre la capacidad del organismo para combatir una infección o reparar lesiones.
+
+¿Funciona el efecto placebo en quienes creen que al usar cristales, imanes o ciertas pulseras metálicas mejora su salud? En caso afirmativo, ¿se perjudican al creerlo así, aunque no haya pruebas científicas? Es muy inofensivo abrigar creencias positivas, pero no siempre. Si una persona tiene un problema grave que requiere del tratamiento médico moderno y confía en esas ayudas puede tener resultados desastrosos si usara sustitutos del auxilio médico. El efecto placebo tiene limitaciones reales.
+
+*Adaptado de Voodoo Science: The Road from Foolishness to Fraud, por Robert Park. Oxford University Press, Nueva York, 2000.
+
+## Antimateria
+
+Mientras que la materia está formada por átomos con núcleos cargados positivamente, y por electrones con carga negativa, la antimateria está formada por átomos con núcleos negativos y electrones positivos, o positrones.
+
+Los positrones fueron descubiertos en 1932, en los rayos cósmicos que bombardean la atmósfera terrestre. En la actualidad, en los laboratorios a menudo se producen anti-partículas de todo tipo, usando grandes aceleradores nucleares. Un positrón tiene la misma masa que un electrón, y su carga tiene la misma magnitud, pero signo contrario. Los antiprotones tienen la misma masa que los protones, pero tienen carga negativa. El primer anti átomo artificial completo, un positrón en órbita en torno a un antiprotón, se fabricó en 1995. Toda partícula con carga tiene una antipartícula de la misma masa, pero de carga contraria.
+
+Las partículas neutras (como el neutrón) también tienen anti-partículas, iguales en masa y en algunas otras propiedades, pero contrarias en otras. Para toda partícula hay una antipartícula. ¡Hasta hay anti quarks!
+
+La fuerza gravitacional no distingue entre materia y antimateria; ambas se atraen entre sí. También, no hay medio para decir si algo está hecho de materia o de antimateria por la luz que emite. Sólo podemos decir, mediante sutiles efectos nucleares, difíciles de medir, si una galaxia lejana está hecha de materia o de antimateria. Pero si una anti estrella se encontrara con otra estrella, la historia sería distinta. Se aniquilarían entre sí y la mayor parte de su materia se convertiría en energía radiante (es lo que le pasó al anti átomo creado en 1995, que se aniquiló con rapidez y produjo una ráfaga de energía). Este proceso, más que cualquiera otro conocido, da como resultado la máxima producción de energía por gramo de la sustancia: E = mc2 (se lee, E = m por c elevado al cuadrado), con 100% de conversión de la masa. (En contraste, la fisión y la fusión nuclear convierten menos del 1% de la materia que interviene en ellas.)
+
+No puede haber materia y antimateria en nuestra cercanía, al menos no en cantidades apreciables o durante tiempos apreciables, porque algo hecho de antimateria se transformaría por completo en energía radiante tan pronto tocara la materia, consumiendo en el proceso una cantidad igual de materia normal. Si la Luna fuera de antimateria, por ejemplo, tan pronto como una de nuestras naves espaciales la tocara se produciría un destello de radiación energética. La nave y una cantidad igual de antimateria de la Luna desaparecerían en una explosión de energía radiante. Sabemos que la Luna no es de antimateria, porque eso no sucedió durante las misiones lunares. (En realidad, los astronautas no corrían este riesgo, porque las pruebas anteriores demostraron que la Luna está hecha de materia.) ¿Pero y otras galaxias? Hay fuertes razones para creer que en la parte del Universo que conocemos (es el “universo observable”), las galaxias están hechas sólo de materia normal, además de alguna antipartícula transitoria. ¿Pero y más allá del Universo? ¿O en otros universos? No lo sabemos.
+
+#### Examínate
+
+Si un cuerpo de 1 gramo de antimateria se encuentra con un cuerpo de 10 gramos de materia, ¿qué masa sobrevive?
+
+#### Comprueba tu respuesta
+
+Sobreviven 9 g de materia (los otros 2 g se convierten en energía radiante).
+
+## Materia oscura
+
+Sabemos que los elementos de la tabla periódica no están confinados al planeta Tierra. Según los estudios de la radiación procedente de otras partes del universo, se ha encontrado que las estrellas y otros objetos “de por allá” están formados por las mismas partículas que tenemos en la Tierra.
+
+Las estrellas emiten luz que produce los mismos “espectros atómicos” que los elementos de la tabla periódica. ¡Qué maravilloso es encontrar que las leyes que rigen la materia en la Tierra se extienden por todo el universo observable! Sin embargo, queda un detalle incómodo. A finales del siglo XX, los astrofísicos descubrieron que hay bastante más masa por allá que la que podemos ver.
+
+Los astrofísicos hablan de la materia oscura, que no se puede ver y que tira de las estrellas y de las galaxias que sí se pueden ver. Las fuerzas gravitacionales en el interior de las galaxias se han medido y resultado mucho mayor que las que produciría la materia visible. Solo hasta el siglo XXI se ha confirmado que cerca del 23% de la materia del universo está constituida por materia oscura invisible. Sea lo que fuere, es posible que algo, la mayor parte o toda ella sea una materia “exótica”, muy distinta de los elementos que forman la tabla periódica, y distinta de cualquier extensión de la actual lista de los elementos. Mucho del resto del universo es energía oscura, la cual impulsa hacia fuera en el universo en expansión. Tanto la materia como la energía oscuras constituyen el 90% del Universo. Parece que son algo distinto. Abundan las especulaciones acerca de ambas, pero todavía no se sabe lo que son.
+
+Richard Feynman sacudía la cabeza con frecuencia al decir que no sabía nada. Cuando él y otros físicos de primera línea dicen que no saben nada, quieren decir que lo que sí saben se parece más a nada que lo que pueden saber. Los científicos saben lo suficiente como para darse cuenta que tienen un asidero relativamente pequeño en un enorme universo todavía lleno de misterios. Desde un punto de vista retrospectivo, los científicos actuales saben mucho más que sus antecesores de hace un siglo, y los de entonces sabían mucho más que sus antecesores. Pero, desde nuestro punto de observación actual, al ver hacia adelante hay mucho por aprender. John A. Wheeler, asesor de posgrado de Feynman, cree que el siguiente nivel de la física pasará del cómo al por qué: al significado. Apenas estamos rascando la superficie.
+
+Dato curioso: encontrar la naturaleza de la materia oscura y la naturaleza de la energía del vacío son interrogantes de alta prioridad en estos tiempos. Lo que habremos aprendido para la mitad de este siglo seguramente empequeñecerá todo lo que ahora sabemos.
+
+## Resumen de términos
+
+Antimateria. Una forma “complementaria” de materia compuesta de antipartículas que tienen la misma masa que las partículas que la materia ordinaria, pero su carga es opuesta.
+
+Átomo. La partícula más pequeña de un elemento que tiene todas las propiedades químicas del elemento.
+
+Compuesto. Material en el cual los átomos de diferentes elementos se unen químicamente entre sí.
+
+Elemento. Sustancia pura compuesta de un solo tipo de átomo.
+
+Isótopos. Distintas formas de un elemento cuyos átomos contienen la misma cantidad de protones, pero cantidades distintas de neutrones.
+
+Materia oscura. Materia no observada ni identificada, que se manifiesta por su atracción gravitacional sobre las estrellas en las galaxias. Junto con la energía oscura forma quizás el 90% de la materia del Universo.
+
+Mecánica cuántica. La teoría del mundo en pequeña escala, que incluye propiedades ondulatorias de la materia.
+
+Mezcla. Sustancia cuyos componentes están mezclados entre sí, sin combinarse químicamente.
+
+Molécula. Grupo de átomos que se mantienen unidos al compartir electrones. Los átomos se combinan y forman moléculas.
+
+Movimiento browniano. El movimiento errático de partículas diminutas suspendidas en un gas o en un líquido, a causa del bombardeo que sufren por moléculas o átomos rápidos del gas o líquido.
+
+Núcleo atómico. El centro de un átomo, formado por dos partículas subatómicas básicas: los protones y los neutrones.
+
+Número atómico. La cantidad que indica la identidad de un elemento; es la cantidad de protones en el núcleo de un átomo; en un átomo neutro, el número atómico también es igual a la cantidad de electrones.
+
+Tabla periódica de los elementos. Una gráfica que muestra los elementos ordenados horizontalmente por su número atómico y verticalmente por sus configuraciones electrónicas y propiedades químicas similares. (Indagar tabla en el link)
+
+Unidad de masa atómica (uma). La unidad estándar de masa atómica, igual a la doceava parte de la masa del átomo común de carbono; se le asigna en forma arbitraria el valor exacto de 12.
+
+## Preguntas de repaso
+
+##### La hipótesis atómica
+
+1. ¿Qué hace que las partículas de polvo y que los diminutos granos de hollín tengan movimiento browniano?
+
+2. ¿Quién explicó por primera vez el movimiento browniano, y demostró de modo convincente la existencia de los átomos?
+
+3. Según Richard Feynman, ¿cuándo los átomos se atraen entre sí y cuándo se repelen?
+
+##### Características del átomo
+
+4. ¿Cómo se compara la cantidad aproximada de átomos en el aire que hay en tus pulmones con la cantidad de respiraciones de aire en la atmósfera de todo el mundo?
+
+5. ¿La mayoría de los átomos que te rodean son más jóvenes o más viejos que el Sol?
+
+##### Imágenes atómicas
+
+6. ¿Por qué los átomos no se pueden ver con un microscopio óptico poderoso?
+
+7. ¿Por qué los átomos sí se pueden ver con un haz de electrones?
+
+8. ¿Qué propósito tiene un modelo en la ciencia?
+
+##### Estructura atómica
+
+9. ¿Cómo se compara la masa de un núcleo atómico con la masa de un átomo como un todo?
+
+10. ¿Qué es un nucleón?
+
+11. ¿Cómo se comparan la masa y la carga eléctrica de un protón con las de un electrón?
+
+12. Puesto que en su mayoría los átomos son espacio vacío, ¿por qué no caemos a través del piso cuando estamos parados en él?
+
+##### Los elementos
+
+13. ¿Cuál es el elemento más ligero?
+
+14. ¿Cuál es el elemento más abundante en el Universo conocido?
+
+15. ¿Dónde se formaron los elementos más pesados que el hidrógeno?
+
+16. ¿Dónde se originaron los elementos más pesados?
+
+17. ¿Cuáles son los cinco elementos más comunes en la materia viva?
+
+##### Tabla periódica de los elementos
+
+18. ¿Qué nos dice el número atómico de un elemento acerca de éste?
+
+19. ¿Cuál es la característica de las columnas en la tabla periódica?
+
+##### Isótopos
+
+20. ¿Qué son los isótopos?
+
+21. ¿Cuál es la diferencia entre número de masa y masa atómica?
+
+##### Compuestos y mezclas
+
+22. ¿Qué es un compuesto? Menciona tres ejemplos.
+
+23. ¿Qué es una mezcla? Menciona tres ejemplos.
+
+##### Moléculas
+
+24. ¿Cuál es la diferencia entre una molécula y un átomo?
+
+25. En comparación con la energía que se requiere para separar el oxígeno y el hidrógeno del agua, ¿cuánta energía se requiere cuando se combinan? (¿Qué principio de la física se ilustra aquí?)
+
+##### Antimateria
+
+26. ¿En qué difieren la materia y la antimateria?
+
+27. ¿Qué sucede cuando se encuentran una partícula de materia y una de antimateria?
+
+##### Materia oscura
+
+28. ¿Qué pruebas hay de la existencia de la materia oscura?
+
+## Proyecto
+
+Una vela sólo arde cuando hay oxígeno presente. ¿Arderá una vela durante el doble de tiempo en un frasco invertido de medio litro de capacidad que en uno de un litro? Haz la prueba.
+
+## Ejercicios
+
+1. ¿Cuántos tipos de átomos esperarías encontrar en una muestra pura de cualquier elemento?
+
+2. ¿Cuántos átomos individuales hay en una molécula de agua?
+
+3. Cuando se calienta un recipiente lleno de gas, ¿qué le sucede a la rapidez promedio de sus moléculas?
+
+4. La rapidez promedio de una molécula de vapor de perfume a la temperatura ambiente es de unos 300 m/s, pero te darás cuenta de que la rapidez a la que el olor viaja a través del ambiente es mucho menor. ¿Por qué?
+
+5. Un gato camina por el patio. Una hora después pasa un perro, con su nariz pegada al suelo, siguiendo los rastros del gato. Explica lo que sucede desde un punto de vista molecular.
+
+6. Si no pudieran escapar las moléculas en un cuerpo, ¿tendría olor ese cuerpo?
+
+7. ¿Dónde se “fabricaron” los átomos que forman a un recién nacido?
+
+8. ¿Cuál de los siguientes no es un elemento: hidrógeno, carbono, oxígeno, agua?
+
+9. Un amigo te dice que lo que hace a un elemento distinto de otro es el número de electrones alrededor del núcleo atómico. ¿Estás de acuerdo con él enteramente, parcialmente o estás en desacuerdo? Explica por qué.
+
+10. ¿Dos elementos distintos pueden contener la misma cantidad total de protones? En caso afirmativo, menciona un ejemplo.
+
+11. ¿Por qué el movimiento browniano sólo se nota en las partículas microscópicas?
+
+12. ¿Por qué masas iguales de pelotas de golf y de pelotas de ping-pong (tenis de mesa) no contienen el mismo número de pelotas?
+
+13. ¿Por qué masas iguales de átomos de carbono y de átomos de oxígeno no contienen el mismo número de partículas?
+
+14. ¿Qué contiene más átomos: 1 kg de plomo o 1 kg de aluminio?
+
+15. ¿Cuáles de los siguientes son elementos puros: H2 (H sub 2), H2O (H sub 2 O), He, Na, NaCl, H2SO4 (H sub 2 S O sub 4), U?
+
+16. ¿Cuántos átomos hay en una molécula de etanol, C2H6O (C sub 2 H sub 6 O)?
+
+17. Las masas atómicas de dos isótopos del cobalto son 59 y 60. Responde
+
+a) ¿Cuál es la cantidad de protones y neutrones de cada uno?
+
+b) ¿Cuál es la cantidad de electrones en órbita de cada uno, cuando los isótopos son eléctricamente neutros?
+
+18. Cierto átomo contiene 29 electrones, 34 neutrones y 29 protones. ¿Cuál es el número atómico de este elemento y cuál es ese elemento?
+
+19. La gasolina sólo contiene átomos de hidrógeno y de carbono. Sin embargo, cuando la gasolina se quema se producen óxido y dióxido de nitrógeno. ¿Cuál es el origen de los átomos de nitrógeno y de oxígeno?
+
+20. Si de un núcleo de un átomo de oxígeno se sacan dos protones y dos neutrones, ¿qué núcleo quedará?
+
+21. ¿Qué elemento resulta si agregas un par de protones a un núcleo de mercurio? (Véase la tabla periódica. Ir al link Tabla periódica, vínculo externo)
+
+22. ¿Qué elemento resulta si un núcleo de radio expulsa dos protones y dos neutrones?
+
+23. ¿En qué se diferencia un ion de un átomo?
+
+24. Para convertirse en un ion negativo, ¿un átomo pierde o gana un electrón?
+
+25. Para convertirse en un ion positivo, ¿un átomo pierde o gana un electrón?
+
+26. Los peces no viven mucho tiempo en agua que se haya hervido y que luego regrese a la temperatura ambiental. Explica este hecho.
+
+27. Una molécula de ozono y una molécula de oxígeno están constituidas de oxígeno puro. ¿En qué se diferencian?
+
+28. Si alguien ingiere sodio metálico o inhala gas cloro, se pone en peligro de muerte. Sin embargo, cuando estos dos elementos se combinan, es posible rociar el compuesto resultante sobre las palomitas (rosetas) de maíz para obtener un mejor sabor. ¿Qué sucede en este caso?
+
+29. ¿Cuál es el resultado cuando el agua se descompone químicamente?
+
+30. El helio es un gas inerte; ello quiere decir que no se combina con facilidad con otros elementos. ¿Cuáles son otros cinco elementos que se espera que también sean gases inertes? (Véase la tabla periódica. Ir al link Tabla periódica, vínculo externo)
+
+31. ¿Qué elemento resulta si uno de los neutrones de un núcleo de nitrógeno se convierte en protón, por decaimiento radiactivo?
+
+32. ¿Qué contribuye más a la masa de un átomo: sus electrones o sus protones? ¿Qué contribuye más a su tamaño?
+
+33. Un átomo de hidrógeno y un átomo de carbono se mueven con la misma rapidez. ¿Cuál de ellos tiene la mayor energía cinética?
+
+34. En una mezcla gaseosa de hidrógeno y oxígeno, ambos con igual energía cinética promedio, ¿cuáles moléculas se mueven más rápido en promedio?
+
+35. Los átomos que forman tu organismo son principalmente espacio vacío, y las estructuras que te rodean, como la silla donde te sientas, están formadas por átomos que también son casi totalmente espacio vacío. ¿Entonces por qué no te caes atravesando la silla?
+
+36. Cuando se mezclan 50 centímetros cúbicos (cm3) de alcohol con 50 centímetros cúbicos de agua, la mezcla sólo tiene 98 cm3. ¿Puedes explicarlo?
+
+37. Responde:
+
+a) Desde un punto de vista atómico, ¿por qué debes calentar un sólido para fundirlo?
+
+b) Si tienes un sólido y un líquido a la temperatura ambiente, ¿qué conclusión obtendrías acerca de las intensidades relativas de sus fuerzas interatómicas?
+
+38. ¿En qué sentido puedes afirmar con propiedad que eres parte de cada ser humano de la historia? ¿En qué sentido puedes afirmar que contribuirás en forma tangible a la formación de todos los seres humanos de la Tierra en los próximos años?
+
+39. Cuando la antimateria se encuentra con la materia, ¿qué se produce y en qué porcentaje?
+
+40. Alguien le dijo a tu amigo que si un extraterrestre de antimateria pusiera sus pies en la Tierra, todo el mundo explotaría en un destello de energía radiante. Tu amigo pide que le confirmes o le refutes su afirmación. ¿Qué le indicarías?
+
+## Problemas
+
+1. ¿Cuántos gramos de oxígeno hay en 18 gramos de agua?
+
+2. ¿Cuántos gramos de hidrógeno hay en 16 gramos de gas metano? (La fórmula química del metano es CH4).
+
+3. El gas A está formado por moléculas diatómicas (con dos átomos por molécula) de un elemento puro. El gas B está formado por moléculas monoatómicas (con un átomo por molécula) de otro elemento puro. A las mismas presión y temperatura, el gas A tiene tres veces la masa de un volumen igual del gas B. ¿Cómo se comparan las masas atómicas de los elementos A y B?
+
+4. Una cucharadita de un aceite orgánico dejada caer sobre la superficie de un estanque inmóvil se esparce y cubre casi hasta media hectárea. La película de aceite tiene un espesor igual al tamaño de una molécula. Si en el laboratorio dejas caer 0,001 mililitro del aceite orgánico en una superficie inmóvil de agua, verás que cubre un metro cuadrado de su área. Si la capa tiene una molécula de espesor, ¿cuál es el tamaño de una sola molécula?
+
+# CAPÍTULO 2: Sólidos
+
+Durante muchos miles de años los seres humanos han utilizado materiales sólidos. Los nombres Edad de Piedra, Edad de Bronce y Edad de Hierro nos indican la importancia de los materiales sólidos en el desarrollo de la civilización. La madera y la tierra también eran importantes en la Antigüedad, en tanto que las gemas se emplearon como arte y como ornato. La cantidad y los usos de los materiales se multiplicaron al paso de los siglos; sin embargo, se avanzó poco en comprender la naturaleza de los sólidos. Se tuvieron que esperar los descubrimientos relacionados con los átomos que ocurrieron en el siglo XX. Armados con su conocimiento del átomo, en la actualidad los químicos, metalúrgicos e investigadores de los materiales inventan nuevos materiales diariamente. Los físicos especializados en el estado sólido exploran los semiconductores y otros sólidos, y los adaptan para cumplir con las demandas de esta era de la información.
+
+## El micrógrafo de Müller
+
+Arriba se tiene un ejemplo notable que demuestra la estructura de la materia sólida. La imagen es una micrografía obtenida en 1958 por el doctor Müller, quien usó una aguja de platino extraordinariamente fina con punta hemisférica, cuyo diámetro era de 40 millonésimas de centímetro. La aguja se encerró en un tubo de helio enrarecido y se sometió a un gran voltaje positivo (25.000 volts). Este voltaje produjo una fuerza eléctrica tan intensa que todos los átomos de helio que se “asentaban” en los átomos de la punta de la aguja quedaban sin electrones, y se transformaban en iones; los iones de helio con carga positiva se alejaban de la punta de la aguja de platino, en dirección casi perpendicular a su superficie en todas direcciones. Luego llegaban a una pantalla fluorescente y produjeron esta imagen de la punta de la aguja, que aumenta unas 750.000 veces las distancias entre los átomos. Es claro que el platino es cristalino, y que los átomos están ordenados como naranjas en los anaqueles de una frutería. Aunque la imagen no es precisamente de los átomos mismos, muestra sus posiciones y revela la microarquitectura de uno de los sólidos que forman nuestro mundo.
+
+## Estructura cristalina
+
+*Imagen 3. Estructura cristalina con rayos X*
+
+Descripción de la Imagen 3. Determinación de la estructura cristalina con rayos X. La imagen de la sal es un producto de la difracción de los rayos X. La imagen de la sal proyectada muestra 4 manchas circulares formando un cuadrado, y otra del mismo tamaño en el centro, mientras que otras manchas aparecen casi circularmente alrededor del centro son tocarse una con otra. Los rayos proceden del tubo de rayos X, y son bloqueados por una pantalla de plomo que deja salir un haz estrecho que llega al cristal de cloruro de sodio (la sal común de mesa). La radiación que penetra el cristal y llega a la película fotográfica forma el patrón descrito. La mancha blanca del centro se debe al haz principal de rayos X sin dispersar. El tamaño y la posición de las demás manchas es el resultado de la estructura reticular de los iones de sodio y de cloro en el cristal. Un cristal de cloruro de sodio siempre genera la misma figura. Toda estructura cristalina tiene su propio y exclusivo patrón de difracción de rayos X.
+
+Los metales, las sales y la mayoría de los minerales (los materiales de la Tierra) están formados por cristales. Durante siglos, la gente ha conocido cristales como la sal y el cuarzo; pero no fue sino hasta el siglo XX que se interpretaron como ordenamientos regulares de átomos. En 1912 los rayos X se usaron para confirmar que cada cristal es un ordenamiento regular tridimensional, es decir, una red cristalina de átomos. Se midió que los átomos en un cristal están muy cercanos entre sí, más o menos a la misma distancia que la longitud de onda de los rayos X. El físico alemán Max von Laue descubrió que un haz de rayos X dirigido hacia un cristal se difracta (se separa) y forma un patrón característico (Imagen 3). Los patrones de difracción de rayos X en las películas fotográficas muestran que los cristales son mosaicos nítidos de átomos establecidos en redes regulares, como tableros tridimensionales de ajedrez o las estructuras tubulares en los parques donde juegan los niños. Los metales como hierro, cobre y oro tienen estructuras cristalinas relativamente sencillas. El estaño y el cobalto son un poco más complicados. Todos los metales contienen una mezcla de muchos cristales, cada uno casi perfecto, y cada uno con la misma red regular, pero con inclinaciones distintas respecto a las del cristal vecino. Tales cristales metálicos se observan cuando se ataca o se limpia una superficie metálica con ácido. Puedes ver las estructuras cristalinas sobre la superficie del acero galvanizado expuesta a la intemperie, o en las manijas de latón en las puertas, atacadas por la transpiración de muchas manos.
+
+Las fotografías de los patrones de difracción con rayos X, realizadas por Von Laue, fascinaron a los científicos ingleses William Henry Bragg y William Lawrence Braga, su hijo. Dedujeron una forma matemática que demostró cuánto se deberían dispersar los rayos X en las diversas capas atómicas de un cristal con espacios regulares entre sí. Con esta fórmula y un análisis de la distribución de manchas en un patrón de difracción, fueron capaces de determinar las distancias entre los átomos de un cristal. Actualmente la difracción con rayos X es una herramienta fundamental en la física y la biología.
+
+Se dice que los sólidos no cristalinos son amorfos. En el estado amorfo, los átomos y las moléculas de un sólido están distribuidos al azar. El caucho, el vidrio y el plástico son de los materiales que carecen de un arreglo ordenado y repetitivo de sus partículas básicas. En muchos sólidos amorfos, las partículas tienen cierta libertad de movimiento. Esto se ve en la elasticidad del caucho y en la tendencia a fluir que tiene el vidrio a ceder cuando se le somete a esfuerzos durante largo tiempo.
+
+Ya sea que los átomos estén en estado cristalino o amorfo, cada átomo o ion vibra respecto a su propia posición. Los átomos se mantienen unidos debido a fuerzas eléctricas de enlace. No describiremos ahora el enlace atómico, excepto para decir que hay cuatro clases principales de enlaces en los sólidos: iónico, covalente, metálico y el más débil: de Van der Waals. Algunas propiedades de un sólido están determinadas por los tipos de enlaces que tienen. Más información sobre el tema se encuentra en la mayoría de los textos de química.
+
+Dato curioso: los patrones de difracción del ADN (similares a los de la sal), que determinaron Maurice Wilkins y Rosalind Franklin en 1953, ofrecieron los datos a partir de los cuales James D. Watson y Francis Crick descubrieron la doble hélice del ADN.
+
+### Lectura sugerida: el poder de los cristales
+
+Las estructuras internas de los cristales, con sus arreglos de átomos que se repiten con regularidad, les comunican propiedades estéticas que desde hace mucho los han vuelto muy atractivos en la joyería. Asimismo, los cristales tienen propiedades importantes en las industrias electrónica, óptica y otras más. Se emplean en casi cualquier tipo de tecnología moderna. En el pasado tenían valor por sus supuestos poderes curativos. Esta creencia continúa hoy, en especial entre los ocultistas y los curanderos del New Age. Se dice que los cristales canalizan “energía positiva” y protegen contra la “energía negativa”. Conducen “vibraciones” que resuenan con “frecuencias” curativas que ayudan a mantener el equilibrio benéfico del organismo. Se afirma que cuando se ordenan en forma correcta dan protección contra las fuerzas electromagnéticas nocivas emitidas por las líneas de transmisión, los teléfonos celulares, los monitores de las computadoras, los hornos de microondas y por otras personas. Hasta se dice que se ha “demostrado médicamente” que curan y protegen, y que su poder se demuestra en la “física de los ganadores de premios Nobel”.
+
+Los cristales sí emiten energía, al igual que todos los objetos. Todas las cosas irradian energía, y también la absorben. Si un cristal, o cualquier sustancia, irradian más energía de la que recibe, baja su temperatura. Los átomos de los cristales sí vibran, y sí resuenan con frecuencias iguales a vibraciones externas, exactamente como lo hacen las moléculas de gases y líquidos. Pero cuando los proveedores de poder de los cristales hablan sobre cierto tipo de energía exclusiva de éstos, o de la vida, lo hacen sin pruebas científicas que los respalden. (Un descubrimiento científico válido en ese sentido rápidamente se haría famoso en el mundo entero.) Desde luego, se podría encontrar una prueba de una nueva clase de energía, como la energía oscura que vimos en el capítulo anterior, pero no es la que dicen los proveedores de poder de los cristales, quienes aseguran que ya existen esas pruebas científicas que respaldan sus creencias.
+
+La “evidencia” del poder curativo de los cristales no es experimental. En vez de ello, se trata de pruebas anecdóticas basadas en testimonios. Como se ve en los anuncios, es más fácil persuadir a las personas con testimonios que con hechos. Son comunes los testimonios de las personas que están convencidas de los beneficios personales de los cristales. Estar convencido por evidencia científica es una cuestión; estar convencido por premoniciones, el reforzamiento colectivo o el efecto placebo es otra muy distinta. Ninguna de las afirmaciones de los poderes especiales de los cristales ha sido respaldada por evidencia científica.
+
+Aparte de las afirmaciones, parece que el uso de pendientes con cristales da a algunas personas una buena vibra, hasta una sensación de protección. Esto, con las calidades estéticas de los cristales, son sus únicas virtudes. Algunas personas sienten que les pueden dar buena suerte, así como cuando llevan una pata de conejo en la bolsa. Sin embargo, la diferencia entre el poder de un cristal y las patas de conejo es que las ventajas de los cristales se describen en el lenguaje científico, lo cual no sucede con el hecho de llevar una pata de conejo. Por lo tanto, los vendedores de poder de cristales pertenecen a la pseudociencia desaforada.
+
+## Densidad
+
+¿El hierro es más pesado que la madera? La pregunta resulta ambigua porque depende de las cantidades que haya de hierro y de madera. Es claro que un tronco grande es más pesado que una tachuela de hierro. Una mejor pregunta es si el hierro es más denso que la madera, en cuyo caso la respuesta es sí: el hierro es más denso que la madera. Las masas de los átomos y las distancias entre ellos determinan la densidad de los materiales. Imaginamos que la densidad es la “ligereza” o la “pesadez” de los materiales del mismo tamaño. Es una medida de la compacidad de la materia, de cuánta masa ocupa determinado espacio; es la cantidad de masa por unidad de volumen:
+
+```latex
+densidad=\frac{masa}{volumen}
+```
+
+La ecuación se lee, Densidad = masa sobre volumen. Esto significa que, Densidad = masa ÷ volumen
+
+A continuación se muestran tablas de algunos materiales sólidos y líquidos con su respectiva densidad en Kg/m3 (Kilogramos sobre metro cúbico). Para obtener densidades en g/cm3, (gramo sobre centímetro cúbico) divide entre 1.000.
+
+*Tabla 1. Densidad de sólidos*
+
+| Sólidos | Densidad (kg/m3) |
+| --- | --- |
+| Iridio | 22.650 |
+| Osmio | 22.610 |
+| Platino | 21.090 |
+| Oro | 19.300 |
+| Uranio | 19.050 |
+| Plomo | 11.340 |
+| Plata | 10.490 |
+| Cobre | 8.920 |
+| Latón | 8.600 |
+| Hierro | 7.874 |
+| Estaño | 7.310 |
+| Aluminio | 2.700 |
+| Concreto | 2.300 |
+| Hielo | 919 |
+
+*Tabla 2. Densidad de líquidos*
+
+| Líquidos | Densidad (kg/m3) |
+| --- | --- |
+| Mercurio | 13.600 |
+| Glicerina | 1.260 |
+| Agua de mar | 1.025 |
+| Agua a 4 °C | 1.000 |
+| Alcohol etílico | 785 |
+| Gasolina | 680 |
+
+En las tablas 1 y 2 se presentan las densidades de algunos materiales. La densidad se expresa en unidades métricas, que en general son kilogramos por metro cúbico, kilogramos por litro o gramos por centímetro cúbico. Por ejemplo, la densidad del agua potable es 1.000 kg/m3 (Kilogramos sobre metro cúbico), o también 1 g/cm3 (gramo sobre centímetro cúbico). Así, la masa de un metro cúbico de agua potable es 1.000 kilogramos; o también la masa de un centímetro cúbico (más o menos del tamaño de un cubito de azúcar) de agua potable es 1 gramo.
+
+La densidad puede expresarse en términos de peso, en vez de masa. La densidad de peso se define como el peso por unidad de volumen:
+
+```latex
+Densidad de peso= \frac{peso}{volumen}
+```
+
+La ecuación se lee, Densidad de peso = peso sobre volumen. Esto significa que, Densidad de peso = peso ÷ volumen
+
+La densidad de peso se mide en N/m3 (newton sobre metro cúbico). Como un cuerpo de 1 kg tiene un peso de 9,8 N, su densidad de peso es numéricamente 9,8 × densidad de masa. Por ejemplo, la densidad de peso del agua es 9.800 N/kg3 (newton sobre Kilogramo cúbico). En el sistema inglés, 1 pie cúbico (ft3, ft a la 3) de agua potable (casi 7,5 galones) pesa 62,4 libras. Entonces, en el sistema inglés, el agua potable tiene una densidad de peso de 62,4 lb/ft3 (lb sobre ft cúbico). El iridio, un elemento metálico duro y de color blanco plateado, es la sustancia más densa en la Tierra. Aunque el átomo individual del iridio tiene menos masa que los átomos individuales del platino, oro, plomo o uranio, las cortas distancias entre los átomos de iridio en su forma cristalina contribuyen a su densidad máxima. Caben más átomos de iridio en un centímetro cúbico que otros átomos más masivos, pero con mayores distancias entre sí. Por consiguiente, el iridio tiene la asombrosa densidad de 22,650 kg/m3 (kg sobre m cúbicos).
+
+Dato curioso: Un metro cúbico es un volumen considerable y contiene un millón de centímetros cúbicos, de manera que hay un millón de gramos de agua en un metro cúbico (o, de manera equivalente, mil kilogramos de agua en un metro cúbico). ¡Eureka!
+
+#### Examínate
+
+1. Ésta es una pregunta sencilla: Cuando el agua se congela, se dilata. ¿Qué indica eso a cerca de la densidad del hielo en comparación con la densidad del agua?
+
+2. Ésta es una pregunta algo capciosa: ¿Qué pesa más: un litro de hielo o un litro de agua?
+
+3. ¿Qué tiene mayor densidad: 100 kg de plomo o 1.000 kg de aluminio?
+
+4. ¿Cuál es la densidad de 1.000 kg de agua?
+
+5. ¿Cuál es el volumen de 1.000 kg de agua?
+
+#### Comprueba tus respuestas
+
+1. El hielo es menos denso que el agua (ya que tiene más volumen con la misma masa), lo cual explica por qué el hielo flota en el agua.
+
+2. ¡No digas que pesan lo mismo! Un litro de agua pesa más. Si está congelada, su volumen es más que un litro; quítale esa parte para que tenga el mismo tamaño que el litro original, y seguramente pesará menos.
+
+3. La densidad es una relación de masa y volumen (o de peso y volumen), y esa relación es mayor para cualquier cantidad de plomo que para cualquier cantidad de aluminio. Consulta la tabla 1.
+
+4. La densidad de cualquier cantidad de agua es 1.000 kg/m3 (Kg sobre m cúbicos) o 1 g/cm3 (g sobre cm cúbico).
+
+5. El volumen de 1.000 kg de agua es 1 m3 (m cúbico).
+
+## Elasticidad
+
+Cuando un objeto se somete a fuerzas externas, sufre cambios de tamaño o de forma, o de ambos. Tales cambios dependen del arreglo de los átomos y su enlace en el material. Por ejemplo, un resorte puede estirarse o comprimirse por fuerzas externas.
+
+Una pesa que cuelga de un resorte lo estira. Si se cuelga más peso, se estira más. Si se quitan las pesas, el resorte regresa a su longitud original. Entonces decimos que el resorte es elástico. Cuando un bateador le pega a la pelota, ésta cambia de forma momentáneamente. Un arquero, cuando va a disparar una flecha, primero tensa el arco, el cual regresa a su forma original cuando se suelta la flecha.
+
+El resorte, la pelota de béisbol y el arco son ejemplos de objetos elásticos. La elasticidad es la propiedad de cambiar de forma cuando actúa una fuerza de deformación sobre un objeto, y éste regresa a su forma original cuando cesa la deformación. No todos los materiales regresan a su forma original cuando se les aplica una fuerza deformante y después se retira. Los materiales que no regresan a su forma original, después de haber sido deformados, se llaman inelásticos. La arcilla, la plastilina y la masa de repostería son materiales inelásticos. También el plomo es inelástico, porque se deforma con facilidad de manera permanente. Cuando se cuelga una pesa a un resorte, actúa sobre ella la fuerza de gravedad.
+
+*Imagen 4. Resorte con masas colgando.*
+
+Descripción de la Imagen 4. Resorte con masas colgando. La imagen muestra 5 momentos de un resorte con diferentes masas colgando. El estiramiento del resorte es directamente proporcional a la fuerza aplicada. Si el peso es el doble, el resorte se estira el doble.
+
+El estiramiento es directamente proporcional a la fuerza aplicada (Imagen 4). Asimismo, cuando te acuestas en la cama, la compresión de los resortes del colchón es directamente proporcional a tu peso. Esta relación fue reconocida a mediados del siglo XVI por el físico inglés Robert Hooke, contemporáneo de Isaac Newton, y se le llama ley de Hooke. La cantidad de estiramiento o de compresión (cambio de longitud). El cambio de longitud es directamente proporcional a la fuerza aplicada, F.
+
+Si un material elástico se estira o se comprime más allá de cierta cantidad, ya no regresa a su estado original, y permanece deformado. La distancia más allá de la cual se presenta la distorsión permanente se llama límite elástico. La ley de Hooke sólo es válida mientras la fuerza no estire ni se comprima el material más allá de su límite elástico.
+
+### Robert Hooke
+
+Robert Hooke, uno de los científicos ingleses más connotados, fue el primero en proponer una teoría ondulatoria de la luz y el primero en describir la célula (por lo que se le conoce como el padre de la microscopía). Como artista y agrimensor, ayudó a Christopher Wren a reconstruir Londres después del gran incendio de 1766. Como físico, colaboró con Robert Boyle y otros científicos de su época y fue elegido para presidir la Sociedad Real. A su muerte, Isaac Newton presidió la Sociedad Real y, por celos, destruyó todo cuanto pudo del trabajo de Hooke. Por eso no existen pinturas ni retratos de Hooke.
+
+## Tensión y compresión
+
+Cuando se tira de algo (o se estira) se dice que está en tensión. Cuando se aprieta algo (o se comprime), está en compresión. Dobla una regla, o cualquier varilla, y la parte doblada en el exterior de la curva está en tensión; en tanto que la parte interna curvada está en compresión. La compresión hace que las cosas se vuelvan más cortas y más gruesas; mientras que la tensión las hace más largas y más delgadas. Sin embargo, esto no es tan evidente en los materiales más rígidos, porque el acotamiento o el estiramiento son muy pequeños.
+
+El acero es un material elástico excelente, porque puede resistir grandes fuerzas y después regresar a su tamaño y forma originales. Por su resistencia y sus propiedades elásticas, se usa no sólo para fabricar resortes, sino también en los perfiles para la construcción. Las columnas verticales de acero que se usan para construir rascacielos tan sólo sufren una compresión pequeña. Una columna normal vertical de 25 m de longitud de las que se emplean para construir edificios altos se comprime un milímetro, más o menos, cuando soporta una carga de 10 toneladas. Tales deformaciones pueden ser aditivas. Un edificio de 70 a 80 m de altura puede comprimir las gigantescas columnas de acero en su base unos 2,5 centímetros (toda una pulgada) cuando se termina el edificio.
+
+*Imagen 5. Viga y bloque*
+
+Descripción de la Imagen 5. Viga y bloque. Una viga puesta horizontalmente a una altura sostiene un gran bloque al extremo que hace flexionar la viga. La parte superior de la viga se estira y la parte inferior se comprime. ¿Qué le sucede a la parte intermedia, entre la cara superior y la inferior?
+
+Cuando los perfiles son horizontales hay mayor deformación y tienden a doblarse bajo cargas pesadas. Cuando una viga horizontal está sostenida en uno o ambos extremos está bajo tensión y compresión, al mismo tiempo, debido a su peso y a la carga que sostiene. Examina la viga horizontal soportada en un extremo (se llama viga en voladizo, o en cantiléver) de la Imagen 5. Se dobla por su propio peso y por la carga que sostiene en su extremo. Con un poco de deducción se demuestra que la parte superior de la viga tiende a quedar estirada. Los átomos tienden a separarse. La parte superior es un poco más larga, y está bajo tensión. Un examen minucioso demuestra que la parte inferior de la viga está bajo compresión. Los átomos se apretujan entre sí. La parte inferior es un poco más corta, por la forma en que se dobla. Entonces, la parte superior está en tensión; y la parte inferior, en compresión. ¿Puedes notar que en algún lugar entre la parte superior y la parte inferior hay una región donde no sucede nada, en la cual no hay tensión ni compresión? Es la capa neutra.
+
+*Imagen 6. Viga y bloque con ladrillos*
+
+Descripción de la Imagen 6. Viga y bloque con ladrillos. Una viga que sostiene un bloque en la mitad se pone con 2 ladrillos de soporte. La parte superior de la viga se comprime y la parte inferior se estira. ¿Dónde está la capa neutra (que es la parte que no tiene esfuerzos de tensión ni de compresión)?
+
+La viga horizontal de la Imagen 6 se llama “viga simple” o “viga simplemente apoyada”, y está sostenida en ambos extremos y soporta una carga en su parte media. Esta vez hay compresión en la parte superior de la viga y tensión en la parte inferior. De nuevo hay una capa neutra en la parte media de la altura de la viga, en toda su longitud.
+
+Con la capa neutra en mente se puede entender por qué la sección transversal de las vigas de acero tiene la forma de la letra I (I mayúscula). La mayor parte del material en esas vigas I está concentrado en las cejas (los “patines”) superior e inferior. Cuando la viga se usa en posición horizontal en construcción, el esfuerzo se concentra en las cejas superior e inferior. Una ceja está comprimida y la otra está estirada: ambas cargan prácticamente todo el esfuerzo de la viga. Entre las cejas superior e inferior hay una región relativamente sin esfuerzos, el alma, cuya función principal es mantener las cejas separadas. Para eso se necesita relativamente poco material. Una viga I es casi tan resistente como una barra rectangular maciza con las mismas dimensiones generales, y su peso es mucho menor. Una gran viga rectangular de acero de determinada longitud, o que salva determinado claro, podría quedar aplastada bajo su propio peso; mientras que una viga I con la misma altura puede resistir cargas mucho mayores. Una viga I es como una barra maciza con algo del acero retirado de su parte media, donde se necesita menos. En consecuencia, la viga es más ligera y tiene casi la misma resistencia.
+
+#### Examínate
+
+1. Cuando caminas sobre las tablas de un piso que se hunden debido a tu peso, ¿dónde está la capa neutra?
+
+2. Supón que perforas agujeros horizontales en la rama de un árbol. ¿Dónde debilitarán menos los agujeros a la rama, en la parte superior, en la parte intermedia o en la parte inferior?
+
+#### Comprueba tus respuestas
+
+1. La capa neutra está a la mitad entre las superficies superior e inferior de las tablas.
+
+2. Perfora el agujero horizontal a la mitad de la rama; a través de la capa neutra, ahí un agujero casi no afectará la resistencia de la rama, porque las fibras ni se estiran ni se comprimen. Las fibras de la madera en la parte superior se estiran, por lo que un agujero ahí podría hacer que las demás fibras se rompieran por la tensión. Las fibras de la parte inferior están comprimidas, por lo que un agujero allí podría hacer que las demás fibras se aplasten por compresión.
+
+## Arcos
+
+La piedra se rompe con más facilidad con la tensión que con la compresión. Los techos de las estructuras de piedra levantadas por los egipcios, en la época en que se construyeron las pirámides, tenían muchas losas horizontales de piedra. Por la debilidad de dichas losas ante las fuerzas de tensión causadas por la gravedad, había que erigir muchas columnas verticales para sostener los techos. Lo mismo sucede con los templos de la Grecia antigua. Después vinieron los arcos y la necesidad de menos columnas verticales.
+
+Observa las orillas superiores de las ventanas en las antiguas construcciones de piedra. Probablemente sean arcos. Iguales son las formas de los viejos puentes de piedra. Cuando se pone una carga en una estructura en arco adecuada, la compresión la robustece, más que debilitarla. Las piedras se aprietan con más firmeza y se mantienen unidas por la fuerza de compresión. Si el arco tiene la forma correcta, ni siquiera hay que unir las piedras con cemento para mantenerlas en su lugar. Cuando la carga que soportan es uniforme y está repartida horizontalmente, como en un puente, la forma adecuada es una parábola, la misma curva que sigue una pelota al lanzarla. Los cables de un puente colgante forman un arco parabólico “de cabeza”. Por otro lado, si el arco sólo sostiene su propio peso, la curva que le da la máxima resistencia se llama catenaria, que es la curva formada por una cuerda o cadena colgada entre dos puntos de apoyo. La tensión en cada parte de la cuerda o cadena es paralela a la curva. De manera que cuando un arco independiente toma la forma de una catenaria invertida, la compresión dentro de él es siempre paralela al arco, así como la tensión entre los eslabones sucesivos de una cadena colgante es paralela a la cadena. El arco que adorna la ciudad portuaria de San Luis, Missouri, en Estados Unidos, es una catenaria.
+
+Si giras un arco para lograr círculo completo, obtienes un domo. El peso de éste, como el de un arco, origina compresión. Los domos modernos, como el Astrodomo de Houston, son catenarias tridimensionales y cubren áreas amplias sin la interrupción de columnas. Hay domos bajos (como el del monumento a Jefferson) y domos altos (como el de Capitolio en Estados Unidos). Los iglúes del Ártico surgieron antes que estos domos.
+
+Dato curioso: es posible hacer un arco catenario ¡incluso con resbalosos bloques de hielo! Siempre que las fuerzas compresivas entre los bloques sean paralelas al arco, y la temperatura no aumente lo suficiente para provocar el derretimiento, el arco permanecerá estable. ¡Eureka!
+
+#### Examínate
+
+¿Por qué es más fácil que un pollo pique su cascarón desde dentro para salir, que otro pollo lo pique desde afuera?
+
+#### Comprueba tu respuesta
+
+Al picar el cascarón desde afuera, el pollo debe vencer la compresión, la cual un cascarón resiste bien. Sin embargo, al picar desde el interior tan sólo se debe vencer la tensión, que un cascarón resiste menos. Para visualizar lo fuerte que es un cascarón contra la compresión, trata de aplastar un huevo a lo largo de su eje, sosteniéndolo entre el pulgar y el índice. ¿Sorprendido? Trata de aplastarlo a través de su diámetro menor. ¿Sorprendido? (Haz lo anterior en una tarja, y con protección por ejemplo de unos guantes, por los posibles residuos del cascarón.)
+
+## Escalamiento
+
+¿Te fijas lo fuerte que es una hormiga con respecto a su tamaño? Puede cargar en su espalda el peso de varias hormigas, mientras que un elefante tendría mucha dificultad para cargar a otro elefante. ¿Qué fuerza tendría una hormiga si su tamaño aumentara hasta el de un elefante? ¿Esa “superhormiga” sería varias veces más fuerte que un elefante? En forma sorprendente, la respuesta es no. Esa hormiga no podría despegar su propio peso del suelo, sus patas serían demasiado delgadas para su gran peso, y es probable que se rompieran. Hay una razón para que las patas de la hormiga sean delgadas, y las de un elefante sean gruesas. Al aumentar el tamaño de un objeto se hace más pesado, con más rapidez que aumenta su resistencia. Puedes sostener horizontalmente un palillo en sus extremos, y no notas que se doble. Pero si cuelgas un arbusto de la misma madera horizontalmente en sus extremos notarás un doblamiento apreciable. En relación con su peso, el palillo es mucho más resistente que el árbol. El escalamiento es el estudio de cómo el volumen y la forma (o el tamaño) de un objeto afectan la relación de peso, resistencia y área superficial.
+
+La resistencia se debe al área de la sección transversal (la cual es bidimensional, y se expresa en centímetros cuadrados); mientras que el peso depende del volumen (que es tridimensional y se expresa en centímetros cúbicos). Para comprender esta relación entre el cuadrado y el cubo, veamos el caso más sencillo, un cubo macizo de materia de 1 cm por lado; por ejemplo, un cubo de azúcar. Todo cubo de 1 centímetro cúbico tiene 1 centímetro cuadrado de sección transversal. Esto es, si rebanáramos el cubo en dirección paralela a una de sus caras, el área de la rebanada tendría 1 centímetro cuadrado.
+
+Compara eso con un cubo que tiene el doble de las dimensiones lineales, uno de 2 centímetros por lado. Como aprecia en el esquema, su área transversal sería 2 × 2, o 4 centímetros cuadrados; y su volumen sería 2 × 2 × 2, u 8 centímetros cúbicos. Por lo tanto, el cubo tendrá cuatro veces la resistencia, pero será ocho veces más pesado. Si examinas esto con cubos de mayor tamaño cada vez verás que para aumentos de las dimensiones lineales, el área transversal y el área total crece conforme el cuadrado de las dimensiones lineales; mientras que el volumen y el peso crecen en proporción al cubo de las dimensiones lineales. Cuando las dimensiones lineales de un objeto cambian de acuerdo con un factor, el área transversal cambia de acuerdo con el cuadrado de tal factor, y el volumen (y en consecuencia el peso) cambia de acuerdo con el cubo de este factor. Vemos que cuando las dimensiones lineales se duplican (factor = 2), el área crece 2×2 = 4 veces, y el volumen crece 2×2×2 = 8 veces.
+
+El volumen (y por consiguiente el peso) aumenta con mucho mayor rapidez que el aumento correspondiente del área transversal. Aunque se presenta el ejemplo sencillo de un cubo, el principio se aplica a cualquier objeto de cualquier forma. Imagina a un jugador de fútbol que puede hacer muchas “lagartijas”. Supón que de alguna manera pudiera aumentar su tamaño hasta el doble, esto es, altura doble y ancho doble. ¿Tendría una fuerza doble y podría levantarse con el doble de facilidad? La respuesta es no. Aunque sus brazos tendrían doble grosor, y cuatro veces el área transversal, y cuatro veces la fuerza, su peso aumentaría ocho veces. Para que el esfuerzo sea el mismo, podría levantar sólo la mitad de su peso. En relación con su peso sería más débil que antes.
+
+En la naturaleza, los animales grandes tienen patas desproporcionadamente gruesas en comparación con las de los animales pequeños. Esto se debe a la relación entre volumen y área; el hecho es que el volumen (y el peso) crece según el cubo de lo que aumenta la dimensión lineal; mientras que la fuerza (y el área) crece en proporción al cuadrado del aumento de dimensión lineal. Vemos entonces que hay una razón de las patas delgadas de venados o de antílopes, y de las patas gruesas de un rinoceronte, un hipopótamo o un elefante.
+
+Dato curioso: Leonardo da Vinci fue el primero en informar que el área transversal de un tronco de árbol es igual a la superficie combinada de las áreas producidas al hacer un corte horizontal en todas las ramas superiores del árbol.
+
+No se pueden tomar en serio las inmensas fuerzas atribuidas a King Kong y otros gigantes de la ficción. El hecho de que las consecuencias del escalamiento se omitan con fines de espectáculo es una de las diferencias entre ciencia y ficción.
+
+En otras palabras, a medida de que aumentan tanto la superficie como el volumen de un objeto, disminuye el crecimiento de la superficie en relación con el crecimiento del volumen. En realidad no mucha gente entiende tal concepto. Puede ser que te ayuden los siguientes ejemplos.
+
+Un chef sabe que se obtienen más cáscaras de papa al pelar 5 kilogramos de papas pequeñas que de pelar 5 kilogramos de papas grandes. Los objetos más pequeños tienen mayor área de superficie por kilogramo. Las papas en rebanadas finas se cocinan más rápido en aceite que las papas a la francesa más gruesas. Las delgadas hamburguesas se cuecen más rápido que las albóndigas de la misma masa. El hielo triturado enfriará una bebida mucho más rápido que un cubo de hielo de la misma masa, porque el hielo triturado tiene más área o superficie de contacto con la bebida. Las virutas de acero se oxidan en el fregadero, mientras que los cuchillos de acero se oxidan más lentamente. La oxidación es un fenómeno de superficie. El hierro se oxida cuando está expuesto al aire, pero se oxida mucho más rápido y pronto se carcome si está en la forma de pequeños hilos o limaduras. Los trozos de carbón se queman, mientras que el polvo de carbón explota cuando se enciende. Éstas son consecuencias del hecho de que el volumen y el área no están en proporción directa entre sí.
+
+#### Examínate
+
+1. Se escala un cubo de un centímetro cúbico para llegar a un cubo de 10 centímetros de longitud en cada orilla.
+
+a) ¿Cuál sería el volumen del cubo escalado?
+
+b) ¿Cuál sería su superficie transversal?
+
+c) ¿Cuál sería su superficie total?
+
+2. Si te escalaras de algún modo hasta llegar al doble de tu tamaño, conservando tus proporciones actuales, ¿serías más fuerte o más débil? Explica tu razonamiento.
+
+#### Comprueba tus respuestas
+
+1. Se concluye que
+
+a) El volumen del cubo escalado sería (longitud de un lado)3 (al cubo) = (10 cm)3 que se lee (10 cm) al cubo, es decir, 1.000 cm3 (cm cúbicos).
+
+b) Su superficie transversal sería (longitud de un lado)2 (al cuadrado) = (10 cm)2 que se lee (10 cm) al cuadrado, es decir, 100 cm2 (cm cuadrados).
+
+c) Su superficie total sería 6 caras × área de una cara = 600 cm2 (cm cuadrados).
+
+2. Tu “yo” escalado sería cuatro veces más fuerte, porque el área transversal de tus huesos y músculos con doble ancho deben aumentar cuatro veces. Podrías levantar una carga de cuatro veces el peso. Pero tu peso sería ocho veces mayor que antes, por lo que no serías más fuerte en relación con tu mayor peso. Si tienes cuatro veces la fuerza y tienes ocho veces el peso, tu relación de fuerza a peso sólo tendrá la mitad de su valor actual. Así, si hoy apenas puedes levantar tu propio peso, al ser más grande sólo podrías levantar apenas la mitad de tu peso nuevo. Aumentaría tu fuerza, pero tu relación de fuerza a peso disminuiría. ¡Mejor quédate como estás!
+
+### Escalamiento en la naturaleza
+
+Una de las formas que tiene la naturaleza de compensar la pequeña relación de superficie con el volumen de los elefantes son sus grandes orejas. No son para oír mejor, sino principalmente para refrescarse. La rapidez con que una criatura disipa el calor es proporcional al área superficial. Si un elefante no tuviera orejas grandes, no tendría superficie suficiente para enfriar su gigantesca masa. Las orejas grandes aumentan mucho la superficie total, que facilita el enfriamiento en los climas calientes.
+
+Dato curioso: El elefante africano tiene menos superficie en relación con su peso, comparado con otros animales. Lo compensa con sus grandes orejas, que aumentan mucho su superficie de irradiación y ayudan a enfriar su cuerpo.
+
+En el ámbito microscópico, las células vivas deben confrontar el hecho de que el crecimiento de su volumen es más rápido que el crecimiento de su superficie. Las células obtienen los nutrientes por difusión a través de sus superficies. A medida que crecen, aumenta el área de su superficie, pero no con la rapidez suficiente como para emparejarse con su volumen. Por ejemplo, si su superficie aumenta cuatro veces, el volumen correspondiente aumenta ocho veces. Se debe sostener ocho veces más masa con sólo cuatro veces más alimento. En determinado tamaño, la superficie no es suficientemente grande como para permitir que pase la cantidad suficiente de nutrientes a la célula, y se establece un límite de lo grande que pueden crecer las células. Entonces, las células se dividen y hay vida como la conocemos. Lo cual es bueno, ¿no crees?
+
+No tan bueno es el destino de las grandes criaturas cuando se caen. El dicho de “cuanto más grande es, más dura es la caída” es muy cierto; es una consecuencia de la pequeña relación de superficie entre peso. La resistencia que ofrece el aire al movimiento a través de él es proporcional a la superficie del objeto en movimiento. Si caes de un árbol, aun con la resistencia del aire, tu aceleración de caída es casi 1 g. No tienes superficie suficiente en relación con tu peso para desacelerarte hasta una rapidez segura, a menos que uses un paracaídas. Por otro lado, las criaturas pequeñas no necesitan paracaídas. Tienen mucha superficie en relación con su diminuto peso. Un insecto puede caer desde la copa de un árbol hasta el suelo sin dañarse. La relación de superficie entre peso favorece al insecto, porque de hecho el insecto es su propio paracaídas.
+
+Dato curioso: la larga cola del mono no sólo le ayuda a mantener el equilibrio, sino que también irradia calor con eficacia.
+
+Las distintas consecuencias de una caída sólo son un ejemplo de las relaciones diferentes que los organismos grandes y pequeños tienen con el ambiente físico. La fuerza de gravedad es diminuta para los insectos en comparación con las fuerzas de cohesión (la adherencia) de las patas y las superficies sobre las que caminan. Es la causa de que una mosca pueda caminar por un muro o en el techo, ignorando por completo la fuerza de gravedad. Los seres humanos y los elefantes no lo pueden hacer. Las vidas de las criaturas pequeñas no están gobernadas por la fuerza de gravedad, sino por fuerzas como la tensión superficial, la cohesión y la capilaridad, que describiremos en el siguiente capítulo.
+
+Es interesante hacer notar que la frecuencia del latido cardiaco en los mamíferos se relaciona con su tamaño. El corazón de una musaraña late unas 20 veces más rápido que el de un elefante. En general, los mamíferos pequeños viven rápido y mueren jóvenes. Los mayores viven a un paso más tranquilo y mueren más viejos. No te debes entristecer porque tu hámster viva menos que un perro. Todos los animales de sangre caliente tienen más o menos la misma duración, no en años, sino en cantidad promedio de latidos del corazón (unos 800 millones). Los seres humanos somos la excepción, pues vivimos de dos a tres veces más que otros mamíferos de nuestro tamaño.
+
+Dato curioso: Las gotas de lluvia grandes caen más rápido que las pequeñas, y los peces grandes nadan más rápido que los pequeños. ¡Eureka!
+
+Los investigadores han observado que cuando algo se contrae lo suficiente, ya sea un circuito electrónico, un motor, una película de lubricante o un cristal individual de metal o de cerámica, cesa de funcionar como una versión en miniatura de sí mismo y comienza a comportarse en formas nuevas y distintas. Por ejemplo, el paladio, un metal que normalmente está formado por granos de unos 1.000 nanómetros de diámetro, es unas cinco veces más resistente cuando los granos que lo forman son de 5 nanómetros. El escalamiento tiene enorme importancia a medida que son cada vez más los dispositivos que se miniaturizan.
+
+Dato curioso: las gotas de lluvia pueden llegar a medir hasta 8 mm de diámetro. Las gotas de 1 mm de diámetro toman la forma de una esfera; las de 2 mm se aplastan como un bollo de hamburguesa; y cuando son de 5 mm, el aire les da forma de paracaídas. Cuando la circulación lanza de regreso las gotas de lluvia hacia arriba en el aire, con frecuencia repetidamente, éstas se congelan y forman granizo. Según los reportes, los copos de granizo llegan a alcanzar los 178 mm de diámetro.
+
+## Resumen de términos
+
+Densidad. La masa de una sustancia por unidad de volumen:
+
+Densidad = masa ÷ volumen
+
+La densidad de peso es el peso por unidad de volumen:
+
+Densidad de peso = peso ÷ volumen
+
+Elasticidad. La propiedad de un material de cambiar de forma cuando actúa sobre él una fuerza deformante, y de regresar a su forma original cuando se quita esa fuerza.
+
+Enlace atómico. La unión de átomos para formar estructuras mayores, incluyendo los sólidos.
+
+Escalamiento. Estudio de la forma en que el tamaño afecta las relaciones entre peso, resistencia y superficie.
+
+Ley de Hooke. La cantidad de estiramiento o compresión de un material elástico es directamente proporcional a la fuerza aplicada. Cuando se introduce la constante del resorte k, entonces:
+
+F = k × cambio de longitud.
+
+## Preguntas de repaso
+
+##### Micrógrafo de Müller
+
+1. ¿Qué indica el micrógrafo de Müller acerca de la disposición de los átomos de platino en la punta de una aguja de platino?
+
+##### Estructura cristalina
+
+2. ¿En qué difiere el arreglo de los átomos en una sustancia cristalina y en una no cristalina?
+
+3. ¿Qué evidencia puedes citar de la naturaleza cristalina microscópica de algunos sólidos? ¿Y de la naturaleza cristalina macroscópica?
+
+##### Densidad
+
+4. ¿Qué sucede con el volumen de un pan cuando se comprime? ¿Con la masa? ¿Y con la densidad?
+
+5. ¿Qué es más denso, algo que su densidad sea 1.000 kg/m3 (Kg sobre m cúbicos) o algo cuya densidad sea 1 g/cm3 (g sobre cm cubico)? Sustenta tu respuesta.
+
+6. El átomo de osmio no es el más pesado que hay en la naturaleza. Entonces, ¿qué explica que sea la sustancia más densa sobre la Tierra?
+
+7. ¿En qué se diferencian la densidad de peso de la densidad de masa?
+
+##### Elasticidad
+
+8. ¿Por qué se dice que un resorte es elástico?
+
+9. ¿Por qué decimos que una bola de plastilina es inelástica?
+
+10. ¿Cuál es la ley de Hooke?
+
+11. ¿La ley de Hooke se aplica a los materiales elásticos o a los inelásticos?
+
+12. ¿Qué quiere decir límite elástico para determinado objeto?
+
+13. Si el peso de un cuerpo de 1 kg estira 2 cm un resorte, ¿cuánto se estirará el resorte al sostener una carga de 3 kg? (Supón que el resorte no llega a su límite elástico.)
+
+##### Tensión y compresión
+
+14. Describe la diferencia entre tensión y compresión.
+
+15. ¿Qué es la capa neutra en la viga que sostiene una carga?
+
+16. ¿Por qué los cortes transversales de los perfiles de acero tienen la forma de la letra I (I mayúscula) y no de rectángulos macizos?
+
+##### Arcos
+
+17. ¿Por qué en la antigüedad se necesitaban tantas columnas para sostener los techos de las construcciones de piedra en Egipto y Grecia?
+
+18. ¿Lo que robustece un arco que sostiene una carga es la tensión o la compresión?
+
+19. ¿Por qué no se necesita cemento entre los bloques de piedra que sostienen un arco con la forma de una catenaria invertida?
+
+20. ¿Por qué no se necesitan columnas para soportar el centro de los estadios con forma de domo, como el Astrodome en Houston?
+
+##### Escalamiento
+
+21. ¿La fuerza de una persona en su brazo, por lo general, depende de la longitud del brazo o de su área transversal?
+
+22. ¿Cuál es el volumen de un cubo de azúcar de 1 cm por lado? ¿Cuál es la superficie transversal del cubo?
+
+23. Si las dimensiones lineales de un objeto se duplican, ¿cuánto aumentará su superficie? ¿Y cuánto aumentará su volumen?
+
+24. A medida que aumenta el volumen de un objeto, el área de su superficie también aumenta. Durante este aumento, ¿aumenta la relación de metros cuadrados entre metros cúbicos, o disminuye?
+
+25. ¿Qué tiene más piel, un elefante o un ratón? ¿Qué tiene más piel en relación con su peso corporal, un elefante o un ratón?
+
+26. ¿Por qué las criaturas pequeñas caen sin dañarse desde alturas considerables, mientras que las personas necesitan paracaídas para hacer lo mismo?
+
+## Proyectos
+
+1. Simula un empacamiento atómico estrecho ordenando con dos docenas de monedas. Hazlo dentro de un cuadrado, de tal modo que cada moneda en el interior toque a otras cuatro. A continuación ordénalas hexagonalmente de modo que cada una toque a otras seis. Compara las superficies ocupadas por la misma cantidad de monedas empacadas de las dos maneras.
+
+2. Cuando te acuestas tiene un poco más estatura que cuando estas parado. ¿Será cierto? Haz mediciones y averígualo.
+
+3. Sostén un huevo verticalmente y cuelga una cadena pequeña a un lado de él. ¿Puedes ver que la cadena sigue el contorno del huevo: con un combamiento poco profundo en el extremo más redondeado y un combamiento más profundo en el extremo más puntiagudo? ¡La naturaleza no ha pasado por alto la catenaria!
+
+## Ejercicios
+
+1. Tomas 1.000 miligramos de una vitamina. Tu amigo toma un gramo de la misma vitamina. ¿Quién toma una dosis mayor?
+
+2. Tu amigo dice que la diferencia primordial entre un sólido y un líquido es el tipo de átomos en el material. ¿Estás de acuerdo o en desacuerdo? ¿Por qué?
+
+3. ¿En qué sentido puede decirse que un árbol es aire solidificado?
+
+4. El silicio es el principal ingrediente del vidrio y también de los semiconductores; sin embargo, las propiedades físicas del vidrio son distintas de los semiconductores. Explica por qué.
+
+5. ¿Qué evidencia mencionarías que respalde la afirmación que los cristales están formados por átomos ordenados en patrones u ordenamientos específicos?
+
+6. ¿Qué sucede con la densidad del aire en un globo de caucho común cuando se calienta?
+
+7. ¿El hierro es necesariamente más pesado que el corcho? Explica por qué.
+
+8. ¿Cómo se compara la densidad de un bloque de hierro de 100 kg con la densidad de la limadura de hierro?
+
+9. ¿Qué sucede con la densidad del agua cuando se congela y se convierte en hielo?
+
+10. Cuando se sumerge mucho, una ballena se comprime en forma considerable debido a la presión del agua que la rodea. ¿Qué sucede entonces con la densidad de la ballena?
+
+11. El átomo de uranio es el más pesado y más masivo entre los elementos naturales. Entonces, ¿por qué el uranio de una barra maciza no es el metal más denso?
+
+12. ¿Qué tiene más volumen, un kilogramo de oro o un kilogramo de aluminio?
+
+13. ¿Qué tiene más masa, un litro de hielo o un litro de agua?
+
+14. ¿Cómo probarías la noción de que una bola de acero es más elástica que una bola de caucho?
+
+15. Una cuerda gruesa es más resistente que una delgada, del mismo material. ¿Una cuerda más larga será más resistente que una corta, del mismo diámetro y material?
+
+16. Cuando doblas un metro de madera, un lado está bajo tensión y el otro bajo compresión. ¿Qué lado es cuál?
+
+17. Supón que estás fabricando un balcón que sobresale de la estructura principal de tu casa. En una losa de concreto en voladizo, ¿las varillas de acero de refuerzo deben estar arriba, a la mitad o abajo de la losa?
+
+18. ¿Puede sostener una viga I (I mayúscula) horizontal más carga cuando el alma es horizontal que cuando es vertical? Explica por qué.
+
+19. En un barril muy grande de madera, como los que hay en las cavas, ¿las tapas “planas” deben ser cóncavas (hacia adentro) o convexas (hacia afuera)? ¿Por qué?
+
+20. ¿Por qué crees que las armaduras de los puentes y otras estructuras están formadas por triángulos? (Compara la estabilidad de tres tablas clavadas formando un triángulo, con la de cuatro tablas clavadas formando un rectángulo, o con la de cualquier cantidad de tablas clavadas formando figuras geométricas de varios lados. ¡Haz la prueba!)
+
+21. Hay dos puentes que son copias exactas entre sí, excepto que en el mayor cada dimensión es exactamente el doble que la correspondiente al menor; esto es, tienen dos veces la longitud, los elementos estructurales tienen dos veces el grosor, etcétera ¿Cuál puente tendrá más probabilidades de colapsarse debido a su propio peso?
+
+22. Sólo con mucha dificultad es posible romper un huevo ejerciendo presión sobre su eje longitudinal, pero se rompe muy fácilmente si se ejerce presión sobre los lados. ¿Por qué?
+
+23. Un dulcero hace manzanas de caramelo y decide usar 100 kg de manzanas grandes, en vez de 100 kg de manzanas pequeñas. ¿Necesitará más caramelo para cubrir sus manzanas?
+
+24. ¿Por qué es más fácil iniciar un incendio con briznas y no con trozos grandes o troncos de la misma madera?
+
+25. ¿Por qué se quema un trozo de carbón cuando se enciende, mientras que el polvo de carbón explota?
+
+26. ¿Por qué una construcción de dos pisos cuya forma es más o menos cúbica pierde menos calor que una construcción extendida de un piso, con el mismo volumen?
+
+27. ¿Por qué la calefacción es más eficiente en grandes edificios de apartamentos que en casas solas?
+
+28. Algunas personas conscientes del ambiente construyen sus casas en forma de domos. ¿Por qué hay menos pérdidas de calor en los domos?
+
+29. ¿Por qué el hielo triturado se derrite más rápidamente que la misma masa de cubos de hielo?
+
+30. ¿Por qué algunos animales enroscan su cuerpo cuando tienen frío?
+
+31. ¿Por qué la oxidación es un problema mayor para las varillas delgadas de acero que para las gruesas barras del mismo material?
+
+32. ¿Por qué las papas delgadas se fríen con más rapidez que las gruesas?
+
+33. Si estás asando hamburguesas y eres impaciente, ¿por qué sería mejor aplanarlas para que queden más grandes y más delgadas?
+
+34. Si usas una carga de pasta de repostería para hacer bizcochos y la horneas durante el tiempo que dice la receta para hacer un pastel, ¿cuál será el resultado?
+
+35. ¿Por qué los mitones son más calientes que los guantes en un día frío? ¿Qué partes del cuerpo son más susceptibles a la congelación? ¿Por qué?
+
+36. ¿Por qué los gimnastas suelen tener baja estatura?
+
+37. ¿Cómo se relaciona el escalamiento con el hecho de que la frecuencia cardiaca de las criaturas grandes en general es menor que la de las pequeñas?
+
+38. Las paredes internas de los intestinos obtienen nutrientes del alimento. ¿Por qué un organismo pequeño, como una lombriz, tiene un tracto intestinal sencillo y relativamente recto, mientras que un organismo grande, como un ser humano, tiene su tracto intestinal complejo y sinuoso?
+
+39. Los pulmones en los humanos tienen sólo un volumen aproximado de 4 L. Sin embargo, su superficie interna es casi 100 m2 (m cuadrados). ¿Qué importancia tiene eso y cómo es posible?
+
+40. ¿Qué tiene que ver el concepto de escalamiento con el hecho de que las células vivas de una ballena tienen más o menos el mismo tamaño que las de un ratón?
+
+41. ¿Qué cae más rápido, las gotas de lluvia grandes o las pequeñas?
+
+42. ¿Quién tiene más necesidad de beber líquidos en un clima desértico y seco, un niño o un adulto?
+
+43. ¿Por qué un colibrí no pasa zumbando como un águila, y por qué un águila no sacude las alas como un colibrí?
+
+44. ¿Puedes relacionar la idea de escalamiento al gobierno de grupos pequeños o grupos grandes de ciudadanos? Explica cómo.
+
+## Problemas
+
+1. Calcula la densidad de un cilindro macizo de 5 kg. Tiene 10 cm de altura y su radio es de 3 cm.
+
+2. ¿Cuál es el peso de un metro cúbico de corcho? ¿Lo podrías levantar? Usa 400 kg/m3 (Kg sobre m cúbicos) como densidad del corcho.
+
+3. Cierto resorte se estira 4 cm cuando se le cuelga una carga de 20 N. ¿Cuánto se estirará el resorte si se le cuelgan 45 N (sin llegar a su límite elástico)?
+
+4. Si cierto resorte se estira 4 cm cuando se le cuelga una carga de 10 N, ¿cuánto se estirará el resorte si se corta a la mitad y se le cuelgan 10 N?
+
+5. Si se reducen las dimensiones lineales de un tanque de almacenamiento a la mitad, ¿cuánto disminuirá su superficie total? ¿Cuánto disminuirá su volumen?
+
+6. Hay ocho cubos de azúcar de 1 cm3 (cm cúbico), apilados de dos en dos para formar un solo cubo más grande. ¿Cuál será el volumen del cubo combinado? ¿Cómo se compara su superficie con la superficie total de los ocho cubos separados?
+
+# CAPÍTULO 3: LÍQUIDOS
+
+Las moléculas que forman un líquido no están confinadas a posiciones fijas, como en los sólidos, sino que se pueden mover libremente de una posición a otra deslizándose entre sí. Mientras que un sólido conserva una forma determinada, un líquido toma la forma del recipiente que lo contiene. Las moléculas de un líquido están cerca unas de otras, y resisten mucho las fuerzas de compresión. Los líquidos, como los sólidos, son difíciles de comprimir. Los gases, como veremos en el siguiente capítulo, se comprimen con facilidad. Tanto los líquidos como los gases pueden fluir, y en consecuencia ambos se denominan fluidos.
+
+## Presión
+
+Un líquido contenido en un recipiente ejerce fuerzas contra las paredes de éste. Para describir la interacción entre el líquido y las paredes conviene introducir el concepto de presión, que se obtiene dividiendo la fuerza entre el área sobre la cual actúa la fuerza:
+
+```latex
+presión=\frac{fuerza}{área}
+```
+
+La ecuación se lee, Presión= fuerza sobre área. Esto significa que, Presión= fuerza ÷ área
+
+Para ilustrar la diferencia entre presión y fuerza considera los dos bloques de la Imagen 7. Son idénticos pero uno está parado sobre su extremo y el otro descansa sobre un lado. Ambos tienen el mismo peso y, por ende, ejercen la misma fuerza en la superficie (si los dos estuvieran sobre una báscula de baño, con cada uno marcaría lo mismo); pero el bloque vertical ejerce una mayor presión contra la superficie. Si ese bloque se volteara de manera que sólo tocara la mesa en una esquina, la presión sería todavía mayor.
+
+*Imagen 7. Dos bloques puestos sobre una mesa*
+
+Descripción de la Imagen 7. Dos bloques puestos sobre una mesa. Uno puesto verticalmente y otro horizontalmente. Aunque el peso de los dos bloques es el mismo, el vertical ejerce mayor presión contra la mesa.
+
+## Presión en un líquido
+
+Cuando nadas bajo el agua sientes la presión de ésta contra los tímpanos. Cuanto más profundo te sumerjas, mayor será la presión. La presión que sientes se debe al peso del agua que está arriba de ti. Conforme nadas más profundo hay más agua sobre ti y, en consecuencia, hay más presión. La presión que un líquido ejerce depende de la profundidad.
+
+La presión de un líquido también depende de la densidad del líquido. Si te sumergieras en un líquido más denso que el agua la presión sería mayor. La presión de un líquido es exactamente igual al producto de la densidad de peso por la profundidad
+
+Presión del líquido = densidad del peso × profundidad
+
+Dicho con sencillez, la presión que ejerce un líquido contra las paredes y el fondo de un recipiente depende de la densidad y la profundidad del líquido. Si no tomamos en cuenta la presión atmosférica, a una profundidad doble, la presión del líquido contra el fondo sube al doble; a tres veces la profundidad, la presión del líquido es el triple, y así sucesivamente. O bien, si el líquido tiene dos o tres veces la densidad, la presión del líquido es, respectivamente, dos o tres veces mayor, para determinada profundidad. Los líquidos son prácticamente incompresibles; esto es, su volumen casi no puede cambiar debido a la presión (el volumen del agua sólo disminuye 50 millonésimos de su volumen original por cada atmósfera de aumento en la presión). Así, excepto por los cambios pequeños producidos por la temperatura, la densidad de un líquido en particular es prácticamente igual a todas las profundidades.
+
+*Imagen 8. Jirafa*
+
+Descripción de la Imagen 8. Jirafa. La dependencia entre presión de los líquidos y su profundidad no es problema en una jirafa, debido a su corazón grande, su intrincado sistema de válvulas y vasos sanguíneos elásticos y absorbentes en el cerebro. Sin tales estructuras se desmayaría al subir de repente la cabeza y tendría hemorragias cerebrales al bajarla.
+
+Si presionas tu mano contra una superficie, y alguien más ejerce presión sobre tu mano en la misma dirección, entonces la presión contra la superficie es mayor que si sólo tú presionaras. Lo mismo sucede con la presión atmosférica que presiona sobre la superficie de un líquido. La presión total de un líquido, entonces, es densidad de peso × profundidad más la presión de la atmósfera. Cuando esta distinción sea importante, utilizaremos el término presión total. De otra forma, nuestros análisis de la presión de un líquido se referirán a la presión sin considerar la presión atmosférica que normalmente siempre está presente. (Aprenderás más sobre la presión atmosférica en el siguiente capítulo.)
+
+*Imagen 9. Dos lagos con profundidades.*
+
+Descripción de la Imagen 9. Se presenta un lago grande y poco profundo (profundidad 3 metros). Y un estanque pequeño pero profundo (profundidad 6 metros). La presión promedio de agua que actúa contra la cortina depende de su profundidad promedio, y no del volumen del agua contenida. El lago grande y poco profundo ejerce sólo la mitad de la presión promedio que el estanque pequeño, pero profundo.
+
+Es importante darse cuenta de que la presión no depende de la cantidad de líquido presente. El volumen no es la clave, la profundidad sí. La presión promedio del agua que actúa contra las cortinas de la presa depende de la profundidad promedio del agua, y no del volumen que contiene. Por ejemplo, un lago poco profundo, pero muy extenso, de la Imagen 9 sólo ejerce la mitad de la presión promedio que un estanque pequeño pero profundo.
+
+Sentirás la misma presión si sumerges la cabeza un metro bajo el agua en una alberca, que si lo haces a la misma profundidad en un lago muy grande. Lo mismo sucede con los peces. Imagina 4 recipientes de diferentes tamaños y volúmenes conectados entre sí, y en cada uno ponemos un pez a la misma profundidad. Si sujetamos a un pez por la cola y sumergimos su cabeza unos centímetros, la presión del agua sobre la cabeza será la misma en cualquiera de los vasos. Si lo soltamos y nada unos centímetros más profundo, la presión sobre él aumentará con la profundidad, pero será igual independientemente de en qué vaso esté. Si nada hasta el fondo, la presión será mayor, pero no habrá diferencia en qué vaso esté. Todos los vasos se llenan a la misma profundidad, por lo que la presión del agua será igual en el fondo de cada uno, sin que importen su forma ni su volumen.
+
+Si la presión del agua en el fondo de un vaso fuera mayor que en el vaso contiguo más angosto, la mayor presión enviaría a los lados el agua y luego iría hacia arriba del recipiente angosto hasta que se igualaran las presiones en el fondo. Pero no sucede así. La presión depende de la profundidad y no del volumen, así que vemos que hay una razón por la que el agua busca su propio nivel.
+
+El hecho de que el agua busca su propio nivel se puede demostrar llenando con agua una manguera de jardín, y sujetando sus dos extremos a la misma altura. Los niveles del agua serán iguales. Si se levanta un extremo más que el otro, el agua saldrá por el extremo más bajo, aunque deba “subir” parte del camino. Este hecho, no lo entendían bien algunos de los antiguos romanos, quienes construyeron acueductos complicados con arcos altos y trayectos sinuosos, para asegurar que el agua fluyera siempre un poco hacia abajo en todos los lugares a lo largo de la ruta del depósito a la ciudad. Si hubieran tendido la tubería en el terreno siguiendo el nivel natural del mismo, en algunos lugares el agua debería subir, pero los romanos no lo comprendieron. Todavía no estaba de moda la experimentación cuidadosa, y como disponían de abundante mano de obra de esclavos, los romanos construyeron acueductos innecesariamente complicados.
+
+Dato curioso: algunos sistemas de tuberías antiguos instalados en Roma, por la época en que se construyeron los acueductos, indican que no todos los romanos de entonces pensaban que el agua no podía fluir hacia arriba. ¡Eureka!
+
+Un hecho determinado experimentalmente acerca de la presión de los líquidos es que se ejerce por igual en todas direcciones. Por ejemplo, si nos sumergimos en agua, independientemente de cómo inclinemos la cabeza, sentiremos la misma cantidad de presión en los oídos. Como un líquido puede fluir, la presión no sólo es hacia abajo. Sabemos que la presión actúa hacia los lados cuando vemos salir agua por los lados de alguna fuga que tenga una lata colocada en forma vertical. Sabemos también que la presión actúa hacia arriba, cuando tratamos de empujar una pelota para sumergirla en la superficie del agua. El fondo de un bote es empujado hacia arriba por la presión del agua.
+
+Cuando el líquido comprime contra una superficie, hay una fuerza neta dirigida perpendicularmente a la superficie. Aunque la presión no tiene una dirección específica, la fuerza sí la tiene. Imagina un bloque triangular sumergido en un líquido. Sólo en los tres puntos intermedios de cada superficie parecen dirigirse todas las fuerzas. El agua comprime contra cada punto desde muchas direcciones, y sólo se indican unas pocas. Las componentes de las fuerzas que no son perpendiculares a la superficie se anulan entre sí y tan sólo queda una fuerza neta perpendicular en cada punto.
+
+Es la razón por la que el agua que sale por un agujero de una cubeta inicialmente tiene una dirección perpendicular a la superficie donde está el agujero. Después se curva hacia abajo debido a la gravedad. La fuerza ejercida por un fluido sobre una superficie lisa siempre forma ángulo recto con ella.
+
+Dato Curioso: la Tierra es el único planeta en el sistema solar cuya superficie está cubierta en su mayoría por líquido: sus océanos. Si la Tierra estuviera un poco más cerca del Sol, los océanos se convertirían en vapor. Si estuviera un poco más lejos, la mayor parte de su superficie —no sólo las regiones polares— estaría cubierta de hielo sólido. ¡Qué bueno que la Tierra está ubicada donde está!
+
+### Lectura sugerida: radiestesia
+
+La radiestesia data de la antigüedad en Europa y África. Algunos de los primeros colonizadores la llevaron a América. Es la práctica de usar una horquilla, vara o algo parecido para localizar agua subterránea, minerales o tesoros enterrados. En el método clásico de la radiestesia cada mano sujeta uno de los extremos de la horquilla, con las palmas hacia arriba. El extremo de la punta se dirige hacia el cielo, a un ángulo aproximado de 45 grados. El “varólogo” camina yendo y viniendo sobre el área que se va a explorar, y cuando pasa sobre una fuente de agua (o lo que sea que busque), se supone que la vara gira hacia abajo. Algunos varólogos dicen que la atracción es tan grande que les ha sacado ampollas en las manos. Otros dicen que tienen poderes especiales que les permiten “ver” a través del suelo y las rocas, y algunos son “psíquicos” que caen en trance cuando las condiciones son especialmente favorables. Aunque la mayoría de la varología se hace en el sitio, algunos dicen que pueden localizar agua sólo con pasar la vara sobre un mapa.
+
+Como perforar un pozo es un proceso muy costoso, muchas veces se considera que contratar varólogos es razonable. Esta práctica está muy difundida, y en Estados Unidos hay miles de ellos. Esto se debe a que la radiestesia funciona. El varólogo casi no puede equivocarse, y no porque tenga poderes especiales, sino porque el agua subterránea está a menos de 100 metros de la superficie, en casi todos los lugares de la Tierra.
+
+Si perforas un agujero en el terreno, encontrarás que la humedad del suelo varía con la profundidad. Cerca de la superficie, los poros y los espacios abiertos estarán en su mayoría llenos de aire. A mayor profundidad, los poros estarán saturados con agua. El límite superior de esta zona saturada con agua se llama tabla de agua o nivel freático. Suele subir y bajar de acuerdo con la topografía superficial. Cuando veas un lago o un estanque, lo que ves es la tabla de agua, que se prolonga sobre la superficie del terreno.
+
+Los hidrólogos estudian la profundidad, la cantidad y la calidad del agua bajo la tabla de agua, y se guían por una diversidad de técnicas, entre las cuales no está la radiestesia. De acuerdo con el Servicio Geológico de Estados Unidos, la radiestesia tiene la categoría de pseudociencia. Recordarás que la prueba verdadera de un varólogo sería encontrar un lugar donde no se pudiera encontrar agua.
+
+## Flotabilidad
+
+Quien haya intentado sacar un objeto sumergido en el agua, estará familiarizado con la flotabilidad, que es la pérdida aparente de peso que tienen los objetos sumergidos en un líquido. Por ejemplo, levantar una piedra grande del fondo del lecho de un río es relativamente fácil, mientras la piedra esté bajo la superficie. Sin embargo, cuando sube de la superficie, la fuerza requerida para levantarlo aumenta en forma considerable. Esto se debe a que cuando la piedra está sumergida, el agua ejerce sobre ella una fuerza hacia arriba, que está exactamente en la dirección opuesta de la atracción de la gravedad. A esta fuerza se le llama fuerza de flotabilidad y es una consecuencia del aumento de la presión con la profundidad. La fuerza de flotabilidad actúa hacia arriba. Las fuerzas debidas a las presiones del agua se ejercen en todos los puntos contra el objeto, en una dirección perpendicular a la superficie de ese objeto, como indican los vectores. Los vectores fuerzan contra los lados, a profundidades iguales, se anulan entre sí, de manera que no hay fuerza de flotabilidad horizontal. Sin embargo, los vectores fuerza en dirección vertical no se anulan. La presión es mayor en el fondo de la piedra, porque el fondo está a mayor profundidad. Así, las fuerzas hacia arriba, en la parte inferior, son mayores que las fuerzas hacia abajo en su parte superior, y se produce una fuerza neta hacia arriba, que es la fuerza de flotabilidad.
+
+Para entender la flotabilidad se requiere comprender el concepto de “volumen del agua desplazada”. Si se sumerge una piedra en un vaso lleno con agua hasta el borde, algo del agua se derramará. El agua es desplazada por la piedra. Con un poco de deducción llegaremos a entender que el volumen de la piedra, esto es, el espacio que ésta ocupa, es igual al volumen del agua desplazada. Coloca cualquier objeto en un recipiente parcialmente lleno de agua y notarás que sube el nivel del agua. ¿Cuánto sube? Exactamente igual que si vertiéramos un volumen de agua igual al volumen del objeto sumergido. Es un buen método para determinar el volumen de objetos de forma irregular: Un objeto totalmente sumergido siempre desplaza un volumen de líquido igual a su propio volumen.
+
+#### Examínate
+
+En una receta se pide determinada cantidad de mantequilla. ¿En qué se relaciona el método de desplazamiento con el uso de una taza de cocina medidora?
+
+#### Comprueba tu respuesta
+
+Pon algo de agua antes de poner la mantequilla. Anota el nivel en el lado de la taza. A continuación agrega la mantequilla y ve el aumento de nivel en el agua. Como la mantequilla flota, empújala para que quede bajo el agua. Si restas el primer nivel del nivel superior, sabrás el volumen de la mantequilla.
+
+## Principio de Arquímedes
+
+La relación entre la fuerza de flotabilidad y el líquido desplazado fue descubierta por Arquímedes, el gran científico griego del siglo III A. C. Se enuncia como sigue:
+
+Un cuerpo sumergido sufre un empuje hacia arriba por una fuerza igual al peso del fluido que desplaza.
+
+Esta relación se llama principio de Arquímedes. Es válido para líquidos y gases, ya que ambos son fluidos. Si un cuerpo sumergido desplaza 1 kilogramo de fluido, la fuerza de flotabilidad que actúa sobre él es igual al peso de un kilogramo. Por sumergido se entiende ya sea total o parcialmente sumergido. Si sumergimos un recipiente sellado de 1 litro a media altura en el agua, desplazará medio litro de agua, y tendrá un empuje hacia arriba igual al peso de medio litro de agua, independientemente de lo que haya en el recipiente. Si lo sumergimos por completo, la fuerza hacia arriba será igual al peso de 1 litro de agua (que tiene 1 kilogramo de masa). A menos que el recipiente se comprima, la fuerza de flotabilidad será igual al peso de 1 kilogramo de agua a cualquier profundidad, mientras esté totalmente sumergido. Esto se debe a que a cualquier profundidad el recipiente no puede desplazar un volumen mayor de agua que su propio volumen. Y el peso del agua desplazada (¡no hablamos del peso del objeto sumergido!) es igual a la fuerza de flotabilidad.
+
+Dato curioso: un litro de agua ocupa un volumen de 1.000 cm3 (cm cúbicos), tiene una masa de 1 kg y pesa 9,8 N. En consecuencia, su densidad se expresa como 1 kg/L (kg sobre L) y su densidad de peso como 9,8 N/L (N sobre L). (El agua de mar es un poco más densa, más o menos 10,0 N/L.)
+
+Si al sumergirse un objeto de 30 kilogramos desplaza 20 kilogramos de fluido, su peso aparente será el peso de 10 kilogramos (98 N). El peso aparente de un objeto sumergido es igual a su peso en el aire menos la fuerza de flotabilidad.
+
+Quizás te ayude el ilustrar el principio de Arquímedes con un ejemplo numérico que demuestre que la diferencia entre las fuerzas que actúan hacia arriba y las que actúan hacia abajo, debidas a diferencias de presión sobre un cubo sumergido, de esta manera es numéricamente igual al peso del fluido desplazado. No hay diferencia en la profundidad a la que se sumerge el cubo, porque aunque las presiones son mayores a mayores profundidades, la diferencia entre la presión hacia arriba, sobre el fondo del cubo, y la presión hacia abajo, contra la cara superior del cubo, es la misma a cualquier profundidad. Sea cual fuere la forma del cuerpo sumergido, la fuerza de flotabilidad será igual al peso del fluido desplazado.
+
+Dato curioso: si metes uno de tus pies en el agua, se encontrará inmerso. Si saltas dentro del agua y te hundes de manera que la inmersión sea total, estarás sumergido. ¡Eureka!
+
+#### Examínate
+
+  1. ¿El principio de Arquímedes indica que si un objeto sumergido desplaza líquido con 10 N de peso, la fuerza de flotabilidad sobre el objeto es 10 N?
+
+  2. Un recipiente de 1 litro lleno totalmente con plomo tiene 11,3 kg de masa y se sumerge en agua. ¿Cuál es la fuerza de flotabilidad que actúa sobre él?
+
+  3. Se arroja una piedra grande en un lago profundo. Conforme se hunde, ¿aumenta o disminuye la fuerza de flotabilidad sobre él?
+
+  4. Como la fuerza de flotabilidad es la fuerza neta que ejerce un fluido sobre un cuerpo, y se recordará que las fuerzas netas producen aceleraciones, ¿por qué no acelera un cuerpo sumergido?
+
+#### Comprueba tus respuestas
+
+1. Sí. Visto de otro modo, el objeto sumergido empuja 10 N de fluido y lo aparta. El fluido desplazado reacciona regresando el empujón de 10 N sobre el objeto sumergido.
+
+2. La fuerza de flotabilidad es igual al peso del litro de agua desplazada. Un litro de agua tiene 1 kg de masa y pesa 9,8 N. Así, la fuerza de flotabilidad sobre el recipiente es 9,8 N. (No importan los 11,3 kg de plomo; 1 L (Litro) de todo lo que se sumerge en el agua desplaza 1 L, y será impulsado hacia arriba con una fuerza de 9,8 N, que es el peso de 1 kg.)
+
+3. La fuerza de flotabilidad no cambia mientras se hunde la piedra, porque desplaza el mismo volumen de agua en cualquier profundidad.
+
+4. Sí acelera, si la fuerza de flotabilidad no está equilibrada por otras fuerzas que actúen sobre él: la fuerza de la gravedad y la resistencia del fluido. La fuerza neta sobre un cuerpo sumergido es el resultado de la fuerza neta que ejerce el fluido (la fuerza de flotabilidad), el peso del cuerpo y, si se mueve, la fuerza de la fricción del fluido.
+
+## ¿Qué hace que un objeto flote o se hunda?
+
+Es importante recordar que la fuerza de flotabilidad que actúa sobre un objeto sumergido depende del volumen del objeto. Los objetos pequeños desplazan pequeñas cantidades de agua, y sobre ellos actúan fuerzas de flotabilidad pequeñas. Los objetos grandes desplazan grandes cantidades de agua, y sobre ellos actúan grandes fuerzas de flotabilidad. Es el volumen del objeto sumergido, y no su peso, lo que determina la fuerza de flotabilidad. Esa fuerza es igual al peso del volumen de fluido desplazado. (¡Entender mal este concepto es la raíz de la gran confusión que tienen las personas acerca de la flotabilidad!)
+
+Sin embargo, en la flotación sí interviene el peso de un objeto. Que un objeto se hunda o flote en un líquido depende de cómo se compara la fuerza de flotabilidad con el peso del objeto. Éste a la vez depende de la densidad del objeto. Examina las siguientes tres reglas sencillas:
+
+  1. Si un objeto es más denso que el fluido en el que se inmerge, se hundirá.
+
+  2. Si un objeto es menos denso que el fluido en el que se inmerge, flotará.
+
+  3. Si la densidad de un objeto es igual que la densidad del fluido en el que se inmerge, ni se hundirá ni flotará.
+
+La regla 1 parece razonable, porque los objetos más densos que el agua se van al fondo, independientemente de la profundidad de ésta. Los buceadores que están cerca del fondo de cuerpos de agua profundos, a veces encuentran una pieza de madera, saturada de agua, suspendida en el fondo del mar (con una densidad igual a la densidad del agua a esa profundidad), ¡pero nunca encuentran piedras suspendidas en el agua!
+
+Según las reglas 1 y 2, ¿qué puedes decir acerca de las personas quienes, a pesar de todos sus esfuerzos, no pueden flotar? Simplemente ¡que son muy densos! Para flotar con más facilidad debes reducir tu densidad. La fórmula, densidad de peso = peso/volumen indica que debes reducir tu peso o aumentar tu volumen. Si usas un chaleco salvavidas aumentas tu volumen, y al mismo tiempo agregas un peso muy pequeño al tuyo propio, lo cual reduce tu densidad general.
+
+La regla 3 se aplica a los peces, que ni flotan ni se hunden. Casi siempre un pez tiene igual densidad que la del agua. Puede regular su densidad dilatando y contrayendo un saco de aire o vejiga natatoria que cambia su volumen. Puede subir, aumentando ese volumen (con lo cual disminuye su densidad) y bajar, contrayendo su volumen (lo cual aumenta su densidad).
+
+Dato curioso: nueve de cada 10 personas que no pueden flotar son hombres. La mayoría de los hombres tienen más masa muscular y son ligeramente más densos que las mujeres. Por otro lado, las latas de bebidas dietéticas flotan, mientras que las latas de bebidas regulares se hunden en el agua. ¿Qué nos dice esto acerca de sus densidades relativas?
+
+*Imagen 10. Cocodrilo*
+
+Descripción de la Imagen 10. (Izquierda) Un cocodrilo que se te acerca en el agua se ve casi completo. (Derecha) Un cocodrilo con piedras, que se te acerca en el agua, apenas reconocer una parte de su cabeza.
+
+En un submarino lo que varía es el peso, no el volumen, para tener la densidad adecuada. Se admite o se expulsa agua en sus tanques de lastre. De igual manera, la densidad general de un cocodrilo aumenta cuando traga piedras. En los estómagos de cocodrilos grandes se han encontrado de 4 a 5 kilogramos de piedras. Por esta densidad mayor, el cocodrilo puede nadar casi oculto en el agua, exponiéndose así menos a la vista de su presa (Imagen 10).
+
+#### Examínate
+
+  1. Se sumergen en agua dos bloques de tamaño idéntico. Uno es de plomo y el otro es de aluminio. ¿Sobre cuál de ellos es mayor la fuerza de flotabilidad?
+
+  2. Si un pez se hace más denso, se hundirá. Si se hace menos denso, subirá. En función de la fuerza de flotabilidad, ¿por qué es así?
+
+#### Comprueba tus respuestas
+
+  1. La fuerza de flotabilidad es igual sobre cada uno, porque los dos desplazan el mismo volumen de agua. Sólo el volumen del agua desplazada, y no el peso del objeto sumergido, determina la fuerza de flotabilidad.
+
+  2. Cuando el pez aumenta su densidad, disminuyendo su volumen, desplaza menos agua, por lo que disminuye la fuerza de flotabilidad. Cuando el pez disminuye su densidad inflándose, desplaza mayor volumen de agua y aumenta la fuerza de flotabilidad.
+
+## Flotación
+
+El hombre primitivo fabricaba embarcaciones de madera. ¿Habrá concebido tal ancestro un barco de hierro? No lo sabemos. La idea de la flotación del hierro quizá les pareció extraña. En la actualidad es fácil para nosotros entender cómo flota un barco de hierro.
+
+Piensa en un bloque de una tonelada de hierro sólido. Como el hierro tiene una densidad casi ocho veces mayor que la del agua, así que cuando se sumerge sólo desplaza 1/8 (un octavo) de tonelada de agua, que no es suficiente para mantenerlo a flote. Supón que ese mismo bloque de hierro cambia de forma a la de una cubeta. Sigue pesando 1 tonelada. Pero cuando lo ponemos en agua desplaza un volumen mayor de agua que cuando era un bloque. Cuanto más se sumerge la cubeta de hierro, desplaza más agua y la fuerza de flotabilidad que actúa sobre ella es mayor. Cuando la fuerza de flotabilidad es igual a 1 tonelada, ya no se hundirá más.
+
+Cuando una lancha desplaza un peso de agua igual a su propio peso, flota. A esto se le llama a veces principio de flotación.
+
+Un objeto flotante desplaza fluido con un peso igual al suyo.
+
+Todo barco, submarino o dirigible deben diseñarse para desplazar un peso de fluido igual a su propio peso. Así, un barco de 10.000 toneladas debe construirse con la suficiente amplitud como para desplazar 10.000 toneladas de agua sin hundirse demasiado.
+
+Lo mismo sucede con las naves aéreas. Un dirigible que pesa 100 toneladas desplaza al menos 100 toneladas de aire. Si desplaza más, asciende; si desplaza menos, desciende. Si desplaza exactamente su peso, queda suspendido a una altura constante.
+
+Para el mismo volumen de agua desplazada, los fluidos más densos ejercen más fuerza de flotabilidad que los menos densos. En consecuencia, un barco flota más en agua salada que en agua dulce, porque el agua salada es poco más densa. Asimismo, un trozo de hierro macizo flota en mercurio, aunque se hunde en el agua.
+
+### Lectura sugerida: montañas flotantes
+
+La punta de un témpano flotando en la superficie del océano es más o menos el 10% de todo el témpano. Se debe a que el hielo tiene aproximadamente 0,9 veces la densidad del agua, por lo que se sumerge en el agua el 90% de él. Asimismo, una montaña flota sobre el manto semilíquido de la Tierra, y sólo sobresale su punta. Se debe a que la corteza continental de la Tierra tiene más o menos 0,85 veces la densidad del manto sobre el cual flota: por consiguiente, cerca de un 85% de la montaña no sobresale de la superficie terrestre. Como los témpanos flotantes, las montañas son bastante más profundas que altas.
+
+Hay un asunto gravitacional interesante relacionado con esto. Recuerda que el campo gravitacional en la superficie terrestre varía ligeramente cuando varían las densidades de la roca subterránea (lo cual es información valiosa para los geólogos y los exploradores de petróleo): La gravitación es menor en la cumbre de una montaña, por la mayor distancia al centro de la Tierra. Si se combinan estos conceptos, veremos que como el fondo de la montaña se prolonga mucho dentro del manto terrestre, hay mayor distancia entre la cumbre y el manto. Este “hueco” mayor reduce todavía más la gravitación en la cima de las montañas. Otro hecho importante acerca de las montañas: Si pudieras emparejar la punta de un témpano, sería más ligero y subiría casi hasta su altura original antes de que lo cortaras.
+
+De igual modo, cuando las montañas se erosionan son más ligeras, y son empujadas desde abajo para quedar flotando casi hasta sus alturas originales. Así, cuando se erosiona un kilómetro de montaña, un 85% del kilómetro empuja hacia arriba. Es la causa de que las montañas tarden tanto en “borrarse” por la erosión.
+
+#### Examínate
+
+1. ¿Por qué es más fácil que flotes en agua salada que en agua dulce?
+
+2. En un paseo en bote el capitán te da un chaleco salvavidas lleno con balines de plomo. Cuando ve tu expresión escéptica, dice que vas a tener más fuerza de flotabilidad si caes por la borda, en comparación con tus amigos, cuyos chalecos están llenos de espuma de estireno. ¿Es cierto eso?
+
+3. Una lancha fluvial cargada de grava se acerca a un puente bajo el cual no puede pasar. ¿A esa lancha hay que quitarle o agregarle grava?
+
+#### Comprueba tus respuestas
+
+1. Es más fácil porque cuando desplazas tu peso en agua, se sumerge una parte menor de tu cuerpo; no te “hundes” tanto. Flotarías todavía más en mercurio con densidad 13,6 g/cm3 (g sobre cm cúbico), y en alcohol te hundirías por completo (densidad 0,8 g/cm3 (g sobre cm cúbico)).
+
+2. Es cierto. ¡Pero lo que no te dice es que te ahogarás! Tu chaleco se sumergirá y desplazará más agua que el de tus amigos, que flotarán en la superficie. Aunque la fuerza de flotabilidad sobre ti será mayor, tu peso es ¡todavía mayor! El que flotes o que te hundas depende de la diferencia entre la fuerza de flotabilidad hacia arriba y el peso hacia abajo.
+
+3. 3. ¡Ja, ja, ja! ¿Crees que aquí se te darán todas las respuestas a las preguntas de “Examínate”? Una buena enseñanza es hacer buenas preguntas, no dar todas las respuestas. ¡En este caso quedas a tu suerte!
+
+## Principio de Pascal
+
+Uno de los hechos más importantes sobre la presión de los fluidos es que un cambio de presión en una parte del fluido se transmitirá íntegro a las demás partes. Por ejemplo, si la presión del agua potable aumenta 10 unidades de presión en la estación de bombeo, la presión en todos los tubos del sistema conectado aumentará 10 unidades (siempre y cuando el agua esté en reposo). A esta regla se le llama principio de Pascal:
+
+Un cambio de presión en cualquier parte de un fluido confinado y en reposo se transmite íntegro a todos los puntos del fluido.
+
+Blaise Pascal descubrió este principio en el siglo XVII (Pascal quedó discapacitado a los 18 años, y siguió siéndolo hasta su muerte, a los 39 años) y en su honor se nombró la unidad S.I. de presión, el pascal (1 Pa=1 N/m2 (N sobre m cuadrado)).
+
+*Imagen 11. Un tubo en forma de U*
+
+Descripción de la Imagen 11. Un tubo en forma de U, contiene dentro un fluido. En cada extremo se coloca un pistón. La fuerza ejercida sobre el pistón de la izquierda aumenta la presión en el líquido, y se transmite hasta el pistón de la derecha.
+
+Si llenamos con agua un tubo en U y cerramos los extremos con pistones, como nota en la Imagen 11, la presión que se ejerza contra el pistón izquierdo se transmitirá por el líquido y actuará contra el fondo del pistón derecho. (Los pistones sólo son “tapones” que se pueden deslizar libremente, aunque estén bien ajustados al interior del tubo.) La presión que ejerce el pistón izquierdo contra el agua será exactamente igual a la presión que el agua ejerce contra el pistón derecho, a la misma altura. Esto no nos sorprende; pero supón que haces el tubo de la derecha más ancho, y usas un pistón de área mayor. El resultado será impresionante.
+
+*Imagen 12. Un enorme tubo*
+
+Descripción de la Imagen 12. Un enorme tubo, en forma de U. a la izquierda un pistón pequeño, con área A (A mayúscula), sostiene una carga de 10 Kg. A la derecha un pistón de 50 veces el área del pistón de la izquierda sostiene una masa de 500 Kg. Ambos pistones están a la misma altura.
+
+En la Imagen 12, el pistón de la derecha tiene un área 50 veces mayor que la del pistón de la izquierda (por ejemplo, digamos que el izquierdo tiene 100 centímetros cuadrados, y el de la derecha tiene 5.000 centímetros cuadrados). Supongamos que sobre el pistón de la izquierda se coloca una carga de 10 kg. Entonces se transmitirá una presión adicional (casi de 1 N/cm2 “N sobre cm cuadrado”) debida al peso de la carga, por todo el líquido y empujará hacia arriba al pistón mayor. Aquí es donde entra la diferencia entre fuerza y presión. La presión adicional se ejerce contra cada centímetro cuadrado del pistón mayor. Como tiene su área 50 veces mayor, sobre él se ejerce una fuerza 50 veces mayor. Así, el pistón mayor podrá sostener una carga de 500 kg, ¡cincuenta veces mayor que la carga sobre el pistón menor!
+
+Esto sí es notable, porque podemos multiplicar fuerzas si usamos este dispositivo. Un newton de entrada produce 50 N de salida. Si aumentamos más el área del pistón mayor, o reducimos el área del pistón menor, podremos multiplicar la fuerza, en principio, en cualquier cantidad. El principio de Pascal es la base del funcionamiento de la prensa hidráulica.
+
+En la prensa hidráulica no se viola el principio de la conservación de la energía, porque una disminución de la distancia recorrida compensa el aumento de la fuerza. Cuando el pistón pequeño de la Imagen 12 baja 10 centímetros, el pistón grande subirá sólo la 50a parte, esto es, 0,2 centímetros. La fuerza de entrada multiplicada por la distancia que recorrió el pistón menor es igual a la fuerza de salida multiplicada por la distancia que recorrió el pistón mayor; es un ejemplo más de una máquina simple, que funciona con el mismo principio que una palanca mecánica.
+
+El principio de Pascal se aplica a todos los fluidos, sean gases o líquidos. Una aplicación característica de ese principio, para los gases y los líquidos, es la rampa hidráulica que tienen muchos talleres automotrices. La mayor presión de aire producida por un compresor se transmite por el aire hasta la superficie de aceite que hay en un depósito subterráneo. A su vez, el aceite transmite la presión a un pistón, que sube al automóvil. La presión relativamente baja que ejerce la fuerza de subida contra el pistón es aproximadamente igual a la presión del aire en los neumáticos de los vehículos.
+
+La hidráulica se emplea en modernos dispositivos que varían en tamaño desde los muy pequeños hasta otros que son enormes. Destacan los pistones hidráulicos, presentes en casi todas las maquinarias de construcción que mueven pesadas cargas.
+
+#### Examínate
+
+1. Al estar subiendo un automóvil con un pistón con sistema de compresión de aire ¿cómo cambia el nivel del aceite en el depósito en comparación con la distancia que sube el vehículo?
+
+2. Si un amigo comentara que una rampa hidráulica es una forma común de multiplicar la energía, ¿qué le dirías?
+
+#### Comprueba tus respuestas
+
+1. El automóvil sube mayor distancia que la altura que baja el nivel del aceite, ya que el área del pistón es menor que el área de la superficie en el depósito del aceite.
+
+2. ¡No, no, no! Aunque un mecanismo hidráulico, como una palanca mecánica, puede multiplicar la fuerza, siempre lo hace a expensas de la distancia. La energía es el producto de la fuerza por la distancia. Si una aumenta, disminuirá la otra. ¡Ningún artificio se ha encontrado que pueda multiplicar la energía!
+
+## Tensión superficial
+
+Imagina que cuelgas un trozo de alambre limpio doblado en un resorte helicoidal sensible, que bajas ese alambre al agua y después lo subes. Al tratar de retirar el alambre de la superficie del agua, verás que el resorte se estira, lo cual indica que la superficie del agua ejerce una fuerza apreciable sobre el alambre. La superficie del agua se resiste a estirarse, por su tendencia a contraerse. También podrías verlo cuando se moja un pincel fino. Cuando el pincel está bajo el agua, las cerdas se esponjan casi como si estuvieran secas; pero cuando se saca el pincel del agua, la capa superficial de agua se contrae y junta las cerdas entre sí. Esta tendencia de la superficie de los líquidos a contraerse se llama tensión superficial.
+
+La tensión superficial explica la forma esférica de las gotas de los líquidos. Las gotas de lluvia, las gotas de aceite y las gotas de un metal fundido que caen son esféricas, porque sus superficies tienden a contraerse y a hacer que cada gota adopte la forma que tenga la mínima superficie. Esa forma es la esfera, la figura geométrica que tiene la superficie mínima para determinado volumen. Por esta razón las gotas de niebla y de rocío en las telarañas, o en las gotas de las hojas aterciopeladas de las plantas son casi esféricas. (Cuanto más grandes sean, la gravedad las aplanará más).
+
+La tensión superficial se debe a las atracciones moleculares. Bajo la superficie, cada molécula es atraída en todas direcciones por las moléculas contiguas, y el resultado es que no tiene tendencia a ser jalada hacia una dirección específica. Sin embargo-, una molécula en la superficie de un líquido, es jalada sólo por sus vecinas a cada lado y hacia abajo, por las que están abajo; no hay tirón hacia arriba. De manera que estas atracciones moleculares tienden a tirar de la molécula desde la superficie hacia el interior del líquido, y esta tendencia es la que minimiza el área de la superficie. La superficie se comporta como si estuviera "apretada" a una película elástica. Esto se ve cuando agujas de acero u hojas de rasurar, secas, flotan sobre el agua. No flotan en la forma usual, sino que están soportadas por las moléculas en la superficie, que se oponen a un aumento en el área superficial. La superficie del agua se comba, como una pieza de envoltura de plástico, y eso permite que ciertos insectos, como los mosquitos de agua, se desplacen sobre la superficie del estanque.
+
+La tensión superficial del agua es mayor que la de otros líquidos comunes, y el agua pura tiene mayor tensión superficial que la jabonosa. Se puede ver esto cuando una pequeña capa de jabón en la superficie del agua se desplaza de hecho por toda la superficie. Así se minimiza el área superficial del agua. Lo mismo sucede con el aceite o la grasa que flotan sobre el agua. El aceite tiene menor tensión superficial que el agua fría, y se desplaza en una película que cubre toda la superficie. Pero el agua caliente tiene menor tensión superficial que el agua fría, porque las moléculas tienen movimientos más rápidos y no están tan estrechamente unidas. Eso permite que la grasa o el aceite, en la sopa caliente, se reúna en pequeñas burbujas que flotan en la superficie de la sopa. Cuando la sopa se enfría y aumenta la tensión superficial del agua, la grasa o el aceite se esparce sobre la superficie. La sopa se ve "grasosa". La sopa caliente sabe distinto a la sopa fría, principalmente porque la tensión superficial del agua de la sopa cambia con la temperatura.
+
+## Capilaridad
+
+Cuando se sumerge en agua el extremo de un tubo de vidrio completamente limpio, que tenga diámetro interno pequeño, el agua moja el interior del tubo y sube por él. En un tubo con diámetro interior aproximado de medio milímetro, por ejemplo, el agua sube un poco más de 5 centímetros. Si el diámetro es menor, el agua sube mucho más. Esta subida de un líquido dentro de un tubo fino y hueco, o en un espacio angosto, es la capilaridad.
+
+Cuando pienses en la capilaridad, imagina que las moléculas son esferas pegajosas. Las moléculas de agua se adhieren al vidrio más que entre sí. La atracción entre sustancias diferentes, como el agua y el vidrio, se llama adhesión. La atracción entre moléculas de la misma sustancia se llama cohesión. Cuando se sumerge un tubo de vidrio en agua, la adhesión entre el vidrio y el agua hace que una película delgada de agua suba por las superficies internas y externas del tubo. La tensión superficial hace que esta película se contraiga. La película de la superficie externa se contrae lo suficiente para formar una orilla redondeada. La película de la superficie interior se contrae más y eleva el agua con ella, hasta que la fuerza de adhesión queda equilibrada por el peso del agua que se elevó. En un tubo más angosto, el peso del agua es menor, y el agua sube más que si el tubo fuera más ancho.
+
+Si se sumerge parcialmente una brocha en agua, ésta subirá entre los espacios angostos de las cerdas, por acción capilar. Si usas pelo largo, déjalo colgar en la tarja o en el lavabo, y el agua subirá hasta tu coronilla, en la misma forma. Es la manera en que el aceite moja la mecha de una lámpara, subiendo por ella, y el agua moja toda la toalla cuando una de sus esquinas se sumerge en ella. Sumerge un extremo de un terrón de azúcar en el café, y todo el terrón se moja con rapidez. La acción capilar es esencial para el crecimiento de las plantas. Lleva el agua desde las raíces a las plantas, y sube la savia y los nutrimentos hasta las copas de los árboles. Casi en todas partes que veamos percibiremos la acción capilar trabajando. Esto es bueno, ¿verdad?
+
+Pero desde el punto de vista de un insecto, la capilaridad no es tan buena. Recordemos que, en el capítulo anterior, debido a que los insectos tienen una superficie relativamente grande, caen con lentitud en el aire. La gravedad casi no los pone en peligro, pero no así la capilaridad. Si el agua los atrapa puede ser fatal para ellos, a menos que esté adaptado para estar en el agua como un mosquito de agua.
+
+## Resumen de términos
+
+Capilaridad. Subida de un líquido dentro de un tubo fino y hueco, o en un espacio angosto.
+
+Fuerza de flotabilidad. La fuerza neta hacia arriba que ejerce un fluido sobre un cuerpo sumergido en él.
+
+Presión. La razón de la fuerza entre el área sobre la que se distribuye la fuerza.
+
+Presión = fuerza ÷ área
+
+Principio de Arquímedes. Un cuerpo sumergido sufre una fuerza de flotabilidad hacia arriba igual al peso del fluido que desplaza.
+
+Principio de flotación. Un objeto flotante desplaza un peso de fluido igual a su propio peso.
+
+Principio de Pascal. La presión aplicada a un fluido inmóvil confinado en un recipiente se transmite íntegra por todo el fluido.
+
+Tensión superficial. Tendencia de la superficie de un líquido a contraerse y comportarse como una membrana elástica estirada.
+
+## Preguntas de repaso
+
+1. Menciona dos ejemplos de fluido.
+
+##### Presión
+
+2. Señala la diferencia entre fuerza y presión.
+
+##### Presión en un líquido
+
+3. ¿Cuál es la relación entre la presión en un líquido y la profundidad del líquido? ¿Y entre la presión de un líquido y su densidad?
+
+4. Si nadas bajo la superficie en agua salada, ¿la presión será mayor que si nadas en agua dulce a la misma profundidad? ¿Por qué?
+
+5. ¿Cómo se compara la presión del agua a 1 metro bajo la superficie de un estanque pequeño, con la presión de agua a un metro bajo la superficie de un lago inmenso?
+
+6. Si perforas un agujero en un recipiente lleno de agua, ¿en qué dirección saldrá el agua al principio, fuera del recipiente?
+
+##### Flotabilidad
+
+7. ¿Por qué la fuerza de flotabilidad actúa hacia arriba sobre un objeto sumergido en agua?
+
+8. ¿Por qué no hay fuerza de flotabilidad horizontal sobre un objeto sumergido?
+
+9. ¿Cómo se compara el volumen de un objeto totalmente sumergido con el volumen del agua que desplaza?
+
+##### Principio de Arquímedes
+
+10. ¿Cómo se compara la fuerza de flotabilidad sobre un objeto sumergido con el peso del agua desplazada?
+
+11. Describe la diferencia entre un cuerpo sumergido y un cuerpo en inmersión.
+
+12. ¿Cuál es la masa de 1 L de agua? ¿Cuál es su peso en newtons?
+
+13. Si un recipiente de 1 L se inmerge hasta la mitad en agua, ¿cuál será el volumen del agua desplazada? ¿Qué fuerza de flotabilidad actúa sobre el recipiente? ¿Por qué un objeto se hunde o flota?
+
+14. ¿La fuerza de flotabilidad sobre un objeto sumergido es igual al peso del objeto mismo, o igual al peso del fluido desplazado por el objeto?
+
+15. Hay una condición en la que la fuerza de flotación sobre un objeto es igual al peso del objeto. ¿Cuál es este caso?
+
+16. ¿La fuerza de flotabilidad sobre un objeto sumergido depende del volumen o del peso del objeto?
+
+##### Flotación
+
+17. Se destacó antes que la fuerza de flotabilidad no es igual al peso de un objeto, sino que es igual al peso del agua desplazada. Ahora decimos que la fuerza de flotabilidad es igual al peso del objeto. ¿No es eso una gran contradicción? Explica por qué.
+
+18. ¿Qué peso de agua desplaza un barco de 100 toneladas? ¿Cuál es la fuerza de flotabilidad que actúa sobre un barco de 100 toneladas?
+
+##### Principio de Pascal
+
+19. ¿Qué le sucede a la presión en todos los puntos de un fluido confinado, si aumenta la presión en una de sus partes?
+
+20. Si la presión de una prensa hidráulica aumenta 10 N/cm2 (N sobre cm cuadrado), ¿cuánta carga adicional soportará el pistón de salida, si su área transversal es de 50 cm2 (cm cuadrado)?
+
+##### Tensión superficial
+
+21. ¿Qué forma geométrica tiene la mínima superficie para determinado volumen?
+
+22. ¿Qué es lo que causa la tensión superficial?
+
+##### Capilaridad
+
+23. Describe la diferencia entre las fuerzas de adhesión y las de cohesión.
+
+24. ¿Qué es lo que determina la altura que sube el agua dentro de un tubo capilar?
+
+## Proyectos
+
+      1. Coloca un huevo en una cacerola con agua del grifo. A continuación disuelve sal en el agua hasta que el huevo flote. ¿Cómo se compara la densidad de un huevo con la del agua del grifo? ¿Y con la del agua salada?
+
+      2. Haz un par de agujeros en la parte inferior de un recipiente lleno de agua, y el agua saldrá a chorros, por su presión. Ahora deja caer el recipiente y cuando caiga libremente, ¡verás que ya no sale agua! Si tus amigos no entienden eso, ¿podrías explicárselos?
+
+      3. Pon a flotar una pelota de ping-pong remojada en agua, en una lata de agua sostenida más de 1 metro arriba de un piso rígido. A continuación deja caer la lata. Una revisión cuidadosa demostrará que la pelota es jalada abajo de la superficie, cuando tanto la pelota como la lata caen. (¿Qué indica eso sobre la tensión superficial?) Lo más asombroso es lo que le pasa a la pelota cuando la lata choca contra el piso, y ¿por qué? ¡Haz la prueba y te asombrarás! (Precaución: usa gafas de seguridad o aparta la cabeza de la línea sobre la lata cuando llegue al suelo.
+
+      4. El jabón debilita considerablemente las fuerzas de cohesión entre las moléculas de agua. Lo puedes ver si pones algo de aceite en una botella con agua y lo agitas para que se mezclen agua y aceite. Observa que el agua y el aceite se separan con rapidez, tan pronto como cesas de agitar la botella. Ahora agrega algo de jabón a la mezcla. Agita de nuevo la botella y verás que el jabón forma una capa delgada en torno a cada esferita de aceite, y que se requiere más tiempo para que el aceite se junte, después de haber agitado la botella.
+
+Es la forma en que trabaja el jabón en la limpieza. Rompe la tensión superficial alrededor de cada partícula de mugre, para que el agua pueda llegar a las partículas que la rodean. La mugre se arrastra cuando se enjuaga. El jabón es un buen limpiador sólo en presencia del agua.
+
+## Cálculos de un paso
+
+Presión = densidad de peso × profundidad
+
+(Ignora la presión de la atmósfera en los siguientes cálculos.)
+
+1. Calcula la presión del agua en la base de la presa Hoover. La profundidad del agua detrás de la presa es de 220 m.
+
+2. El piso superior de un edificio está a 50 m por encima del sótano. Calcula por cuánto supera la presión del agua que se registra en el sótano a la que existe en el último piso.
+
+3. La presión del agua en el fondo de un barril cerrado de un metro de alto es de 98 kPa (Kilo pascales). ¿Cuál es la presión en el fondo del barril cuando un tubo de 5 m lleno con agua se inserta en la parte superior del barril?
+
+## Ejercicios
+
+1. ¿Qué líquido común cubre más de las dos terceras partes de nuestro planeta, constituye el 60% de nuestros cuerpos y sostiene nuestras vidas de incontables maneras?
+
+2. ¿Qué dolerá más: que nos pise un hombre de 200 lb que calza mocasines o que nos pise una mujer de 100 lb con tacones altos?
+
+3. ¿Qué supones que ejerza más presión sobre el suelo, un elefante o una dama con tacones de aguja? ¿Cuál de ellos abollará con más probabilidad un piso de linóleo? ¿Puedes hacer cálculos aproximados para cada caso?
+
+4. Párate en la báscula del baño y ve cuánto pesas. Si levantas un pie y te paras sobre la báscula en un pie, ¿cambia la indicación de tu peso? ¿La báscula mide fuerza o presión?
+
+5. ¿Por qué las personas confinadas en la cama son menos propensas a tener llagas si usan un colchón de agua y no un colchón ordinario?
+
+6. Sabes que un cuchillo afilado corta mejor que uno desafilado. ¿Por qué es así? Sustenta tu respuesta.
+
+7. Si se abren completamente los grifos del agua en una casa de dos pisos, ¿saldrá más agua por segundo, por los del primer piso o por los de la planta baja?
+
+8. ¿Por qué tu cuerpo descansa más cuando te acuestas que cuando te sientas? ¿Y por qué la presión sanguínea se mide en el antebrazo, a la altura del corazón? En las piernas, ¿será mayor la presión sanguínea?
+
+9. Cuando estamos de pie, la presión sanguínea en nuestras piernas es mayor que en la parte superior de nuestro cuerpo. ¿Esto será verdadero para un astronauta en órbita? Sustenta tu respuesta.
+
+10. ¿Cómo se compara la presión del agua 1 metro por debajo de la superficie de un lago, con la presión del agua 1 metro por debajo de la superficie de una alberca?
+
+11. Se coloca un bloque de aluminio de 10 cm3 (cm cúbicos) en un vaso de precipitados lleno de agua hasta el borde. El agua se derrama. Lo mismo se hace en otro vaso, con un bloque de plomo de 10 cm3 (cm cúbicos). ¿El plomo desplaza una cantidad de agua mayor, menor o igual que el aluminio?
+
+12. Se coloca un bloque de aluminio con una masa de 1 kg en un vaso de precipitados lleno de agua hasta el borde. El agua se derrama. Lo mismo se hace en otro vaso, con un bloque de plomo de 1 kg. ¿El plomo desplaza una cantidad de agua mayor, menor o igual que el aluminio?
+
+13. En 1960, la Marina de Estados Unidos hizo descender el batiscafo Trieste (un sumergible) a una profundidad cercana a los 11 kilómetros en la Fosa de las Marianas, cerca de Filipinas en el Océano Pacífico. En vez de contar con una ventana panorámica grande para hacer las observaciones, tenía una pequeña ventana circular de 15 centímetros de diámetro. ¿Cuál es la explicación de que esa ventana sea tan pequeña?
+
+14. Hay una anécdota sobre Pascal que narra que se subió a una escalera y derramó un pequeño contenedor de agua en un tubo largo y delgado, insertado en un barril de madera lleno de agua. El barril reventó cuando el agua en el tubo alcanzó 12 m. Esto fue muy intrigante porque el peso del agua agregada en el tubo era muy pequeño. ¿Cuáles eran los dos principios que Pascal intentaba demostrar?
+
+15. Hay una leyenda que dice que un joven holandés contuvo valientemente a todo el Mar del Norte tapando con su dedo un agujero en un dique. ¿Es posible y razonable?
+
+16. Si has pensado en el agua de los excusados de los pisos superiores en los grandes rascacielos, ¿cómo supones que esté diseñado el sistema de plomería para que no haya un impacto enorme del agua residual que llegue al nivel del sótano? (Ve si tus hipótesis son correctas con alguien que conozca de ingeniería civil o ingeniería sanitaria.)
+
+17. ¿Por qué el agua “busca su propio nivel”?
+
+18. Imagina que deseas tender un edificio horizontal para una casa sobre un terreno accidentado. ¿Cómo sugieres llenar una manguera de jardín para determinar si las alturas son iguales en puntos alejados entre sí?
+
+19. Cuando te bañas en una playa rocosa, ¿por qué te lastimas menos los pies cuando el agua tiene mayor profundidad?
+
+20. Si la presión de un líquido fuera la misma en todas las profundidades, ¿habría fuerza de flotabilidad sobre un objeto sumergido en el líquido? Explica por qué.
+
+21. Una lata de bebida dietética flota sobre el agua, mientras que una lata de bebida gaseosa normal se hunde. ¿Cómo explicas esto? Hazlo primero en términos de densidad, y luego en términos de peso contra fuerza de flotabilidad.
+
+22. ¿Por qué un bloque de hierro flota en mercurio, pero se hunde en agua?
+
+23. Los Montes Himalaya son un poco menos densos que el material del manto sobre el cual “flotan”. ¿Supones que, como los témpanos flotantes, tienen más profundidad que altura?
+
+24. ¿Por qué es imposible que en la Tierra haya una montaña alta formada principalmente por plomo?
+
+25. ¿Cuánta fuerza se necesita para empujar una caja de cartón de 1 L (Litro) casi sin peso, pero rígida, y sumergirla en el agua?
+
+26. ¿Por qué una pelota de voleibol que se mantiene bajo la superficie del agua tendrá mayor fuerza de flotabilidad que si ya estuviera flotando en la superficie?
+
+27. ¿Por qué una pelota de playa inflada que se empuja debajo de la superficie del agua rápidamente salta por encima de la superficie del agua cuando se le libera?
+
+28. ¿Por qué no es correcto decir que los objetos pesados se hunden y los objetos ligeros flotan? Describe ejemplos exagerados que respalden tu respuesta.
+
+29. ¿Por qué la fuerza de flotabilidad sobre un submarino sumergido es considerablemente mayor que la fuerza de flotabilidad sobre él cuando está flotando?
+
+30. Si un submarino comienza a hundirse, ¿continuará así hasta llegar al fondo si no se toman ciertas medidas? Explica por qué.
+
+31. Una lancha llena de chatarra de hierro está en la esclusa de un canal. Si se tira el hierro por la borda, en el agua junto a la lancha, ¿el nivel del agua en la esclusa subirá, bajará o quedará igual? Explica por qué.
+
+32. El nivel del agua en la esclusa de un canal, ¿subiría o bajaría si se hundiera un buque de guerra dentro de la esclusa?
+
+33. ¿Una piedra gana o pierde fuerza de flotabilidad conforme se va hundiendo en el agua? ¿O su fuerza de flotabilidad permanecerá igual a mayores profundidades? Sustenta tu respuesta.
+
+34. ¿Un nadador ganará o perderá fuerza de flotabilidad conforme nada más profundo en el agua? ¿O su fuerza de flotabilidad permanecerá igual a mayores m profundidades? Sustenta tu respuesta y compárala con la del ejercicio anterior.
+
+35. Se lastra un globo de tal modo que apenas puede flotar en agua. Si se le empuja hacia abajo, ¿regresará a la superficie, permanecerá a la profundidad donde se le empujó o se seguirá hundiendo? Explica por qué. (Sugerencia: ¿cambia la densidad del globo?)
+
+36. La densidad de una piedra al sumergirla en agua no cambia, pero tu densidad sí cambia al sumergirte. ¿Por qué sucede así?
+
+37. Para contestar la pregunta de por qué los cuerpos flotan más en agua salada que en agua dulce, tú amigo dice que se debe a que el agua salada es más densa que el agua dulce. (¿Ese amigo tuyo acostumbra contestar las preguntas recitando afirmaciones que se relacionan con las respuestas, pero que no describen las razones concretas?) ¿Cómo contestarías tú la misma pregunta?
+
+38. Un barco llega del mar a un puerto de río, y se hunde un poco más en el agua. ¿Cambió la fuerza de flotabilidad sobre él? En caso afirmativo, ¿aumentó o disminuyó?
+
+39. Tienes la opción de elegir entre dos salvavidas de tamaño idéntico, pero el primero es ligero y está lleno con espuma de estireno, y el segundo es muy pesado porque está lleno de grava. Si sumerges esos salvavidas en agua, ¿sobre cuál será mayor la fuerza de flotabilidad? ¿Sobre cuál no tendrá efecto la fuerza de flotabilidad? ¿Por qué tus respuestas son distintas?
+
+40. El peso aproximado del cerebro humano es 15 N. La fuerza de flotabilidad que produce el líquido (cefalorraquídeo) que lo rodea es de aproximadamente 14,5 N. ¿Significa eso que el peso del fluido que rodea al cerebro es de cuando menos 14,5 N? Sustenta tu respuesta.
+
+41. Cuando un cubo de hielo se funde en un vaso de agua, ¿el nivel del agua en el vaso sube, baja o permanece igual? ¿Cambia tu respuesta si el cubo tiene muchas burbujas de aire? ¿Y si el cubo tiene muchos granos de arena densa?
+
+42. Cuando el bloque de madera se coloca en el vaso de precipitados, ¿qué sucede con la lectura de la báscula? Responde la misma pregunta para un bloque de hierro.
+
+43. Una cubeta de agua a medio llenar está sobre una báscula de resorte. ¿Aumentará la indicación de la báscula, o quedará igual, si en ella se pone un pez vivo? (¿Sería distinta tu respuesta si la cubeta estuviera al principio llena hasta el borde?)
+
+44. Si aumentara el campo gravitacional en la Tierra, ¿un pez se iría a la superficie, se iría al fondo o quedaría a la misma profundidad?
+
+45. ¿Qué sentirías al nadar en el agua de un hábitat en el espacio, en órbita, donde la gravedad simulada fuera de la mitad del valor de la aceleración de la gravedad de la Tierra? ¿Flotarías en el agua igual que en la Tierra?
+
+46. Se dice que la forma de un líquido es la de su recipiente. Pero sin recipiente y sin gravedad, ¿cuál sería la forma natural de un “trozo” de agua? ¿Por qué?
+
+47. Si sueltas una pelota de ping-pong abajo de la superficie del agua, subirá y flotará. ¿Haría lo mismo si se sumergiera en un gran “trozo” de agua que flotara sin peso en una nave espacial en órbita?
+
+48. En una racha de mala suerte, te deslizas lentamente en un pequeño estanque, donde unos cocodrilos astutos acechan en el fondo, confiando en el principio de Pascal, para detectar algún delicioso bocadillo. ¿Qué tiene que ver el principio de Pascal con su contento cuando llegaste?
+
+49. ¿Por qué el agua caliente se fuga con más facilidad que el agua fría, por las grietas pequeñas del radiador de un automóvil?
+
+50. En la superficie de un estanque es frecuente ver insectos que pueden “caminar” sobre la superficie del agua sin hundirse. ¿Con qué concepto de la física explicarías esto? Explica cómo.
+
+## Problemas
+
+1. La profundidad del agua en la presa Hoover, en Nevada, es de 220 m. ¿Cuál es la presión del agua en la base de la cortina? (No tengas en cuenta la presión debida a la atmósfera.)
+
+2. Una pieza de 6 kg de metal desplaza 1 L de agua cuando se sumerge en ella. ¿Cuál será su densidad?
+
+3. Una lancha rectangular mide 5 m de longitud por 2 m de ancho y flota en agua dulce. Calcula
+
+  a) Hasta dónde se hunde cuando se sube en ella un caballo de 400 kg.
+
+  b) Si la lancha sólo puede bajar 15 cm en el agua sin que ésta la inunde y la hunda, ¿cuántos caballos de 400 kg puede llevar?
+
+4. Un dique en Holanda tiene una fuga por un agujero con 1 cm2 (cm cuadrado) de área, a 2 m de profundidad bajo la superficie del agua. ¿Con qué fuerza debería apretar un joven sobre el agujero para detener la fuga? ¿Lo puede hacer?
+
+5. Un mercader de Katmandú te vende una estatua de oro macizo, de 1 kg, en un precio muy razonable. Al llegar a tu casa quieres saber si fue una ganga, y la sumerges en un recipiente con agua, y mides el volumen del agua que desplazó. ¿Qué volumen indicaría que es de oro puro?
+
+6. Cuando se cuelga un objeto de 2 kg en agua, pesa lo equivalente a 1,5 kg. ¿Cuál es la densidad del objeto?
+
+7. Un cubo de hielo mide 10 cm por lado y flota en el agua. Sobre el nivel del agua sobresale un cm. Si quitaras esa parte de 1 cm, ¿del hielo que queda cuántos centímetros sobresaldría sobre la superficie del agua?
+
+8. En los pistones hidráulicos que se ilustran aquí, el más pequeño tiene un diámetro de 2 cm. El pistón de mayor tamaño mide 6 cm de diámetro. ¿Cuánta más fuerza podrá ejercer el pistón de mayor tamaño en comparación con la fuerza aplicada al pistón de menor tamaño?
+
+# CAPÍTULO 4: Gases y plasmas
+
+Al igual que los líquidos, los gases fluyen y por esta razón ambos se llaman fluidos. La diferencia principal entre un gas y un líquido es la distancia entre sus moléculas. En un gas, las moléculas están alejadas, y libres de las fuerzas de cohesión que dominan sus movimientos, como en la fase líquida o sólida. Sus movimientos tienen menos restricciones. Un gas se expande en forma indefinida, y llena el espacio que tenga disponible. Sólo cuando la cantidad de gas es muy grande, por ejemplo, en la atmósfera de la Tierra o en una estrella, las fuerzas de gravedad sí limitan el tamaño o determinan la forma de la masa de un gas.
+
+## La atmósfera
+
+El espesor de nuestra atmósfera está determinado por una competencia entre dos factores: la energía cinética de sus moléculas, que tiende a difundirlas y apartarlas; y la gravedad, que tiende a mantenerlas cerca de la Tierra. Si en algún momento se pudiera “desconectar” la gravedad terrestre, las moléculas de la atmósfera se disiparían y desaparecerían. O bien, si la gravedad actuara, pero las moléculas se movieran con demasiada lentitud para seguir formando un gas (como podría suceder en un planeta remoto y frío), nuestra “atmósfera” sería una capa líquida o sólida, por lo que habría mucho mayor materia descansando en el terreno. No habría qué respirar; de nuevo, no habría atmósfera.
+
+Pero nuestra atmósfera es un feliz equilibrio entre moléculas con energía que tienden a salir despedidas, y la gravedad que las hace regresar. Sin el calor del Sol, las moléculas del aire quedarían en la superficie de la Tierra, como las palomitas (rosetas) de maíz se asientan en el fondo del recipiente donde se preparan. Pero si agregas calor a las rosetas y a los gases atmosféricos, los dos chocarán y rebotarán a mayores altitudes. Las rosetas en el recipiente alcanzan velocidades de algunos kilómetros por hora, y suben hasta uno o dos metros; las moléculas del aire se mueven a velocidades de unos 1.600 kilómetros por hora y rebotan hasta alcanzar muchos kilómetros de altura. Por fortuna contamos con un Sol que da energía y hay gravedad, así que tenemos una atmósfera.
+
+*Imagen 13. Capas atmosféricas*
+
+Descripción de la Imagen 13. Capas atmosféricas. Los primeros diez Km se llama troposfera. Entre 0 y 10 Km se encuentran las montañas, las nubes cumulus y nubes cirrus y el 50% de la atmosfera está a menos de 5,6 Km. El 90% de la atmosfera está bajo de 20 Km. El 99% de la atmósfera está abajo de 30 Km. A 40 Km de altura se encuentra la Capa de ozono.
+
+La altura exacta de la atmósfera no tiene significado, porque el aire se vuelve cada vez más delgado conforme que aumenta la altitud. Al final, este adelgazamiento llega al “vacío” del espacio interplanetario. Sin embargo, aun en las regiones del espacio libre del espacio interplanetario, la densidad del gas es aproximadamente 1 molécula por centímetro cúbico. Este gas es principalmente hidrógeno, el elemento más abundante del Universo. Más o menos el 50% de la atmósfera está abajo de la altitud de 5,6 kilómetros (18.000 ft), el 75% debajo de 11 kilómetros (36.000 pies), el 90% abajo de 18 kilómetros (60.000 pies) y el 99% abajo de unos 30 kilómetros (100.000 pies), como se muestra en la Imagen 13. En sitios especializados de la Web puedes encontrar una descripción detallada de la atmósfera.
+
+Dato curioso: ¡Correcto! El 99% de la atmósfera terrestre está por debajo de una altura de 30 km (apenas el 0,5% del radio de la Tierra).
+
+## Presión atmosférica
+
+Vivimos en el fondo de un océano de aire. La atmósfera, como el agua de un lago, ejerce presión. Uno de los experimentos más famosos para demostrar la presión de la atmósfera lo hizo Otto Von Guericke, burgomaestre de Magdeburgo e inventor de la bomba de vacío, en 1654. Von Guericke colocó dos hemisferios de cobre, uno contra otro, de más o menos medio metro de diámetro para formar una esfera. Diseñó una unión hermética al aire, con una empaquetadura de cuero empapada en aceite. Cuando evacuó el aire del interior de la esfera, con su bomba de vacío, dos equipos de 8 caballos cada uno jalando no pudieron separar los hemisferios.
+
+Dato curioso: es interesante tener en cuenta que la demostración de Von Guericke precedió el conocimiento de la tercera ley de Newton. ¡Las fuerzas sobre los hemisferios habrían sido las mismas si hubiera utilizado sólo un equipo de caballos y hubiera atado el otro extremo de la cuerda a un árbol!
+
+Cuando la presión de aire dentro de un cilindro se reduce, hay una fuerza que empuja el pistón hacia arriba. Esta fuerza es suficientemente grande como para subir un objeto pesado. Si el diámetro interno del cilindro es 10 centímetros o mayor, esa fuerza puede subir a una persona.
+
+¿Qué demuestran los experimentos mencionados? ¿Demuestran que el aire ejerce presión o que hay una “fuerza de succión”? Si dijéramos que hay una fuerza de succión, estaríamos suponiendo que el vacío puede ejercer una fuerza. Pero, ¿qué es el vacío? Es la ausencia de materia; es una condición de nada. ¿Cómo nada puede ejercer una fuerza? Los hemisferios no se unen por ser succionados, ni el pistón que sostiene la pesa es succionado hacia arriba. Los hemisferios y el pistón son empujados por el peso de la atmósfera.
+
+Así como la presión del agua se debe al peso del agua, la presión atmosférica se debe al peso del aire. Estamos completamente adaptados al aire invisible, que a veces olvidamos que tiene un peso. Quizás un pez “se olvida” del peso del agua, de igual manera. La razón por la que no sentimos que este peso nos aplaste es que la presión dentro de nuestros organismos es igual a la del aire que nos rodea. No hay fuerza neta que podamos sentir.
+
+En el nivel del mar, 1 metro cúbico de aire tiene una masa aproximada de 1,25 kilogramos. ¡El aire que hay en la recámara de tu hermanita pesa casi lo mismo que ella! La densidad del aire disminuye al aumentar la altura. Por ejemplo, a 10 kilómetros de altitud 1 metro cúbico de aire tiene una masa aproximada de 0,4 kilogramos. Para compensarla, los aviones están presurizados; por ejemplo, el aire adicional necesario para presurizar un Jumbo moderno son más de 1.000 kilogramos. El aire es denso, si hay bastante. Si tu hermanita no cree que el aire pese, puedes demostrarle la causa de que no lo perciba. Dale una bolsa de plástico llena de agua y ella te dirá que pesa. Pero dale esa misma bolsa cuando esté sumergida en una alberca y no sentirá que pese. Es porque ella y la bolsa están rodeadas por agua. Es lo mismo sucede con el aire que nos rodea.
+
+A continuación encuentras una tabla de densidad de algunos gases. Los valores están a presión atmosférica al nivel de mar y a 0 °C (a menos que se indique otra situación).
+
+*Tabla 3. Densidades de algunos gases*
+
+| Gas | Densidad en Kg/m3 (Kg sobre m cúbico) |
+| --- | --- |
+| Aire seco a 0 °C | 1,29 |
+| Aire seco a 10 °C | 1,25 |
+| Aire seco a 20 °C | 1,21 |
+| Aire seco a 30 °C | 1,16 |
+| Hidrogeno | 0,090 |
+| Helio | 0,178 |
+| Nitrógeno | 1,25 |
+| Oxigeno | 1,43 |
+
+Imagina la masa de aire en un poste hueco de bambú, vertical, de 30 kilómetros de altura, con un área transversal interna de 1 centímetro cuadrado. Si la densidad en el interior del poste es igual que la del exterior, la masa del aire en el interior sería de 1 kilogramo, aproximadamente. El peso de ese aire es de unos 10 newtons. Así, la presión del aire en el fondo del poste hueco sería unos 10 newtons por centímetro cuadrado (10 N/cm2). Claro que lo mismo sucede sin el poste de bambú. Como un metro cuadrado tiene 10.000 centímetros cuadrados, una columna de aire de 1 metro cuadrado de área transversal que suba por la atmósfera tiene una masa aproximada de 10.000 kilogramos. El peso de este aire es de aproximadamente 100.000 newtons. Este peso causa una presión de 100.000 newtons por metro cuadrado, que equivalen a 100.000 pascales o a 100 kilopascales. Con más exactitud, la presión atmosférica promedio al nivel del mar es de 101,3 kilopascales (101,3 kPa).
+
+*Imagen 14. Una persona con bolsa de agua*
+
+Descripción de la Imagen 14. Una persona se sumerge al agua con una gran bolsa de agua. No notas el peso de una bolsa de agua si te sumerges en agua. Asimismo, no notas el peso del aire mientras te sumerges en un “mar” de aire.
+
+La presión de la atmósfera no es uniforme. Además de su variación con la altitud, también hay variaciones de la presión atmosférica en cualquier localidad, debidas a que hay frentes meteorológicos y tormentas en movimiento. Las mediciones de los cambios de presión del aire son importantes para los meteorólogos, en su tarea de predecir el clima.
+
+#### Examínate
+
+¿Por qué la presión de la atmósfera no rompe los vidrios de las ventanas?
+
+#### Comprueba tus respuestas
+
+La presión atmosférica se ejerce en ambas caras del vidrio, por lo que no hay fuerza neta sobre el vidrio. Si por alguna razón la presión se redujera o aumentara en un solo lado, por ejemplo cuando pasa un tornado, ¡cuidado! Con un tornado la presión externa del aire se reduce, al grado que puede hacer que estalle un edificio.
+
+## Barómetro
+
+Un instrumento común para medir la presión de la atmósfera se llama barómetro. Un barómetro sencillo es el hecho de mercurio. Un tubo de vidrio, de longitud mayor que 76 centímetros está cerrado en un extremo; se llena con mercurio y se voltea boca abajo, en un recipiente con mercurio. El mercurio del tubo sale por la boca abierta, sumergida, hasta que el nivel dentro del tubo está a 76 centímetros arriba del nivel del recipiente. El espacio desocupado que queda arriba, a excepción de algo de vapor de mercurio, es un vacío. La altura vertical del mercurio en la columna permanece constante, aun cuando se incline el tubo, a menos que el extremo cerrado quede a menos de 76 centímetros sobre el nivel del recipiente; en ese caso, el mercurio llenará totalmente al tubo.
+
+¿Por qué el mercurio se comporta así? La explicación es similar a la causa de que un subibaja quede en equilibrio cuando son iguales los pesos de dos personas en sus asientos. El barómetro “se equilibra” cuando el peso del líquido dentro del tubo ejerce la misma presión que la atmósfera del exterior. Sea cual fuere el diámetro del tubo, una columna de 76 centímetros de mercurio pesa igual que el aire que llenaría un tubo muy alto, de 30 kilómetros, con el mismo diámetro. Si aumenta la presión atmosférica, entonces la atmósfera empuja hacia abajo más fuerte al mercurio y la columna de éste sube más de 76 centímetros. En forma literal, el mercurio es empujado hacia arriba, dentro del tubo de un barómetro, por el peso de la atmósfera.
+
+¿Se podría usar agua para fabricar un barómetro? La respuesta es sí; pero el tubo de vidrio debería ser mucho más largo: 13,6 veces más largo, para ser exactos. Debes recordar que este número es la densidad del mercurio en relación con la del agua. Un volumen de agua 13,6 veces mayor que uno de mercurio en el tubo se necesita para dar el mismo peso. Así que el tubo debería tener una altura mínima 13,6 veces mayor que la columna de mercurio. Un barómetro de agua debería ser de 13,6 × 0,76 metros, es decir, tener 10,3 metros de altura, lo cual es demasiado alto para ser práctico.
+
+*Imagen 15. Pareja tomando de pitillo*
+
+Descripción de la Imagen 15. Una pareja de enamorados bebe de la misma copa una bebida por medio de un pitillo cada uno. Estrictamente hablando, ellos no succionan la bebida por el pitillo. Más bien, reducen la presión en el pitillo, y permiten que el peso de la atmósfera oprima el líquido y lo suba en el interior del pitillo. ¿Podrían beber así en la Luna?
+
+Lo que sucede dentro de un barómetro se parece a lo que sucede cuando tomas una bebida con una pajuela o popote. Al succionar reduces la presión del aire dentro de la pajuela que está dentro de la bebida. El peso de la atmósfera sobre la bebida empuja el líquido hacia arriba, a la región de presión reducida dentro de la pajuela. Estrictamente hablando, el líquido no es succionado; más bien, es empujado por la atmósfera hacia arriba. Si se evita que la atmósfera oprima la superficie de la bebida, como en el truco de la botella donde una pajuela pasa por un tapón hermético de la botella, puede uno succionar y succionar y no subirá el líquido.
+
+Si entiendes estas ideas podrás comprender por qué hay un límite de 10,3 metros para la altura a la que se puede subir agua con una bomba de vacío. La vieja bomba de las granjas funciona produciendo un vacío parcial en un tubo que llega hasta el agua del pozo. El peso de la atmósfera sobre la superficie del agua simplemente empuja a ésta hacia arriba, hacia la región de presión reducida dentro del tubo. ¿Puedes ver que hasta con un vacío perfecto la altura máxima a la que puede subir el agua es 10,3 metros?
+
+Dato curioso: Cuando se alza la manija de la bomba, el aire en el tubo se “adelgaza” conforme se expande para llenar un mayor volumen. La presión atmosférica sobre la superficie del pozo empuja el agua hacia arriba, es decir, hacia el tubo, haciendo que el agua salga por la boquilla. ¡Eureka!
+
+Un instrumento portátil pequeño que mide la presión atmosférica es el barómetro aneroide, cuyo modelo clásico usa una caja metálica que tiene en su interior un vacío parcial, y su tapa es un poco flexible y se flexiona hacia adentro o hacia afuera, según cambie la presión atmosférica. El movimiento de la tapa se indica en una escala, a través de un sistema mecánico de resorte y palanca. Como la presión atmosférica disminuye al aumentar la altitud, se puede usar un barómetro para determinar la elevación. A un barómetro aneroide calibrado para indicar altitudes se le llama altímetro (medidor de altura). Algunos altímetros tienen la sensibilidad suficiente como para indicar cambios de altura menores de un metro.
+
+La presión (o el vacío) dentro de un cinescopio de televisión es más o menos una diezmilésima de pascal. A unos 500 kilómetros de altitud, en la zona de los satélites artificiales, la presión es todavía 10,000 veces menor. Es un vacío bastante bueno, según las normas terrestre. En las estelas de los satélites en órbita a esa distancia existen vacíos todavía mayores, que llegan a 10-13 (10 a la menos 13) Pascales. Eso se llama “vacío duro”. Los técnicos que requieren vacíos duros imaginan cada vez más sus laboratorios en órbita en el espacio.
+
+En la Tierra se producen vacíos con bombas, que trabajan con el principio de que un gas tiende a llenar su recipiente. Si se brinda un espacio con menos presión, un gas fluirá de la región de presión mayor a la de presión menor. Una bomba de vacío sólo proporciona una región de menor presión, hacia la cual se mueven aleatoriamente las moléculas veloces del gas. La presión del aire se baja en forma repetida con la acción del pistón y las válvulas. Los mejores vacíos alcanzables con bombas mecánicas son más o menos de 1 pascal. Se obtienen mejores vacíos, hasta de 10-8 (10 a la menos 8) Pascales, con bombas de difusión de vapor, o de chorro de vapor. Las bombas de sublimación pueden alcanzar hasta 10-12 (10 a la menos 12) Pascales. Es muy difícil alcanzar mayores vacíos.
+
+Dato curioso: ¿La presión atmosférica en realidad varía ante una diferencia de unos cuantos centímetros de altitud? Este hecho se demuestra con un globo lleno de helio que se eleva por el aire. La presión atmosférica hacia arriba contra la superficie inferior del globo es mayor que la presión atmosférica hacia abajo contra la parte superior.
+
+#### Examínate
+
+¿Cuál es la altura máxima desde donde se puede tomar agua con una pajuela o popote?
+
+#### Comprueba tu respuesta
+
+Al nivel del mar, con toda la fuerza que puedas succionar, o con cualquier aparato con que pretendas hacer el vacío en la pajuela, la atmósfera no puede empujar el agua hacia arriba más de 10,3 metros.
+
+## Ley de Boyle
+
+La presión del aire en el interior de los neumáticos de un automóvil es bastante mayor que la presión atmosférica. La densidad del aire en el interior también es mayor que la del aire del exterior. Para entender la relación entre presión y densidad, imagina las moléculas del aire (principalmente de nitrógeno y oxígeno) dentro del neumático, las cuales se comportan como diminutas pelotas de ping pong, en movimiento perpetuo al azar, rebotando entre sí y contra la pared del neumático. Sus impactos producen una fuerza que, por nuestros toscos sentidos, nos parece un empuje constante. Esta fuerza de empuje, promediada sobre una unidad de superficie, es la presión del aire encerrado.
+
+Supongamos que hay el doble de moléculas en el mismo volumen. Entonces, la densidad del aire aumenta al doble. Si las moléculas se mueven con la misma rapidez promedio, o lo que es igual, si tienen la misma temperatura, la cantidad de choques subirá al doble. Esto quiere decir que la presión se duplica. Resulta entonces que la presión es proporcional a la densidad.
+
+*Imagen 16. Recipiente con gas con pistón*
+
+Descripción de la Imagen 16. Un recipiente con pistón contiene un gas a una presión inicial. Cuando disminuye el volumen del gas, aumentan la densidad y, en consecuencia, la presión.
+
+También se puede elevar la densidad del aire al doble comprimiéndolo hasta la mitad de su volumen. Analicemos el cilindro con el pistón móvil de la Imagen 16. Si el pistón se empuja hacia abajo para que el volumen se reduzca a la mitad del original, la densidad de las moléculas subirá al doble y la presión, en consecuencia subirá al doble. Si el volumen disminuye hasta un tercio de su valor original, la presión aumentará a tres veces, y así sucesivamente (siempre que la temperatura sea la misma).
+
+Observa que en estos ejemplos del pistón, que la presión y el volumen son inversamente proporcionales entre sí; si por ejemplo uno de ellos sube al doble, el otro baja a la mitad
+
+P1 × V1 = P2 × V2
+
+En esta ecuación, P1 y V1 representan la presión y el volumen originales, respectivamente, y P2 y V2 representan la segunda presión y el segundo volumen.
+
+En general se afirma que el producto de la presión por el volumen, para determinada masa de gas, es constante siempre que la temperatura no cambie. A esta relación se le llama ley de Boyle, en honor de Robert Boyle, el físico que hizo este descubrimiento en el siglo XVII, con ayuda de su colega Robert Hooke.
+
+La ley de Boyle se aplica a los gases ideales. Un gas ideal es aquel en el que se pueden despreciar los efectos perturbadores de las fuerzas entre las moléculas, y del tamaño finito de las moléculas individuales. A las presiones normales el aire y otros gases se acercan a las condiciones del gas ideal.
+
+Dato curioso: Los obreros que realizan trabajos de construcción bajo el agua se encuentran en un ambiente de aire comprimido. La presión del aire en sus cámaras submarinas es, por lo menos, tan grande como la presión combinada del agua y la atmósfera que hay fuera.
+
+#### Examínate
+
+1. Un pistón de una bomba hermética se saca, de tal modo que el volumen de la cámara de aire aumenta tres veces. ¿Cuál es el cambio en la presión?
+
+2. Un buceador respira aire comprimido de un tanque a 10,3 m de profundidad. Si tuviera que contener la respiración mientras regresara a la superficie, ¿en cuánto se incrementaría el volumen de sus pulmones?
+
+#### Comprueba tus respuestas
+
+1. La presión en la cámara del pistón se reduce a un tercio. Es la base del funcionamiento de una bomba de vacío mecánica.
+
+2. La presión atmosférica puede sostener una columna de agua de 10,3 m de alto, por lo que la presión en el agua, debida sólo al peso del agua, es igual a la presión atmosférica a una profundidad de 10,3 m. Si se tiene en cuenta la presión de la atmósfera en la superficie del agua, la presión total a esta profundidad es el doble de la presión atmosférica. Por desgracia, para el buceador, los pulmones tienden a inflarse al doble de su tamaño normal, si aguanta la respiración mientras sube a la superficie. La primera lección que se da a un buceador es no contener la respiración mientras se asciende. Si lo hiciera sería fatal. (Scuba es acrónimo de self-contained underwater breathing apparatus, dispositivo de respiración submarina independiente.)
+
+## Flotabilidad del aire
+
+Un cangrejo vive en el fondo de su mar de agua, y ve a la medusa que flota sobre él. De igual modo nosotros vivimos en el fondo de nuestro mar de aire y vemos los globos que pasan arriba de nosotros. Un globo se suspende en el aire, y una medusa se suspende en el agua por la misma razón: a cada uno lo empuja una fuerza hacia arriba debida al peso del fluido desplazado, que en esos casos es igual a sus propios pesos. En un caso el fluido desplazado es aire y en el otro es agua. Como vimos en capítulos anteriores, en el agua los objetos sumergidos son impulsados hacia arriba porque la presión que actúa contra el fondo del objeto, dirigida hacia arriba, es mayor que la presión que actúa hacia abajo, contra su parte superior. Asimismo, la presión del aire que actúa hacia arriba contra un objeto sumergido en él es mayor que la presión de arriba que lo empuja hacia abajo. En ambos casos la flotabilidad es numéricamente igual al peso del fluido desplazado. El principio de Arquímedes es válido para el aire, del mismo modo que es válido para el agua:
+
+Un objeto rodeado por aire es empujado hacia arriba por una fuerza igual al peso del aire que desplaza el objeto.
+
+Sabemos que un metro cúbico de aire a la presión atmosférica normal y a la temperatura ambiente tiene una masa aproximada de 1,2 kilogramos, por lo que su peso aproximado es de 12 newtons. En consecuencia, cualquier objeto de 1 metro cúbico en el aire sufre un empuje hacia arriba, con una fuerza de 12 newtons. Si la masa del objeto de 1 metro cúbico es mayor que 1,2 kilogramos (de modo que su peso sea mayor que 12 newtons), caerá al suelo cuando se le suelte. Si el objeto con ese tamaño tiene una masa menor que 1,2 kilogramos, sube por el aire. Cualquier objeto cuya masa sea menor que la masa de un volumen igual de aire, se elevará por los cielos. Otra forma de decir lo anterior es que un objeto menos denso que el aire se elevará. Los globos llenos de gas que suben por el aire son menos densos que éste.
+
+La máxima fuerza de flotabilidad se obtendría si el globo estuviera vacío, pero eso no es práctico. El peso de la estructura necesaria para evitar que el globo se aplastara más anularía la ventaja de la flotabilidad adicional. Por tal motivo, los globos se llenan con gases menos densos que el aire ordinario, y así se evita que se aplasten y, al mismo, tiempo permiten que sean ligeros. En los globos deportivos el gas no es más que aire caliente. En los globos en que se desea que lleguen a altitudes muy grandes, o que permanezcan arriba durante mucho tiempo, se suele usar helio. Su densidad es lo bastante pequeña como para que el peso combinado del helio, el globo y la carga que tenga sean menores que el peso del aire que desplazan.3 En los globos se usan gases con baja densidad por la misma razón por la que se usa corcho o espuma de poliestireno en los salvavidas. Ni el corcho ni la espuma de poliestireno tienen tendencia extraña alguna a subir a la superficie del agua, ni el gas posee tendencia extraña alguna a subir por el aire. Más bien, son empujados hacia arriba, igual que todas las cosas. Tan sólo tienen la suficiente ligereza como para que la flotabilidad sea mayor que su peso.
+
+A diferencia del agua, la atmósfera no tiene superficie definida. No hay “tapa”. Además, a diferencia del agua, la atmósfera se vuelve menos densa al aumentar la altitud. Mientras que el corcho sube flotando a la superficie del agua, un globo lleno de helio que se suelta no sube hasta alguna superficie atmosférica. ¿Hasta qué altitud llega un globo? Se puede plantear la respuesta cuando menos en tres formas:
+
+1. Un globo sube sólo mientras que desplace un peso de aire mayor que su propio peso. Como el aire se vuelve menos denso con la altitud, cuando el peso del aire desplazado es igual al peso total del globo, acaba su aceleración hacia arriba.
+
+2. También se puede decir que cuando la fuerza de flotabilidad sobre el globo es igual a su peso, el globo ya no sube.
+
+3. Lo que es igual, cuando la densidad promedio del globo (incluyendo su carga) es igual a la densidad del aire que lo rodea, el globo deja de subir. Los globos de juguete llenos de helio se suelen romper al soltarlos al aire, porque conforme el globo sube hasta alturas con menos presión, el helio en el globo se expande, aumenta su volumen y estira el caucho hasta que lo rompe.
+
+Los grandes dirigibles se diseñan de tal modo que cuando están cargados asciendan lentamente por el aire; esto es, que su peso total sea un poco menor que el peso del aire que desplazan. Cuando está en movimiento, la nave puede subir o bajar mediante “elevadores” horizontales.
+
+#### Examínate
+
+1. ¿Hay fuerza de flotabilidad que actúe sobre ti? ¿Si la hay por qué no te hace flotar?
+
+2. (Esta pregunta necesita de lo mejor de tu razonamiento.) ¿Cómo varía la flotabilidad conforme sube un globo lleno de helio?
+
+#### Comprueba tus respuestas
+
+1. Hay una fuerza de flotabilidad que actúa sobre ti, y te empuja hacia arriba. No la notas sólo porque tu peso es mucho más grande.
+
+2. Si el globo puede expandirse libremente a medida que sube, el aumento de su volumen se contrarresta por una disminución de su densidad, en el aire a mayor altitud. Así que es interesante que el mayor volumen de aire desplazado no pese más, y que la flotabilidad permanezca la misma. Si un globo no se puede expandir libremente, la flotabilidad disminuirá a medida que suba el globo, porque el aire desplazado tiene menor densidad. Por lo general, los globos se expanden al comenzar a subir y si no acaban rompiéndose, el estiramiento de su tela o cubierta llega a un máximo, y se estacionan donde la flotabilidad coincida con su peso.
+
+## Principio de Bernoulli
+
+Hasta ahora hemos descrito a la presión sólo cuando se aplica a fluidos estacionarios. Ahora consideraremos los fluidos en movimiento: la dinámica de fluidos.
+
+El movimiento produce una influencia adicional sobre un fluido. Considera un flujo continuo de agua a través de un tubo. Como el agua no “se amontona”, la cantidad de agua que fluye por cualquier sección dada del tubo es la misma que la cantidad que fluye por cualquier otra sección del mismo tubo. Esto es cierto ya sea que el tubo se ensanche o se adelgace. Como una consecuencia del flujo continuo, el agua disminuirá su rapidez en las partes anchas y acelerará en las angostas. Podrás observar esto si pones tu dedo sobre la salida de una manguera de jardín.
+
+Daniel Bernoulli, un científico suizo del siglo XVIII, desarrolló la teoría del flujo de agua a través de tubos. Encontró que la presión en las paredes de los tubos disminuye conforme aumenta la rapidez del agua. Bernoulli encontró que esto es un principio válido tanto para los líquidos como para los gases. El principio de Bernoulli, en su forma más sencilla, establece que:
+
+“Cuando se incrementa la rapidez de un fluido, disminuye la presión interna en el fluido.”
+
+El principio de Bernoulli es consistente con la conservación de la energía. En el flujo uniforme de un fluido ideal sin fricción interna, hay tres clases de energía: la energía cinética debida al movimiento; el trabajo que se asocia a las fuerzas de presión; y la energía potencial gravitacional debida a la elevación. En el flujo uniforme de un fluido donde no se sume ni se reste energía, cualquier trabajo efectuado por una parte del fluido en otra parte aparenta ser energía cinética y potencial.
+
+Entonces la suma de los tres términos de energía permanece constante. Si la elevación del flujo no cambia, entonces un aumento de la velocidad tan sólo significaría una disminución en la presión, y viceversa.
+
+*Imagen 17. Fluido atraviesa sección*
+
+Descripción de la Imagen 17. Un fluido atraviesa un tubo con una sección transversal A1 con una rapidez v1. El tubo se encoje a una menor sección transversal A2 y ahora va con una velocidad v2. El fluido aumenta su rapidez al pasar por la parte más angosta del tubo. Las líneas de flujo más cercanas entre sí indican que la rapidez es mayor y que la presión interna es menor.
+
+Dato curiosos: puesto que el volumen del agua que fluye a través de un tubo de diferentes áreas transversales A permanece constante, la rapidez del flujo v es alta donde el área es pequeña, y la rapidez es baja donde el área es grande. Esto se enuncia con la ecuación de continuidad:
+
+A1 × v1 = A2 × v2
+
+El producto A1 × v1 en el punto 1 es igual al producto A2 × v2 en el punto 2.
+
+A primera vista, la disminución de la presión del fluido al aumentar la rapidez parecería sorprendente, y en especial si no se distingue entre la presión dentro del fluido, que es la presión interna, y la presión que ejerce el fluido sobre algo que interfiera su flujo. La presión interna del agua que fluye rápido por una manguera de bomberos es relativamente baja; mientras que la presión externa que puede ejercer sobre algún objeto en su trayectoria, cuando desciende lentamente, podría ser enorme. Distinguimos entre la presión interna en un fluido y la presión que un fluido puede ejercer sobre algo que cambie su cantidad de movimiento.
+
+En un flujo constante, una pequeña cantidad de fluido sigue a lo largo de la misma trayectoria que una pequeña cantidad de fluido enfrente de él. El movimiento de un fluido en un flujo constante sigue líneas de flujo, que se representan mediante las líneas delgadas en la Imagen 17 y en imágenes posteriores. Las líneas de flujo son rutas o trayectorias suaves del fluido. Las líneas están más cercanas entre sí en las regiones más angostas, donde el flujo es más rápido y la presión es menor.
+
+*Imagen 18. Burbujas en un tubo*
+
+Descripción de la Imagen 18. Burbujas en un tubo. La presión interna es mayor en el agua que se mueve con más lentitud, en la parte ancha del tubo; la prueba son las burbujas de aire más pequeñas. Esas burbujas crecen al pasar a la parte angosta, porque ahí la presión es menor.
+
+Las diferencias de presión son muy evidentes cuando un líquido contiene burbujas de aire. El volumen de una burbuja de aire depende de la presión del líquido que la rodea. Donde el líquido gana rapidez, la presión disminuye y las burbujas son más grandes. Como indica la imagen 18, las burbujas son más pequeñas en líquidos más lentos y con mayor presión.
+
+El principio de Bernoulli se cumple básicamente para los flujos constantes o estables. Si la rapidez del flujo es demasiado alta, el flujo podría volverse turbulento y seguir una trayectoria cambiante y en espiral, conocida como remolino. En ese caso, no se cumple el principio de Bernoulli.
+
+## Aplicaciones del principio de Bernoulli
+
+Sujeta frente a tu boca una hoja de papel, perpendicular a tu cara para que soples paralelo a la hoja. Cuando soplas sobre la cara superior, el papel sube. Se debe a que la presión interna del aire en movimiento, contra la cara superior del papel, es menor que la presión atmosférica sobre la cara inferior.
+
+Quien haya viajado en un automóvil convertible con el toldo puesto, habrá notado que la lona se infla y trata de subir cuando el automóvil se mueve: es Bernoulli de nuevo. La presión en el exterior es menor sobre la tela, donde el aire se mueve, que la presión atmosférica estática del interior. La diferencia de presión en la tela de la lona hace que ésta se curve hacia arriba.
+
+Imagina el viento que sopla transversal a un techo de dos aguas. El aire aumenta en rapidez al pasar sobre él, se presenta un estrechamiento entre las líneas de flujo por encima del techo. La presión a lo largo de tales líneas se reduce cuando se juntan. A menos que la construcción esté bien ventilada, una mayor presión dentro y debajo del techo podría arrancarlo. Incluso una pequeña diferencia de presión sobre un área grande del techo produciría una fuerza de “sustentación” hacia arriba.
+
+Si nos imaginamos que el techo que voló es un ala de avión, entenderemos mejor la fuerza de sustentación que sostiene a un avión pesado. En ambos casos, una presión mayor, abajo, empuja el techo o el ala hacia una región de menor presión, que está arriba de ellos. Las alas tienen muchos diseños; pero algo que todas tienen en común es que hacen que el aire fluya con mayor rapidez sobre su cara superior que bajo su cara inferior. Esto se logra principalmente con una inclinación, llamada ángulo de ataque. El aire fluye con mayor rapidez sobre la cara superior, casi por la misma razón por la que fluye con más rapidez en un tubo con angostamiento, o por cualquier otra región estrechada. Con mucha frecuencia, aunque no siempre, las distintas rapideces del aire sobre y abajo de un ala se refuerzan con una diferencia de las curvaturas superficiales: mayor en la cara superior que en la inferior. Cuando la diferencia de presiones produce una fuerza neta hacia arriba, se obtiene una sustentación. Cuando ésta es igual al peso, es posible el vuelo horizontal. La sustentación aumenta cuando el avión avanza rápido y cuando la superficie del ala es grande. Los planeadores (con baja rapidez) tienen una superficie de alas muy grande en relación con el tamaño de su fuselaje. En cambio, los aviones de caza (con alta rapidez) tienen poca superficie en las alas.
+
+El principio de Bernoulli también desempeña un papel importante en la trayectoria curva de las pelotas que giran. Cuando una pelota de béisbol o de tenis (o cualquier otro tipo de pelota en movimiento) gira, se generan presiones desiguales de aire en sus lados opuestos. La presión de aire es mayor en su parte de abajo y la pelota se curva como se en sentido contrario a las manecillas del reloj. El recubrimiento de pelusilla de algunas pelotas permite hacer más pronunciada la curva, ayudando a arrastrar una delgada capa de aire con la pelota y provocando que las líneas de flujo se junten en un lado.
+
+Un aspersor común y corriente, por ejemplo un atomizador de perfume, usa el principio de Bernoulli. Cuando aprietas la pera, el aire pasa por el extremo abierto de un tubo que penetra en el perfume.
+
+Al pasar el aire rápido, reduce la presión en el tubo, con lo cual la presión atmosférica sobre el líquido lo empuja hacia el tubo y hacia arriba, donde es arrastrado por la corriente de aire.
+
+El principio de Bernoulli desempeña un papel importante en los animales que cavan madrigueras subterráneas. Las entradas a esas madrigueras suelen tener la forma de montículos, que producen variaciones en la velocidad del viento entre distintas entradas; de esta forma se obtienen las diferencias de presión necesarias para que el aire circule por la madriguera.
+
+*Imagen 19. Prueba en tu tina o lavabo*
+
+Descripción de la Imagen 19. Haz esta prueba en tu tina o lavabo. Amarra un par de barcos de juguete para que queden uno al lado del otro, sin que el cordón quede tenso. A continuación lanza un chorro de agua entre ellos. Los botes se acercarán y chocarán. ¿Por qué?
+
+También el principio de Bernoulli explica por qué los camiones que pasan cercanamente en una carretera se atraen entre sí y por qué los barcos que pasan unos junto a otros corren el riesgo de chocar de lado. El agua que fluye entre ellos tiene mayor rapidez que la que pasa por los costados externos. Las líneas de flujo están más cercanas entre los barcos que afuera de ellos; y así la presión del agua que actúa contra los cascos es menor entre los barcos. A menos que éstos maniobren para compensar esas fuerzas, la presión mayor contra los lados externos los empuja uno contra otro. La imagen 19 lo demuestra en la tarja de la cocina o en la tina de baño.
+
+El principio de Bernoulli se presenta cuando las cortinas de una regadera se acercan hacia ti cuando la ducha está funcionando a su máxima capacidad. El aire cerca del chorro de agua fluye hacia la corriente de menor presión y es arrastrado hacia abajo con el agua que cae. La presión en la zona de la ducha se reduce, y la presión del exterior de la cortina la empuja hacia adentro (dándole una ruta de escape al aire arrastrado hacia abajo). Aunque la convección producida por las diferentes temperaturas quizá juega un papel más importante, la próxima vez que tomes una ducha y la cortina se incline hacia tus piernas ¡acuérdate de Daniel Bernoulli!
+
+Dato curioso: una manguera contra incendios es ancha cuando no está conduciendo agua. Cuando se abre la llave y el agua sale a chorros por la manguera, ¿por qué ésta se hace más delgada?
+
+### Práctica de física
+
+Dobla los extremos de una tarjeta de archivo para formar un pequeño puente. Colócalo sobre la mesa y sopla por el arco. No importa que soples con todas tus fuerzas, no podrás hacer que salga volando de la mesa (a menos que soples contra uno de sus lados). Muestra eso a tus amigos que no sepan física y explícales lo que sucede.
+
+#### Examínate
+
+Un día con viento las olas de un lago o del mar son más altas que su altura promedio. ¿Cómo contribuye el principio de Bernoulli a la mayor altura?
+
+#### Comprueba tu respuesta
+
+Los valles entre las olas están parcialmente protegidos del viento, así que el aire se mueve con más rapidez sobre las crestas. Entonces, la presión sobre las crestas es menor que abajo, en los valles. La mayor presión en los valles empuja el agua hacia unas crestas que se hacen todavía más altas.
+
+## Plasma
+
+Además de sólido, líquido y gas, hay una cuarta fase de la materia: el plasma (que no debe confundirse con la parte líquida transparente de la sangre, que también se llama así). Es la fase que menos conocemos, pero es la que más abunda en el universo en su totalidad. El Sol y otras estrellas son básicamente de plasma.
+
+Un plasma es un gas electrificado. Los átomos y las moléculas que lo forman están ionizados, les falta uno o más electrones, y se acompañan por la cantidad correspondiente de electrones libres. Recuerda que un átomo neutro tiene muchos protones positivos dentro del núcleo, y que tiene igual cantidad de electrones libres fuera del núcleo. Cuando uno o más de estos electrones se separa del átomo, éste tiene más carga positiva que negativa, y se vuelve un ion positivo. (En ciertas condiciones puede adquirir electrones adicionales, en cuyo caso se llama ion negativo.) Aunque los electrones y los iones en sí tienen carga eléctrica, el plasma en su totalidad es eléctricamente neutro, porque todavía contiene cantidades iguales de cargas positivas y negativas, al igual que un gas ordinario. Sin embargo, un plasma o un gas tienen propiedades muy diferentes. El plasma conduce con facilidad la corriente eléctrica, absorbe ciertas clases de radiación que pasan por un gas ordinario sin ser alteradas, y puede moldearse, conformarse y moverse mediante campos eléctricos y magnéticos.
+
+Nuestro Sol es una enorme esfera de plasma caliente. En los laboratorios se crea plasma con frecuencia al calentar un gas a temperaturas muy elevadas, haciéndolo tan caliente que los electrones “hierven” en los átomos y salen de éstos. También se puede crear plasmas a menores temperaturas, bombardeando los átomos con partículas de alta energía, o con radiación.
+
+### Plasma en el mundo cotidiano
+
+Si estás leyendo esto a la luz de una lámpara fluorescente, no tendrás que buscar mucho para ver el plasma en acción. Dentro del brillante tubo de la lámpara hay plasma que contiene iones de argón y de mercurio (y también muchos átomos neutros de tales elementos). Cuando enciendes la lámpara, un alto voltaje entre los electrodos de cada extremo del tubo hace que fluyan los electrones. Esos electrones ionizan algunos átomos y forman plasma, que suministra una trayectoria conductora que mantiene fluyendo a la corriente eléctrica. Esa corriente activa algunos átomos de mercurio, haciéndolos que emitan radiación, principalmente en la región invisible del ultravioleta. Esa radiación hace que la capa de fósforo que hay en la cara interior del tubo brille con luz visible.
+
+Asimismo, el gas neón de un letrero luminoso se transforma en plasma cuando un bombardeo de electrones ioniza sus átomos. Algunos átomos de neón, después de haber sido activados por la corriente eléctrica, emiten luz principalmente roja. Los distintos colores que tienen esos letreros corresponden a plasmas de distintas clases de átomos. Por ejemplo, el argón brilla con color azul; y el helio, en color rosa. Las lámparas de vapor de sodio utilizadas en el alumbrado público emiten luz amarilla estimulada por plasmas luminosos.
+
+Una reciente innovación del plasma es la pantalla plana de televisión. La pantalla está hecha de varios miles de pixeles, cada uno de los cuales está compuesto de tres celdas separadas de subpixeles. Una celda tiene un material fosforescente que toma color rojo, otra da color verde y otra más da azul. Los pixeles van en medio de una red de electrodos que se cargan miles de veces en una pequeña fracción de segundo, produciendo corrientes eléctricas que fluyen a través de los gases en las celdas. Al igual que en una lámpara fluorescente, los gases se convierten en plasmas brillantes que liberan luz ultravioleta que estimula el material fluorescente. La combinación de colores de las celdas constituye el color del pixel.
+
+La imagen en la pantalla está compuesta de los colores de los pixeles activados por la señal de control de televisión.
+
+Las auroras boreal y austral son plasmas brillantes en la atmósfera superior. Las capas de plasma de baja temperatura cubren toda la Tierra. A veces llegan lluvias de electrones del espacio exterior y de los cinturones de radiación, y entran por las “ventanas magnéticas” cerca de los polos terrestres, chocando con los estratos de plasma y produciendo luz.
+
+Esas capas de plasma, que se extienden unos 80 kilómetros hacia arriba, forman la ionosfera, y funcionan como espejos de ondas de radio de baja frecuencia. Las ondas de radio de mayores frecuencias, y las de TV, atraviesan la ionosfera. Es la razón por la que puedes captar estaciones de radio de grandes distancias en tu radio AM de baja frecuencia; pero debes estar en la “visual” de las antenas emisoras o repetidoras para captar señales de mayor frecuencia de FM y de TV. ¿Has notado que por la noche puedes captar en tu radio de AM estaciones muy lejanas? Esto se debe a que las capas de plasma se asientan y se acercan entre sí, en ausencia de la energía de la luz solar, y en consecuencia son mejores reflectores de las ondas.
+
+### Generación de energía con plasma
+
+Un plasma a gran temperatura es lo que escapa de los motores a reacción. Es un plasma débilmente ionizado; pero cuando se le agregan cantidades pequeñas de sales de potasio o de cesio metálico, se vuelve muy buen conductor, y cuando se dirige hacia un imán ¡se genera electricidad! Es la energía MHD, interacción magnetohidrodinámica entre un plasma y un campo magnético. La energía MHD es poco contaminante y ya funciona en algunos lugares del mundo. Cabe esperar que aumente más la generación de energía con plasma MHD.
+
+Un logro todavía más prometedor será la energía de plasma de una clase distinta: la fusión controlada de núcleos atómicos. Las ventajas de la fusión controlada pueden ser muy trascendentes. Las plantas de fusión no sólo generan abundantemente energía eléctrica, sino también pueden proporcionar la energía y los medios para reciclar y hasta sintetizar elementos.
+
+La humanidad ha recorrido un largo camino en el dominio de las tres primeras fases de la materia. Al dominar la cuarta fase podremos llegar mucho más lejos.
+
+## Resumen de términos
+
+Barómetro. Todo dispositivo que mida la presión atmosférica.
+
+Ley de Boyle. El producto de la presión y el volumen es constante para determinada masa de gas confinado, siempre y cuando la temperatura permanezca constante.
+
+P1 × V1 = P2 × V2
+
+Plasma. Gas electrificado que contiene iones y electrones libres. La mayoría de la materia del universo está en la fase de plasma.
+
+Presión atmosférica. Presión que se ejerce contra los cuerpos sumergidos en la atmósfera. Se debe al peso del aire, que empuja hacia abajo. En el nivel del mar, la presión atmosférica es de unos 101 kPa.
+
+Principio de Arquímedes (para el aire). Un objeto en el aire es empujado hacia arriba por una fuerza igual al peso del aire desplazado.
+
+Principio de Bernoulli. Cuando la rapidez de un fluido aumenta, su presión interna disminuye.
+
+## Preguntas de repaso
+
+##### La atmósfera
+
+1. ¿Cuál es la fuente de energía para que los gases de la atmósfera se muevan? ¿Qué evita que los gases de la atmósfera escapen al espacio?
+
+2. ¿A qué altura deberías subir en la atmósfera para que la mitad de su masa quedara abajo de ti?
+
+##### Presión atmosférica
+
+3. ¿Cuál es la causa de la presión atmosférica?
+
+4. ¿Cuál es la masa de un metro cúbico de aire a temperatura ambiente (20 °C)?
+
+##### Barómetros
+
+5. ¿Cómo se compara la presión que ejerce hacia abajo la columna de 76 cm de mercurio de un barómetro, con la presión del aire en el fondo de la atmósfera?
+
+6. ¿Cómo se compara el peso del mercurio en un barómetro, con el peso de una columna de aire de igual sección transversal que vaya del nivel del mar hasta la parte superior de la atmósfera?
+
+7. ¿Por qué un barómetro de agua debería ser 13,6 veces más alto que uno de mercurio?
+
+8. Cuando tomas sorbiendo líquido por una pajuela, ¿es más correcto decir que el líquido es empujado hacia arriba de la pajuela, o que es succionado por la pajuela? Exactamente, ¿qué origina la fuerza de empuje? Sustenta tu respuesta.
+
+9. ¿Por qué un barómetro aneroide puede medir altitudes y también la presión atmosférica?
+
+##### Ley de Boyle
+
+10. ¿Cuánto aumenta la densidad del aire cuando se comprime hasta la mitad de su volumen?
+
+11. ¿Qué sucede con la presión del aire en el interior de un globo, cuando se comprime a la mitad de su volumen a temperatura constante?
+
+12. ¿Qué es un gas ideal?
+
+##### Fuerza de flotabilidad en el aire
+
+13. Un globo pesa 1 N y queda suspendido en el aire, sin subir ni bajar. Contesta:
+
+a) ¿Cuánta fuerza de flotabilidad actúa sobre él?
+
+b) ¿Qué sucede si disminuye la fuerza de flotabilidad?
+
+c) ¿Y si aumenta la fuerza de flotabilidad?
+
+14. ¿El aire ejerce fuerza de flotabilidad en todos los objetos que hay en él, o sólo en objetos como los globos, que son muy ligeros en relación con su tamaño?
+
+15. ¿Qué suele suceder a un globo de juguete lleno de helio que sube muy alto por la atmósfera?
+
+##### Principio de Bernoulli
+
+16. ¿Qué son las líneas de flujo? En las zonas donde las líneas de flujo están muy cercanas entre sí, ¿la presión es mayor o menor?
+
+17. ¿Qué sucede a la presión interna de un fluido que corre por un tubo horizontal, cuando su rapidez aumenta?
+
+18. ¿El principio de Bernoulli se refiere a cambios en la presión interna de un fluido, o a presiones que el fluido puede ejercer sobre objetos?
+
+##### Aplicaciones del principio de Bernoulli
+
+19. ¿Cómo se aplica el principio de Bernoulli al vuelo de los aviones?
+
+20. ¿Por qué una pelota que gira tiene trayectoria curva en el aire?
+
+21. ¿Por qué los barcos que pasan uno junto a otro en mar abierto corren el riesgo de sufrir una colisión lateral?
+
+##### Plasma
+
+22. ¿Cuál es la diferencia entre un plasma y un gas?
+
+##### Plasma en el mundo cotidiano
+
+23. Describe al menos tres ejemplos de plasmas en tu ambiente cotidiano.
+
+24. ¿Por qué la recepción de los radios de AM es mejor durante la noche?
+
+##### Generación de energía con plasma
+
+25. ¿Qué se podría generar cuando un haz de plasma se dirige hacia un imán?
+
+## Proyectos
+
+      1. Puedes determinar la presión ejercida por los neumáticos de un automóvil sobre el pavimento, y compararla con la presión del aire dentro de los neumáticos. Para este proyecto debes buscar el peso de un automóvil en el manual del usuario o consultar a un distribuidor. Divide el peso entre cuatro para obtener el peso aproximado que sostiene cada uno.
+
+Puedes determinar con bastante aproximación el área de contacto del neumático con el pavimento, trazando el contorno del neumático en una hoja de papel cuadriculado, con cuadros de un centímetro, bajo el neumático. Después de obtener la presión que ejerce el neumático sobre el pavimento, compárala con la del aire en el interior. ¿Son casi iguales? Si no es así, ¿cuál es mayor?
+
+      2. Prueba lo siguiente en la tina de baño, o cuando laves la vajilla. Baja un vaso, boca abajo, sobre un objeto flotante pequeño (para que sea visible el nivel del agua en el interior). ¿Qué observas? ¿A qué profundidad hay que bajar el vaso para comprimir el aire hasta la mitad de su volumen? (No podrías alcanzar a comprimir tanto el aire en la tina del baño, ¡a menos que su profundidad sea de 10,3 metros!)
+
+      3. Para verter agua de un vaso a otro, lo que haces es poner el vaso lleno sobre el vacío e inclinarlo. ¿Alguna vez has vertido aire de un vaso a otro? El procedimiento es semejante. Sumerge dos vasos en agua, volteados hacia abajo. Deja que uno se llene de agua volteándolo hacia arriba. Luego sujeta el vaso lleno de agua, boca abajo, sobre el vaso lleno de aire. Inclina lentamente el vaso inferior y deja que se le escape el aire y llene el vaso de arriba. ¡Habrás vertido aire de un vaso a otro!
+
+      4. Sujeta un vaso bajo el agua, y déjalo que se llene. A continuación voltéalo y súbelo, pero con su boca bajo la superficie. ¿Por qué no se sale el agua? ¿Qué altura debería tener el vaso para que el agua comenzara a salir? (Si pudieras encontrar ese vaso, ¡a lo mejor tendrías que hacer agujeros en el techo para hacerle lugar!)
+
+      5. Tapa un vaso lleno de agua hasta el borde con una tarjeta, y voltéalo hacia abajo. ¿Por qué la tarjeta permanece en su lugar? Prueba volteándolo hacia un lado.
+
+      6. Invierte una botella o una jarra con boca angosta llena de agua. Observa que el agua no solamente sale, sino que gorgotea del recipiente. La presión del aire no la deja salir, sino hasta que algo del aire haya empujado el líquido y haya entrado a la botella, para ocupar un espacio arriba del líquido. ¿Cómo se vaciaría una botella llena de agua al voltearla en la Luna?
+
+      7. Calienta un poco de agua hasta que hierva en una lata de bebida e inviértela con rapidez dentro de un plato con agua fría. ¡Verás un resultado sorprendente!
+
+      8. Haz un pequeño agujero cerca del fondo de una lata delgada abierta. Llénala con agua, que comenzará a salir por el agujero. Cubre la boca de la lata, con firmeza, con la palma de la mano y al poco tiempo se detendrá el flujo. Explica por qué.
+
+      9. Sumerge en agua el extremo de un tubo de vidrio angosto o de una pajuela para beber, y pon un dedo sobre la boca superior del tubo. Levanta el tubo del agua y a continuación levanta el dedo de la boca del tubo. ¿Qué sucede? (Lo harás con frecuencia si te inscribes en el laboratorio de química.)
+
+      10. Con un alfiler perfora una tarjeta pequeña, y colócala en el agujero de un carrete de hilo. Sopla por el otro agujero del carrete tratando de apartar la tarjeta del carrete. Prueba en todas direcciones.
+
+      11. Sujeta una cuchara en un chorro de agua, y siente el efecto de las diferencias en la presión.
+
+## Ejercicios
+
+Nota: para los ejercicios y los problemas que vienen recuerda estudiar antes las operaciones entre números con exponentes.
+
+            1. Se dice que un gas llena el espacio que tiene a su disposición. ¿Por qué la atmósfera no escapa al espacio?
+
+            2. ¿Por qué no hay atmósfera en la Luna?
+
+            3. Cuenta los neumáticos de un remolque grande que esté descargando mercancías en el supermercado más cercano, y te sorprenderá que sean 18. ¿Por qué tantas ruedas? (Sugerencia: consulta el proyecto 1.)
+
+            4. El vástago de la válvula de un neumático debe ejercer cierta fuerza sobre el aire que hay dentro, para prevenir cualquier fuga. Si el diámetro del vástago de la válvula fuera del doble, ¿por cuánto se incrementaría la fuerza ejercida por el vástago de la válvula?
+
+            5. ¿Por qué la presión en los neumáticos de un automóvil es ligeramente más elevada después de que éste ha recorrido varios kilómetros?
+
+            6. ¿Por qué una pelota de fútbol inflada por debajo de su capacidad en el nivel del mar es mucho más firme cuando se lleva a una gran altura en las montañas?
+
+            7. ¿Cómo se compara la densidad del aire en una mina profunda con la del aire en la superficie terrestre?
+
+            8. Cuando una burbuja de aire sube por el agua, ¿qué sucede con su masa, volumen y densidad?
+
+            9. Antes de abordar un avión compras una bolsa de papas fritas, o cualquier mercancía empacada en una bolsa hermética al aire; al estar volando notas que la bolsa está inflada. Explica por qué sucede así.
+
+            10. ¿Por qué supones que las ventanillas de un avión son más pequeñas que las de un autobús?
+
+            11. Se vierte más o menos media taza de agua en una lata de 5 L, que se pone sobre una fuente de calor hasta que haya hervido y escapado la mayor parte del agua. A continuación se atornilla firmemente la tapa y la lata se saca de la fuente de calor y se deja enfriar. ¿Qué le sucede a la lata, y por qué?
+
+            12. Podremos comprender cómo la presión en el agua depende de la profundidad, imaginando una pila de ladrillos. La presión de la cara inferior del ladrillo de abajo está determinada por el peso de toda la pila. A la mitad de la pila, la presión es la mitad, porque el peso de los ladrillos que hay arriba es la mitad. Para explicar la presión atmosférica, deberíamos imaginar que los ladrillos son compresibles, como por ejemplo si fueran de hule espuma. ¿Por qué sucede así?
+
+            13. La “bomba” de una aspiradora de limpieza no es más que un ventilador de alta rapidez. Esa aspiradora, ¿aspiraría el polvo de una alfombra en la Luna? Explica por qué.
+
+            14. Si se usara un líquido con la mitad de la densidad del mercurio en un barómetro, ¿qué altura tendría su nivel en un día en que la presión atmosférica fuera normal?
+
+            15. ¿Por qué no afecta el tamaño del área transversal de un barómetro de mercurio a la altura de la columna de mercurio?
+
+            16. Si pudieras sustituir el mercurio de un barómetro por otro líquido más denso, la altura de la columna de ese líquido, ¿sería mayor o menor que la del mercurio? ¿Por qué?
+
+            17. ¿Sería un poco más difícil succionar una bebida por un pitillo al nivel del mar, o sobre una montaña muy alta? Explica por qué.
+
+            18. La presión que ejerce el peso de un elefante sobre el terreno se distribuye uniformemente en sus cuatro patas, y es menor que 1 atmósfera. ¿Entonces por qué te aplastaría un elefante y no te hace daño la presión de la atmósfera
+
+            19. ¿Qué registrará el mayor peso: un globo vacío o el mismo globo lleno de aire? Argumenta tu respuesta; luego, inténtalo y compruébalo.
+
+            20. ¿Por qué es tan difícil respirar cuando se bucea a 1 m de profundidad con un snorkel, y es prácticamente imposible a 2 m? ¿Por qué un buceador simplemente no puede respirar por una manguera que vaya hasta la superficie?
+
+            21. ¿Cómo es que el concepto de flotabilidad complica la antigua pregunta? “¿Qué pesa más, una libra de plomo o una libra de plumas?”
+
+            22. Una niña en un automóvil con el semáforo en rojo sostiene un globo lleno de helio. Las ventanillas están subidas y el automóvil es relativamente hermético. Cuando se enciende la luz verde y el automóvil acelera hacia adelante, la cabeza de la niña se recarga en el asiento, pero el globo se inclina hacia adelante. Explica por qué.
+
+            23. ¿Una botella de helio gaseoso pesaría más o menos que una botella idéntica llena de aire a la misma presión? ¿Y que una botella idéntica de la cual se haya sacado el aire?
+
+            24. Cuando sustituyes el helio de un globo por hidrógeno, que es menos denso, ¿cambia la fuerza de flotabilidad sobre el globo, si tiene el mismo tamaño? Explica por qué.
+
+            25. ¿Qué sucede, si es que acaso ocurre algo, al volumen del gas en un globo de investigación atmosférica cuando se calienta?
+
+            26. ¿Qué sucede, si es que acaso ocurre algo, a la presión del gas en un globo de caucho cuando éste se desinfla y se hace más pequeño?
+
+            27. ¿Qué sucede con el tamaño de las burbujas de aire liberadas por un buzo conforme se elevan?
+
+            28. La presión del gas dentro de un globo de caucho inflado siempre es mayor que la presión del aire en el exterior. ¿Por qué?
+
+            29. Dos globos tienen el mismo peso y el mismo volumen, y están llenos con igual cantidad de helio. Uno es rígido y el otro puede expandirse libremente a medida que baje la presión del exterior. Al soltarlos, ¿cuál subirá más? Explica por qué.
+
+            30. ¿Por qué el fuego de un fogón se aviva en un día con viento?
+
+            31. ¿Qué le sucede a la presión en el agua conforme ésta aumenta su rapidez cuando sale por la boquilla de una manguera de jardín?
+
+            32. ¿Por qué normalmente los aviones despegan de frente a la dirección del viento?
+
+            33. ¿Qué suministra la sustentación a un Frisbee en su vuelo?
+
+            34. Imagina una gran colonia espacial, contenida en un cilindro giratorio lleno de aire. ¿Cómo se compararía la densidad del aire a “nivel del suelo” con las densidades del aire de “arriba”?
+
+            35. Cuando un gas que fluye uniformemente pasa de un tubo de mayor diámetro a otro de menor diámetro, ¿qué le sucede a?
+
+a) a su rapidez
+
+  c) a su presión
+
+  d) a la distancia entre sus líneas de flujo
+
+            36. ¿Por qué es más fácil lanzar una curva con una pelota de tenis que con una de béisbol?
+
+            37. ¿Por qué los aviones extienden los flaps (es decir, los bordes traseros) de las alas que aumentan el área de éstas durante los despegues y aterrizajes? ¿Por qué estos flaps se retraen cuando el avión ha alcanzado su rapidez de crucero?
+
+            38. Un viento constante sopla sobre las olas del mar. ¿Por qué el viento aumenta las crestas y los valles de las olas?
+
+            39. ¿La menor presión es el resultado del aire en movimiento rápido, o el aire en movimiento rápido es el resultado de la menor presión? Describe un ejemplo que respalde tu afirmación. (En física, cuando se relacionan dos cosas, por ejemplo la fuerza y la aceleración, o la rapidez y la presión, suele ser arbitrario decir a cuál llamar causa y a cuál efecto.)
+
+            40. ¿Por qué con tu radio de AM puedes captar mejor estaciones lejanas por la noche?
+
+## Problemas
+
+1. ¿Qué cambio de presión sucede en un globo que se oprime hasta la tercera parte de su volumen, sin cambiar la temperatura?
+
+2. El aire de un cilindro se comprime hasta un décimo de su volumen original, sin cambiar la temperatura. ¿Qué le sucede a su presión?
+
+3. En el problema anterior, si se abre una válvula para dejar escapar el aire y regresar la presión a su valor original, ¿qué porcentaje de las moléculas escapa?
+
+4. Estima la fuerza de flotabilidad que ejerce el aire sobre ti. (Para hacerlo, puedes estimar tu volumen si conoces tu peso, suponiendo que tu densidad de peso sea un poco menor que la del agua.)
+
+5. Las densidades del nitrógeno y del oxígeno líquido sólo son 0,8 y 0,9 de la del agua. La presión atmosférica se debe principalmente al peso del nitrógeno y oxígeno gaseosos en el aire. Si la atmósfera se licuara, ¿su altura sería mayor o menor que 10,3 m?
+
+6. Un escalador amigo tuyo con una masa de 80 kg medita la idea de amarrarse un globo lleno de helio para reducir 25% su peso al escalar. Se pregunta cuál sería el tamaño aproximado del globo. Sabiendo que estudias física, te lo pregunta. ¿Qué respuesta le darías y cómo la calculaste?
+
+7. En un día perfecto de otoño estás suspendido a baja altura, cerca del mar, en un globo de aire caliente, y no aceleras hacia arriba ni hacia abajo. El peso total del globo, incluyendo su carga y el aire caliente, es 20.000 N.
+
+a. ¿Cuál es el peso del aire desplazado?
+
+b. ¿Cuál es el volumen del aire desplazado?
+
+8. ¿Cuánta sustentación se ejerce sobre las alas de un avión, que tienen 100 m2 (m cuadrados) de superficie total, cuando la diferencia entre la presión del aire abajo y la arriba de las alas es del 4% de la presión atmosférica?
+
+# Bibliografía
+
+danieltubau.com. (25 de Mayo de 2015). wordpress.danieltubau.com. Recuperado el 25 de Mayo de 2015, de wordpress.danieltubau.com: http://wordpress.danieltubau.com/wp-admin/images/2014/01/jirafas.jpg
+
+Hewitt, P. (2007). Física Conceptual. En P. Hewitt, Física Conceptual (V. A. Flores Flores, Trad., Décima ed., págs. 210-288). México, México: Pearson Educación.

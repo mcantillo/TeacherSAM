@@ -1,0 +1,436 @@
+% =====================================================================
+% mmcantillo.sty
+% Estilo para quices, evaluaciones y documentos del Área de Matemáticas
+% Docente: María Mercedes Cantillo -- Colegio San Alberto Magno
+%
+% Uso:  \usepackage{mmcantillo}
+% Compilar con pdflatex (dos veces, o con latexmk) para que aparezcan
+% el total de páginas y el total de puntos.
+% =====================================================================
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{mmcantillo}[2026/09/12 Plantillas Area de Matematicas]
+
+% ---------- Idioma y fuentes ----------
+\RequirePackage[T1]{fontenc}
+\RequirePackage[spanish,es-tabla,es-noshorthands]{babel}
+\RequirePackage{amsmath,amsthm,mathtools}
+\RequirePackage{newpxtext}          % Palatino para el texto
+\RequirePackage{newpxmath}          % Palatino para las matemáticas (incluye amssymb)
+\RequirePackage[protrusion=true,expansion=true]{microtype}
+
+% ---------- Página ----------
+\RequirePackage{geometry}
+\geometry{
+  a4paper,
+  left=2.2cm, right=2.2cm,
+  top=3.0cm, bottom=2.4cm,
+  headheight=1.4cm, headsep=0.6cm,
+  footskip=1.1cm
+}
+
+% ---------- Matemáticas ----------
+\RequirePackage{bm}                 % vectores en negrita: \bm{v}
+\RequirePackage{cancel}             % simplificaciones: \cancel{x}
+\RequirePackage{icomma}             % coma decimal en modo matemático: $3,5$
+\RequirePackage{siunitx}            % unidades: \qty{9,8}{m/s^2}
+\sisetup{output-decimal-marker={,}, per-mode=symbol, group-minimum-digits=4}
+
+% Operadores con tilde (lím, máx, mín, ínf…). En pdflatex, babel-spanish arma la «í» con
+% la posición de «ı» de la codificación del texto (T1) pero dentro de la fuente de
+% operadores (OT1), donde no existe: salía «lım» sin ningún error. Aquí la tilde se escribe
+% como texto normal (T1 Palatino, que sí tiene «í»). Los operadores llaman a \es@op@ac al
+% componerse, así que basta redefinirlo; también \es@op@ac@base, por si se vuelve a
+% ejecutar \accentedoperators.
+\def\es@op@ac@base#1{\text{\normalfont\'{#1}}}
+\let\es@op@ac\es@op@ac@base
+
+% Conjuntos numéricos
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+% Delimitadores que se ajustan solos: \abs{x}, \norm{v}, \abs*{\frac{a}{b}}
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+% Cálculo: diferencial recto y derivadas
+\newcommand{\dd}{\mathop{}\!\mathrm{d}}                    % \int f(x)\dd x
+\newcommand{\dv}[2]{\frac{\mathrm{d}#1}{\mathrm{d}#2}}     % \dv{y}{x}
+\newcommand{\pdv}[2]{\frac{\partial #1}{\partial #2}}      % \pdv{f}{x}
+\newcommand{\vect}[1]{\vec{#1}}                            % \vect{F}
+\newcommand{\eval}[3]{\left.#1\right|_{#2}^{#3}}           % \eval{F(x)}{a}{b}
+
+% ---------- Gráficas ----------
+\RequirePackage{tikz}
+\usetikzlibrary{arrows.meta,calc,positioning,angles,quotes,patterns}
+\RequirePackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{fillbetween}
+
+% ---------- Colores ----------
+\RequirePackage{xcolor}
+% Paleta pensada para imprimir en blanco y negro: solo tinta y grises.
+\definecolor{mmcAcento}{HTML}{161616}   % tinta (casi negro)
+\definecolor{mmcGris}{HTML}{5A5A5A}     % textos secundarios
+\definecolor{mmcLinea}{HTML}{B8B8B8}    % filetes y renglones
+\definecolor{mmcFondo}{HTML}{F1F1F1}    % fondos muy claros
+\AtBeginDocument{\pagecolor{white}}
+
+% Estilo de ejes: \begin{axis}[mmc] ... \end{axis}
+\pgfplotsset{
+  mmc/.style={
+    axis lines=middle,
+    axis line style={mmcGris, -{Stealth[length=2mm]}},
+    grid=major, grid style={mmcLinea!60, very thin},
+    xlabel={$x$}, ylabel={$y$},
+    every axis x label/.style={at={(ticklabel* cs:1)}, anchor=west},
+    every axis y label/.style={at={(ticklabel* cs:1)}, anchor=south},
+    tick label style={font=\footnotesize, color=mmcGris},
+    /pgf/number format/use comma,
+    width=0.62\linewidth, height=0.42\linewidth,
+    samples=200, smooth, no marks,
+    % En B/N las curvas se distinguen por el trazo, no por el color
+    cycle list={
+      {black, very thick},
+      {black, very thick, dashed},
+      {black!55, very thick},
+      {black, thick, densely dotted}
+    },
+    enlargelimits=0.05,
+  },
+}
+
+% ---------- Utilidades ----------
+\RequirePackage{graphicx}
+\RequirePackage{enumitem}
+\RequirePackage{booktabs,tabularx,array}
+\RequirePackage[most]{tcolorbox}
+\RequirePackage{environ}
+\RequirePackage{needspace}
+\RequirePackage{pifont}             % ✓ y ✗ se pueden escribir directamente
+\DeclareUnicodeCharacter{2713}{\ding{51}}
+\DeclareUnicodeCharacter{2717}{\ding{55}}
+\RequirePackage{fancyhdr}
+\RequirePackage{lastpage}
+\RequirePackage{xfp}
+\RequirePackage{xr-hyper}           % referencias a otro documento (clase -> guía)
+\RequirePackage[hidelinks]{hyperref}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\setlist{itemsep=0.25em, topsep=0.4em}
+
+% ---------- Datos fijos ----------
+\newcommand{\mmc@docente}{María Mercedes Cantillo}
+\newcommand{\mmc@colegio}{Colegio San Alberto Magno}
+\newcommand{\mmc@area}{Área de Matemáticas}
+\newcommand{\mmc@logo}{logo-colegio.png}
+
+% ---------- Variables del documento ----------
+% Se definen en cada archivo: \asignatura{Cálculo}, \grado{11°}, ...
+\newcommand{\mmc@asignatura}{Matemáticas}
+\newcommand{\mmc@tipo}{Documento}
+\newcommand{\mmc@titulo}{}
+\newcommand{\mmc@grado}{}
+\newcommand{\mmc@periodo}{}
+\newcommand{\mmc@tiempo}{}
+\edef\mmc@anio{\the\year}
+\newcommand{\asignatura}[1]{\renewcommand{\mmc@asignatura}{#1}}
+\newcommand{\tipodocumento}[1]{\renewcommand{\mmc@tipo}{#1}}
+\newcommand{\titulo}[1]{\renewcommand{\mmc@titulo}{#1}}
+\newcommand{\grado}[1]{\renewcommand{\mmc@grado}{#1}}
+\newcommand{\periodo}[1]{\renewcommand{\mmc@periodo}{#1}}
+\newcommand{\tiempo}[1]{\renewcommand{\mmc@tiempo}{#1}}
+\newcommand{\anio}[1]{\renewcommand{\mmc@anio}{#1}}
+\newcommand{\logo}[1]{\renewcommand{\mmc@logo}{#1}}
+
+% ---------- Encabezado y pie de página ----------
+\newcommand{\mmc@cabecera}{%
+  \fancyhf{}%
+  \fancyhead[L]{%
+    \includegraphics[height=1.15cm]{\mmc@logo}%
+    \hspace{3mm}%
+    \parbox[b]{9cm}{%
+      {\small\color{mmcAcento}\textsc{\textls[60]{\mmc@colegio}}}\\[1pt]
+      {\footnotesize\itshape\color{mmcGris}\mmc@area}}}%
+  \fancyhead[R]{{\small\color{mmcGris}\textls[80]{\mmc@anio}}}%
+  \fancyfoot[L]{\footnotesize\color{mmcGris}%
+    \textbf{\mmc@docente}\enspace·\enspace Docente\enspace·\enspace\mmc@colegio}%
+  \fancyfoot[R]{\footnotesize\color{mmcGris}\thepage\,/\,\pageref*{LastPage}}%
+  \renewcommand{\headrule}{{\color{mmcLinea}\hrule height 0.4pt}\vspace{-0.4pt}}%
+  \renewcommand{\footrule}{{\color{mmcLinea}\hrule height 0.4pt}\vspace{2pt}}%
+  \renewcommand{\headrulewidth}{0.4pt}%
+  \renewcommand{\footrulewidth}{0.4pt}%
+}
+\pagestyle{fancy}
+\mmc@cabecera
+\fancypagestyle{plain}{\mmc@cabecera}
+
+% ---------- Puntos (se suman solos) ----------
+\def\mmc@total{0}
+\AtEndDocument{%
+  \immediate\write\@auxout{\string\gdef\string\mmc@totalfinal{\mmc@total}}}
+% \totalpuntos imprime la suma de los puntos de todas las preguntas
+\newcommand{\totalpuntos}{%
+  \ifdefined\mmc@totalfinal\mmc@totalfinal\else ??\fi}
+
+% ---------- Bloque de título ----------
+% \encabezado            -> título + datos del estudiante
+% \encabezado*           -> título sin datos del estudiante (documentos)
+\newcommand{\mmc@etiqueta}{%
+  \mmc@tipo\enspace·\enspace\mmc@asignatura
+  \ifx\mmc@grado\@empty\else\enspace·\enspace Grado \mmc@grado\fi
+  \ifx\mmc@periodo\@empty\else\enspace·\enspace Periodo \mmc@periodo\fi}
+
+\newcommand{\mmc@titulobloque}{%
+  {\small\bfseries\color{mmcAcento}\MakeUppercase{\textls[120]{\mmc@etiqueta}}}\par
+  \vspace{0.1em}
+  {\LARGE\bfseries\mmc@titulo\par}
+  \ifx\mmc@hilo\@empty\else
+    \vspace{0.15em}{\large\itshape\color{mmcGris}\mmc@hilo\par}%
+  \fi
+  \vspace{0.3em}
+}
+% Subtítulo con el hilo conductor (guías): \hiloconductor{La carrera por el cálculo}
+\newcommand{\mmc@hilo}{}
+\newcommand{\hiloconductor}[1]{\renewcommand{\mmc@hilo}{#1}}
+
+\newcommand{\mmc@datosestudiante}{%
+  \begin{tcolorbox}[enhanced, frame hidden, sharp corners,
+      colback=mmcFondo, left=4mm, right=4mm, top=3mm, bottom=3mm,
+      borderline west={2pt}{0pt}{mmcAcento}]
+    \setlength{\parskip}{0pt}%
+    \textbf{Nombre:}\ \hrulefill\quad
+    \textbf{Fecha:}\ \makebox[2.8cm]{\hrulefill}\\[0.9em]
+    \textbf{Curso:}\ \makebox[2cm]{\hrulefill}\hfill
+    \ifx\mmc@tiempo\@empty\else\textbf{Tiempo:}\ \mmc@tiempo\hfill\fi
+    \textbf{Nota:}\ \makebox[1.6cm]{\hrulefill}%
+    \ifdefined\mmc@totalfinal
+      \ifdim\mmc@totalfinal pt>0pt\ /\ \num{\mmc@totalfinal}\fi
+    \fi
+  \end{tcolorbox}%
+}
+
+\newcommand{\encabezado}{\@ifstar{\mmc@titulobloque\vspace{0.4em}}%
+  {\mmc@titulobloque\mmc@datosestudiante\vspace{0.4em}}}
+
+% ---------- Instrucciones ----------
+\newtcolorbox{instrucciones}{enhanced, frame hidden, sharp corners,
+  colback=white, left=4mm, right=2mm, top=1mm, bottom=1mm,
+  borderline west={1pt}{0pt}{mmcLinea},
+  fontupper=\small\itshape\color{black!80},
+  before upper={{\upshape\bfseries\color{mmcAcento}Instrucciones.}\ }}
+
+% ---------- Secciones ----------
+% \seccion{Selección múltiple} -> separador con título en versalitas
+\newcommand{\seccion}[1]{%
+  \par\vspace{0.9em}\Needspace{6\baselineskip}%
+  {\color{mmcAcento}\bfseries\large#1}\par\vspace{-0.8em}%
+  {\color{mmcLinea}\rule{\linewidth}{0.4pt}}\par\vspace{0.2em}}
+
+% ---------- Preguntas ----------
+% \begin{preguntas}
+%   \pregunta[2] Enunciado...
+% \end{preguntas}
+% La numeración continúa entre bloques; los puntos son opcionales y se
+% imprimen en el margen derecho.
+\newcounter{pregunta}
+\newcommand{\mmc@numero}[1]{%
+  \tikz[baseline=(n.base)]\node[circle, fill=mmcAcento, text=white,
+    inner sep=0pt, minimum size=1.45em, font=\footnotesize\bfseries](n){#1};}
+\newenvironment{preguntas}{%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{2.1em}\setlength{\labelwidth}{1.5em}%
+    \setlength{\labelsep}{0.6em}\setlength{\itemsep}{1.3em}%
+    \setlength{\topsep}{0.6em}\setlength{\parsep}{0.4em}}%
+}{\end{list}}
+\newcommand{\pregunta}[1][]{%
+  \stepcounter{pregunta}%
+  \item[\mmc@numero{\thepregunta}]%
+  \if\relax\detokenize{#1}\relax\else
+    \xdef\mmc@total{\fpeval{\mmc@total+#1}}%
+    \leavevmode\rlap{\hskip\linewidth\hskip4mm%
+      {\footnotesize\color{mmcGris}\num{#1}\,\ifdim#1pt=1pt pt\else pts\fi}}%  % 1,5 pts (coma decimal)
+  \fi
+  \ignorespaces}
+
+% ---------- Opciones de selección múltiple ----------
+% \begin{opciones} \item ... \end{opciones}        -> una debajo de otra
+% \begin{opciones*}(4) \item ... \end{opciones*}   -> en columnas (2 por defecto)
+\newlist{opciones}{enumerate}{1}
+\setlist[opciones]{label=\textbf{\color{mmcAcento}\alph*)}, leftmargin=2em,
+  itemsep=0.2em, topsep=0.3em}
+\RequirePackage{tasks}
+\NewTasksEnvironment[label=\textbf{\color{mmcAcento}\alph*)},
+  label-width=1.3em, item-indent=1.8em, column-sep=1em,
+  before-skip=0.3em, after-skip=0.1em]{opciones*}[\item](2)
+
+% ---------- Espacio para responder ----------
+% \espacio{4cm}   -> espacio en blanco
+% \renglones{3}   -> renglones para escribir
+\newcommand{\espacio}[1]{\par\vspace*{#1}}
+\newcommand{\renglones}[1]{%
+  \par\vspace{0.3em}%
+  \foreach \i in {1,...,#1}{%
+    {\color{mmcLinea}\rule{\linewidth}{0.4pt}}\par\vspace{0.7em}}}
+
+% ---------- Soluciones (clave de respuestas) ----------
+% Escribe \mostrarsoluciones en el preámbulo para imprimir la clave.
+% \begin{solucion}[4cm] ... \end{solucion}: si las soluciones están
+% ocultas, deja 4cm en blanco para que el estudiante responda.
+\newif\ifmmc@soluciones
+\newcommand{\mostrarsoluciones}{\mmc@solucionestrue}
+% Para generar la clave sin editar el archivo:
+%   pdflatex -jobname=quiz-clave "\def\clave{}\input{quiz}"
+\ifdefined\clave\mmc@solucionestrue\fi
+\NewEnviron{solucion}[1][0pt]{%
+  \ifmmc@soluciones
+    \begin{tcolorbox}[enhanced, frame hidden, sharp corners,
+        colback=mmcFondo, left=3mm, right=3mm, top=1.5mm, bottom=1.5mm,
+        borderline west={2pt}{0pt}{mmcAcento},
+        before upper={{\bfseries Solución.}\ }]
+      \BODY
+    \end{tcolorbox}%
+  \else
+    \vspace*{#1}%
+  \fi}
+
+% ---------- Cajas para documentos (guías, talleres, notas) ----------
+\tcbset{mmccaja/.style={enhanced, breakable, frame hidden, sharp corners,
+  left=3mm, right=3mm, top=2mm, bottom=2mm,
+  detach title, before upper={\tcbtitle.\ }}}
+
+% \begin{definicion}[Límite] ... \end{definicion}
+\newtcolorbox[auto counter]{definicion}[1][]{mmccaja,
+  colback=mmcFondo, borderline west={2pt}{0pt}{mmcAcento},
+  coltitle=mmcAcento, fonttitle=\bfseries,
+  title={Definición~\thetcbcounter\if\relax\detokenize{#1}\relax\else\ (#1)\fi}}
+\newtcolorbox[auto counter]{teorema}[1][]{mmccaja,
+  colback=white, borderline={0.6pt}{0pt}{mmcAcento},
+  coltitle=mmcAcento, fonttitle=\bfseries, fontupper=\itshape,
+  title={Teorema~\thetcbcounter\if\relax\detokenize{#1}\relax\else\ (#1)\fi}}
+\newtcolorbox[auto counter]{ejemplo}[1][]{mmccaja,
+  colback=white, borderline west={1pt}{0pt}{mmcGris},
+  coltitle=mmcGris, fonttitle=\bfseries,
+  title={Ejemplo~\thetcbcounter\if\relax\detokenize{#1}\relax\else\ (#1)\fi}}
+\newtcolorbox{nota}{mmccaja,
+  colback=mmcFondo, borderline west={1pt}{0pt}{mmcGris},
+  coltitle=mmcGris, fonttitle=\bfseries\itshape, title={Nota}}
+
+% =====================================================================
+% Guía del estudiante (trimestral)
+% =====================================================================
+
+% Frase introductoria: \frase{texto}{Autor, \emph{Obra} (año)}
+\newcommand{\frase}[2]{%
+  \par\vspace{0.8em}%
+  \begin{center}\begin{minipage}{0.82\linewidth}
+    \setlength{\parskip}{0.4em}%
+    {\color{mmcLinea}\rule{\linewidth}{0.4pt}}\par
+    {\large\itshape «#1»\par}
+    {\raggedleft\small\color{mmcGris}--- #2\par}
+    {\color{mmcLinea}\rule{\linewidth}{0.4pt}}\par
+  \end{minipage}\end{center}
+  \vspace{0.4em}}
+
+% DBA oficial (texto literal de dba/): \begin{dba}[Grado 11 · DBA 5] ... \end{dba}
+\newtcolorbox{dba}[1][]{mmccaja,
+  colback=white, borderline={0.4pt}{0pt}{mmcLinea},
+  coltitle=mmcAcento, fonttitle=\bfseries,
+  title={Derecho Básico de Aprendizaje\if\relax\detokenize{#1}\relax\else\ (#1)\fi}}
+
+% Cita textual en el marco teórico: \begin{cita}{Autor, fuente~\cite{clave}} ... \end{cita}
+\NewDocumentEnvironment{cita}{m}
+  {\begin{quote}\itshape «\ignorespaces}
+  {\unskip»\par\nopagebreak\vspace{0.2em}%
+   {\upshape\small\color{mmcGris}\raggedleft--- #1\par}\end{quote}}
+
+% Paso del hilo conductor al inicio de cada tema
+\newtcolorbox{hilo}{mmccaja,
+  colback=mmcFondo, borderline west={3pt}{0pt}{mmcGris},
+  coltitle=mmcAcento, fonttitle=\bfseries\upshape, fontupper=\itshape,
+  title={Hilo conductor}}
+
+% Aplicación real del tema: \begin{aplicacion}[Robótica] ... \end{aplicacion}
+\newtcolorbox{aplicacion}[1][]{mmccaja,
+  colback=white, borderline={0.6pt}{0pt}{mmcAcento, dashed},
+  coltitle=mmcAcento, fonttitle=\bfseries,
+  title={¿Para qué sirve?\if\relax\detokenize{#1}\relax\else\ #1\fi}}
+
+% Resumen al final de cada tema (recuadro)
+\newtcolorbox{resumen}{enhanced, sharp corners,
+  colback=white, colframe=mmcAcento, boxrule=0.8pt,
+  colbacktitle=mmcAcento, coltitle=white,
+  fonttitle=\bfseries\small, title={\textls[100]{EN RESUMEN}},
+  left=3mm, right=3mm, top=1.5mm, bottom=1.5mm,
+  before upper={\setlength{\parskip}{0.2em}}}
+
+% Tema numerado: \tema{La pendiente}\label{tema:pendiente}
+\newcounter{tema}
+\newcommand{\tema}[1]{%
+  \par\vspace{1.4em}\Needspace{8\baselineskip}%
+  \refstepcounter{tema}%
+  {\small\bfseries\color{mmcGris}\textls[120]{TEMA \thetema}}\par
+  \vspace{-0.3em}%
+  {\Large\bfseries\color{mmcAcento}#1\par}%
+  \vspace{-0.6em}%
+  {\color{mmcAcento}\rule{\linewidth}{0.8pt}}\par\vspace{0.3em}}
+
+% Referencias: \begin{referencias} \bibitem{clave} ... \end{referencias}
+\newenvironment{referencias}{%
+  \seccion{Referencias}%
+  \begingroup\renewcommand{\section}[2]{}\small
+  \begin{thebibliography}{99}}
+  {\end{thebibliography}\endgroup}
+
+% ---------- Secciones institucionales (formato FPLAN) ----------
+% \matrizevaluacion{cognitiva}{procedimental}{socioafectiva}{trascendente}
+\newcommand{\mmc@casilla}{\large$\square$}
+% Imprime también el título de sección, para que nunca quede solo al pie de página.
+\newcommand{\matrizevaluacion}[4]{%
+  \par\Needspace{24\baselineskip}% título + matriz completa (filas de varias líneas)
+  \seccion{Evaluación del periodo}%
+  \subsubsection*{Matriz de evaluación formativa}
+  {\small\renewcommand{\arraystretch}{1.5}%
+  \begin{tabularx}{\linewidth}{@{}l X c c c@{}}
+    \toprule
+    \textbf{Dimensión} & \textbf{Criterio de evaluación} &
+    \textbf{Lo logré} & \textbf{Voy en camino} & \textbf{Necesito apoyo}\\
+    \midrule
+    Cognitiva (Saber)        & #1 & \mmc@casilla & \mmc@casilla & \mmc@casilla\\
+    Procedimental (Hacer)    & #2 & \mmc@casilla & \mmc@casilla & \mmc@casilla\\
+    Socioafectiva (Ser)      & #3 & \mmc@casilla & \mmc@casilla & \mmc@casilla\\
+    Trascendente (Convivir)  & #4 & \mmc@casilla & \mmc@casilla & \mmc@casilla\\
+    \bottomrule
+  \end{tabularx}}\par}
+
+\newcommand{\autoevaluacion}{%
+  \Needspace{10\baselineskip}%
+  \subsubsection*{Autoevaluación y reflexión metacognitiva}
+  Lo que más me gustó de esta guía fue:\renglones{1}
+  La mayor dificultad que tuve y cómo la superé:\renglones{2}
+  Mi compromiso para el próximo periodo es:\renglones{1}}
+
+\newcommand{\seguimientodocente}{%
+  \Needspace{12\baselineskip}%
+  \subsubsection*{Seguimiento y apoyos \normalfont\small(diligenciado por el docente)}
+  \textbf{Nivel de desempeño alcanzado:}\quad
+  $\square$ Inicial\quad $\square$ En proceso\quad $\square$ Consolidado\par
+  \textbf{Ajustes DUA/PIAR aplicados:}\renglones{2}
+  \textbf{Observaciones y recomendaciones:}\renglones{2}
+  \vspace{1.5em}
+  \noindent\makebox[0.42\linewidth]{\hrulefill}\hfill\makebox[0.42\linewidth]{\hrulefill}\\
+  \makebox[0.42\linewidth]{\small Firma del estudiante}\hfill
+  \makebox[0.42\linewidth]{\small Firma del docente}\par}
+
+% ---------- Referencias desde una clase a la guía del estudiante ----------
+% En el preámbulo de clase.tex:
+%   \guiadelestudiante{../../guia-didactica/guia-periodo-I-derivadas}
+% (ruta al .tex de la guía, sin extensión; la guía debe estar compilada y
+% conservar su .aux). En el texto:  \refguia{tema:pendiente}
+%   -> «Guía del estudiante, Tema 1 (p. 3)»
+\newcommand{\guiadelestudiante}[1]{\externaldocument[guia:]{#1}}
+\newcommand{\refguia}[1]{%
+  \emph{Guía del estudiante}, Tema~\ref{guia:#1} (p.~\pageref{guia:#1})}
+
+\endinput

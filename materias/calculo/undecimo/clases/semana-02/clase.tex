@@ -1,0 +1,149 @@
+% =====================================================================
+% Clase -- Cálculo 11° -- Trimestre I -- Semana 02
+% Sesiones 003 (lun 10 ago., 100 min), 004 (jue 13 ago., 55 min), 005 (vie 14 ago., 50 min)
+% Tema 1 de la guía: Los sistemas numéricos
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Clase}
+\asignatura{Cálculo}
+\titulo{Semana 2: propiedades, comparación y representaciones}
+\grado{11°}
+\periodo{I}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias trabajadas: (1) describe propiedades comunes y diferentes de los sistemas
+%      numéricos; (3) construye representaciones de los conjuntos numéricos y establece
+%      relaciones acordes con sus propiedades.
+% Recurso: recursos/matematicas/Guías pedagógicas Matemáticas/08 - Modulo_Matematicas_Octavo.docx
+%      (Tema 1: la propiedad distributiva como área de un rectángulo dividido en dos)
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  003 & lun 10 ago., 07:50 & 100 & Propiedades de las operaciones en $\N$, $\Z$ y $\Q$ & Taller 2\\
+  004 & jue 13 ago., 06:55 & 55  & Comparación de los sistemas numéricos & Quiz 1\\
+  005 & vie 14 ago., 13:40 & 50  & Representaciones de los conjuntos numéricos & Tarea 2 (para el jue 20 ago.)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\small El lunes 17 de agosto es festivo: la Tarea 2 se entrega el jueves 20. \normalsize
+Referencia: \refguia{tema:sistemas}.
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 003 — lunes 10 de agosto · 07:50 · 100 min}
+
+\textbf{Objetivo.} Identificar qué propiedades de las operaciones se cumplen en cada sistema
+numérico y cuáles no, y justificarlo con contraejemplos.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Tarea 1 & 0–15 & Comparan respuestas en parejas; resuelve en el tablero los puntos 2d
+    ($2{,}\overline{1} = \frac{19}{9}$) y 4 ($\frac{1}{7}$ y los restos).\\
+  Explicación & 15–45 & Propiedades: cerradura, conmutativa, asociativa, distributiva,
+    neutro, inverso aditivo e inverso multiplicativo. Construye con el grupo la tabla de
+    abajo, pidiendo un contraejemplo para cada casilla que no se cumple. La distributiva se
+    muestra como el área de un rectángulo de $6 \times (10 + 4)$ partido en dos.\\
+  Discusión & 45–55 & ¿Por qué no se divide por cero? Si $\frac{5}{0} = b$, entonces
+    $5 = 0 \cdot b = 0$, absurdo; y $\frac{0}{0}$ podría ser cualquier número.\\
+  Taller 2 & 55–90 & En parejas.\\
+  Cierre & 90–100 & Cada pareja dice una propiedad que se cumple en $\Q$ y no en $\Z$
+    (inverso multiplicativo; cerradura de la división).\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\textbf{Tabla que se construye con el grupo} (✓ se cumple, ✗ no se cumple):
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{lccc}
+  \toprule
+  & $\N$ & $\Z$ & $\Q$\\
+  \midrule
+  Suma y multiplicación cerradas, conmutativas y asociativas & ✓ & ✓ & ✓\\
+  Resta cerrada & ✗ ($3 - 5$) & ✓ & ✓\\
+  División cerrada (divisor $\neq 0$) & ✗ & ✗ ($3 \div 5$) & ✓\\
+  Todo número tiene opuesto (inverso aditivo) & ✗ & ✓ & ✓\\
+  Todo número $\neq 0$ tiene inverso multiplicativo & ✗ & ✗ ($\frac{1}{2} \notin \Z$) & ✓\\
+  \bottomrule
+\end{tabular}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 004 — jueves 13 de agosto · 06:55 · 55 min}
+
+\textbf{Objetivo.} Comparar y ordenar números de distintos sistemas y reconocer la cadena
+$\N \subset \Z \subset \Q$.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Repaso & 0–20 & Tres formas de comparar racionales: común denominador, productos
+    cruzados ($\frac{a}{b} < \frac{c}{d} \iff ad < bc$ si $b, d > 0$) y expresión decimal.
+    Ejemplo: $\frac{5}{7}$ y $\frac{7}{10}$: $50 > 49$, así que $\frac{5}{7} > \frac{7}{10}$.
+    Con negativos: $-\frac{3}{4} > -0{,}8$ porque $-0{,}75$ está a la derecha de $-0{,}8$.\\
+  Dudas & 20–30 & Preguntas sobre el Taller 2 y la tabla de propiedades.\\
+  Quiz 1 & 30–50 & Individual, 20 minutos.\\
+  Cierre & 50–55 & Se recogen los quices. Pregunta para el viernes: ¿«los números mayores
+    que 5» son $6, 7, 8, \ldots$?\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 005 — viernes 14 de agosto · 13:40 · 50 min}
+
+\textbf{Objetivo.} Representar los conjuntos numéricos de varias formas (por extensión, por
+comprensión, en la recta, con diagramas) y reconocer cuándo dos representaciones describen
+el mismo conjunto. Es la última hora del viernes: sesión activa, en grupos.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Situación & 0–10 & Adaptada del ejemplo del DBA 1: en el tablero,
+    (a) $\{6, 7, 8, \ldots\}$, (b) una recta con todo lo que está a la derecha de 5,
+    (c) «los números mayores que cinco». Federico dice que las tres representan lo mismo.
+    ¿Tiene razón? \emph{(No: (a) solo tiene naturales; (b) incluye $5{,}1$, $\frac{11}{2}$,
+    etc.; (c) es ambigua hasta decir en qué conjunto trabajamos.)}\\
+  Grupos & 10–35 & Grupos de 4. Cada grupo recibe un conjunto (los enteros entre $-3$ y 3;
+    los racionales entre 0 y 1; los naturales pares; los enteros negativos) y lo representa
+    en un pliego de cuatro maneras: extensión, comprensión, recta y diagrama de Venn
+    $\N \subset \Z \subset \Q$ ubicando tres de sus elementos.\\
+  Galería & 35–45 & Los carteles se pegan en la pared; cada grupo revisa el de otro y deja
+    una pregunta escrita.\\
+  Cierre & 45–50 & ¿Qué conjunto no se pudo escribir por extensión? (Los racionales entre 0 y
+    1: son infinitos y no hay «siguiente»; se verá en el Tema 2.) Se asigna la Tarea 2 para
+    el jueves 20.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+Lleva pliegos de papel y marcadores. Si el tiempo no alcanza para la galería, cada grupo
+presenta su cartel en un minuto.
+\end{nota}
+
+\end{document}

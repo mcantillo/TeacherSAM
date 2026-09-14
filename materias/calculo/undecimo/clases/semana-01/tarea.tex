@@ -1,0 +1,78 @@
+% =====================================================================
+% Tarea 1 -- Cálculo 11° -- Trimestre I -- Semana 01
+% Se asigna el jue 6 ago. (sesión 002); se revisa el lun 10 ago. (sesión 003)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Tarea}
+\asignatura{Cálculo}
+\titulo{Tarea 1: los números racionales}
+\grado{11°}
+\periodo{I}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: lunes 10 de agosto. Consulta la \refguia{tema:sistemas}. Escribe todos los
+procedimientos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta Escribe cada fracción como decimal y di si el decimal es finito o periódico:
+\begin{opciones*}(4)
+  \item $\dfrac{3}{8}$
+  \item $\dfrac{5}{6}$
+  \item $\dfrac{7}{11}$
+  \item $\dfrac{2}{5}$
+\end{opciones*}
+\begin{solucion}[3cm]
+a) $0{,}375$ (finito). b) $0{,}8\overline{3}$ (periódico). c) $0{,}\overline{63}$
+(periódico). d) $0{,}4$ (finito).
+\end{solucion}
+
+\pregunta Escribe cada decimal como fracción irreducible:
+\begin{opciones*}(4)
+  \item $0{,}75$
+  \item $0{,}\overline{6}$
+  \item $0{,}\overline{27}$
+  \item $2{,}\overline{1}$
+\end{opciones*}
+\begin{solucion}[4cm]
+a) $\frac{3}{4}$. b) $10x - x = 6$, $x = \frac{6}{9} = \frac{2}{3}$. c) $100x - x = 27$,
+$x = \frac{27}{99} = \frac{3}{11}$. d) $2 + \frac{1}{9} = \frac{19}{9}$.
+\end{solucion}
+
+\pregunta Ubica en la recta los números $\frac{1}{2}$, $-\frac{3}{4}$ y $\frac{5}{3}$.
+\begin{center}
+\begin{tikzpicture}[scale=1.6]
+  \draw[->] (-2.4,0) -- (2.4,0);
+  \foreach \x in {-2,...,2} \draw (\x,0.07) -- (\x,-0.07) node[below] {$\x$};
+\end{tikzpicture}
+\end{center}
+\begin{solucion}
+$-\frac{3}{4}$ entre $-1$ y $0$ (tres cuartos del camino hacia $-1$); $\frac{1}{2}$ en la
+mitad entre $0$ y $1$; $\frac{5}{3} \approx 1{,}67$ entre $1$ y $2$.
+\end{solucion}
+
+\pregunta Divide $1 \div 7$ hasta que aparezca un patrón. ¿Por qué los decimales tienen que
+repetirse? (Pista: ¿cuántos restos distintos puede dar una división entre 7?)
+\renglones{3}
+\begin{solucion}
+$\frac{1}{7} = 0{,}\overline{142857}$. Al dividir entre 7 los restos solo pueden ser
+$1, 2, \ldots, 6$ (si fuera 0, la división terminaría); en a lo más 6 pasos un resto se
+repite y desde ahí se repiten las cifras.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

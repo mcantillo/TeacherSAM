@@ -1,0 +1,2384 @@
+Guía de orientación
+del Examen Saber 11º
+
+2026-1
+Calendario B
+Guía de orientación                                    Presidente de la República
+                                                       Gustavo Francisco Petro Urrego
+Saber 11º                                              Ministro de Educación Nacional
+2026-1                                                 José Daniel Rojas Medellín
+
+                                                       Viceministra de Educación Preescolar,
+                                                       Básica y Media (E)
+                                                       Lucy Maritza Molina Acosta
+
+Publicación del Instituto Colombiano para la
+Evaluación de la Educación (Icfes)                     Directora General
+© Todos los derechos de autor reservados,              Elizabeth Blandón Bermúdez
+Icfes, 2026                                            Secretario General
+                                                       Luis Gonzaga Martínez Sierra
+Bogotá, D. C., diciembre de 2025
+                                                       Director Técnico de Evaluación
+                                                       Gustavo Andrés Monsalve Londoño
+ADVERTENCIA
+                                                       Directora Técnica de Producción y Operaciones
+Todo el contenido es propiedad exclusiva               Luz Patricia Loaiza Cruz
+y reservada del Icfes y es el resultado de             Director Técnico de Tecnología e Información
+investigaciones y obras protegidas por la              Luis Rodrigo Cadavid Durán
+legislación nacional e internacional. No se autoriza
+                                                       Subdirector de Diseño de Instrumentos
+su reproducción, utilización ni explotación a
+ningún tercero. Solo se autoriza su uso para fines
+                                                       Heider Martínez Mena
+exclusivamente académicos. Esta información no         Subdirector de Estadísticas
+podrá ser alterada, modificada o enmendada.            Cristian Fabián Montaño Rincón
+                                                       Subdirectora de Análisis y Divulgación
+                                                       Alejandra Neira Aroca
+
+
+
+
+                                                                                                      2
+                                            Corrección de estilo                 Asesores externos
+                                            Juan Camilo Gómez Barrera
+
+                                            Diseño y diagramación
+                                                                                 Lectura Crítica
+                                            Linda Nathaly Sarmiento Olaya
+                                                                                 Lizeth Donoso Herrera
+                                                                                 Alfonso Cabanzo Vargas
+                                            Equipo de la Subdirección de
+                                            Diseño de Instrumentos
+                                            Martha Jeanet Castillo Ballén
+                                                                                 Matemáticas
+                                            Yuly Paola Martínez Sánchez
+                                                                                 Óscar Felipe Bernal Pedraza
+Este documento se elaboró a partir          Yuliana Andrea López Agudelo
+de los documentos conceptuales de                                                Reinaldo José Bernal Velásquez
+                                            Cristian Hernando González Runza
+cada prueba, con la participación de                                             Carlos Eduardo Vasco
+                                            Óscar Alejandro Chaparro Gutiérrez
+los equipos de gestores del Icfes y de
+                                            Alfonso Arturo Conde Rivera
+asesores externos.
+                                            Maria del Pilar Soler Parra          Sociales y Ciudadanas
+NOTA
+                                            Néstor Andrés Naranjo Ramírez        Jorge Andrés Mejía Delgadillo
+                                            Daisy Pilar Ávila Torres
+En el contenido de la guía encontrará el    Juan Esteban Castañeda
+ícono de hipervínculo , el cual simboliza   Raúl David Torres Reyes              Ciencias Naturales
+que el texto resaltado que lo acompaña      Eider Fabián Sánchez Mejía           Carlos Arturo Ávila Bernal
+es un link al que puede acceder para más    Olga Julieth Osman Cabezas           Isabel Cristina Perilla de Zambrano
+información.
+                                            Jorge Durley Trujillo Diaz           Javier Sunyer MacLennan
+Ejemplo:                                    Jenny Laudice Delgado Barragán
+  www.icfes.gov.co                          Juan Camilo Gómez Barrera
+                                            Gabriel Alejandro Bernal Rojas       Inglés
+                                            Manuel Alejandro Amado González      Carlos Rico Troncoso
+
+
+
+
+                                                                                                                       3
+                                                                                                                                     Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Términos y condiciones de uso para
+publicaciones y obras de propiedad del Icfes
+
+El Instituto Colombiano para la Evaluación de la Educación (Icfes) pone                    En todo caso, cuando se haga uso parcial o total de los contenidos de
+a disposición de la comunidad educativa y del público en general, de                       esta publicación del Icfes, el usuario deberá hacer referencia a los créditos
+forma gratuita y libre de cualquier cargo, un conjunto de publicaciones a                  institucionales, respetando los derechos de autoría y su correspondiente
+través de su portal www.icfes.gov.co. Dichos materiales y documentos                       referencia. Las obras del Icfes se podrán utilizar con los fines aquí previstos,
+están normados por la presente política y están protegidos por derechos                    transcribiendo los pasajes necesarios y citando siempre al Icfes como
+de propiedad intelectual y derechos de autor a favor del Icfes. Si tiene                   fuente de autor; siempre que los pasajes no sean tantos y tan seguidos
+conocimiento de alguna utilización contraria a lo establecido en estas                     que, razonadamente, puedan considerarse una reproducción simulada y
+condiciones de uso, por favor, infórmenos al correo prensaicfes@icfes.gov.co.              sustancial que redunde en perjuicio del Icfes.
+
+
+Queda prohibido el uso o publicación total o parcial de este material                      Asimismo, los logotipos institucionales son marcas registradas y de
+con fines de lucro. Únicamente está autorizado su uso para fines                           propiedad exclusiva del Icfes. Por tanto, ningún tercero podrá usar las
+académicos e investigativos. Ninguna persona, natural o jurídica, nacional                 marcas de propiedad del Icfes ni signos idénticos o similares respecto de
+o internacional, podrá vender, distribuir, alquilar, reproducir, transformar1,             cualesquiera productos o servicios prestados por esta entidad, cuando
+promocionar o realizar acción alguna, de la cual se lucre directa o                        su uso pueda causar confusión. En todo caso, este queda prohibido sin
+indirectamente, con este material.                                                         previa autorización expresa del Icfes. La infracción de estos derechos se
+                                                                                           perseguirá civil y penalmente, de acuerdo con las leyes nacionales y los
+                                                                                           tratados internacionales aplicables.
+     1   La transformación es la modificación de la obra a través de la creación de
+     adaptaciones, traducciones, compilaciones, actualizaciones, revisiones y, en
+     general, cualquier modificación que de esta se pueda realizar, de modo que el         El Icfes realizará cambios o revisiones periódicas a los presentes términos
+     producto resultante se constituya en una nueva obra derivada, protegida por           de uso y los actualizará en esta publicación.
+     el derecho de autor, con la única diferencia respecto de la original de que aquella
+     requiere, para su realización, de la autorización expresa del autor o propietario
+     para adaptar, traducir, compilar, etcétera. En este caso, el Icfes prohíbe la         El Icfes adelantará las acciones legales pertinentes por cualquier
+     transformación de esta publicación.                                                   violación a estas políticas y condiciones de uso.
+
+
+                                                                                                                                                                                          4
+                                                                                                                                                                                           Contenido      Presentación    Características   Especificaciones
+
+
+
+
+Contenido
+Presentación ................................................................................................   8        3. Situaciones o contextos de la prueba ...................................                                          37
+Características del examen Saber 11º .......................................                                    9        4. Estructura de la prueba ..............................................................                            38
+   A. ¿Cuáles son los objetivos de Saber 11º? ..............................                                    9    B. Lectura Crítica ................................................................................                      39
+   B. ¿A quiénes evalúa? ......................................................................                 10       1. Competencia evaluada ...............................................................                              39
+   C. Estructura del examen ................................................................                    10           a. Identificar y ubicar información .........................................                                    40
+      a. Cuadernillo estándar .............................................................                     12           b. Relacionar e interpretar información ...............................                                          41
+      b. Cuadernillo para miembros de comunidades                                                                            c. Evaluar y reflexionar sobre el contenido y la forma
+      indígenas o de grupos étnicos .................................................                           13           del texto ...........................................................................................            42
+      c. Cuadernillo con ajustes razonables para personas                                                                2. Tipos de textos utilizados ..........................................................                             43
+      con discapacidad ..........................................................................               14       3. Estructura de la prueba ..............................................................                            45
+      d. Cuadernillo para población Pre Saber ............................                                      24   C. Sociales y Ciudadanas .................................................................                               46
+      e. Cuadernillo para población validantes y validantes                                                              1. Competencias evaluadas ...........................................................                                46
+      con discapacidad que seleccionan cuadernillo general ...                                                  25           a. Pensamiento social ................................................................                           47
+      f. Cuadernillo para población individuales e individuales                                                              b. Interpretación y análisis de perspectivas .......................                                             49
+      con discapacidad que seleccionan cuadernillo general ...                                                  25           c. Pensamiento reflexivo y sistémico ...................................                                         51
+      g. Cuadernillo para población penitenciarios y                                                                     2. Estructura de la prueba ..............................................................                            53
+      peniteniciarios con discapacidad que seleccionan                                                               D. Ciencias Naturales ........................................................................                           54
+      cuadernillo general .......................................................................               26       1. Competencias evaluadas ...........................................................                                54
+   D. Tipos de pregunta ........................................................................                27           a. Explicación de fenómenos ..................................................                                   55
+   E. Materiales del examen ................................................................                    27           b. Uso comprensivo del conocimiento científico ..............                                                    57
+                                                                                                                             c. Indagación .................................................................................                  59
+Especificaciones de las pruebas ..................................................                              29       2. Componentes evaluados ...........................................................                                 61
+A. Matemáticas ...................................................................................              30       3. Estructura de la prueba ..............................................................                            62
+   1. Competencias evaluadas ...........................................................                        30   E. Inglés .................................................................................................              63
+      a. Interpretación y representación ........................................                               31       1. Partes de la prueba ......................................................................                        63
+        b. Formulación y ejecución ......................................................                       32   F. Cuestionarios auxiliares ................................................................                             67
+        c. Argumentación ........................................................................               33       1. Cuestionario socioeconómico ..................................................                                    67
+     2. Contenidos matemáticos curriculares ...................................                                 34       2. Cuestionario clima escolar .........................................................                              68
+
+                                                                                                                                                                                                                                                    5
+                                                                                                                                                                                                 Contenido      Presentación     Características   Especificaciones
+
+
+
+
+Índice de figuras y tablas
+Figura 1. Sesiones de Saber 11º ..........................................................                           11   Tabla 7. Estructura del cuadernillo sin la prueba de Inglés con
+Figura 2. Tipos de discapacidad ...........................................................                          15   ajustes razonables para población con discapacidad auditiva
+Figura 3. Ejemplo del formato de hoja de respuestas (frontal) ..                                                     28   (usuarios de lengua de señas) ...............................................................                              22
+Figura 4. Diseño Centrado en Evidencias .........................................                                    29   Tabla 8. Estructura del cuadernillo con la prueba de Inglés con
+                                                                                                                          ajustes razonables para población con discapacidad auditiva
+Tabla 1. Estructura del cuadernillo estándar ....................................                                    12   (usuarios de lengua de señas) ...............................................................                              23
+Tabla 2. Estructura del cuadernillo sin la prueba de Inglés para                                                          Tabla 9. Estructura del cuadernillo para estudiantes con
+miembros de comunidades indígenas o de grupos étnicos ........                                                       13   discapacidad auditiva que seleccionan cuadernillo estándar .....                                                           23
+Tabla 3. Estructura del cuadernillo con la prueba de Inglés para                                                          Tabla 10. Estructura del cuadernillo para para población
+miembros de un grupo étnico, donde su segunda lengua es el                                                                Pre Saber ......................................................................................................           24
+castellano ......................................................................................................    13   Tabla 11. Estructura del cuadernillo para población validantes
+Tabla 4. Estructura del cuadernillo sin la prueba de Inglés con                                                           y validantes con discapacidad ...............................................................                              25
+ajustes razonables para estudiantes, validantes, penitenciarios                                                           Tabla 12. Estructura del cuadernillo para población individuales
+e individuales con discapacidad ..........................................................                           19   e individuales con discapacidad ...........................................................                                25
+Tabla 5. Estructura del cuadernillo sin la prueba de Inglés con                                                           Tabla 13. Estructura del cuadernillo para pruebas de
+ajustes razonables para estudiantes, validantes, penitenciarios                                                           competencias genéricas para población penitenciarios y
+e individuales con discapacidad ...........................................................                          20   penitenciarios con discapacidad ...........................................................                                26
+Tabla 6. Estructura del cuadernillo para estudiantes con
+discapacidad cognitiva o visual que seleccionan cuadernillo
+estándar .........................................................................................................   21
+
+
+
+
+                                                                                                                                                                                                                                                           6
+                                                                                                                                                         Contenido      Presentación    Características   Especificaciones
+
+
+
+
+A. Matemáticas                                                                      D. Ciencias Naturales
+Tabla 14. Desagregado de la primera competencia .........................      31   Tabla 28. Desagregado de la primera competencia ......................                                                  55
+Tabla 15. Desagregado de la segunda competencia .......................        32   Tabla 29. Desagregado de la segunda competencia ....................                                                    57
+Tabla 16. Desagregado de la tercera competencia ..........................     33   Tabla 30. Desagregado de la tercera competencia .......................                                                 59
+Figura 5. Contenidos genéricos y no genéricos para las categorías              35   Tabla 31. Distribución de preguntas por competencias y
+Tabla 17. Distribución de preguntas por competencias ...............           38   componentes ...............................................................................................             62
+
+
+B. Lectura Crítica                                                                  E. Inglés
+Tabla 18. Desagregado de la primera afirmación ...........................     40   Figura 5. Niveles de desempeño ..........................................................                               63
+Tabla 19. Desagregado de la segunda afirmación .........................       41   Tabla 32. Distribución de preguntas por partes ..............................                                           63
+Tabla 20. Desagregado de la tercera afirmación ............................    42
+Tabla 21. Tipos de textos utilizados en la prueba ..........................   43   F. Cuestionarios auxiliares
+Tabla 22. Distribución de preguntas aproximada por tipo de texto               44
+Tabla 23. Distribución de preguntas por afirmación ......................      45     Cuestionario clima escolar
+                                                                                    Tabla 33. Desagregado del dominio Ansiedad escolar .................                                                    69
+C. Sociales y Ciudadanas                                                            Tabla 34. Desagregado del dominio Riesgo escolar .....................                                                  70
+Tabla 24. Desagregado de la primera competencia ......................         48   Tabla 35. Desagregado del dominio Protección individual .........                                                       71
+Tabla 25. Desagregado de la segunda competencia ....................           50   Tabla 36. Desagregado del dominio Protección institucional ....                                                         72
+Tabla 26. Desagregado de la tercera competencia .......................        52
+Tabla 27. Distribución de preguntas por competencias ...............           53
+
+
+
+
+                                                                                                                                                                                                                  7
+                                                                                                       Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Presentación
+
+La    Ley 1324 de 2009 le confiere al Instituto Colombiano para la             Definición de “evaluado”
+Evaluación de la Educación (Icfes) la misión de evaluar, mediante exámenes
+                                                                               Persona que presenta el examen. Un evaluado puede ser
+externos estandarizados, la formación que se ofrece en los distintos niveles
+                                                                               estudiante, cuando se trata de una persona inscrita por un
+del servicio educativo. También establece que el Ministerio de Educación
+                                                                               establecimiento educativo, o individual, cuando se inscribe
+Nacional (MEN) define lo que se debe evaluar en estos exámenes.
+                                                                               al examen por su propia cuenta, sin estar vinculado a algún
+                                                                               establecimiento educativo.
+Para cumplir con la misión asignada, el Icfes ha avanzado en la alineación
+del Sistema Nacional de Evaluación Externa Estandarizada (SNEE); que
+posibilita la comparación de los resultados en distintos niveles educativos,   Definición de “examen”
+debido a que los diferentes exámenes evalúan las mismas competencias
+en algunas de las áreas que los conforman.                                     Conjunto de pruebas que presentan los evaluados.
+
+
+¿Para qué sirve esta guía?
+                                                                               Definición de “prueba”
+Hemos creado esta guía de orientación para que, a través de sus dos            Conjunto de preguntas pertenecientes a un área del
+capítulos, los docentes, evaluados, directivos de instituciones educativas     conocimiento, cuyas respuestas evidencian el nivel de
+y demás interesados en el Examen de Estado de la Educación Media,              desarrollo de las competencias adquiridas en el proceso
+Saber 11º, se familiaricen con este. En el primer capítulo se abordan las      de aprendizaje del evaluado.
+características del examen Saber 11º: sus objetivos, la población que se
+evalúa, la estructura y los tipos de preguntas que se aplican; en el segundo
+se describen las pruebas del examen.
+
+
+
+
+                                                                                                                                                            8
+                                                                                                                  Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Características del examen
+Saber 11º
+
+A. ¿Cuáles son los objetivos de Saber 11º?
+
+De acuerdo con el   Decreto 869 de 2010, estos son:                         »   Proporcionar información para el establecimiento de indicadores de
+                                                                                valor agregado, tanto de la educación media como de la educación
+   »   Comprobar el grado de desarrollo de las competencias de los              superior.
+       estudiantes que están por finalizar el grado undécimo de la
+       educación media.                                                     »   Servir como fuente de información para la construcción de
+                                                                                indicadores de calidad de la educación, así como para el ejercicio
+   »   Proporcionar elementos al estudiante para la realización de su           de la inspección y vigilancia del servicio público educativo.
+       autoevaluación y el desarrollo de su proyecto de vida.
+                                                                            »   Proporcionar información a los establecimientos educativos que
+   »   Proporcionar a las instituciones educativas información pertinente       ofrecen educación media para el ejercicio de la autoevaluación y
+       sobre las competencias de los aspirantes a ingresar a programas de       para que realicen la consolidación o reorientación de sus prácticas
+       educación superior, así como sobre las de quienes son admitidos,         pedagógicas.
+       que sirva como base para el diseño de programas de nivelación
+       académica y prevención de la deserción en este nivel.                »   Ofrecer información que sirva como referente estratégico para el
+                                                                                establecimiento de políticas educativas nacionales, territoriales e
+   »   Monitorear la calidad de la educación de los establecimientos            institucionales.
+       educativos del país, con fundamento en los Estándares Básicos de
+       Competencias y los referentes de calidad emitidos por el MEN.
+
+
+
+
+                                                                                                                                                                       9
+                                                                                                                     Contenido   Presentación   Características   Especificaciones
+
+
+
+
+B. ¿A quiénes evalúa?                                                        educativa), características del hogar (dotación de bienes dentro de la
+                                                                             vivienda, estrato socioeconómico, disponibilidad de conexión a internet
+Los estudiantes que estén finalizando el grado undécimo deben presentar      y servicio de televisión por cable) y el tiempo dedicado por la familia al
+el examen Saber 11°. Esto les permite obtener resultados oficiales que los   entretenimiento. La información recopilada, tiene propósitos académicos,
+habilitan para ingresar a la educación superior. Asimismo, de acuerdo con    de investigación y de política pública; por tal razón, las respuestas de
+las    disposiciones vigentes, también pueden presentarlo mayores de 18      los evaluados son de carácter confidencial y no afectan el resultado del
+años de edad que quieran obtener el título de bachiller, cuya aprobación     examen.
+da a lugar a obtener el título y los resultados del Examen Saber 11º.
+
+
+                                                                                            ¡Tenga en cuenta!
+C. Estructura del examen
+                                                                                            Además de esta guía de orientación, en la página web
+El examen se compone de seis pruebas (Matemáticas, Lectura Crítica,                         del Icfes encontrará marcos de referencia, infografías que
+Sociales y Ciudadanas, Ciencias Naturales e Inglés) y un cuestionario                       resumen las competencias evaluadas en cada prueba
+socioeconómico. Este último permite obtener información de factores                         y la caja de herramientas del examen Saber 11º, la
+que pueden incidir en los resultados y en los procesos de enseñanza y                       cual contiene cuadernillos de preguntas y ejemplos de
+aprendizaje de los evaluados, por lo que recolecta información acerca de                    preguntas explicadas, entre otros materiales de interés de
+las características socioeconómicas de los evaluados. En este se indaga                     este examen.
+por características del núcleo familiar (composición, situación laboral y
+
+
+
+
+                                                                                                                                                                        10
+                                                                                                                Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Las seis pruebas del examen se dividen en dos sesiones, como se muestra en la figura 1.
+
+
+   Έ Figura 1. Sesiones de Saber 11º
+
+
+
+
+La estructura de cada sesión puede variar de acuerdo con la versión del cuadernillo que el evaluado presente.
+
+
+
+
+                                                                                                                                                                   11
+                                                                                                           Contenido   Presentación   Características   Especificaciones
+
+
+
+
+a. Cuadernillo estándar
+
+Este cuadernillo es el que presentan todos los estudiantes que no hayan reportado ningún tipo de discapacidad durante el
+proceso de inscripción.
+
+
+   Έ Tabla 1. Estructura del cuadernillo estándar
+
+
+                                                                        Número de preguntas
+                                           Prueba                     Primera          Segunda
+                                                                       sesión           sesión
+                                  Matemáticas                            25               25
+
+                                  Lectura Crítica                        41                -
+
+                                  Sociales y Ciudadanas                  25               25
+
+                                  Ciencias Naturales                     29               29
+
+                                  Cuestionario socioeconómico            11               13
+
+                                  Inglés                                  -               55
+
+                                  Clima escolar                          12               12
+
+                            Total de preguntas                          143               159
+
+                            Tiempo                                  4 h y 30 min     4 h y 30 min
+
+
+
+
+                                                                                                                                                              12
+                                                                                                                   Contenido     Presentación   Características    Especificaciones
+
+
+
+
+b. Cuadernillo para miembros de comunidades indígenas
+   o de grupos étnicos
+
+Los aspirantes que sean reportados durante el proceso de inscripción      Examen Saber 11 si desean o no presentar la prueba Inglés (de acuerdo
+como miembros de comunidades indígenas o de grupos étnicos con            con la Resolución 675 de 2019, art. 28). En consecuencia, podrán
+tradición lingüística propia, para quienes su segunda lengua es el        escoger entre presentar el cuadernillo sin la prueba Inglés (ver tabla 2), o
+castellano, deberán manifestar durante el proceso de inscripción al       el cuadernillo con la prueba Inglés (ver tabla 3).
+
+
+   Έ Tabla 2. Estructura del cuadernillo sin la prueba de Inglés para        Έ Tabla 3. Estructura del cuadernillo con la prueba de Inglés para
+     miembros de comunidades indígenas o de grupos étnicos                     miembros de un grupo étnico, donde su segunda lengua es el
+                                                                               castellano
+
+                                             Número de preguntas
+                Prueba                      Primera          Segunda                                                            Número de preguntas
+                                             sesión           sesión                       Prueba                              Primera                   Segunda
+       Matemáticas                             25               25                                                              sesión                    sesión
+                                                                                  Matemáticas                                    25                               25
+       Lectura Crítica                         41                -
+                                                                                  Lectura Crítica                                41                               -
+       Sociales y Ciudadanas                   25               25
+                                                                                  Sociales y Ciudadanas                          25                               25
+       Ciencias Naturales                      29               29
+                                                                                  Ciencias Naturales                             29                               29
+       Cuestionario socioeconómico             11               13
+                                                                                  Cuestionario socioeconómico                    11                               13
+       Inglés                                   -                -
+                                                                                  Inglés                                          -                               55
+       Clima escolar                           12               12
+                                                                                  Clima escolar                                  12                               12
+  Total de preguntas                          143               104
+                                                                            Total de preguntas                                  143                           159
+  Tiempo                                  4 h y 30 min     4 h y 30 min
+                                                                            Tiempo                                     4 h y 30 min                  4 h y 30 min
+
+
+                                                                                                                                                                         13
+                                                                                                                      Contenido   Presentación   Características   Especificaciones
+
+
+
+
+c. Cuadernillo con ajustes razonables para personas con                       discapacidad. Esta plataforma permite seleccionar diferentes tipos de
+   discapacidad                                                               discapacidad, de acuerdo con los registrados por el Sistema Integrado
+                                                                              de Matrícula (SIMAT). Durante la inscripción, se deberá seleccionar
+De acuerdo con la    Resolución 675 de 2019, los aspirantes que sean          aquella opción que sea más cercana al caso particular (ver figura 2). Una
+reportados durante el proceso de inscripción con alguna discapacidad          vez realizado el proceso de inscripción, el Icfes se comunicará con las
+diferente a la motriz podrán escoger:                                         instituciones educativas para validar la información registrada y aclarar
+                                                                              qué apoyos son necesarios para la presentación del examen.
+    i. El tipo de examen, el cual varía entre el cuadernillo estándar
+       (ver tabla 1) o el cuadernillo con ajustes razonables para las
+       personas con discapacidad.
+                                                                                              Definición de “Prisma”
+    ii. La presentación o no de la prueba Inglés, cuando seleccione
+                                                                                              Plataforma digital a la que acceden las instituciones y los
+        el cuadernillo con ajustes razonables para las personas con
+                                                                                              interesados en inscribirse a los exámenes del Icfes. Entre
+        discapacidad.
+                                                                                              otros procesos, allí se adelanta el registro de evaluados.
+
+
+               ¡Recuerde!
+                                                                                             ¡Tenga en cuenta!
+               Todos los evaluados con algún tipo de discapacidad, sin
+               importar la versión del cuadernillo que presenten, contarán                   Si un evaluado con discapacidad decide presentar el
+               con los apoyos que hayan sido solicitados en la inscripción.                  cuadernillo estándar (ver tabla 1), tendrá que contestar
+                                                                                             más preguntas y, por tanto, dispondrá de menos tiempo
+                                                                                             para responderlas, en comparación con aquellos evaluados
+                                                                                             que presenten el cuadernillo con ajustes razonables para
+En la inscripción, las instituciones educativas deben indicar en el sistema                  personas con discapacidad (ver tablas 4, 5, 6 y 7).
+Prisma si alguno o algunos de sus estudiantes presentan algún tipo de
+
+
+
+
+                                                                                                                                                                         14
+                                    Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Figura 2. Tipos de discapacidad
+
+
+
+
+                                                                                       15
+                                                                                                                         Contenido   Presentación   Características   Especificaciones
+
+
+
+
+               1. Discapacidad intelectual (cognitiva)                         características crónicas y que afectan de manera distinta a cada persona.
+                                                                               Algunos diagnósticos asociados a este tipo de discapacidad son:
+
+Evaluados que presentan deficiencias en las capacidades mentales                    »   Síndrome de Asperger.
+generales, como el razonamiento, la resolución de problemas, la
+                                                                                    »   Síndrome de Kanner.
+planificación, el pensamiento abstracto, el juicio, el aprendizaje académico
+                                                                                    »   Trastorno desintegrador infantil o síndrome de Heller.
+y el aprendizaje de la experiencia. Algunos diagnósticos asociados a este
+tipo de discapacidad son:                                                           »   Trastorno generalizado del desarrollo no especificado.
+
+
+     »   Síndrome de Down.
+     »   Trastorno cognitivo.                                                                 3. Discapacidad psicosocial (mental)
+
+     »   Retardo o retraso mental.
+     »   Coeficiente intelectual limítrofe.                                    Evaluados que presentan diversas condiciones de salud mental, tales como
+     »   Otros síndromes con compromiso intelectual.                           ansiedad, depresión y otros, que alteran de modo significativo el desarrollo
+                                                                               de sus actividades cotidianas y la ejecución de tareas o responsabilidades
+                                                                               que implican la organización, modulación y regulación del estrés y las
+               2. Discapacidad psicosocial (mental)-trastorno del              emociones. Algunos diagnósticos asociados a este tipo de discapacidad son:
+               espectro autista
+                                                                                    »   Esquizofrenia.
+                                                                                    »   Trastorno bipolar.
+Evaluados que presentan afectación en el desempeño de funciones
+                                                                                    »   Fobia social.
+intelectuales, psicosociales, de la voz y el habla, incidiendo en las
+                                                                                    »   Trastorno obsesivo compulsivo.
+relaciones interpersonales. Incluye alteraciones o déficit del desarrollo de
+                                                                                    »   Trastorno de estrés postraumático.
+
+
+
+
+                                                                                                                                                                            16
+                                                                                                                          Contenido   Presentación   Características   Especificaciones
+
+
+
+
+               4. Discapacidad visual-ceguera                                                  6. Discapacidad auditiva-usuario de lengua de
+                                                                                                  señas colombiana
+
+Evaluados que presentan alteraciones permanentes para percibir la luz, la
+forma, el tamaño y el color.                                                     Evaluados que presentan de forma permanente distintos tipos de pérdida
+                                                                                 auditiva, que les genera limitaciones significativas en la percepción de los
+                                                                                 sonidos del mundo y en los intercambios comunicativos verbales con otras
+               5. Discapacidad visual-baja visión irreversible                   personas. Usan la lengua de señas colombiana (LSC) y habitualmente
+                                                                                 trabajan en el aula con acompañamiento de docentes bilingües, modelo
+                                                                                 lingüístico o intérpretes de LSC.
+Evaluados que a pesar de usar gafas o lentes de contacto, o de haberse
+practicado una cirugía ocular, tienen dificultades para distinguir formas,
+colores, rostros, objetos en la calle; así como para ver en la noche, de lejos
+                                                                                               7. Discapacidad auditiva-usuario del castellano
+y/o de cerca.
+
+
+                                                                                 Evaluados que presentan de forma permanente distintos tipos de pérdida
+                ¡Tenga en cuenta!                                                auditiva, que les genera limitaciones significativas en la percepción de
+                                                                                 los sonidos del mundo y en los intercambios comunicativos verbales con
+                Los evaluados que usen gafas o lentes de contacto, o se          otras personas. Pueden tener baja audición o hipoacusia y suelen requerir
+                hayan practicado una cirugía y no tengan problemas para          audífonos y/o sistemas de frecuencia modulada, entre otros.
+                ver en su cotidianidad, no deben ser reportadas como
+                personas con discapacidad.
+
+
+
+
+                                                                                                                                                                             17
+                                                                                                                      Contenido   Presentación   Características   Especificaciones
+
+
+
+
+               8. Sordoceguera                                                     »   Parálisis cerebral sin compromiso cognitivo.
+                                                                                   »   Cuadriplejia (cuatro miembros), hemiplejia (medio lado, derecho
+                                                                                       o izquierdo), monoplejía (un solo miembro) o paraplejia (dos
+Evaluados que presentan una alteración auditiva y visual, parcial o total.
+                                                                                       miembros superiores o inferiores).
+Resulta de la combinación de dos deficiencias sensoriales que les genera
+                                                                                   »   Distrofia muscular.
+dificultades en la comunicación, la orientación espacial, la movilidad y el
+                                                                                   »   Osteogénesis imperfecta (niños con huesos de cristal).
+acceso a la información.
+                                                                                   »   Lesión neuromuscular.
+                                                                                   »   Espina bífida.
+                                                                                   »   Alteración del aparato motor debido a afectaciones en el
+               9. Discapacidad física
+                                                                                       funcionamiento de los sistemas nervioso, muscular u óseo.
+
+Evaluados que presentan, en forma permanente, deficiencias corporales
+que dificultan la movilidad y que pueden implicar distintos segmentos del                    10. Discapacidad múltiple
+cuerpo. Algunos diagnósticos asociados a este tipo de discapacidad son:
+
+                                                                              Evaluados que presentan dos o más deficiencias permanentes de orden
+                                                                              físico, sensorial, mental o intelectual, y que actúan de manera asociada.
+
+
+
+
+                                                                                                                                                                         18
+                                                                                                                  Contenido     Presentación   Características    Especificaciones
+
+
+
+
+»   Población con discapacidad cognitiva o visual                               Έ Tabla 4. Estructura del cuadernillo sin la prueba de Inglés con
+                                                                                  ajustes razonables para estudiantes, validantes, penitenciarios e
+El Icfes deja a disposición de la población con discapacidad cognitiva o          individuales con discapacidad
+visual la opción de seleccionar uno de los tres tipos de cuadernillos que se
+ofrecen, estos son:
+                                                                                                                               Número de preguntas
+                                                                                           Prueba                             Primera                   Segunda
+    »   Cuadernillo estándar (ver tabla 1).
+                                                                                                                               sesión                    sesión
+
+    »   Cuadernillo con ajustes razonables para población con discapacidad         Matemáticas                                  18                               20
+        cognitiva o visual, sin Inglés (ver tabla 4).
+                                                                                   Lectura Crítica                              28                               -
+    »   Cuadernillo con ajustes razonables para población con discapacidad
+                                                                                   Sociales y Ciudadanas                        18                               16
+        cognitiva o visual, con Inglés (ver tabla 5).
+                                                                                   Ciencias Naturales                           22                               20
+
+               ¡Tenga en cuenta!                                                   Cuestionario socioeconómico                   -                               24
+
+               En la página web del Icfes también podrá consultar la           Total de preguntas                               86                               80
+               guía de orientación de Saber 11° en formato de audio.           Tiempo                                 4 h y 30 min                  4 h y 30 min
+
+
+
+
+                                                                                                                                                                        19
+                                                                                            Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Tabla 5. Estructura del cuadernillo con la prueba de Inglés con ajustes razonables para
+  estudiantes, validantes, penitenciarios e individuales con discapacidad
+
+
+                                                         Número de preguntas
+                              Prueba                   Primera         Segunda
+                                                        sesión          sesión
+                     Matemáticas                          18              20
+
+                     Lectura Crítica                      28               -
+
+                     Sociales y Ciudadanas                18              16
+
+                     Ciencias Naturales                   22              20
+
+                     Cuestionario socioeconómico          24               -
+
+                     Inglés                                -              45
+
+                Total de preguntas                       110              101
+
+                Tiempo                               4 h y 30 min     4 h y 30 min
+
+
+
+
+                                                                                                                                               20
+                                                                                                              Contenido   Presentación   Características   Especificaciones
+
+
+
+
+ Έ Tabla 6. Estructura del cuadernillo para estudiantes con         Adicionalmente, las personas con discapacidad visual podrán recibir un kit
+   discapacidad cognitiva o visual que seleccionan cuadernillo      tiflológico que contiene:
+    estándar
+                                                                             Kit tiflológico
+
+                                        Número de preguntas                        1 ábaco japonés cerrado.
+             Prueba                    Primera         Segunda                     1 pizarra braille con su respectivo punzón.
+                                        sesión          sesión
+                                                                                   1 tablero negativo con su rodachina.
+    Matemáticas                          25               25                       10 acetatos aproximadamente.
+    Lectura Crítica                      41               -
+                                                                    Igualmente, podrán recibir un kit de geometría que contiene:
+    Sociales y Ciudadanas                25               25
+
+    Ciencias Naturales                   29               29                 Kit de geometría
+
+    Cuestionario socioeconómico          11               13                       1 regla.
+                                                                                   1 compás.
+    Inglés                                -               55
+                                                                                   1 escuadra.
+    Clima escolar                        12               12
+                                                                                   1 transportador.
+Total de preguntas                       143             159
+                                                                    Todos los elementos que se entregan son totalmente accesibles y deben
+Tiempo                               4 h y 30 min    4 h y 30 min   devolverse al final de la jornada de aplicación.
+
+
+
+
+                                                                                                                                                                 21
+                                                                                                                 Contenido     Presentación   Características    Especificaciones
+
+
+
+
+»   Población con discapacidad auditiva                                        Έ Tabla 7. Estructura del cuadernillo sin la prueba de Inglés con
+                                                                                 ajustes razonables para población con discapacidad auditiva
+El Icfes deja a disposición de la población con discapacidad auditiva la         (usuarios de lengua de señas)
+opción de seleccionar uno de los tres tipos de cuadernillos que se ofrecen,
+estos son:
+                                                                                                                              Número de preguntas
+                                                                                          Prueba                             Primera                   Segunda
+    »   Cuadernillo estándar (ver tabla 1) en modalidad de lápiz y papel.
+                                                                                                                              sesión                    sesión
+    »   Cuadernillo sin la prueba de Inglés con ajustes razonables para
+        población con discapacidad auditiva (usuarios de lengua de señas)         Matemáticas                                  38                               -
+        (ver tabla 7) en modalidad electrónica.                                   Lectura Crítica                               -                               28
+    »   Cuadernillo con la prueba de Inglés con ajustes razonables para
+                                                                                  Sociales y Ciudadanas                        34                               -
+        población con discapacidad auditiva (usuarios de lengua de señas)
+        (ver tabla 8) en modalidad electrónica.                                   Ciencias Naturales                            -                               42
+
+                                                                                  Cuestionario socioeconómico                  11                               13
+               ¡Tenga en cuenta!
+                                                                              Total de preguntas                               83                               83
+               En la página web del Icfes también podrá consultar
+               la guía de orientación de Saber 11° en lengua de señas         Tiempo                                 4 h y 30 min                  4 h y 30 min
+               colombiana (LSC).
+
+
+
+
+                                                                                                                                                                       22
+                                                                                                       Contenido     Presentación   Características    Especificaciones
+
+
+
+
+ Έ Tabla 8. Estructura del cuadernillo con la prueba de Inglés con    Έ Tabla 9. Estructura del cuadernillo para estudiantes con
+   ajustes razonables para población con discapacidad auditiva          discapacidad auditiva que seleccionan cuadernillo estándar
+   (usuarios de lengua de señas)
+
+                                                                                                                    Número de preguntas
+                                        Número de preguntas                       Prueba                           Primera                   Segunda
+             Prueba                    Primera         Segunda                                                      sesión                    sesión
+                                        sesión          sesión           Matemáticas                                 25                               25
+    Matemáticas                           38               -
+                                                                         Lectura Crítica                             41                               -
+    Lectura Crítica                        -              28
+                                                                         Sociales y Ciudadanas                       25                               25
+    Sociales y Ciudadanas                 34               -
+                                                                         Ciencias Naturales                          29                               29
+    Ciencias Naturales                     -              42
+                                                                         Cuestionario socioeconómico                 11                               13
+    Cuestionario socioeconómico           11              13
+                                                                         Inglés                                       -                               55
+    Inglés                                 -              45
+                                                                         Clima escolar                               12                               12
+Total de preguntas                        83              128        Total de preguntas                             143                           159
+Tiempo                               4 h y 30 min    4 h y 30 min    Tiempo                                4 h y 30 min                  4 h y 30 min
+
+
+
+
+                                                                                                                                                             23
+                                                                                                             Contenido     Presentación   Características    Especificaciones
+
+
+
+
+Con el acompañamiento y asesoría del Instituto Nacional para Sordos       d. Cuadernillo para población Pre Saber
+(INSOR), se ha desarrollado otra versión del examen Saber 11°, adaptada
+a las características de la población con discapacidad auditiva y que       Έ Tabla 10. Estructura del cuadernillo para población Pre Saber
+requieren del acompañamiento de un intérprete. En esta versión del
+examen, las pruebas que lo conforman son traducidas y presentadas en                                                      Número de preguntas
+lengua de señas colombiana, por medio de videos cuya reproducción                       Prueba                           Primera                   Segunda
+se realiza a través de una interfaz por computador, donde también se                                                      sesión                    sesión
+registran las respuestas.
+                                                                               Matemáticas                                 22                               22
+
+                                                                               Lectura Crítica                             36                               -
+»   Población con discapacidad física                                          Sociales y Ciudadanas                       22                               22
+
+De acuerdo con la especificidad de la discapacidad física, se brindan          Ciencias Naturales                          26                               26
+las condiciones especiales para presentar el examen; por ejemplo, las          Cuestionario socioeconómico                 11                               13
+personas que se desplazan en silla de ruedas, con muletas o caminadores
+son ubicadas en el primer piso del lugar de aplicación.                        Inglés                                       -                               45
+
+                                                                           Total de preguntas                             117                           128
+En otros casos, se suministra apoyo para la manipulación del material
+del examen. Es importante aclarar que las personas que solo reportan       Tiempo                                4 h y 30 min                  4 h y 30 min
+discapacidad física presentan el cuadernillo estándar (ver tabla 1).
+
+
+
+
+                                                                                                                                                                   24
+                                                                                                           Contenido     Presentación   Características    Especificaciones
+
+
+
+
+e. Cuadernillo para población validantes y validantes con              f. Cuadernillo para población individuales e individuales
+   discapacidad que seleccionan cuadernillo general                       con discapacidad que seleccionan cuadernillo general
+
+  Έ Tabla 11. Estructura del cuadernillo para población validantes y     Έ Tabla 12. Estructura del cuadernillo para población individuales
+    validantes con discapacidad                                            e individuales con discapacidad
+
+                                         Número de preguntas                                                            Número de preguntas
+               Prueba                   Primera         Segunda                       Prueba                           Primera                   Segunda
+                                         sesión          sesión                                                         sesión                    sesión
+      Matemáticas                          22              22                Matemáticas                                 22                               22
+
+      Lectura Crítica                      36               -                Lectura Crítica                             36                               -
+
+      Sociales y Ciudadanas                22              22                Sociales y Ciudadanas                       22                               22
+
+      Ciencias Naturales                   26              26                Ciencias Naturales                          26                               26
+
+      Cuestionario socioeconómico          11              13                Cuestionario socioeconómico                 11                               13
+
+      Inglés                               -               45                Inglés                                       -                               45
+
+ Total de preguntas                       117             128           Total de preguntas                              117                           128
+
+ Tiempo                               4 h y 30 min    4 h y 30 min      Tiempo                                 4 h y 30 min                  4 h y 30 min
+
+
+
+
+                                                                                                                                                                 25
+                                                                                       Contenido   Presentación   Características   Especificaciones
+
+
+
+
+g. Cuadernillo para población penitenciarios y penitenciarios con discapacidad
+   que seleccionan cuadernillo general
+
+  Έ Tabla 13. Estructura del cuadernillo para pruebas de competencias genéricas para
+    población penitenciarios y penitenciarios con discapacidad
+
+                                                     Número de preguntas
+                           Prueba                   Primera         Segunda
+                                                     sesión          sesión
+                  Matemáticas                          22              22
+
+                  Lectura Crítica                      36              -
+
+                  Sociales y Ciudadanas                22              22
+
+                  Ciencias Naturales                   26              26
+
+                  Inglés                               -               45
+
+             Total de preguntas                       106             115
+
+             Tiempo                               4 h y 30 min    4 h y 30 min
+
+
+
+
+                                                                                                                                          26
+                                                                                                          Contenido   Presentación   Características   Especificaciones
+
+
+
+
+D. Tipos de pregunta                                                             Cuadernillo
+                                                                                 Contiene las preguntas de cada una de las pruebas y del
+El examen consta de preguntas de selección múltiple con única respuesta          cuestionario socioeconómico.
+conformadas por un enunciado (que presenta una situación, figura, texto,
+etcétera); la formulación de una tarea de evaluación (aquello que se le pide
+al estudiante realizar) y varias opciones de respuesta, de las cuales solo una   Hoja de respuestas
+responde a la tarea planteada.                                                   En esta hoja el evaluado deberá marcar la opción de respuesta
+                                                                                 que considere acertada para cada pregunta. En la figura 3 se
+Las y los estudiantes deben seleccionar la opción de respuesta que               muestra un ejemplo del formato de hoja de respuestas.
+consideren acertada.
+
+
+                                                                                 Hoja de operaciones
+E. Materiales del examen                                                         Es una hoja blanca que los evaluados pueden usar para
+                                                                                 efectuar los procedimientos que consideren necesarios
+El día de la aplicación del examen, cada evaluado recibirá:                      a fin de responder las pruebas. Aunque esta hoja no se
+                                                                                 califica, los evaluados deben devolverla, junto con los demás
+                                                                                 materiales que reciben para la presentación del examen.
+
+
+
+
+                                                                                                                                                             27
+                                                                  Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Figura 3. Ejemplo del formato de hoja de respuestas (frontal)
+
+
+
+                                                                  ¡Recuerde!
+
+                                                                  Una vez el evaluado ha
+                                                                  seleccionado, entre todas las
+                                                                  opciones de respuesta, la que
+                                                                  considera correcta; para señalarla
+                                                                  en la hoja de respuestas, debe
+                                                                  rellenar completamente el círculo
+                                                                  correspondiente.
+
+
+                                                                  Por ejemplo, si la opción que el
+                                                                  estudiante considera acertada es
+                                                                  la B, debe marcar así:
+
+
+
+
+                                                                                                                     28
+                                                                                                                 Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Especificaciones de las pruebas                                                 Competencias
+
+                                                                         Son las habilidades necesarias para aplicar los conocimientos en diferentes
+                                                                         contextos. En este sentido, enfrentarse al examen Saber 11.° no implica
+                                                                         solamente conocer conceptos o datos, sino que involucra saber cómo
+En este capítulo se presentan las características y estructura de cada   emplear dicha información para resolver problemas en situaciones de la
+una de las pruebas que componen el examen Saber 11°. Salvo en            vida cotidiana.
+la descripción de la prueba de Inglés, todas las demás presentan la
+información desagregada en competencias, afirmaciones y evidencias              Afirmaciones
+que las componen, siguiendo la metodología del Diseño Centrado en
+Evidencias (figura 4).                                                   Para cada competencia se establecen una o más afirmaciones, entendidas
+                                                                         como aquello específico de un área del conocimiento o un conjunto de
+   Έ Figura 4. Diseño Centrado en Evidencias                             habilidades y destrezas que, se espera, los evaluados sean capaces de
+                                                                         saber-hacer.
+
+
+                                                                                Evidencias
+
+                                                                         Las afirmaciones, a su vez, se componen de evidencias, entendidas como
+                                                                         aquello que permite inferir que el evaluado posee las habilidades o los
+                                                                         conocimientos suficientes para dar cuenta de la afirmación relacionada.
+                                                                         Se trata de la formulación de aspectos observables en los evaluados que
+                                                                         permitan obtener información del nivel de adquisición de las afirmaciones
+                                                                         planteadas.
+
+
+
+
+                                                                                                                                                                    29
+                                                                                                               Contenido   Presentación   Características   Especificaciones
+
+
+
+
+           A. Matemáticas
+
+Esta prueba evalúa las competencias de los evaluados para enfrentar     1. Competencias evaluadas
+situaciones que pueden resolverse con el uso de herramientas
+matemáticas. Tanto las competencias definidas de la prueba como los     De acuerdo con el Marco de referencia de la prueba Matemáticas de
+conocimientos matemáticos que el evaluado requiere para resolver las    Saber 11.°, se evalúan tres competencias que recogen los elementos
+situaciones planteadas que se basan en las definiciones de los          centrales de los procesos que se describen en los Estándares Básicos de
+   Estándares Básicos de Competencias en Matemáticas del MEN.           Competencias (EBC):
+
+
+
+De acuerdo con lo anterior, se integran competencias y contenidos
+en distintas situaciones o contextos, en los cuales, las herramientas         Interpretación y        Formulación y
+                                                                                                                                   Argumentación
+matemáticas cobran sentido y son un importante recurso para la                 representación           ejecución
+comprensión de planteamientos, la transformación de información, la
+justificación de afirmaciones y la solución de problemas.
+
+
+
+
+                                                                                                                                                                  30
+                                                                                                                   Contenido    Presentación   Características   Especificaciones
+
+
+
+
+a. Interpretación y representación                                               Έ Tabla 14. Desagregado de la primera competencia
+
+
+Esta competencia se relaciona con la habilidad para comprender y
+transformar la información presentada en formatos distintos, como tablas,            Afirmación                                Evidencias
+gráficas, conjuntos de datos, diagramas, esquemas, etcétera; así como
+                                                                               1. Comprende y              1.1 Da cuenta de las características
+la capacidad de utilizar estas representaciones para extraer información       transforma la información   básicas de la información presentada en
+relevante que permita, entre otras cosas, establecer relaciones matemáticas    cuantitativa y              diferentes formatos, como series, gráficas,
+e identificar tendencias y patrones. Con el desarrollo de esta competencia,    esquemática presentada      tablas y esquemas.
+se espera que un estudiante utilice coherentemente los registros simbólico,    en distintos formatos.
+natural, gráfico y, en general, todos aquellos que se dan en situaciones que                               1.2 Transforma la representación de una
+involucran las matemáticas. Esta competencia se relaciona con el proceso                                   o más piezas de información.
+de comunicación, representación y razonamiento, definidos en los EBC.
+
+
+
+
+                                                                                                                                                                       31
+                                                                                                              Contenido     Presentación   Características   Especificaciones
+
+
+
+
+b. Formulación y ejecución                                                    Έ Tabla 15. Desagregado de la segunda competencia
+
+
+Esta competencia se relaciona con la capacidad de plantear y diseñar
+estrategias que permitan solucionar problemas provenientes de diversos          Afirmación                                Evidencias
+contextos, sean estos netamente matemáticos o cotidianos y susceptibles
+                                                                            2. Frente a un
+de tratamiento matemático. Se relaciona también con la habilidad                                    2.1 Diseña planes para la solución de
+                                                                            problema que
+                                                                                                    problemas que involucran información
+o destreza para seleccionar y verificar la pertinencia de soluciones        involucre información
+                                                                                                    cuantitativa o esquemática.
+propuestas a determinados problemas y estrategias de solución desde         cuantitativa, plantea
+diferentes puntos de vista.                                                 e implementa
+                                                                            estrategias que         2.2 Ejecuta un plan de solución para
+                                                                            lleven a soluciones     un problema que involucra información
+Con el desarrollo de esta competencia, se espera que un estudiante          adecuadas.              cuantitativa o esquemática.
+diseñe estrategias apoyadas en herramientas matemáticas, proponga y
+determine rutas posibles para la solución de problemas, siga estrategias
+dadas para encontrar soluciones y, finalmente, resuelva las situaciones                             2.3 Resuelve un problema que involucra
+que se le propongan. Esta competencia evalúa el proceso de formulación,                             información cuantitativa o esquemática.
+tratamiento y resolución de problemas; el proceso de formulación,
+comparación y ejercitación de procedimientos; y el proceso de modelación,
+todos descritos en los EBC.
+
+
+
+
+                                                                                                                                                                   32
+                                                                                                                 Contenido    Presentación   Características   Especificaciones
+
+
+
+
+c. Argumentación                                                               Έ Tabla 16. Desagregado de la tercera competencia
+
+
+Esta competencia se relaciona con la capacidad para validar o refutar
+conclusiones, estrategias, soluciones, interpretaciones y representaciones         Afirmación                                Evidencias
+en diversas situaciones, siempre, justificando el porqué o el cómo de
+                                                                             3. Valida procedimientos    3.1 Plantea afirmaciones que sustentan
+los hallazgos, a través de ejemplos y contraejemplos o señalando y           y estrategias matemáticas   o refutan una interpretación dada a la
+reflexionando sobre inconsistencias presentes. Con el desarrollo de esta     utilizadas para dar         información disponible en el marco de la
+competencia, se espera que un estudiante justifique la aceptación o          solución a problemas.       solución de un problema.
+el rechazo de afirmaciones, interpretaciones y estrategias de solución,
+                                                                                                         3.2 Argumenta a favor o en contra de un
+con base en propiedades y resultados o verbalizando procedimientos
+                                                                                                         procedimiento para resolver un problema
+matemáticos. Cabe indicar que esta competencia también se relaciona                                      a la luz de criterios presentados o
+con los procesos de razonamiento y modelación definidos en los EBC.                                      establecidos.
+
+                                                                                                         3.3 Establece la validez o pertinencia de
+                                                                                                         una solución propuesta a un problema
+                                                                                                         dado.
+
+
+
+
+                                                                                                                                                                     33
+                                                                                                                      Contenido   Presentación   Características   Especificaciones
+
+
+
+
+2. Contenidos matemáticos curriculares                                       »   Genéricos:
+
+Los contenidos matemáticos son los recursos con los que cuentan los          Corresponden a los elementos fundamentales de las matemáticas,
+evaluados para enfrentar las situaciones de la prueba. Aunque hay            necesarios para que todo ciudadano pueda interactuar de manera crítica en
+distintas formas de organizar y clasificar los contenidos matemáticos (por   la sociedad actual.
+ejemplo, en los EBC se mencionan los pensamientos y los sistemas), para
+la prueba Matemáticas de Saber 11° se han considerado tres categorías:       »   No genéricos:
+
+
+                                                                             Corresponden a los contenidos que son considerados específicos o propios
+                                                                             del quehacer matemático y son aprendidos en la etapa escolar.
+
+                                                       Álgebra y
+        Estadística             Geometría                                                     ¡Tenga en cuenta!
+                                                        cálculo
+
+                                                                                              Es importante señalar que el uso de expresiones algebraicas
+                                                                                              siempre se considera no genérico porque, aunque la
+                                                                                              formulación algebraica es una herramienta fundamental
+Cabe señalar que la categoría de Álgebra y cálculo corresponde al conjunto                    de las matemáticas para comunicar, modelar situaciones,
+de herramientas propias de los pensamientos variacional y numérico,                           procesar información, formalizar argumentaciones, etcétera,
+descritos en los EBC. Cada una de estas categorías se subdivide, según el                     su uso no es indispensable para enfrentar la mayoría de
+tipo de contenidos, en genéricos y no genéricos:                                              problemas matemáticos cotidianos.
+
+
+
+
+                                                                                                                                                                         34
+                                                                                                           Contenido   Presentación   Características   Especificaciones
+
+
+
+
+A continuación, se describen algunos de los contenidos genéricos y no genéricos utilizados en la prueba Matemáticas en
+cada una de las categorías consideradas.
+
+
+    Έ Figura 5. Contenidos genéricos y no genéricos para las categorías
+
+
+
+
+                       Estadística
+
+                       Contenidos genéricos
+                       »   Diferentes tipos de representación de datos (tablas y gráficas)
+                       »   Intersección, unión y contenencia de conjuntos
+                       »   Promedio y rango estadístico
+                       »   Conteos simples que utilizan principios de suma y multiplicación
+                       »   Noción de población, muestra e inferencia muestral
+
+                       Contenidos no genéricos
+                       »   Estimación del error
+                       »   Varianza, percentiles, mediana y correlación
+                       »   Combinaciones y permutaciones
+
+
+
+                                                                                              Continúa en la siguiente página
+
+
+
+
+                                                                                                                                                              35
+                                                                              Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Geometría                                             Álgebra y cálculo
+
+Contenidos genéricos                                  Contenidos genéricos
+»   Triángulos, círculos, paralelogramos, esferas,    »   Los números racionales expresados como
+    paralelepípedos rectos, cilindros y sus medidas       fracciones, razones, números decimales o
+»   Relaciones de paralelismo y ortogonalidad entre       porcentajes
+    rectas                                            »   Propiedades básicas de las operaciones
+»   Desigualdad triangular                                aritméticas de suma, resta, multiplicación, división
+»   Sistemas de coordenadas cartesianas                   y potenciación (incluida notación científica)
+                                                      »   Relaciones lineales y afines y razones de cambio
+Contenidos no genéricos                                   (tasas de interés, tasas cambiarias, velocidad,
+»   Sólidos y figuras geométricas, como pirámides y       aceleración, etcétera)
+    polígonos de más de cuatro lados
+                                                      Contenidos no genéricos
+»   Relaciones de congruencia y semejanza
+                                                      »   Expresiones algebraicas; propiedades, relaciones
+»   Teoremas clásicos, como el de Pitágoras y el de
+                                                          y operaciones entre ellas
+    Tales
+                                                      »   Representación gráfica y algebraica de
+»   Coordenadas polares y tridimensionales
+                                                          funciones racionales, trigonométricas,
+»   Transformaciones en el plano (translaciones,
+                                                          polinomiales, exponenciales y logarítmicas;
+    rotaciones, homotecias, reflexiones)
+                                                          además de propiedades básicas, periodicidad,
+                                                          dominios y rangos, condiciones de crecimiento e
+                                                          intersecciones con otras funciones
+                                                      »   Sucesiones y sus límites
+
+
+
+
+                                                                                                                                 36
+                                                                                             Contenido   Presentación   Características   Especificaciones
+
+
+
+
+3. Situaciones o contextos de la prueba
+
+Las situaciones utilizadas en la prueba Matemáticas son las siguientes:
+
+
+
+                a. Familiares o personales                                b. Laborales u ocupacionales
+      Involucran situaciones cotidianas del                               Involucran tareas que se desarrollan en
+       entorno familiar o personal. Incluyen                              el trabajo, siempre y cuando no requieran
+     cuestiones como finanzas personales,                                 conocimientos o habilidades técnicas propias
+      gestión del hogar, transporte, salud y                              de una ocupación específica.
+                                recreación.
+
+
+
+
+                c. Comunitarios o sociales                                d. Matemáticos o científicos
+Involucran lo relacionado con la interacción                              Involucran lo relacionado con situaciones
+     social de los ciudadanos y aquello que                               abstractas, propias de las matemáticas o de
+   es propio de la sociedad en su conjunto.                               las ciencias, que no están inmersas en un
+         Incluyen cuestiones como política,                               contexto de la vida cotidiana. Estos escenarios
+       economía, convivencia y cuidado del                                se usan en la evaluación para dar cuenta de
+                           medioambiente.                                 las habilidades relacionadas con el uso de
+                                                                          las matemáticas en sí mismas, por tanto, se
+                                                                          relacionan con los contenidos no genéricos.
+
+
+
+
+                                                                                                                                                37
+                                                                                                      Contenido   Presentación   Características   Especificaciones
+
+
+
+
+4. Estructura de la prueba
+
+Las preguntas de esta prueba están distribuidas por competencias, como se
+evidencia en la tabla 17.
+
+
+    Έ Tabla 17. Distribución de preguntas por competencias
+
+
+                                                                            Si desea familiarizarse con las cinco
+              Competencia                     Porcentaje de preguntas       pruebas del examen Saber 11° y con los
+                                                                            tipos de preguntas, consulte la caja de
+  a. Interpretación y representación                    34 %
+                                                                            herramientas, la cual contiene marcos
+  b. Formulación y ejecución                                                de referencia, infografías, cuadernillos
+                                                        43 %
+                                                                            de preguntas, ejemplos de preguntas
+  c. Argumentación                                      23 %                explicadas y más.
+
+
+
+
+                                                                                                                                                         38
+                                                                                                                         Contenido   Presentación   Características   Especificaciones
+
+
+
+
+            B. Lectura Crítica
+
+Esta prueba evalúa las habilidades de entender, interpretar y evaluar          Los dos primeros procesos se refieren a la comprensión del contenido de
+textos que pueden encontrarse tanto en la vida cotidiana como en ámbitos       un texto, ya sea del ámbito local o global, mientras que, el tercero se refiere
+académicos no especializados. Se espera que los estudiantes que culminan       a la aproximación propiamente crítica.
+la educación media cuenten con las capacidades lectoras para tomar
+posturas críticas frente a esta clase de textos.                               La competencia de la comprensión lectora se evalúa mediante textos
+                                                                               que difieren en su tipo y propósito debido a que, si bien la lectura
+1. Competencia evaluada                                                        crítica de todo texto exige el ejercicio de los procesos mencionados,
+                                                                               estos se ejercitan de diferentes maneras en función de las características
+                                                                               particulares de cada texto.
+De acuerdo con el Marco de referencia de esta prueba, se evalúa la
+competencia lectora, la cual involucra, de manera general, los procesos
+                                                                               Atendiendo al diseño centrado en evidencias, los procesos cognitivos
+cognitivos necesarios para leer de manera crítica diferentes tipos de texto.
+                                                                               anteriores se representan en tres afirmaciones. A continuación, se muestra
+Estos son:
+                                                                               el detalle de las habilidades que se evalúan en cada afirmación.
+
+
+         Identificar                                       Evaluar y
+                                 Relacionar           reflexionar sobre
+          y ubicar
+                                e interpretar            la forma y el
+        información
+                                información           contenido de los
+            local
+                                                             textos
+
+
+
+
+                                                                                                                                                                            39
+                                                                                                              Contenido    Presentación   Características   Especificaciones
+
+
+
+
+a. Identificar y ubicar información local                                    Έ Tabla 18. Desagregado de la primera afirmación
+
+
+Este proceso se relaciona con la capacidad de comprender el significado
+de las palabras, expresiones y frases que aparecen explícitamente en el          Afirmación                               Evidencias
+texto. La evaluación de este proceso no indaga por conocimientos propios
+                                                                           1. Identifica y entiende   1.1 Entiende el significado de los
+de la gramática, pero sí por la comprensión de las relaciones semánticas   los contenidos locales     elementos locales que constituyen un
+que existen entre los diferentes elementos que constituyen una oración.    que conforman un texto.    texto.
+En esa medida, permite dar respuesta a preguntas como ¿qué?, ¿dónde?,
+¿cuándo?, ¿quién?, ¿de qué manera?, ¿con quién? La afirmación que                                     1.2 Identifica los eventos narrados de
+                                                                                                      manera explícita en un texto (literario,
+recoge este proceso es: Identifica y entiende los contenidos locales que
+                                                                                                      descriptivo, caricatura o cómic) y los
+conforman un texto.                                                                                   personajes involucrados (si los hay).
+
+
+
+
+                                                                                                                                                                  40
+                                                                                                               Contenido    Presentación   Características   Especificaciones
+
+
+
+
+b. Relacionar e interpretar información                                       Έ Tabla 19. Desagregado de la segunda afirmación
+
+
+Este proceso se relaciona con la capacidad de comprender cómo se
+                                                                                  Afirmación                               Evidencias
+relacionan formal y semánticamente los elementos locales que constituyen
+un texto, de manera que este adquiera un sentido global (a nivel de         2. Comprende cómo se      2.1 Comprende la estructura formal de un
+párrafos, secciones, capítulos, etcétera). En esa medida, las preguntas     articulan las partes de   texto y la función de sus partes.
+                                                                            un texto para darle un
+correspondientes a este proceso cognitivo involucran varios elementos
+                                                                            sentido global.           2.2 Identifica y caracteriza las diferentes
+locales de un texto (por ejemplo, diferentes frases o párrafos) y exigen                              voces o situaciones presentes en un texto.
+reconocer y comprender su articulación. En este proceso de lectura se
+activa el conocimiento previo del lector, quien relaciona la información                              2.3 Comprende las relaciones entre
+del texto para obtener conclusiones, plantear una hipótesis, hacer                                    diferentes partes o enunciados de un texto.
+generalizaciones, comprender el lenguaje figurado o predecir un final. La
+                                                                                                      2.4 Identifica y caracteriza las ideas
+afirmación que recoge este proceso es: Comprende cómo se articulan las                                o afirmaciones presentes en un texto
+partes de un texto para darle un sentido global.                                                      informativo.
+
+                                                                                                      2.5 Identifica el tipo de relación existente
+                                                                                                      entre diferentes elementos de un texto
+                                                                                                      (discontinuo).
+
+
+
+
+                                                                                                                                                                   41
+                                                                                                                    Contenido    Presentación   Características   Especificaciones
+
+
+
+
+c. Evaluar y reflexionar sobre la forma y el contenido                              Έ Tabla 20. Desagregado de la tercera afirmación
+
+   de los textos
+                                                                                        Afirmación                              Evidencias
+Este proceso se relaciona con la capacidad de enfrentar un texto
+críticamente e implica identificar la intención comunicativa del autor y          3. Reflexiona a partir    3.1 Establece la validez e implicaciones de
+reflexionar sobre la forma y el contenido del texto. Incluye evaluar la validez   de un texto y evalúa su   un enunciado de un texto (argumentativo
+                                                                                  contenido.                o expositivo).
+de argumentos, advertir supuestos, derivar implicaciones, reconocer
+estrategias argumentativas y retóricas, relacionar contenidos con variables                                 3.2 Establece relaciones entre un texto y
+contextuales, etcétera. Se trata de la habilidad propiamente crítica y,                                     otros textos o enunciados.
+como tal, exige un ejercicio adecuado de las dos anteriores. La afirmación
+que recoge este proceso es: Reflexiona a partir de un texto y evalúa su                                     3.3 Reconoce contenidos valorativos
+                                                                                                            presentes en un texto.
+contenido.
+                                                                                                            3.4 Reconoce las estrategias discursivas
+                                                                                                            en un texto.
+
+                                                                                                            3.5 Contextualiza adecuadamente un
+                                                                                                            texto o la información contenida en este.
+
+
+
+
+                                                                                                                                                                        42
+                                                                                                                    Contenido   Presentación   Características   Especificaciones
+
+
+
+
+2. Tipos de textos utilizados
+
+La prueba Lectura Crítica utiliza dos formatos de textos: continuos y discontinuos. Los primeros se leen de manera secuencial y se
+organizan en frases, párrafos, secciones, capítulos, etcétera. Los segundos, en contraste, no se leen secuencialmente e incluyen
+cuadros, gráficas, tablas, etcétera.
+
+
+Por su parte, tanto los textos continuos como los discontinuos se dividen en literarios e informativos, estos últimos, a su vez, en
+descriptivos, expositivos y argumentativos (Textos que pueden tratar sobre literatura, filosofía, o problemáticas culturales y sociales).
+La tabla 21 sintetiza esta taxonomía y la tabla 22 presenta el porcentaje de preguntas para cada tipo de texto.
+
+
+     Έ Tabla 21. Tipos de textos utilizados en la prueba
+
+
+
+                                                                              Informativos (descriptivos, expositivos,
+                 Formato                      Literarios
+                                                                                         argumentativos)
+
+                                   Novela, cuento, poesía, canción,
+              Continuos                                                  Ensayo, columna de opinión, crónica
+                                   dramaturgia
+
+                                                                         Etiqueta, infografía, tabla, diagrama, aviso
+              Discontinuos         Caricatura, cómic
+                                                                         publicitario, manual, reglamento
+
+
+
+
+                                                                                                                                                                       43
+                                                                                                               Contenido   Presentación   Características   Especificaciones
+
+
+
+
+ Έ Tabla 22. Distribución de preguntas aproximada por tipo de texto   Cabe indicar que la prueba no presupone ni exige conocimientos
+                                                                      especiales en alguna disciplina específica. Evalúa, en cambio, la capacidad
+                                                  Porcentaje de       de interpretar y analizar de manera coherente y apropiada los contenidos
+     Tipo                 Tipo de texto
+                                                   preguntas          de los textos.
+
+                    Literario                         24 %            Dentro de los textos argumentativos o expositivos se incluyen,
+                                                                      en particular, algunos de tipo filosófico. Con estos no se evalúan
+Continuos           Informativo filosófico            30 %
+                                                                      conocimientos puntuales en historia de la filosofía o el significado de sus
+                    Informativo no filosófico         30 %            términos técnicos. Las preguntas se centran en la capacidad de identificar y
+                                                                      comprender la manera como se estructura un texto, las ideas que presenta,
+                    Literario                          8%             los argumentos que las sostienen, etcétera. Sin embargo, la familiaridad
+Discontinuos                                                          con algunos de sus autores, conceptos y debates más significativos de la
+                    Informativo                        8%             filosofía pueden contribuir a un buen desempeño frente a estas preguntas.
+
+
+
+
+                                                                                                                                                                  44
+                                                                                                     Contenido   Presentación   Características   Especificaciones
+
+
+
+
+3. Estructura de la prueba
+
+Las preguntas de esta prueba están distribuidas por afirmaciones, como se
+evidencia en la tabla 23.
+
+
+    Έ Tabla 23. Distribución de preguntas por afirmación
+
+
+
+                Afirmación                   Porcentaje de preguntas
+
+
+  a. Identifica y entiende los contenidos                                   Si desea familiarizarse con las cinco
+                                                       25 %
+  locales que conforman un texto.                                           pruebas del examen Saber 11° y con los
+                                                                            tipos de preguntas, consulte la caja de
+  b. Comprende cómo se articulan las                                        herramientas, la cual contiene marcos
+  partes de un texto para darle un sentido             42 %                 de referencia, infografías, cuadernillos
+  global.                                                                   de preguntas, ejemplos de preguntas
+                                                                            explicadas y más.
+  c. Reflexiona a partir de un texto y
+                                                       33 %
+  evalúa su contenido.
+
+
+
+
+                                                                                                                                                        45
+                                                                                                                        Contenido   Presentación   Características   Especificaciones
+
+
+
+
+            C. Sociales y Ciudadanas
+
+De acuerdo con el Marco de referencia, esta prueba evalúa los                     1. Competencias evaluadas
+conocimientos y habilidades que les permiten a los evaluados comprender
+el mundo social a partir de las ciencias sociales y establecer esa                La prueba Sociales y Ciudadanas evalúa tres competencias, alineadas con
+comprensión como referente para su ejercicio ciudadano. Asimismo,                 lo propuesto en los Estándares Básicos de Competencias en Ciencias
+evalúa la habilidad para analizar distintos eventos, argumentos, posturas,        Sociales y Competencias Ciudadanas, publicados por el MEN en 2006,
+conceptos, modelos, dimensiones y contextos, al igual que la capacidad            estas competencias son:
+para reflexionar y emitir juicios críticos de estos. En concordancia, la prueba
+no les pide a los evaluados que respondan desde su opinión, ni desde lo
+que se considera “políticamente correcto” o desde el “deber ser”, entendido                                    Interpretación                  Pensamiento
+                                                                                         Pensamiento
+este último como una forma correcta de actuar o pensar, que es aceptada o                                       y análisis de                   reflexivo y
+                                                                                            social
+valorada positivamente por la sociedad.                                                                         perspectivas                     sistémico
+
+
+
+
+                                                                                                                                                                           46
+                                                                                                                      Contenido   Presentación   Características   Especificaciones
+
+
+
+
+a. Pensamiento social                                                        1. Capacidad para identificar y usar conceptos básicos de las ciencias
+                                                                                sociales
+Esta competencia evalúa la capacidad de los evaluados para usar y
+apropiarse de categorías básicas de las ciencias sociales; así como el       Para evaluar esta habilidad se plantean preguntas que se deben
+conocimiento que tienen de principios constitucionales, del ordenamiento     analizar a través de conceptos básicos de las ciencias sociales. Se
+político colombiano y de los mecanismos constitucionales de participación.   evalúan los conocimientos referidos a la Constitución, en especial,
+A través de esta competencia se evalúan dos habilidades:                     sus fundamentos, los derechos y deberes de los ciudadanos y la
+                                                                             organización del Estado. Así mismo, se evalúan los conocimientos en
+                                                                             torno a los mecanismos de participación que los ciudadanos tienen
+  1. Capacidad para identificar                                              a su disposición para velar por el cumplimiento de sus derechos y
+  y usar conceptos básicos de
+                                                                             principios, como la defensa de la diversidad étnica y cultural. También
+  las ciencias sociales
+                                                                             se evalúan conceptos básicos de las ciencias sociales, que no están
+                                                                             ligados al conocimiento de la Constitución.
+
+                                                                             2. Capacidad para identificar dimensiones temporales y espaciales de
+                                                                                eventos y problemáticas sociales
+
+                                          2. Capacidad para identificar
+                                                                             Esta habilidad evalúa la comprensión de dimensiones temporales y
+                                          dimensiones temporales
+                                                                             espaciales de eventos y prácticas sociales; así como la capacidad para
+                                          y espaciales de eventos y
+                                                                             analizar las dimensiones históricas de eventos o problemáticas, y para
+                                          problemáticas sociales
+                                                                             relacionarlos con contextos geográficos y sus características, es decir, para
+                                                                             conectar eventos e identificar razones que justifiquen esas conexiones.
+
+
+
+
+                                                                                                                                                                         47
+                                                                                                             Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Tabla 24. Desagregado de la primera competencia
+
+
+
+                   Afirmaciones                                             Evidencias
+
+          1. Comprende modelos                1.1 Identifica y usa conceptos sociales básicos (económicos, políticos,
+          conceptuales, sus características   culturales y geográficos).
+          y contextos de aplicación.
+                                              1.2 Conoce el modelo de Estado Social de Derecho y su aplicación en
+                                              Colombia.
+
+                                              1.3 Conoce la organización del Estado: Conoce las funciones y alcances
+                                              de las ramas del poder y de los organismos de control.
+
+                                              1.4 Conoce los mecanismos que los ciudadanos tienen a su disposición
+                                              para participar activamente en la democracia y para garantizar el
+                                              respeto de sus derechos.
+
+          2. Comprende dimensiones            2.1 Localiza en el tiempo y en el espacio eventos históricos y prácticas
+          espaciales y temporales de          sociales.
+          eventos, problemáticas y
+          prácticas sociales.                 2.2 Relaciona dimensiones históricas y geográficas de eventos y
+                                              problemáticas sociales.
+
+                                              2.3 Relaciona problemáticas o prácticas sociales con características del
+                                              espacio geográfico.
+
+
+
+
+                                                                                                                                                                48
+                                                                                                                         Contenido   Presentación   Características   Especificaciones
+
+
+
+
+b. Interpretación y análisis de perspectivas                                     1. Reconocimiento de diversas opiniones, posturas e intereses
+
+Esta competencia evalúa la habilidad de los evaluados para analizar              En esta habilidad se evalúa la capacidad de los evaluados para analizar
+críticamente la información que circula en la sociedad acerca de asuntos         una problemática según las perspectivas de diferentes actores sociales o
+políticos, económicos y culturales, con la intención de valorar argumentos y     colectivos involucrados. Las preguntas correspondientes a esta habilidad
+explicaciones sobre problemáticas sociales e identificar diversos intereses,     requieren que los evaluados, a partir de un conflicto, comprendan su origen,
+opiniones y perspectivas de personas y grupos sociales que interactúan en        entiendan qué buscan los diferentes actores, identifiquen las coincidencias
+un momento dado.                                                                 y diferencias entre sus intereses y valoren la reacción (por ejemplo, de
+                                                                                 aceptación o rechazo) de las partes ante una propuesta de solución.
+Esta competencia se fundamenta en procesos cognitivos de identificación,
+comprensión; análisis y evaluación de sentido, pertinencia y solidez de
+enunciados o planteamientos (capacidad de emitir y valorar juicios). A           2. Análisis crítico de fuentes y argumentos
+través de esta competencia se evalúan dos habilidades:
+                                                                                 En esta habilidad se evalúa la capacidad de los evaluados para valorar
+                                                                                 fuentes primarias y secundarias, corroborar y contextualizar la información
+1. Reconocimiento de                                                             suministrada y la pertinencia y solidez de los enunciados o argumentos
+diversas opiniones,                                                              expuestos. Se espera que los evaluados estén en capacidad de identificar
+posturas e intereses                                                             prejuicios presentes en discursos; comprender las intenciones implícitas en
+                                                                                 un determinado acto comunicativo; establecer relaciones entre diferentes
+                                                                                 argumentos; evaluar la validez de generalizaciones y la confiabilidad de un
+                                                                                 enunciado, así como de las fuentes en las que este se sustenta o pretende
+                                                                                 sustentarse. También se valora la capacidad para anticipar el efecto de un
+                                                2. Análisis crítico de fuentes   determinado discurso en individuos o grupos de personas.
+                                                y argumentos
+
+
+
+
+                                                                                                                                                                            49
+                                                                                                            Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Tabla 25. Desagregado de la segunda competencia
+
+
+
+                   Afirmaciones                                            Evidencias
+
+          3. Contextualiza y evalúa usos de   3.1 Inscribe una fuente primaria dada en un contexto económico,
+          fuentes y argumentos.               político o cultural.
+
+                                              3.2 Evalúa posibilidades y limitaciones del uso de una fuente para
+                                              apoyar argumentos o explicaciones.
+
+                                              3.3 Devela prejuicios e intenciones en enunciados o argumentos.
+
+          4. Comprende perspectivas           4.1 Reconoce y compara perspectivas de actores y grupos sociales.
+          de distintos actores y grupos
+          sociales.
+                                              4.2 Reconoce que las cosmovisiones, ideologías y roles sociales
+                                              influyen en diferentes argumentos, posiciones y conductas.
+
+                                              4.3 Establece relaciones entre las perspectivas de los individuos en una
+                                              situación conflictiva y las propuestas de solución.
+
+
+
+
+                                                                                                                                                               50
+                                                                                                                         Contenido   Presentación   Características   Especificaciones
+
+
+
+
+c. Pensamiento reflexivo y sistémico                                          1. Identificar modelos conceptuales que orientan decisiones sociales
+
+Esta competencia evalúa la capacidad de los evaluados para identificar        Esta habilidad hace referencia al conocimiento de modelos conceptuales y
+las diferentes dimensiones presentes en una problemática social y las         de sus posibles usos en determinados contextos. Evalúa la capacidad para
+relaciones que se dan entre ellas, así como la capacidad para comprender      identificar las características de un modelo y de los principios que lo sustentan,
+y evaluar el uso de modelos conceptuales en la toma de decisiones             así como y posibilidad de valorar decisiones, como coherentes o incoherentes,
+en contextos sociales. Para ello, los evaluados deben contar con dos          acerca de y en relación con los objetivos o postulados del modelo.
+habilidades:
+                                                                              2. Establecer relaciones entre dimensiones presentes en una situación
+                                                                                 problemática y sus posibles alternativas de solución
+1. Identificar modelos
+conceptuales que orientan                                                     Esta habilidad evalúa la capacidad de los evaluados para identificar
+decisiones sociales                                                           distintas dimensiones de la vida social y analizar los posibles efectos que
+                                                                              una intervención tiene en tales dimensiones. Esto implica el reconocimiento
+                                                                              de las relaciones entre los ámbitos (social, económico, ambiental y
+                                                                              político, entre otros) que están presentes en un problema o decisión.
+                                                                              Cabe indicar que, para entender una situación problemática, es necesario
+                                                                              identificar su contexto y reconocer que en cada caso particular pueden
+                                          2. Establecer relaciones entre
+                                                                              presentarse diferentes valores o ideas que se privilegian en un momento
+                                          dimensiones presentes en una
+                                                                              dado. Se espera, en consecuencia, que los evaluados comprendan que
+                                          situación problemática y sus
+                                                                              cada situación involucra diferentes dimensiones y que, en ocasiones,
+                                          posibles alternativas de solución
+                                                                              estas pueden contraponerse entre sí. Por ende, se debe comprender que
+                                                                              las decisiones que se toman pueden favorecer unas dimensiones e ir en
+                                                                              detrimento de otras.
+
+
+
+
+                                                                                                                                                                            51
+                                                                                                          Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Έ Tabla 26. Desagregado de la tercera competencia
+
+
+
+                   Afirmaciones                                           Evidencias
+
+          5. Evalúa usos sociales de las
+          ciencias sociales.                 5.1 Analiza modelos conceptuales y sus usos en decisiones sociales.
+
+          6. Comprende que los problemas     6.1 Establece relaciones que hay entre dimensiones presentes en una
+          y sus soluciones involucran        situación problemática.
+          distintas dimensiones y reconoce
+          relaciones entre estas.
+                                             6.2 Analiza los efectos en distintas dimensiones que tendría una
+                                             posible intervención.
+
+
+
+
+                                                                                                                                                             52
+                                                                                                   Contenido   Presentación   Características   Especificaciones
+
+
+
+
+2. Estructura de la prueba
+
+Las preguntas de esta prueba están distribuidas por competencias, como
+se muestra en la tabla 27.
+
+
+    Έ Tabla 27. Distribución de preguntas por competencias
+
+
+
+               Competencia                   Porcentaje de preguntas
+
+  a. Pensamiento social                               30 %
+                                                                         Si desea familiarizarse con las cinco
+                                                                         pruebas del examen Saber 11° y con los
+  b. Interpretación y análisis de
+                                                      40 %               tipos de preguntas, consulte la caja de
+  perspectivas
+                                                                         herramientas, la cual contiene marcos
+                                                                         de referencia, infografías, cuadernillos
+  c. Pensamiento reflexivo y sistémico                30 %
+                                                                         de preguntas, ejemplos de preguntas
+                                                                         explicadas y más.
+
+
+
+
+                                                                                                                                                      53
+                                                                                                                       Contenido   Presentación    Características   Especificaciones
+
+
+
+
+            D. Ciencias Naturales
+
+De acuerdo con el Marco de referencia, esta prueba evalúa la capacidad          razón, en la prueba se adopta la perspectiva de la ciencia como práctica
+que tienen los evaluados de comprender y usar nociones, conceptos               social, es decir, como un proceso colectivo de construcción, validación y
+y teorías de las ciencias naturales en la solución de problemas. Evalúa         debate y, asimismo, se comprenden las ciencias naturales como un área del
+también la habilidad de los evaluados para explicar cómo ocurren algunos        conocimiento caracterizada por lenguajes propios y formas particulares de
+fenómenos de la naturaleza, con base en observaciones, patrones y               abordar los problemas.
+conceptos propios del conocimiento científico. La prueba, además,
+involucra en la evaluación el proceso de indagación, que incluye observar       1. Competencias evaluadas
+y relacionar patrones en los datos para llegar a conclusiones sobre
+fenómenos naturales.                                                            La prueba Ciencias Naturales evalúa tres competencias que están alineadas
+                                                                                con lo propuesto en los Estándares Básicos de Competencias (EBC):
+La prueba Ciencias Naturales no pretende evaluar conocimientos científicos
+en sentido estricto, sino la capacidad para reconstruir significativamente
+el conocimiento existente, razonar, tomar decisiones, resolver problemas,
+pensar con rigurosidad y valorar de manera crítica el conocimiento y sus
+                                                                                                            Uso comprensivo
+consecuencias en la sociedad y en el ambiente.                                        Explicación de
+                                                                                                            del conocimiento                      Indagación
+                                                                                       fenómenos
+                                                                                                                científico
+En los Estándares Básicos de Competencias de Ciencias Naturales, el
+MEN resalta la importancia de la formación científica en el contexto actual,
+cuando la ciencia y la tecnología desempeñan un papel cada vez más
+relevante en la vida cotidiana y en el desarrollo de las sociedades. Por esta
+
+
+
+
+                                                                                                                                                                           54
+                                                                                                             Contenido    Presentación   Características   Especificaciones
+
+
+
+
+a. Explicación de fenómenos                                                   Afirmaciones                               Evidencias
+
+Es la capacidad de construir explicaciones y comprender argumentos y      2. Explica cómo ocurren    2.1 Da las razones por las cuales una
+                                                                          algunos fenómenos de       reacción describe un fenómeno y justifica
+modelos que den razón de fenómenos, así como de establecer la validez
+                                                                          la naturaleza basado en    las relaciones cuantitativas existentes,
+o coherencia de una afirmación o de un argumento relacionados con un      observaciones, patrones    teniendo en cuenta la ley de conservación
+fenómeno o problema científico.                                           y conceptos propios del    de la masa y carga.
+                                                                          conocimiento científico.
+    Έ Tabla 28. Desagregado de la primera competencia                                                2.2 Reconoce las razones por las cuales
+                                                                                                     la materia se puede diferenciar, según
+                                                                                                     su estructura y propiedades, y justifica
+                                                                                                     las diferencias existentes entre distintos
+       Afirmaciones                          Evidencias                                              elementos, compuestos y mezclas.
+  1. Analiza el potencial     1.1 Explica algunos principios para                                    2.3 Reconoce los atributos que definen
+  del uso de recursos         mantener la salud individual y la pública                              ciertos procesos fisicoquímicos simples
+  naturales o artefactos      basado en principios biológicos, químicos                              (separación de mezclas, solubilidad, gases
+  y sus efectos sobre el      y físicos.                                                             ideales, cambios de fase) y da razón de la
+  entorno y la salud, así
+                                                                                                     manera en que ocurren.
+  como las posibilidades      1.2 Explica cómo la explotación de un
+  de desarrollo para las      recurso o el uso de una tecnología tiene
+                              efectos positivos o negativos en las                                   2.4 Elabora explicaciones al relacionar
+  comunidades.
+                              personas y en el entorno.                                              las variables de estado que describen un
+                                                                                                     sistema electrónico, argumentando a partir
+                              1.3 Explica el uso correcto y seguro de                                de los modelos básicos de circuitos.
+                              una tecnología o artefacto en un contexto
+                              específico.                                                            2.5 Elabora explicaciones al relacionar
+                                                                                                     las variables de estado que describen
+                                                                                                     un sistema, argumentando a partir de
+                                                                                                     los modelos básicos de cinemática y
+                                                                                                     dinámica newtoniana.
+
+                                                                                                                           Continúa en la siguiente página
+
+
+
+
+                                                                                                                                                                 55
+                                                                                                 Contenido    Presentación   Características   Especificaciones
+
+
+
+
+Afirmaciones                  Evidencias                         Afirmaciones                                Evidencias
+
+               2.6 Elabora explicaciones al relacionar       3. Modela fenómenos de      3.1 Usa modelos físicos basados en
+               las variables de estado que describen un      la naturaleza basado en     dinámica clásica para comprender un
+               sistema, argumentando a partir de los         el análisis de variables,   fenómeno particular en un sistema.
+               modelos básicos de la termodinámica.          la relación entre dos
+                                                             o más conceptos del
+                                                                                         3.2 Identifica y usa modelos químicos para
+               2.7 Elabora explicaciones al relacionar       conocimiento científico y
+                                                                                         comprender fenómenos particulares de la
+               las variables de estado que describen un      de la evidencia derivada
+                                                                                         naturaleza.
+               sistema, argumentando a partir de los         de investigaciones
+               modelos básicos de ondas.                     científicas.
+                                                                                         3.3 Analiza y usa modelos biológicos para
+                                                                                         comprender la dinámica que se da en lo
+               2.8 Analiza aspectos de los ecosistemas
+                                                                                         vivo y en el entorno.
+               y da razón de cómo funcionan, de sus
+               interrelaciones con los factores bióticos y
+               abióticos y de sus efectos al modificarse
+               alguna variable interna.
+
+               2.9 Analiza la dinámica interna de los
+               organismos y da razón de cómo funcionan
+               sus componentes por separado y en
+               conjunto para mantener la vida en el
+               organismo.
+
+
+
+
+                                                                                                                                                     56
+                                                                                                      Contenido     Presentación   Características   Especificaciones
+
+
+
+
+b. Uso comprensivo del conocimiento científico                               Afirmaciones                         Evidencias
+
+Es la capacidad de comprender y usar nociones, conceptos y teorías de las                   4.4 Establece relaciones entre fenómenos
+                                                                                            biológicos para comprender la dinámica de
+ciencias naturales en la solución de problemas, y de establecer relaciones
+                                                                                            lo vivo.
+entre conceptos y conocimientos adquiridos y fenómenos que se observan
+con frecuencia.                                                                             4.5 Establece relaciones entre fenómenos
+                                                                                            biológicos para comprender su entorno.
+    Έ Tabla 29. Desagregado de la segunda competencia
+                                                                                            4.6 Diferencia distintos tipos de reacciones
+                                                                                            químicas y realiza de manera adecuada
+                                                                                            cálculos teniendo en cuenta la ley de
+      Afirmaciones                           Evidencias
+                                                                                            conservación de la masa y carga.
+  4. Asocia fenómenos        4.1 Relaciona los componentes de un
+  naturales con                                                                             4.7 Establece relaciones entre conceptos
+                             circuito en serie y en paralelo con sus
+  conceptos propios del                                                                     fisicoquímicos simples (separación de
+                             respectivos voltajes y corrientes.
+  conocimiento científico.                                                                  mezclas, solubilidad, gases ideales) con
+                                                                                            distintos fenómenos naturales.
+                             4.2 Relaciona los distintos factores que
+                             determinan la dinámica de un sistema
+                                                                                            4.8 Establece relaciones entre las
+                             o fenómeno (condiciones iniciales,
+                                                                                            propiedades y estructura de la materia con
+                             parámetros y constantes) para identificar
+                                                                                            la formación de iones y moléculas.
+                             su comportamiento, teniendo en cuenta las
+                             leyes de la física.
+                                                                                                                     Continúa en la siguiente página
+                             4.3 Relaciona los tipos de energía presentes
+                             en un objeto con las interacciones que
+                             presenta el sistema con su entorno.
+
+
+
+
+                                                                                                                                                           57
+                                                                                                  Contenido     Presentación   Características   Especificaciones
+
+
+
+
+    Afirmaciones                          Evidencias                     Afirmaciones                         Evidencias
+
+5. Identifica las          5.1 Identifica las características                           5.5 Identifica características de algunos
+características de         fundamentales de las ondas, así como las                     procesos que se dan en los organismos
+algunos fenómenos          variables y parámetros que afectan estas                     para comprender la dinámica de lo vivo.
+de la naturaleza           características en un medio de propagación.
+basado en el análisis
+de información y           5.2 Identifica las formas de energía                         5.6 Identifica las propiedades y estructura
+conceptos propios del      presentes en un fenómeno físico y las                        de la materia y diferencia elementos,
+conocimiento científico.   transformaciones que se dan entre ellas.                     compuestos y mezclas.
+
+                           5.3 Identifica los diferentes tipos de                       5.7 Reconoce posibles cambios en el
+                           fuerzas que actúan sobre los cuerpos que                     entorno por la explotación de un recurso o
+                           conforman un sistema.                                        el uso de una tecnología.
+
+                           5.4 Identifica características de algunos
+                           procesos que se da en los ecosistemas para
+                           comprender la dinámica que se dan a su
+                           interior.
+
+
+
+
+                                                                                                                                                       58
+                                                                                                                  Contenido    Presentación   Características   Especificaciones
+
+
+
+
+c. Indagación                                                                  Έ Tabla 30. Desagregado de la tercera competencia
+
+
+Vincular a los estudiantes con la forma como se amplía y modifica el
+conocimiento científico es esencial para formar ciudadanos alfabetizados          Afirmaciones                                Evidencias
+científicamente. Esta competencia se define como la capacidad para
+                                                                             6. Comprende que a           6.1 Analiza qué tipo de pregunta puede
+comprender que, a partir de la investigación científica, se construyen       partir de la investigación   ser contestada a partir del contexto de una
+explicaciones del mundo natural. Además, involucra los procedimientos        científica se construyen     investigación científica.
+o metodologías que se aplican para generar más preguntas o intentar          explicaciones sobre el
+dar respuestas a estas. El proceso de indagación en ciencias incluye,        mundo natural.
+                                                                                                          6.2 Reconoce la importancia de la
+entre otras cosas, observar detenidamente la situación planteada,                                         evidencia para comprender fenómenos
+formular preguntas, recurrir a libros u otras fuentes de información,                                     naturales.
+hacer predicciones, plantear experimentos, identificar variables, realizar
+                                                                             7. Deriva conclusiones       7.1 Comunica de forma apropiada el
+mediciones y organizar y analizar resultados. En el aula de clases no se     para algunos fenómenos       proceso y los resultados de investigación
+trata de que el alumno repita un protocolo ya establecido o elaborado por    de la naturaleza,            en ciencias naturales.
+el docente, sino que el estudiante formule sus propias preguntas y diseñe    basándose en
+su propio procedimiento.                                                     conocimientos científicos
+                                                                             y en la evidencia de su      7.2 Determina si los resultados derivados
+                                                                             propia investigación y la    de una investigación son suficientes y
+                                                                             de otros.                    pertinentes para sacar conclusiones en
+                                                                                                          una situación dada.
+
+
+                                                                                                                                Continúa en la siguiente página
+
+
+
+
+                                                                                                                                                                      59
+                                                                                                      Contenido    Presentación   Características   Especificaciones
+
+
+
+
+    Afirmaciones                        Evidencias                        Afirmaciones                            Evidencias
+
+                         7.3 Elabora conclusiones a partir            9. Utiliza algunas      9.1 Da posibles explicaciones de eventos o
+                         de información o evidencias que las          habilidades de          fenómenos consistentes con conceptos de
+                         respalden.                                   pensamiento y de        la ciencia.
+                                                                      procedimiento para
+                                                                      evaluar predicciones.   9.2 Diseña experimentos para dar
+                         7.4 Hace predicciones basado en                                      respuesta a sus preguntas.
+                         información, patrones y regularidades.
+                                                                                              9.3 Elige y utiliza instrumentos adecuados
+8. Observa y relaciona   8.1 Interpreta y analiza datos                                       para reunir datos.
+patrones en los datos    representados en texto, gráficas, dibujos,
+para evaluar las         diagramas o tablas.                                                  9.4 Reconoce la necesidad de registrar y
+predicciones.                                                                                 clasificar la información para realizar un
+                                                                                              buen análisis.
+                         8.2 Representa datos en gráficas y tablas.
+                                                                                              9.5 Usa información adicional para evaluar
+                                                                                              una predicción.
+
+
+
+
+                                                                                                                                                          60
+                                                                                                                        Contenido   Presentación   Características   Especificaciones
+
+
+
+
+2. Componentes evaluados                                                        b. Conceptos del componente físico
+
+
+Es importante tener en cuenta que el desarrollo de estas tres competencias      Cinemática, dinámica, electromagnetismo, energía mecánica, ondas,
+no puede darse en el vacío. Es por esto que, la prueba Ciencias Naturales       energía térmica, campo gravitacional, transformación y conservación de la
+se elabora según unos escenarios conceptuales y unas temáticas en los           energía.
+que se involucran estas competencias. Los componentes que se derivan
+de lo establecido en los EBC incluyen:                                          c. Conceptos del componente químico
+
+
+                                                                                Cambios químicos, el átomo, tipos de enlaces, propiedades de la materia,
+                                                                                estequiometría, separación de mezclas, solubilidad, gases ideales,
+    a. Conceptos del                                 b. Conceptos del
+                                                                                transformación y conservación de la energía.
+  componente biológico                              componente físico
+
+                                                                                d. Temáticas del componente de Ciencia, Tecnología y Sociedad (CTS)
+
+
+                                                                                Se trata de temáticas interdisciplinares relacionadas con las ciencias
+                                                                                naturales. Algunas son globales, como la deforestación, el efecto
+                                                                                invernadero y la producción de transgénicos; y otras son locales, como la
+                                           d. Temáticas del componente de       explotación de recursos y el tratamiento de basuras. No se requiere un
+   c. Conceptos del
+                                            Ciencia, Tecnología y Sociedad      conocimiento previo de estas temáticas.
+ componente químico
+                                                         (CTS)
+                                                                                El objetivo, en concordancia con los EBC, es estimular en los jóvenes el
+                                                                                desarrollo de un pensamiento crítico y de un sentido de responsabilidad
+a. Conceptos del componente biológico
+                                                                                cívica ante la ciencia y la tecnología, en la medida en que estas tienen
+                                                                                efectos en sus vidas, la de su comunidad y la de la humanidad en general.
+Homeostasis en los seres vivos, la herencia y la reproducción, las relaciones
+ecológicas, la evolución y transformación de la vida en el planeta, la
+conservación de la energía.
+
+
+
+                                                                                                                                                                           61
+                                                                                                           Contenido   Presentación   Características   Especificaciones
+
+
+
+
+3. Estructura de la prueba
+
+Las preguntas de esta prueba están distribuidas por competencias, como se muestra
+en la tabla 31.
+
+
+    Έ Tabla 31. Distribución de preguntas por competencias y componentes
+
+
+
+                    Componente Componente Componente
+  Competencias                                                    CTS     Total
+                     biológico    físico    químico
+
+  a. Uso                                                                            Si desea familiarizarse con las cinco
+  comprensivo del                                                                   pruebas del examen Saber 11° y con los
+  pensamiento           9%              9%            9%          3%      30 %
+                                                                                    tipos de preguntas, consulte la caja de
+  científico
+                                                                                    herramientas, la cual contiene marcos
+  b. Explicación                                                                    de referencia, infografías, cuadernillos
+  de fenómenos          9%              9%            9%          3%      30 %      de preguntas, ejemplos de preguntas
+                                                                                    explicadas y más.
+  c. Indagación         12 %           12 %           12 %        4%      40 %
+
+  Total                 30 %           30 %          30 %        10 %    100 %
+
+
+
+
+                                                                                                                                                              62
+                                                                                                                    Contenido   Presentación   Características   Especificaciones
+
+
+
+
+           E. Inglés                                                        1. Partes de la prueba
+
+                                                                            La prueba está conformada por siete partes. A cada parte se le asocia un
+De acuerdo con el Marco de referencia, esta prueba evalúa la                porcentaje particular de preguntas, como se describe a continuación, en la
+competencia para comunicarse efectivamente en inglés. La evaluación         tabla 32.
+realizada a través de la prueba Inglés se alinea con los Estándares
+Básicos de Competencias en Lenguas Extranjeras: Inglés del MEN.                 Έ Tabla 32. Distribución de preguntas por partes
+
+
+A su vez, en relación con el Marco Común Europeo de Referencia para                          Parte                         Porcentaje de preguntas
+las lenguas (MCER), los evaluados se clasifican en cuatro niveles de
+desempeño.                                                                                     1                                           11 %
+
+                                                                                               2                                           11 %
+Teniendo en cuenta que, en Colombia, existe población que está por debajo
+del nivel del MCER (A1), en esta prueba se incluyó el nivel Pre A1, que                        3                                           11 %
+representa un paso a medio camino del Nivel A1, donde los estudiantes                          4                                           18 %
+aún no pueden producir discurso, pero son capaces de comprender algunas
+palabras y expresiones fijas. Documento de consulta.                                           5                                           16 %
+
+                                                                                               6                                           11 %
+   Έ Figura 5. Niveles de desempeño
+                                                                                               7                                           22 %
+
+
+                                                                            La prueba busca que los evaluados demuestren sus habilidades
+                                                                            comunicativas en lectura y uso de la lengua inglesa. Para ello, cada una
+                                                                            de las siete partes que componen la prueba Inglés evalúa una habilidad
+                                                                            específica relacionada, como se menciona a continuación:
+
+
+
+
+                                                                                                                                                                       63
+                                                                                                             Contenido      Presentación   Características   Especificaciones
+
+
+
+
+                                                                                                                                 Con base en un
+      Evalúa el                          Indaga por el                         Evalúa el
+                                                                                                                                 texto, evalúa el
+    conocimiento                         conocimiento                        conocimiento
+                                                                                                                                  conocimiento
+       lexical                            pragmático                         comunicativo
+                                                                                                                                   gramatical
+
+
+
+En esta parte, los evaluados         Los evaluados deben reconocer     Los evaluados deben elegir la                     Los evaluados deben
+deben comprender una serie           el propósito comunicativo de      intervención más adecuada que                     elegir las palabras más
+de descripciones con el fin de       un aviso y el lugar donde este    un interlocutor 2 haría frente a                  adecuadas para completar
+relacionarlas con una lista de       puede aparecer. Para ello, los    lo dicho por un interlocutor 1.                   un texto. Para ello, los
+palabras. Dicha lista consta         evaluados deben leer el aviso y   Lo anterior se relaciona con la                   evaluados deben leer y
+de siete palabras disponibles,       escoger entre las tres opciones   pertinencia del lenguaje usado en                 prestar atención a una serie
+clasificadas de la letra A a la      de respuesta disponibles (A,      situaciones particulares, recreadas               de espacios, puesto que,
+letra G, y las cinco descripciones   B o C) el lugar más apropiado     en pequeñas conversaciones.                       para cada uno de estos, se
+con las que deben relacionarlas.     y marcarla en la hoja de          En consecuencia, en esta parte,                   debe seleccionar la palabra
+Cabe indicar que al haber cinco      respuestas.                       el evaluado debe completar                        gramaticalmente correcta
+enunciados y siete opciones de                                         conversaciones cortas,                            entre las tres opciones
+respuesta, sobran dos opciones                                         seleccionando la respuesta                        presentadas (A, B o C)
+al final.                                                              correcta entre las tres opciones de               y marcarla en la hoja de
+                                                                       la hoja de respuestas.                            respuestas.
+
+
+
+
+                                                                                                                                                                   64
+                                                                                Contenido   Presentación   Características   Especificaciones
+
+
+
+
+        Evalúa la                        Evalúa el                  Con base en un
+    comprensión de                        proceso                   texto, evalúa el
+    lectura literal de                  de lectura                   conocimiento
+        un texto                        inferencial                   gramatical y
+                                                                         lexical
+
+
+Este ejercicio consiste en que   En esta parte se plantean     El ejercicio consiste en elegir
+los evaluados seleccionen        distintas preguntas sobre     las palabras más adecuadas
+la paráfrasis que permite        la intención del autor y      para completar el texto. Para
+responder correctamente          los aspectos generales y      ello, se debe seleccionar la
+a cada pregunta planteada        particulares destacables      palabra correcta, es decir,
+en un texto. Los evaluados       del texto. El evaluado debe   aquella que completa cada
+deben seleccionar la             seleccionar la respuesta      uno de los espacios en el
+respuesta correcta, para cada    correcta, para cada           texto presentado, entre
+pregunta, entre tres opciones    pregunta, entre cuatro        cuatro opciones dadas (A, B,
+(A, B o C) y señalarla en la     opciones (A, B, C o D) y      C o D) y marcarla en la hoja
+hoja de respuestas.              marcarla en su hoja de        de respuestas.
+                                 respuestas.
+
+
+
+
+                                                                                                                                   65
+                                           Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Si desea familiarizarse con las cinco
+pruebas del examen Saber 11° y con los
+tipos de preguntas, consulte la caja de
+herramientas, la cual contiene marcos
+de referencia, infografías, cuadernillos
+de preguntas, ejemplos de preguntas
+explicadas y más.
+
+
+
+
+                                                                                              66
+                                                                                                                 Contenido   Presentación   Características   Especificaciones
+
+
+
+
+           F. Cuestionarios auxiliares
+
+                       1. Cuestionario socioeconómico
+
+
+           Además de las cinco pruebas, los estudiantes responden el cuestionario socioeconómico, compuesto por 24 preguntas que
+           apuntan a establecer y determinar su índice del nivel socioeconómico. Es relevante mencionar que las respuestas dadas en
+           este cuestionario no afectan el puntaje del examen. En términos generales, el Cuestionario socioeconómico indaga por los
+           siguientes aspectos:
+
+
+                                                                                El consumo de alimentos de los evaluados
+                                   Las posesiones en el hogar,                  y las condiciones de hacinamiento de sus
+                                   entre las cuales se encuentran               hogares, ya que indaga por el número
+                                   computador, lavadora, horno,                 de personas que conforman su hogar
+                                   automóvil particular, moto y                 y en cuántas habitaciones duermen las
+                                   consola de juegos.                           personas del hogar.
+
+
+
+El nivel de educación y                                                                                        La percepción de la situación
+ocupación de las madres,                                                                                       económica del hogar en
+padres y cuidadores de                                                                                         comparación con el año
+los estudiantes.                                                                                               anterior.
+
+
+
+                               El estrato               El número de libros                 La cantidad de horas
+                               socioeconómico           físicos o electrónicos en           que el estudiante
+                               del hogar del            el hogar y la cantidad de           trabaja por semana y el
+                               evaluado.                tiempo que le dedica a              tipo de remuneración
+                                                        leer por entretenimiento            por ese trabajo.
+                                                        y a navegar en internet.
+                                                                                                                                                                    67
+                                                                                                            Contenido   Presentación   Características   Especificaciones
+
+
+
+
+            2. Cuestionario clima escolar
+
+
+Con este cuestionario se evalúa la percepción que tienen los estudiantes sobre las características psicosociales de su
+institución educativa. Dichas características están determinadas por factores estructurales, personales y funcionales que,
+en conjunto, le otorgan un estilo propio a cada institución.
+
+
+El clima escolar se relaciona estrechamente con los ambientes de aprendizaje y con las interacciones que ocurren dentro
+de ellos. Evalúa aspectos como la seguridad física y emocional de los estudiantes, las relaciones entre compañeros y con el
+personal docente, así como el nivel de participación en la gestión de proyectos o programas escolares.
+
+
+Esta evaluación no busca medir conocimientos, sino reconocer la manera en que los estudiantes perciben y experimentan
+su entorno educativo. De esta forma, permite identificar características de la convivencia y algunos aspectos
+socioemocionales dentro de la comunidad educativa. Los resultados de este cuestionario NO afectan los puntajes
+obtenidos en la prueba Saber 11.
+
+
+
+
+                                                                                                                                                               68
+                                                                                                          Contenido   Presentación   Características   Especificaciones
+
+
+
+
+Dominios evaluados en Clima escolar
+
+a. Ansiedad escolar: Se refiere a la ansiedad o nerviosismo que experimentan los estudiantes en el entorno educativo.
+   Esto puede estar relacionado con situaciones asociadas al fracaso o castigo escolar, por ejemplo, sacar malas notas y
+   recuperar materias.
+
+
+    Έ Tabla 33. Desagregado del dominio Ansiedad escolar
+
+
+                   Afirmaciones                                                   Evidencias
+
+                                                       El/la estudiante experimenta reacciones afectivas desagradables
+  El/la estudiante evalúa elementos del entorno        cuando interactúa con pares, docentes y madres, padres y
+  escolar como desencadenantes de sensaciones          cuidadores.
+  incómodas, pensamientos que le generan
+  preocupaciones o sentimientos de tensión,            El/la estudiante experimenta estados afectivos negativos
+  aprensión y nerviosismo.                             (incluyendo la sensación de no-control) de manera frecuente en
+                                                       la escuela.
+
+
+                                                       El/la estudiante experimenta reacciones afectivas negativas
+                                                       cuando participa en actividades académicas específicas
+  El/la estudiante evalúa elementos de las             (por ejemplo, hacer o responder preguntas, trabajar
+  actividades académicas y las interacciones de        colaborativamente, comunicar una idea, etc.).
+  aula como generadores de tensión, aprensión
+  y nerviosismo, pensamientos molestos y
+  preocupaciones, junto con cambios fisiológicos       El/la estudiante experimenta estados afectivos negativos
+                                                       asociados a sus expectativas y las de otros sobre su desempeño
+                                                       escolar en general.
+
+
+
+
+                                                                                                                                                             69
+                                                                                                             Contenido   Presentación   Características   Especificaciones
+
+
+
+
+b. Riesgo escolar: Se refiere a la probabilidad de que ocurran eventos negativos que puedan afectar el bienestar o el
+   proceso educativo de los estudiantes en el entorno escolar. Esto puede incluir factores como la violencia, el acoso, la
+   deserción escolar, entre otros.
+
+
+    Έ Tabla 34. Desagregado del dominio Riesgo escolar
+
+
+                    Afirmaciones                                                    Evidencias
+
+                                                         El/la estudiante reconoce condiciones de riesgo social en el
+                                                         entorno próximo al contexto escolar.
+
+  El/la estudiante reconoce las condiciones del          El/la estudiante reconoce condiciones de riesgo económico en el
+  contexto del establecimiento educativo que             contexto escolar.
+  pueden afectar su vida cotidiana.
+
+                                                         El/la estudiante percibe que hay condiciones que pueden afectar
+                                                         directamente su interacción escolar o disfrute de los espacios.
+
+
+                                                         El entorno de la institución educativa del estudiante tiene factores
+                                                         que pueden llegar a interrumpir las actividades académicas.
+  El/la estudiante está expuesto a condiciones que
+  pueden interrumpir las actividades académicas.
+                                                         El aula donde el/la estudiante recibe las actividades académicas
+                                                         presenta situaciones que afectarían su aprendizaje.
+
+
+
+
+                                                                                                                                                                70
+                                                                                                          Contenido   Presentación   Características   Especificaciones
+
+
+
+
+c. Protección individual: Se refiere a los recursos con los que puede contar el estudiante para afrontar las situaciones
+   desafiantes el entorno escolar. Puede incluir tanto las habilidades del individuo como los recursos que pueden provenir
+   de diferentes ámbitos como lo son el personal, el familiar, el escolar y el social.
+
+
+    Έ Tabla 35. Desagregado del dominio Protección individual
+
+
+                   Afirmaciones                                                   Evidencias
+
+                                                       El/la estudiante reconoce los recursos de apoyo brindados por su
+                                                       madre, padre o cuidador que le permiten participar y convivir en el
+                                                       entorno escolar.
+  El/la estudiante recibe apoyo directo de
+  otras personas para afrontar las situaciones         El/la estudiante reconoce los recursos de apoyo brindados por
+  desafiantes que se presentan en el entorno           su profesor que le permiten participar y convivir en el entorno
+  escolar.                                             escolar.
+
+
+                                                       El/la estudiante reconoce los recursos de apoyo brindados por sus
+                                                       amigos que le permiten participar y convivir en el entorno escolar.
+
+
+                                                       El/la estudiante reconoce a su familia como una fuente de apoyo
+                                                       para enfrentar las situaciones académicas.
+
+  El/la estudiante cuenta con apoyo directo de
+                                                       El/la estudiante reconoce los recursos que los profesores ponen a
+  otras personas para desarrollar su actividad
+                                                       su disposición para apoyarlo en su vida académica.
+  escolar.
+
+                                                       El/la estudiante reconoce los recursos que sus amigos pone a su
+                                                       disposición para apoyarlo en su vida académica.
+
+
+
+
+                                                                                                                                                             71
+                                                                                                            Contenido   Presentación   Características   Especificaciones
+
+
+
+
+d. Protección institucional: Se refiere a las acciones y normas aplicadas por una institución educativa para asegurar
+   la seguridad y el bienestar de sus estudiantes. Puede incluir acciones para prevenir y enfrentar comportamientos
+   riesgosos, asegurar un ambiente de aprendizaje seguro, así como programas de apoyo emocional y psicológico o
+   académico para los estudiantes.
+
+
+    Έ Tabla 36. Desagregado del dominio Protección institucional
+
+
+                   Afirmaciones                                                    Evidencias
+
+
+  El/la estudiante tiene una percepción positiva        El/la estudiante tiene una percepción positiva sobre el
+  sobre el funcionamiento y cumplimiento de las         funcionamiento y cumplimiento de las normas de la escuela.
+  normas de la escuela que le permiten confiar en
+  que la institución busca mantener la armonía          El/la estudiante confía en que la institución mantiene un
+  y el bienestar de los estudiantes en el entorno       funcionamiento adecuado buscando el bienestar de los
+  escolar.                                              estudiantes.
+
+
+                                                        El/la estudiante conoce las actividades o servicios que ofrece la
+  El/la estudiante reconoce los servicios,              institución para fortalecer su desarrollo dentro de la actividad
+  estrategias, o sistemas que la institución tiene      académica.
+  para garantizar que los estudiantes tengan las
+  mismas oportunidades de aprendizaje, y puedan         El/la estudiante tiene una percepción positiva sobre el
+  desarrollar todo su potencial académico.              funcionamiento de los sistemas, actividades o estrategias que
+                                                        orientan la actividad académica.
+
+
+
+
+                                                                                                                                                               72
+             Subdirección de Diseño de Instrumentos
+                     Dirección de Evaluación
+
+Calle 26 N.º 69-76, Torre 2, Piso 16, Edificio Elemento, Bogotá D. C.,
+                    Colombia www.icfes.gov.co
+           Líneas de atención al ciudadano: Bogotá D. C.,
+          Tel.: (60+1) 915 6101 I PBX: (60+1) 915 6101
+

@@ -1,0 +1,2598 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Conceptos de electricidad, magnetismo y energía grado 7º de educación básica secundaria
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+# Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+En la siguiente guía de apoyo de ciencias naturales para grado séptimo encontrará algunas ecuaciones e imágenes que tendrán una descripción inmediatamente después de encontrarla.
+
+En cada capítulo encontrará las secciones “Examínate” que consiste en preguntas o ejercicios para responder junto con la lectura. A continuación encontrará la respuesta que se sugiere para comparar y comprobar los avances de la lectura.
+
+Al final de cada capítulo encontrará una serie de problemas y ejercicios de todas las secciones leídas. A lo largo de la lectura de esta guía encontrarás números en notación científica, así que se sugiere estudiar o repasar el tema para mejor comprensión.
+
+Los laboratorios sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Contenido
+
+# Índice de imágenes
+
+Imagen 1. Tipos de carga eléctrica 14
+
+Imagen 2. Modelo de un átomo de helio 16
+
+Imagen 3. Carga eléctrica de varilla 20
+
+Imagen 4. Carga por fricción y después por contacto 28
+
+Imagen 5. Carga por inducción 29
+
+Imagen 6. Etapas de carga por inducción 29
+
+Imagen 7. Electrón entorno a nube electrónica 33
+
+Imagen 8. Globo cargado 34
+
+Imagen 9. Comparación de fuerzas 36
+
+Imagen 10. Líneas de fuerza eléctrica 37
+
+Imagen 11. Algunas configuraciones de campos eléctricos 38
+
+Imagen 12. Diferentes líneas de campo 40
+
+Imagen 13. Campo eléctrico en punto P 43
+
+Imagen 14. Distribución de carga 44
+
+Imagen 15. Energía potencial eléctrica 47
+
+Imagen 16. Condensador 51
+
+Imagen 17. Generador Van de Graaff 53
+
+Imagen 18. Analogía para el flujo 69
+
+Imagen 19. Analogía del circuito eléctrico 73
+
+Imagen 20. Gráficas de la c.a. y c.d 81
+
+Imagen 21. Símbolo de Diodo 84
+
+Imagen 22. Tina a cubetadas 84
+
+Imagen 23. Líneas de campo en acumulador 86
+
+Imagen 24. Bombilla 88
+
+Imagen 25. Circuito en serie 95
+
+Imagen 26. Circuito en paralelo 98
+
+Imagen 27. Circuito con electrodomésticos 100
+
+Imagen 28. Letrero advertencia 114
+
+Imagen 29. Diagrama ejercicio 36 115
+
+Imagen 30. Diagrama ejercicio 38 116
+
+Imagen 31. Imán tipo herradura 123
+
+Imagen 32. Limadura de hierro con imán 125
+
+Imagen 33. Dominios magnéticos 128
+
+Imagen 34. Etapas de magnetización 129
+
+Imagen 35. Campo magnético de un alambre 134
+
+Imagen 36. Magplano 136
+
+Imagen 37. Galvanómetro común 140
+
+Imagen 38. La Tierra es un imán 144
+
+Imagen 39. Formas de energía 166
+
+Imagen 40. Estructura molecular de un sólido 175
+
+Imagen 41. Partículas en movimiento 176
+
+Imagen 42. Partículas en un líquido 177
+
+Imagen 43. Transformación de la energía 184
+
+Imagen 44. Transporte de corriente eléctrica 188
+
+Imagen 45. Planta hidroeléctrica 189
+
+Imagen 46. Energía contenida en diferentes alimentos 193
+
+Imagen 47. Transformación de energía en trabajo 200
+
+Imagen 48. Transformación de energía térmica en trabajo 201
+
+Imagen 49. Obtención de gas de carbón 202
+
+# Índice de tablas
+
+Tabla 1. Efecto de las corrientes eléctricas en el organismo 77
+
+Tabla 2. Los alimentos y tu energía 194
+
+# Capítulo 1: electrostática
+
+Electricidad es el nombre que se da a una amplia gama de fenómenos que, de una u otra formas, se producen casi en todo lo que nos rodea. Desde el relámpago en el cielo hasta el encendido de una bombilla eléctrica, y desde lo que mantiene unidos a los átomos de las moléculas hasta los impulsos que se propagan por tu sistema nervioso, la electricidad está en todas partes. El control de la electricidad se hace evidente en muchos aparatos, desde los hornos de microondas hasta las computadoras. En esta era de la tecnología es importante entender las bases de la electricidad y cómo se pueden usar esas ideas básicas para mantener y aumentar nuestra comodidad, nuestra seguridad y nuestro progreso actuales.
+
+En este capítulo estudiaremos la electricidad en reposo, es decir, la electrostática. Ésta implica cargas eléctricas, las fuerzas entre ellas, el aura que las rodea y su comportamiento en los materiales. En el siguiente capítulo examinaremos el movimiento de las cargas eléctricas, que son las corrientes eléctricas. También estudiaremos los voltajes que producen las corrientes y la forma de controlarlos. En capítulos posteriores investigaremos la relación entre las corrientes eléctricas y el magnetismo, y en otro capítulo aprenderemos cómo se controlan la electricidad y el magnetismo para hacer funcionar los motores y otros aparatos eléctricos, así como la electricidad y el magnetismo conectados se vuelve luz.
+
+Para comprender la electricidad se requiere un enfoque paso a paso, ya que un concepto es la base del siguiente. Así que por favor estudia este material con mucho cuidado. Podría resultarte difícil, confuso y frustrante, si eres impaciente. Pero con un esfuerzo esmerado te resultará comprensible y provechoso. ¡Adelante!
+
+## Fuerzas eléctricas
+
+¿Y si hubiera una fuerza universal que, como la gravedad, variara inversamente en función del cuadrado de la distancia, pero que fuera miles de millones de millones más fuerte? Si hubiera una fuerza de atracción así, como la gravedad, se juntaría el universo y formaría una esfera apretada, con toda la materia lo más cerca posible entre sí. Pero imagina que esa fuerza fuera de repulsión, y que cada partícula de materia repele a todas las demás. ¿Qué pasaría? El universo sería gaseoso, frío y estaría expandiéndose. Sin embargo, supón que el universo consistiera de dos clases de partículas, digamos positivas y negativas. Imagina que las positivas repelieran a las positivas, pero que atrajeran a las negativas; y que las negativas repelieran a las negativas, pero atrajeran a las positivas. En otras palabras, las iguales se repelen y las distintas se atraen (Imagen 1). Imagina que hubiera una cantidad igual de cada una, ¡de manera que esta gran fuerza estuviera perfectamente equilibrada! ¿Cómo sería el Universo? La respuesta es sencilla: sería como el que vemos y en el cual vivimos. Porque sí hay esas partículas y sí hay tal fuerza. Se llama fuerza eléctrica.
+
+*Imagen 1. Tipos de carga eléctrica*
+
+Descripción de la Imagen 1. Tipos de carga eléctrica. Parte a, se muestran dos esferas cargadas con el mismo signo y se encuentran separadas. Las cargas de igual signo se repelen. Parte b, se muestran dos esferas cargadas con diferente signo. Las cargas de diferente signo se atraen.
+
+Grupos de partículas positivas y negativas se han reunido entre sí por la enorme atracción de la fuerza eléctrica. En esos grupos compactos y mezclados uniformemente de positivas y negativas, las gigantescas fuerzas eléctricas se equilibran de forma casi perfecta. Estos grupos son los átomos de la materia. Cuando dos o más átomos se unen para formar una molécula, ésta contiene también partículas positivas y negativas balanceadas. Y cuando se combinan billones de moléculas para formar una mota de materia, de nuevo se equilibran las fuerzas eléctricas. Entre dos trozos de materia ordinaria apenas hay atracción o repulsión eléctrica, porque cada trozo contiene cantidades iguales de positivas y negativas. Por ejemplo, entre la Tierra y la Luna no hay fuerza eléctrica neta. La fuerza gravitacional, que es mucho más débil y que sólo atrae, queda como fuerza predominante entre esos cuerpos.
+
+Dato curioso: el hecho de que ciertas cargas se denominen positivas y otras negativas es el resultado de una elección de Benjamín Franklin. Bien pudo ser a la inversa. ¡Eureka!
+
+## Cargas eléctricas
+
+Los términos positivo y negativo se refieren a carga eléctrica, la cantidad fundamental que se encuentra en todos los fenómenos eléctricos. Las partículas con carga positiva de la materia ordinaria son protones, y las de carga negativa, electrones. La fuerza de atracción entre esas partículas hace que se agrupen en unidades increíblemente pequeñas, los átomos. (Los átomos también contienen partículas neutras llamadas neutrones.) Cuando dos átomos se acercan entre sí, el equilibrio de las fuerzas de atracción y de repulsión no es perfecto, porque en el volumen de cada átomo vagan los electrones. Entonces los átomos pueden atraerse entre sí y formar una molécula. De hecho, todas las fuerzas de enlace químico que mantienen unidos a los átomos en las moléculas son de naturaleza eléctrica. Quien desee estudiar química debería conocer primero algo sobre la atracción y la repulsión eléctricas, y antes de estudiarlas deben conocer algo acerca de los átomos. A continuación veremos algunos hechos importantes acerca de los átomos:
+
+1. Cualquier átomo está formado por un núcleo con carga positiva rodeado por electrones con carga negativa.
+
+2. Los electrones de todos los átomos son idénticos. Cada uno tiene la misma cantidad de carga eléctrica y la misma masa.
+
+3. Los protones y los neutrones forman el núcleo. (La forma común de un átomo de hidrógeno no tiene neutrón, y es la única excepción.) Los protones tienen unas 1,800 veces más masa que los electrones; pero la cantidad de carga positiva que tienen es igual a la carga negativa de los electrones. Los neutrones tienen una masa un poco mayor que la de los protones, y no tienen carga neta.
+
+4. En general los átomos tienen igual cantidad de electrones que de protones, por lo que el átomo tiene una carga neta igual a cero.
+
+*Imagen 2. Modelo de un átomo de helio*
+
+Descripción de la Imagen 2. Modelo de un átomo de helio. El núcleo atómico está formado por dos protones y dos neutrones. Los protones tienen carga positiva y atraen dos electrones negativos (los electrones orbitan alrededor del núcleo). ¿Cuál será la carga neta de este átomo?
+
+¿Por qué los protones no atraen a los electrones con carga opuesta y los llevan al núcleo? Podrás imaginar que la respuesta es la misma a la pregunta de por qué los planetas no caen directamente al Sol debido a la fuerza de gravitación, ya que los electrones se mueven en órbita en torno al núcleo. Por desgracia esa explicación para los planetas no es válida para los electrones. Cuando se descubrió el núcleo (1911), los científicos ya sabían que los electrones no pueden describir plácidas órbitas en torno al núcleo, del mismo modo que la Tierra gira alrededor del Sol. Sólo tardarían un cienmillonésimo de segundo, de acuerdo con la física clásica, para caer en espiral hacia el núcleo, emitiendo radiación electromagnética al hacerlo. Por consiguiente, se necesitaba una nueva teoría, y nació la teoría llamada mecánica cuántica. Para describir el movimiento de los electrones todavía seguimos usando la vieja terminología, órbita y orbital; aunque capa es una palabra mejor, pues sugiere que los electrones están dispersos sobre una superficie esférica. En la actualidad, la explicación para la estabilidad del átomo tiene que ver con la naturaleza ondulatoria de los electrones. Un electrón se comporta como una onda, y debe tener cierta cantidad de espacio, que se relaciona con su longitud de onda. Al estudiar la mecánica cuántica, verás que el tamaño del átomo está determinado por la cantidad mínima de “espacio vital” que requiere el electrón.
+
+Pero, ¿por qué los protones en el núcleo no salen despedidos si se repelen mutuamente? ¿Qué mantiene unido al núcleo? La respuesta es que, además de las fuerzas eléctricas en el núcleo, hay fuerzas nucleares no eléctricas, pero todavía mayores, que mantienen unidos a los protones a pesar de la repulsión eléctrica. También, los neutrones desempeñan un papel para poner espacio de por medio entre los protones.
+
+#### Examínate
+
+1. Bajo la complejidad de los fenómenos eléctricos yace una regla fundamental, de la cual se derivan casi todos los demás efectos. ¿Cuál es esta regla fundamental?
+
+2. ¿En qué difiere la carga de un electrón de la carga de un protón?
+
+#### Comprueba tus respuestas
+
+1. Las cargas iguales se repelen; las cargas opuestas se atraen.
+
+2. La carga de un electrón tiene magnitud igual, pero signo contrario, que la carga de un protón.
+
+## Conservación de la carga
+
+En un átomo neutro hay tantos electrones como protones, de manera que no tiene carga neta. Lo positivo compensa exactamente lo negativo. Si a un átomo se le quita un electrón, ya no sigue siendo neutro. Entonces el átomo tiene una carga positiva más (protón) que cargas negativas (electrones), y se dice que tiene carga positiva. Un átomo con carga eléctrica se llama ion. Un ion positivo tiene una carga neta positiva. Un ion negativo es un átomo que tiene uno o más electrones adicionales, y tiene carga negativa.
+
+Los objetos materiales están formados por átomos, y eso quiere decir que están formados por electrones y protones (y neutrones). Los objetos tienen, de ordinario, cantidades iguales de electrones y de protones y, en consecuencia, son eléctricamente neutros. Pero si hay un pequeño desequilibrio en esas cantidades, el objeto tiene carga eléctrica. Cuando se agregan o quitan electrones a un objeto, se produce un desequilibrio. Aunque los electrones más cercanos al núcleo atómico, que son los electrones internos, están muy fuertemente enlazados con el núcleo atómico, de carga opuesta, los electrones más alejados, que son los electrones externos, están enlazados muy débilmente y se pueden desprender con facilidad. La cantidad de trabajo que se requiere para desprender un electrón de un átomo varía entre una y otra sustancias. Los electrones están sujetados con más firmeza en el caucho y en el plástico que en tu cabello, por ejemplo. Así, cuando frotas un peine en tu cabello, los electrones pasan del cabello al peine. Entonces el peine tiene un exceso de electrones, y se dice que tiene carga negativa o que está cargado negativamente. A la vez, tu cabello tiene una deficiencia de electrones y se dice que tiene carga positiva, o que está cargado positivamente. Otro ejemplo consiste en frotar una varilla de vidrio o de plástico contra seda: la varilla se cargará positivamente. La seda tiene más afinidad hacia los electrones que el vidrio o el plástico. En consecuencia, los electrones se desprenden de la varilla y pasan a la seda.
+
+Vemos entonces que un objeto que tiene cantidades distintas de electrones y de protones se carga eléctricamente. Si tiene más electrones que protones, tiene carga negativa. Si tiene menos electrones que protones, tiene carga positiva.
+
+Es importante destacar que cuando se carga algo no se crean ni se destruyen electrones. Sólo pasan de un material a otro. La carga se conserva. En todo caso, ya sea en gran escala o a nivel atómico y nuclear, siempre se ha comprobado que se aplica el principio de la conservación de la carga. Nunca se ha encontrado caso alguno de creación o de destrucción de la carga eléctrica. La conservación de la carga es una de las piedras angulares de la física, y su importancia es igual a la de la conservación de la energía y la conservación de la cantidad de movimiento.
+
+Cualquier objeto con carga eléctrica tiene exceso o falta de algún número entero de electrones: los electrones no pueden dividirse en fracciones de electrones. Esto significa que la carga del objeto es un múltiplo entero de la carga de un electrón. Por ejemplo, no puede tener una carga igual a la de 1,5 o de 1000 y medio electrones. La carga es “granular”, es decir, está formada por unidades elementales llamadas cuantos. Se dice que la carga está cuantizada, y que el cuanto más pequeño de carga es la carga del electrón (o del protón). Nunca se han observado unidades más pequeñas de carga. Hasta la fecha se ha visto que todos los objetos cargados tienen una carga de magnitud igual a un múltiplo entero de la carga de un solo electrón o protón.
+
+*Imagen 3. Carga eléctrica de varilla*
+
+Descripción de la Imagen 3. Carga eléctrica de varilla. Un señor frota vigorosamente una varilla contra un pedazo de piel que tiene en sus manos. Los electrones pasan de la piel a la varilla. La varilla queda con carga negativa. ¿La piel tiene carga? ¿Cuánta en comparación con la varilla? ¿Es positiva o negativa?
+
+Dato curioso: la carga es como el testigo en una carrera de relevos. Pasa de un objeto a otro pero no se pierde.
+
+#### Examínate
+
+Si entran electrones a tus pies al arrastrarlos sobre una alfombra ¿te cargarás negativa o positivamente?
+
+#### Comprueba tu respuesta
+
+Tienes más electrones después de haber frotado tus pies, así que tienes carga negativa (y la alfombra tiene carga positiva).
+
+Ley de Coulomb
+
+La fuerza eléctrica, al igual que la fuerza gravitacional, disminuye inversamente respecto al cuadrado de la distancia entre los cuerpos que interactúan. Esta relación fue descubierta por Charles Coulomb en el siglo XVIII, y se llama ley de Coulomb. Establece que para dos objetos cargados, de tamaño mucho menor que la distancia que los separa, la fuerza entre ellos varía en forma directa con el producto de sus cargas, e inversamente con el cuadrado de la distancia entre ellos. (Repasa la ley del inverso del cuadrado). La fuerza actúa en línea recta de un objeto cargado hacia el otro. Esa ley de Coulomb se puede expresar como:
+
+```latex
+F=k\cdot\frac{q_{1}\cdot q_{2}}{d^{2}}
+```
+
+La ecuación se lee, F mayúscula = k ∙ (q1 ∙ q2 dividido d al cuadrado). Recuerda que el símbolo ∙ significa multiplicación, entonces pueden leerlo como, F mayúscula = k por (q1 × q2 dividido d al cuadrado).
+
+Donde d es la distancia entre las partículas cargadas, q1 representa la cantidad de carga de una partícula, q2 representa la cantidad de carga de la otra partícula y k es la constante de proporcionalidad.
+
+La unidad de carga es el coulomb, y su símbolo es C (C mayúscula). Sucede que una carga de 1C es la que tienen en conjunto 6,25 millones de billones de electrones (1C = 10 18 (10 a la 18) electrones). Parece ser una gran cantidad de electrones, pero sólo representa la carga que pasa por una bombilla eléctrica común de 100 watts durante un poco más de 1 segundo.
+
+La constante de proporcionalidad k de la ley de Coulomb es similar a la G (G mayúscula) de la ley de la gravitación de Newton. En vez de ser un número muy pequeño como esa G (que es 6,67 × 10 −11 (10 a la menos 11)), en el caso de k es un número muy grande. Aproximadamente es igual a:
+
+k=9.000.000.000 N×m2/C2 (N por m cuadrado sobre C cuadrado)
+
+Recuerda que el símbolo / representa división.
+
+O bien, en notación científica, k = 9 × 10 9 (10 a la 9) N×m2/C2 (N por m cuadrado sobre C cuadrado). La unidad N×m2/C2 no tiene importancia especial en este caso; tan sólo convierte el lado derecho de la ecuación a la unidad de fuerza, el newton (N). Lo importante es la gran magnitud de k. Si, por ejemplo, hubiera un par de partículas cargadas con 1 coulomb cada una y estuvieran a una distancia de 1 metro entre sí, la fuerza de atracción o repulsión entre ellas sería 9.000 millones de newton ¡Sería 10 veces mayor que el peso de un buque de guerra! Es evidente que esas cantidades de carga neta no existen en nuestro ambiente cotidiano.
+
+En conclusión, la ley de Newton de la gravitación, para cuerpos masivos, es parecida a la ley de Coulomb para cuerpos cargados. Mientras que la fuerza gravitacional de atracción entre partículas como un electrón y un protón es extremadamente pequeña, la fuerza eléctrica entre ellos es relativamente enorme. Además de la gran diferencia en intensidad, la diferencia más importante entre las fuerzas de gravitación y eléctricas es que estas últimas pueden ser de atracción y de repulsión, mientras que las fuerzas gravitacionales sólo son de atracción.
+
+#### Examínate
+
+1. El protón que es el núcleo de un átomo de hidrógeno atrae al electrón que gira alrededor de él. En relación con esta fuerza, ¿el electrón atrae al protón con menos, con la misma o con más fuerza?
+
+2. Si un protón es repelido con determinada fuerza por una partícula cargada, ¿en qué factor disminuirá la fuerza si el protón se aleja de la partícula hasta tres veces la distancia original? ¿Y hasta cinco veces la distancia original?
+
+3. En este caso, ¿cuál es el signo de la carga de la partícula?
+
+#### Comprueba tus respuestas
+
+1. De acuerdo con la tercera ley de Newton, es la misma fuerza. ¡Es mecánica básica! Recuerda que una fuerza es una interacción entre dos cosas, en este caso entre el protón y el electrón. Tiran uno de otro, por igual.
+
+2. Disminuye a un noveno de su valor original. Disminuye a un veinticincoavo.
+
+3. Positiva.
+
+Conductores y aislantes
+
+Es fácil establecer una corriente eléctrica en los metales, porque sus átomos tienen uno o más electrones en su capa externa que no están anclados a núcleos de átomos determinados; en cambio, son libres para desplazarse a través del material. A esos materiales se les llama buenos conductores. Los metales son excelentes conductores de la corriente eléctrica por la misma razón por la que son buenos conductores de calor: los electrones de su capa atómica externa están “sueltos”.
+
+En otros materiales, como caucho y vidrio, los electrones están fuertemente enlazados con determinados átomos, y pertenecen a ellos. No están libres para desplazarse entre otros átomos del material. En consecuencia, no es fácil hacer que fluyan. Esos materiales son malos conductores de la corriente eléctrica por la misma razón que en general son deficientes conductores del calor. Se dice que esos materiales son buenos aislantes.
+
+Todas las sustancias se pueden ordenar según su capacidad de conducir cargas eléctricas. Las que quedan arriba de la lista son los conductores, y al último quedan los aislantes. Esos extremos en la lista están muy alejados. Por ejemplo, la conductividad de un metal puede ser más de un millón de billones, mayor que la de un aislante, como el vidrio. En un cordón común de un aparato eléctrico, los electrones recorren varios metros de alambre en vez de pasar en forma directa de uno a otro alambre a través de una pequeña fracción de un centímetro de aislamiento de caucho o de vinil.
+
+Dato curioso: es más fácil establecer una corriente eléctrica a través de cientos de kilómetros de alambre metálico que a través de unos pocos centímetros de material aislante.
+
+### Semiconductores
+
+El hecho de que una sustancia se clasifique como conductor o aislante depende de lo firmemente que sus átomos retengan a sus electrones. Un trozo de cobre es un buen conductor, mientras que un pedazo de madera es un buen aislante. Sin embargo, hay algunos materiales, como el silicio y el germanio, que no son buenos conductores ni buenos aislantes. Están a la mitad del intervalo de resistividades eléctricas; son aislantes regulares en su forma cristalina pura, y se vuelven conductores excelentes cuando se reemplaza uno de sus átomos, entre 10 millones de ellos, con una impureza que agregue o quite un electrón a la estructura cristalina. A los materiales que puede hacerse que se comporten a veces como aislantes y a veces como conductores se les llama semiconductores. Las capas delgadas de materiales semiconductores, una sobre otra, forman los transistores, que sirven para controlar el flujo de las corrientes en los circuitos, para detectar y amplificar las señales de radio y para producir oscilaciones en los transmisores; también funcionan como interruptores digitales. Esos sólidos diminutos fueron los primeros componentes eléctricos, en los cuales los materiales con distintas características eléctricas no se interconectaron con alambres, sino que se unieron físicamente en una estructura. Requieren muy poca energía y en uso normal duran en forma indefinida.
+
+Un semiconductor también puede conducir cuando se ilumina con luz del color adecuado. Una placa de selenio puro es, normalmente, un buen aislante, y toda carga eléctrica que se acumula en su superficie se quedará ahí durante largo tiempo en la oscuridad. Sin embargo, si la placa se expone a la luz, la carga desaparece casi de inmediato. Si una placa cargada de selenio se expone a una distribución de luz, como la distribución de claros y oscuros que forma esta página, la carga saldrá sólo de las áreas expuestas a la luz. Si se unta su superficie con un polvo de plástico negro, ese polvo sólo se adheriría a las áreas cargadas, donde la placa no se ha expuesto a la luz. Ahora, si sobre la placa se pone una hoja de papel con carga eléctrica en su cara trasera, el polvo de plástico negro se atraería hacia al papel y formaría la misma figura que, digamos, la de esta página. Si el papel se calentara para fundir el plástico y pegarlo en el papel, pagarías a quien te lo entregara y le llamarías copia Xerox.
+
+## Superconductores
+
+Un conductor ordinario sólo tiene una resistencia pequeña al paso de la carga eléctrica. La resistencia de un aislante es mucho mayor (en el siguiente capítulo explicaremos el tema de la resistencia eléctrica). Es notable que a temperaturas suficientemente bajas, ciertos materiales tienen resistencia cero (conductividad infinita) contra el flujo de la carga. Son superconductores. Una vez establecida una corriente eléctrica en un superconductor, los electrones fluyen en forma indefinida. Si no hay resistencia eléctrica, la corriente atraviesa un superconductor sin perder energía; no hay pérdida de calor cuando fluyen las cargas. La superconductividad en los metales, cerca del cero absoluto, fue descubierta en 1911. En 1987 se descubrió la superconductividad a temperaturas “altas” (mayores que 100 K), en un compuesto no metálico. Cuando se escribió este libro, se estaba investigando intensamente la superconductividad tanto a temperaturas “altas” como a temperaturas bajas. Entre sus aplicaciones potenciales están la transmisión de energía a larga distancia sin pérdidas, y los vehículos de levitación magnética a gran velocidad, para reemplazar a los tradicionales trenes sobre rieles.
+
+## Carga
+
+Cargamos (eléctricamente) las cosas al transferir electrones de un lugar a otro. Lo podemos hacer por contacto físico, como cuando se frotan entre sí las sustancias, o simplemente cuando se tocan. También podemos redistribuir la carga de un objeto poniéndole cerca un objeto cargado. A esto se le llama inducción.
+
+Dato curioso: La electricidad estática es un problema creciente en las estaciones de servicio. Incluso una mínima chispa podría encender los vapores que provienen de la gasolina y provocar un incendio, que muy probablemente resultaría letal. Una buena medida es tocar metal para descargar la electricidad estática del cuerpo antes de cargar gasolina. Además, hay que evitar utilizar el teléfono celular mientras se carga el combustible.
+
+### Carga por fricción y por contacto
+
+Todos estamos familiarizados con los efectos eléctricos que produce la fricción. Podemos frotar la piel de un gato y oír el crujir de las chispas que se producen, o peinarnos frente a un espejo en una habitación oscura para ver y oír las chispas. Podemos frotar nuestros zapatos con una alfombra y sentir hormigueo al tocar la perilla de una puerta. Platica con adultos mayores y te contarán el sorprendente choque característico después de deslizarse sobre un cubreasiento de plástico dentro de un automóvil estacionado (Imagen 4). En todos estos casos, se transfieren electrones por fricción cuando un material se frota contra otro.
+
+*Imagen 4. Carga por fricción y después por contacto*
+
+Descripción de la Imagen 4. Carga por fricción y después por contacto. Una pareja se encuentra dentro de la parte delantera un automóvil. El chico va manejando, mientras que la chica se va deslizando por el cubreasiento de plástico hasta darle un beso. Al darle el beso los dos sienten un una chispa de corriente.
+
+### Carga por inducción
+
+Si acercas un objeto cargado a una superficie conductora, harás que se muevan los electrones en la superficie del material, aunque no haya contacto físico.
+
+Examina las dos esferas metálicas A y B, aisladas, de la Imagen 5:
+
+*Imagen 5. Carga por inducción*
+
+Descripción de la Imagen 5. Carga por inducción. Dos esferas A y B. Parte a, se tocan, por lo que de hecho forman un solo conductor no cargado. Parte b, cuando se acerca a la esfera A una varilla con carga negativa, como los electrones del metal tienen movimiento libre, son repelidos todos lo más lejos posible, hasta que su repulsión mutua sea lo suficientemente grande para equilibrar la influencia de la varilla: se redistribuye la carga. Parte c, si A y B se separan cuando la varilla todavía está presente. Parte d, cada esfera quedará cargada con la misma cantidad de carga y signo opuesto. Esto es la carga por inducción. La varilla con carga nunca tocó las esferas, y conserva la misma carga que tenía al principio.
+
+*Imagen 6. Etapas de carga por inducción*
+
+Descripción de la Imagen 6. Etapas de carga por inducción. Carga por inducción con conexión a tierra. Parte a, la carga neta en la esfera de metal es cero. Parte b, la presencia de la varilla con carga induce una redistribución de carga en la esfera. La carga neta en la esfera todavía es cero. Parte c, al tocar el lado negativo de la esfera se eliminan los electrones por contacto. Parte d, entonces la esfera queda con carga positiva. Parte e, la esfera es atraída con más fuerza a la varilla negativa y, cuando la toca, se produce la carga por contacto. Parte f, la esfera negativa es repelida por la varilla, que todavía tiene un poco de carga negativa.
+
+Se puede cargar una sola esfera, en forma parecida, por inducción, si la tocamos cuando sus distintas partes tengan cargas distintas. Examina la esfera metálica que cuelga de un cordón no conductor (Imagen 6). Cuando se toca la superficie del metal con un dedo, se establece una trayectoria para que la carga fluya hacia o desde un depósito muy grande de carga eléctrica, que es la tierra. Se dice que estamos aterrizando la esfera, o conectándola a la tierra, y el proceso puede dejarla con una carga neta. Regresaremos a esta idea de conexión a tierra en el siguiente capítulo, cuando estudiemos las corrientes eléctricas.
+
+En las tormentas con relámpagos hay carga por inducción. La parte inferior de las nubes tiene carga negativa, que induce una carga positiva sobre la superficie de la Tierra que esté debajo de ella. Benjamín Franklin fue quien primero demostró que el relámpago es un fenómeno eléctrico, cuando realizó su célebre experimento de elevar un cometa durante una tormenta. El relámpago es una descarga eléctrica entre una nube y el suelo, con carga opuesta, o entre partes de nubes con carga opuesta.
+
+Franklin también determinó que la carga pasa con facilidad hacia puntas metálicas afiladas o desde ellas, y diseñó el primer pararrayos. Si una varilla se coloca sobre un edificio y se conecta con el terreno, la punta del pararrayos atrae a electrones del aire, evitando que se acumule una gran carga positiva por inducción. Esta “fuga” continua de carga evita una acumulación de carga que de otra forma produciría una descarga súbita entre la nube y el edificio. Por consiguiente, la finalidad principal del pararrayos es evitar que suceda una descarga del relámpago. Si por alguna razón no escapa suficiente carga del aire a la varilla, y aun así cae el rayo, será atraído al pararrayos y llegará directo al suelo, sin dañar al edificio. El objetivo principal del pararrayos es evitar incendios causados por relámpagos.
+
+Dato curioso: El pararrayos está conectado con alambre de uso rudo, para que pueda conducir una corriente muy grande al suelo, cuando atrae un rayo o relámpago. Lo más frecuente es que la carga salga por la punta y evite que se produzca un relámpago.
+
+#### Examínate
+
+1. ¿Las cargas inducidas en las esferas A y B de la Imagen 5 necesariamente deben ser exactamente iguales y opuestas?
+
+2. ¿Por qué la varilla negativa de la Imagen 5 tiene la misma carga antes y después de que se carguen las esferas, pero no cuando se efectúa la carga, como en la Imagen 6?
+
+#### Comprueba tus respuestas
+
+1. Sí. Las cargas deben ser iguales y opuestas en ambas esferas, porque cada carga positiva en la esfera A se debe a que un solo electrón se toma de A y pasa a B. Es como tomar adoquines de la superficie de un camino de adoquines y ponerlos todos en las aceras. La cantidad de adoquines en las aceras coincidirá exactamente con la cantidad de agujeros que quedan en el camino. Asimismo, la cantidad de electrones adicionales en B coincide exactamente con la cantidad de “agujeros” (cargas positivas) que quedan en A. Recuerda que una carga positiva se debe a que falta un electrón.
+
+2. En el proceso de carga de la Imagen 5 no hubo contacto entre la varilla negativa con alguna de las esferas. Sin embargo, en la Imagen 6 la varilla tocó a la esfera con carga positiva. Una transferencia de carga por el contacto redujo la carga negativa de la varilla.
+
+## Polarización de carga
+
+La carga por inducción no se restringe a los conductores. Cuando una varilla con carga se acerca a un aislante, no hay electrones libres que puedan migrar por el material aislante. En cambio hay un nuevo arreglo de cargas dentro de los átomos y las moléculas mismas (Imagen 7). Aunque los átomos no cambian sus posiciones relativamente fijas, sus “centros de carga” sí se mueven. Un lado del átomo o la molécula se induce a ser más negativo (o positivo) que el lado contrario. Se dice que el átomo o la molécula están eléctricamente polarizados. Por ejemplo, si la varilla tiene carga negativa, entonces la parte positiva del átomo o la molécula es atraída hacia la varilla, y el lado negativo del átomo o la molécula es repelido de la varilla. Las partes positiva y negativa de los átomos se alinean. Están polarizados eléctricamente.
+
+*Imagen 7. Electrón entorno a nube electrónica*
+
+Descripción de la Imagen 7. Electrón entorno a nube electrónica. Se presenta un electrón que se mueve en torno a un núcleo atómico forma una nube electrónica. Parte a, el centro de la nube negativa coincide con el centro del núcleo positivo en un átomo. Parte b, cuando se acerca por la derecha una carga negativa externa, por ejemplo un ion o un globo con carga, se distorsiona la nube electrónica, y ya no coinciden los centros de las cargas positiva y negativa. El átomo está polarizado eléctricamente.
+
+Ya podemos saber por qué los trocitos eléctricamente neutros de papel son atraídos hacia un objeto con carga, por ejemplo, un peine que se haya frotado con el cabello. Cuando el peine cargado se acerca, se polarizan las moléculas del papel. El signo de la carga más cercana al peine es contrario al de la carga del peine. Las cargas del mismo signo están un poco más alejadas. Gana la cercanía y los trocitos de papel sienten una atracción neta. A veces se pegan al peine y de repente salen despedidos. Esta repulsión se debe a que los trocitos adquieren carga del mismo signo que la del peine, cuando lo tocan.
+
+Frota un globo inflado contra tu cabello y se cargará eléctricamente. Coloca el globo contra la pared, y ahí se pegará. Se debe a que la carga del globo introduce una carga superficial de signo contrario en la pared. De nuevo gana la cercanía, porque la carga del globo está un poco más cerca de la carga opuesta inducida, que de la carga del mismo signo (Imagen 8).
+
+*Imagen 8. Globo cargado*
+
+Descripción de la Imagen 8. Globo cargado. El globo con carga negativa polariza los átomos en la pared de madera, y crea una superficie con carga positiva, por lo que el globo se adhiere a la pared.
+
+Muchas moléculas, las de H2 O, por ejemplo, están polarizadas eléctricamente en sus estados normales. En ellas, la distribución de carga eléctrica no es perfectamente uniforme. Hay un poco más de carga negativa en un lado de la molécula que en el otro. Se dice que esas moléculas son dipolos eléctricos.
+
+#### Examínate
+
+1. Una varilla con carga negativa se acerca a pequeños trozos de papel neutros. Los lados positivos de las moléculas en el papel son atraídos hacia la varilla, y los lados negativos son repelidos por ella. Como la cantidad de lados positivos y negativos es igual, ¿por qué no se anulan entre sí las fuerzas de atracción y de repulsión?
+
+2. Una broma. Si frotas un globo contra tu cabello y pegas tu cabeza a la pared, ¿ésta se quedará pegada en la pared, como lo hizo el globo?
+
+#### Comprueba tus respuestas
+
+1. Sólo porque los lados positivos están más cerca de la varilla. Entonces, de acuerdo con la ley de Coulomb, están sometidos a una fuerza eléctrica mayor que los lados negativos, que están más lejos. Por ello se dice que gana la cercanía. Esta fuerza mayor entre lo positivo y lo negativo es de atracción, así que el papel neutral es atraído hacia la varilla cargada. ¿Comprendes que si la varilla fuera positiva también habría atracción?
+
+2. Así sucedería si tu cabeza estuviera llena de aire, esto es, si la masa de tu cabeza fuera más o menos igual que la del globo, para que predominara y se apreciara la fuerza de atracción.
+
+## Campo eléctrico
+
+Las fuerzas eléctricas, como las gravitacionales, actúan entre objetos que no se tocan entre sí. En la electricidad y en la gravitación existe un campo de fuerzas que influye sobre los cuerpos cargados y masivos, respectivamente. Recuerda que en cursos anteriores viste que las propiedades del espacio que rodea a cualquier cuerpo masivo se alteran de tal manera, que otro cuerpo masivo que se introduzca en esa región sentirá una fuerza. La fuerza es gravitacional, y el espacio alterado que rodea a un cuerpo masivo es su campo gravitacional. Se puede imaginar que cualquier otro cuerpo masivo interactúa con el campo, y no directamente con el cuerpo masivo que lo produce. Por ejemplo, cuando una manzana cae de un árbol, decimos que interactúa con la Tierra; aunque también supondríamos que la manzana interactúa con el campo gravitacional de la Tierra. El campo desempeña un papel intermedio en la fuerza entre los cuerpos. Es común pensar que los cohetes lejanos, y cosas por el estilo, interactúan con los campos gravitacionales y no con las masas de la Tierra y demás cuerpos responsables de los campos. Así como el espacio que rodea a un planeta (y a todos los demás cuerpos masivos) está lleno con un campo gravitacional, el espacio que rodea a un cuerpo con carga eléctrica está lleno por un campo eléctrico, una especie de aura que se extiende por el espacio.
+
+*Imagen 9. Comparación de fuerzas*
+
+Descripción de la Imagen 9. Comparación de fuerzas. Parte a, una fuerza gravitacional mantiene al satélite en órbita en torno al planeta. Parte b, una fuerza eléctrica mantiene al electrón en órbita en torno al protón. En ambos casos, no hay contacto entre los cuerpos. Se dice que los cuerpos en órbita interaccionan con los campos de fuerzas del planeta y del protón, y están siempre en contacto con esos campos. Así, la fuerza que un cuerpo con carga eléctrica ejerce sobre otro se puede describir como la interacción de un cuerpo y el campo debido al otro.
+
+Un campo eléctrico tiene tanto magnitud (intensidad) como dirección. La magnitud del campo en cualquiera de sus puntos es simplemente la fuerza por unidad de carga. Si un cuerpo con carga q experimenta una fuerza F en determinado punto del espacio, el campo eléctrico E en ese punto es:
+
+```latex
+E=\frac{F}{q}
+```
+
+La ecuación se lee, E mayúscula = F mayúscula sobre q.
+
+*Imagen 10. Líneas de fuerza eléctrica*
+
+Descripción de la imagen 10. Líneas de fuerza eléctrica. Representaciones del campo eléctrico en torno a una carga negativa. Parte a, una representación vectorial con flechas dirigiéndose hacia la carga negativa por la misma línea. Parte b, una representación con líneas de fuerza dirigidas al centro de la carga negativa.
+
+En la Imagen 10 (parte a) se representa el campo eléctrico con vectores. La dirección del campo se muestra con los vectores y se define como la dirección hacia la cual sería empujada una pequeña carga de prueba positiva en reposo. La dirección de la fuerza y del campo en cualquier punto es igual. En la Imagen 11 se aprecia que todos los vectores, en consecuencia, apuntan hacia el centro de la esfera con carga negativa. Si la esfera tuviera carga positiva, los vectores se alejarían de su centro, porque sería repelida una carga de prueba positiva que estuviera en las cercanías.
+
+*Imagen 11. Algunas configuraciones de campos eléctricos*
+
+Descripción de la Imagen 11. Algunas configuraciones de campos eléctricos. Parte a, las líneas de fuerza emanan de una sola partícula con carga positiva. Parte b, las líneas de fuerza entre un par de cargas iguales en cantidad pero opuestas. Observa que las líneas emanan de la carga positiva y terminan en la carga negativa. Parte c, líneas de fuerza uniformes entre dos placas paralelas con carga opuesta.
+
+Una forma más útil para describir un campo eléctrico es con las líneas de fuerza eléctrica, que se muestran en la Imagen 10 (parte b). Las líneas de fuerza que se ven en la Imagen representan una pequeña cantidad entre la infinidad de líneas posibles que indican la dirección del campo. La Imagen es una representación bidimensional de algo que existe en tres dimensiones. Donde las líneas están más alejadas, el campo es más débil. Para una carga aislada, las líneas se prolongan hasta el infinito; para dos o más cargas opuestas, representaremos las líneas como si salieran de una carga positiva y terminaran en una carga negativa. Algunas configuraciones del campo eléctrico se presentan en la Imagen 11; mientras que en la Imagen 12 se aprecian imágenes de distribuciones de campo. Las imágenes muestran trozos de hilo suspendidos en un baño de aceite que rodea a conductores con cargas. Los extremos de los hilos se cargan por inducción, y tienden a alinearse extremo con extremo con las líneas del campo, como las limaduras de hierro en un campo magnético.
+
+*Imagen 12. Diferentes líneas de campo*
+
+Descripción de la imagen 12. Diferentes líneas de campo. El campo eléctrico debido a un par de conductores con carga se muestra con hebras suspendidas en un baño de aceite que rodea a los conductores. Observa que las hebras se alinean extremo con extremo siguiendo la dirección del campo eléctrico. Parte a, conductores con cargas iguales en cantidad y opuestas (como en la Imagen 11 parte b). Parte b, conductores con cargas iguales en cantidad e idénticas, en donde las líneas de campo se aproximan pero no se juntan en la mitad de la distancia que las separa. Parte c, placas con cargas opuestas, en donde entre las placas las líneas son rectas pero por fuera se curvan. Parte d, cilindro y placa con cargas opuestas, en donde las líneas se empiezan a curvar cuando se acercan al cilindro.
+
+El concepto de campo eléctrico nos ayuda no sólo a comprender las fuerzas entre los cuerpos estacionarios cargados y aislados, sino también lo que sucede cuando se mueven las cargas. Cuando esto sucede, su movimiento se comunica a los cuerpos cargados vecinos, en forma de una perturbación del campo. La perturbación emana del cuerpo cargado que acelera, y se propaga a la velocidad de la luz. Veremos que el campo eléctrico es un almacén de energía, y que la energía se puede transportar a largas distancias en un campo eléctrico. La energía que se propaga en un campo eléctrico se puede dirigir a través de alambres metálicos, y guiarse en ellos. O bien, puede juntarse con un campo magnético para atravesar el espacio vacío. En el capítulo siguiente regresaremos a esta idea, y después explicaremos la radiación electromagnética.
+
+### Lectura sugerida: hornos de microondas.
+
+Imagina una caja con algunas pelotas de ping-pong en reposo entre algunas varillas. Ahora imagina que repentinamente las varillas oscilan de un lado a otro, y golpean a las pelotas de ping-pong que estuvieran cerca. Las pelotas adquieren energía y se mueven en todas direcciones. Un horno de microondas funciona de manera parecida. Las varillas son moléculas de agua, u otras moléculas polares, que se ponen a oscilar al ritmo de las microondas en la caja. Las pelotas de ping-pong son moléculas no polares que forman el grueso del alimento que se cocina.
+
+Cada molécula de H2 O es un dipolo eléctrico que se alinea con un campo eléctrico, como una aguja de brújula se alinea con un campo magnético. Cuando se hace oscilar el campo eléctrico, las moléculas de H2 O oscilan también. Estas moléculas de H2 O se mueven con mucha energía cuando la frecuencia de la oscilación coincide con su frecuencia natural, es decir, cuando hay resonancia. El alimento se cocina gracias a una especie de “fricción cinética”, cuando las moléculas oscilantes de
+
+H2 O (u otras moléculas polares) imparten movimiento térmico a las moléculas que las rodean. La caja de metal refleja a las microondas de aquí para allá por todo el horno, para apresurar el calentamiento.
+
+El papel seco, los utensilios de espuma u otros materiales que se recomiendan para usarse en los hornos de microondas no contienen agua, ni otras moléculas polares, de modo que las microondas los atraviesan sin causar efecto alguno. Es igual con el hielo, donde las moléculas de H2 O están fijas en su posición y no pueden girar de aquí para allá.
+
+Hay que tener cuidado cuando el agua hierve en un horno de microondas. En ocasiones el agua puede calentarse más rápido de lo que tardan en formarse las burbujas, y entonces el agua se calienta más allá de su punto de ebullición: ¡estaría súper caliente! Si el agua se agita o se mueve lo suficiente como para provocar que las burbujas se formen rápidamente, éstas expulsarán violentamente el agua caliente de su recipiente y podría dañar el rostro de alguien.
+
+### Blindaje eléctrico
+
+Una diferencia importante entre campos eléctricos y gravitacionales es que los campos eléctricos se pueden confinar con diversos metales, mientras que los campos gravitacionales no. La cantidad de confinamiento, o blindaje, depende del material que se use para tal objetivo. Por ejemplo, el aire hace que el campo eléctrico entre dos objetos cargados sea ligeramente más débil de lo que sería en el vacío; en tanto que si entre objetos se pone aceite, el campo puede reducirse hasta casi cien veces. Los metales pueden confinar por completo un campo eléctrico. Cuando no pasa corriente por un metal, el campo eléctrico en su interior es cero, independientemente de la intensidad de campo fuera de él.
+
+*Imagen 13. Campo eléctrico en punto P*
+
+Descripción de la imagen 13. Campo eléctrico en punto P. La carga de prueba en P es atraída exactamente igual hacia la mayor cantidad de carga de la región más lejana A, que hacia la menor cantidad de carga en la región más cercana B. La fuerza neta sobre la carga de prueba es cero, ahí o en cualquier parte dentro del conductor. El campo eléctrico en todos los lugares del interior también es cero.
+
+Por ejemplo, imagina electrones sobre una esfera metálica. Debido a su repulsión mutua, los electrones se repartirán uniformemente sobre la superficie externa de la esfera. No es difícil ver que la fuerza eléctrica que se ejerce sobre una carga de prueba en el centro exacto de la esfera es cero, porque las fuerzas opuestas se equilibran en todas direcciones. Es interesante que la anulación total suceda en cualquier lugar del interior de una esfera conductora. Para entenderlo mejor se requiere un poco más de razonamiento, así como la ley del inverso del cuadrado y algo de geometría. Imagina que la carga de prueba está en el punto P de la Imagen 13. La carga de prueba está a una distancia doble del lado izquierdo de la esfera cargada que del lado derecho. Si la fuerza eléctrica entre la carga de prueba y las cargas sólo dependiera de la distancia, esa carga de prueba sólo sería atraída con la cuarta parte de fuerza hacia el lado izquierdo, que la fuerza hacia el lado derecho. (Recuerda la ley del inverso del cuadrado: dos veces más lejos significa un cuarto del efecto, tres veces más lejos significa un noveno del efecto, y así sucesivamente.) Sin embargo, la fuerza también depende de la cantidad de carga. En la Imagen 13, los conos que van del punto P a las áreas A y B tienen el mismo ángulo en su vértice, pero uno tiene el doble de la altura del otro. Eso quiere decir que el área A en la base del cono más largo tiene cuatro veces el área B en la base del cono más corto, y eso se cumple para cualquier ángulo del vértice. Como un cuarto de 4 es igual a 1, una carga de prueba en P es atraída por igual hacia cada lado. Hay anulación. Se aplica un argumento parecido si los conos que salen del punto P se orientan en cualquier dirección. Hay una anulación completa en todos los puntos del interior de la esfera. (Recuerda argumento de la anulación de la gravedad dentro de un planeta hueco. La esfera metálica se comporta igual, sea hueca o maciza, debido a que toda su carga se reúne en su superficie externa.)
+
+*Imagen 14. Distribución de carga*
+
+Descripción de la imagen 14. Distribución de carga. La carga eléctrica se distribuye en la superficie de todos los conductores (circular, cuadrado y forma de huevo), de tal modo que el campo eléctrico dentro del conductor es cero.
+
+Si el conductor no es esférico, la distribución de la carga no será uniforme. La distribución de la carga sobre conductores de diversas formas se muestra en la Imagen 14. Por ejemplo, la mayoría de la carga sobre un cubo conductor se repele mutuamente hacia las esquinas. Lo notable es esto: que la distribución exacta de la carga sobre la superficie de un conductor es tal que el campo eléctrico en cualquier lugar dentro del conductor es cero. Imagínatelo de la siguiente forma. Si hubiera un campo eléctrico dentro de un conductor, los electrones libres en su interior se pondrían en movimiento. ¿Hasta dónde llegarían? Hasta que se estableciera el equilibrio, y eso equivale a decir que hasta que las posiciones de todos los electrones produzcan un campo cero dentro del conductor.
+
+No nos podemos blindar contra la gravedad, porque la gravedad sólo atrae. No hay partes de gravedad que repelan para compensar las partes que atraen. Sin embargo, el blindaje de campos eléctricos es muy sencillo. Rodéate a ti mismo o lo que quieras blindar con una superficie conductora. Pon esa superficie en un campo eléctrico de cualquier intensidad. Las cargas libres de la superficie conductora se distribuirán sobre la superficie del conductor, en tal forma que todas las contribuciones del campo en el interior se anulen entre sí. Es la explicación de por qué ciertos componentes electrónicos están encerrados en cajas metálicas, y por qué ciertos cables tienen cubierta metálica: para blindarlos contra la actividad eléctrica en su exterior.
+
+Dato curioso: los electrones de un relámpago se repelen mutuamente hacia la superficie metálica externa de un automóvil. Aunque el campo eléctrico producido puede ser muy grande fuera del automóvil, el campo eléctrico neto dentro vehículo es cero.
+
+## Potencial eléctrico
+
+Recuerda que un objeto tiene energía potencial gravitacional debido a su ubicación en un campo gravitacional. Asimismo, un objeto con carga tiene energía potencial eléctrica gracias a su lugar en un campo eléctrico. Al igual que se requiere trabajo para levantar un objeto masivo contra el campo gravitacional de la Tierra, se requiere trabajo para mover una partícula cargada contra el campo eléctrico de un cuerpo cargado. Ese trabajo cambia la energía potencial eléctrica de la partícula cargada. Veamos la partícula con la carga positiva pequeña a cierta distancia de una esfera con carga positiva, en la Imagen 15 b. Si empujas la partícula para acercarla a la esfera, gastarás energía para vencer la repulsión eléctrica; esto es, efectuarás trabajo al empujar la partícula cargada contra el campo eléctrico de la esfera. Este trabajo efectuado para mover la partícula hasta su nuevo lugar aumenta su energía. A la energía que posee la partícula en virtud de su ubicación se le llama energía potencial eléctrica. Si se suelta la partícula, acelera alejándose de la esfera, y su energía potencial eléctrica se transforma en energía cinética.
+
+*Imagen 15. Energía potencial eléctrica*
+
+Descripción de la Imagen 15. Energía potencial eléctrica. Parte a, al comprimirse el resorte tiene más E.P. mecánica. Parte b, la partícula cargada, en forma parecida, tiene más E.P. eléctrica cuando es empujada para acercarla a la esfera cargada. En ambos casos, la mayor EP se debe al trabajo efectuado.
+
+Si ahora empujamos a una partícula con el doble de la carga efectuamos el doble de trabajo, por lo que la partícula con carga doble en el mismo lugar tiene el doble de energía potencial eléctrica que antes. Una partícula con tres veces la carga tiene tres veces la energía potencial; diez veces la carga, diez veces la energía potencial, y así sucesivamente. Más que manejar la energía potencial de un cuerpo cargado conviene, cuando se trabaja con partículas cargadas en campos eléctricos, considerar la energía potencial eléctrica por unidad de carga. Tan sólo se divide la cantidad de energía potencial eléctrica en cualquier caso entre la cantidad de carga. Por ejemplo, una partícula con diez veces la carga que otra, y en el mismo lugar, tendrá energía potencial eléctrica diez veces mayor; pero tener energía potencial diez veces mayor equivale a que la energía por unidad de carga sea igual. Al concepto de energía potencial por unidad de carga se le llama potencial eléctrico; es decir:
+
+```latex
+Potencial eléctrico=\frac{energía potencial eléctrica}{carga}
+```
+
+La ecuación se lee, Potencial eléctrico = energía potencial eléctrica sobre carga. O se puede leer, Potencial eléctrico = energía potencial eléctrica ÷ carga.
+
+La unidad de medida del potencial eléctrico es el volt, por lo que al potencial eléctrico se le llama con frecuencia voltaje. Un potencial eléctrico de 1 volt (1 V) equivale a 1 joule (1 J) de energía por 1 coulomb (1 C) de carga.
+
+```latex
+1 Volt=1\frac{Joule}{coulomb}
+```
+
+La ecuación se lee, 1 Volt = 1 Joule sobre coulomb.
+
+Así, una batería de 1,5 volts cede 1,5 joule de energía por cada coulomb de carga que pasa por ella. Son comunes los nombres potencial eléctrico y voltaje, por lo que se puede usar cualquiera. Aquí, usaremos tales nombres de forma indistinta.
+
+La importancia del potencial eléctrico (el voltaje) es que se le puede asignar un valor definido a determinado lugar. Se puede hablar de los potenciales eléctricos en distintos lugares de un campo eléctrico, haya cargas o no que ocupen esos lugares (una vez definida la posición de voltaje cero). Al igual que con los voltajes en varios lugares de un circuito eléctrico. En el siguiente capítulo verás que el lugar de la terminal positiva de una batería de 12 volts, se mantiene a un voltaje 12 volts mayor, que el lugar de la terminal negativa. Cuando un medio conductor conecta esas terminales con distinto voltaje, se moverán entre ellas cargas en el conductor.
+
+Frota un globo en tu cabello y quedará cargado negativamente, ¡quizás hasta con algunos miles de volts! Si la carga fuera de 1 coulomb, equivaldrían a varios miles de joules de energía. Sin embargo, 1 coulomb es una cantidad de carga muy grande. La de un globo frotado en el cabello se parece más, normalmente, a mucho menos que un millonésimo de coulomb. En consecuencia, la energía asociada con el globo cargado es muy, muy pequeña. Un alto voltaje equivale a gran cantidad de energía sólo si interviene una gran cantidad de carga. Hay una diferencia importante entre la energía potencial eléctrica y el potencial eléctrico.
+
+Dato curioso: el alto voltaje de baja energía es similar a las inofensivas chispas a alta temperatura que emiten las luces de bengala. Recuerda que la temperatura es energía cinética promedio por molécula, lo cual significa que la energía total es grande sólo para un gran número de moléculas. Asimismo, el alto voltaje significa una gran cantidad de energía sólo para una gran cantidad de carga. ¡Eureka!
+
+En resumen: potencial eléctrico y potencial significan lo mismo (energía potencial eléctrica por unidad de carga) en unidades de volts. Por otro lado, diferencia de potencial es lo mismo que voltaje (la diferencia en potencial eléctrico entre dos puntos), también en unidades de volts.
+
+#### Examínate
+
+1. Si hubiera el doble de coulombs en la carga de prueba cerca de la esfera cargada de la Imagen 15, ¿la energía potencial eléctrica de la carga de prueba con respecto a la esfera cargada sería igual o sería del doble? ¿El potencial eléctrico de la carga de prueba sería igual o sería del doble?
+
+2. ¿Qué quiere decir que tu automóvil tiene un acumulador de 12 volts?
+
+#### Comprueba tus respuestas
+
+1. El doble de coulombs harían que la carga de prueba tuviera el doble de energía potencial eléctrica (porque habría que efectuar doble trabajo para poner la carga en ese lugar). Pero el potencial eléctrico sería el mismo. Es porque el potencial eléctrico es la energía potencial eléctrica dividida entre la carga total. Por ejemplo, diez veces la energía dividida entre diez veces la carga da el mismo resultado, que dos veces la energía dividida entre dos veces la carga. El potencial eléctrico no es lo mismo que la energía potencial eléctrica. Asegúrate de que entiendes eso antes de continuar con tu estudio.
+
+2. Significa que una de las terminales del acumulador tiene un potencial eléctrico de 12 V mayor que el otro. En el siguiente capítulo verás que también significa que cuando se conecta un circuito con esas terminales, cada coulomb de carga en la corriente que se produce adquirirá 12 J de energía cuando pase por el acumulador.
+
+## Almacenamiento de la energía eléctrica
+
+La energía eléctrica se puede almacenar en un dispositivo común, que se llama condensador o capacitor, que hay en casi todos los circuitos eléctricos. Los condensadores se usan como almacenes de energía. La almacenan para hacer funcionar el flash en las cámaras fotográficas. La rápida liberación de energía es evidente en la corta duración del destello. Asimismo, pero en escala mayor, se almacenan enormes cantidades de energía en los bancos de condensadores que alimentan a láseres gigantes en algunos laboratorios de investigación.
+
+*Imagen 16. Condensador*
+
+Descripción de la Imagen 16. Condensador. Un condensador consiste en dos placas metálicas paralelas a corta distancia entre sí. Cuando se conectan a un acumulador, las placas adquieren cargas iguales y opuestas. El voltaje entre las placas coincide entonces con la diferencia de potencial entre las terminales del acumulador.
+
+El condensador más sencillo es un par de placas conductoras separadas por una corta distancia, pero sin tocarse. Cuando las placas se conectan con algún dispositivo que las cargue, como el acumulador de la Imagen 16 pasan electrones de una placa a la otra. Eso sucede cuando la terminal positiva del acumulador tira de los electrones de la placa conectada a ella. Esos electrones, de hecho, son bombeados a través del acumulador, y van desde la terminal negativa hasta la placa opuesta. Las placas del condensador tienen entonces cargas iguales y opuestas: la placa positiva conectada con la terminal positiva del acumulador, y la placa negativa conectada con la terminal negativa. El proceso de carga se completa cuando la diferencia de potencial entre las placas es igual a la diferencia de potencial entre las terminales del acumulador, que es el voltaje del acumulador. Cuanto mayor sea el voltaje del acumulador y mayores y más próximas estén las placas, mayor será la carga que se pueda almacenar. En la práctica las placas pueden ser membranas metálicas delgadas separadas por una delgada hoja de papel. Este “emparedado de papel” se enrolla para ahorrar espacio, y se mete en un cilindro.
+
+Un condensador cargado se descarga cuando entre las placas se forma una trayectoria conductora. La descarga de un condensador puede ser una experiencia desagradable si estás en el camino conductor. La transferencia de energía llega a ser fatal cuando implica altos voltajes, por ejemplo, en la fuente de poder de un aparato de TV, aun cuando éste se haya desconectado. Es la causa principal de tantos letreros de advertencia que tienen esos aparatos.
+
+La energía almacenada en un condensador proviene del trabajo necesario para cargarlo. La energía se guarda en el campo eléctrico entre sus placas. Entre placas paralelas el campo eléctrico es uniforme, como los que se ven en la Imagen 11 parte c y la imagen 12 parte c. Así, la energía almacenada en un condensador es la energía de su campo eléctrico. Como dato curioso debes saber que la energía del Sol se irradia en forma de campos eléctricos y magnéticos. El hecho de que la energía esté contenida en los campos eléctricos es verdaderamente trascendental.
+
+### Generador Van de Graaff
+
+Para producir altos voltajes en los laboratorios, un aparato común es el generador Van de Graaff. Es una de las máquinas de rayos que solían usar los científicos locos en las viejas películas de ciencia ficción. En la Imagen 17 se muestra un esquema sencillo del generador Van de Graaff. Una esfera metálica grande y hueca está sostenida por un soporte aislante cilíndrico.
+
+*Imagen 17. Generador Van de Graaff*
+
+Descripción de la Imagen 17. Generador Van de Graaff. Un modelo sencillo de un generador Van de Graaff. La base del generador consta de un tambor impulsado por el motor que enciende de la fuente de voltaje. Un conductor metálico hueco de forma aproximadamente esférica, está sostenido por soportes aislantes de plástico, atornillados en un pie metálico conectado a tierra. Una correa o cinta de goma (no conductora) se mueve entre dos poleas  una en la base y otra en el extremo superior al interior del conductor metálico esférico. Dos puntas metálicas colectoras están hechas de hilos conductores muy finos, están situados a la altura del eje de las poleas. Las puntas de los peines están muy próximas pero no tocan a la cinta.
+
+Una banda de caucho, impulsada por un motor y dentro del soporte, pasa por un conjunto de agujas metálicas, parecido a un peine, que se mantienen a un gran potencial negativo en relación con la tierra. La descarga a través de las puntas deposita un suministro continuo de electrones sobre la banda, que sube hacia la esfera conductora hueca. Como el campo eléctrico dentro de la esfera es cero, la carga pasa hacia las puntas metálicas (pararrayos diminutos) y se deposita en el interior de la esfera. Como los electrones se repelen entre sí, pasan a la superficie externa de la esfera. La carga estática siempre está en la superficie externa de cualquier conductor. Por eso, el interior permanece sin carga, y puede recibir más electrones conforme los va subiendo la banda. El proceso es continuo y la carga se acumula hasta que el potencial negativo en la esfera es mucho mayor que el de la fuente de voltaje en la parte inferior; ese potencial es del orden de millones de volts.
+
+Una esfera de 1 metro de radio puede llevarse hasta un potencial de 3 millones de volts sin que haya descarga eléctrica al aire. El voltaje se incrementa al aumentar el radio de la esfera, o al colocar todo el sistema en un recipiente con gas a alta presión. Los generadores Van de Graaff producen voltajes de hasta 20 millones de volts. Esos voltajes se usan para acelerar partículas cargadas que se puedan usar como proyectiles para penetrar los núcleos de los átomos. Tocar uno de esos generadores es una experiencia que puede erizar los cabellos.
+
+## Resumen de términos
+
+Aislante. Un material sin partículas cargadas libres, a través del cual las cargas no fluyen con facilidad.
+
+Campo eléctrico. Fuerza por unidad de carga; se puede considerar como una “aura” que rodea a los objetos cargados, y es un almacén de energía eléctrica. En torno a un cuerpo cargado, el campo disminuye con la distancia siguiendo la ley del cuadrado inverso, como un campo gravitacional. Entre placas paralelas con carga opuesta, el campo eléctrico es uniforme.
+
+Carga por contacto. Transferencia de carga eléctrica entre objetos mediante frotamiento o simple contacto.
+
+Carga por inducción. Redistribución de cargas eléctricas en los objetos causada por la influencia eléctrica de un objeto cargado cercano sin estar en contacto.
+
+Condensador. Dispositivo eléctrico; en su forma más sencilla es un par de placas paralelas conductoras, separadas por una distancia pequeña, que almacena carga eléctrica y energía.
+
+Conductor. Cualquier material que contiene partículas cargadas libres, que fluyen con facilidad a través de él, cuando una fuerza eléctrica actúa sobre ellas.
+
+Conservación de la carga. La carga eléctrica no se crea ni se destruye. La carga total antes de una interacción es igual a la carga total después de ella.
+
+Coulomb. La unidad SI de la carga eléctrica. Un coulomb (símbolo C) equivale a la carga total de 6,25 × 10 18 (10 a la 18) electrones.
+
+Eléctricamente polarizado. Término que se aplica a un átomo o una molécula donde se alinean las cargas, de tal modo que un lado tiene un ligero exceso de carga positiva, mientras que el otro tiene un ligero exceso de carga negativa.
+
+Electricidad. Término general para indicar fenómenos eléctricos, como la relación que tiene la gravedad con los fenómenos gravitatorios, o la sociología con los fenómenos sociales.
+
+Electrostática. Estudio de la carga eléctrica en reposo (no en movimiento, como en las corrientes eléctricas).
+
+Energía potencial eléctrica. La energía que posee un objeto cargado gracias a su ubicación en un campo eléctrico.
+
+Ley de Coulomb. La relación entre la fuerza y la carga eléctrica, y la distancia:
+
+```latex
+F=k\frac{q_{1}1_{2}}{d^{2}}
+```
+
+La ecuación se lee, F mayúscula = k por (q1 × q2 dividido d al cuadrado).
+
+Si las cargas son de igual signo, la fuerza es de repulsión; si tienen signos distintos, la fuerza es de atracción.
+
+Potencial eléctrico La energía potencial eléctrica por unidad de carga; se expresa en volts y con frecuencia se le llama voltaje:
+
+Voltaje = energía potencial eléctrica / cantidad de carga.
+
+Semiconductor. Dispositivo compuesto de un material no sólo con propiedades de aislante y de conductor, sino también con resistencia que cambia repentinamente cuando cambian otras condiciones, como la temperatura, el voltaje, y los campos eléctricos y magnéticos.
+
+Superconductor. Material que es un perfecto conductor con cero resistencia al flujo de carga eléctrica.
+
+## Preguntas de repaso
+
+### Fuerzas eléctricas
+
+1. ¿Por qué la fuerza gravitacional predomina sobre las fuerzas eléctricas entre la Tierra y la Luna?
+
+### Cargas eléctricas
+
+2. ¿Qué parte de un átomo tiene carga positiva, y qué parte tiene carga negativa?
+
+3. ¿Cómo se compara la carga de un electrón con la de otro electrón? ¿Y cómo se compara con la de un protón?
+
+4. ¿Cómo se comparan, normalmente, la cantidad de protones en el núcleo atómico con la cantidad de electrones en torno al núcleo?
+
+5. ¿Cuál es normalmente la carga neta de un átomo?
+
+### Conservación de la carga
+
+6. ¿Qué es un ion positivo? ¿Un ion negativo?
+
+7. ¿Qué quiere decir que se conserva la carga?
+
+8. ¿Qué quiere decir que la carga está cuantizada?
+
+9. ¿Qué partícula tiene exactamente una unidad cuántica de carga?
+
+### Ley de Coulomb
+
+10. ¿Cómo se compara un coulomb con la carga de un solo electrón?
+
+11. ¿En qué se parece la ley de Coulomb a la ley de Newton de la gravitación? ¿En qué difieren?
+
+### Conductores y aislantes
+
+12. ¿Por qué los metales son buenos conductores tanto de calor como de electricidad?
+
+13. ¿Por qué los materiales como el vidrio y el caucho son buenos aislantes?
+
+### Semiconductores
+
+14. ¿En qué difiere un semiconductor de un conductor y de un aislante?
+
+15. ¿De qué está formado un transistor y cuáles son algunas de sus funciones?
+
+### Superconductores
+
+16. En comparación con el flujo en los conductores ordinarios, ¿en qué difiere el flujo de corriente en un superconductor?
+
+### Carga
+
+17. ¿Qué les sucede a los electrones en cualquier proceso de cargado?
+
+### Carga por fricción y por contacto
+
+18. Menciona un ejemplo de algo que se cargue por fricción.
+
+19. Describe un ejemplo de algo que se cargue por contacto.
+
+### Carga por inducción
+
+20. Menciona un ejemplo de algo que se cargue por inducción.
+
+21. ¿Qué función tiene el pararrayos?
+
+### Polarización de carga
+
+22. ¿En qué difiere un objeto eléctricamente polarizado de un objeto eléctricamente cargado?
+
+23. ¿Qué es un dipolo eléctrico?
+
+### Campo eléctrico
+
+24. Describe dos ejemplos de campos de fuerzas comunes.
+
+25. ¿Cómo se define la magnitud de un campo eléctrico?
+
+26. ¿Cómo se define la dirección de un campo eléctrico?
+
+### Blindaje eléctrico
+
+27. ¿Por qué no hay campo eléctrico en el centro de un conductor esférico cargado?
+
+28. ¿Existe un campo eléctrico dentro de un conductor esférico cargado, en otros puntos que no sean su centro?
+
+29. Cuando las cargas se repelen mutuamente y se distribuyen sobre la superficie de los conductores, ¿cuál es el efecto dentro del conductor?
+
+### Potencial eléctrico
+
+30. ¿Cuánta energía se agrega a cada coulomb de carga que pasa por una batería de 1,5 volts?
+
+31. Un globo se puede cargar con facilidad hasta varios miles de volts. ¿Ello quiere decir que tiene varios miles de joules energía? Explica por qué.
+
+### Almacenamiento de la energía eléctrica
+
+32. ¿Cómo se compara la carga de una de las placas de un condensador con la de la otra placa?
+
+33. ¿Dónde se almacena la energía en un condensador?
+
+### Generador Van de Graaff
+
+34. ¿Cuál es la magnitud del campo eléctrico en el interior del domo de un generador Van de Graaff cargado?
+
+## Proyectos
+
+1. Demuestra la carga por fricción y la descarga a través de puntas con un amigo parado en el otro extremo de un recinto alfombrado. Arrastra los pies por la alfombra al dirigirte hacia la otra persona, hasta que sus narices queden cerca. Puede ser una experiencia deliciosa, dependiendo de lo seco que esté el aire y de lo afiladas que sean sus narices.
+
+2. Frota con vigor un peine contra tu cabello o sobre una prenda de lana, y acércalo a un pequeño y uniforme chorro de agua. ¿El chorro se desvía?
+
+3. Escribe una carta a tu abuelito y cuéntale por qué él viaja seguro en el interior de un automóvil durante una tormenta con relámpagos.
+
+## Ejercicios
+
+1. No sentimos las fuerzas gravitacionales entre nosotros y los objetos que nos rodean, porque esas fuerzas son extremadamente pequeñas. En cambio, las fuerzas eléctricas son gigantescas. Puesto que nosotros y los objetos que nos rodean estamos formados por partículas cargadas, ¿por qué normalmente no sentimos fuerzas eléctricas?
+
+2. En el nivel atómico, ¿qué significa decir que algo está eléctricamente cargado?
+
+3. ¿Por qué la carga generalmente se transfiere a través de electrones y no de protones?
+
+4. ¿Por qué si los objetos contienen grandes cantidades de electrones, por lo general, no están cargados eléctricamente?
+
+5. ¿Por qué las prendas se pegan con frecuencia entre sí después de haber estado girando en una secadora?
+
+6. ¿Por qué el polvo es atraído hacia un CD que se limpia con un paño seco?
+
+7. Cuando sacas tu traje de lana de la bolsa de la tintorería, la bolsa se carga positivamente. Explica cómo sucede eso.
+
+8. El plástico para envoltura se carga eléctricamente cuando se saca del empaque. Como resultado, es atraído hacia objetos tales como recipientes de alimentos. ¿El plástico se adhiere mejor a los recipientes de plástico o a los metálicos?
+
+9. Cuando te peinas, sacas electrones de tu cabello, que se quedan en tu peine. Entonces, ¿tu cabello queda con carga positiva o negativa? ¿Y el peine?
+
+10. En algunas casetas de cobro un alambre metálico delgado sobresale del asfalto y hace contacto con los automóviles antes de que lleguen al lugar de cobro. ¿Cuál es el objetivo de ese alambre?
+
+11. ¿Por qué los neumáticos de los camiones que transportan gasolina y otros líquidos inflamables, se fabrican para ser conductores eléctricos?
+
+12. Un electroscopio es un aparato sencillo formado por una esfera metálica unida con un conductor a dos hojas delgadas de lámina metálica, dentro de un frasco para protegerlas de las turbulencias del aire. Cuando se toca la bola con un cuerpo cargado, las hojas, que normalmente cuelgan directo hacia abajo, se abren. ¿Por qué? (Los electroscopios no sólo se usan para detectar cargas, sino también para medirlas: cuanto más carga se transfiera a la esfera, las hojas se abrirán más.)
+
+13. Las hojas de un electroscopio cargado bajan cuando pasa el tiempo. A mayores alturas bajan más rápido. ¿Por qué? (Sugerencia: esta observación fue la que primero indicó la existencia de los rayos cósmicos.)
+
+14. ¿Es necesario que un cuerpo cargado toque realmente la esfera de un electroscopio para que se abran las hojas? Defiende tu respuesta.
+
+15. Estrictamente hablando, cuando un objeto adquiere una carga positiva por transferencia de electrones, ¿qué sucede con su masa? ¿Y cuándo adquiere una carga negativa? ¡Piensa en pequeño!
+
+16. Estrictamente hablando, ¿una moneda será un poco más masiva cuando tiene carga negativa o cuando tiene carga positiva? Explica por qué.
+
+17. En un cristal de sal hay electrones e iones positivos. ¿Cómo se compara la carga neta de los electrones con la carga neta de los iones? Explica por qué.
+
+18. ¿Cómo puedes cargar negativamente un objeto sólo con la ayuda de otro objeto con carga positiva?
+
+19. Es relativamente fácil sacar los electrones externos de un átomo pesado, como el de uranio (que entonces se transforma en un ion uranio); pero es muy difícil sacar sus electrones internos. ¿Por qué crees que sea así?
+
+20. Cuando un material se frota contra otro, los electrones saltan con facilidad entre ambos, pero no los protones. ¿Por qué? (Piensa en términos atómicos.)
+
+21. Si los electrones fueran positivos y los protones fueran negativos, ¿la ley de Coulomb se escribiría igual o diferente?
+
+22. ¿Qué te indica la ley del inverso cuadrado acerca de la relación entre fuerza y distancia?
+
+23. Los cinco mil millones de billones (5 × 10 21, 5 por diez a la 21) de electrones que se mueven libremente en una moneda se repelen entre sí. ¿Por qué no salen despedidos de la moneda?
+
+24. ¿Cómo cambia la magnitud de la fuerza eléctrica entre un par de partículas cargadas, cuando se colocan a la mitad de su distancia original? ¿Y a un tercio de la distancia?
+
+25. ¿Cómo se compara la magnitud de la fuerza eléctrica entre un par de partículas cargadas cuando se acercan a la mitad de su distancia original? ¿Y a un cuarto de su distancia original? ¿Y cuándo se alejan a cuatro veces su distancia original? (¿Qué ley determina tus respuestas?)
+
+26. Cuando se duplica la distancia entre un par de partículas cargadas, ¿qué sucede con la fuerza entre ellas? ¿Depende del signo de las cargas? ¿Qué ley apoya tu respuesta?
+
+27. Cuando se duplica la carga en sólo una de las partículas que integran un par, ¿qué efecto tiene esto sobre la fuerza entre ellas? ¿El efecto depende del signo de la carga?
+
+28. Cuando se duplica la carga en ambas partículas de un par, ¿qué efecto tiene esto sobre la fuerza entre ellas? ¿Depende del signo de la carga?
+
+29. La constante de proporcionalidad k en la ley de Coulomb es gigantesca, en unidades ordinarias; mientras que G, la constante de proporcionalidad en la ley de la gravitación de Newton es diminuta. ¿Qué indica eso acerca de las magnitudes relativas de esas dos fuerzas?
+
+30. ¿Cómo es que las líneas del campo eléctrico indican la intensidad de éste?
+
+31. ¿Cómo se indica la dirección de un campo eléctrico con las líneas del campo eléctrico?
+
+32. Imagina que la intensidad del campo eléctrico en torno a una carga puntual aislada tiene determinado valor a 1 m de distancia. ¿Cómo será en comparación la intensidad del campo eléctrico a 2 m de distancia de la carga puntual? ¿Qué ley determina tu respuesta?
+
+33. ¿En qué se diferencia un semiconductor de un conductor o de un aislante?
+
+34. En el fenómeno de superconductividad, ¿qué sucede con la resistencia eléctrica a bajas temperaturas?
+
+35. Las mediciones indican que hay un campo eléctrico que rodea a la Tierra. Su magnitud es aproximadamente de 100 N/C en la superficie terrestre, y apunta hacia dentro, es decir, hacia el centro de la Tierra. A partir de esta información, ¿es posible saber si la Tierra tiene carga positiva o negativa?
+
+36. ¿Por qué los pararrayos normalmente son más altos que los edificios a los que protegen?
+
+37. ¿Por qué no se aconseja que los golfistas usen calzado con tacos (spikes) metálicos en un día con tormenta?
+
+38. Si te atrapa una tormenta en la intemperie, ¿por qué no te debes parar bajo un árbol? ¿Puedes imaginar algún motivo del porqué no te debes parar con las piernas separadas? ¿O por qué puede ser peligroso acostarte? (Sugerencia: imagina la diferencia de potencial eléctrico.)
+
+39. Si se aplica un campo eléctrico suficientemente grande, hasta un aislante conducirá la corriente eléctrica; prueba de ello son las descargas de relámpagos por el aire. Explica cómo sucede eso, teniendo en cuenta las cargas opuestas en un átomo y la forma en que sucede la ionización.
+
+40. ¿Por qué un buen conductor de calor es también buen conductor de electricidad?
+
+41. Si frotas un globo inflado contra tu cabello y lo colocas frente a una puerta, ¿por qué mecanismo se adhiere? Explica tu respuesta.
+
+42. ¿Un átomo cargado (ion) cómo puede atraer a un átomo neutro?
+
+43. Cuando el chasis de un automóvil entra a una caseta de pintura, se rocía pintura alrededor de él. Cuando a la carrocería se le da una carga eléctrica repentina tal que la niebla de pintura sea atraída hacia él, ¡listo! el automóvil queda pintado en forma rápida y uniforme. ¿Qué tiene que ver con esto el fenómeno de la polarización?
+
+44. Si pones un electrón libre y un protón libre en el mismo campo eléctrico, ¿cómo se comparan las fuerzas que actúan sobre ellos? ¿Y las aceleraciones? ¿Y las direcciones de movimiento?
+
+45. ¿Por qué la magnitud del campo eléctrico es cero a medio camino entre cargas puntuales idénticas?
+
+46. Imagina un protón en reposo a cierta distancia de una placa con carga negativa. Se suelta y choca contra la placa. A continuación imagina un caso parecido de un electrón en reposo, a la misma distancia de una placa con carga igual y opuesta. ¿En qué caso la partícula en movimiento tendrá mayor rapidez en el momento del choque? ¿Por qué?
+
+47. Un vector de campo gravitacional apunta hacia la Tierra; un vector de campo eléctrico apunta hacia un electrón. ¿Por qué los vectores de campo eléctrico apuntan alejándose de los protones?
+
+48. Imagina que un archivero metálico está cargado. ¿Cómo se compara la concentración de carga eléctrica en las esquinas del archivero con la concentración en sus caras planas?
+
+49. Si gastas 10 joules de trabajo para empujar un coulomb de carga contra un campo eléctrico, ¿cuál será su voltaje con respecto a su posición inicial? Cuando lo sueltas, ¿cuál será el valor de energía cinética cuando pasa por su punto de partida?
+
+50. No te daña el contacto con una esfera metálica cargada, aunque su voltaje pueda ser muy alto. ¿La causa de ello se parece al porqué no te dañan las luces de Bengala a más de 1,000°C en la Navidad? Defiende tu respuesta en función de las energías que intervienen.
+
+51. ¿Cuál es el voltaje en el lugar de una carga de 0.0001 C que tiene una energía potencial eléctrica de 0.5 J (medidas ambas en relación con el mismo punto de referencia)?
+
+52. ¿Qué seguridad ofrece quedarse dentro del automóvil durante una tormenta con relámpagos?
+
+53. ¿Por qué las cargas en las placas opuestas de un condensador tienen siempre la misma magnitud?
+
+54. ¿Qué cambios harías en las placas de un condensador de placas paralelas, que funcionara con un voltaje fijo, para almacenar más energía en el condensador?
+
+55. ¿Por qué es peligroso tocar las terminales de un condensador de alto voltaje incluso después de que se haya apagado el circuito de carga?
+
+## Problemas
+
+1. Dos cargas puntuales están a 6 cm de distancia. La fuerza de atracción entre ellas es 20 N. Calcula la fuerza entre ellas cuando estén a 12 cm de distancia. ¿Por qué puedes resolver este problema sin conocer las magnitudes de las cargas?
+
+2. Si las cargas que se atraen entre sí en el problema anterior tienen igual magnitud, ¿cuál será la magnitud de cada una?
+
+3. Dos pastillas, cada una con una carga de 1 microcoulomb (10−6, 10 a la menos 6 C), están a 3 cm (0,03 m) de distancia. ¿Cuál es la fuerza eléctrica entre ellas? ¿Qué masa debería tener un objeto para sentir esa misma fuerza en el campo gravitacional terrestre?
+
+4. Los especialistas en electrónica no tienen en cuenta la fuerza de gravedad sobre los electrones. Para averiguar por qué, calcula la fuerza de la gravedad terrestre sobre un electrón y compárala con la fuerza que ejerce sobre él un campo eléctrico de 10.000 V/m (es relativamente pequeño ese campo). La masa y la carga de un electrón las puedes encontrar en los forros de este libro.
+
+5. Los físicos atómicos no tienen en cuenta el efecto de la gravedad dentro de un átomo. Para saber por qué, calcula y compara las fuerzas gravitacional y eléctrica entre un protón y un electrón a 10−10 (10 a la menos 10) m de distancia entre sí. Las cargas y las masas necesarias las puedes encontrar en los forros de este libro.
+
+6. Una gotita de una impresora de inyección de tinta lleva una carga de 1,6 × 10−10 (10 a la menos 10) C, y es desviada hacia el papel por una fuerza de 3,2 × 10−4 N. Calcula la intensidad del campo eléctrico que produce esta fuerza.
+
+7. La diferencia de potencial entre una nube de tormenta y el suelo es 100 millones de volts. Si en un relámpago pasa una carga de 2 C de la nube al suelo, ¿cuál será el cambio de energía potencial eléctrica de la carga?
+
+8. En la esfera metálica de una máquina de Van de Graaff se almacena 0,1 J de energía. Con una chispa que conduce 1 microcoulomb (10−6 C) se descarga esa esfera. ¿Cuál era el potencial eléctrico de la esfera en relación con la tierra?
+
+9. Calcula el cambio de voltaje cuando a) un campo eléctrico efectúa 10 J de trabajo sobre una carga de 0,0001 C, y b) el mismo campo eléctrico efectúa 24 J de trabajo sobre una carga de 0.0002 C.
+
+# Capítulo 2: corriente eléctrica
+
+En el capítulo anterior te presentamos el concepto de potencial eléctrico, que se mide en volts. Ahora veremos que este voltaje actúa como una “presión eléctrica” que puede producir un flujo de carga, o corriente. La corriente se mide en amperes, cuyo símbolo es A. También veremos que la resistencia que restringe este flujo de carga se mide en ohms (Ω). Cuando el flujo sólo es en una dirección, se le llama corriente directa (cd) y cuando el flujo es de ida y vuelta se le llama corriente alterna (c.a). La corriente eléctrica puede suministrar potencia eléctrica, que se mide, igual que la potencia mecánica, en watts (W) o en miles de watts, o kilowatts (kW). Veremos aquí muchos términos que deberemos clasificar. Eso se hace con más facilidad cuando se tiene cierta comprensión de los conceptos que representan esos términos y ello, a la vez, se entiende mejor si se conoce cómo se relacionan entre sí. En este capítulo analizaremos tales términos y lo que quieren decir en detalle. Comenzaremos con el flujo de la carga eléctrica.
+
+## Flujo de carga
+
+Recuerda que al estudiar calor y temperatura, cuando los extremos de un material conductor están a distinta temperatura, la energía térmica fluye de la temperatura mayor a la menor. El flujo cesa cuando ambos extremos llegan a la misma temperatura. De igual forma, cuando los extremos de un conductor eléctrico están a distintos potenciales eléctricos, es decir, que hay entre ellos una diferencia de potencial, la carga pasa de uno a otro extremo. El flujo de carga persiste mientras haya una diferencia de potencial. Si no hay diferencia de potencial no fluye la carga. Por ejemplo, conecta un extremo de un conductor a la esfera cargada de un generador Van de Graaff, y el otro extremo a tierra, y el alambre se inundará de cargas que pasan por él. Sin embargo, el flujo será breve, porque la esfera llegará con rapidez a un potencial común con la tierra.
+
+*Imagen 18. Analogía para el flujo*
+
+Descripción de la imagen 18. Analogía para el flujo. Parte a, Un recipiente con mayor área superficial está conectado por debajo a otro con menos área. El agua fluye del recipiente con mayor presión (mayor área) al recipiente con menor presión. El flujo cesa cuando cesa la diferencia de presiones. Parte b, al anterior dispositivo se conecta una bomba que permite devolver el agua al recipiente inicial. El agua sigue fluyendo porque la bomba mantiene una diferencia de presiones.
+
+Para obtener un flujo continuo de carga en un conductor, se deben hacer ciertos arreglos para mantener una diferencia de potencial mientras la carga fluye de un extremo a otro. El caso es análogo al flujo de agua de un tanque elevado a uno más bajo (Imagen 18 a). El agua pasará por un tubo que conecte los tanques sólo mientras haya una diferencia en el nivel del agua. El flujo de agua en el tubo, al igual que el flujo de carga en el alambre que conecte el generador Van de Graaff con la tierra, cesará cuando se igualen las presiones en cada extremo (eso queda implicado al decir que el agua busca su propio nivel). Es posible obtener un flujo continuo si se mantiene la diferencia en niveles del agua y, en consecuencia, entre las presiones de agua, usando una bomba adecuada (Imagen 18 b).
+
+Dato curioso: con frecuencia pensamos en la corriente que fluye a través de un circuito, pero nunca hay que decir esto frente a un purista de la gramática, porque la expresión “corriente que fluye” es una redundancia. Es más apropiado decir que la carga fluye (esto es una corriente).
+
+## Corriente eléctrica
+
+Así como una corriente de agua es el flujo de moléculas de H2 O, la corriente eléctrica es el flujo de carga eléctrica. En circuitos de alambres conductores metálicos, los electrones forman el flujo de la carga. Es porque uno o más electrones de cada átomo del metal tienen libertad de movimiento por toda la red de átomos. Esos portadores de carga se llaman electrones de conducción. Por otro lado, los protones no se mueven porque están enlazados dentro de los núcleos de los átomos, y están más o menos asegurados en posiciones fijas. Sin embargo, en los fluidos conductores, como en un acumulador de automóvil, los iones positivos suelen formar el flujo de la carga eléctrica.
+
+La tasa del flujo eléctrico se mide en amperes. Un ampere es una tasa de flujo igual a un coulomb de carga por segundo. (Recuerda que 1 coulomb es la unidad normal de la carga, y es la carga eléctrica de 6,25 millones de billones de electrones.) Por ejemplo, en un alambre que conduzca 5 amperes pasan 5 coulombs de carga por cualquier área transversal del alambre cada segundo. ¡Son muchos electrones! En un alambre que conduzca 10 amperes, cada segundo pasa doble cantidad de electrones por cada área transversal.
+
+Es interesante observar que un conductor de corriente no tiene carga eléctrica. Bajo condiciones ordinarias, los electrones de conducción, negativos, pasan por la red de átomos formada por núcleos atómicos con carga positiva. Hay entonces tantos electrones como protones en el conductor. Si un alambre conduce corriente o no, su carga neta normal es cero en cualquier momento.
+
+Dato curioso: cada coulomb de carga que se hace pasar por un circuito que conecta las terminales de una batería de 1,5 V se energiza con 1,5 J.
+
+## Fuentes de voltaje
+
+Las cargas sólo fluyen cuando son “empujadas” o “impulsadas”. Una corriente estable requiere de un dispositivo impulsor adecuado que produzca una diferencia en el potencial eléctrico: un voltaje. Una “bomba eléctrica” es, en este sentido, cierto tipo de fuente de voltaje. Si cargamos una esfera metálica positivamente y otra negativamente, podemos establecer entre ellas un voltaje grande. Esta fuente de voltaje no es una bomba eléctrica buena, porque cuando se conectan las esferas con un conductor, los potenciales se igualan en un solo y breve golpe de cargas en movimiento, lo cual no es práctico (como descargar un generador Van de Graaf). Por otro lado, los generadores o las baterías químicas son fuentes de energía en los circuitos eléctricos y capaces de mantener un flujo estable.
+
+Los acumuladores, las pilas, las baterías y los generadores eléctricos efectúan trabajo para separar las cargas negativas de las positivas. En las baterías químicas, este trabajo lo hace la desintegración química del zinc o del plomo en un ácido, y la energía almacenada en los enlaces químicos se convierte en energía potencial eléctrica. Los generadores, como pueden ser los alternadores en los automóviles, separan las cargas por inducción electromagnética. El trabajo efectuado por cualquier medio para separar las cargas opuestas queda disponible en las terminales de la batería o del generador. Esos distintos valores de energía entre carga establecen una diferencia de potencial (voltaje). Este voltaje es la “presión eléctrica” que mueve a los electrones a través de un circuito que se conecte con esas terminales.
+
+La unidad de diferencia de potencial eléctrico (voltaje) es el volt. Un acumulador común de automóvil suministra una presión eléctrica de 12 volts a un circuito conectado con sus terminales. Entonces, a cada coulomb de carga que se haga pasar por el circuito se le suministran 12 joules de energía.
+
+Con frecuencia surge cierta confusión acerca de si la carga fluye a través de un circuito y si un voltaje se imprime a través de un circuito. Se pueden diferenciar esos conceptos al imaginar un tubo largo lleno de agua. El agua fluirá a través del tubo, si hay una diferencia de presión a través (o entre) sus extremos. El agua pasa del extremo de alta presión al de baja presión. Sólo fluye el agua, pero no la presión. Asimismo, la carga eléctrica fluye debido a diferencias en la presión eléctrica (el voltaje). Se dice que las cargas fluyen a través de un circuito porque hay un voltaje aplicado a través del circuito. No se dice que el voltaje fluye a través de un circuito. El voltaje no va a ninguna parte, porque son las cargas las que se mueven. El voltaje produce la corriente (si el circuito está completo).
+
+*Imagen 19. Analogía del circuito eléctrico*
+
+Descripción de la imagen 19. Analogía del circuito eléctrico. Parte a, en un circuito hidráulico, un tubo más angosto (Línea) presenta resistencia al flujo del agua. Una bomba está conectada con otro tubo a una válvula para cerrar el circuito. Parte b, en un circuito eléctrico, una bombilla de luz u otro aparato (que se representan con el símbolo en zigzag) presenta resistencia al flujo de los electrones (resistor). Una fuente de voltaje se conecta a un interruptor para cerrar el circuito.
+
+Dato curioso: guarda tus pilas en un lugar frío y seco. Si las guardas en el refrigerador, durarán un poco más. ¡Eureka!
+
+## Resistencia eléctrica
+
+Sabemos que una batería o un acumulador de algún tipo es el impulsor, primer móvil y fuente de voltaje en un circuito eléctrico. La corriente que se maneje no sólo depende de su voltaje, sino también de la resistencia eléctrica que ofrece el conductor al paso de la carga. Eso se parece a la tasa del flujo de agua en un tubo, que depende no sólo de la diferencia de presión entre los extremos del tubo, sino también de la resistencia que presenta el tubo mismo. Un tubo corto presenta menos resistencia al flujo del agua que uno largo: cuanto mayor sea el diámetro del tubo, su resistencia será menor. Es igual con la resistencia de los conductores por los que fluye la corriente. La resistencia de un alambre depende de su grosor y su longitud, así como de su conductividad. Los alambres gruesos tienen menos resistencia que los delgados. Los alambres más largos tienen más resistencia que los más cortos. El alambre de cobre tiene menos resistencia que el de acero, si tienen las mismas medidas. La resistencia eléctrica también depende de la temperatura. Cuanto mayor sea la agitación de los átomos dentro del conductor, será mayor la resistencia que presente al flujo de la carga. Para la mayoría de los conductores, mayor temperatura equivale a mayor resistencia. La resistencia de algunos materiales llega a ser cero a muy bajas temperaturas. Son los superconductores que se mencionaron en forma breve en el capítulo anterior.
+
+La resistencia eléctrica se expresa en unidades llamadas ohms. Se suele usar la letra griega omega mayúscula, Ω, como símbolo del ohm. El nombre de la unidad es en honor del físico alemán Georg Simon Ohm, quien descubrió en 1826 una relación sencilla, pero muy importante, entre el voltaje, la corriente y la resistencia.
+
+Dato curioso: pasa más agua por una manguera gruesa que por una delgada, al conectarlas al sistema de agua potable (con la misma presión del agua). Lo mismo sucede con la corriente eléctrica en conductores gruesos y delgados conectados a través de la misma diferencia de potencial.
+
+Ley de Ohm
+
+La relación entre voltaje, corriente y resistencia se resume en un enunciado llamado ley de Ohm. Ohm descubrió que la corriente en un circuito es directamente proporcional al voltaje impreso a través del circuito, y es inversamente proporcional a la resistencia del circuito. Es decir:
+
+```latex
+Corriente=\frac{voltaje}{resitencia}
+```
+
+La ecuación se lee, corriente = voltaje sobre resistencia. También se lee, corriente = voltaje ÷ resistencia.
+
+En su forma dimensional
+
+```latex
+Amperes=\frac{volts}{ohms}
+```
+
+La ecuación se lee, amperes = volts sobre ohms.
+
+Entonces, para un circuito dado de resistencia constante, la corriente y el voltaje son proporcionales entre sí. Eso quiere decir que voltaje doble produce corriente doble. Cuanto mayor sea el voltaje, mayor será la corriente. Pero si en un circuito se eleva la resistencia al doble, la corriente bajará a la mitad. A mayor resistencia, la corriente será menor. La ley de Ohm tiene sentido.
+
+La ley de Ohm indica que una diferencia de potencial de 1 volt establecida a través de un circuito cuya resistencia es 1 ohm, producirá una corriente de 1 ampere. Si en el mismo circuito se imprimen 12 volts, la corriente será de 12 amperes. La resistencia de un cordón normal para bombilla de luz es mucho menor que 1 ohm, mientras que una bombilla de luz normal tiene una resistencia mayor que 100 ohms. Una plancha o un tostador eléctrico tienen una resistencia de 15 a 20 ohms. Recuerda que para determinada diferencia de potencial, menor resistencia equivale a más corriente. En aparatos como los receptores de TV y computadoras, la corriente se regula con elementos especiales en el circuito, llamados resistores, cuyas resistencias pueden ir desde unos cuantos hasta millones de ohms.
+
+Dato curioso: la unidad de resistencia eléctrica es el ohm, Ω, como la antigua canción: “Ohm, ohm on the Range.”
+
+#### Examínate
+
+1. ¿Cuánta corriente pasa por una bombilla de luz que tiene 60 W de resistencia, cuando hay 12 V a través de ella?
+
+2. ¿Cuál es la resistencia de un freidor eléctrico que toma 12 A al conectarse en un circuito de 120 V?
+
+#### Comprueba tus respuestas
+
+1. 1/5 de A. Se calcula con la ley de Ohm: 12 V/60 Ω (ohm) = 0,2 A.
+
+2. 10 Ω (ohm). Reacomoda la ley de Ohm como sigue: Resistencia = voltaje/corriente = 120 V/12 A = 10 Ω (ohm).
+
+### Ley de Ohm y choques eléctricos
+
+¿Qué causa el choque eléctrico en el cuerpo humano, la corriente o el voltaje? Los efectos dañinos del choque son causados por la corriente que pasa por el organismo. De acuerdo con la ley de Ohm se puede ver que esa corriente depende del voltaje que se aplique, y también de la resistencia eléctrica del cuerpo humano. La resistencia del organismo depende de su condición, y va desde 100 ohms si está empapado con agua salina, hasta unos 500.000 ohms si la piel está muy seca. Si tocamos los dos electrodos de un acumulador con los dedos secos, cerrando el circuito de una mano a la otra, nuestra resistencia aproximada será de 100.000 ohms. Normalmente, no podremos sentir la corriente que producen 12 volts o 24 volts, sólo con los dedos. Si la piel está mojada, los 24 volts pueden ser muy desagradables.
+
+En la tabla 1 se describen los efectos de distintas cantidades de corriente en el cuerpo humano.
+
+*Tabla 1. Efecto de las corrientes eléctricas en el organismo*
+
+| Corriente (A) | Efecto |
+| --- | --- |
+| 0,001 | Se puede sentir |
+| 0,005 | Es doloroso |
+| 0,010 | Causa contracciones musculares involuntarias (espasmos) |
+| 0,015 | Causa pérdida del control muscular |
+| 0,070 | Si pasa por el corazón, lo perturba gravemente; es probable que sea fatal si la corriente dura más de 1 segundo. |
+
+Cada año mueren muchas personas debido a las corrientes de circuitos eléctricos comunes de 120 volts. Si tocas con la mano una bombilla defectuosa de 120 volts, estando parado sobre el piso, habría una “presión eléctrica” de 120 volts entre tu mano y el piso. En las condiciones normales de humedad del organismo, es probable que la corriente no baste para causar lesiones graves. Pero si estás descalzo en una tina mojada y conectada a tierra con la tubería, la resistencia entre tú y la tierra es muy pequeña. Tu resistencia eléctrica sería tan baja que una diferencia de potencial de 120 volts podría generar una corriente dañina en tu cuerpo. Recuerda que definitivamente no debes manejar aparatos eléctricos cuando te estés bañando.
+
+Las gotas de agua que se juntan en los interruptores de apagado/encendido de aparatos tales como secadoras de cabello pueden conducir la corriente hacia el usuario. Aunque el agua destilada es un buen aislante, los iones que tiene el agua ordinaria reducen mucho su resistencia eléctrica. Esos iones se producen por los materiales disueltos, en especial las sales. En general, la transpiración de la piel deja una capa de sal, que cuando se moja, baja su resistencia hasta algunos cientos de ohms, o menos, dependiendo de la distancia a través de la cual actúe el voltaje.
+
+Para que haya un choque eléctrico se requiere una diferencia de potencial eléctrico, es decir, una diferencia de voltaje, entre una parte del organismo y otra. La mayoría de la corriente pasará por el camino de menor resistencia eléctrica entre esos dos puntos. Imagina que cayeras de un puente, y te pudieras colgar de una línea de transmisión de alto voltaje para detener tu caída. Mientras no toques otra cosa con distinto potencial no recibirás un choque eléctrico. Aun cuando el alambre tenga miles de volts respecto al potencial de tierra, y aun cuando te cuelgues con las dos manos, no pasará carga apreciable de una mano a la otra. Eso se debe a que no hay diferencia apreciable de potencial eléctrico entre las manos. Sin embargo, si con una mano te sujetas de un conductor con distinto potencial... ¡cuidado! Todos hemos visto a las aves posadas en líneas de alto voltaje. Todas las partes de sus cuerpos están al mismo alto potencial que el alambre, por lo que no sienten efectos perjudiciales.
+
+Dato curioso: un pájaro puede posarse con seguridad en un alambre con alta tensión, pero mejor sería que no se estirara y tocara el alambre cercano. ¿Por qué?
+
+En la actualidad la mayoría de las clavijas o conectores, y los receptáculos o contactos eléctricos tienen tres patas, y no dos, como antes. Las dos patas planas principales de una clavija son para el cable doble (de dos alambres) conductor de la corriente; uno de los dos alambres “está vivo” (energizado) y el otro es neutral, mientras que la pata redonda se conecta a tierra. Los electrodomésticos en el otro extremo del cable se conectan a los tres conductores. Si el alambre vivo en el aparato conectado toca por accidente la superficie metálica del mismo, y tú tocas el aparato, podrías recibir un choque peligroso. Eso no sucede cuando la caja del aparato se conecta a tierra a través del cable de tierra y la pata redonda, y así se asegura que la caja del aparato esté siempre a un potencial cero, el de la tierra.
+
+Los choques eléctricos pueden quemar los tejidos del organismo e interrumpir las funciones nerviosas normales. Pueden perturbar las pautas eléctricas rítmicas que mantienen el latido sano del corazón, y también pueden alterar el centro nervioso que controla la respiración. Al tratar de rescatar a una persona que se esté electrocutando, lo primero que se debe hacer es encontrar y apagar la fuente de energía. A continuación hay que proporcionar los primeros auxilios hasta que llegue la ayuda experta. Para las víctimas de un ataque cardiaco, por otra parte, a veces el choque eléctrico puede servir para hacer que se inicien de nuevo los latidos del corazón.
+
+#### Examínate
+
+1. Con la resistencia de 100000 Ω (ohm), ¿cuál será la corriente a través de tu cuerpo al tocar las terminales de un acumulador de 12 volts?
+
+2. Si tu piel está muy mojada y tu resistencia es de sólo 1000 Ω (ohm), y tocas las terminales de un acumulador de 12 V, ¿cuánta corriente recibirás?
+
+#### Comprueba tus respuestas
+
+1. 12 V ÷ 100.000 Ω (ohm) = 0,00012 A.
+
+2. 12 V ÷ 1.000 Ω (ohm) = 0,012 A. ¡Cuidado!
+
+Dato curioso: La corriente es un flujo de carga, que el voltaje pone en movimiento al ejercer presión sobre ella, mientras que la resistencia le dificulta el paso. ¡Eureka!
+
+Corriente directa y corriente alterna
+
+La corriente eléctrica puede ser c.d o c.a. La c.d es la corriente directa, que es el flujo de cargas en una dirección. Un acumulador produce corriente directa en un circuito, porque sus terminales tienen siempre el mismo signo: la terminal positiva siempre es positiva y la terminal negativa siempre es negativa. Los electrones fluyen de la terminal negativa, que los repele, hacia la terminal positiva, que los atrae, y siempre se mueven por el circuito en la misma dirección. Aun cuando la corriente se haga en impulsos desiguales, mientras los electrones se muevan sólo en una dirección será cd.
+
+*Imagen 20. Gráficas de la c.a. y c.d*
+
+Descripción de la imagen 20. Gráficas de la c.a. y c.d. Para las 2 gráficas se ubica en el eje horizontal se representa el tiempo, y en el eje vertical la corriente. Gráfica de c.d., Una línea con valor constante positivo mientras avanza el tiempo se nombra como c.d. en función del tiempo. Gráfica c.a., una curva que parte desde el origen oscilando entre un valor de corriente positivo máximo y un valor de corriente negativo mínimo a medida que avanza en el tiempo se nombra como c.a.
+
+La corriente alterna es lo que su nombre implica. Los electrones en el circuito se mueven primero en una dirección, y después en dirección contraria, alternando de aquí para allá con respecto a posiciones relativamente fijas. Esto se hace alternando la polaridad del voltaje en el generador o en la fuente de voltaje. En Estados Unidos, casi todos los circuitos comerciales de c.a implican voltajes y corrientes que alternan a una frecuencia de 60 ciclos por segundo. Es corriente con frecuencia de 60 Hz.
+
+En algunos lugares se usan corrientes con frecuencias de 25, 30 o 50 Hertz. En todo el mundo, la mayoría de los circuitos residenciales y comerciales son de c.a, porque el voltaje de la energía eléctrica se puede aumentar con facilidad, para transmitirlo a grandes distancias con poca pérdida térmica, y después se baja hasta los voltajes relativamente seguros con que se consume la energía.
+
+El voltaje normal de la c.a en Estados Unidos es de 120 volts. En los primeros días de la electricidad había mayores voltajes, que con frecuencia quemaban los filamentos de las bombillas eléctricas. Por tradición se adoptaron 110 volts como primer patrón, porque hacía que las bombillas de esa época brillaran con tanta intensidad como la de una lámpara de gas. Así, los cientos de centrales eléctricas que se construyeron en Estados Unidos, antes de 1900, producían electricidad a 110 volts (o a 115 o a 120 volts). Cuando se popularizó la energía eléctrica en Europa, los ingenieros habían calculado cómo fabricar bombillas de luz que no se quemaran con tanta rapidez a mayores voltajes. La transmisión de potencia es más eficiente cuando los voltajes son mayores, así que Europa adoptó 220 volts como patrón. En Estados Unidos permanecieron con 110 volts (hoy son 120 volts, oficialmente) por tanto equipo que había ya instalado para 110 volts. (Algunos aparatos, como las estufas eléctricas y las secadoras de ropa, usan voltajes mayores.)
+
+El uso primario de la corriente eléctrica, ya sea c.d o c.a, es transferir la energía silenciosa y flexiblemente, así como de forma conveniente de un lugar a otro.
+
+Dato curioso: En los circuitos de c.a, 120 volts es el promedio de la “raíz cuadrática media” del voltaje. El voltaje real en un circuito de c.a de 120 volts varía entre +170 y −170 volts, para suministrar la misma potencia a una plancha o a un tostador, que un circuito de c.d de 120 volts. ¡Eureka!
+
+### Conversión de c.a a c.d
+
+La corriente en el hogar es c.a. La corriente en un dispositivo de baterías, por ejemplo, una calculadora de bolsillo, es cd. Puedes trabajar con estos aparatos en c.a, en vez de con tales baterías, si los conectas a un convertidor de c.a-c.d. Además de un transformador para bajar el voltaje, el convertidor usa un diodo, que es un dispositivo electrónico diminuto que funciona como una válvula de una dirección, que permite el flujo de electrones sólo en una sola dirección (Imagen 21). Como la corriente alterna cambia de dirección cada medio ciclo, pasa por el diodo sólo durante la mitad de cada periodo. La salida es una cd tosca, desconectada la mitad del tiempo. Para mantener la corriente continua y alisar las jorobas, se utiliza un condensador (Imagen 22).
+
+*Imagen 21. Símbolo de Diodo*
+
+Descripción de la imagen 21. Símbolo de Diodo. El símbolo indica que la corriente fluye en dirección de la flecha, pero no en dirección contraria. El símbolo se dibuja: una flecha que termina inmediatamente con una barra y continúa la línea.
+
+Recuerda que, en el capítulo anterior, dijimos que un condensador funciona como un almacén de carga. Así como se necesita tiempo para subir el nivel del agua en un tanque al agregarle el líquido, se necesita tiempo para agregar o quitar electrones de las placas de un condensador. En consecuencia, un condensador produce un efecto de retardo en los cambios de corriente. Se opone a cambios de voltaje y alisa los impulsos en la salida.
+
+*Imagen 22. Tina a cubetadas*
+
+Descripción de la imagen 22. Tina a cubetadas. Un hombre llena una gran tina a cubetadas. Hay una salida de agua de la tina que se dirige a una canaleta. La entrada del agua a la tina puede ser en forma de cubetadas o impulsos repetidos, pero la salida es una corriente bastante uniforme. Sucede lo mismo en un condensador.
+
+## Rapidez y fuente de electrones en un circuito
+
+Cuando encendemos el interruptor de luz de una bombilla eléctrica y se completa el circuito, ya sea de c.a o de c.d, parece que la bombilla se enciende de inmediato. Cuando hacemos una llamada telefónica, la señal eléctrica que conduce nuestra voz viaja por los conductores de interconexión a una rapidez aparentemente infinita. Esta señal se transmite por los conductores casi a la rapidez de la luz.
+
+Los electrones no se mueven con esa rapidez. Aunque los electrones dentro de un metal a temperatura ambiente tienen una rapidez promedio de algunos millones de kilómetros por hora, no forman una corriente porque se mueven en todas las direcciones posibles. No hay flujo neto en alguna dirección de preferencia. Pero cuando se conecta un acumulador o un generador, dentro del conductor se establece un campo eléctrico. Los electrones continúan sus movimientos erráticos, pero al mismo tiempo el campo los impulsa. El campo eléctrico es el que puede viajar por un circuito casi a la rapidez de la luz. El conductor funciona como guía o “tubo” para las líneas del campo eléctrico (Imagen 23). En el espacio fuera del alambre, el campo eléctrico tiene una distribución determinada por la ubicación de las cargas eléctricas, incluyendo las que haya en el alambre. Dentro del alambre, el campo eléctrico se dirige a lo largo de su longitud.
+
+*Imagen 23. Líneas de campo en acumulador*
+
+Descripción de la imagen 23. Líneas de campo en acumulador. Las líneas de campo eléctrico entre las terminales de un acumulador fluyen a través de un conductor que une las terminales. Aquí se muestra un conductor de metal grueso conectado entre sus dos terminales, pero la trayectoria de una terminal a otra suele ser a través de un circuito eléctrico. (No recibirás choques eléctricos si tocas ese conductor, pero podrías quemarte ¡porque probablemente estará muy caliente!)
+
+Si la fuente de voltaje es c.d, como el acumulador de la Imagen 23, las líneas de campo eléctrico se mantienen en una dirección en el conductor. Los electrones de conducción se aceleran por el campo, en una dirección paralela a las líneas de campo. Antes de que su rapidez alcance un valor apreciable, “rebotan” en los iones metálicos anclados, que interrumpen sus trayectorias, y les transfieren algo de su energía cinética. Ésta es la causa por la que se calientan los conductores con corriente. Esos choques interrumpen el movimiento de los electrones, por lo que la rapidez con la que migran a lo largo del alambre es muy baja. Este flujo neto de electrones tiene una velocidad de deriva. En un circuito de cd normal, por ejemplo, el sistema eléctrico de un automóvil, los electrones tienen una velocidad de deriva en promedio de un centésimo de centímetro por segundo. ¡Un electrón tardaría así unas 3 horas en recorrer 1 metro de alambre!
+
+Es posible tener grandes corrientes por las grandes cantidades de electrones que se muevan. Así, aunque una señal eléctrica va casi a la rapidez de la luz por un conductor, los electrones que se mueven en respuesta a esa señal lo hacen más despacio que un caracol.
+
+En un circuito de c.a, los electrones de conducción no avanzan en absoluto por el alambre. Oscilan en forma rítmica, hacia adelante y hacia atrás, respecto a posiciones relativamente fijas. Cuando hablas con tu amigo por teléfono, lo que atraviesa la ciudad casi a la rapidez de la luz es la pauta del movimiento oscilatorio. Los electrones, que ya están en el alambre, vibran al ritmo de la pauta que se propaga.
+
+Una idea equivocada común acerca de las corrientes eléctricas es que se propagan por los alambres conductores debido a que los electrones rebotan entre sí; que un impulso eléctrico se transmite en forma parecida al efecto dominó, en que una ficha que se cae transfiere su caída a toda la fila de fichas paradas y cercanamente espaciadas. Eso no es cierto. El concepto del efecto dominó es bueno para la transmisión del sonido; pero no para la transmisión de la energía eléctrica. Los electrones que se pueden mover con libertad en un conductor son atraídos por el campo eléctrico que se establece sobre ellos, y no por los choques entre ellos. Es cierto que chocan entre sí y con otros átomos, pero eso los desacelera y constituye una resistencia para su movimiento. Los electrones en toda la trayectoria cerrada de un circuito reaccionan todos en forma simultánea con el campo eléctrico.
+
+Dato curioso: después de fallar más de 6.000 veces en sus intentos por crear la primera bombilla eléctrica, Edison afirmó que sus ensayos no fueron fallas, porque tuvo éxito en descubrir 6.000 formas que no funcionaban.
+
+Otra idea equivocada acerca de la electricidad es el origen de los electrones. En una ferretería puedes comprar una manguera que no contenga agua. Pero no puedes comprar un tramo de alambre, que es un “tubo de electrones”, que no tenga electrones. La fuente de electrones en un circuito es el material conductor mismo. Algunas personas imaginan que los contactos eléctricos en las paredes de las casas son una fuente de electrones. Piensan que los electrones pasan de la planta generadora por las líneas de suministro y llegan a los contactos de pared del hogar. Esto no es cierto. Los contactos en los hogares son de c.a. En un circuito de c.a, los electrones no hacen un movimiento neto a través de un conductor en un circuito de c.a.
+
+*Imagen 24. Bombilla*
+
+Descripción de la imagen 24. Bombilla. Se muestra el esquema de una bombilla donde se indica la base del bombillo (aislante) y el interior un cable conectado a la base y otro a un borde del aislante, entre los dos cables hay un filamento. Los electrones de conducción que van de aquí para allá en el filamento de la bombilla no provienen de la fuente de voltaje. Para empezar, están en el filamento. La fuente de voltaje sólo les manda impulsos de energía.
+
+Cuando conectas una bombilla en un contacto, pasa energía del contacto a ella, y no electrones. La energía es transportada por el campo eléctrico pulsante, y produce movimiento vibratorio de los electrones que ya existen en el filamento de la bombilla. Si se aplican 120 volts a una bombilla, se disipa un promedio de 120 joules de energía por cada coulomb de carga que se pone a vibrar. La mayoría de esta energía eléctrica se transforma en calor, y algo de ella toma la forma de luz. Las empresas eléctricas no venden electrones. Venden energía. Tú pones los electrones.
+
+Así, cuando sufras un choque eléctrico, los electrones que forman la corriente en tu organismo se originan en él. Los electrones no salen de un alambre, pasan por tu cuerpo y van a tierra; pero la energía sí. La energía sólo hace que vibren al unísono los electrones libres que ya existen en tu cuerpo. Las vibraciones pequeñas causan hormigueo, pero las vibraciones grandes pueden ser fatales.
+
+Dato curioso: Thomas Edison hizo mucho más que inventar una bombilla incandescente en 1879. Resolvió los problemas que implicaba construir los dínamos, los sistemas de cableado y las conexiones para iluminar la ciudad de Nueva York. Hizo que el teléfono funcionara adecuadamente; además, nos legó la música grabada y el cinematógrafo. También desarrollo un método para inventar: su laboratorio de New Jersey fue el primero de los modernos laboratorios de investigación industrial. ¡Eureka!
+
+¿Te has preguntado? ¿Por qué es correcto decir que la energía del acumulador de un automóvil en última instancia proviene del combustible en el tanque de gasolina?
+
+#### Examínate
+
+1. Considera a los miembros de una banda de guerra que están parados en reposo. Tú puedes ponerlos en movimiento de dos formas:
+
+a. Dar a la última persona de la línea un empujón que se transmita hasta la primera persona de la línea.
+
+b. Dar la orden “Listos, marchen”. ¿Cuál es parecida a la forma en que los electrones en un circuito se mueven cuando se cierra un interruptor, y cuál a la forma en la que viaja el sonido?
+
+2. En la bombilla de la Imagen 24, ¿por qué la luz se emite por el filamento y no por el conductor que se conecta?
+
+#### Comprueba tus respuestas
+
+1. Dar el comando de “Listos, marchen” es similar a la forma en que los electrones se mueven cuando experimentan el campo eléctrico que energiza el circuito cuando se cierra el interruptor. Un marchista que se empuje repentinamente contra otro es similar a la forma en que viaja el sonido.
+
+2. La energía se suministra y se disipa en localidades de resistencia de circuito. Casi toda la resistencia en la bombilla está en el filamento. Por lo tanto, el filamento brilla con luz visible.
+
+## Potencia eléctrica
+
+A menos que esté en un superconductor, una carga que se mueva por un circuito emite energía. Esa energía puede hacer que el circuito se caliente, o que haga girar un motor. La rapidez con la que la energía eléctrica se convierte en otra forma, como energía mecánica, calor o luz, se llama potencia eléctrica, la cual es igual al producto de la corriente por el voltaje:
+
+Potencia = corriente × voltaje
+
+Si el voltaje se expresa en volts y la corriente en amperes, la potencia se expresa en watts. Entonces, en forma dimensional:
+
+Watts = amperes × volts
+
+Si una bombilla de 120 watts funciona en un circuito de 120 volts, tomará una corriente de 1 ampere (120 watts = 1 ampere × 120 volts). Una bombilla de 60 watts toma ampere en un circuito de 120 volts. Esta relación es práctica para conocer el costo de la energía que suele ser de algunos centavos por kilowatt-hora, dependiendo del lugar. Un kilowatt equivale a 1.000 watts, y 1 kilowatt-hora representa la cantidad de energía consumida durante una hora a la tasa de 1 kilowatt. En consecuencia, en un lugar donde la energía cueste 5 centavos por kilowatt-hora, una bombilla eléctrica de 100 watts puede funcionar durante 10 horas, a un costo de 5 centavos, o bien × centavo por cada hora. El funcionamiento de un tostador o una plancha, que toman más corriente y en consecuencia mucho más energía, cuesta unas 10 veces más.
+
+Dato curioso: hay que estar al pendiente de los contendientes para producir hidrógeno combustible en la proyectada economía basada en este gas. ¡Eureka!
+
+### Lectura sugerida: celdas de combustible
+
+Por otro lado, una celda de combustible convierte la energía química de un combustible en electricidad de forma continua e indefinida, siempre y cuando se le suministre combustible. En una versión, el hidrógeno combustible y el oxígeno del aire reaccionan químicamente para producir electrones e iones, además de agua. Los iones fluyen internamente dentro de la celda en una dirección; en tanto que los electrones fluyen externamente a través de un circuito incorporado en otra dirección. Como esta reacción convierte directamente energía química en electricidad, es más eficiente que si se quemara el combustible para producir calor, lo cual a la vez produce vapor para hacer girar las turbinas y generar electricidad. El único producto de desperdicio de tal celda de combustible es agua pura, ¡lista para beberse!
+
+Una nave espacial utiliza celdas de hidrógeno combustible para cubrir sus necesidades de electricidad. (Su hidrógeno y su oxígeno se llevan a bordo en recipientes presurizados.) Las celdas también producen más de 100 galones de agua potable para los astronautas durante una misión común de una semana. En aplicaciones terrestres, los investigadores están desarrollando celdas de combustible para automóviles y autobuses. Los autobuses experimentales con celdas de combustible ya están en funcionamiento en varias ciudades como Vancouver, Columbia Británica y Chicago, Illinois. En el futuro, los edificios comerciales y las viviendas familiares podrán equiparse con celdas de combustible como una alternativa a la electricidad que suministran las plantas generadoras regionales.
+
+Entonces, ¿por qué en la actualidad las celdas de combustible no se han difundido ampliamente? Porque son más caras que otros dispositivos de energía, como los motores de gasolina y diésel: de hecho, son casi 100 veces más caras por unidad de energía producida. Además, está la cuestión de la disponibilidad del combustible elegido: el hidrógeno. Aunque el hidrógeno es el elemento más abundante en el Universo y es muy abundante en nuestro entorno inmediato, está muy bien guardado en las moléculas de agua y de hidrocarburos. No está disponible en estado libre y se requiere energía para separarlo de las moléculas de las que está fuertemente enlazado. La energía necesaria para hacer hidrógeno actualmente es abastecida por fuentes de energía convencionales.
+
+El hidrógeno es, en efecto, un medio para almacenar energía. Al igual que la electricidad, se crea en un lugar y se consume en otro distinto. En el futuro las celdas de combustible serán atractivas cuando su costo disminuya y cuando el hidrógeno necesario para impulsarlas se genere con fuentes de energía alternativa, como la energía eólica.
+
+#### Examínate
+
+  1. Si una línea a un contacto de 120 V está limitada a 15 A mediante un fusible de seguridad, ¿servirá para hacer funcionar una secadora de cabello de 1.200 W?
+
+  2. A 10¢/ kWh, ¿cuánto cuesta hacer trabajar la secadora de cabello de 1.200 W durante una hora?
+
+#### Comprueba tus respuestas
+
+1. Sí, de acuerdo con la ecuación watts = amperes × volts, se ve que la corriente = 1.200 W/120 V = 10 A, por lo que la secadora funcionará al conectarse en el circuito. Pero con dos secadoras en el mismo circuito, el fusible se “volará”.
+
+2. 12¢ el cálculo es: (1.200 W = 1,2 kW; 1,2 kW × 1 h × 10 ¢/kWh = 12¢).
+
+## Circuitos eléctricos
+
+Cualquier trayectoria a lo largo de la cual pasen los electrones es un circuito. Para que haya un flujo continuo de electrones debe haber un circuito completo, sin interrupciones. El interruptor eléctrico que se puede abrir o cerrar para cortar o dejar pasar el flujo de energía es el que hace la interrupción. La mayoría de los circuitos tienen más de un dispositivo que recibe la energía eléctrica. Esos dispositivos se suelen conectar en el circuito en una de dos formas: en serie o en paralelo. Cuando se conectan en serie, forman una sola trayectoria para el flujo de los electrones entre las terminales del acumulador, generador o contacto de pared (que sólo es una extensión de las anteriores terminales). Cuando se conectan en paralelo forman ramales, y cada ramal es una trayectoria separada para el flujo de electrones. Las conexiones en serie y en paralelo tienen sus propias características. Describiremos brevemente los circuitos que usan esos dos tipos de conexiones.
+
+### Circuitos en serie
+
+En la Imagen 25 se muestra un circuito en serie sencillo. Tres bombillas se conectan en serie con una batería. Cuando se cierra el interruptor casi de inmediato se establece la misma corriente en las tres bombillas. Cuanto mayor sea la corriente en una lámpara, mayor será su luminosidad. Los electrones no se “acumulan” en cualquier lámpara, pero fluye a través de cada lámpara simultáneamente. Algunos electrones se alejan de la terminal negativa de la batería, y algunos se acercan a la terminal positiva, mientras que otros más atraviesan el filamento de cada bombilla. Al final los electrones recorren todo el circuito (pasa la misma cantidad de corriente por la batería). Es el único camino de los electrones en el circuito. Una interrupción en cualquier parte de la trayectoria es un circuito abierto, y cesa el paso de los electrones. Si se funde un filamento de una bombilla, o simplemente si se abre el interruptor, se puede causar esa interrupción.
+
+*Imagen 25. Circuito en serie*
+
+Descripción de la imagen 25. Circuito en serie. La batería (Fuente de voltaje) de 6 V suministra 2 V a través de cada una de las 3 bombillas cuando el interruptor está cerrado.
+
+El circuito de la Imagen 25 ilustra las siguientes características importantes de una conexión en serie:
+
+1. La corriente eléctrica sólo tiene una ruta a través del circuito. Eso significa que la corriente que pasa por la resistencia de cada dispositivo eléctrico a lo largo de la trayectoria es la misma.
+
+2. A esta corriente se opone la resistencia del primer dispositivo, la del segundo, la del tercero, etcétera. Entonces, la resistencia total al paso de la corriente por el circuito es igual a la suma de las resistencias individuales a lo largo de la trayectoria por el circuito.
+
+3. La corriente en el circuito es numéricamente igual al voltaje suministrado por la fuente, dividido entre la resistencia total del circuito. Esto es congruente con la ley de Ohm.
+
+4. El voltaje total aplicado a través de un circuito en serie se divide entre los dispositivos o componentes eléctricos individuales del circuito, de tal manera que la suma de las “caídas de voltaje” a través de cada componente sea igual al voltaje total suministrado por la fuente. Esto es consecuencia de que la cantidad de energía suministrada a la corriente total es igual a la suma de las energías suministradas para cada dispositivo eléctrico.
+
+5. La caída de voltaje a través de cada dispositivo es proporcional a su resistencia: también la ley de Ohm se aplica por separado a cada dispositivo. Esto es consecuencia del hecho de que se use más energía para mover una unidad de carga a través de una resistencia grande que en una resistencia pequeña.
+
+Es fácil ver la principal desventaja de un circuito en serie: si falla un componente, cesa la corriente en todo el circuito. Algunas bombillas para árbol de Navidad, poco costosas, se conectan en serie. Cuando una se funde, es divertido y motivo de apuestas (o de frustración) tratar de encontrar cuál está fundida para reemplazarla.
+
+La mayoría de los circuitos se conectan de tal manera que es posible hacer trabajar varios aparatos eléctricos en forma independiente. Por ejemplo, en tu hogar se puede apagar o encender una bombilla, sin afectar el funcionamiento de las demás, o de otros aparatos eléctricos. Esto se debe a que esos componentes no están conectados en serie, sino en paralelo.
+
+Pregúntate: ¿Qué es lo que se “agota” en un circuito eléctrico, la corriente o la energía?
+
+#### Examínate
+
+1. ¿Qué le sucede a la corriente en las demás bombillas si se funde una en un circuito en serie?
+
+2. ¿Qué le sucede a la intensidad de la luz de cada bombilla en un circuito en serie, al agregar más bombillas al circuito?
+
+#### Comprueba tus respuestas
+
+1. Si se funde el filamento de una de las bombillas, se interrumpe la trayectoria que conecta las terminales de la fuente de voltaje, y cesará la corriente. Todas las bombillas se apagarán.
+
+2. La adición de más bombillas a un circuito en serie ocasiona un aumento en la resistencia del circuito. Eso hace que baje la corriente en el circuito y, por consiguiente, en cada bombilla, con la disminución del brillo correspondiente. Como todos los voltajes deben sumar el mismo voltaje total, será menor la caída de voltaje en cada bombilla.
+
+Circuitos en paralelo
+
+En la Imagen 26 se ve un circuito en paralelo sencillo. Hay tres bombillas conectadas con los mismos dos puntos A y B. Se dice que los dispositivos eléctricos conectados con los dos mismos puntos de un circuito eléctrico están conectados en paralelo. El trayecto de la corriente de una terminal de la batería a la otra se completa si sólo una bombilla está encendida. En esta ilustración, el circuito se ramifica en las tres trayectorias separadas de A hasta B. Una interrupción en cualquiera de las trayectorias no interrumpe el flujo de cargas en las otras trayectorias. Cada dispositivo funciona en forma independiente de los demás.
+
+*Imagen 26. Circuito en paralelo*
+
+Descripción de la imagen 26. Circuito en paralelo. Un circuito en paralelo sencillo. Una batería (fuente de voltaje) de 6 V suministra 6 V a través de cada bombilla. La fuente se conecta a una terminal A y a otra B donde se ramifica en 3 partes cada una a un bombillo con su respectivo interruptor.
+
+El circuito de la Imagen 26 ilustra las siguientes características principales de las conexiones en paralelo:
+
+1. Cada dispositivo conecta los mismos dos puntos A y B del circuito. En consecuencia, el voltaje es igual a través de cada dispositivo.
+
+2. La corriente total en el circuito se divide entre las ramas en paralelo. Como el voltaje a través de cada rama es el mismo, la cantidad de corriente en cada rama es inversamente proporcional a la resistencia de la misma; la ley de Ohm se aplica por separado a cada ramal.
+
+3. La corriente total en el circuito es igual a la suma de las corrientes en sus ramas paralelas. Esta suma es igual a la corriente en la batería o a otra fuente de voltaje.
+
+4. A medida que aumenta la cantidad de ramas en paralelo, disminuye la resistencia total del circuito. La resistencia total baja con cada trayectoria que se agregue entre dos puntos cualesquiera del circuito. Esto significa que la resistencia total del circuito es menor que la resistencia de cualquier rama individual.
+
+*Imagen 27. Circuito con electrodomésticos*
+
+Descripción de la imagen 27. Circuito con electrodomésticos. Diagrama de circuito de unos electrodomésticos conectados a un circuito en la casa. En la misma dirección de la corriente de 20 A, se encuentra un fusible y después una ramificación hacia una bombilla con 2 A. Siguiendo la línea que llevaba, hay otra ramificación donde se encuentra un calentador con 10 A. Volviendo a seguir la línea, una nueva ramificación encuentra a un tostador de 8 A. Por la misma vía del tostador hay otra línea que va a la red eléctrica y une las ramificaciones de los electrodomésticos.
+
+#### Examínate
+
+1. ¿Qué le sucede a la corriente en las demás bombillas, si una se funde en un circuito en paralelo?
+
+2. ¿Qué le sucede a la intensidad de la luz de cada bombilla en un circuito en paralelo, al agregar más bombillas al circuito?
+
+#### Comprueba tus respuestas
+
+1. Si se funde una bombilla las demás no se afectan. De acuerdo con la ley de Ohm, la corriente en cada ramal es igual a voltaje/resistencia, y como no se afectan el voltaje ni la resistencia en las demás ramas, en ellas la corriente no se afecta. Sin embargo, la corriente total en el circuito general (la corriente en la batería) baja una cantidad igual a la corriente que tomaba la bombilla en cuestión antes de fundirse. Pero la corriente en cualquiera de las ramas no cambia.
+
+2. La intensidad luminosa de cada bombilla no cambia cuando se agregan o se quitan otras. Sólo cambia la resistencia total y la corriente total en el circuito total, lo cual equivale a decir que cambia la corriente en el acumulador. (También el acumulador tiene su resistencia, que aquí supondremos que es despreciable.) Conforme se agregan bombillas hay más trayectorias disponibles entre las terminales del acumulador, y disminuyen en forma efectiva la resistencia total del circuito. Esta menor resistencia se acompaña por un aumento de corriente, el mismo aumento que suministra energía a las bombillas a medida que se agregan. Aunque los cambios de resistencia y de corriente se presentan en el circuito en su totalidad, no hay cambios en ninguna rama individual del circuito.
+
+### Circuitos en paralelo y sobrecarga
+
+Por lo común, la electricidad de una casa se alimenta mediante dos conductores llamados líneas. Esas líneas, que tienen resistencia muy baja, se ramifican en circuitos en paralelo que conectan las bombillas del techo y los contactos de pared de cada habitación. Las bombillas y los contactos de pared están conectados en paralelo, por lo que a todos se les imprime el mismo voltaje, que normalmente es de 110 a 120 volts. A medida que se conectan y encienden más aparatos, como hay más trayectorias para la corriente, baja la resistencia total del circuito. En consecuencia, por el circuito pasa mayor cantidad de corriente. La suma de esas corrientes es igual a la corriente en la línea, que puede aumentar más de su límite de seguridad. Se dice que el circuito está sobrecargado.
+
+Podemos ver cómo ocurre una sobrecarga examinando el circuito de un fusible de seguridad. La línea de suministro está conectada en paralelo con un tostador eléctrico que toma 8 amperes; a un calentador eléctrico que toma 10 amperes, y a una bombilla eléctrica que toma 2 amperes. Cuando sólo funciona el tostador y toma 8 amperes, la corriente total de la línea es de 8 amperes. Cuando también está funcionando el calentador, la corriente total en la línea aumenta a 18 amperes (8 amperes al tostador y 10 amperes al calentador). Si enciendes la bombilla, la corriente aumenta a 20 amperes. Si conectas más aparatos, la corriente aumenta aún más. Si conectas demasiados dispositivos en el mismo circuito se produce un sobrecalentamiento que puede iniciar un incendio.
+
+### Fusibles de seguridad
+
+Para evitar la sobrecarga en los circuitos, se conectan fusibles en serie en la línea de suministro. De esta manera toda la corriente de la línea debe pasar por el fusible. Un fusible de seguridad está fabricado con una cinta que se calienta y se funde con determinada corriente. Si la capacidad del fusible es de 20 amperes, dejará pasar 20 amperes, pero no más. Si la corriente es mayor, el fusible se funde o se “vuela” y rompe el circuito. Antes de cambiar un fusible fundido se debe determinar y eliminar la causa de la sobrecarga. Sucede con frecuencia que el aislamiento que separa los conductores de un circuito se daña y deja que los alambres se toquen. Eso reduce mucho la resistencia del circuito, y el trayecto de la corriente se acorta. Es lo que se llama cortocircuito.
+
+En los edificios modernos, casi todos los fusibles se sustituyeron por cortacircuitos (breakers), que usan imanes o bandas bimetálicas para abrir un interruptor cuando la corriente es muy grande. Las empresas eléctricas usan cortacircuitos para proteger sus líneas de transmisión hasta los generadores.
+
+Frase reflexiva: es posible probar que algo es inseguro, pero nunca se puede probar que algo sea seguro por completo. ¡Eureka!
+
+## Resumen de términos
+
+Circuito en paralelo. Circuito eléctrico en el que se conectan los aparatos eléctricos, de tal manera que a través de cada uno actúa el mismo voltaje, y cualquiera de los aparatos, en forma individual, completa el circuito, en forma independiente de todos los demás.
+
+Circuito en serie. Circuito eléctrico en el que se conectan los aparatos eléctricos de tal manera que la misma corriente eléctrica pase por todos ellos.
+
+Corriente alterna (c.a). Partículas con carga eléctrica que invierten su dirección de flujo en forma repetitiva, y vibran respecto a posiciones relativamente fijas. En muchos países de América la frecuencia de vibración es de 60 Hz.
+
+Corriente directa (c.d). Partículas con carga eléctrica que fluyen sólo en una dirección.
+
+Corriente eléctrica. Flujo de carga eléctrica, que transporta energía de un lado a otro. Se mide en amperes, siendo 1 A el flujo de 6,25 ×10 18 (10 a la 18) electrones por segundo, o 1 coulomb por segundo.
+
+Diferencia de potencial. Diferencia en potencial eléctrico entre dos puntos, expresada en volts. Cuando dos puntos tienen distinto potencial eléctrico y se conectan con un conductor, la carga pasa mientras exista una diferencia de potencial. (Sinónimo de diferencia de voltaje.)
+
+Ley de Ohm. Afirmación de que la corriente en un circuito varía en proporción directa a la diferencia de potencial o voltaje a través de un circuito, y en proporción inversa a la resistencia del circuito.
+
+```latex
+Corriente=\frac{voltaje}{resitencia}
+```
+
+La ecuación se lee, corriente = voltaje sobre resistencia. También se lee, corriente = voltaje ÷ resistencia.
+
+Una diferencia de potencial de 1 V a través de una resistencia de 1 Ω produce una corriente de 1 A.
+
+Potencia eléctrica. Es la rapidez de transferencia de energía, o la rapidez con que se efectúa trabajo; es la cantidad de energía por unidad de tiempo, que se puede expresar eléctricamente por el producto de la corriente por el voltaje.
+
+Potencia = corriente × voltaje
+
+Se expresa en watts (o kilowatts), siendo 1 A × 1 V = 1 W.
+
+Resistencia eléctrica Propiedad de un material que se opone al paso de la corriente eléctrica. Se expresa en ohms (letra omega mayúscula Ω).
+
+## Preguntas de repaso
+
+### Flujo de la carga
+
+1. ¿Qué condición es necesaria para que haya flujo de calor? ¿Qué condición similar es necesaria para que haya flujo de carga?
+
+2. ¿Qué condición es necesaria para que haya flujo continuo de agua en un tubo? ¿Qué condición similar es necesaria para que haya flujo continuo de carga en un conductor?
+
+### Corriente eléctrica
+
+3. ¿Por qué los electrones y no los protones son los principales portadores de carga en los conductores metálicos?
+
+4. Exactamente, ¿qué es un ampere?
+
+5. ¿Por qué un conductor con corriente normalmente no tiene carga eléctrica?
+
+### Fuentes de voltaje
+
+6. Menciona dos clases de “bombas eléctricas” prácticas.
+
+7. ¿Cuánta energía se suministra a cada coulomb de carga que pasa por un acumulador de 12 V?
+
+8. ¿La carga fluye a través de un circuito o hacia el interior de un circuito? ¿El voltaje pasa a través de un circuito o se establece a través de un circuito?
+
+### Resistencia eléctrica
+
+9. ¿El agua fluye con más facilidad por un tubo grueso o por uno delgado? ¿La corriente fluye con más facilidad por un conductor grueso o por uno delgado?
+
+10. ¿Al calentar un metal aumenta o disminuye su resistencia eléctrica?
+
+### Ley de Ohm
+
+11. Si se mantiene constante el voltaje a través de un circuito y la resistencia aumenta al doble, ¿qué cambio habrá en la corriente?
+
+12. Si la resistencia de un circuito permanece constante mientras que el voltaje por el circuito baja a la mitad de su valor inicial, ¿qué cambio habrá en la corriente?
+
+### Ley de Ohm y choques eléctricos
+
+13. ¿Cómo afecta lo mojado de tu cuerpo a su resistencia eléctrica?
+
+14. Para determinado voltaje, ¿qué sucede con la cantidad de corriente que pasa por la piel cuando sudas?
+
+15. ¿Por qué es riesgoso manejar aparatos eléctricos estando mojado dentro de la tina de baño?
+
+16. ¿Cuál es la función de la tercera pata redonda en un contacto doméstico moderno?
+
+### Corriente directa y corriente alterna
+
+17. Explica la diferencia entre c.d y c.a.
+
+18. ¿El acumulador de un automóvil produce cd o c.a? ¿El generador de una central eléctrica produce cd o c.a?
+
+19. ¿Qué quiere decir que cierta corriente es de 60 Hz?
+
+### Conversión de c.a a c.d
+
+20. ¿Qué propiedad de un diodo le permite convertir la c.a en impulsos de cd?
+
+21. Un diodo convierte la c.a en impulsos de cd. ¿Qué componente eléctrico alisa el pulso y forma una cd más uniforme?
+
+### Rapidez y fuente de electrones en un circuito
+
+22. ¿Cuál es el error al decir que los electrones en un circuito común activado por una batería viajan más o menos a la rapidez de la luz?
+
+23. ¿Por qué se calienta un alambre que conduce corriente eléctrica?
+
+24. ¿Qué quiere decir velocidad de deriva?
+
+25. Un efecto dominó manda un impulso por una fila de fichas paradas, que se caen una tras otra. ¿Es buena explicación por similitud para la forma en que se propagan la corriente eléctrica, el sonido o ambos?
+
+26. ¿Cuál es el error al decir que la fuente de electrones en un circuito es la batería o el generador?
+
+27. Cuando pagas el recibo de consumo de luz, ¿qué de lo siguiente estás pagando: el voltaje, la corriente, la potencia o la energía?
+
+28. ¿Dónde se originan los electrones que producen un choque eléctrico cuando tocas un conductor con carga?
+
+### Potencia eléctrica
+
+29. ¿Cuál es la relación entre potencia eléctrica, corriente y voltaje?
+
+30. ¿Cuál de las siguientes es una unidad de potencia, y cuál es una unidad de energía: watt, kilowatt, kilowatt-hora?
+
+31. Explica la diferencia entre un kilowatt y un kilowatt-hora.
+
+### Circuitos eléctricos
+
+32. ¿Qué es un circuito eléctrico?
+
+### Circuitos en serie
+
+33. En un circuito en serie de dos bombillas, si la corriente que pasa por una es 1 A, ¿cuál será la que pase por la otra bombilla? Defiende tu respuesta.
+
+34. Si se imprimen 6 V a través del circuito de la pregunta anterior, y el voltaje a través de la primera bombilla es de 2 V, ¿cuál es el voltaje a través de la segunda bombilla? Defiende tu respuesta.
+
+35. ¿Cuál es la desventaja principal en un circuito en serie?
+
+### Circuitos en paralelo
+
+36. En un circuito de dos bombillas en paralelo, si hay 6 V a través de una bombilla, ¿cuál será el voltaje a través de la otra bombilla?
+
+37. ¿Cómo se compara la suma de las corrientes a través de los ramales de un circuito simple en paralelo con la que pasa por la fuente de voltaje?
+
+38. A medida que se agregan más líneas a un negocio de comida rápida, se reduce la resistencia en el servicio a las personas. ¿Cómo se compara a lo que sucede cuando se agregan más ramales a un circuito en paralelo?
+
+### Circuitos en paralelo y sobrecarga
+
+39. ¿Los circuitos de un hogar se conectan normalmente en serie o en paralelo? ¿Cuándo se sobrecargan?
+
+### Fusibles de seguridad
+
+40. ¿Cuál es la función de los fusibles o de los cortacircuitos (breakers) en un circuito?
+
+Proyectos
+
+1. Una batería eléctrica se forma colocando dos placas de distintos metales que tengan distintas afinidades hacia los electrones, en una solución conductora. El voltaje de una batería depende del material utilizado y de las sustancias que se introducen en ella, no del tamaño de sus placas. (Una batería es, en realidad, una serie de baterías.) Puedes hacer una batería sencilla de 1,5 V colocando una banda de cobre y otra de zinc en un vaso con agua salada. Una manera fácil de construir una batería es con un limón. Mete un broche para papel desdoblado y un trozo de alambre de cobre en un limón. Sujeta los extremos de los alambres cerca, sin que se toquen, y tócalos con la lengua. El pequeño piquete y el sabor metálico que sientes es el resultado del paso de una corriente pequeña de electricidad, impulsada por la batería formada por el limón, que pasa por los alambres cuando la lengua mojada cierra el circuito.
+
+2. Fíjate en el medidor eléctrico de tu hogar. Probablemente esté en el exterior de tu casa, en la acera. Verás que además de las agujas que tiene hay un disco de aluminio que gira entre los polos de imanes, cuando pasa la corriente hacia la casa. Cuanto más corriente pase, el disco girará más rápido. La rapidez de giro del disco es directamente proporcional a la cantidad de watts que usas. Por ejemplo, da vueltas cinco veces más rápido con 500 W que con 100 W. Con ese medidor puedes determinar cuántos watts consume un aparato eléctrico. Primero comprueba que estén desconectados todos los aparatos eléctricos de la casa (puedes dejar conectados los relojes eléctricos, porque los 2 watts que consumen apenas se notarán). El disco estará prácticamente detenido. Luego conecta una bombilla de 100 W y observa cuántos segundos tarda el disco en hacer cinco revoluciones completas. La mancha negra pintada en la orilla del disco facilita esta tarea. Desconecta la bombilla de 100 W y conecta un aparato cuya potencia desconozcas. Vuelve a contar los segundos para cinco vueltas. Si tarda el mismo tiempo, es un aparato de 100 W; si tarda el doble, es de 50 W; si tarda la mitad, es de 200 W, y así sucesivamente. De esta forma calcularás con bastante exactitud el consumo de potencia de los aparatos eléctricos.
+
+3. Escribe una carta a tu abuelita y convéncela de que cualesquiera choques eléctricos que ella haya recibido con los años se debieron al movimiento de electrones que ya había en su cuerpo: no de los electrones que llegaron de algún otro lado.
+
+## Cálculos de un paso
+
+Ley de Ohm: I = V/R
+
+1. Calcula la corriente en un tostador que tiene un calentador eléctrico de 15 Ω (ohm) cuando se conecta a un contacto de 120 V.
+
+2. Calcula cuánta corriente calienta tus pies con los choques eléctricos que tienen un calentador eléctrico de 90 ohms que se conecta a una batería de 9 volts.
+
+3. Calcula la corriente que se mueve a través de tus dedos (con 1.000 Ω de resistencia), cuando tocas las terminales de una batería de 6 volts.
+
+4. Calcula la corriente en el filamento de 240 ohms de una bombilla que se conecta a una línea de 120 V.
+
+Potencia = I×V
+
+5. Calcula la potencia de un dispositivo que lleva 0,5 amperes cuando se le imprimen 120 volts.
+
+6. Calcula la potencia de una secadora de cabello que funciona con 120 volts y toma una corriente de 10 amperes.
+
+## Ejercicios
+
+1. ¿Qué dos cosas se pueden hacer para incrementar la cantidad del flujo en un tubo de agua? Asimismo, ¿qué dos cosas se pueden hacer para incrementar la corriente en un circuito eléctrico?
+
+2. Imagina un tubo de agua que se ramifica en dos tubos más pequeños. Si el flujo del agua es de 10 galones por minuto en el tubo principal, y de 4 galones por minuto en una de las ramificaciones, ¿cuánta agua por minuto fluirá en la otra ramificación?
+
+3. Imagina un circuito con un conductor principal que se ramifica en otros dos conductores. Si la corriente es de 10 amperes en el conductor principal, y de 4 amperes en una de las ramificaciones, ¿cuánta corriente habrá en la otra ramificación?
+
+4. Un ejemplo de un sistema hidráulico es cuando se riega el jardín con una manguera. Otro es el sistema de enfriamiento de un automóvil. ¿Cuál de ellos se comporta en forma más parecida a la de un circuito eléctrico? ¿Por qué?
+
+5. ¿Qué le sucede a la intensidad de la luz emitida por una bombilla eléctrica cuando aumenta la corriente que pasa por ella?
+
+6. Tu amigo te dice que en un circuito eléctrico una batería suministra los electrones. ¿Estás de acuerdo con él? Defiende tu respuesta.
+
+7. ¿Un alambre que conduce corriente está cargado eléctricamente?
+
+8. El profesor dice que en realidad un ampere y un volt expresan la misma cosa, y que los distintos términos sólo sirven para hacer confuso un asunto sencillo. ¿Por qué deberías pensar en cambiar de profesor?
+
+9. ¿En un acumulador sale más corriente que la que le entra? ¿En una bombilla entra más corriente que la que sale? Explica por qué.
+
+10. Algo se “consume” en una batería y que al final se agota. Un amigo te dice que lo que en realidad se consume es la corriente. Otro amigo te dice que es la energía. ¿Quién, si fuera el caso, tendría la razón y por qué?
+
+11. Tu amigo te dice que cuando le pasas corriente a un acumulador agotado, deberías conectar tu acumulador cargado en paralelo con el acumulador agotado, el cual, en efecto, remplaza el agotado. ¿Estás de acuerdo con él?
+
+12. Un electrón que se mueve en un alambre choca una y otra vez contra átomos, y recorre una distancia promedio entre los choques que se llama trayectoria libre media. Si ésta es menor en algunos metales, ¿qué puedes decir acerca de la resistencia de estos metales? Para determinado conductor, ¿qué puedes hacer para alargar la trayectoria libre media?
+
+13. ¿Por qué la resistencia de un alambre cambia un poco inmediatamente después de haberlo sujetado en tu mano?
+
+14. ¿Por qué la corriente en una bombilla incandescente es mayor inmediatamente después de encenderla que algunos momentos después?
+
+15. Un detector de mentiras (polígrafo) sencillo consiste en un circuito eléctrico del que tu cuerpo es una parte; por ejemplo, de un dedo a otro. Un medidor sensible indica la corriente que pasa cuando se aplica un voltaje pequeño. ¿Cómo indica esta técnica que una persona está mintiendo? ¿Y cuándo esta técnica no puede indicar que alguien está mintiendo?
+
+16. Sólo un pequeño porcentaje de la energía que entra a una bombilla común se transforma en luz. ¿Qué le sucede al resto de la energía?
+
+17. ¿Por qué para conducir corrientes grandes se usan alambres gruesos y no alambres delgados?
+
+18. ¿Por qué brilla el filamento de una bombilla eléctrica, mientras que el alambre que se conecta no lo hace?
+
+19. ¿Una bombilla con filamento grueso tomará más corriente o menos corriente que una con filamento delgado?
+
+20. ¿Cuál es el efecto, sobre la corriente en un conductor, de duplicar tanto el voltaje como la resistencia a través de él? ¿Y si ambos se redujeran a la mitad?
+
+21. ¿La corriente que pasa por una bombilla conectada a una fuente de 220 V será mayor o menor que cuando la misma bombilla se conecta a una fuente de 110 V?
+
+22. ¿Qué es menos dañino: conectar un aparato para 110 V en un circuito de 220 V, o conectar un aparato para 220 V en un circuito de 110 V? Explica por qué.
+
+23. ¿Esperarías que en el filamento de una bombilla eléctrica en tu hogar hubiera c.d o c.a? ¿Y en un filamento de faro de automóvil?
+
+24. ¿Los faros de los automóviles están conectados en paralelo o en serie? ¿Cómo lo compruebas?
+
+25. Los faros de los automóviles pueden disipar 40 W en baja y 50 con las luces altas. ¿Es mayor o menor la resistencia del filamento de las luces altas?
+
+26. ¿Qué magnitud representa la siguiente unidad?:
+
+a. joule por coulomb
+
+b. coulomb por segundo
+
+c. watt-segundo
+
+27. Para conectar un par de resistores de modo que su resistencia combinada (equivalente) sea mayor que la resistencia de cualquiera de ellos, ¿los debes conectar en serie o en paralelo?
+
+28. Entre corriente y voltaje, ¿cuál permanece igual para un resistor de 10 Ω (ohm) y otro de 20 Ω (ohm) conectados en serie en un circuito? Entre corriente y voltaje, ¿cuál permanece igual para un resistor de 10 Ω (ohm) y otro de 20 Ω (ohm) conectados en paralelo en un circuito?
+
+29. Los efectos dañinos de un choque eléctrico se deben a la cantidad de corriente que pasa por el organismo. ¿Entonces por qué hay letreros que dicen PELIGRO: ALTO VOLTAJE y no dicen PELIGRO: ALTA CORRIENTE?
+
+30. Haz un comentario sobre el letrero de advertencia del esquema siguiente.
+
+*Imagen 28. Letrero advertencia*
+
+Descripción de la Imagen 28. Letrero advertencia. Un niño observa un letrero que dice “¡Peligro! Alta resistencia (1.000.000.000 Ω (ohm))”.
+
+31. ¿Te debe preocupar esta etiqueta en un electrodoméstico? “Precaución: este producto contiene diminutas partículas con carga eléctrica, que se mueven a rapideces mayores de 100.000.000 kilómetros por hora.”
+
+32. Estima la cantidad de electrones que la empresa eléctrica suministra anualmente a las casas de una ciudad normal de 50.000 habitantes.
+
+33. Si los electrones fluyen con mucha lentitud en un circuito, ¿por qué no pasa un tiempo apreciable desde que se enciende el interruptor hasta que se ilumina una bombilla?
+
+34. ¿Por qué la rapidez de una señal eléctrica es mucho mayor que la del sonido?
+
+35. Si se produce una fuga en una bombilla y entra oxígeno, el filamento brillará mucho más antes de fundirse. Si pasa mucha corriente por una bombilla, también se funde. Describe estos procesos físicos e indica por qué la bombilla queda inservible.
+
+36. ¿Qué sucede con la luminosidad de la bombilla A cuando se cierra el interruptor y se enciende la bombilla B?
+
+*Imagen 29. Diagrama ejercicio 36*
+
+Descripción de la Imagen 29. Diagrama ejercicio 36. De una batería sale una línea que se encuentra con una ramificación con un interruptor y la bombilla B. Siguiendo la línea se encuentra con la bombilla A hasta conectarse con la ramificación que una al bombillo B y al otro extremo de la batería.
+
+37. Si se conectan varias bombillas en serie con una batería, podrían sentirse algo caliente, pero no brillarían en forma visible. ¿Cuál es tu explicación de lo anterior?
+
+38. En el circuito de abajo, ¿cómo se comparan los brillos de las bombillas si son idénticas? ¿Cuál de ellos toma la mayoría de la corriente? ¿Qué sucederá si la bombilla A se saca? ¿Y si se saca C?
+
+*Imagen 30. Diagrama ejercicio 38*
+
+Descripción de la Imagen 30. Diagrama ejercicio 38. De una batería sale una línea que se encuentra con una ramificación donde está la bombilla C. Siguiendo la línea están las bombillas A y B en serie hasta encontrarse con la ramificación que lleva a la bombilla B y al otro extremo de la batería.
+
+39. ¿Qué cambios suceden en la corriente de la línea cuando se conectan más aparatos en un circuito en serie? ¿Y en un circuito en paralelo? ¿Por qué son distintas tus respuestas?
+
+40. ¿Por qué no hay efecto en los demás ramales de un circuito en paralelo, cuando se abre o se cierra una rama del circuito?
+
+41. Tu amigo te dice que la resistencia equivalente (combinada) de los resistores conectados en serie siempre es mayor que la resistencia del resistor más grande. ¿Estás de acuerdo con él?
+
+42. Tu electrónico amigo necesita un resistor de 20 ohms, pero sólo tiene resistores de 40 ohms. Él te dice que puede combinarlos para producir un resistor de 20 ohms. ¿Cómo lo haría?
+
+43. Como una batería tiene resistencia interna, si aumenta la corriente que suministra, el voltaje entre sus terminales baja. Si se conectan demasiadas bombillas en paralelo con una batería, ¿disminuirá su brillo? Explica por qué.
+
+44. Si se conectan en serie una bombilla de 60 W y una de 100 W en un circuito, ¿a través de cuál será mayor la caída de voltaje? ¿Y si se conectan en paralelo?
+
+## Problemas
+
+1. La potencia en watts que se marca en una bombilla no es una propiedad inherente a ella, sino que depende del voltaje en donde se conecta, que suele ser de 110 o 120 V. ¿Cuántos amperes pasan por una bombilla de 60 W que se conecta a un circuito de 120 V?
+
+2. Reordena la ecuación Corriente = voltaje/resistencia para calcular la resistencia en función de la corriente y el voltaje. Luego contesta lo siguiente: cierto aparato en un circuito de 120 V tiene una corriente nominal de 20 A. ¿Cuál será la resistencia de este aparato (cuántos ohms tiene)?
+
+3. Usa la ecuación Potencia = corriente × voltaje y calcula la corriente que toma una secadora de cabello de 1.200 W conectada en 120 V. Luego, con el método que usaste en el problema anterior, calcula la resistencia de esa secadora.
+
+4. La carga total que puede suministrar un acumulador de automóvil hasta que se descarga se expresa en amperes-hora. Un acumulador normal de 12 V tiene una capacidad de 60 amperes-hora (60 A durante 1 h, 30 A durante 2 h, etcétera). Imagina que olvidaste apagar los faros de tu automóvil cuando lo estacionaste. Si cada uno toma 3 A de corriente, ¿cuánto tiempo pasará para que el acumulador “se muera”?
+
+5. ¿Cuánto cuesta tener funcionando una bombilla de 100 W en forma continua durante una semana, si la tarifa eléctrica es de 15¢/kWh?
+
+6. Una bombilla nocturna de 4 W se conecta en un circuito de 120 V y funciona en forma continua durante un año. Calcula lo siguiente:
+
+a. la corriente que toma
+
+b. la resistencia de su filamento
+
+c. la energía consumida en un año
+
+d. el costo de su funcionamiento durante un año, con una tarifa de 15¢/kWh.
+
+7. Una plancha eléctrica se conecta a una fuente de 110 V y toma 9 A de corriente. ¿Cuánto calor, en joules, disipa en un minuto?
+
+8. ¿Cuántos coulombs de carga pasan por la plancha del problema anterior en un minuto?
+
+9. Cierta bombilla tiene 95 ohm de resistencia, y tiene grabado “150 W”. ¿Se debe conectar en un circuito de 120 V o en uno de 240 V?
+
+10. En periodos de máxima demanda, las empresas eléctricas bajan el voltaje. Así, ahorran capacidad (¡y tú ahorras dinero!). Para ver este efecto, imagina un tostador de 1.200 W que toma 10 A al conectarse en 120 V. Imagina que el voltaje baja 10%, hasta 108 V. ¿Cuánto bajará la corriente? ¿Cuánto bajará la potencia? (Precaución: el valor de 1.200 W es válido sólo cuando se conecta en 120 V. Cuando baja el voltaje, lo que permanece constante es la resistencia del tostador, no su potencia.)
+
+# Capítulo 3: magnetismo
+
+A los jóvenes les fascinan los imanes, principalmente porque éstos actúan a distancia. Uno puede mover un clavo acercándole un imán, aunque haya un trozo de madera entre ellos. Asimismo, un neurocirujano puede guiar una pastilla a través del tejido cerebral para llegar a tumores inoperables, poner en posición un catéter o implantar electrodos con poco daño al tejido cerebral. El uso de los imanes aumenta día con día.
+
+El término magnetismo proviene de Magnesia, una provincia costera de Thessaly en la Grecia antigua, donde se encontraron ciertas piedras hace más de 2000 años. Esas piedras se llamaron piedras imán, y tenían la extraña propiedad de atraer piezas de hierro. Los chinos usaron los imanes en sus brújulas en el siglo XII, para guiarse en la navegación.
+
+En el siglo XVI, el médico de la reina Isabel, William Gilbert, fabricó imanes artificiales frotando trozos de hierro y de magnetita (piedra imán). También sugirió que la brújula siempre apunta hacia el norte y el sur, porque la Tierra tiene propiedades magnéticas. Después, en 1750, el astrónomo y físico inglés John Michell determinó que los polos magnéticos obedecen la ley del inverso del cuadrado, y Charles Coulomb confirmó sus resultados. Los temas del magnetismo y la electricidad se desarrollaron en forma casi independiente, hasta 1820, cuando el profesor danés Hans Christian Oersted descubrió, en una demostración en su clase, que la corriente eléctrica afecta a una brújula. Observó otras evidencias que confirmaban que el magnetismo estaba relacionado con la electricidad. Poco después, el físico francés André-Marie Ampere propuso que la fuente de todos los fenómenos magnéticos son las corrientes eléctricas.
+
+Dato curioso: tiempo atrás, las historietas de Dick Tracy, además de predecir el advenimiento de los teléfonos celulares, destacaron este titular: “Quien controle el magnetismo, controlará el Universo.” ¡Eureka!
+
+## Fuerzas magnéticas
+
+En el capítulo 1 describimos las fuerzas que ejercen entre sí las partículas con carga eléctrica. La fuerza entre dos partículas cargadas cualesquiera, depende de la magnitud de su carga y de la distancia que las separa, como indica la ley de Coulomb. Sin embargo, la ley de Coulomb no es todo cuando las partículas con carga se mueven entre sí. En este caso, la fuerza entre las partículas cargadas depende también de su movimiento, en una forma complicada. Se ve que, además de la fuerza que llamamos eléctrica, hay una fuerza debida al movimiento de las partículas cargadas que llamaremos fuerza magnética. La fuente de la fuerza magnética es el movimiento de partículas con carga, por lo general electrones. Las fuerzas tanto eléctrica como magnética son en realidad distintos aspectos del mismo fenómeno de electromagnetismo.
+
+## Polos magnéticos
+
+Las fuerzas que ejercen los imanes entre sí se parecen a las fuerzas eléctricas, porque ambas atraen y repelen sin tocar, dependiendo de qué extremos de los imanes están cerca uno de otro. También como las fuerzas eléctricas, la intensidad de su interacción depende de la distancia a la que están los dos imanes. Mientras que la carga eléctrica es lo más importante en las fuerzas eléctricas, las regiones llamadas polos magnéticos originan fuerzas magnéticas.
+
+Si con un cordón cuelgas por su centro un imán recto, tendrás una brújula. Un extremo, llamado polo que busca al norte apunta hacia el norte; y el extremo opuesto se llama polo que busca al sur, y apunta hacia el sur. En forma más sencilla, se llaman respectivamente polo norte y polo sur. Todos los imanes tienen un polo norte y un polo sur (algunos tienen más de uno de cada uno). Las figuras con imanes para la puerta de los refrigeradores, que se hicieron muy comunes en años recientes, tienen bandas delgadas de polos norte y sur alternados. Esos imanes son lo bastante fuertes como para sujetar hojas de papel contra la puerta del refrigerador, pero tienen muy corto alcance, porque sus polos norte y sur se anulan. En un imán recto sencillo, los polos norte y sur están en los dos extremos. Un imán ordinario en forma de herradura no es más que un imán recto que se dobla en forma de U. Los polos también están en sus dos extremos (Imagen 31).
+
+*Imagen 31. Imán tipo herradura*
+
+Descripción de la Imagen 31. Imán tipo herradura. Un imán tipo herradura o en forma de U señala sus polos N y S (mayúscula) en cada uno de sus extremos. Las líneas de campo se dirigen de un extremo a otro de forma curva.
+
+Cuando el polo norte de un imán se acerca al polo norte de otro, se repelen entre sí. Sucede lo mismo con un polo sur cerca de un polo sur. Sin embargo, si se acercan polos opuestos, hay atracción y se llega a lo siguiente:
+
+Los polos iguales se repelen, y los polos opuestos se atraen.
+
+Esta regla se parece a la de las fuerzas entre cargas eléctricas, donde las cargas iguales se repelen entre sí, y las cargas desiguales se atraen. No obstante hay una diferencia muy importante entre los polos magnéticos y las cargas eléctricas. Mientras que las cargas eléctricas se pueden aislar, los polos magnéticos no. Los electrones con carga negativa y los protones con carga positiva son entidades en sí mismos. Un grupo de electrones no necesita estar acompañado de un grupo de protones, y a la inversa. Pero nunca existe un polo norte magnético sin la presencia de un polo sur, y viceversa.
+
+Si partes a la mitad un imán recto, cada mitad se seguirá comportando como si fuera un imán completo. Si parte las mitades de nuevo a la mitad, obtendrás cuatro imanes completos. Puedes seguir partiendo las piezas a la mitad y nunca aislarás a un solo polo. Aun cuando la pieza tenga un átomo de grosor, tendrá dos polos. Eso parece indicar que los átomos mismos son imanes.
+
+Dato curioso: La banda magnética en una tarjeta de crédito contiene millones de diminutos dominios magnéticos, que se mantienen unidos gracias a una cubierta de resina. Los datos están codificados en un sistema binario, con ceros y unos, que se distinguen mediante la frecuencia de los dominios de inversión. Es sorprendente lo rápido que aparece tu nombre cuando un empleado de una aerolínea desliza tu tarjeta para hacer una reservación. ¡Eureka!
+
+#### Examínate
+
+¿Cualquier imán tiene necesariamente un polo norte y un polo sur?
+
+#### Comprueba tu respuesta
+
+Sí, al igual que toda moneda tiene dos lados, una “cara” y una “cruz”. Algunos imanes “con truco” tienen más de dos polos, sin embargo, los polos siempre vienen en pares.
+
+## Campos magnéticos
+
+Esparce cierta cantidad de limaduras de hierro sobre una hoja de papel colocado sobre un imán, y verás (o siente con las manos) que las limaduras trazan un patrón de líneas ordenadas que rodean al imán. El espacio que rodea al imán contiene un campo magnético. Las limaduras revelan la forma del campo, al alinearse con las líneas magnéticas que salen de un polo, se esparcen y regresan al otro.
+
+*Imagen 32. Limadura de hierro con imán*
+
+Descripción de la Imagen 32. Limadura de hierro con imán. Vista superior de limaduras de hierro dispersas en torno a un imán. Las limaduras trazan un patrón de líneas de campo magnético en el espacio que rodea al imán (parecidas al del campo eléctrico). Resulta interesante que tales líneas continúen dentro del imán (no las revelan las limaduras), y formen trayectorias cerradas.
+
+La dirección del campo fuera de un imán es del polo norte hacia el polo sur. Cuando las líneas están más cercanas, el campo es más intenso. La concentración de las limaduras de hierro en los polos del imán, que se observa en la Imagen 32, indica que la fuerza del campo magnético es mayor en ellos. Si se coloca otro imán, o una brújula pequeña en cualquier lugar del campo, los polos quedarán alineados con el campo magnético.
+
+El magnetismo se relaciona estrechamente con la electricidad. Así como una carga eléctrica está rodeada por un campo eléctrico, si se mueve se rodeará también de un campo magnético. Este campo magnético se debe a las “distorsiones” del campo eléctrico causadas por el movimiento y fueron explicadas por Albert Einstein en 1905, en su teoría especial de la relatividad. No detallaremos los resultados, sino tan sólo veremos que un campo magnético es un subproducto relativista del campo eléctrico. Las partículas cargadas en movimiento tienen aso ciados un campo eléctrico y un campo magnético. El movimiento de la carga eléctrica produce un campo magnético.
+
+Si el movimiento de la carga eléctrica produce el magnetismo, ¿dónde estará ese movimiento en un imán de barra común? La respuesta es en los electrones de los átomos que forman el imán. Esos electrones están en constante movimiento. Hay dos clases de movimiento de electrones que contribuyen al magnetismo: el espín y el orbital del electrón. Los electrones giran en torno a sus propios ejes, como perinolas, y giran también en torno al núcleo del átomo. En los imanes más comunes lo que más produce el magnetismo es el espín de los electrones.
+
+Cualquier electrón que gire es un imán diminuto. Un par de electrones que giran en la misma dirección forman un imán más fuerte. Sin embargo, si giran en direcciones opuestas son antagonistas, porque sus campos magnéticos se anulan. Es la causa de que la mayoría de las sustancias no sean magnéticas. En la mayor parte de los átomos, los diversos campos se anulan entre sí, porque los electrones giran en direcciones opuestas. Sin embargo, en materiales como el hierro, níquel y cobalto, los campos no se anulan entre sí por completo. Cada átomo de hierro tiene cuatro electrones, cuyo magnetismo debido al espín no se anula. Entonces, cada átomo de hierro es un imán diminuto. Lo mismo sucede, en menor grado, con los átomos de níquel y cobalto. Los imanes más comunes se fabrican con aleaciones que contienen hierro, níquel y cobalto en diversas proporciones.
+
+## Dominios magnéticos
+
+El campo magnético de un átomo individual de hierro es tan intenso que las interacciones entre átomos adyacentes hacen que grandes grupos de ellos se alineen entre sí. A esos grupos de átomos alineados se les llama dominios magnéticos. Cada dominio está formado por miles de millones de átomos alineados. Los dominios son microscópicos (Imagen 33), y en un cristal de hierro hay muchos. Como el alineamiento de los átomos de hierro dentro de los dominios, los dominios mismos se pueden alinear entre sí.
+
+*Imagen 33. Dominios magnéticos*
+
+Descripción de la Imagen 33. Dominios magnéticos. Vista microscópica de los dominios magnéticos en un cristal de hierro. Cada dominio consiste en miles de millones de átomos de hierro alineados. Las flechas apuntan en direcciones distintas, lo cual indica que esos dominios no están alineados entre sí.
+
+Sin embargo, no cualquier trozo de hierro es un imán. Eso se debe a que en el hierro ordinario los dominios no están alineados. Imagina un clavo de hierro: los dominios en él están orientados al azar. Sin embargo, muchos de ellos se inducen a alinearse cuando se acerca un imán. (Es interesante escuchar, con un estetoscopio amplificado, el cliqueo de los dominios que se están alineando en un trozo de hierro, cuando se le acerca un imán fuerte.) Los dominios se alinean casi como las cargas eléctricas en un trozo de papel en presencia de una varilla cargada. Cuando retiras el clavo del imán, el movimiento térmico ordinario hace que la mayor parte o todos los dominios del clavo regresen a un ordenamiento aleatorio. Sin embargo, si el campo del imán permanente es muy intenso, el clavo puede conservar algo de magnetismo permanente propio, después de separarlo del imán.
+
+Los imanes permanentes se fabrican simplemente colocando piezas de hierro o de ciertas aleaciones de hierro en campos magnéticos intensos. Las aleaciones del hierro se comportan en formas distintas: el hierro suave es más fácil de magnetizar que el acero, lo cual ayuda a que en el hierro común todos los dominios entren en alineamiento. Otra forma de fabricar un imán permanente consiste en frotar un trozo de hierro con un imán. El frotamiento alinea los dominios en el hierro. Si se deja caer un imán permanente, o si se calienta, algunos de los dominios se impulsan hacia afuera del alineamiento y se debilita el imán.
+
+*Imagen 34. Etapas de magnetización*
+
+Descripción de la Imagen 34. Etapas de magnetización. Trozos de hierro en etapas de magnetización sucesivas. Las flechas representan los dominios. La punta es un polo norte, y la cola es un polo sur. La primera etapa muestra muchas flechas en distintas direcciones (hierro no magnetizado). La segunda etapa muestra a la barra con N a la derecha y S a la izquierda con algunas flechas indicando hacia la derecha (hierro algo magnetizado). La tercera etapa muestra todas las flechas alineadas apuntando hacia la derecha (hierro fuertemente magnetizado). Este imán es partido en dos. Cuando se parte en 2 partes, cada una se convierte en un imán con la misma intensidad. Los polos de los dominios vecinos neutralizan sus efectos entre sí, excepto en los dos extremos de una pieza de hierro.
+
+#### Examínate
+
+¿Cómo puede un imán atraer una pieza de hierro que no esté magnetizada?
+
+#### Comprueba tu respuesta
+
+Los dominios en la pieza no imantada de hierro se inducen a alinearse con el campo magnético del imán cercano. Como los trozos de papel que saltan hacia el peine, los trozos de hierro serán atraídos por un imán poderoso al acercarlo. Pero a diferencia del papel, después ya no se repelen. ¿Puedes imaginarte por qué?
+
+### Práctica de Física
+
+La mayoría de los objetos de acero que te rodean están magnetizados hasta cierto punto. Un archivero, un refrigerador y hasta las latas de alimentos de tu alacena tienen polos norte y sur inducidos por el campo magnético de la Tierra. Acerca una brújula a las partes superiores de objetos de hierro o de acero en tu casa y verás que el polo norte de la brújula apunta hacia ellas, y que el polo sur apunta a las partes inferiores de esos objetos. Eso demuestra que los objetos están magnetizados o imanados, y que tienen un polo sur arriba y un polo norte abajo. Verás que hasta las latas de alimento que han estado verticales en la alacena están magnetizadas. ¡Voltéalas y ve cuántos días se tardan en invertirse los polos!
+
+Dato curioso: todos necesitamos un filtro de conocimiento para distinguir entre lo que es verdad y lo que parece ser verdad. El mejor filtro de conocimiento que se ha inventado es la ciencia. ¡Eureka!
+
+### Lectura sugerida: terapia magnética
+
+En el siglo XVIII un “magnetizador” célebre de Viena, Franz Mesmer, llevó los imanes a París y se estableció como curandero en la sociedad parisina. Curaba a los pacientes haciendo oscilar bandas magnéticas sobre la cabeza.
+
+Benjamín Franklin, la mayor autoridad mundial en electricidad, estaba de visita en París, como representante de Estados Unidos, y comenzó a sospechar que los pacientes de Mesmer realmente mejoraran con este ritual, porque se apartaban de las prácticas de entonces, que consistían en sacar sangre por medio de ventosas. Ante las insistencias de la comunidad médica, el rey Luis XVI contrató a una comisión real que investigara las afirmaciones de Mesmer. En la comisión estuvieron Franklin y Antoine Lavoisier, el fundador de la química moderna. Los comisionados diseñaron una serie de pruebas, en las que algunas personas pensaban que estaban recibiendo el tratamiento de Mesmer, sin recibirlo; mientras que otros recibieron el tratamiento, pero se les hizo creer que no lo recibían. Los resultados de tales experimentos ciegos demostraron, sin lugar a dudas, que el éxito de Mesmer sólo se debía al poder de la sugestión. En la actualidad se considera que este informe es un modelo de claridad y raciocinio. La reputación de Mesmer se esfumó y se retiró a Austria.
+
+Ahora, 200 años después, con todo lo aprendido sobre magnetismo y fisiología, los mercachifles del magnetismo aún atraen a muchos más seguidores. Pero no hay comisiones gubernamentales de Franklins y Lavoisiers que desafíen sus afirmaciones. Por el contrario, la terapia magnética es otra de las “terapias alternativas” sin pruebas y sin reglamentos, a las que incluso el Congreso de Estados Unidos le dio reconocimiento oficial en 1992.
+
+Aunque hay muchos testimonios acerca de los beneficios de los imanes, no hay prueba científica de que éstos refuercen la energía del organismo o de que combatan el dolor. Ninguna. Sin embargo, en las tiendas y en los catálogos se venden millones de imanes terapéuticos. Los clientes compran pulseras, plantillas, bandas para la muñeca y la rodilla, soportes para la espalda y cuello, cojines, colchones, lápiz labial y hasta agua. Los vendedores dicen que sus imanes tienen poderosos efectos sobre el cuerpo, principalmente porque aumentan el flujo sanguíneo a las áreas lesionadas. La idea de que la sangre es atraída por un imán es pura palabrería, porque el hierro de las moléculas de hemoglobina no es ferromagnético y no es atraído por un imán. Además, la mayoría de los imanes que se venden con fines terapéuticos son del tipo de figuras para los refrigeradores, con alcance muy limitado. Para tener una idea de lo rápido que se desvanece el campo de esos imanes, fíjate cuántas hojas de papel sujetan uno de esos imanes sobre un refrigerador o sobre cualquier superficie de hierro. El imán se caerá cuando lo separen del refrigerador unas cuantas hojas de papel. El campo no pasa mucho más de un milímetro, y no penetra en la piel, y mucho menos en los músculos. Y aun cuando lo hiciera, no hay pruebas científicas de que el magnetismo tenga algunos efectos benéficos sobre el organismo. Pero de nueva cuenta, los testimonios son otra historia.
+
+Algunas veces una afirmación estrafalaria tiene algo de verdad. Por ejemplo, en los siglos anteriores la práctica de la sangría por medio de ventosas era, de hecho, benéfica para un pequeño porcentaje de hombres, quienes padecían de una rara enfermedad genética, la hemocromatosis, es decir, el exceso de hierro en la sangre; las mujeres no la padecían tanto debido a la menstruación. Aunque la cantidad de hombres que aprovecharon las sangrías fue pequeña, los testimonios de éxito alentaron la difusión de dicha práctica, la cual mató a muchos.
+
+Ninguna afirmación es tan estrafalaria que no se puedan encontrar testimonios que la respalden. Las afirmaciones como las de una Tierra plana y de platillos voladores en su mayoría son innocuas, y nos pueden divertir. La terapia magnética también puede ser innocua en muchos padecimientos; pero no cuando se usa para el tratamiento de una afección grave, en vez de la medicina moderna. Se puede promulgar que la seudociencia es para engañar en forma intencional, o que es un producto de razonamiento incorrecto y con determinado fin. En cualquier caso, la seudociencia es un gran negocio. El mercado de imanes terapéuticos y otros frutos parecidos de la sinrazón es enorme.
+
+Los científicos deben mantener abierta la mente; deben estar preparados para aceptar las pruebas recientes. Pero también tienen la responsabilidad de expresarse cuando los seudocientíficos engañan, y de hecho roban, al público, cuando las afirmaciones de aquéllos no tienen fundamento.
+
+Adaptada de Voodoo Science: The Road from
+
+Foolishness to Fraud, por Robert L. Park. Oxford
+
+University Press, 2000.
+
+## Corrientes eléctricas y campos magnéticos
+
+Como una carga en movimiento produce un campo magnético, una corriente de cargas también produce un campo magnético. El campo magnético que rodea un alambre que conduce corriente se puede visualizar colocando una serie de brújulas en torno a un conductor (Imagen 35) y haciendo pasar por él una corriente. Las brújulas se alinean con el campo magnético producido por la corriente, y muestran que el campo tiene un patrón de círculos concéntricos en torno al alambre. Cuando la corriente cambia de dirección, las brújulas se voltean, indicando que cambia también la dirección del campo magnético. Se trata del efecto que Oersted demostró por primera vez en el aula.
+
+*Imagen 35. Campo magnético de un alambre*
+
+Descripción de la Imagen 35. Campo magnético de un alambre. Las brújulas indican la forma circular del campo magnético que rodea un alambre que conduce corriente eléctrica alineándose la aguja con el campo.
+
+Si el alambre se curva y forma una espira, las líneas de campo magnético se concentran en el interior de ella. Si se forma otra espira más a continuación de la primera, se duplica la concentración de líneas de campo magnético. Entonces, la intensidad del campo magnético en esta región aumenta conforme se incrementa la cantidad de espiras. La intensidad del campo magnético es apreciable cuando se forma una bobina, es decir, cuando se juntan muchas vueltas de un conductor con corriente.
+
+### Electroimanes
+
+Una bobina de alambre que conduce corriente es un electroimán. La intensidad de un electroimán aumenta tan sólo con aumentar la corriente que pasa por la bobina. Los electroimanes industriales adquieren mayor intensidad cuando en el interior de la bobina hay una pieza de hierro. Los dominios magnéticos en el hierro son inducidos a alinearse y aumentan el campo. Para los electroimanes extremadamente poderosos, como los que se usan para controlar haces de partículas cargadas en los aceleradores de altas energías no se usa el hierro, porque a partir de cierto momento, todos sus dominios quedan alineados y ya no aumenta la intensidad.
+
+Los electroimanes con la potencia suficiente para levantar automóviles se ven con frecuencia en los depósitos de chatarra. La intensidad de esos electroimanes se limita por el calentamiento de las bobinas conductoras de corriente (por su resistencia eléctrica) y por la saturación del alineamiento de los dominios en el núcleo. Los imanes más poderosos, sin núcleo de hierro, usan bobinas superconductoras a través de las cuales fluye con facilidad una corriente eléctrica muy grande.
+
+### Electroimanes superconductores
+
+Recuerda que, en el capítulo 1, se vio que en un superconductor no hay resistencia eléctrica que limite el flujo de cargas eléctricas y, en consecuencia, no hay calentamiento aunque pasen corrientes enormes. Los electroimanes que usan bobinas superconductoras producen campos magnéticos extremadamente intensos, y lo hacen en forma muy económica porque no hay pérdidas de calor (aunque se usa energía para mantenerlos fríos). En el Fermilab, cerca de Chicago, los electroimanes superconductores guían a partículas de gran energía en torno a un acelerador de 4 millas de circunferencia. En los hospitales también se pueden encontrar imanes superconductores en los aparatos de imágenes por resonancia magnética (MRI, magnetic resonance imaging).
+
+*Imagen 36. Magplano*
+
+Descripción de la Imagen 36. Magplano. Vehículo que levita magnéticamente: un magplano. Mientras que los trenes convencionales vibran al rodar por las vías con gran rapidez, los magplanos pueden avanzar sin vibración, a mayor rapidez, porque no tienen contacto físico con la guía sobre la cual flotan.
+
+Otra aplicación que hay que vigilar es el transporte con levitación magnética o “maglev”. La Imagen 36 muestra el modelo a escala de un sistema maglev desarrollado en Estados Unidos. El vehículo, llamado magplano, tiene bobinas súper conductoras en la base. Al moverse por alguna varilla de aluminio, tales bobinas generan corrientes en el aluminio, las cuales actúan como imanes de espejo y repelen el magplano. Éste flota unos cuantos centímetros encima de la vía, y su rapidez está limitada tan sólo por la fricción del aire y la comodidad de los pasajeros.
+
+Un tren maglev construido por ingenieros alemanes actualmente da servicio a rapideces de hasta 460 km/h, entre el centro de Shanghái y su aeropuerto, y cubre unos 30 kilómetros en menos de ocho minutos. Se tiene planeado construir una vía de alta rapidez que conectará Shanghái con Beijing, que está a 1.380 km de distancia, reduciendo a la mitad las acostumbradas 14 horas de viaje. Debes estar al tanto de la proliferación de esta tecnología relativamente nueva.
+
+## Fuerza magnética sobre partículas con carga en movimiento
+
+Una partícula cargada en reposo no interacciona con un campo magnético estático. Pero si la partícula cargada se mueve en un campo magnético, se hace evidente el carácter magnético de una carga en movimiento. Sufre una fuerza desviadora. La fuerza es máxima cuando la partícula se mueve en dirección perpendicular a la de las líneas del campo magnético. Con otros ángulos, la fuerza disminuye y se vuelve cero cuando las partículas se mueven paralelas a las líneas de campo. En cualquier caso, la dirección de la fuerza siempre es perpendicular a las líneas del campo magnético y a la velocidad de la partícula cargada. Así, una carga en movimiento se desvía cuando cruza un campo magnético, pero no se desvía cuando viaja en dirección paralela al campo.
+
+La fuerza que causa la desviación es muy distinta de las fuerzas que se producen en otras interacciones, como las fuerzas gravitacionales entre masas, las fuerzas eléctricas entre cargas y las fuerzas magnéticas entre polos magnéticos. La fuerza que actúa sobre una partícula cargada en movimiento no actúa a lo largo de la línea que une las fuentes de la interacción, sino en dirección perpendicular tanto a la del campo magnético como a la trayectoria del haz de electrones.
+
+Somos afortunados de que los campos magnéticos desvíen las partículas cargadas. Esto se emplea para guiar a los electrones hacia la superficie interna de los cinescopios de TV y formen una imagen. Es también muy interesante que las partículas cargadas procedentes del espacio exterior sean desviadas por el campo magnético de la Tierra. Si no fuera así, sería mayor la intensidad de los nocivos rayos cósmicos que llegan a la superficie terrestre.
+
+Dato curioso: el campo magnético de la Tierra desvía muchas de las partículas con carga eléctrica que forman la radiación cósmica.
+
+## Fuerza magnética sobre conductores con corriente eléctrica
+
+La simple lógica indica que si una partícula cargada que se mueve a través de un campo magnético está sometida a una fuerza desviadora, entonces una corriente de partículas cargadas que se mueve a través de un campo magnético también siente una fuerza desviadora. Si las partículas están en un conductor, cuando responden a la fuerza desviadora, el alambre también será empujado.
+
+Si se invierte la dirección de la corriente, la fuerza desviadora actúa en dirección contraria. La fuerza es máxima cuando la corriente es perpendicular a las líneas de campo magnético. La dirección de la fuerza no es a lo largo de las líneas de campo magnético, ni a lo largo de la dirección de la corriente. La fuerza es perpendicular tanto a las líneas de campo como a la corriente. Es una fuerza lateral.
+
+Vemos que así como un conductor con corriente desvía una brújula (que fue lo que descubrió Oersted en su aula en 1820), un imán desviará a un conductor con corriente eléctrica. El descubrimiento de tales relaciones complementarias entre la electricidad y el magnetismo causó gran excitación, porque casi de inmediato las personas comenzaron a dominar la fuerza electromagnética para fines útiles, con grandes sensibilidades en los medidores eléctricos y con grandes fuerzas en los motores eléctricos.
+
+#### Examínate
+
+¿Qué ley de la física establece que si un conductor con corriente produce una fuerza sobre un imán, éste debe producir una fuerza sobre un alambre que conduce corriente?
+
+#### Comprueba tu respuesta
+
+La tercera ley de Newton, la cual se aplica a todas las fuerzas de la naturaleza.
+
+### Medidores eléctricos
+
+El medidor más sencillo para detectar la corriente eléctrica no es más que un imán que gira libremente, es decir, una brújula. El siguiente en sensibilidad es una bobina de alambres (Imagen 37). Cuando una corriente eléctrica pasa por la bobina, cada espira produce su propio efecto sobre la aguja, de manera que puede detectar una corriente muy pequeña. El instrumento sensible que indica paso de corriente se llama galvanómetro.
+
+*Imagen 37. Galvanómetro común*
+
+Descripción de la Imagen 37. Galvanómetro común. Un imán cilíndrico es enrollado con alambre muchas veces. Una aguja es puesta sobre el imán para moverse libremente e indicar la proximidad a los extremos N o S.
+
+Un diseño más común es el que muestra la Imagen 37, el cual usa más vueltas de alambre y en consecuencia es más sensible. La bobina se monta de forma que pueda moverse, y el imán se mantiene estacionario. La bobina gira en contra de un resorte, por lo que cuanto mayor corriente haya en sus espiras, mayor será su desviación. Un galvanómetro puede calibrarse para medir corriente (ampere), en cuyo caso se llama amperímetro. O bien, se puede calibrar para indicar el potencial eléctrico (volts) y en este caso se llama voltímetro.
+
+Dato curioso: El galvanómetro recibió ese nombre en honor de Luigi Galvani (1737-1798), quien, mientras hacía la disección de la pierna de una rana, descubrió que metales diferentes que tocaban la extremidad provocaban que ésta se encogiera. Este descubrimiento fortuito condujo a la invención de las pilas y las baterías químicas. La próxima vez que tomes una cubeta galvanizada, piensa en Luigi Galvani y su laboratorio de anatomía.
+
+### Motores eléctricos
+
+Si se modifica un poco el diseño del galvanómetro, para que la desviación sea de una rotación completa y no parcial, se obtiene un motor eléctrico. La diferencia principal es que en un motor se hace que la corriente cambie de dirección cada vez que la bobina hace media rotación. Después de forzarla a hacer media rotación, continúa su movimiento justo a tiempo cuando la corriente se invierta y, entonces, en vez de que la bobina invierta su dirección de giro, es forzada a continuar otra media vuelta en la misma dirección. Eso sucede en forma cíclica, y se produce la rotación, la cual se aprovecha para hacer funcionar relojes, aparatos diversos y para levantar cargas pesadas.
+
+Dato curioso: tanto el amperímetro como el voltímetro son básicamente galvanómetros. En el amperímetro, la resistencia eléctrica del instrumento es muy baja, y en el voltímetro es muy alta. ¡Eureka!
+
+Entendamos el principio del motor eléctrico. Un imán permanente produce un campo magnético en una región donde está una espira rectangular de alambre, que se monta para que gire respecto al eje deseado.
+
+Cualquier corriente en la espira tiene una dirección en el lado superior de ésta, y la dirección contraria en el lado inferior (porque si las cargas entran por un extremo de la espira, deben salir por el otro extremo). Si el lado superior de la espira es impulsado hacia la izquierda por el campo magnético, el lado inferior es forzado hacia la derecha, como si fuera un galvanómetro. Pero, a diferencia del caso de un galvanómetro, en un motor la corriente se invierte en cada media revolución, mediante contactos estacionarios sobre el eje. Las partes del alambre que giran y rozan con esos contactos se llaman escobillas. De esta forma, la corriente en la espira alterna de dirección, y las fuerzas sobre las partes superior e inferior no cambian de dirección cuando gira la espira. La rotación es continua mientras se suministre corriente eléctrica.
+
+Aquí sólo describimos un motor sencillo de c.d. Los motores mayores, de c.d o de c.a, se suelen fabricar reemplazando el imán permanente por un electroimán que la fuente de electricidad energiza. Naturalmente que se usa más que una sola espira. Se devanan muchas vueltas de alambre sobre un cilindro de hierro, y el conjunto se llama armadura que gira cuando el alambre conduce corriente.
+
+La aparición de los motores eléctricos puso fin a muchas de las fatigas humanas y de los animales en todas partes del mundo. Han cambiado la forma de vivir de las personas.
+
+Dato curioso: un motor y un generador en realidad son el mismo dispositivo, con la entrada y la salida invertidas. El dispositivo eléctrico en un automóvil híbrido opera en ambos sentidos.
+
+#### Examínate
+
+¿Cuál es la principal semejanza entre un galvanómetro y un motor eléctrico sencillo? ¿Cuál es su principal diferencia?
+
+#### Comprueba tu respuesta
+
+Un galvanómetro y un motor se parecen en que ambos emplean bobinas dentro de un campo magnético. Cuando pasa una corriente por las bobinas, las fuerzas sobre los alambres las hacen girar. La principal diferencia es que la rotación máxima de la bobina de un galvanómetro es media vuelta; mientras que en un motor, la bobina (que está enrollada sobre una armadura) gira una cantidad ilimitada de vueltas. Eso se logra alternando la corriente en cada media vuelta de la armadura.
+
+El campo magnético de la Tierra
+
+Un imán colgado o una brújula apuntan al norte porque la Tierra misma es un gigantesco imán. La brújula se alinea con el campo magnético de la Tierra. Sin embargo, los polos magnéticos terrestres no coinciden con los polos geográficos; de hecho, están a gran distancia entre sí. Por ejemplo, en el hemisferio norte, el polo magnético está a unos 1,800 kilómetros del polo geográfico, en algún lugar de la Bahía de Hudson en el norte de Canadá. El otro polo está al sur de Australia (Imagen 38). Esto quiere decir que las brújulas no apuntan, generalmente, hacia el norte verdadero. La discrepancia entre la orientación de una brújula y el norte verdadero se llama declinación magnética.
+
+*Imagen 38. La Tierra es un imán*
+
+Descripción de la Imagen 38. La Tierra es un imán. Se presenta a la Tierra inclinada un poco y unas líneas dirigiéndose de un polo a otro e incluso dentro de la misma Tierra.
+
+No se sabe a ciencia cierta por qué la Tierra es un imán. La configuración del campo magnético terrestre es como la de un poderoso imán de barra colocado cerca del centro de la Tierra. Pero la Tierra no es un trozo magnetizado de hierro, como lo es un imán recto. Simplemente está demasiado caliente como para que los átomos individuales mantengan determinada orientación. Entonces la explicación debe buscarse en las corrientes eléctricas en las profundidades de la Tierra. A unos 2.000 kilómetros bajo el manto rocoso externo (que tiene casi 3.000 kilómetros de espesor), está la parte fundida que rodea al centro sólido. La mayoría de los geofísicos creen que hay cargas en movimiento, girando dentro de la parte fundida de la Tierra, que originan el campo magnético. Otros geofísicos especulan que las corrientes eléctricas se deben a corrientes de convección, debido al calor que sube desde el núcleo central, y que esas corrientes de convección, combinadas con los efectos rotacionales de la Tierra producen el campo magnético terrestre. Debido al gran tamaño de la Tierra, la rapidez de las cargas en movimiento sólo necesita ser un milímetro por segundo, aproximadamente, para explicar el campo. Es necesario esperar que se realicen más estudios para llegar a una explicación más convincente.
+
+Sea cual fuere la causa, el campo magnético terrestre no es estable; ha variado durante el tiempo geológico. La prueba de ello se encuentra en los análisis de las propiedades magnéticas de los estratos rocosos. Los átomos de hierro fundidos están desorientados debido al movimiento térmico; pero un poco de predominio de ellos se alinea con el campo magnético terrestre. Al enfriarse y solidificarse, este ligero predominio indica la dirección del campo magnético terrestre en la roca ígnea que se forma. Esto es parecido a las rocas sedimentarias, donde los dominios magnéticos de los granos de hierro que contienen los sedimentos tienden a alinearse con el campo magnético terrestre, y quedan asegurados en la roca que se forma. El ligero magnetismo que se produce se puede medir con instrumentos sensibles. A medida que se analizan muestras de roca de diferentes estratos formados a través del tiempo geológico, el campo magnético terrestre se puede cartografiar en distintas épocas. Esta evidencia indica que hubo épocas en que el campo magnético terrestre se redujo a cero, seguido por la inversión de los polos. En los últimos 5 millones de años se han presentado más de 20 inversiones. La más reciente fue hace 700.000 años. Las inversiones anteriores eran de cada 870.000 a 950.000 años. Con estudios de sedimentos profundos se ve que el campo ha desaparecido de 10.000 o 20.000 años, hasta un poco más de 1 millón de años. No podemos predecir cuándo será la siguiente inversión, porque la secuencia no es regular. Pero hay una pista en las mediciones recientes, que indican una disminución de más del 5% de la intensidad del campo magnético terrestre en los últimos 100 años. Si se mantiene ese cambio, podríamos tener otra inversión dentro de 2.000 años.
+
+La inversión de los polos magnéticos no es exclusiva de la Tierra. El campo magnético del Sol se invierte con regularidad, cada 22 años. Este ciclo magnético de 22 años se ha relacionado, a través de la evidencia en tres franjas terrestres, con periodos de sequía en la Tierra. Es interesante que el ciclo de 11 años de las manchas solares, conocido desde hace mucho, sea exactamente la mitad del tiempo en el que el Sol invierte su polaridad magnética.
+
+Los vientos iónicos variables en la atmósfera terrestre causan fluctuaciones más rápidas, pero mucho más pequeñas, del campo magnético terrestre. Los iones en esas regiones se deben a las interacciones energéticas de los rayos ultravioleta y los rayos X solares, con los átomos en la atmósfera. El movimiento de esos iones produce una parte pequeña, pero importante, del campo magnético terrestre. Al igual que las capas inferiores de aire, la ionosfera es agitada por los vientos. Las variaciones en esos vientos son la causa de casi todas las fluctuaciones rápidas del campo magnético terrestre.
+
+Dato curioso: al igual que la cinta en una grabadora, la historia del fondo del océano está preservada en un registro magnético.
+
+### Rayos cósmicos
+
+El Universo es un campo de tiro de partículas cargadas, las cuales se llaman rayos cósmicos y consisten en protones, partículas alfa y otros núcleos atómicos, así como electrones de alta energía. Los protones podrían ser restos del Big Bang. Es probable que los núcleos más pesados salieran de las estrellas en explosión. En cualquier caso, viajan por el espacio con rapideces fantásticas, y forman la radiación cósmica, tan peligrosa para los astronautas. Dicha radiación se intensifica cuando el Sol está activo y aporta sus propias partículas cargadas. Los rayos cósmicos también son un peligro para la instrumentación electrónica en el espacio: los impactos de núcleos de rayos cósmicos muy ionizantes pueden causar “inversiones” en los bits de la memoria de las computadoras, o la falla de pequeños microcircuitos. Por fortuna, para nosotros en la superficie terrestre, la mayoría de esas partículas cargadas se desvían y alejan gracias al campo magnético de nuestro planeta. Algunas de ellas quedan atrapadas en los confines externos del campo magnético y forman los cinturones de radiación de Van Allen.
+
+Los cinturones de radiación de Van Allen son dos anillos, en forma de rosquilla, que rodean la Tierra. Tienen el nombre de James A. Van Allen, quien sugirió su existencia a partir de datos reunidos por el satélite estadounidense Explorer I en 1958. El anillo interior está centrado en la Tierra, y a unos 3.200 kilómetros sobre la superficie; el anillo externo, mayor y más ancho, también está centrado y a unos 16.000 kilómetros sobre nosotros. Los astronautas describen órbitas a distancias seguras, muy por debajo de esos cinturones de radiación. La mayoría de las partículas cargadas, protones y electrones, atrapados en el cinturón externo, probablemente vienen del Sol. Las tormentas solares lanzan partículas cargadas hacia afuera, como surtidores gigantescos, y muchas de ellas pasan cerca de la Tierra y quedan atrapadas por el campo magnético. Las partículas cargadas describen trayectorias en forma de espiral, en torno a las líneas del campo magnético terrestre, y regresan o rebotan, entre los polos magnéticos terrestre, a mucha altura sobre la atmósfera. Las perturbaciones del campo terrestre permiten, con frecuencia, que los iones se sumerjan en la atmósfera y hagan que brille como una lámpara fluorescente. Son las bellas auroras boreales en el hemisferio norte, y aurora austral en el hemisferio sur.
+
+Es probable que las partículas atrapadas en el cinturón interno se hayan originado en la atmósfera terrestre. Las explosiones de bombas de hidrógeno a gran altitud, en 1962, aportaron electrones frescos a este cinturón.
+
+A pesar del campo magnético terrestre protector, muchos rayos cósmicos “secundarios” llegan a la superficie terrestre. Son partículas formadas cuando los rayos cósmicos “primarios”, los que provienen del espacio exterior, chocan contra núcleos atómicos en la alta atmósfera. El bombardeo de los rayos cósmicos es máximo en los polos magnéticos, porque las partículas cargadas que chocan contra la Tierra en esos lugares no viajan a través de las líneas del campo magnético, sino a lo largo de las líneas y no se desvían. El bombardeo disminuye al alejarse de los polos y es mínimo en las regiones ecuatoriales. En las latitudes intermedias llegan unas cinco partículas por centímetro cuadrado y por minuto en el nivel del mar. Esta frecuencia aumenta muy rápido con la altitud. ¡Los rayos cósmicos penetran a tu organismo mientras estás leyendo esto! ¡Y también cuando no lo lees!
+
+Dato curioso: en septiembre de 1997 un magnetómetro en la nave espacial Surveyor detectó un débil campo magnético en torno a Marte, 800 veces menor que el campo magnético de la superficie terrestre. Si el campo era más intenso en el pasado, cabe imaginar si desempeñó algún papel relevante para proteger al material viviente en ese planeta, contra el viento solar y los rayos cósmicos.
+
+## Biomagnetismo
+
+Algunas bacterias producen biológicamente granos de magnetita (un óxido de hierro) con un solo dominio, que se alinean y forman brújulas internas. Pueden usar sus brújulas para detectar la inclinación del campo magnético terrestre. Como tienen un sentido de dirección, son capaces de localizar fuentes de alimento. Es notable que esas bacterias, al sur del ecuador, forman los mismos imanes de un dominio, ¡pero alineadas en direcciones opuestas respecto a las que forman sus contrapartes en el hemisferio norte! Las bacterias no son los únicos organismos vivos que tienen brújulas incorporadas. En fecha reciente se determinó que las palomas tienen imanes de magnetita de múltiples dominios, dentro del cráneo, conectados con una gran cantidad de nervios que penetran en el cerebro. Las palomas tienen un sentido magnético, y pueden discernir no sólo las direcciones longitudinales al campo magnético terrestre, sino también la latitud, por la inclinación de ese campo.
+
+También se ha encontrado material magnético en el abdomen de las abejas, cuyo comportamiento se ve afectado por pequeños campos magnéticos. Algunas avispas, las mariposas monarca, las tortugas marinas y los peces son criaturas con sentido magnético. Se han descubierto diminutos cristales de magnetita en los cerebros humanos, parecidos a los cristales de las bacterias magnéticas. Nadie sabe si están relacionados con nuestros sentidos. Al igual que las criaturas mencionadas arriba, puede ser que tengamos un sentido magnético.
+
+Dato curioso: Puede ser que las palomas sientan bien la dirección porque tengan incorporada una “brújula” en el cráneo.
+
+### Lectura sugerida: I.R.M., Imagen de Resonancia Magnética
+
+El escáner de imagen de resonancia magnética produce fotografías de alta resolución de los tejidos en el interior del organismo. Unas bobinas superconductoras producen un campo magnético intenso, hasta 60.000 veces más fuerte que el campo magnético terrestre; ese campo se usa para alinear los protones de los átomos de hidrógeno en el organismo del paciente.
+
+Al igual que los electrones, los protones tienen la propiedad del “espín”, y se alinean con un campo magnético. A diferencia de una brújula que se alinea con el campo magnético terrestre, el eje de un protón oscila en torno del campo magnético aplicado. A los protones que oscilan se les golpea con un impulso de ondas de radio, sintonizadas de tal modo que empujen al eje de giro (al eje del espín) del protón hacia un lado, perpendicular al campo magnético aplicado. Cuando las ondas de radio pasan y los protones regresan con rapidez a su comportamiento de oscilación, emiten señales electromagnéticas débiles, cuyas frecuencias dependen un poco del ambiente químico donde se encuentre el protón. Las señales son captadas por sensores, y analizadas por una computadora revelan densidades variables de átomos de hidrógeno en el organismo, y sus interacciones con los tejidos vecinos. En las imágenes se distinguen con claridad el fluido y el hueso, por ejemplo.
+
+Es interesante que la IRM antes se llamara RMN (resonancia magnética nuclear) porque los núcleos de hidrógeno resuenan con los campos aplicados. A causa de la fobia del público hacia todo lo “nuclear”, se cambió el nombre a IRM a todos esos dispositivos. ¡Avisa a tu amigo que padezca esa fobia, que todos los átomos de su organismo tienen un núcleo!
+
+## Resumen de términos
+
+Campo magnético. Región de influencia magnética en torno a un polo magnético o a una partícula con carga eléctrica en movimiento.
+
+Dominios magnéticos. Regiones agrupadas de átomos magnéticos alineados. Cuando esas regiones se alinean entre sí, la sustancia que las contiene es un imán.
+
+Electroimán. Imán cuyo campo lo produce una corriente eléctrica. Suele tener la forma de una bobina de alambre con una pieza de hierro en su interior.
+
+Fuerza magnética. 1. Entre imanes, es la atracción mutua de polos magnéticos distintos, y la repulsión mutua de polos magnéticos iguales. 2. Entre un campo magnético y una partícula con carga eléctrica en movimiento, es una fuerza desviadora debida al movimiento de la partícula. Esa fuerza desviadora es perpendicular a la velocidad de la partícula y es perpendicular a las líneas de campo magnético. Es máxima cuando la partícula cargada se mueve en dirección perpendicular a la de las líneas de campo, y es mínima (cero) cuando se mueve en dirección paralela a ellas.
+
+Rayos cósmicos. Diversas partículas de alta velocidad que viajan a través del Universo y originadas en sucesos violentos en las estrellas.
+
+## Preguntas de repaso
+
+  1. ¿Quién descubrió, y en qué condiciones lo hizo, la relación entre la electricidad y el magnetismo?
+
+### Fuerzas magnéticas
+
+  2. La fuerza entre partículas con carga eléctrica depende de la magnitud de la carga, de la distancia entre ellas y, ¿de qué más?
+
+  3. ¿Cuál es la fuente de la fuerza magnética?
+
+### Polos magnéticos
+
+  4. ¿La regla de la interacción entre polos magnéticos se parece a la regla de la interacción entre partículas con carga eléctrica?
+
+  5. ¿En qué sentido los polos magnéticos son muy diferentes de las cargas eléctricas?
+
+### Campos magnéticos
+
+  6. ¿Cómo se relaciona la intensidad del campo magnético con la cercanía de sus líneas del campo magnético en un imán recto?
+
+  7. ¿Qué produce un campo magnético?
+
+  8. ¿Cuáles son las dos clases de movimiento giratorio que tienen los electrones en un átomo?
+
+### Dominios magnéticos
+
+  9. ¿Qué es un dominio magnético?
+
+  10. A nivel micro, ¿cuál es la diferencia entre un clavo de acero no magnetizado y uno magnetizado?
+
+  11. ¿Por qué al dejar caer un imán de hierro sobre un piso duro se debilita su magnetización?
+
+### Corrientes eléctricas y campos magnéticos
+
+  12. En el capítulo 22 aprendimos que el campo eléctrico se dirige radialmente en torno a una carga puntual. ¿Cuál es la dirección del campo magnético que rodea a un alambre que conduce corriente?
+
+  13. ¿Qué le sucede a la dirección del campo magnético en torno a una corriente eléctrica cuando se invierte la dirección de la corriente?
+
+  14. ¿Por qué la intensidad del campo magnético es mayor dentro de una espira de un alambre que conduce corriente, que en torno a un tramo recto del mismo alambre?
+
+### Electroimanes
+
+  15. ¿Por qué un trozo de hierro dentro de una espira que conduce corriente aumenta la intensidad del campo magnético?
+
+### Electroimanes superconductores
+
+  16. ¿Por qué los campos magnéticos de imanes superconductores son más intensos que los de imanes convencionales?
+
+### Fuerza magnética sobre partículas con carga en movimiento
+
+  17. ¿En qué dirección, en relación con la de un campo magnético, se mueve una partícula cargada para estar sujeta a una fuerza desviadora máxima? ¿Y a una fuerza desviadora mínima?
+
+  18. ¿Qué efecto tiene el campo magnético terrestre sobre la intensidad de los rayos cósmicos que llegan a la superficie de nuestro planeta?
+
+### Fuerza magnética sobre conductores con corriente eléctrica
+
+  19. Como una fuerza magnética actúa sobre una partícula cargada en movimiento, ¿tiene sentido que una fuerza magnética actúe también sobre un alambre que conduce corriente? Defiende tu respuesta.
+
+  20. ¿Qué dirección relativa entre un campo magnético y un alambre que conduce corriente eléctrica produce la fuerza máxima?
+
+### Medidores eléctricos
+
+  21. ¿Cómo detecta un galvanómetro la corriente eléctrica?
+
+  22. ¿Cómo se llama un galvanómetro cuando se calibra para indicar corriente? ¿Y para indicar voltaje?
+
+### Motores eléctricos
+
+  23. ¿Qué tan a menudo se invierte la corriente en las espiras de un motor eléctrico?
+
+### Campo magnético terrestre
+
+  24. ¿Qué quiere decir declinación magnética?
+
+  25. ¿Por qué es probable que no haya dominios magnéticos de alineación permanente en el núcleo terrestre?
+
+  26. ¿Qué son las inversiones de los polos magnéticos? ¿Suceden en el Sol, además de en la Tierra?
+
+### Rayos cósmicos
+
+  27. ¿Cuál es la causa de la aurora boreal?
+
+### Biomagnetismo
+
+  28. Menciona al menos seis seres vivos de los que se sepa que albergan imanes diminutos en sus organismos.
+
+## Proyectos
+
+1. Determina la dirección y la inclinación de las líneas del campo magnético terrestre en donde te encuentras. Imana una aguja grande de acero, o una pieza recta de alambre de acero, frotándola dos docenas de veces con un imán fuerte. Atraviesa con la aguja un tapón de corcho, de tal modo que cuando flote el corcho la aguja quede horizontal (paralela a la superficie del agua). Haz flotar el corcho en un recipiente de plástico o de madera. La aguja apuntará hacia el polo magnético. A continuación clava un par de alfileres no imanados en los costados del corcho. Apoya los alfileres en las orillas de un par de vasos de vidrio, para que la aguja o el alambre apunten hacia el polo magnético. Debe inclinarse, alineado con el campo magnético terrestre.
+
+2. Se puede magnetizar o imanar con facilidad una varilla de hierro, alineándola con las líneas del campo magnético terrestre, y golpeándola suavemente algunas veces con un martillo. Funciona mejor si la varilla se inclina hacia abajo, para coincidir con la inclinación del campo terrestre. Al martillar, los dominios se agitan y pueden llegar a una mejor alineación con el campo terrestre. La varilla se puede desmagnetizar golpeándola cuando se encuentre en dirección este-oeste.
+
+## Ejercicios
+
+  1. Muchos cereales secos se fortifican con hierro, el cual se agrega al cereal en forma de pequeñas partículas de hierro. ¿Cómo se podrían separar del cereal tales partículas?
+
+  2. ¿En qué sentido todos los imanes son electroimanes?
+
+  3. Como todos los átomos tienen cargas eléctricas en movimiento, ¿por qué entonces no todos los materiales son magnéticos?
+
+  4. Para elaborar una brújula, apunta un clavo de hierro común en la dirección del campo magnético terrestre (el cual, en el hemisferio norte, está inclinado hacia abajo, es decir, hacia el polo norte) y de forma repetida golpéalo durante unos segundos con un martillo o con una piedra. Luego cuélgalo de un cordel por su centro de gravedad. ¿Por qué al golpearlo se magnetizó el clavo?
+
+  5. Si colocas un trozo de hierro cerca del polo norte de un imán, lo atraerá. ¿Por qué también lo atraerá si colocas el hierro cerca del polo sur del imán?
+
+  6. ¿Se atraen entre sí los polos de un imán tipo de herradura? Si doblas el imán para que los polos queden más cerca, ¿qué le sucede a la fuerza entre los polos?
+
+  7. ¿Por qué no se aconseja fabricar un imán tipo de herradura con un material flexible?
+
+  8. ¿Qué clase de campo de fuerza rodea a una carga eléctrica estacionaria? ¿Y qué campo adicional la rodea cuando está en movimiento?
+
+  9. Tu amigo te dice que un electrón siempre experimenta una fuerza en un campo eléctrico, pero no siempre en un campo magnético. ¿Estás de acuerdo? ¿Por qué?
+
+  10. ¿Cuál es la diferencia entre los polos magnéticos de los imanes para refrigerador comunes y los de imanes de barra comunes?
+
+  11. Un amigo te dice que la puerta de un refrigerador, abajo de la capa de plástico pintado de blanco, es de aluminio. ¿Cómo podrías saber si ello es verdad (sin dañar la pintura)?
+
+  12. ¿Por qué un imán atrae un clavo o un broche para papel (clip) comunes, pero no un lápiz de madera?
+
+  13. ¿Los dos polos de un imán atraen un broche para papel? Explica lo que le sucede al broche cuando es atraído.
+
+  14. ¿Por qué los imanes permanentes no son en realidad permanentes?
+
+  15. Una forma de hacer una brújula es atravesar un tapón de corcho con una aguja magnetizada, y ponerlos a flotar en agua en un recipiente de vidrio. La aguja se alinea con la componente horizontal del campo magnético terrestre. Como el polo norte de esta brújula es atraído hacia el norte, ¿la aguja se moverá hacia la orilla norte del recipiente? Defiende tu respuesta.
+
+  16. Una “brújula de inclinación” es un imán pequeño montado en un eje horizontal, de modo que gire hacia arriba o hacia abajo (como una brújula puesta de lado). ¿En qué lugar de la Tierra esa brújula apuntará en dirección más vertical? ¿En qué lugar apuntará en dirección más horizontal?
+
+  17. ¿En qué dirección apuntaría la aguja de una brújula, si estuviera libre para apuntar en todas direcciones, cuando se localizara en el polo norte de la Tierra en Canadá?
+
+  18. El polo norte de una brújula es atraído hacia el polo norte de la Tierra; sin embargo, los polos iguales se repelen. ¿Puedes resolver este aparente dilema?
+
+  19. Sabemos que una brújula apunta hacia el norte, porque la Tierra es un imán gigantesco. ¿Esa aguja que apunta hacia el norte seguirá apuntando al norte cuando la brújula se lleve al hemisferio sur?
+
+  20. Un amigo dice que cuando una brújula atraviesa el ecuador, gira y apunta en dirección contraria. Otro amigo dice que eso no es cierto, que las personas en el hemisferio sur usan el polo sur de la brújula, que apunta hacia el polo más cercano. Luego te toca a ti. ¿Qué dices?
+
+  21. ¿En qué posición una espira de alambre que conduce corriente se localiza en un campo magnético, de manera que no tienda a girar?
+
+  22. Un imán poderoso atrae un broche para papel con cierta fuerza. ¿El broche atrae al imán poderoso? En caso negativo, ¿por qué no? En caso afirmativo, ¿ejerce tanta fuerza sobre el imán como la que el imán ejerce sobre él? Defiende tus respuestas.
+
+  23. Un alambre que conduce corriente está en una orientación norte-sur. Cuando la aguja de la brújula se coloca por abajo o por encima de él, ¿en qué dirección apunta la aguja de la brújula?
+
+  24. Un altavoz consiste en un cono unido a una bobina que conduce corriente, ubicada en un campo magnético. ¿Cuál será la relación entre las vibraciones de la corriente y las vibraciones del cono?
+
+  25. ¿Un imán superconductor usará menos energía eléctrica que un electroimán tradicional de alambre de cobre o usará la misma cantidad de energía? Sustenta tu respuesta.
+
+  26. Cuando se construyen barcos de planchas de acero, se escribe en una placa de latón fija al barco la ubicación del astillero y la orientación que tenía el barco al ser construido. ¿Por qué?
+
+  27. ¿Un electrón en reposo dentro de un campo magnético puede ponerse en movimiento usando el campo magnético? ¿Qué sucedería si estuviera en reposo en un campo eléctrico?
+
+  28. Un haz de electrones pasa a través de un campo magnético sin ser desviado. ¿Qué puedes concluir acerca de la orientación del haz en relación con el campo magnético? (Ignora otros campos.)
+
+  29. Un ciclotrón es un dispositivo para acelerar partículas cargadas a grandes rapideces, mientras describen una trayectoria espiral hacia afuera. Las partículas cargadas están sometidas tanto a un campo eléctrico como a un campo magnético. Uno de esos campos aumenta la rapidez de las partículas cargadas, y el otro las hace que describan una trayectoria curva. ¿Qué campo efectúa cuál función?
+
+  30. Un protón se mueve en una trayectoria circular perpendicular a un campo magnético constante. Si se incrementa la intensidad del campo del imán, ¿el diámetro de la trayectoria circular se incrementará, disminuirá o permanecerá igual?
+
+  31. Un haz de protones de alta energía sale de un ciclotrón. ¿Supones que hay un campo magnético asociado con esas partículas? ¿Por qué?
+
+  32. Un imán puede ejercer una fuerza sobre una partícula cargada en movimiento, pero no puede cambiar la energía cinética de la partícula. ¿Por qué?
+
+  33. Un campo magnético puede desviar un haz de electrones, pero no puede efectuar trabajo sobre ellos para cambiar sus rapideces. ¿Por qué?
+
+  34. Dos partículas cargadas son lanzadas a un campo magnético que es perpendicular a sus velocidades. Si las partículas se desvían en direcciones opuestas, ¿qué indica eso?
+
+  35. ¿Por qué los astronautas se mantienen a menores altitudes que las de los cinturones de Van Allen cuando hacen caminatas espaciales?
+
+  36. Los residentes del norte de Canadá están bombardeados por radiación cósmica más intensa que los residentes de México. ¿Por qué?
+
+  37. ¿Qué cambios de intensidad esperas de los rayos cósmicos en la superficie terrestre, que haya durante periodos en los cuales el campo magnético terrestre pase por una fase cero al invertir sus polos?
+
+  38. En un espectrómetro de masas, los iones entran a un campo magnético, donde su trayectoria se curva, y llegan a un detector. Si diversos átomos simplemente ionizados viajan a la misma rapidez por el campo magnético, ¿esperas que todos sean desviados la misma cantidad? O bien, ¿los iones distintos se desvían en diferentes cantidades? Sustenta tu respuesta.
+
+  39. Una forma de blindar un hábitat contra la radiación cósmica, al estar en el espacio anterior, sería con una colchoneta absorbente que funcionara como la atmósfera que protege a la Tierra. Imagina otra forma de blindaje que también se parezca al blindaje natural de la Tierra.
+
+  40. Si tuvieras dos barras de hierro, una imantada y la otra no, y no tuvieras a la mano más material, ¿cómo podrías decir cuál de ellas es el imán?
+
+  41. Históricamente, cuando se cambió la terracería por pavimento se redujo la fricción en los vehículos. Cuando se cambió el pavimento por rieles de acero se redujo aún más la fricción. ¿Cuál será el siguiente paso para reducir la fricción en los vehículos con la superficie? ¿Qué fricción quedará cuando se elimine la fricción con la superficie?
+
+  42. ¿Un par de conductores paralelos que conducen corriente ejercen fuerzas entre sí?
+
+  43. ¿Cuál será el efecto magnético de juntar dos alambres con corrientes iguales pero en dirección opuesta? ¿Y de entrelazar uno sobre el otro?
+
+  44. Cuando una corriente pasa por un resorte embobinado helicoidalmente, el resorte se contrae como si se comprimiera. ¿Cuál es tu explicación de esto?
+
+  45. Cuando se les prepara para someterse al escáner de imagen de resonancia magnética, ¿Por qué a los pacientes se les pide quitarse anteojos, relojes, joyería y otros objetos metálicos?
+
+# Capítulo 4: energía
+
+¿De dónde proviene la energía? Los siguientes ejercicios nos permitirán reconocer algo de lo que ya sabemos y con qué precisión utilizamos el conocimiento que ya poseemos sobre lo que vamos a estudiar en esta parte del texto. No es necesario que busquemos ayuda en libros u otras fuentes para dar cuenta de lo que aquí se pregunta, atengámonos sólo al conocimiento que poseemos. La información que obtengamos nos será de gran ayuda para planear una mejor estrategia de aprendizaje o para mejorar y precisar lo que ya sabemos.
+
+1. Seleccionemos un escenario (el colegio, el centro de la ciudad, la casa, etc.). Identifiquemos las situaciones en las que se manifiesta alguna forma de energía. ¿Todas las manifestaciones de energía observadas son iguales o diferentes? ¿Cuáles podemos distinguir? ¿Qué otras formas de energía conocemos? ¿Observamos que en algunas de estas situaciones se produce un cambio de energía? ¿En cuáles? ¿Por qué? ¿La energía se transporta de un lugar a otro? ¿En qué situaciones? ¿Qué es lo que se transporta en cada caso? ¿Qué significa energía? ¿De dónde proviene la energía? ¿Qué fuentes de energía conocemos y cuál consideramos la más importante?
+
+2. Cuando se habla de energía, generalmente surgen términos como calor, luz, sol, combustibles, temperatura, energía cinética, energía potencial. La definición de estos términos a veces no es tan fácil, pero la mayor parte de ellos tiene un significado especial para nosotros.
+
+  a. Construyamos frases con cada uno de estos términos o conceptos en las que tengamos que utilizar el significado que tenemos de ellos.
+
+  b. A veces también podemos establecer diferencias entre los conceptos citados en el numeral 2. Intentemos hacerlo entre los siguientes pares de conceptos: calor-temperatura, energía cinética-energía potencial, energía atómica,-energía radiante del Sol. Utilicemos diferentes formas de establecer la diferencia si la hay, con dibujos, ejemplos en donde se identifiquen los conceptos, etcétera.
+
+3. En relación con la energía, hay frases que se oyen con frecuencia, como "la energía se conserva". Hagamos un escrito corto en el que expongamos lo que esta frase significa y cómo se justifica en situaciones que conozcamos.
+
+## Introducción
+
+Ya hemos introducido en el estudio de las ciencias algunos de los conceptos que se consideran claves: la materia, la masa y las fuerzas que originan el cambio de movimiento de los cuerpos. Ahora estamos en condiciones de aproximarnos al estudio de otro de los grandes conceptos de la ciencia: la energía, y con éste iniciar la comprensión de otro gran principio de la ciencia: la conservación de la energía.
+
+El desarrollo de los conceptos de energía y su conservación fue largo y complejo. Pasaron casi dos siglos desde que se insinuaran por primera vez hasta que se establecieron en su estado actual. La ciencia de la energía y de las relaciones entre las diferentes formas de energía (calor, luz, electricidad, magnetismo, energía mecánica y química) surgió del estudio de la producción mecánica del calor por fricción y de la generación térmica de energía mecánica por medio de las máquinas de vapor. Ya antes, en el siglo XVII, se había propuesto que el calor era el movimiento de las diminutas partículas de que están constituidos los cuerpos, el cual se incrementa con el aumento de la temperatura.
+
+Después, en el siglo XVIII, tomó fuerza la idea de que el calor es una sustancia material sin peso, denominada calórico. Según esta concepción, la liberación de calor por fricción de los cuerpos se debe a la liberación del calórico de su combinación o asociación con la materia de los cuerpos frotados. A pesar de que el científico Rumford, con ocasión de la perforación de un cañón de acero, pudo deducir que la cantidad de calor producida en el proceso era debida a la energía mecánica, con lo que sustentaba el hecho reconocido del calor como producto del movimiento mecánico, la idea del calórico prevaleció en el siglo XVIII. Más tarde, ya en el siglo XIX, como resultado de la gran cantidad de datos obtenidos por los científicos, en especial del derivado del estudio de la energía mecánica producidas por las máquinas de vapor, se llegó a la conclusión nuevamente de que el calor es el producto del movimiento de las partículas de los cuerpos, y que la energía mecánica y la energía térmica son equivalentes e interconvertibles.
+
+La corroboración de las conclusiones anteriores sobre la naturaleza dinámica y de movimiento del concepto de energía y de su conservación en los procesos de transformación de unas en otras se completó con muchos otros hallazgos, derivados del estudio del origen de la energía mecánica y calórica de los animales como resultado de la descomposición de los alimentos. Con este propósito se escribía: “Existe en la naturaleza un agente más, denominado fuerza. En condiciones adecuadas puede aparecer como movimiento, calor, luz y magnetismo. El calor, por tanto, no es tipo especial de materia sino un movimiento oscilatorio de los cuerpos". Asimismo, el médico alemán Mayer concluyó que "el movimiento, en muchos casos, tiene por efecto producir calor y así el origen del calor no tiene otra causa que el movimiento".
+
+Tanto los resultados anteriores como muchos otros obtenidos después, entre los que se encuentran los de Joule, quien midió exactamente la cantidad de calor producido por un trabajo mecánico, llevó a la conclusión de que el origen de todas las diferentes formas de energía está en el movimiento y que éstas pueden convertirse cuantitativamente unas en otras.
+
+En este proceso empezaremos a estudiar y a contestar cualitativamente algunas de las preguntas que han venido haciéndose acerca de la energía y sus formas: ¿Qué es la energía y cómo se manifiesta? ¿De dónde proviene la energía? ¿Cómo se transforman las diversas formas de energía?
+
+## ¿En qué formas se manifiesta la energía?
+
+La energía, como la materia, es un concepto difícil de definir y de explicar en forma concreta. Lo que sí se puede es reconocer los efectos y describir los fenómenos que ocasiona. Así, sabemos que se ha invertido energía cuando un cuerpo se mueve, que la energía hace que los cuerpos se calienten, que produzcan luz y que emitan sonidos. También sabemos que la energía es lo que permite realizar trabajo.
+
+Corremos, respiramos y hasta pensamos porque tenemos energía que es posible derivar de los alimentos que consumimos. La energía es, asimismo, necesaria para propulsar aviones, autos y trenes, para mover los molinos de viento o para impulsar cualquier otro cuerpo que requiera estar en movimiento y desplazarse. El movimiento y el desplazamiento de los cuerpos es el efecto más evidente que tienen las diferentes formas en que se presenta la energía. Por eso, lo más cercano que se puede decir de la energía es que puede realizar un trabajo y que las diferentes formas de energía pueden transformarse unas en otras.
+
+*Imagen 39. Formas de energía*
+
+Descripción de la Imagen 39. Formas de energía. 1. Energía Mecánica. Potencial, una persona a punto de disparar una flecha a una diana. Cinética, una niña patinando y un molino de viento girando. 2. Energía Radiante. Luz, una bombilla encendida. Sonido, un tambor. Radio, una antena emitiendo a una radio con antena. 3. Atómica, una explosión gigante y una planta de fisión nuclear. 4. Energía Química. Alimentos, barra de pan, caja con leche y cubeta con huevos. Batería química, una batería cilíndrica. Combustible, un tractor.
+
+### Formas de energía
+
+El calor, la energía térmica y la electricidad son las formas de energía más comunes. Otra forma también conocida es la energía química.
+
+Algunos objetos de los que aparecen en la Imagen 39 producen energía química: los alimentos de diferentes clases, las baterías, los combustibles y el carbón. Estos son solo algunos de los materiales químicos que se usan en la vida diaria.
+
+Cuando agitamos el extremo de una cuerda con la mano, la energía que le suministramos aparece en el otro extremo de la cuerda. Es una de las formas en que la energía puede transferirse. Cuando hablamos o tocamos un instrumento, la energía pasa del instrumento a los oídos como sonido en forma de ondas, como en la cuerda. La energía de la luz también viaja en ondas. De la misma clase es la energía que proviene de aparatos de rayos X, de lámparas de infrarrojo que envían calor y lámparas ultravioleta. Cuando nos exponemos a la luz ultravioleta, la piel se dora como cuando nos exponemos al Sol en la playa. El Sol, además de la luz común, también tiene luz ultravioleta que no podemos ver porque el ojo humano no está en condiciones de hacerlo. Forma parte también de esta clase de energía la que envían las estaciones de radio y de televisión y que luego se transforma en sonido e imágenes visuales. Esta clase de energía que se transporta mediante ondas se llama energía radiante.
+
+Otra clase de energía es la que se denomina atómica y también energía nuclear. Es una energía que los científicos y las científicas pueden obtener del núcleo de los átomos de elementos como el uranio. Esta energía, que inicialmente se usó con fines bélicos, por ejemplo en la bomba atómica, hoy es la base para construir plantas que generan electricidad y para impulsar barcos y submarinos, entre sus usos.
+
+Hasta aquí hemos descrito algunas de las formas como se manifiesta la energía. En este grado y en los grados siguientes seguiremos describiendo otras manifestaciones de energía. Por ahora vamos a describir dos formas de energía a las que se reducen todas las diferentes formas de energía: la energía cinética y la energía potencial. Por la anterior razón, se dice que éstas representan los dos estados en que puede encontrarse la energía.
+
+### La energía cinética
+
+La energía cinética es la energía de movimiento. La tienen todos los cuerpos que están en movimiento, pues es en movimiento como son capaces de producir en otros cuerpos cambio de movimiento y desplazamientos, y, por consiguiente, producir un trabajo.
+
+La experiencia cotidiana nos lleva a suponer que la energía cinética que tiene un cuerpo depende de su velocidad. Imaginemos el efecto que produce una piedra que se desplaza lentamente y choca con otro cuerpo y comparémoslo con el que produce una a mayor velocidad. Lo mismo se puede decir de la masa del cuerpo en movimiento: mientras mayor sea la masa, mayor será el efecto que produce (por ejemplo, dos piedras de masa diferente, una pequeña y otra muy grande).
+
+La expresión que permite representar la energía cinética, en consecuencia, tiene estos dos elementos: masa y velocidad.
+
+Ec = ½ m v2
+
+Donde Ec es la Energía cinética y se lee así: Ec = ½ m por v al cuadrado. Donde m es la masa del cuerpo en movimiento y v su velocidad.
+
+Los átomos y las moléculas también son cuerpos o partículas que tienen masa y están en continuo movimiento (agitación térmica); se desplazan a una determinada velocidad. Tienen energía cinética.
+
+### La energía potencial
+
+Es la posibilidad que tiene un cuerpo de producir energía en razón, por ejemplo, de su composición y posición. No se manifiesta externamente, pero puede aparecer en alguna otra forma de energía: cinética, radiante, térmica, etcétera. Un resorte comprimido, una roca situada en un lugar elevado, los combustibles, tienen la posibilidad de producir energía, tienen energía potencial.
+
+La energía potencial está asociada a las fuerzas que actúan sobre los cuerpos, de modo que para modificar la posición de ellos es necesario ejercer una fuerza contraria. Así, para comprimir un resorte y ponerlo en situación de hacer un trabajo, se necesita realizar un trabajo externo para cambiar su posición, ya que es indispensable vencer unas fuerzas, las de elasticidad, que se oponen a ello. Para elevar un cuerpo a una determinada altura es necesario vencer las fuerzas de atracción gravitatoria de la Tierra sobre el cuerpo. Una vez a esa altura, el cuerpo tiene el potencial de caer, es decir, la posibilidad de producir una energía que libera en forma de energía cinética (de movimiento) cuando cae.
+
+La energía es potencial cuando un cuerpo se mueve en la dirección opuesta a las fuerzas que actúan sobre él. Cuando se estira un caucho, se actúa contra las fuerzas que mantienen unidas sus partículas y, por consiguiente, el cuerpo adquiere la capacidad de realizar un trabajo.
+
+La energía química es la energía potencial de las partículas que constituyen las sustancias. Por ejemplo, al frotar la cabeza de una cerilla contra el raspador, las moléculas que constituyen la cerilla se reordenan liberando energía en forma de luz y calor.
+
+### La energía térmica, la temperatura y el calor
+
+Las partículas de un cuerpo están en continuo movimiento, o en agitación térmica, cualquiera que sea su estado físico, sólido, líquido o gaseoso. Debido a este movimiento, las partículas desarrollan una pequeña cantidad de energía. La suma de todas las energías que desarrollan todas las partículas, átomos y moléculas que componen un cuerpo se llama energía térmica.
+
+De lo anterior se deduce que la energía térmica es mayor cuanto mayor es el número de partículas que la constituyen, es decir, cuanto mayor sea su masa. Así, un litro de agua tiene mayor energía térmica que un centímetro cúbico de ella, siempre y cuando los dos sistemas estén a una misma temperatura.
+
+La temperatura es la medida de la energía cinética promedio que tienen las partículas que forman un cuerpo. Por consiguiente, el concepto de temperatura está relacionado con el movimiento de las partículas o la agitación térmica de ellas.
+
+La anterior definición de temperatura incluye la expresión promedio, lo cual le da al concepto una especial significación: la temperatura del cuerpo ya no depende del número de partículas, o sea, de la masa del cuerpo. Un litro de agua en un recipiente puede tener la misma temperatura que un centímetro cúbico de agua en otro recipiente, siempre y cuando la energía cinética promedio de las dos porciones de agua sea igual.
+
+En los cambios que ocurren en el universo se presenta una transferencia de energía de un cuerpo a otro. Cuando un arquero dispara una flecha, transfiere parte de su energía muscular a la cuerda que impulsará la flecha hasta el blanco.
+
+Cuando dos cuerpos que están a diferente temperatura se ponen en contacto, la experiencia muestra que muy pronto los dos están a una temperatura igual pero diferente de las temperaturas iniciales de uno y otro cuerpo. Esto ocurre porque se produce una transferencia de energía térmica del cuerpo que está a mayor temperatura al cuerpo que está a menor temperatura. Se produce una transferencia de la agitación térmica de sus moléculas. Se dice que hay transferencia de calor de un cuerpo a otro.
+
+Calor es, por tanto, la energía térmica que se transfiere de un cuerpo a otro; es un fluido de energía de un cuerpo a otro. Por esa razón no se puede decir que un cuerpo tiene calor (por ejemplo, una olla hirviente de agua no tiene calor), tiene energía térmica. Por consiguiente, el concepto de calor sólo tiene significado cuando la energía térmica se transfiere de un cuerpo a otro.
+
+### Actividad 1. Medición y cuantificación
+
+Midamos la temperatura y la energía térmica leyendo atentamente y bajo la supervisión de un adulto o de nuestro profesor.
+
+#### Materiales
+
+Termómetro °C, termómetro clínico, recipiente de vidrio, probetas, hornillo eléctrico.
+
+#### Procedimiento
+
+1. Para medir la temperatura se necesita una unidad conveniente. Ésta se estableció cuando la diferencia de temperatura entre el punto de ebullición del agua y el punto de congelación del agua al que se le asignó arbitrariamente una temperatura cero (0), se dividió en cien partes. A cada una de estas divisiones se le denominó grado centígrado (° C) y a la escala se le denominó escala Celsius o centígrada. El aparato que contiene la escala se denomina termómetro.
+
+a. Examinemos un termómetro de escala centígrada (0° -100° C). Describamos sus partes. ¿Por qué el líquido que contiene es generalmente mercurio? ¿Podría ser otro?
+
+Introduzcamos el termómetro en un recipiente que contenga agua caliente y esperemos hasta que el nivel del mercurio esté constante. ¿Qué temperatura marca el termómetro en grados centígrados? ¿Qué significa este dato? ¿Tanto el termómetro como el agua tienen la misma temperatura? ¿A qué se debe? Cuando medimos la temperatura de un cuerpo, ¿qué medimos de ese cuerpo?
+
+b. El termómetro clínico con el cual se mide la temperatura de las personas también tiene una escala de temperatura en grados centígrados. Midamos nuestra temperatura y la de algunos(as) de los compañeros y compañeras. Limpiemos cuidadosamente el termómetro cada vez que hagamos una medición. ¿Qué conclusión sacamos de los datos obtenidos?
+
+En realidad, ¿qué estamos midiendo cuando medimos la temperatura? Escribamos lo que consideramos que medimos cuando medimos nuestra temperatura.
+
+2. Una forma conveniente de medir la energía es convertirla a energía térmica, si no está en esa forma, y dejar que ésta se transfiera a otro cuerpo. El cambio de temperatura del agua sirve para medir la cantidad de energía transferida. La energía necesaria para elevar la temperatura de un gramo de agua en un grado centígrado equivale a una caloría, que equivale a 4,18 julios (J). El julio es la unidad que se utiliza actualmente como unidad internacional para la medida de energía.
+
+a. Midamos la energía transferida por una fuente de calor. Para tal fin, vertamos unos 200 mi (aproximadamente 200 gramos) de agua en un recipiente. Midamos la temperatura del agua. Calentemos el agua durante cinco minutos en un hornillo eléctrico y midamos nuevamente la temperatura del agua. ¿Cuánta energía en calorías fue transferida del hornillo al agua y al recipiente que la contiene? ¿Cuántos julios? Expliquemos el procedimiento utilizado para dar la respuesta anterior.
+
+b. En muchas situaciones es necesario conocer la cantidad de energía que está produciéndose o consumiéndose (por ejemplo, la compañía que suministra la energía eléctrica a las casas o los usuarios de electrodomésticos que desean saber cuánta energía consume el aparato que desean adquirir). Averigüemos las diferentes formas en que se mide la energía. ¿Qué unidades usan y por qué? ¿Cuánto vale la unidad de energía suministrada por la compañía? ¿Cuál de los aparatos que tenemos en casa consume más energía en un determinado tiempo? ¿Qué consecuencia trae prender continuamente estos aparatos en la economía familiar y para el ambiente? Elaboremos un escrito corto en el que expresemos lo que pensamos acerca de los efectos de un consumo exagerado de energía en los hogares.
+
+### Lectura sugerida: La medida de la temperatura
+
+El primer intento serio de medir la temperatura lo hizo Galileo en 1593, mediante un instrumento de su invención que llamó termoscopio. Este aparato fue de utilidad muy limitada y poco preciso, así que su importancia radica solamente en que dio origen a nuevas ideas para resolver el problema de la medida de la temperatura. Ya para mediados del siglo XVII se habían construido termómetros de alcohol de relativa precisión.
+
+Un trabajo notable en esa dirección lo hizo Gabriel D. Fahrenheit, a principios de siglo XVIII. Nacido en Polonia pero residente la mayor parte de su vida en Holanda, en donde dirigía un taller de reparación de instrumentos científicos de precisión, en desarrollo de su trabajo tuvo la oportunidad de experimentar con termómetros de alcohol y de mercurio, que ya habían sido construidos. Reconoció la necesidad de establecer puntos fijos que pudieran reproducirse fácilmente y así poder establecer una escala de temperatura más precisa y fácil de usar. En una escala que construyó basado en el punto más frío, que pudo obtener en su laboratorio con una mezcla de hielo y sal de cocina, y el punto más caliente, encontró que el punto de ebullición del agua era de 212 grados y el punto de congelación 32 grados. Adoptó entonces estos dos puntos para una escala definitiva de la medida de la temperatura.
+
+Aproximadamente treinta años más tarde de la propuesta de Fahrenheit, el sueco Anders Celsius sugirió que sería más simple utilizar una escala que se dividiera en cien partes o grados, entre el punto de ebullición y el punto de congelación del agua. Esta nueva escala se llamó inicialmente centígrada y posteriormente escala Celsius, en honor de su inventor. Otras escalas se han construido hasta ahora destinadas a hacer medidas más exactas de la temperatura, entre ellas la escala de temperatura absoluta kelvin que fija el valor absoluto cero en 273 grados Celsius, por debajo del punto de congelación del agua (0°K =-273 °C). El significado de esta escala y su uso se comprenderán más adelante en desarrollo de los cursos de ciencias más avanzados.
+
+Dato curioso: Los cambios bruscos de temperatura pueden ocasionar daños en nuestro organismo. Prevengamos posibles enfermedades.
+
+## ¿Cómo viaja el calor?
+
+En el tema anterior se describieron diferentes clases de energía, entre ellas la energía térmica, la cual depende del movimiento (de la agitación térmica) de las partículas que constituyen el cuerpo. No importa el estado físico en que se encuentre un cuerpo, las partículas que lo constituyen están en movimiento, es decir, tienen energía.
+
+En los sólidos, los átomos o las moléculas están organizados en estructuras cristalinas de formas definidas y variadas. No obstante, se mueven, y más exactamente vibran, sin perder la forma definida característica de cada sólido. Tienen energía.
+
+*Imagen 40. Estructura molecular de un sólido*
+
+Descripción de la Imagen 40. Estructura molecular de un sólido. Se muestra un cubo grande formado con 4 cubos los cuales en cada punta contiene una molécula diferente intercalada.
+
+Los líquidos tienen sus partículas, átomos o moléculas un poco más separados que los sólidos y no están organizados en estructuras rígidas como los sólidos; en consecuencia, se mueven con mayor libertad.
+
+*Imagen 41. Partículas en movimiento*
+
+Descripción de la Imagen 41. Partículas en movimiento. Se muestran algunas partículas del mismo tipo moviéndose aleatoriamente en diferentes direcciones alejadas entre sí.
+
+En los gases, sus partículas prácticamente no tienen mayor atracción entre ellas y se encuentran distantes unas de otras. Su movimiento es libre por completo en condiciones ordinarias y se desplazan a grandes velocidades.
+
+*Imagen 42. Partículas en un líquido*
+
+Descripción de la Imagen 42. Partículas en un líquido. Se muestra un numeroso grupo de partículas que se encuentran juntas pero con algo de libertad para moverse.
+
+Esta energía o agitación térmica que, como se ha mostrado, tienen las partículas de los cuerpos sólidos, líquidos o gaseosos puede desplazarse de un cuerpo a otro de varias maneras.
+
+Una de las experiencias más comunes en la vida diaria es lo que ocurre cuando el extremo de un cuerpo metálico, por ejemplo una varilla delgada, se calienta. Muy rápidamente, la energía térmica viaja en forma de calor hasta el otro extremo, lo cual se percibe por una sensación de calor al tacto, a veces un tanto dolorosa. ¿Cómo se explica este hecho?
+
+Esto tiene que ver con lo que les pasa a las partículas del sólido cuando se calientan. Como las partículas del sólido están en una posición fija, lo único que pueden hacer es vibrar. A medida que se calientan, las partículas vibran más y más, de tal forma que afectan las partículas vecinas, éstas a su vez a las siguientes, y así sucesivamente. De esta forma, la energía (el movimiento de vibración) pasa del extremo caliente al extremo frío sin que ninguna de las partículas haya cambiado su posición. A esta forma de transporte de la energía se le llama conducción.
+
+En general, todos los metales son buenos conductores de la energía térmica, o sea, del calor. Existen, sin embargo, otros materiales, como la mayoría de los plásticos, que son malos conductores del calor o no lo conducen prácticamente. A éstos se les llama cuerpos o materiales aislantes. La existencia de estos materiales es muy importante para la vida diaria y para el ahorro de la energía, como veremos.
+
+En efecto, los combustibles y otras fuentes de energía que se utilizan para producir calor son muy caros y además cada vez son más escasos. Por eso se recomienda ahorro permanente de estas fuentes. Uno de los procedimientos que se usan para atender esta recomendación y a la vez para disminuir los gastos que ocasiona es utilizar materiales aislantes que prevengan la pérdida innecesaria de energía.
+
+Los materiales aislantes que se usan para este propósito, como fibras, plásticos y otros, tienen una cosa en común: no son compactos y tienen, por el contrario, espacios muchas veces grandes y visibles que se llenan de aire. Tanto el material como el aire que llena los espacios son malos conductores del calor.
+
+La naturaleza, desde hace millones de años, ha utilizado materiales aislantes, plumas, lana, cabello, pelo, para que algunos organismos como los animales ahorren la energía que producen y mantengan una temperatura constante.
+
+### Actividad 2. Análisis y comparación
+
+Observemos cuerpos buenos y malos conductores del calor leyendo atentamente y bajo la supervisión de un adulto o de nuestro profesor.
+
+#### Materiales
+
+Varillas de cobre, hierro, aluminio, cera, mechero, cucharas de plástico y metálicas, recipiente de vidrio, frascos de vidrio, piel de animal, plumas.
+
+#### Procedimiento
+
+Algunos metales son mejores conductores del calor que otros. Esto puede observarse por la velocidad con que lo conducen.
+
+a. Recubramos dos varillas, una de cobre y otra de hierro, con cera fundida y luego dejémoslas secar. Pongamos exactamente al mismo tiempo los dos extremos de las varillas en la llama de un mechero. Observemos la velocidad con que se funde (se vuelve líquida) la cera que recubre las dos varillas. ¿En cuál de las varillas la cera se funde con mayor rapidez, es decir, en menor tiempo? ¿Cuál de los dos metales es mejor conductor del calor?
+
+Hagamos el ensayo con una barra de aluminio, si es posible.
+
+¿Cuál de esos materiales utilizaríamos para fabricar una plancha? ¿Por qué?
+
+b. Utilicemos dos cucharas, una de plástico y otra metálica. Sumerjamos el extremo ancho de ellas en un recipiente con agua. Luego sujeta el recipiente y agrégale agua caliente y sujeta el extremo de cada cuchara con los dedos y siente si hubo sensación térmica. ¿Por qué es más eficiente cocinar con algunos materiales como las cacerolas de metal que con las que están hechas en barro o cerámica?
+
+c. Recubramos un frasco de vidrio (A) con piel de animal ya procesada, otro (B) con algodón, otro (C) con plumas y otro (D) no lo recubramos. Llene los recipientes con agua bien caliente cercana a estos y tapémoslos muy bien con un corcho en el que tenga dispuesto un termómetro.
+
+Escribamos la temperatura inicial del agua en cada recipiente. Midamos cada dos minutos la temperatura nuevamente y anotémosla para cada recipiente hasta completar 20 minutos. ¿En qué recipiente la temperatura bajó menos? ¿A qué se debe que cambie la temperatura? ¿Qué recipiente cambió su temperatura con mayor velocidad? ¿Por qué? Comentemos acerca de la capacidad aislante de cada uno de los materiales utilizados.
+
+### Otras formas de transporte del calor
+
+Otra de las formas en que viaja el calor la observamos cuando se calienta un recipiente que contiene un líquido, por ejemplo agua. Cuando el líquido está frío, las moléculas del líquido están en movimiento. A medida que se calienta el líquido en el fondo del recipiente, las moléculas reciben energía, lo cual hace que sus movimientos sean más rápidos y la distancia entre las partículas, moléculas del agua, también cada vez es más grande. Esto se observa mejor si al agua le agregamos una sustancia coloreada soluble que inicialmente se coloca en el fondo. Las partículas coloreadas se mueven hacia la superficie y se supone que así lo hacen las moléculas de agua que contienen más energía.
+
+En este caso se han transportado las moléculas de agua del fondo a la superficie y con ellas la energía. Así, la energía o el calor se transporta junto con las moléculas de agua, o sea que ha habido un transporte de masa junto con el transporte de calor. A esta forma de transportarse el calor se le denomina convección.
+
+De la misma forma que los líquidos transportan el calor por convección, lo hacen también los gases. El aire es un mal conductor del calor, pero transporta muy bien el calor por convección. Imaginemos un día soleado en una playa cuando la brisa toca nuestra piel o la sensación de calor que experimentamos cuando entramos en un cuarto donde hayan colocado un calentador.
+
+Otra forma de energía es la energía radiante. Ésta se conduce por medio de ondas, algunas de ellas invisibles, como las que transportan los rayos infrarrojos del Sol, que movilizan energía térmica o calor. Esta forma de transporte del calor por medio de ondas se llama radiación. La energía térmica del Sol llega a nosotros por ondas infrarrojas, atravesando el espacio vacío; estas ondas recorren 150 millones de kilómetros, que es la distancia aproximada del Sol a la Tierra, en sólo ocho minutos y veinte segundos. Este tipo de transporte del calor no requiere un medio físico como las otras dos formas vistas anteriormente.
+
+Una característica importante de los rayos calóricos o infrarrojos que provienen del Sol es que son muy penetrantes y, por ejemplo, pasan a través de los paneles de vidrio de los invernaderos. Esta radiación calienta las plantas y el suelo dentro del invernadero y parte de ella se refleja nuevamente hacia los vidrios. Pero como estos rayos ya provienen del suelo y de las plantas que están a menor temperatura que su fuente -el Sol-, no son capaces de atravesar en el sentido contrario el vidrio y se quedan atrapados en el invernadero. Los invernaderos son, de alguna forma, trampas que almacenan el calor del Sol; por eso mantienen una temperatura superior a la del ambiente externo a ellos.
+
+### Lectura sugerida: Contaminación térmica
+
+Cualquiera que sea la forma inicial de la energía, ésta termina transformándose en energía térmica, la cual debe ser absorbida por el ambiente. La creciente construcción de fábricas y plantas industriales adiciona al ambiente cada vez más energía térmica, de tal forma que el balance energético de la naturaleza puede estar siendo alterado. El efecto que pueda tener esta alteración es lo que se ha denominado contaminación térmica.
+
+Las fuentes más conocidas de contaminación térmica son las plantas que generan electricidad por combustión de carbón o de combustibles derivados del petróleo o las plantas nucleares que al liberar la energía contenida en los núcleos atómicos de algunos elementos, producen una gran cantidad de calor. El problema es que ninguna máquina por perfecta que sea es capaz de transformar el calor producido en estas plantas en electricidad u otras formas de energía, pues se considera que aproximadamente 50% del calor producido se disipa en el ambiente. Además, la energía eléctrica producida sí puede, nuevamente, transformarse totalmente en calor, cuando se usa en aparatos domésticos o en las industrias que requieren esa energía.
+
+De esta situación surgen dos problemas, de los cuales ya estamos sufriendo las consecuencias. Primero, las zonas vecinas a las plantas o industrias generadoras de la energía térmica la absorben a través de ríos, lagos o las bahías en las costas de los mares; como resultado, el agua aumenta su temperatura significativamente y muchos peces o especies acuáticas, animales y vegetales ven alterado su medio de vida. La contaminación térmica altera la relación entre los organismos y el ambiente, desequilibrando el balan-ce ecológico de la zona. Por esta razón es necesario que, antes de instalar plantas industriales en una región determinada, se estudie el impacto ecológico que pueda tener y así prever soluciones que puedan superarlo.
+
+El segundo tipo de problema es más general, ya que finalmente toda la energía térmica que se disipa va a ser absorbida por la superficie de la Tierra o por la atmósfera. Esto causa y está causando variaciones del clima mundial con las consecuencias que ya están sintiéndose y las que se pueden prever en el futuro.
+
+El exceso de calor produce contaminación, evitemos tales efectos.
+
+## Conservación y transformación de la energía
+
+Sabemos ya que los fenómenos que ocurren a nuestro alrededor son en la mayoría de los casos manifestaciones de las diferentes formas en que se presenta la energía. También sabemos que esas formas de energía pueden transformarse unas en otras. Uno de estos cambios tiene que ver con la vida cotidiana: la energía química que se deriva de los alimentos se transforma, después de que éstos son asimilados en el organismo, en energía de movimiento, mecánica y en calor.
+
+Una de las transformaciones de la energía de importancia en la historia de la ciencia es la que ocurre cuando frotamos un cuerpo con otro: los cuerpos se calientan. Esto se debe a que parte de la energía mecánica que produce el movimiento de estos cuerpos se transforma en calor. Este hecho, sin embargo, sólo fue formulado científicamente hasta mediados del siglo XIX por el físico inglés Joule.
+
+*Imagen 43. Transformación de la energía*
+
+Descripción de la Imagen 43. Transformación de la energía. Una cubeta con agua contiene un tubo con aspas que gira mientras una masa cae sujetada por una polea.
+
+En su experimento, Joule introdujo en una cubeta llena de agua un eje con paletas que podían girar mediante un sistema de poleas y pesas que caen a una distancia determinada. Cuando las paletas dejaron de girar comprobó que la temperatura del agua había aumentado.
+
+Una explicación de este hecho sólo podía darse considerando los diferentes cambios de energía que se producen en el proceso: cuando cae la pesa, la energía potencial, en razón de su posición elevada, se manifiesta en forma de energía cinética o de movimiento. La energía cinética, a su vez, se transforma en trabajo necesario para mover las paletas y, finalmente, parte del trabajo se transforma en energía térmica, que es lo que explica que la temperatura del agua se eleve.
+
+Joule, además, comprobó que con una cantidad de energía igual a un julio siempre se obtiene una cantidad de energía térmica o calórica igual a 0,24 cal. De aquí resulta que una caloría es igual a 4,18 julios. Este número: 4,18, por consiguiente, permite transformar cuantitativamente unidades de energía térmica o calor en unidades de energía mecánica y portal razón se conoce como el equivalente mecánico del calor.
+
+### Las máquinas térmicas
+
+La energía térmica y, por consiguiente, el calor se transforman en energía mecánica. Este es un hecho que observamos de manera permanente en la vida diaria; por ejemplo, cuando calentamos un recipiente con agua y tapado, después de un tiempo de calentamiento, la tapa se mueve, y si la tapa o el tapón están ajustados llega un momento en que salta despedido con fuerza. En esta situación, la energía térmica se transforma en energía mecánica, que es la responsable de que el tapón salte (ejemplo, la olla, una máquina térmica).
+
+Esta propiedad ha sido aprovechada desde hace mucho tiempo para construir máquinas que produzcan trabajo o energía mecánica eficientemente, a partir del calor generado por combustibles. La máquina de vapor es un ejemplo. En ésta, la combustión del carbón libera la energía química en forma de energía térmica que calienta el agua de una caldera transformándose en vapor. El vapor, que consta de partículas con energía cinética debido a su temperatura, presiona ciertas piezas de la máquina que la ponen en movimiento.
+
+Dato curioso: Una máquina capaz de transformar la energía térmica en energía mecánica u otras formas de energía es una máquina térmica.
+
+### Otros cambios de energía
+
+Para observar transformaciones de energía no se requieren máquinas térmicas. Muchos fenómenos de la vida diaria lo confirman. Por ejemplo, cuando se le da cuerda a un carrito de juguete, ¿qué energía se le suministra?
+
+- Energía de movimiento o cinética.
+
+- ¿Dónde se transfiere en forma de energía potencial?
+
+- En el resorte.
+
+- ¿En qué forma se libera la energía?
+
+- En energía de movimiento o cinética.
+
+Y pueden surgir otras preguntas, si pensamos: ¿de dónde procede la energía que se le suministró al carrito al darle cuerda?
+
+- De la energía química que se deriva de los alimentos y ésta a su vez proviene de la energía del Sol que en forma de energía radiante, luz y calor llega hasta nosotros. Un esquema de esta cadena de transformaciones se puede presentar como sigue para un carro de juguete de cuerda:
+
+Calor, luz (sol) energía química (alimentos) energía de movimiento (dando cuerda) energía potencial (resorte)
+
+### Actividad 3. Experimentación
+
+Experimentemos con cambios de energía calor leyendo atentamente y bajo la supervisión de un adulto o de nuestro profesor.
+
+#### Materiales
+
+Batería (pila), bombilla, roseta, interruptor, cerillos, papel aluminio.
+
+#### Procedimiento
+
+En cada una de las actividades que se proponen, debemos determinar el cambio o los cambios de energía producidos y luego representarlos en una cadena como la realizada para el carro de cuerda.
+
+1. Seleccionemos una superficie lisa, por ejemplo, la superficie de madera del pupitre. Deslicemos el dedo índice hacia adelante y luego hacia atrás continuamente durante unos segundos. Los músculos del brazo han suministrado energía de movimiento. ¿Qué otra energía aparece en esta actividad? El dedo se calienta. ¿A qué se debe? A veces el frotamiento produce también un sonido. ¿Es ésta también una forma de energía? Si lo es, ¿de qué clase? ¿Por qué?
+
+El frotamiento de una superficie con otra, como lo que acabamos de hacer, se llama fricción. Recordemos que la fricción es una fuerza que se opone al movimiento de un cuerpo sobre otro.
+
+*Imagen 44. Transporte de corriente eléctrica*
+
+Descripción de la Imagen 44. Transporte de corriente eléctrica. Una batería está conectada a un bombillo por medio de una roseta por una terminal. El otro extremo de la roseta está conectado a un interruptor que a su vez está conectado a la otra terminal de la batería.
+
+2. Conectemos una batería a un interruptor y éste con una roseta donde esté un bombillo, tal como se muestra en la Imagen 44. ¿Qué ocurre cuando activamos el interruptor? ¿De dónde proviene la energía que enciende el bombillo? ¿Se produce energía térmica también? ¿Cómo se explica?
+
+Las baterías o las pilas secas como las usadas en la actividad contienen sustancias químicas. Cuando éstas se combinan liberan la energía disponible y la convierten en electricidad; una corriente eléctrica se transporta por los alambres o conductores, y se transforma en luz y calor. Las pilas, sin embargo, no son los únicos aparatos que suministran energía eléctrica; hay otros aparatos que la producen, cuyo funcionamiento comprenderemos muy pronto.
+
+3. Envolvamos fuertemente la cabeza de una cerilla con papel de aluminio. Pongamos la cerilla sobre el borde de una superficie metálica, por ejemplo, un trípode de laboratorio, de tal forma que la cabeza cubierta quede libre. Calentemos la cabeza de la cerilla suavemente y mantengámosla alejada, sobre todo de la cara. ¿Qué ocurre? Reflexionemos sobre el fenómeno observado y tratemos de explicarlo mediante transformaciones de energía. ¿Qué clases de energía participaron? Elaboremos la cadena energética correspondiente, si la hay.
+
+*Imagen 45. Planta hidroeléctrica*
+
+Descripción de la Imagen 45. Planta hidroeléctrica. Una represa construida entre grandes montañas está por encima de una planta hidroeléctrica y se conectan por medio de una gran tubería. De la planta hidroeléctrica salen cables que se conectan a grandes torres que llegan a un transformador. Desde el transformador salen conexiones a las viviendas para brindar energía eléctrica.
+
+4. La Imagen 45 muestra un esquema de una planta hidroeléctrica. El agua viene de una represa en lo alto de una montaña y se transporta de allí por una tubería de gran diámetro. Al llegar a la planta o estación, el agua mueve grandes turbinas conectadas a generadores de electricidad. La electricidad producida se transporta por cables (conductores) sostenidos por grandes torres metálicas a lo largo del recorrido hasta la ciudad, donde se aprovecha en los hogares y fábricas.
+
+¿Qué tipos de energía participan en este sistema de suministro de energía eléctrica? ¿Qué transformaciones ocurren y en qué elemento del sistema? Establezcamos, como se sugirió al principio, la cadena de transformación energética que ocurre.
+
+### La conservación de la energía
+
+La energía se manifiesta de varias formas y, asimismo, éstas se transforman unas en otras. Durante muchos años se ha experimentado para determinar la cantidad de una energía que se puede obtener de otra y el resultado ha sido siempre el mismo: la cantidad de energía siempre es la misma. Puede suceder que una forma de energía se transforme simultáneamente en otras formas, como se observa cuando la electricidad se transforma en luz en el bombillo, pero también produce calor. Sin embargo, la cantidad total de energía no cambia. La energía puede cambiar en la forma pero no de cantidad.
+
+Además, la energía no aparece espontáneamente, es decir, no sale de la nada. Siempre que una forma de energía se manifiesta, se encuentra el origen de ella. Esto que parece cumplirse en todo el universo conocido, los científicos y las científicas lo han reunido en una expresión que es llamada ley de la conservación de la energía:
+
+La energía no puede ser creada ni destruida. Cuando una forma de energía cambia a otras, la cantidad total de energía se conserva.
+
+Esta es una de las leyes más importantes construidas por los científicos y las científicas. Se considera válida porque hasta ahora todo intento de probar que es falsa ha fracasado.
+
+### La energía y los seres vivos
+
+Los seres vivos necesitan energía para vivir. Nosotros necesitamos permanentemente energía para realizar nuestras actividades. Realizamos toda clase de movimientos, aun cuando estemos dormidos. Respiramos, para lo cual es necesario que los pulmones tomen aire y luego expulsen los gases residuales. Para hacerlo se requieren movimientos de expansión y contracción de la caja torácica. El corazón está en continuo movimiento para bombear la sangre que circula por todo el organismo. Durante el día caminamos, movemos los brazos, pensamos. Todo eso requiere energía. ¿De dónde obtenemos la energía que necesitamos?
+
+Para eso ingerimos los alimentos. Éstos son de origen vegetal (pan, papa, frutas, cereales) y de origen animal (carnes, leche, huevos). Podríamos vivir sin carros, televisión aviones y todas las invenciones y comodidades que nos proporcionan la ciencia y la tecnología, pero de ninguna manera sin plantas ni animales. Si recordamos que las plantas no pueden crecer sin la energía (luz) del Sol, estamos diciendo que toda la energía que necesitamos depende también del Sol.
+
+Los comestibles tienen tres clases de alimento en diferentes cantidades: hidratos de carbono, grasas y proteínas. Pero es de los dos primeros que obtenemos la mayor parte de la energía que requerimos. Los carbohidratos incluyen azúcares, almidonados de diferentes clases y formas. Todos provienen de las plantas. Las grasas provienen también de las plantas en forma de aceites y principalmente de productos animales. Cuando el organismo humano o animal no consume toda la energía que se ingiere en los hidratos de carbono, éstos se transforman en grasas que se almacenan en diferentes partes del cuerpo y pueden usarse cuando falta alimento. Una muestra de ello se observa cuando estamos enfermos y perdemos el apetito. Experimentamos bajo peso o, como se dice, adelgazamos.
+
+### Actividad 4. Comprobación
+
+Comparemos las diferentes cantidades de energía contenida en algunos alimentos leyendo atentamente y bajo la supervisión de un adulto o de nuestro profesor.
+
+#### Materiales
+
+Diferentes alimentos: queso, mantequilla, diversos cereales, maní, carne seca, etcétera; agua, tubo de ensayo.
+
+La energía en los alimentos puede apreciarse en forma aproximada por combustión de diferentes clases de alimentos. Para hacer la comparación es absolutamente necesario que se use la misma cantidad (peso) de cada alimento y que la combustión se haga en las mismas condiciones en cada caso.
+
+Procedimiento
+
+1. Para realizar la medición ensamblemos el aparato que se sugiere en la Imagen 46, o uno semejante según la disponibilidad de material. Dispongamos de cantidades iguales (0,5 gramos) de diferentes alimentos: queso, mantequilla, diversos cereales, maní, carne seca, etcétera, y 10 ml de agua en el tubo de ensayo.
+
+*Imagen 46. Energía contenida en diferentes alimentos*
+
+Descripción de la Imagen 46. Energía contenida en diferentes alimentos. Con ayuda de una base universal un brazo sostiene una canasta metálica y otro un tubo de ensayo con agua. La canasta con el alimento es puesta encima de un mechero, y encima de la canasta se coloca el tubo sujetado por el brazo.
+
+2. Midamos la temperatura inicial del agua en el tubo de ensayo y orientemos la posición de éste de tal forma que esté alejado de la pinza que sujeta el recipiente de alambre que deberá contener la muestra de los alimentos.
+
+3. Calentemos el recipiente que contiene la muestra de alimento (cada vez 0,5 gramos) hasta que esté la llama viva. Retiremos entonces el mechero, de tal forma que caliente directamente el tubo de ensayo que contiene los 10 ml de agua. Registremos la mayor temperatura que se obtenga en el agua.
+
+4. Repitamos el experimento con todas las muestras de alimento seleccionado y consignemos los resultados parciales en una tabla como la que aparece abajo.
+
+*Tabla 2. Los alimentos y tu energía*
+
+| Alimento (0,5 g) | Temperatura inicial | Temperatura final | Cambio de temperatura |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+El cambio de temperatura en la misma cantidad de agua dará una idea aproximada de la cantidad de energía emitida por el alimento durante la combustión. Es aproximada por-que una parte de la energía se gasta en cancelar el aire circundante, pero esta parte de energía, a su vez, es la misma para todos los alimentos, si el experimento se lleva a cabo en las mismas condiciones.
+
+Hagamos una lista de los alimentos en orden creciente de mayor energía producida. ¿Cuál alimento produce la mayor cantidad de energía? ¿Cuál la menor cantidad? ¿Qué clase de alimentos son más energéticos: las grasas, las proteínas, los hidratos de carbono? ¿De qué forma suponemos que estos alimentos tenían almacenada la energía que emitieron? ¿Cómo se explica esto?
+
+Los anteriores resultados nos ayudan a comprender cómo el cuerpo humano deriva la energía de sus alimentos: ¿por combustión? ¿Cómo se manifiesta esto ya que no se pro-duce llama? ¿Es ésta una clase diferente de combustión? Si no tenemos una respuesta segura para esto, consultemos en la biblioteca orientados por nuestro(a) profesor o profesora.
+
+## ¿De dónde proviene la energía?
+
+Nadie sabe exactamente de dónde proviene la energía del universo. Pero lo que sí sabemos es que la energía de la que hoy disponemos en la Tierra proviene del Sol. La Tierra, como se sabe, se formó hace miles de millones de años y desde entonces en ella han sucedido muchos cambios.
+
+Es probable que en el lejano pasado, varios millones de años atrás, el sitio en donde ahora nos encontramos estuviera cubierto por las aguas de un océano, luego pudo convertirse en un desierto de arena o quizá ser cubierto por la lava procedente de un volcán, o convertirse en un pantano o muy probablemente estar cubierto por una capa muy gruesa de hielo como la que cubre los polos en la actualidad. Durante todo este tiempo, sin embargo, el Sol, sin ninguna interrupción, permaneció alumbrando nuestro planeta y suministrando energía, como ya hemos visto, en forma de energía radiante. Los científicos y las científicas calculan que el Sol continuará suministrando energía por varios miles de millones de años.
+
+Uno de los efectos de la energía proveniente del Sol en forma de luz y calor ocurrió hace cerca de 250 millones de años: grandes y densas selvas tropicales crecieron en muchas partes de la Tierra, donde ahora ya no pueden crecer, porque están cubiertas de hielo en los polos o por el agua de los mares u otros fenómenos de la Tierra. Los restos de las selvas y de los animales que se alimentaron de ellas durante millones de años quedaron enterrados a diferentes profundidades, soportando grandes presiones debido al peso de las capas de materiales que los cubren, formando, entre otros productos, el carbón y el petróleo que hoy utilizamos como combustibles. Cuando hacemos combustionar carbón o derivados del petróleo, la energía que se produce es energía proveniente del Sol que se absorbió hace millones de años.
+
+### Las fuentes más comunes de energía
+
+Noventa y cinco por ciento de la energía que utilizamos para que funcionen las fábricas, nos suministre luz, calor y electricidad y para proveer medios de transporte y tantos otros usos que exigen las comodidades de la vida moderna, es obtenida de los llamados combustibles fósiles: carbón, petróleo y gas natural.
+
+El petróleo, el carbón y el gas natural tienen en común que provienen de los restos de organismos vivientes vegetales y animales, como ya se anotó. Por eso se llaman comúnmente combustibles fósiles. Su formación tomó millones de años y ahora los estamos gastando muy rápidamente; una vez consumidos, éstos ya no se pueden renovar, pues deben pasar otros varios millones de años para que se vuelvan a formar; por eso se llaman fuentes de energía no renovables.
+
+En el pasado y probablemente ahora en algunos lugares se utilizan leña seca y carbón de madera como combustibles. Éstos se obtienen de cortar árboles. A pesar de que este uso pudo o puede causar efectos sobre el ambiente, los árboles pueden volverse a sembrar y crecen en pocos años. También se ha usado y se sigue usando el agua en las re-, presas y el viento (molinos de viento) como fuentes de energía. El viento no se agota; y el agua, si se tiene cuidado, también puede volverse a recuperar. Son fuentes de energía renovables.
+
+El carbón se usa para producir electricidad. Cuando el carbón combustiona produce calor que vaporiza agua. El vapor del agua suministra la energía mecánica suficiente para mover turbinas, las cuales, unidas a generadores, producen electricidad. Del carbón también se obtiene la materia prima, el coque, que sirve de combustible para transformar el mineral de hierro en hierro y acero. Se obtiene también el gas de carbón por destilación, que se usa como combustible.
+
+No obstante, el carbón tiene algunos inconvenientes para su uso. El principal problema es que contamina el ambiente. Cuando el carbón combustiona se producen humos y cenizas que contienen sustancias nocivas. No existen por ahora formas eficientes y económicas de evitar la contaminación. Los sistemas de extracción del carbón de las minas también afectan el ambiente, pues cuando no se halla en la superficie, su extracción requiere la remoción de grandes cantidades de suelo quedando el terreno expuesto a daños irreparables.
+
+El petróleo es quizá el combustible fósil más usado. Suministra aproximadamente 50% de la energía que se usa en el mundo. El principal producto derivado del petróleo es la gasolina, utilizada para impulsar los motores de autos, tractores y aviones. También es la fuente del fueloil, un combustible que se emplea para producir calor y electricidad, aceites y otros derivados de uso extensivo en la industria.
+
+El petróleo, como el carbón, tiene inconvenientes para su uso, pues su combustión y la de sus derivados causan contaminación ambiental. Además, cuando se perfora el fondo del océano para su búsqueda, en el proceso se pueden derramar cantidades significativas que contaminan las aguas de los mares en donde habitan millones de especies animales y vegetales. Lo mismo ocurre, tal vez con más peligrosidad, cuando los grandes barcos transportadores de petróleo y sus derivados tienen accidentes.
+
+Cuando los derivados del petróleo combustionan producen gases que contaminan el aire. La combustión de la gasolina en los motores de explosión de los automotores es quizá la mayor fuente de contaminación del aire. Adicionalmente, de acuerdo con los datos obtenidos sobre el uso de estos combustibles, parece que en el mundo estamos gastando más de estos derivados del petróleo de los que estamos en capacidad de producir. Si seguimos consumiendo estos combustibles a la velocidad que ahora lo hacemos, antes de cincuenta años tendríamos escasez de ellos.
+
+El gas natural se usa como combustible fundamentalmente para usos domésticos, así como también en la industria en remplazo de derivados del petróleo y del carbón. El gas natural tiene la ventaja de ser el menos contaminante de los combustibles fósiles. No produce apreciable contaminación del aire. Por eso es muy utilizado en la actualidad. Uno de los problemas que aparecen es que las fuentes de este recurso son muy escasas y, a pesar de que se sigue explorando para encontrar nuevos yacimientos, todavía no se ha encontrado suficiente cantidad para asegurar el suministro abundante en el futuro.
+
+### Actividad 5. Observación y análisis
+
+Observemos los combustibles y reflexionemos acerca de éstos leyendo atentamente y bajo la supervisión de un adulto o de nuestro profesor.
+
+#### Materiales
+
+Papel de aluminio, alambre, plastilina, platos plásticos, velas, carbón mineral.
+
+#### Procedimiento
+
+1. Hagamos una lista de los recursos naturales que se usan en nuestra región. Recordemos que los recursos naturales son aquellos que se encuentran en él ambiente que nos rodea. Realicemos luego una clasificación de los recursos en renovables y no renovables. ¿Cuáles de ellos son abundantes y cuáles están en peligro de desaparecer? Indaguemos sobre lo que se está haciendo para asegurar el suministro de estos recursos en el futuro. ¿Qué sugerencias podemos hacer para que esto suceda? Diseñemos algunos procedimientos que pudieran utilizarse.
+
+2. Observemos cómo la energía de la parafina, un derivado del petróleo, se puede usar para producir trabajo.
+
+a. Usemos papel de aluminio y construyamos una turbina como se muestra en el esquema (véase la Imagen 47). Sostengamos la turbina en un alambre grueso puesto verticalmente sobre un poco de plastilina.
+
+*Imagen 47. Transformación de energía en trabajo*
+
+Descripción de la Imagen 47. Transformación de energía en trabajo. Papel de aluminio en forma circular con 8 divisiones sin cortar. Una punta de esfero. Una turbina, que es el papel aluminio cortado hasta casi el centro por las divisiones. Un clip. La turbina es puesta sobre la mina de esfero sobre una base con ayuda de plastilina. Una olla con agua expulsando el vapor se dirige a la turbina para hacerla girar.
+
+b. Pongamos la turbina en el centro de un plato plástico y alrededor de ella cuatro pedazos de vela, de tal forma que al encenderlas calienten la turbina por debajo, como se muestra en la Imagen 48. ¿Qué ocurre? ¿Qué transformaciones de energía se han producido? Consultemos lo que es una máquina de combustión interna. ¿El efecto producido por el calor de las velas es semejante a esa máquina? ¿La parafina es un combustible? ¿Por qué?
+
+*Imagen 48. Transformación de energía térmica en trabajo*
+
+Descripción de la Imagen 48. Transformación de energía térmica en trabajo. La turbina con la mina de esfero con una base de plastilina sobre un plato cubierto de aluminio. Debajo de la turbina hay 4 velas encendidas que hacen mover la turbina.
+
+3. Obtengamos gas de carbón y observemos su propiedad combustible.
+
+a. Ensamblemos el aparato que se muestra en la Imagen 49, con el material apropiado. El profesor o la profesora puede sugerir cambios al diseño y el uso de otros materiales que pueden no ser los mismos que se sugieren.
+
+b. Pongamos las sustancias, carbón mineral previamente pulverizado y agua pura, en los recipientes correspondientes.
+
+c. Calentemos lentamente el carbón pulverizado. Simultáneamente, arrimemos una llama al extremo del tubo marcado A. ¿Qué pasa? ¿Qué sale por el tubo A? ¿Qué ocurrió para que esto suceda? A este proceso se le llama destilación no destructiva del carbón (Véase Imagen 49)
+
+*Imagen 49. Obtención de gas de carbón*
+
+Descripción de la Imagen 49. Obtención de gas de carbón. Un tubo de ensayo contiene carbón y es puesto a una fuente de calor. El tubo está cerrado con un corcho que permite la entrada de un tubo que conecta con otro tubo de ensayo que contiene agua. Este tubo también está cerrado con un corcho que permite la salida del tubo que conecta al que tiene carbón y de otro tubo A.
+
+d. Calentemos el tubo que contiene carbón pulverizado con una llama muy fuerte hasta que todo se consuma. Desconectemos los tubos del aparato y dejemos enfriar. Observemos y olamos cuidadosamente lo que ha quedado en el agua del tubo que la contenía. ¿Hubo cambios? ¿Qué sucedió? Saquemos nuestras propias conclusiones y comparémoslas con las de otros compañeros y compañeras. Si por alguna razón no tenemos muy claro lo que pasó, indaguemos sobre lo que es la destilación no destructiva del carbón y cuáles son los productos resultantes de ese proceso. Intentemos nuevamente hacer la suposición que se sugirió anteriormente y nuevamente discutamos con el profesor o la profesora y los compañeros o compañeras, las conclusiones.
+
+e. Examinemos luego el tubo que contenía el carbón pulverizado. ¿Los residuos sobrantes son iguales al carbón pulverizado inicial? ¿Aún combustiona? Ensayemos. ¿Puede usarse este producto también como combustible?
+
+En este punto, probablemente, ya sabemos que este residuo es lo que se denomina coque, un combustible especial que tiene usos muy importantes. Averigüemos para qué se usa y hagamos un listado de sus usos.
+
+### Otras fuentes de energía
+
+A medida que se tuvo conciencia de que los combustibles podían agotarse, los científicos y las científicas y otro grupo de personas comenzaron a buscar nuevas fuentes de energía o a perfeccionar procedimientos de obtención de energía que se habían usado en el pasado, pero que se habían abandonado.
+
+Una de esas nuevas fuentes fue la denominada energía nuclear. Nuclear se refiere al núcleo del átomo. Cuando algunos núcleos de átomos muy grandes se rompen, una gran cantidad de energía se libera en forma de calor. Este calor puede usarse luego para producir vapor de agua y éste, a su vez, para movilizar turbinas que conectadas a generadores o dínamos producen energía eléctrica. Actualmente, sobre todo en los países desarrollados en industria, una de las fuentes de energía es la nuclear.
+
+La producción de la energía nuclear también tiene sus inconvenientes. Deja residuos materiales que emiten radiaciones que se conocen como radiactividad. Ésta es nociva para todas las especies vivientes. Esta radiación tiene otro problema: dura muchos años; algunos residuos pueden seguir emitiendo esta radiación por miles de años. ¿Qué hacer con este material? ¿Dónde guardarlo? Esto es parte de los problemas de nuestro tiempo.
+
+### Energía para el futuro
+
+Hacia 1970, la gente se dio cuenta de que en los últimos treinta años habíamos gastado más energía que en toda la historia de la humanidad. Y seguimos gastando tanto o más que en esos treinta años. ¿Qué significa esto para el futuro? Primero: hay necesidad de seguir buscando nuevas fuentes alternativas de energía. Segundo: debemos ahorrar al máximo la energía y todos los recursos naturales de que hoy disponemos.
+
+El Sol es la fuente más importante de energía de la Tierra. ¿Por qué no hacer uso de la energía solar directamente? Una de las formas que se encontró para hacerlo fue mediante la construcción de lo que ahora se llama colectores solares. Éstos son fabricados con metales y aleaciones especiales a los que se pinta de negro, así como la tubería que está conectada a ellos. El agua que circula por la tubería se calienta directamente con la energía del Sol; esta agua se usa para calentadores, lavadoras, duchas de baño y muchos otros usos domésticos e industriales. En colectores solares industriales muy eficientes, el agua se calienta de tal forma que genera vapor de agua. El vapor luego se puede usar para mover turbinas conectadas a generadores de energía eléctrica.
+
+La energía directa del Sol se aprovecha en las naves espaciales mediante celdas solares. Éstas transforman directamente la energía del Sol en electricidad. Algunos de estos adelantos tecnológicos ya están utilizándose para suministrar energía a casas y aparatos como baterías solares para carros. Las dificultades técnicas que se tienen que vencer aún y los costos de estos extraordinarios recolectores de energía todavía no permiten un uso más amplio y popular. Puede ser, sin embargo, una alternativa en el futuro.
+
+La energía del interior de la Tierra también puede ser aprovechada. Todos sabemos que el interior de la Tierra está a altísimas temperaturas y que genera gran cantidad de energía térmica y calor. Ésta se manifiesta en los volcanes y en lugares donde afloran aguas llamadas termales a veces a altas temperaturas y en forma de vapor de agua. Esta energía se puede aprovechar y se llama energía geotérmica. Para ello se han abierto hoyos muy profundos, de donde se saca mediante tuberías el vapor de agua, para mover turbinas que producen electricidad. Esta energía es costosa y solamente en algunas regiones de la Tierra se puede extraer.
+
+Se puede obtener energía del mar aprovechando las mareas. Durante las mareas altas, en las que el nivel del agua del mar sube, el agua puede atraparse en una represa, que luego se hace bajar a gran velocidad para mover turbinas y producir energía.
+
+Tiene el inconveniente de que las mareas sólo duran unas pocas horas y así el flujo de agua no es constante y sólo se puede usar en ciertos lugares en el mundo. Sin embargo, actualmente se han construido represas de este tipo como la que funciona en Ranee River, en Francia.
+
+La energía del viento o energía eólica ha sido fuente de energía desde hace siglos, en las naves a vela y en los molinos, en los cuales genera energía mecánica. En varios países se han construido grandes turbinas que aprovechan la energía del viento para generar electricidad.
+
+Muchas personas están pensando que la basura, esa gran cantidad de desperdicios que se producen día tras día en las ciudades, puede ser aprovechada para generar energía. En efecto, gran parte de la basura son residuos de materiales orgánicos de los que se puede derivar energía que puede ser liberada por combustión y ser aprovechada para producir calor y electricidad.
+
+De lo anterior se concluye que debemos trabajar para no agotar las fuentes de energía disponibles actualmente. Como no podemos dejar de utilizar los recursos energéticos, lo que conviene es usarlos de la manera más racional, a fin de preservarlos.
+
+Las formas más comunes de recortar el gasto de energía ha sido reducir el calentamiento en los hogares, disminuir el alumbrado y apagar los aparatos eléctricos cuando no se encuentran en uso. Esto ayuda pero no es la solución.
+
+Una de las principales causas del consumo de las fuentes de energía, sobre todo de los combustibles fósiles, es el uso del auto. Aproximadamente, 75% del combustible utilizado en la mayoría de los autos se pierde. Para solucionar en parte este desperdicio de combustibles se ha recomendado usar autos pequeños, diseñar mejores motores y propiciar el uso del transporte colectivo. Todo esto está implementándose en el mundo. Los combustibles, sin embargo, cada vez se usan en mayor cantidad.
+
+Otra forma de ahorrar energía es el reciclaje. Utilizar los sobrantes y desperdicios puede ayudar a ahorrar fuentes naturales de energía. No obstante, una de las más seguras y probablemente la que podría frenar el desperdicio peligroso de las fuentes de energía es la creación de una nueva actitud de los habitantes del planeta frente al uso de ellas. Mientras no creemos la conciencia de que el uso de las fuentes naturales de energía tiene sus límites y que excedernos en el gasto y desperdicio de éstas es un riesgo peligroso para la humanidad, no estaremos en condiciones de asegurar recursos para el bienestar a que tienen derecho las futuras generaciones.
+
+Los usos de la energía y sus efectos en el ambiente
+
+El mundo moderno depende irremediablemente de la producción de grandes cantidades de energía. Una pequeña cantidad de ésta se deriva directamente de la naturaleza por medio de represas, caídas de agua, olas y aprovechando directamente la energía del Sol. La mayor parte de la energía, sin embargo, se deriva de procesos más elaborados, generalmente de la combustión de materiales como carbón mineral, petróleo y sus derivados. En otras palabras, la energía depende de los combustibles fósiles, que una vez utilizados ya no se pueden recuperar.
+
+Uno de los mayores problemas en los que se debe pensar es que estos combustibles no están disponibles para siempre, tienen un límite en que pueden agotarse. Por otra parte, no se sabe exactamente cómo se incrementará la velocidad del consumo de estos combustibles en el futuro ni tampoco se conoce con certeza la cantidad de reservas que existen en la naturaleza. ¿Tendremos combustibles fósiles para otro siglo, para cincuenta años?
+
+Supongamos que las reservas de combustibles son muy grandes y que aún no debemos preocuparnos por su agotamiento. Todavía tendremos que pensaren otro problema tan serio como el anterior: los efectos que los residuos de la combustión de estos materiales tienen sobre el ambiente.
+
+Por las anteriores y otras razones, pareció en principio muy atractivo poder generar energía por medio de plantas nucleares. Una forma básica de obtener energía nuclear es mediante un proceso denominado fisión, que consiste en romper los núcleos de átomos de elementos pesados como el uranio y el plutonio. Cuando esto ocurre se desprenden grandes cantidades de energía, que hoy se aprovechan en forma por demás eficiente en grandes plantas de producción de energía eléctrica o plantas nucleares.
+
+No obstante que esta forma de producción de energía tiene ventajas en relación con las derivadas de combustibles fósiles (no afecta tan violentamente la superficie del planeta como la minería del carbón y la extracción de petróleo, hay menos contaminación atmosférica y hay suficiente material para proporcionar energía por mucho tiempo), es necesario considerar el impacto ambiental de la generación de energía por este procedimiento, comparado con las formas convencionales de obtener la misma energía. Se puede afirmar que los inconvenientes graves que trae esta forma de generación de energía (la nuclear) pueden ser: mayor contaminación térmica, calentamiento de ríos y de la atmósfera circundante de las plantas nucleares; formación de productos intermedios altamente radiactivos, es decir, que producen radiaciones muy nocivas para todas las formas de vida del planeta. Se plantea además un problema de almacenamiento de estos residuos, pues su efecto nocivo puede durar hasta miles de años. Siempre habrá probabilidad de que las plantas nucleares se descompongan y produzcan tal contaminación en el ambiente que pudiera ser irremediable. El manejo cuidadoso de esta fuente de energía es absolutamente indispensable.
+
+### Lectura sugerida: Benjamín Thompson
+
+Benjamín Thompson, Conde de Rumford, 1753-1814. Se le reconoce en la historia de las ciencias por sus trabajos sobre el calor y la relación de éste con la energía mecánica. No obstante, su vida pública la dividió entre el trabajo en cargos de gobierno y el trabajo científico. Entre estos últimos se incluyen los estudios sobre la pólvora, el desarrollo de chimeneas sin humo, la medida de la intensidad de la luz y muchos trabajos más relacionados con el calor, derivados especialmente de las observaciones hechas sobre lo que ocurría en la construcción de cañones de guerra. En efecto, en el proceso de perforación del cañón observó que las barrenas menos afiladas producían más calor que las más afiladas. En sus ensayos encontró que cuando utilizaban taladros muy romos o poco afilados, que producían muy poca o ninguna abrasión, se generaba tal cantidad de calor que en un proceso que duraba aproximadamente dos horas y tres cuartos era suficiente para elevar la temperatura de 18 libras de agua hasta el punto de ebullición. Como era evidente que el calor generado era originado por el movimiento de los cuerpos, taladro y metal, concluyó que era en sí mismo una forma de movimiento mecánico. En sus propias palabras expresó que el calor no podía ser una sustancia contenida en los cuerpos (el calórico) como se creía hasta ahora, pues "no es más que el resultado de un movimiento vibratorio de las partículas de los cuerpos".
+
+La teoría propuesta por Benjamín Thompson, sin embargo, no fue aceptada inmediatamente por la comunidad científica de la época y sólo hasta mucho tiempo después fue adoptada como parte de las concepciones de la ciencia aceptadas actualmente y que permiten tener una idea más clara sobre la naturaleza de la energía mecánica derivada del movimiento de los cuerpos.
+
+Los combustibles fósiles son recursos naturales no renovables, por lo cual es necesario un uso racional de esta fuente de energía para evitar su agotamiento.
+
+## Resumen
+
+Energía es un concepto primitivo difícil de definir; se puede decir que es algo que puede realizar trabajo. Las diferentes formas en que se presenta la energía se transforman cuantitativamente unas en otras. Algunas formas de energía son: térmica, química, radiante y nuclear.
+
+La energía se presenta en dos estados: cinética, producida por el movimiento de los cuerpos y que depende de la masa y de la velocidad, y potencial, la que pueden generar los cuerpos en razón de su estado y su estructura.
+
+Energía térmica es la suma de las energías de las partículas en movimiento o agitación térmica de un cuerpo. Temperatura es la medida de la energía cinética promedio de un cuerpo, y calor la energía térmica que se transfiere de un cuerpo a otro por diferencia de temperatura.
+
+La unidad de energía es la caloría. Es la cantidad de energía que se necesita para elevar un gramo de agua en un grado centígrado. Equivale a 4,184 julios. El julio es la unidad internacional de medida de la energía.
+
+Todas las partículas de los cuerpos están en movimiento y en consecuencia tienen energía. La energía que contiene un cuerpo puede ser transferida de una zona de mayor temperatura a otra de menor temperatura.
+
+Esto puede hacerse de tres formas: por conducción, las partículas de mayor energía se mueven y vibran más rápidamente y hacen que las partículas vecinas vibren también a mayor velocidad; de esta forma, el calor fluye de la parte más caliente a la más fría. Los metales son buenos conductores del calor, pero unos son mejores que otros (por ejemplo, el cobre es mejor conductor que el hierro). Un mal conductor del calor se llama aislante. Entre los malos conductores del calor están los no metales, los gases y los líquidos; por convección, en esta forma, la energía térmica se transporta como una corriente de partículas como ocurre en los líquidos y en los gases, que son fluidos. La energía viaja también mediante ondas. Esta forma de transporte no necesita un medio material para el transporte de calor y es llamada radiación; la energía térmica del Sol llega hasta nosotros por medio de ondas, o sea, por radiación.
+
+Las diferentes formas de energía se transforman unas en otras. Esta realidad fue expresada en lenguaje científico por Joule, quien estableció el equivalente de la energía mecánica en calor (1 cal = 4,18 julios). Así como la energía mecánica se transforma en calor, el calor a su vez se transforma en energía mecánica.
+
+Las máquinas que transforman la energía térmica o el calor en energía mecánica se llaman máquinas térmicas.
+
+Las transformaciones de energía que ocurren en un sistema pueden representarse mediante cadenas llamadas cadenas energéticas.
+
+La energía no se crea ni se destruye. Cuando una forma de energía se transforma en otra u otras, lo único que cambia es la forma; la cantidad total de energía permanece constante.
+
+La energía de la que disponemos en la Tierra proviene del Sol. Ésta se obtiene de combustibles como carbón, petróleo y gas natural, llamados combustibles fósiles por tener origen en la descomposición de materiales orgánicos hace millones de años.
+
+Los combustibles fósiles se usan para proveer calor y energía eléctrica; sin embargo, son recursos no renovables y causan contaminación del ambiente.
+
+Otro recurso es la energía nuclear proveniente de la descomposición del núcleo de ciertos átomos. En el proceso de producción resultan materiales que emiten radiaciones peligrosas para los seres vivientes. Su uso es restringido.
+
+Ante la peligrosa disminución de los recursos no renovables para la producción de energía, surge la necesidad apremiante de disponer de otras fuentes alternativas de energía. Estas son la energía eólica, la geotérmica, la energía solar y otras que en general son limpias y no contaminan, pero su obtención, por ahora, es muy compleja.
+
+Una forma de preservar los recursos energéticos es ahorrar energía. Se puede ahorrar energía en lo doméstico, en el transporte, mediante reciclaje y utilizando otras estrategias. Sin embargo, la mejor estrategia es crear una actitud en la gente para que ahorre la energía y ayude a preservar las fuentes y los recursos que hoy existen para el suministro de la energía.
+
+## Ejercicios
+
+1. Relate con sus palabras la evolución del concepto de energía.
+
+2. Según lo anterior, ¿qué es energía?
+
+3. ¿Cuáles son las principales formas en que se presenta la energía y qué características especiales las distinguen?
+
+4. Establezca la diferencia, si la hay, entre los siguientes pares de conceptos: energía térmica y calor; calor y temperatura.
+
+5. Dé varios ejemplos de cuerpos con energía cinética y con energía potencial. ¿Qué diferencia hay entre una y otra energía? ¿Por qué se dice que la energía potencial y la energía cinética son los dos estados en que se encuentra la energía?
+
+6. ¿En qué se basa la medida de la cantidad de energía de un sistema y la de la temperatura? Proponga un procedimiento para medirlas.
+
+1. ¿Cómo mediría el calor que se transfiere de un cuerpo caliente a alta temperatura a uno frío? Proponga un procedimiento.
+
+2. Suponga que 100 gramos de agua aumentan su temperatura de 20 °C a 50 °C. ¿Qué cantidad de calor, aproximadamente, debió ser transferida al agua?
+
+3. ¿A qué se debe que todos los cuerpos sólidos, gaseosos y líquidos tengan energía? Explique cada caso.
+
+4. ¿Cómo explica la transferencia de calor por conducción? ¿Qué estado físico es más propicio para este tipo de transporte y por qué?
+
+5. ¿En qué consiste la transferencia de calor por convección? ¿Por qué los líquidos y los gases son estados más propicios para esta forma de transporte de calor?
+
+6. ¿Qué son materiales aislantes térmicos y qué importancia tienen para la vida del ser humano y de los animales? Elabore un escrito con ejemplos de las situaciones en que los materia-les aislantes desempeñan un papel fundamental.
+
+7. ¿Qué es energía radiante?
+
+8. De ejemplos de situaciones en que la energía térmica se transporta por radiación.
+
+9. Explique con sus palabras las razones por las que un invernadero mantiene una temperatura superior a la del medio que lo rodea.
+
+10. ¿Cómo se explica que materiales como el plástico, y especialmente las espumas, no conducen bien el calor?
+
+11. Dé ejemplos de situaciones de la vida diaria en las que ocurran cambios de energía. Explique cada una de las etapas en que ocurre el cambio y represente las transformaciones de energía que tienen lugar mediante cadenas energéticas.
+
+12. Disponga de los siguientes elementos: batería (pila), bombillo, motor eléctrico, generador (dínamo), pesas y polea. ¿Cómo conectaría dos o más de estos elementos para producir las siguientes cadenas energéticas?:
+
+a. Energía química - energía eléctrica - calor y luz
+
+b. Energía potencial - energía cinética - energía eléctrica - calor y luz
+
+c. Energía química - energía eléctrica - energía cinética - energía potencial
+
+13. Dé ejemplos de máquinas térmicas y describa su funcionamiento.
+
+14. ¿Qué es y por qué es importante el concepto de equivalente mecánico del calor?
+
+15. Explique con sus palabras lo que entienda por ley de la conservación de la energía. ¿Qué significado tiene para usted este principio?
+
+16. ¿Por qué en el experimento de Joule el movimiento de las paletas en el interior del líquido aumenta la temperatura de éste?
+
+17. Explique en sus palabras lo que significa la expresión equivalente mecánico del calor.
+
+18. Idee y diseñe un experimento en el que pueda mostrar el principio de la conservación de la energía.
+
+19. Describa en forma resumida la formación de los combustibles fósiles: carbón, petróleo y gas natural. ¿Por qué la energía derivada de estos combustibles proviene del Sol? ¿Qué ventajas y qué desventajas tiene el uso de estos combustibles como fuente de energía?
+
+20. Haga un listado de las fuentes de energía procedentes de recursos renovables y de recursos no renovables. ¿Qué importancia tiene el conocimiento de esta característica?
+
+21. ¿Qué es y a qué se debe el uso restringido que se da a la energía nuclear?
+
+22. ¿Qué otras fuentes alternativas de energía están utilizándose y qué ventajas tienen sobre el uso de los combustibles fósiles? ¿Qué desventajas presentan?
+
+23. Elabore un escrito en el que justifique la necesidad del uso cuidadoso de las fuentes de energía y las posibles estrategias que debieran ponerse en práctica para mejorar el ahorro de la energía y así preservar el medio ambiente y evitar el agotamiento de los recursos energéticos naturales.
+
+24. ¿Qué son recursos no renovables? ¿Qué planes existen o podrían implementarse para su conservación?
+
+25. ¿Qué ventajas y desventajas tiene el uso del gas natural como combustible?
+
+26. Elabore un escrito sobre energías alternativas, como la geotérmica, la eólica y la del mar, y el uso posible de éstas en nuestro medio, con sus ventajas y desventajas.
+
+## Cuestionario de repaso
+
+Seleccione la respuesta más apropiada para cada una explicación razonable de su respuesta.
+
+1. ¿Qué parte del salón de clase en un día soleado espera que esté más caliente?
+
+a. Cerca del piso.
+
+b. En lo alto, cerca del cielo raso.
+
+c. No hay diferencia de un sitio a otro.
+
+d. En los rincones más oscuros.
+
+2. Cuando medimos la temperatura de un cuerpo, lo que medimos es:
+
+a. La energía cinética y potencial.
+
+b. La energía total de un cuerpo.
+
+c. La energía cinética promedio.
+
+d. El grado de calor que tiene el cuerpo.
+
+3. La transferencia de calor por conducción implica que:
+
+a. Se transfiera el movimiento de una partícula a otra.
+
+b. Una corriente de partículas transporta la energía.
+
+c. El calor se difunde a través de las partículas.
+
+d. Las partículas calientes se desplazan de un lugar a otro.
+
+4. Un equipo de soldadura trabaja debido a que la transferencia de calor se hace por:
+
+a. Conducción.
+
+b. Radiación.
+
+c. Convección.
+
+d. Energía eléctrica.
+
+5. Los esquimales viven en iglús o cuevas hechas de nieve que mantienen su temperatura debido a que:
+
+a. No dejan salir la energía radiante captada y proveniente del Sol.
+
+b. La nieve actúa como aislante del medio exterior.
+
+c. No hay posibilidad de enfriamiento por convección.
+
+d. El aire en el interior del iglú es mal conductor del calor.
+
+6. Una de las características de las máquinas térmicas es que:
+
+a. Transforman la energía mecánica que se les suministra en energía térmica.
+
+b. Transforman el calor y la energía térmica en otras formas de energía.
+
+c. Todo el calor y la energía térmica los transforman en trabajo.
+
+d. Cualquiera que sea la energía que les suministren, la transforman en calor.
+
+7. Una interpretación que se le puede dar a la ley de la conservación de la energía es la siguiente:
+
+a. Nunca hay pérdida de energía en un sistema.
+
+b. Las formas de energía cambian pero la energía total no cambia.
+
+c. No hay cambio de una energía en otra si algo de ella se pierde.
+
+d. La energía total puede cambiar sólo si hay cambio de una energía en otra.
+
+8. Los combustibles como el carbón y el petróleo se llaman combustibles fósiles porque:
+
+a. La energía que almacenan proviene del Sol.
+
+b. Se encuentran en las rocas en capas de la Tierra.
+
+c. Se formaron por descomposición de organismos hace millones de años.
+
+d. Se encuentran casi siempre en terrenos que contienen fósiles.
+
+## Actividades de refuerzo: energía
+
+### Ideas para revisión, refuerzo y profundización
+
+- La energía es un concepto primitivo que se relaciona con el movimiento mecánico y que operativamente se define como lo que permite realizar trabajo.
+
+- Las diferentes formas de energía se transforman cuantitativamente unas en otras.
+
+- La energía se presenta en dos estados: energía cinética y energía potencial.
+
+- La energía térmica es la energía de las partículas en movimiento, o agitación térmica de un cuerpo.
+
+- La temperatura es proporcional a la energía cinética (de movimiento), promedio de un cuerpo.
+
+- El calor es la energía térmica que se transfiere de un cuerpo a otro.
+
+- La energía se puede transportar de un cuerpo a otro por conducción, convección y radiación.
+
+- Las máquinas térmicas son las que transforman la energía térmica en energía mecánica.
+
+- La energía no se crea ni se destruye; cuando se transforma una en otra, la cantidad total de energía permanece constante.
+
+- La energía disponible en el planeta proviene del Sol. Se obtiene generalmente de combustibles fósiles (carbón, gas natural, petróleo).
+
+- Los combustibles fósiles son recursos no renovables y su uso inadecuado causa contaminación ambiental.
+
+- Fuentes de energía alternativa, como la eólica, la geotérmica o la solar, generan energías limpias, pues contaminan en menor grado el ambiente.
+
+Contesta de acuerdo a lo visto en el capítulo de energía.
+
+1. Describa las características de la energía lumínica teniendo en cuenta: intensidad, longitud de onda, tipo de luz (blanca, roja, etc.)
+
+2. ¿Qué diferencias o semejanzas encuentra entre la luz producida por el Sol y la producida por una bombilla?
+
+3. Consulte en este libro y otros sobre el origen o causa de la energía. ¿Qué produce la energía?
+
+4. Según usted, ¿cuáles son las consecuencias del uso de la energía? Explique sus conclusiones con un ejemplo.
+
+De respuestas adecuadas o explique las siguientes preguntas y situaciones
+
+5. Hace mucho tiempo que el calor dejó de considerarse como algo imponderable contenido en los cuerpos, más bien se atribuyó al movimiento de los cuerpos o de sus partículas, lo cual permitió comprender mejor la naturaleza de la energía: Dado que el calor es una forma de energía, ¿qué significa que un cuerpo tenga energía? ¿Puede transferirse en forma de calor por conducción y por convección? ¿Qué diferencia se puede establecer entre una y otra forma de transporte del calor?
+
+6. La energía puede tomar varias formas y éstas pueden transformarse unas en otras. Esto significa que una forma de energía, como la energía eléctrica, puede transformarse en otras, por ejemplo, en luz y calor. Se ha probado también que cualquiera que sea la transformación ocurrida, lo que no cambia es la cantidad de energía original. ¿En qué formas puede manifestarse la energía? ¿Se puede relacionar cada una de estas formas de energía con el movimiento de los cuerpos? Explique. ¿Se cumple en todos los casos que la cantidad total de la energía en una transformación se mantiene? ¿Qué importancia tiene esta conclusión?
+
+7. El fueloil es un derivado del petróleo que se utiliza como combustible, generador de energía, en plantas eléctricas. Se transporta por oleoductos a los sitios donde se distribuye o usa. Describa todos los cambios de energía que ocurren en el transporte del combustible, en la producción de electricidad y en la distribución y posterior uso que se hace de la electricidad en las casas. ¿Se pierde energía en esos procesos? ¿En qué situaciones? ¿Qué ocurre con la ley de la conservación de la energía? ¿Funciona para estos procesos también? ¿Qué problemas de contaminación ambiental surgen en estos procedimientos? ¿Qué se puede hacer para remediarlos?
+
+8. Utilice lo comprendido del tema, y fuentes complementarias si se requieren, para establecer diferencias entre los siguientes pares de conceptos:
+
+- Calor
+
+- Conducción
+
+- Convección
+
+- Energía
+
+- Fuerza
+
+- Temperatura
+
+Hágalo utilizando ejemplos, definiciones, o frases en los que se expresen los significados que quiere expresar.
+
+9. Elabore una lista de las distintas formas de energía que usted conoce.
+
+Describa una de ellas con sus características particulares.
+
+10. Tomando como ejemplo de compuesto rico en energía el petróleo, describa su composición química, su potencial energético, sus usos y cualidades. Escriba el peligro de contaminación producido por el petróleo.
+
+# Bibliografía
+
+Caicedo, H., Soto, L. G., & Moncayo, G. (2000). Procesos físicos: ¿De dónde proviene la energía? En H. Caicedo, L. G. Soto, Moncayo, & Guido, Entorno 7 Ciencias y Educación Ambiental (págs. 56-96). Bogotá: Educar Editores S.A.
+
+Googleusercontent. (2015). lh6.googleusercontent.com. Recuperado el 15 de Julio de 2015, de https://lh6.googleusercontent.com/-kvYkTwXuHHM/TXOkalZ8zeI/AAAAAAAAAIQ/cB9HuO41vXY/s1600/Tren+bala+E5.jpg
+
+Hewitt, P. (2007). Electricidad y Magnetismo. En P. Hewitt, Física Conceptual (V. A. Flores Flores, Trad., Décima ed., págs. 409-476). México, México: Pearson Educación.
+
+sabersiocupalugar.blogspot.com. (2015). sabersiocupalugar.blogspot.com. Recuperado el 14 de Julio de 2015, de http://sabersiocupalugar.blogspot.com/2010/07/campos-de-fuerza-ciencia-ficcion.html
+
+Sc.ehu.es. (2014). Sc.ehu.es. Recuperado el 14 de Julio de 2015, de http://www.sc.ehu.es/sbweb/fisica/elecmagnet/campo_electrico/graaf/graaf.htm
+
+Technologic-ind. (2015). technologic-ind.blogspot.com. Recuperado el 15 de Julio de 2015, de technologic-ind.blogspot.com

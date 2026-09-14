@@ -1,0 +1,2397 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Conceptos de mecánica grado 4º de educación básica primaria
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+En la siguiente guía de apoyo de ciencias naturales para grado séptimo encontrará algunas ecuaciones e imágenes que tendrán una descripción inmediatamente después de encontrarla.
+
+En cada capítulo encontrará las secciones “Examínate” que consiste en preguntas o ejercicios para responder junto con la lectura. A continuación encontrará la respuesta que se sugiere para comparar y comprobar los avances de la lectura.
+
+Al final de cada capítulo encontrará una serie de problemas y ejercicios de todas las secciones leídas. A lo largo de la lectura de esta guía encontrarás números en notación científica, así que se sugiere estudiar o repasar el tema para mejor comprensión.
+
+Los laboratorios sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Contenido
+
+Tabla de Imágenes
+
+Imagen 1. Lillian y manchas solares de ecilpse. Fotografía 18
+
+Imagen 2. La Tierra. Sol sobre Alejandría y Siena. 23
+
+Imagen 3. Posición de la Luna y la Tierra para ecilses. 26
+
+Imagen 4. El Sol y la Tierra en escala correcta. 27
+
+Imagen 5. La Luna y una moneda. 27
+
+Imagen 6. El Sol, La Tierra y la Luna forman un triángulo. 29
+
+Imagen 7. Mancha de luz pasa por un agujero. 32
+
+Imagen 8. Manchas de luz forma de luna. 33
+
+Imagen 9. Galielo y torre de Pisa. 70
+
+Imagen 10. Objetos sobre diferentes planos. 74
+
+Imagen 11. Planos inclinados posición inicial y final. 76
+
+Imagen 12. Ejemplos de Inercia. 79
+
+Imagen 13. Fuerza neta. 82
+
+Imagen 14. Retrato de Isaac Newton. 84
+
+Imagen 15. Pintores en los extremos 86
+
+Imagen 16. Pintores acercándose 87
+
+Imagen 17. 2 pintores en un extremo 88
+
+Imagen 18. Pintores y Fuerzas igual a cero 89
+
+Imagen 19. Bolsa de azúcar y báscula. 90
+
+Imagen 20. Pintores y fuerzas. 92
+
+Imagen 21. Práctica con pintor y báscula 93
+
+Imagen 22. Fuerzas en cuerpos en reposo. 95
+
+Imagen 23. Hombre sobre báscula. 97
+
+Imagen 24. Niño sobre una báscula. 97
+
+Imagen 25. Niña empuja un bloque. 99
+
+Imagen 26. Persona lanza moneda. 103
+
+Imagen 27. Sol y la Tierra girando. 114
+
+Imagen 28. Carro en trayectoria circular. 120
+
+Imagen 29. Motociclista andando. 122
+
+Imagen 30. Vehículo frenando. 124
+
+Imagen 31. Esfera cayendo en diferentes planos. 128
+
+Imagen 32. Objeto cayendo medido con velocímetro. 132
+
+Imagen 33. Lanzamiento vertical hacia arriba. 136
+
+Imagen 34. Caída libre medida con odómetro. 139
+
+Imagen 35. Moneda y Pluma. 140
+
+Imagen 36. Acelaración montaña rusa. 142
+
+Imagen 37. Mano empuja ladrillo. 162
+
+Imagen 38. Hombre y saco se mueven. 163
+
+Imagen 39. Astronauta. 168
+
+Imagen 40. Esfera colgando y jalada. 170
+
+Imagen 41. Hombre empuja elefante. 173
+
+Imagen 42. Mano empuja 3 ladrillos. 175
+
+Imagen 43. Bloques cayendo. 177
+
+Imagen 44. Roca y pluma. 178
+
+Imagen 45. Dos personas en paracaídas. 182
+
+Imagen 46. Fotografía estroboscópica. 184
+
+# Algunas fechas importantes en la historia de la Física
+
+APROXIMADAMENTE AÑO 320 Antes de Cristo. Aristóteles describe el movimiento en términos de tendencias naturales.
+
+APROXIMADAMENTE Año 250 ANTES DE CRISTO Arquímedes descubre el principio de flotabilidad.
+
+APROXIMADAMENTE 150 Año Después de Cristo. Tolomeo refina el sistema geocéntrico.
+
+1543. Copérnico publica su sistema heliocéntrico.
+
+1575 –1596. Brahe mide posiciones precisas de los planetas en el cielo.
+
+1609. Galileo usa por primera vez un telescopio como herramienta astronómica.
+
+1609 - 1619. Kepler publica tres leyes del movimiento planetario.
+
+1634. Galileo avanza en la comprensión del movimiento acelerado.
+
+1661. Boyle relaciona la presión y el volumen de los gases a temperatura constante.
+
+1676. Roemer demuestra que la luz tiene una rapidez finita.
+
+1678. Huygens desarrolla una teoría ondulatoria de la luz.
+
+1687. Newton presenta la teoría de la mecánica en Principia.
+
+1738. Bernoulli explica el comportamiento de los gases en términos de movimientos moleculares.
+
+1747. Franklin sugiere la conservación del “fuego” eléctrico (la carga).
+
+1780. Galvani descubre la “electricidad animal”.
+
+1785. Coulomb determina con precisión la ley de la fuerza eléctrica.
+
+1795. Cavendish mide la constante gravitacional G.
+
+1798. Rumford dice que el calor es una forma de movimiento.
+
+1800. Volta inventa la batería eléctrica.
+
+1802. Young aplica la teoría ondulatoria para explicar la interferencia.
+
+1811. Avogadro sugiere que a iguales temperatura y presión, todos los gases tienen la misma cantidad de moléculas por unidad de volumen.
+
+1815–1820. Young y otros dan pruebas de la naturaleza ondulatoria de la luz.
+
+1820. Oersted descubre el efecto magnético de una corriente eléctrica.
+
+1820. Ampère establece la ley de fuerza entre conductores con corriente eléctrica.
+
+1821. Fraunhofer inventa la rejilla de difracción.
+
+1824. Carnot establece que el calor no se puede transformar totalmente en trabajo.
+
+1831. Faraday y Henry descubren la inducción electromagnética.
+
+1842–1843. Mayer y Joule sugieren una ley general de la conservación de la energía.
+
+1846. Adams y Leverrier predicen la existencia del planeta Neptuno.
+
+1865. Maxwell presenta la teoría electromagnética de la luz.
+
+1869. Mendeleev organiza los elementos en una tabla periódica.
+
+1877. Boltzmann relaciona la entropía con la probabilidad.
+
+1885. Balmer establece la regularidad numérica en el espectro de hidrógeno.
+
+1887. Michelson y Morley no pueden detectar el éter.
+
+1888. Hertz genera y detecta las ondas de radio.
+
+1895. Roentgen descubre los rayos X.
+
+1896. Becquerel descubre la radiactividad.
+
+1897. Thomson establece que los rayos catódicos son corpúsculos negativos (electrones).
+
+1900. Planck presenta la idea cuántica.
+
+1905. Einstein presenta el concepto de corpúsculo de luz (fotón).
+
+1905. Einstein presenta la teoría de la relatividad especial.
+
+1911. Rutherford descubre el átomo nuclear.
+
+1913. Bohr formula una teoría cuántica del átomo de hidrógeno.
+
+1915. Einstein presenta la teoría de la relatividad general.
+
+1923. Compton confirma con experimentos la existencia del fotón.
+
+1924. Broglie presenta la teoría ondulatoria de la materia.
+
+1925. Goudsmit y Uhlenbeck establecen el espín del electrón.
+
+1925. Pauli forma el principio de exclusión.
+
+1926. Schrödinger desarrolla la teoría ondulatoria de la mecánica cuántica.
+
+1927. Davisson, Gremer y Thomson comprueban la naturaleza ondulatoria de los electrones.
+
+1927. Heisenberg propone el principio de incertidumbre.
+
+1928. Dirac combina la relatividad y la mecánica cuántica en una teoría del electrón.
+
+1929. Hubble descubre que el Universo se expande.
+
+1932. Anderson descubre la materia en forma de positrón.
+
+1932. Chadwick descubre el neutrón.
+
+1932. Heisenberg describe la explicación de la estructura nuclear como neutrones y protones.
+
+1934. Fermi propone una teoría de la aniquilación y la creación de la materia.
+
+1938. Meitner y Frisch interpretan los resultados de Hahn y Strassmann como fisión nuclear.
+
+1939. Bhor y Wheeler presentan una teoría detallada de la fisión nuclear.
+
+1942. Fermi construye y opera el primer reactor nuclear.
+
+1945. Oppenheimer y su equipo producen una explosión nuclear, en Los Álamos.
+
+1947. Bardeen, Brattain y Shockley desarrollan el transistor.
+
+1956. Reines y Cowan identifican al antineutrino.
+
+1957. Feynman y Gell-Mann explican todas las interacciones débiles con un neutrino “izquierdo”.
+
+1960. Maiman inventa el láser.
+
+1965. Penzias y Wilson descubren la radiación de fondo en el Universo, residuo del Big Bang.
+
+1967. Bell y Hewish descubren los pulsares, que son estrellas de neutrones.
+
+1968. Wheeler bautiza los agujeros negros.
+
+1969. Gell-Mann sugiere que los quarks son los bloques constructivos de los nucleones.
+
+1977. Lederman y su equipo descubren el quark “bottom” (fondo).
+
+1981. Binning y Rohrer inventan el microscopio de barrido y tunelización.
+
+1987. Bednorz y Müller descubren la superconductividad de alta temperatura.
+
+1995. Cornell y Wieman crean un “condensado Bose-Einstein” a 20 milésimas de millonésimas de un grado.
+
+2000. Pogge y Martini demuestran la existencia de agujeros negros supermasivos en otras galaxias.
+
+# Factores de conversión
+
+## Longitud y volumen
+
+1 pulgada (in) = 2,54 centímetros
+
+1 pie = 0,3048 metros
+
+1 metros = 39,37 pulgadas (in)
+
+1 milla = 1,6093440 kilómetros
+
+## Tiempo
+
+1 año = 365
+
+1 día = 86.400 segundos
+
+1 hora = 3600 segundos
+
+## Masa
+
+1 Kilogramo (kg) = 1.000 gramos (g)
+
+1 kg pesa 2.205 libras (lb)
+
+## Presión
+
+1 Pascal (Pa) = 1 N/m 2 (Newton sobre metro cuadrado)
+
+## Energía y potencia
+
+1 caloría (cal) = 4,184 J (Julios)
+
+1 hp (horse power, caballo de fuerza) = 746 W (Watts)
+
+## Velocidad
+
+1 m/s (m sobre segundo) = 3,60 Km/h (Km sobre hora)= 2,24 mi/h
+
+1 km/h = 0,621 mi/h (millas sobre hora)
+
+## Fuerza
+
+1 lb = 4,448 N (Newton)
+
+# CAPÍTULO 1: acerca de la ciencia
+
+*Imagen 1. Lillian y manchas solares de ecilpse. Fotografía*
+
+Descripción de la fotografía. Lillian es una mujer que está arrodillada en una acera y hay unas manchas circulares por el suelo y sobre Ella que describen imágenes Del sol a través de las aberturas de un árbol. Las manchas circulares de luz que rodean a Lillian son imágenes del Sol, originadas por pequeñas aberturas entre las hojas de un árbol. Durante un eclipse parcial, las manchas tienen la forma de Luna creciente.
+
+Sabes que no puedes disfrutar un juego si no conoces sus reglas, ya sea de pelota, de computadora o tan sólo de mesa. Asimismo, no apreciarás bien tu entorno hasta que comprendas las reglas de la naturaleza.
+
+La física es el estudio de tales reglas, que te enseñarán la manera tan bella en que se relaciona todo en la naturaleza. Entonces, la razón principal para estudiar la física es ampliar la forma en que observas el mundo que te rodea. Verás la estructura matemática de la física en diversas ecuaciones: más que recetas de cálculo, verás esas ecuaciones como guías para pensar.
+
+Yo disfruto de la física y tú también lo harás, porque la comprenderás. Si te enganchas y tomas tus clases con regularidad, entonces podrás enfocarte hacia los problemas matemáticos. Intenta comprender los conceptos y si después vienen los cálculos, los entenderás y resolverás fácilmente.
+
+¡Disfruta la física!
+
+En primer lugar, la ciencia es el cuerpo de conocimientos que describe el orden dentro de la naturaleza y las causas de ese orden. En segundo lugar, la ciencia es una actividad humana continua que representa los esfuerzos, los hallazgos y la sabiduría colectivos de la raza humana, es decir, se trata de una actividad dedicada a reunir conocimientos acerca del mundo, y a organizados y condensarlos en leyes y teorías demostrables. La ciencia se inició antes que la historia escrita, cuando los seres humanos descubrieron regularidades y relaciones en la naturaleza, como la disposición de las estrellas en el cielo nocturno, y las pautas climáticas, cuando se iniciaba la estación de lluvias, o cuando los días eran más largos. A partir de tales regularidades la gente aprendió a hacer predicciones que les permitían tener algo de control sobre su entorno.
+
+La ciencia tuvo grandes progresos en Grecia, en los siglos III y IV A. c. Se difundió por el mundo mediterráneo. El avance científico casi se detuvo en Europa, cuando el Imperio Romano cayó en el siglo V D. C. Las hordas bárbaras destruyeron casi todo en su ruta por Europa, y así comenzó la llamada Edad del Oscurantismo. En esa época los chinos y los polinesios calcografiaban las estrellas y los planetas, en tanto que las naciones arábigas desarrollaban las matemáticas y aprendían a producir vidrio, papel metales y diversas sustancias químicas. Gracias a la influencia islámica la ciencia griega regresó a Europa, la cual penetró en España durante los siglos X al XII. De esta manera, en el siglo XIII, surgieron universidades en Europa y la introducción de la pólvora cambió la estructura sociopolítica del viejo continente en el siglo XIV. El siglo XV vivió la bella combinación de arte y ciencia lograda por Leonardo da Vinci. El pensamiento científico fue impulsado en el siglo XVI con la invención de la imprenta.
+
+Nicolás Copérnico, astrónomo polaco del siglo XVI causó gran controversia al publicar un libro donde proponía que el Sol era estacionario y que la Tierra giraba a su alrededor. Tales ideas eran opuestas a la creencia popular de que la Tierra era el centro del Universo, y como eran contrarias a las enseñanzas de la Iglesia, estuvieron prohibidas durante 200 años. Galileo Galilei, físico italiano, fue arrestado por divulgar la teoría de Copérnico y sus propias contribuciones al pensamiento científico. No obstante, un siglo después fueron aceptados quienes defendieron las ideas de Copérnico.
+
+Esta clase de ciclos suceden una era tras otra. A principios del siglo xix, los geólogos enfrentaron una violenta condena porque sus posturas diferían de la explicación de la creación dada por el Génesis. Después, en el mismo siglo, la geología fue aceptada, aunque las teorías de la evolución siguieron condenadas, y se prohibió su enseñanza. Cada era ha tenido grupos de rebeldes intelectuales, quienes fueron condenados y a veces perseguidos en su tiempo; pero después se les consideraría inofensivos y a menudo esenciales para el mejoramiento de las condiciones humanas. "En cada encrucijada del camino que lleva hacia el futuro, a cada espíritu progresista se le oponen mil individuos asignados para defender el pasado.”
+
+## Mediciones Científicas
+
+El distintivo de una buena ciencia es la medición. Lo que conozcas acerca de algo suele relacionarse con lo bien que puedas medirlo. Así lo enunció acertadamente Lord Kelvin, famoso físico del siglo XIX: “Con frecuencia digo que cuando puedes medir algo y expresarlo en números, quiere decir que conoces algo acerca de ello. Cuando no lo puedes medir, cuando no lo puedes expresar en números, tu conocimiento es insuficiente y poco satisfactorio. Puede ser el comienzo de un conocimiento, pero en cuanto tu pensamiento, apenas has avanzado para llegar a la etapa de la ciencia, cualquiera que ésta sea.” Las mediciones científicas no son algo nuevo, sino que se remontan a la Antigüedad. Por ejemplo, en el siglo III A. C., se realizaron mediciones bastante exactas de los tamaños de la Tierra, la Luna y el Sol, así como de las distancias entre ellos.
+
+### El tamaño de la Tierra
+
+En Egipto fue donde Eratóstenes, geógrafo y matemático, midió por primera vez la circunferencia de la Tierra, aproximadamente en el año 235 A. C. La calculó de la siguiente manera: sabía que el Sol estaba en la máxima altura del cielo a mediodía del 22 de junio, el solsticio de verano. En ese momento, una estaca vertical proyecta una sombra de longitud mínima. Si el Sol está directamente arriba, una estaca vertical no dará sombra alguna, y eso sucede en el solsticio de verano en Siena, una ciudad al sur de Alejandría (donde en la actualidad se encuentra la represa de Asuán). Eratóstenes sabía que el Sol estaba directamente arriba de Siena por información que obtuvo en la biblioteca, la cual le indicaba que en este único momento la luz solar entra verticalmente a un pozo profundo en Siena y se refleja en su fondo. Eratóstenes razonó que si los rayos del Sol se prolongaran en esa dirección, llegarían al centro de la Tierra. Asimismo, una recta vertical que penetrara en la Tierra en Alejandría (o en algún otro lugar) también pasaría por el centro de la Tierra.
+
+A mediodía del 22 de junio. Eratóstenes midió la sombra proyectada por una columna vertical en Alejandría, y vio que era la octava parte de la altura de la columna (Imagen 1). Esto corresponde a un ángulo de 7.2 grados entre los rayos del Sol y la vertical de la columna. Como 7,2° es igual a la 7,2÷360 o 1÷50 (también se puede decir 7,2 sobre 360 o 1 sobre 50 y el sobre será el símbolo /) parte de un círculo, entonces Eratóstenes dedujo que la distancia entre Alejandría y Siena debía ser 1/50 de la circunferencia de la Tierra. Así, la circunferencia de la Tierra es 50 veces mayor que la distancia entre ambas ciudades. Esta distancia, que era muy llana y se recorría con frecuencia, se midió y resultó de 5000 estadios (800 kilómetros). Así fue como Eratóstenes calculó que la circunferencia de la Tierra debía ser 50×5000 estadios= 250.000 estadios. Esto coincide, dentro de un 5%, con el valor aceptado en la actualidad para la circunferencia de la Tierra.
+
+*Imagen 2. La Tierra. Sol sobre Alejandría y Siena.*
+
+Descripción de la Imagen 2. Se tiene a la Tierra representada como una circunferencia indicando el norte y el sur. Alejandría y Siena están en 2 puntos sobre la circunferencia separados 7,2 grados. Los rayos del sol se representan por 4 líneas paralelas que inciden sobre los puntos mencionados. Cuando el Sol está directamente arriba de Siena no está directamente arriba de Alejandría, a 800 km al norte. Cuando los rayos solares caen directamente a un pozo vertical en Siena, proyectan una sombra de una columna vertical en Alejandría. Las verticales en ambos lugares se prolongan hasta el centro de la Tierra, y tienen el mismo ángulo que forman los rayos del Sol con la columna en Alejandría. Eratóstenes midió este ángulo, y vio que abarcaba 1/50 de un círculo completo. Por consiguiente, la distancia de Alejandría a Siena es 1/50 de la circunferencia terrestre. (También, la sombra producida por la columna tiene 1/8 de la altura de la misma, y eso quiere decir que la distancia entre ambos lugares es 1/8 del radio de la Tierra.)
+
+Se obtiene el mismo resultado pasando por alto los grados, y comparando la longitud de la sombra proyectada por la columna con la altura de la misma. Se demuestra en geometría que, con mucha aproximación, la relación longitud de la sombra dividido altura de la columna es igual que la relación de la distancia entre Alejandría y Siena dividido radio de la Tierra. De manera que como la columna es 8 veces mayor que su sombra, el radio de la Tierra debe ser 8 veces mayor que la distancia de Alejandría a Siena.
+
+Como la circunferencia de un círculo es 2×π multiplicada por su radio (C = 2×π×r, C mayúscula es igual a 2 por pi por r), el radio de la Tierra simplemente es su circunferencia dividida entre 2×π. En unidades modernas, el radio de la Tierra es 6.370 kilómetros, y su circunferencia es 40.000 km.
+
+### El tamaño de la Luna
+
+Quizá Aristarco fue quien primero sugirió que la Tierra giraba diariamente en torno a un eje y que eso explicaba el movimiento diario de las estrellas. También supuso que la Tierra giraba en torno al Sol en órbita anual, y que los demás planetas hacen lo mismo. Midió en forma correcta el diámetro de la Luna y su distancia a la Tierra. Esto fue más o menos en el año 240 A. C., siete siglos antes de que sus hallazgos tuvieran aceptación completa.
+
+Aristarco comparó el tamaño de la Luna con el de la Tierra observando un eclipse de Luna. La Tierra, como cualquier otro cuerpo expuesto a la luz solar, proyecta una sombra. Un eclipse de Luna es simplemente el evento en el que la Luna pasa por esta sombra. Aristarco estudió detenidamente ese evento y determinó que el ancho de la sombra de la Tierra en la Luna era 2,5 veces el diámetro de la Luna, lo cual parecía indicar que el diámetro de la Luna era 2,5 veces menor que el de la Tierra. Sin embargo, como el tamaño del Sol es gigantesco, la sombra de la Tierra es cónica, como se observa durante un eclipse de Sol. (La Imagen 2 muestra lo anterior en una escala exagerada.) En ese momento, la Tierra intercepta apenas la sombra de la Luna, la cual disminuye su diámetro hasta ser casi un punto en la superficie terrestre, prueba de que la conicidad (disminución del diámetro) de tal sombra a esa distancia es un diámetro de la Luna. Entonces, durante un eclipse lunar, la sombra de la Tierra, después de recorrer la misma distancia, también debe disminuir un diámetro de la Luna. Si se tiene en cuenta la conicidad producida por los rayos solares, el diámetro de la Tierra debe ser (2,5±1) diámetros de la Luna. De este modo Aristarco demostró que el diámetro de la Luna es 1/3,5 del diámetro terrestre. El diámetro de la Luna que se acepta actualmente es 3.640 km, que coincide dentro de un 5% con el calculado por Aristarco.
+
+*Imagen 3. Posición de la Luna y la Tierra para ecilses.*
+
+Descripción de la Imagen 3. Representa a la Tierra en el centro de una circunferencia llamada; órbita de la luna. La Tierra se representa con una circunferencia más pequeña con la mitad sombreada y la otra mitad no sombreada. En dos puntos extremos de la órbita de la Luna, se explican dos tipos de eclipses. Los rayos del sol inciden casi paralelamente sobre la luna. De esta manera un eclipse solar proyectará una sombra en la Tierra contraída 1 diámetro de la Luna. Y de la misma manera un eclipse lunar proyectará una sombra de la Tierra es 2,5 veces más ancha que la Luna. Durante un eclipse lunar, se observa que la sombra de la Tierra es 2,5 veces más ancha que el diámetro de la Luna. Como el tamaño del Sol es enorme, la sombra de la Tierra debe ser cónica. La magnitud de la conicidad es evidente durante un eclipse solar, cuando la sombra de la Luna se contrae todo el diámetro entre la Luna y la Tierra. Entonces, la sombra de la Tierra disminuye la misma cantidad en la misma distancia. Por lo tanto, el diámetro de la Tierra debe ser 3.5 veces el diámetro de la Luna.
+
+*Imagen 4. El Sol y la Tierra en escala correcta.*
+
+Descripción de la Imagen 4. Representa al Sol y a la Tierra sobre un mismo segmento de recta. El Sol en un extremo y la Tierra en el otro están muy separados, tanto, que se indica que la Tierra y la órbita de la Luna son tan pequeñas que no se pueden ver en el dibujo. La Tierra es un pequeño punto y El sol un punto un poco más grande pero notable. Los eclipses de Sol y de Luna en escala correcta, donde se observa por qué los eclipses son poco frecuentes. (Son más raros todavía porque la órbita de la Luna en torno a la Tierra está inclinada unos 5° respecto a la órbita de la Tierra en torno al Sol.)
+
+*Imagen 5. La Luna y una moneda.*
+
+Descripción de la Imagen 5. La Imagen muestra tres puntos importantes sobre un mismo eje alineado. El ojo de un observador, una moneda y la Luna. Del observador a la moneda, se llama distancia a la moneda. Del observador a la Luna se llama, distancia a la Luna, que es más larga que la distancia anterior. Se muestra el diámetro de la moneda y de la Luna. Abajo se muestra una ecuación: diámetro de la moneda dividido distancia a la moneda es igual a diámetro de la Luna dividido distancia a la Luna, que a su vez es igual a 1 dividido sobre 110. Ejercicio con relaciones: Cuando la moneda apenas “eclipsa” la Luna, el diámetro de la moneda entre la distancia de tu ojo y la moneda es igual al diámetro de la Luna entre la distancia de ti y la Luna (no está a escala aquí). Estas mediciones dan como resultado una razón de 1/110 (1 dividido 100) en ambos casos.
+
+### Distancia a la Luna
+
+Con una cinta adhesiva, pega una moneda pequeña en el vidrio de una ventana, y observa con un ojo de manera que apenas cubra a la Luna llena. Esto sucede cuando tu ojo, se encuentra aproximadamente a 110 diámetros de la moneda, del vidrio. Entonces, la relación diámetro de moneda/distancia a la moneda es aproximadamente 1/110. Con deducciones geométricas que emplean triángulos semejantes se demuestra que esa relación también es la de diámetro de la Luna/distancia a la Luna (Imagen 5). Entonces, la distancia a la Luna es 110 veces el diámetro de ésta. Los antiguos griegos lo sabían. La medición de Aristarco del diámetro de la Luna era todo lo que se necesitaba para calcular la distancia de la Tierra a la Luna. Por consiguiente, los antiguos griegos conocían tanto el tamaño de la Luna como su distancia a la Tierra.
+
+Con esta información Aristarco hizo la medición de la distancia de la Tierra al Sol.
+
+### Distancia al Sol
+
+Si repitieras el ejercicio de la moneda en la ventana y la Luna, esta vez con el Sol (lo cual sería peligroso, por su brillo), adivina qué sucedería: la relación de diámetro del Sol/distancia al Sol (diámetro del Sol dividido la distancia al Sol) también es igual a 1/110. Esto se debe a que tanto el Sol como la Luna aparentemente tienen el mismo tamaño. Los dos abarcan el mismo ángulo (más o menos 0,5°). Entonces, aunque los antiguos griegos conocían la relación del diámetro a la distancia, debían determinar sólo el diámetro o sólo la distancia con algún otro método. Aristarco encontró una forma de hacerlo e hizo una burda estimación. Hizo lo siguiente.
+
+Esperó a que la fase de la Luna fuera exactamente media Luna, estando visible el Sol al mismo tiempo. Entonces, la luz solar debe caer en la Luna formando ángulo recto con su línea de visión (visual). Esto quiere decir que las rectas entre la Tierra y la Luna, entre la Tierra y el Sol, y entre la Luna y el Sol forman un triángulo rectángulo (Imagen 6).
+
+*Imagen 6. El Sol, La Tierra y la Luna forman un triángulo.*
+
+Descripción de la Imagen 6. Los centros del Sol, La tierra y la Luna coinciden con los vértices de un triángulo rectángulo. La posición de la Luna está indicada como “media Luna” formando 90 grados entre el Sol y la Luna. El ángulo en la posición de la Tierra está señalado, mientras que el del Sol no lo está. Cuando la Luna se ve exactamente como media Luna, el Sol, la Luna y la Tierra forman un triángulo rectángulo (aquí no está a escala). La hipotenusa es la distancia de la Tierra al Sol. Con operaciones trigonométricas sencillas, es posible calcular la hipotenusa de un triángulo rectángulo si se conoce alguno de los ángulos no rectos y alguno de los catetos. La distancia de la Tierra a la Luna es un cateto conocido. Si mides el ángulo X puedes calcular la distancia de la Tierra al Sol.
+
+La trigonometría establece que si conoces todos los ángulos de un triángulo rectángulo y la longitud de cualquiera de sus lados, puedes calcular la longitud de cualquier otro lado. Aristarco conocía la distancia de la Tierra a la Luna. En el momento de la media Luna, también conocía uno de los ángulos, 90°. Todo lo que debía hacer era medir el segundo ángulo entre la visual a la Luna y la visual al Sol. El tercer ángulo, que es muy pequeño, es 180° menos la suma de los dos primeros ángulos (ya que la suma de los ángulos de cualquier triángulo es igual a 180°).
+
+Es difícil medir el ángulo entre las visuales a la Luna y al Sol, sin tener un tránsito (teodolito) moderno. Por un lado, tanto el Sol como la Luna no son puntos, sino que tienen un tamaño relativamente grande. Aristarco tuvo que ver hacia sus centros (o hacia alguna de sus bordes) y medir el ángulo entre ellos, que es muy grande, ¡casi también un ángulo recto! De acuerdo con las medidas modernas, su determinación fue muy burda. Midió 87° y el valor real es 89,8°. Calculó que el Sol está 20 veces más lejos que la Luna cuando, de hecho, está 400 veces más lejos. Así, aunque su método era ingenioso, sus mediciones no lo fueron. Quizás Aristarco encontró increíble que el Sol estuviera tan lejos y su error fue del lado más cercano. No se sabe.
+
+En la actualidad se sabe que el Sol está a un promedio de 150.000.000 kilómetros. Está un poco más cerca en diciembre (a 147.000.000 km) y más lejos en junio (152.000.000 km).
+
+### El tamaño del Sol
+
+Conocida la distancia al Sol, la relación de su diámetro/distancia igual a 1/110 permite medir su diámetro. Otra forma de medir la relación 1/110, además del método de la Imagen 6, consiste en medir el diámetro de la imagen del Sol proyectada por una abertura hecha con un alfiler. Debes intentarlo. Haz un agujerito en una hoja de cartulina opaca y deja que la luz solar pase por el agujero. La imagen redonda que se forma en una superficie tras el cartón es en realidad una imagen del Sol. Verás que el tamaño de la imagen no depende del tamaño del agujero, sino de lo alejado que está de la imagen. Los agujeros grandes forman imágenes más brillantes, pero no más grandes. Claro que si el diámetro del agujero es muy grande no se formará ninguna imagen. Con mediciones cuidadosas verás que la relación del tamaño de la imagen al agujero de alfiler es 1/110: igual que la relación diámetro del Sol dividido distancia de la Tierra al Sol (Imagen 7).
+
+*Imagen 7. Mancha de luz pasa por un agujero.*
+
+Descripción de la Imagen 7. El dibujo de un niño que está sosteniendo un papel que tiene un pequeño orificio por el cual pasan unos rayos de sol que forman un pequeño círculo en el piso con diámetro “d”. La distancia de la hoja al suelo es nombrada como “h”. Y la distancia que hay de la hoja de papel que sostiene el niño al Sol es 150.000.000 Km. El Sol tiene un diámetro “D”. Debajo se expresa una ecuación: “d” dividido “h” es igual a “D” dividido 150.000.000 Km, que a su vez es igual a 1 dividido 110. La mancha redonda de luz proyectada por el agujerito de alfiler es una imagen del Sol. La relación de su diámetro entre su distancia es igual que la relación del diámetro del Sol entre la distancia al Sol: 1/110. El diámetro del Sol es 1/110 de su distancia a la Tierra.
+
+Es interesante que cuando hay un eclipse parcial de Sol, la imagen proyectada por el agujerito del alfiler tendrá forma de Luna creciente: ¡la misma que la del Sol parcialmente cubierto! Esto permite contar con una interesante forma de contemplar un eclipse parcial sin mirar el Sol.
+
+¿Has notado que las manchas de luz solar que ves en el piso, bajo los árboles, son perfectamente redondas cuando el Sol está directamente arriba, y que se vuelven elípticas cuando el Sol está bajo en el cielo? Son imágenes del Sol producidas por agujeritos de alfiler, cuando la luz llega pasando por aberturas entre las hojas, que son pequeñas en comparación con la distancia al suelo. Una mancha redonda de 10 cm de diámetro la proyecta una abertura que está a 110×10 cm del suelo. Los árboles altos producen imágenes grandes; y los bajos, imágenes pequeñas. Y en el momento de un eclipse solar parcial, las imágenes tienen la forma de Luna creciente (Imagen 8).
+
+*Imagen 8. Manchas de luz forma de luna.*
+
+Descripción de la Imagen 8. Una mujer aprecia las manchas de luz debajo de un árbol. Estas manchas tienen forma de Luna creciente. Las manchas de luz solar en forma de Luna creciente son imágenes del Sol cuando está parcialmente eclipsado.
+
+### Matemáticas: el lenguaje de la ciencia
+
+Desde que las matemáticas y la ciencia se integraron hace unos cuatro siglos, la ciencia y las condiciones de vida han progresado en forma asombrosa. Cuando las ideas de la ciencia se expresan en términos matemáticos, son concretas. Las ecuaciones de la ciencia son expresiones compactas de relaciones entre conceptos. No tienen los múltiples sentidos que con tanta frecuencia confunden la discusión de las ideas expresadas en lenguaje cotidiano. Cuando los hallazgos en la naturaleza se expresan matemáticamente, son más fáciles de comprobar o de rechazar usando experimentos. La estructura matemática de la física se hace evidente en muchas de las ecuaciones que encontrarás en este libro. Las ecuaciones son guías de razonamiento que demuestran las conexiones entre los conceptos de la naturaleza. Los métodos de las matemáticas y la experimentación han guiado a la ciencia hacia un éxito enorme.
+
+### El método científico
+
+No hay un solo método científico. Sin embargo, existen rasgos comunes en la manera en que trabajan los científicos. Esto nos lleva con el físico italiano Galileo Galilei (1564 - 1642) y el filósofo inglés Francis Bacon (1561 - 1626). Ellos se liberaron de los métodos de los griegos, quienes trabajaban “hacia adelante” o “hacia atrás”, dependiendo de las circunstancias, llegando así a conclusiones acerca del mundo físico mediante el razonamiento de suposiciones arbitrarias (axiomas). Los científicos actuales trabajan hacia delante, al examinar primero la manera en que el mundo realmente funciona y luego construyendo una estructura para explicar los hallazgos.
+
+Aunque ninguna descripción del método científico del tipo receta de cocina resulta adecuada, es probable que algunos de los siguientes pasos, o todos, se encuentren en la forma en que la mayoría de los científicos realizan su trabajo.
+
+1) Reconocer una pregunta o una duda: tal como un hecho inexplicado.
+
+2) Hacer una conjetura educada, una hipótesis, de cuál podría ser la respuesta.
+
+3) Predecir las consecuencias de la hipótesis.
+
+4) Realizar experimentos o cálculos para comprobar las consecuencias pronosticadas.
+
+5) Formular la regla general más sencilla que organice los tres elementos principales: hipótesis, efectos predichos y hallazgos experimentales.
+
+Si bien estos pasos resultan atractivos, mucho del conocimiento científico proviene del ensayo y error, de la experimentación sin hipótesis o tan sólo de un descubrimiento accidental por una mente bien preparada. Sin embargo, más que un método en particular, el éxito de la ciencia tiene que ver con una actitud común de los científicos. Esa actitud es de interrogación, experimentación y humildad, es decir, la voluntad de admitir los errores.
+
+## La actitud científica
+
+Es común considerar que un hecho es algo inmutable y absoluto. Pero en la ciencia un hecho suele ser una concordancia estrecha entre observadores capacitados, quienes hacen una serie de observaciones acerca del mismo fenómeno. Por ejemplo, cuando antes era un hecho que el Universo era inalterable y permanente, en la actualidad es un hecho que el Universo se está expandiendo y evolucionando. Por otra parte, una hipótesis científica es una conjetura educada que sólo se supone que será un hecho cuando la demuestren los experimentos. Cuando se haya probado una y otra vez una hipótesis y no se haya encontrado contradicción alguna, entonces puede transformarse en una ley o principio.
+
+Si un científico encuentra pruebas que contradicen una hipótesis, ley o principio, de acuerdo con el espíritu científico será necesario cambiarla o abandonarla, independientemente de la reputación o autoridad de quienes la propusieron (a menos que se vea después que las pruebas contradictorias, al experimentarlas, resulten equivocadas, lo cual en ocasiones sucede). Por ejemplo, Aristóteles (384 - 322 A. C.), el filósofo griego tan admirado, afirmaba que un objeto cae con una velocidad proporcional a su peso. Esta idea se aceptó durante casi 2.000 años, tan sólo por la gran autoridad que tenía. Se dice que Galileo demostró la falsedad de tal afirmación con un experimento, donde demostraba que los objetos pesados y los ligeros, al dejarlos caer desde la Torre Inclinada de Pisa, lo hacían con velocidades casi iguales. En el espíritu científico un solo experimento verificable que demuestre lo contrario vale más que cualquier autoridad, por reputada que sea o por el gran número de seguidores o partidarios que tenga. En la ciencia moderna tiene poco valor el argumentar, únicamente citando alguna autoridad.
+
+Recuerda: La experimentación, y no el debate filosófico, es lo que decide lo que es correcto en la ciencia. ¡Eureka!
+
+Los científicos deben aceptar sus hallazgos experimentales, aunque quisieran que fueran distintos. Deben tratar de distinguir entre lo que ven y lo que quieren ver porque, como la mayoría de las personas, tienen una capacidad vasta para engañarse a sí mismos. Las personas siempre han tendido a adoptar reglas, creencias, dogmas, ideas e hipótesis generales sin cuestionar detalladamente su validez, y a retenerlas mucho tiempo después de que se haya demostrado que carecen de sentido, que son falsas o cuando menos que son dudosas. Las hipótesis más extendidas son con frecuencia las menos cuestionadas. Lo más frecuente es que cuando se adopta una idea se presta atención especial a los casos que parecen respaldarla; en tanto que los que parecen refutarla se distorsionan, empequeñecen o ignoran.
+
+Los científicos usan la palabra teoría en una forma distinta a la de la conversación cotidiana. En ésta una teoría no es distinta de una hipótesis: una suposición que no se ha comprobado. Por otro lado, una teoría científica es una síntesis de un conjunto grande de información que abarca hipótesis bien comprobadas y verificadas acerca de ciertos aspectos del mundo natural. Por ejemplo, los físicos hablan de la teoría de quarks en los núcleos atómicos; los químicos hablan de la teoría del enlace metálico; y los biólogos hablan de la teoría celular.
+
+Las teorías de la ciencia no son fijas, sino que van cambiando. Las teorías científicas evolucionan al pasar por estados de redefinición y refinamiento. Por ejemplo, durante los últimos 100 años la teoría del átomo se ha refinado varias veces, a medida que se reúnen más evidencias del comportamiento atómico. Asimismo, los químicos refinaron su idea de la forma en que se enlazan las moléculas, y los biólogos hicieron lo propio con la teoría celular. Más que una debilidad, el refinamiento de las teorías es un punto fuerte de la ciencia. Mucha gente piensa que cambiar sus ideas es un signo de debilidad. Los científicos competentes deben ser expertos en cambiar sus ideas. Sin embargo, lo hacen sólo cuando se confrontan con evidencia experimental firme, o cuando hay hipótesis conceptualmente más simples que los hacen adoptar un nuevo punto de vista. Más importante que defender las creencias es mejorarlas. Las mejores hipótesis las hacen quienes son honestos al confrontar la evidencia experimental.
+
+Fuera de su profesión, los científicos no son, en forma inherente, más honestos o éticos que la mayoría de las personas. Sin embargo, en su profesión trabajan en un ambiente que recompensa generosamente la honestidad. La regla cardinal en la ciencia es que todas las hipótesis se deben probar; deben ser susceptibles, al menos en principio, a demostrar que están equivocadas. En la ciencia que haya un medio de demostrar que una idea está equivocada es más importante que haya uno de demostrar que es correcta. Se trata de un factor principal que distingue la ciencia de lo que no lo es. A primera vista parecería extraño, porque cuando nos asombramos con la mayoría de las cosas, nos preocupamos por encontrar las formas de averiguar si son ciertas. Las hipótesis científicas son distintas. De hecho, si quieres distinguir si una hipótesis es científica o no, trata de ver si hay una prueba para demostrar que es incorrecta. Si no hay prueba alguna de equivocación posible, entonces la hipótesis no es científica. Albert Einstein concretó esto al decir: “Con ningún número de experimentos se puede demostrar que estoy en lo cierto; un solo experimento puede demostrar que estoy equivocado.”
+
+Por ejemplo, la hipótesis del biólogo Darwin de que las formas de vida evolucionan de estados más simples a más complejos se podría demostrar que está equivocada, si los paleontólogos hubieran encontrado que formas más complejas de vida aparecieron antes que sus contrapartes más simples. Einstein supuso que la gravedad flexiona la luz, lo cual podría demostrarse que no es cierto, si la luz de una estrella rozara al Sol y pudiera verse que durante un eclipse solar no se desvía de su trayectoria normal. Sucede que se ha determinado que las formas menos complejas de vida anteceden a sus contrapartes más complejas, y que la luz de una estrella se flexiona al pasar cerca del Sol, todo lo cual respalda las afirmaciones. Así cuando se confirma una hipótesis o una afirmación científica, se considera útil como un escalón más para adquirir conocimientos adicionales.
+
+Examinemos esta hipótesis: “La alineación de los planetas en el firmamento determina el mejor momento para tomar decisiones.” Mucha gente la cree, pero no es científica. No se puede demostrar que está equivocada ni que es correcta. Es una especulación. De igual manera, la hipótesis “Existe vida inteligente en otros planetas en algún lugar del universo” no es científica. Aunque se pueda demostrar que es correcta por la verificación de un solo caso de vida inteligente que exista en algún lugar del Universo, no hay manera de demostrar que está equivocada, si es que no se encontrara nunca esa vida. Si buscáramos en los confines del Universo durante millones de años y no encontráramos vida, no demostraríamos que no existe a la vuelta de la esquina”. Una hipótesis que es capaz de ser demostrada como correcta, pero que no se pueda demostrar que es incorrecta, no es científica. Hay muchas afirmaciones de esta clase que son muy razonables y útiles; pero quedan fuera del dominio de la ciencia.
+
+Nadie de nosotros tiene el tiempo, la energía ni los recursos necesarios para demostrar todas las ideas, de manera que la mayoría de las veces aceptamos la palabra de alguien más. ¿Cómo sabemos qué palabras habría que aceptar’? Para reducir la probabilidad de error, los científicos sólo aceptan la palabra de aquellos cuyas ideas, teorías y descubrimientos se pueden probar, si no en la práctica al menos en principio. Las especulaciones que no se pueden demostrar se consideran “no científicas”. Lo anterior tiene el efecto a largo plazo de fomentar la honestidad, porque los hallazgos muy publicados entre los científicos conocidos en general se someten a más pruebas. Tarde o temprano se encuentran las fallas (y la decepción) y quedan al descubierto las ilusiones. Un científico desacreditado ya no tiene otra oportunidad entre la comunidad de colegas. La sanción por el fraude es la excomunión profesional. La honestidad, tan importante para el progreso de la ciencia, se vuelve así materia de interés propio de los científicos. Hay relativamente poca oportunidad de tratar de engañar en un juego en el que se apuesta todo. En los campos de estudio donde no se establecen con tanta facilidad lo correcto y lo equivocado, es mucho menor la presión para ser honesto.
+
+Con frecuencia, las ideas y los conceptos más importantes en nuestra vida cotidiana no son científicos; no se puede demostrar su veracidad o su falsedad en el laboratorio. Es muy interesante el que parece que las personas creen, honestamente, que sus propias ideas acerca de las cosas son correctas, y casi todos conocen a individuos que sostienen puntos de vista totalmente contrarios, por lo que las ideas de algunos (o de todos) deben ser incorrectas. ¿Cómo sabes que tú no eres de quienes sostienen creencias erróneas? Hay una forma de probarlo. Antes de que puedas convencerte en forma razonable de que estás en lo correcto acerca de una idea determinada, deberías estar seguro de comprender las objeciones y las posiciones que debes presentar a tus antagonistas. Debes averiguar si tus puntos de vista están respaldados por conocimientos firmes de las ideas contrarias, o por tus ideas erróneas de las ideas contrarias. Puedes hacer esta distinción viendo si puedes o no enunciar las objeciones y posiciones de tus oponentes a su entera satisfacción. Aun cuando puedas hacerlo con éxito, no estarías absolutamente seguro de que tus propias ideas sean las correctas, pero la probabilidad de que estés en lo correcto es bastante mayor si pasas esta prueba.
+
+Dato curioso: cada uno de nosotros necesita un filtro del conocimiento para saber la diferencia entre lo que es válido y lo que tan sólo pretende ser válido. El mejor filtro del conocimiento que ha existido es la ciencia. ¡Eureka!
+
+#### EXAMÍNATE
+
+¿Cuáles de las siguientes hipótesis son científicas?
+
+a) Los átomos son las partículas más pequeñas de materia que existen.
+
+b) El espacio está permeado con una esencia que no se puede detectar.
+
+c) Albert Einstein fue el físico más grande del siglo XX.
+
+#### COMPRUEBA TU RESPUESTA
+
+Sólo la a es científica, ya que hay una prueba para demostrar su falsedad. La afirmación no sólo es susceptible de demostrarse que está equivocada, sino que de hecho se ha demostrado que está equivocada. La afirmación b no cuenta con una prueba de su posible falsedad y, por ello, no es científica. Sucede igual con cada principio o concepto para el que no hay métodos, procedimiento o prueba mediante los cuales se pueda demostrar que es incorrecto (si es que lo es). Algunos pseudocientíficos y otros aspirantes al conocimiento ni siquiera reparan en alguna prueba de la posible falsedad de sus afirmaciones. La afirmación c es una aseveración para la cual no hay pruebas para demostrar su posible falsedad. Si Einstein no fuera el físico más grande, ¿cómo lo sabríamos? Es importante destacar que debido a que, en general, se tiene en gran estima a Einstein, es un favorito de los pseudocientíficos. Entonces, no nos debe sorprender que el nombre de Einstein, como el de Jesús o de algún otro hombre muy venerado sea citado con frecuencia por charlatanes que desean adquirir respeto para sí mismos y para sus puntos de vista. En todos los campos es prudente ser escéptico respecto a quienes desean crédito para ellos, citando la autoridad de otros.
+
+#### EXAMÍNATE
+
+¿Cuáles de las siguientes hipótesis son científicas?
+
+a) Los átomos son las partículas más pequeñas de materia que existen.
+
+b) El espacio está permeado con una esencia que no se puede detectar.
+
+c) Albert Einstein fue el físico más grande del siglo XX.
+
+#### COMPRUEBA TU RESPUESTA
+
+Sólo la a) es científica, ya que hay una prueba para demostrar su falsedad. La afirmación no sólo es susceptible de demostrarse que está equivocada, sino que de hecho se ha demostrado que está equivocada. La afirmación b) no cuenta con una prueba de su posible falsedad y, por ello, no es científica. Sucede igual con cada principio o concepto para el que no hay métodos, procedimiento o prueba mediante los cuales se pueda demostrar que es incorrecto (si es que lo es). Algunos pseudocientíficos y otros aspirantes al conocimiento ni siquiera reparan en alguna prueba de la posible falsedad de sus afirmaciones. La afirmación c) es una aseveración para la cual no hay pruebas para demostrar su posible falsedad. Si Einstein no fuera el físico más grande, ¿cómo lo sabríamos? Es importante destacar que debido a que, en general, se tiene en gran estima a Einstein, es un favorito de los pseudocientíficos. Entonces, no nos debe sorprender que el nombre de Einstein, como el de Jesús o de algún otro hombre muy venerado sea citado con frecuencia por charlatanes que desean adquirir respeto para sí mismos y para sus puntos de vista. En todos los campos es prudente ser escéptico respecto a quienes desean crédito para ellos, citando la autoridad de otros.
+
+#### EXAMÍNATE
+
+Supón que dos personas, A y B, no se ponen de acuerdo, y que notas que la persona A sólo describe y vuelve a describir un punto de vista, mientras que la persona B describe con claridad su propio punto de vista y también el de la persona A. ¿Quién es más probable que esté en lo correcto? (¡Piensa bien antes de leer la respuesta de abajo!)
+
+#### COMPRUEBA TU RESPUESTA
+
+¿Quién puede estar seguro? La persona B puede tener la astucia de un abogado que es capaz de enunciar diversos puntos de vista, y seguir estando equivocado. No podemos estar seguros “del otro”. La prueba de verdad o falsedad que sugerimos aquí no es una prueba de otros, sino una de ti. Te ayudará en tu desarrollo personal.
+
+Cuando trates de articular las ideas de tus antagonistas prepárate, como los científicos que se preparan para cambiar sus creencias, a descubrir evidencia contraria a tus propias ideas, pruebas que incluso cambien tus ideas. A menudo el crecimiento intelectual ocurre de esta manera.
+
+### PSEUDOCIENCIA
+
+En los tiempos pre científicos, cualquier intento por aprovechar la naturaleza significaba forzarla contra su voluntad. Había que subyugarla, casi siempre con alguna forma de magia o con medios superiores a ella, es decir, sobrenaturales. La ciencia hace exactamente lo contrario y funciona dentro de las leyes naturales. Los métodos científicos han desplazado la confianza en lo sobrenatural, aunque no por completo. Persisten las viejas tradiciones, con toda su fuerza en las culturas primitivas, y sobreviven también en culturas tecnológicamente avanzadas a veces disfrazadas de ciencia. Esta ciencia falsa es la pseudociencia. El rasgo distintivo de una pseudociencia es que carece de los ingredientes clave de la evidencia y de contar con una prueba para las equivocaciones. En los ámbitos de la pseudociencia se restringen o se ignoran por completo el escepticismo y las pruebas de posibles equivocaciones.
+
+Hay varias formas de considerar las relaciones de causa y efecto en el universo. Una de ellas es el misticismo, que quizá sea adecuado en la religión pero que no se aplica a la ciencia. La astrología es un antiguo sistema de creencias que sostiene que hay una correspondencia mística entre los individuos y la totalidad del universo, es decir, que todos los asuntos humanos están influidos por las posiciones y los movimientos de los planetas y de otros cuerpos celestes. Esta postura no científica llega a ser bastante agradable. No importa lo insignificantes que nos sintamos a veces, los astrólogos nos aseguran que estamos íntimamente relacionados con el funcionamiento del cosmos, que fue creado para los seres humanos, en particular para quienes pertenecen a la tribu, comunidad o grupo religioso de uno. La astrología como magia antigua es una cuestión y la astrología disfrazada de ciencia es otra. Cuando se considera como una ciencia relacionada con la astronomía, entonces se transforma en pseudociencia. Algunos astrólogos presentan sus actividades con un antifaz científico. Cuando usan información astronómica actualizada y computadoras que muestran gráficamente los movimientos de los cuerpos celestes, los astrólogos están operando dentro del ámbito de la ciencia. Pero cuando usan esos datos para cocinar revelaciones astrológicas, quiere decir que ya se desplazaron hacia el reino de la pseudociencia declarada.
+
+La pseudociencia, como la ciencia, realiza predicciones. Las predicciones que hacen un varólogo, o radiestesista, para localizar agua subterránea con una vara tienen éxito con frecuencia, casi del 100%. Siempre que el individuo despliega su ritual y señala un lugar del suelo, quien perfora pozos estará seguro de encontrar agua. La radiestesia funciona. Claro que el varólogo rara vez se equivoca, pues bajo casi todos los puntos en la Tierra hay agua freática a menos de 100 metros de la superficie. (¡La verdadera prueba para un radiestesista sería encontrar un lugar donde no hubiera agua!)
+
+Un chamán que estudia las oscilaciones de un péndulo colgado sobre el abdomen de una mujer embarazada es capaz de predecir el sexo del feto con una exactitud del 50%, lo cual significa que si ensaya su magia varias veces con muchos fetos, la mitad de las predicciones serán correctas, y la otra mitad incorrectas; es la certeza de la adivinación ordinaria. En cambio, la determinación del sexo de los fetos usando métodos científicos tiene una frecuencia de éxitos de 95%, con los sonogramas, y de 100% con la amniocentesis. Lo mejor que se puede decir de un chamán es que el 50% de éxitos es bastante mejor que el de los astrólogos, los lectores de la palma de la mano y de otros pseudocientíficos que predicen el futuro.
+
+Un ejemplo de la pseudociencia que tiene nulo éxito es el de las máquinas multiplicadoras de energía, de las cuales se dice que generan más energía de la que consumen, y que “están todavía en los planos y necesitan fondos para desarrollarse”. Son las que promueven los charlatanes que venden acciones a un público ignorante que sucumbe ante las magníficas promesas de éxito. Esto es ciencia chatarra. Los pseudocientíficos están en todos lados y, por lo general, tienen éxito para reclutar aprendices para tener dinero o mano de obra, y parecen convencer mucho incluso a gente aparentemente razonable. Sus libros son mucho más numerosos que los que hay de ciencia en las librerías. La ciencia chatarra prospera.
+
+Hace cuatro siglos, en sus cortas y difíciles vidas los seres humanos estaban dominados por la superstición, los demonios, la enfermedad y la magia. Sólo gracias a un enorme esfuerzo se adquirieron conocimientos científicos y desecharon las supersticiones. Hemos avanzado mucho en la comprensión de la naturaleza y en nuestra liberación de la ignorancia. Deberíamos regocijarnos de lo que hemos aprendido. Ya no tenemos que morir cuando nos ataca una enfermedad infecciosa. Ya no vivimos con el miedo a los demonios. Ya no nos atemoriza la tortura de las autoridades eclesiásticas. En la época medieval la vida era cruel. En la actualidad no necesitamos creer en la superstición ni en las nociones chatarra, ya sea que procedan de chamanes, charlatanes en una esquina, pensadores descarriados que escriben libros de la salud llenos de promesas, o por demagogos que infundan temor.
+
+No obstante, hay razón para temer que las supersticiones de las que alguna vez se liberaron las personas regresan con fuerza sorprendente. James Randi dice en su libro FlimFlam! que en Estados Unidos hay más de 20.000 practicantes de la astrología que dan servicio a millones de ingenuos creyentes. Martin Gardner, escritor científico, indica que actualmente es mayor el porcentaje de estadounidenses que creen en la astrología y en los fenómenos ocultos que el de los habitantes de la Europa medieval. Sólo algunos periódicos publican una columna diaria sobre temas científicos, pero casi todos muestran los horóscopos del día. Aunque los bienes y los servicios se han mejorado gracias a los avances científicos, muchos individuos creen que no es así.
+
+Muchos creen que la condición humana es resbalar y retroceder a causa de la creciente tecnología. Sin embargo, es más probable que retrocedamos porque la ciencia y la tecnología se rindan ante la irracionalidad, las supersticiones y la demagogia del pasado. Cuídate de los charlatanes. La pseudociencia es un negocio gigantesco y lucrativo.
+
+Aunque la noción de estar familiarizado con puntos de vista opuestos parece inteligente a la mayoría de las personas con razonamiento, la mayoría practica exactamente lo contrario: protegernos a nosotros y a los demás contra las ideas contrarias. Se nos ha enseñado a despreciar las ideas no difundidas sin comprenderlas en el contexto adecuado. Con una visión perfecta de 20 20 retrospectiva, podemos ver que muchas de las “grandes verdades” —que fueron la piedra angular de civilizaciones enteras— no eran más que reflexiones superficiales de la ignorancia prevaleciente en la época. Muchos de los problemas que padeció la sociedad se originaron en esta ignorancia y en las ideas equivocadas que resultaban; mucho de lo que se sostenía como verdadero simplemente no lo era. Esto no se confina al pasado. Todo adelanto científico está, por necesidad, incompleto y en parte es inexacto, porque el descubridor observa a través de las persianas del momento, y sólo es capaz de evitar una parte de su bloqueo.
+
+### Ciencia, arte y religión
+
+La búsqueda de orden y sentido en el mundo que nos rodea ha tomado diversas formas: una de ellas es la ciencia, otra es el arte y otra es la religión. Aunque las raíces de las tres se remontan a miles de años, las tradiciones de la ciencia son relativamente recientes. Lo más importante es que los ámbitos de la ciencia, el arte y la religión son distintos, aunque con frecuencia se traslapan. La ciencia se ocupa principalmente de descubrir y registrar los fenómenos naturales; en tanto que las artes se ocupan de la interpretación personal y la expresión creativa; y la religión busca la fuente, el objetivo y el significado de todo lo anterior.
+
+La ciencia y las artes son comparables. En literatura encontramos lo que es posible en la experiencia humana. A través de ella aprendemos acerca de las emociones que van de la angustia al amor, aunque no las hayamos experimentado. Las artes no nos dan necesariamente esas experiencias, pero nos las describen y sugieren lo que puede estar reservado para nosotros. Un conocimiento de la ciencia, de igual manera, nos dice lo que es posible en la naturaleza. El conocimiento científico nos ayuda a pronosticar posibilidades en la naturaleza, aun antes de que se hayan experimentado esas posibilidades. Nos da una forma de relacionar cosas, de ver relaciones entre ellas, y de encontrar el sentido a la infinidad de eventos naturales que nos rodean. La ciencia amplía nuestra perspectiva del ambiente natural que nos rodea. Un conocimiento de las artes y las ciencias forma una totalidad que afecta la manera en que apreciamos el mundo y las decisiones que tomamos acerca de él y de nosotros. Una persona realmente educada tiene conocimientos tanto de artes como de ciencias.
+
+Dato curioso. El arte tiene que ver con la belleza cósmica; la ciencia, con el orden cósmico; y la religión, con el propósito cósmico. ¡Eureka!
+
+También la ciencia y la religión tienen semejanzas, pero son básicamente distintas: sobre todo porque sus ámbitos son diferentes: el de la ciencia es el orden natural, y el de la religión es el propósito de la naturaleza. Las creencias y las prácticas religiosas, por lo general, implican la fe y la adoración de un ser supremo, así como la adhesión a una comunidad humana. Entonces, la ciencia y la religión son tan distintas como las manzanas y las naranjas: son dos campos distintos, aunque complementarios, de la actividad humana.
+
+Cuando más adelante estudiemos la naturaleza de la luz, consideraremos la luz primero como una onda y después como una partícula. Para quien conoce algo acerca de la ciencia, las ondas y las partículas son contradictorias: la luz sólo puede ser una u otra, y debemos escoger entre ambas. Pero para quien tiene la mente abierta, las ondas y las partículas se complementan entre sí y ofrecen un entendimiento más profundo sobre la luz. De forma parecida, son básicamente las personas que están mal informadas acerca de las naturalezas profundas tanto de la ciencia y de la religión quienes sienten que deben elegir entre creer en la religión o creer en la ciencia. A menos que uno tenga un conocimiento superficial de una de ellas o de ambas, no hay contradicción en ser religioso y ser científico en el razonamiento.
+
+Muchas personas se inquietan cuando no conocen las respuestas a preguntas religiosas y filosóficas. Algunas evitan la incertidumbre aceptando sin criticar casi cualquier respuesta que parezca cómoda. Sin embargo, un mensaje importante en la ciencia es que se puede aceptar la incertidumbre. Por ejemplo, en el capítulo 31 aprenderás que no es posible conocer al mismo tiempo, con certidumbre, la cantidad de movimiento y la posición de un electrón en un átomo. Cuanto más conoces una de ellas, menos conoces la otra. La incertidumbre es una parte del proceso científico. Está bien no conocer las respuestas a preguntas fundamentales. ¿Por qué las manzanas son atraídas gravitacionalmente hacia la Tierra? ¿Por qué los electrones se repelen entre sí? ¿Por qué los imanes interactúan con otros imanes? ¿Por qué la energía tiene masa? En el nivel más profundo los científicos no conocen las respuestas a estas preguntas; al menos todavía no. En general, los científicos se sienten cómodos al no saber. Conocemos mucho acerca de dónde estamos, pero en realidad nada acerca de por qué estamos ahí. Es admisible no conocer las respuestas a estas cuestiones religiosas, en especial si mantenemos un pensamiento y un corazón abiertos con los cuales sigamos explorando.
+
+Reflexiona con la frase: “Me parece que la creencia de que sólo hay una verdad y que uno mismo la posee es la raíz más profunda de todo el mal que existe en el mundo”. Max Born. ¡Eureka!
+
+### Ciencia y tecnología
+
+También la ciencia y la tecnología son distintas entre sí. La ciencia se ocupa de reunir conocimientos y de organizarlos. La tecnología permite al hombre usar esos conocimientos para fines prácticos, y brinda las herramientas que necesitan los científicos en sus investigaciones.
+
+No obstante, la tecnología es una espada de dos filos, que puede resultar útil o nociva. Por ejemplo, contamos con la tecnología para extraer combustibles fósiles del suelo, para después quemarlos y generar energía. La producción de energía a través de combustibles fósiles ha beneficiado a nuestra sociedad de incontables maneras. Por otro lado, la quema de combustibles fósiles pone en riesgo el ambiente. Resulta tentador echar la culpa a la tecnología misma por problemas como la contaminación, el agotamiento de los recursos y hasta por la explosión demográfica. Sin embargo, estos problemas no son culpa de la tecnología, así como una herida de bala no es culpa del arma de fuego. Los seres humanos usamos la tecnología y somos los responsables de la manera en que se utiliza.
+
+Es notable que ya poseamos la tecnología para resolver muchos problemas del medio ambiente. Es probable que el siglo XXI vea un cambio de combustibles fósiles a fuentes de energía más sustentables, como la fotovoltaica, heliotérmica o la conversión de la biomasa. Si bien el papel usado en este libro proviene de los árboles, pronto se obtendrá de la maleza de rápido crecimiento, y se necesitará menos de él cuando se popularicen las pantallas pequeñas y de fácil lectura. Cada vez reciclamos más los productos de desecho. En algunas partes del mundo se avanza en el control de la explosión demográfica que agrava casi todos los problemas con que se enfrentan hoy los seres humanos. El máximo obstáculo para resolver los problemas actuales se debe más a la inercia social que a la carencia de tecnología. La tecnología es nuestra herramienta. Lo que hagamos con ella depende de nosotros mismos. La promesa de la tecnología es un mundo más limpio y más saludable. Las aplicaciones adecuadas de la tecnología pueden guiarnos hacia un mundo mejor.
+
+### EVALUACIÓN DE RIESGOS
+
+Las numerosas ventajas de la tecnología van aparejadas con los riesgos. Cuando se observa que las ventajas de una innovación tecnológica superan los riesgos, la tecnología se acepta y aplica. Por ejemplo, los rayos X se continúan usando en el diagnóstico médico, a pesar de su potencial para originar cáncer. Pero cuando se percibe que los riesgos de una tecnología superan sus ventajas, raras veces se debería usar o quizá nunca.
+
+El riesgo varía según distintos grupos. La aspirina es útil para los adultos, pero en los niños pequeños llega a causar un estado potencialmente letal, llamado síndrome de Reye. Arrojar aguas residuales a un río de la localidad originaría riesgos menores para una población asentada aguas arriba, pero sería un riesgo mayor para la salud de quienes residen aguas abajo de esa descarga. Asimismo, almacenar residuos radiactivos en depósitos subterráneos ocasionará poco riesgo para nosotros actualmente; sin embargo, tales riesgos serán mayores para las futuras generaciones, si hubiera fugas hacia las aguas subterráneas. Las tecnologías que impliquen diversos riesgos para personas distintas, al igual que distintas ventajas, dan lugar a dudas que con frecuencia se debaten acaloradamente. ¿Qué medicamentos deben venderse al público general sin receta y cómo se deben identificar? ¿Se deben irradiar los alimentos para que terminen las intoxicaciones que matan a más de 5.000 estadounidenses cada año? Se deben tener en cuenta los riesgos de todos los miembros de la sociedad, cuando se deciden las políticas públicas.
+
+No siempre los riesgos de la tecnología son evidentes al inicio. Nadie se dio cuenta de lo peligroso de los productos de la combustión cuando se optó por el petróleo como combustible en los automóviles de principios del siglo XX. Con una visión retrospectiva de 20/20, hubieran sido mejores los alcoholes obtenidos de la biomasa, desde el punto de vista del medio ambiente; pero fueron prohibidos por las corrientes prohibicionistas de esos días. Al tener más en cuenta los costos ambientales de la combustión de materias fósiles, los combustibles de biomasa están regresando lentamente. Resulta fundamental tener en cuenta los riesgos de una tecnología, tanto a corto como a largo plazos.
+
+Parece que los individuos aceptan con dificultad la imposibilidad de que haya cero riesgos. No es posible hacer que los aviones sean perfectamente seguros. Los alimentos procesados no se pueden elaborar totalmente libres de toxicidad, porque todos los alimentos son tóxicos hasta cierto grado. Tú no puedes ir a la playa sin arriesgarte a padecer un cáncer de la piel, sin importar cuántos filtros solares uses. No puedes evitar la radiactividad, porque está en el aire que respiras y en los alimentos que ingieres, y siempre ha sido así incluso antes de que los seres humanos comenzaran a caminar sobre la Tierra. Hasta la lluvia más prístina contiene carbono 14 radiactivo, sin mencionar el de nuestros propios organismos. Entre cada latido del corazón humano siempre ha habido unas 10,000 desintegraciones radiactivas naturales. Podrías esconderte en las montañas, comer los alimentos más naturales, practicar una higiene obsesiva y aun así morir del cáncer causado por la radiactividad que emana de tu propio cuerpo. La probabilidad de una muerte final es 100%. Nadie está exento.
+
+La ciencia ayuda a determinar qué es lo más probable. A medida que mejoran las herramientas de la ciencia, la evaluación de lo más probable se acerca más al objetivo. Por otro lado, la aceptación del riesgo es un asunto social. Establecer cero riesgos como meta social no sólo es impráctico, sino egoísta. Toda sociedad que trate de tener una política de cero riesgos consumiría sus recursos económicos actuales y futuros. ¿No es más noble aceptar riesgos distintos de cero, y minimizarlos todo lo posible dentro de los límites de lo posible? Una sociedad que no acepta riesgos no recibe beneficios.
+
+## Física: la ciencia básica
+
+La ciencia alguna vez se llamó filosofía natural, y abarca el estudio de las cosas vivientes y no vivientes: las ciencias de la vida y las ciencias físicas. Entre las ciencias de la vida están la biología, la zoología y la botánica. Entre las ciencias físicas están la geología, la astronomía, la química y la física.
+
+La física es más que una parte de las ciencias físicas. Es la ciencia básica. Es acerca de la naturaleza de cosas básicas como el movimiento, las fuerzas, la energía, la materia, el calor, el sonido, la luz y la estructura de los átomos. La química explica cómo se acomoda la materia entre sí, cómo se combinan los átomos para formar moléculas, y cómo éstas se combinan para formar los materiales que nos rodean. La biología es más compleja y se ocupa de la materia que está viva. Por lo anterior, en la base de la biología está la química, y en la base de la química está la física. Los conceptos de la física llegan hasta dichas ciencias, que son algo más complicadas. Ésta es la razón por la que la física es la ciencia más fundamental.
+
+La comprensión de la ciencia comienza con el entendimiento de la física. Los capítulos que siguen presentan la física en forma conceptual, de manera que puedas disfrutarla comprendiéndola.
+
+#### EXAMÍNATE
+
+¿En cuáles de las siguientes actividades interviene lo máximo de la expresión humana, de la pasión, el talento y la inteligencia?
+
+a) Pintura y escultura.
+
+b) Literatura.
+
+c) Música.
+
+d) Religión.
+
+e) Ciencia.
+
+#### COMPRUEBA TU RESPUESTA
+
+¡En todas ellas! Sin embargo, el valor humano de la ciencia es el que menos entiende la mayoría de los individuos de nuestra sociedad. Las causas son diversas y van desde la noción común de que la ciencia es incomprensible para la gente común, hasta la idea extrema de que la ciencia es una fuerza deshumanizadora en nuestra sociedad. La mayoría de las ideas erróneas acerca de la ciencia surgen, probablemente, de la confusión entre los abusos de la ciencia y la ciencia misma.
+
+La ciencia es una actividad humana fascinante que comparte una gran variedad de personas que, con las herramientas y los conocimientos actuales, avanzan e indagan más acerca de sí mismas y de su ambiente, que lo que podían hacer las personas en el pasado. Cuanto más conozcas acerca de la ciencia, más apasionado te sentirás hacia tus entornos. ¡En todo lo que ves, oyes, hueles, gustas y tocas hay física!
+
+## En perspectiva
+
+Sólo hasta hace algunos siglos, los artistas, arquitectos y artesanos más talentosos y más hábiles del mundo dirigían su genio y sus esfuerzos a la construcción de grandes catedrales, sinagogas, templos y mezquitas. Algunas de esas estructuras arquitectónicas tardaron siglos en construirse, lo cual significa que nadie atestiguó tanto su comienzo como su término. Hasta los arquitectos y los primeros constructores que vivieron hasta la madurez o hasta una edad avanzada nunca vieron el resultado ya terminado de su trabajo. Vidas enteras transcurrieron a la sombra de la construcción que debe haber parecido sin principio ni fin. Este enorme enfoque de la energía humana estaba inspirado por una visión que iba más allá de los afanes mundanos, una visión del cosmos. Para la gente de esos tiempos, las estructuras que erigieron fueron sus “naves espaciales de fe”, ancladas con firmeza, pero apuntando hacia el cosmos.
+
+En la actualidad, los esfuerzos de muchos de nuestros científicos, ingenieros, artistas y artesanos más hábiles se dirigen a construir las naves espaciales que ya giran en órbita alrededor de la Tierra, y otras que viajarán más allá de ésta. El tiempo necesario para construir estas naves es breve en extremo, en comparación con el que tardaban en construirse las estructuras de piedra y mármol del pasado. Muchos individuos que trabajan en las naves espaciales actuales ya vivían antes de que el primer avión a reacción transportara pasajeros. ¿Hacia dónde se dirigirán las vidas más jóvenes cuando pase un tiempo similar?
+
+Parece que estamos en los albores de un gran cambio en el crecimiento humano porque, como el pequeño Evan dice en la fotografía capitular, podemos ser como los pollitos que salen del cascarón, que han agotado los recursos del interior de su huevo y que están a punto de entrar a toda una nueva variedad de posibilidades. La Tierra es nuestra cuna y nos ha servido bien. Pero las cunas, no importa cuán confortables sean, algún día se vuelven estrechas. Así, con la inspiración que en muchas formas se parece a la inspiración de quienes construyeron las antiguas catedrales, las sinagogas, los templos y las mezquitas, apuntemos hacia el cosmos.
+
+La ciencia es la forma de conocer acerca del mundo y darle sentido. ¡Eureka!
+
+¡Vivimos tiempos emocionantes!
+
+### Resumen de términos
+
+Hecho: Fenómeno acerca del cual concuerdan observadores competentes, que han realizado una serie de observaciones.
+
+Hipótesis: Conjetura educada: una explicación razonable de una observación o resultado experimental que no se acepta totalmente como hecho, sino hasta que se prueba una y otra vez con experimentos.
+
+Ley: Hipótesis o afirmación general acerca de las relaciones de cantidades naturales, que se han probado una y otra vez, y que no se han contradicho. También se llama principio.
+
+Pseudociencia: Ciencia falsa que pretende ser ciencia verdadera.
+
+Método científico: Principios y procedimientos para la búsqueda sistemática de conocimiento, que incluye el reconocimiento y la formulación de un problema, la recopilación de datos a través de la observación y la experimentación, así como la formulación y la prueba de hipótesis.
+
+Teoría: Síntesis de un gran conjunto de información que abarca hipótesis bien probadas y verificadas acerca de los aspectos del mundo natural.
+
+### Preguntas de repaso
+
+1) En forma breve, ¿qué es la ciencia?
+
+2) A través de las eras, ¿cuál ha sido la reacción general hacia las nuevas ideas acerca de las “verdades” establecidas?
+
+#### Mediciones científicas
+
+3) Cuando el Sol estaba directamente arriba de Siena, ¿por qué no estaba directamente arriba de Alejandría?
+
+4) La Tierra, como todo lo que ilumina el Sol, proyecta una sombra. ¿Por qué esa sombra es cónica?
+
+5) ¿Cómo se compara el diámetro de la Luna con la distancia de la Tierra a la Luna?
+
+6) ¿Cómo se compara el diámetro del Sol con la distancia de la Tierra al Sol?
+
+7) ¿Por qué Aristarco hizo sus mediciones de la distancia al Sol en el momento de la media Luna?
+
+8) En un día soleado, ¿qué son las manchas circulares de luz que se ven en el piso bajo un árbol?
+
+#### Matemáticas: el lenguaje de la ciencia
+
+9) ¿Cuál es el papel de las ecuaciones en este curso?
+
+#### El método científico
+
+10) Describe los pasos del método científico clásico.
+
+#### La actitud científica
+
+11) Señala la diferencia entre hecho, hipótesis, ley y teoría científicos.
+
+12) En la vida diaria con frecuencia, a la gente que mantiene determinado punto de vista se le alaba por el “coraje de sus convicciones”. Se considera que un cambio de actitud es un signo de debilidad. ¿Es así en la ciencia?
+
+13) ¿Cuál es la prueba para determinar si una hipótesis es científica o no?
+
+14) En la vida diaria se observan muchos casos de individuos a quienes se les descubre malinterpretando las cosas, y quienes después pronto son disculpados y aceptados por sus contemporáneos. ¿Es diferente en la ciencia?
+
+15) ¿Qué prueba puedes hacer para aumentar las probabilidades de que tus propias ideas acerca de algo sean correctas?
+
+#### Ciencia, arte y religión
+
+16) ¿Por qué a los alumnos de artes se les recomienda estudiar ciencias, y a los estudiantes de ciencias se les recomienda estudiar artes?
+
+17) ¿Por qué muchas personas creen que deben optar entre la ciencia y la religión?
+
+18) La comodidad psicológica es una de las ventajas de tener respuestas firmes a preguntas religiosas. ¿Qué ventaja acompaña a una posición de no conocer las respuestas?
+
+#### Ciencia y tecnología
+
+19) Describe con claridad la diferencia entre ciencia y tecnología.
+
+#### Física: la ciencia básica
+
+20) ¿Por qué a la física se le considera la ciencia básica?
+
+### Proyectos
+
+1) Haz un agujerito en un cartón, y sostenlo horizontalmente debajo de los rayos del Sol. Observa la imagen del Sol que se forma abajo. Para convencerte de que la mancha redonda de luz es una imagen del Sol redondo, prueba con agujeros de distintas formas. Un agujero cuadrado o uno triangular producirá una imagen redonda si la distancia a la imagen es grande en comparación con el tamaño del agujero. Cuando los rayos del sol y la superficie donde llegan son perpendiculares, la imagen es un círculo; cuando los rayos del Sol forman un ángulo con la superficie de la imagen, esa imagen es un “círculo estirado”, es decir, una elipse. Deja que la imagen del Sol caiga en una moneda. Coloca el cartón de manera que la imagen apenas cubra la moneda. Es una forma conveniente de medir el diámetro de la imagen; es del mismo diámetro que el de la moneda, que se puede medir con facilidad. A continuación mide la distancia entre el cartón y la moneda. La relación del tamaño de la imagen entre la distancia a la imagen debe ser más o menos 1/110. Es la relación del diámetro del Sol entre la distancia del Sol a la Tierra. Con el dato que el Sol está a 150.000.000 (ciento cincuenta millones) de kilómetros de la Tierra, calcula el diámetro del Sol.
+
+2) De ésta o de la próxima semana elige un día específico y ese día lleva una libretita y, cada vez que estés en contacto con la tecnología moderna, anota la situación. Después de hacerlo, escribe un breve análisis de una o dos páginas acerca de tu dependencia hacia tu lista de tecnología. Explica cómo te afectaría si tal tecnología repentinamente desapareciera y cómo enfrentarías dicha pérdida.
+
+### Ejercicios
+
+1. ¿Cuál es la sanción por un fraude en la ciencia dentro de la comunidad científica?
+
+2. ¿Cuáles de las siguientes son hipótesis científicas?
+
+a) La clorofila hace que el pasto sea verde.
+
+b) La Tierra gira en torno a su eje, porque los seres vivientes necesitan una alternancia de luz y sombra.
+
+c) Las mareas son causadas por la Luna.
+
+3. Para responder la pregunta “cuando crece una planta, ¿de dónde proviene su materia?”. Aristóteles propuso, por lógica, que toda la materia proviene del suelo. ¿Consideras que esta hipótesis es correcta, incorrecta o parcialmente correcta? ¿Qué experimentos propones para respaldar tu opción?
+
+4. Bertrand Russell (1872-1970), gran filósofo y matemático, escribió acerca de las ideas que tuvo en las primeras etapas de su vida, y que después rechazó. ¿Crees que éste es un signo de debilidad o de fortaleza en Bertrand Russell? (¿Crees que tus ideas actuales acerca del mundo que te rodea cambiarán cuando aprendas más y tengas más experiencia, o crees que los conocimientos y la experiencia adicionales robustecerán tus percepciones actuales?)
+
+5. Bertrand Russell escribió: “Creo que deberíamos sostener la creencia de que el conocimiento científico es una de las glorias del hombre. No digo que el conocimiento nunca pueda hacer daño. Creo que esas proposiciones generales casi siempre pueden refutarse con ejemplos bien elegidos. Lo que sostengo, y sostendré con vigor, es que el conocimiento es útil con mucho más frecuencia que dañino, y que el miedo al conocimiento es dañino con mucho más frecuencia que útil.” Imagina ejemplos que respalde esta afirmación.
+
+6. Cuando sales de la sombra a la luz solar, el calor del Sol es tan evidente como el que procede del carbón caliente en un anafre que esté en una habitación fría. Sientes el calor del Sol no por su alta temperatura (hay mayores temperaturas en algunos sopletes para soldar), sino porque el Sol es grande. ¿Qué crees que sea mayor, el radio del Sol o la distancia de la Tierra a la Luna? Comprueba tu respuesta en los datos del interior de la contraportada. ¿Crees que es sorprendente tu respuesta?
+
+7. La sombra que produce una columna vertical en Alejandría, a mediodía y durante el solsticio de verano, es 1/8 de la altura de la columna. La distancia entre Alejandría y Siena es 1/8 del radio de la Tierra. ¿Hay alguna conexión geométrica entre estas dos relaciones iguales a 1/8?
+
+8. Si la Tierra fuera más pequeña de lo que es, ¿la sombra del pilar vertical de Alejandría sería más grande o más pequeña en un atardecer del solsticio de verano?
+
+9. ¿Qué es probable que malentienda un individuo que afirma “eso es tan sólo una teoría científica”?
+
+10. A una teoría que armoniza muchas ideas en una forma sencilla los científicos la llaman “bella”. ¿La armonía y la sencillez están entre los criterios de belleza fuera de la ciencia? Justifica tu respuesta.
+
+# MECÁNICA
+
+No puedes tocar sin ser tocado:
+
+¡Es la tercera ley de Newton!
+
+Descripción de la imagen. Fotografía de 3 niños sentados. Dos de ellos, un niño y una niña, están dándose un beso. La otra niña los mira con una cara de decepción y tristeza como un típico berrinche.
+
+# CAPÍTULO 2: primera ley de Newton del movimiento: inercia
+
+Hace más de 2.000 años, los antiguos científicos griegos estaban familiarizados con algunas de las ideas de la física que estudiamos en la actualidad. Comprendían bien, algunas de las propiedades de la luz, aunque estaban algo confundidos acerca del movimiento. Uno de los primeros en estudiar con seriedad el movimiento fue Aristóteles, el filósofo y científico más destacado de la Grecia antigua. Aristóteles intentó aclarar el movimiento clasificándolo.
+
+## El movimiento según Aristóteles
+
+Aristóteles dividió el movimiento en dos clases principales: el movimiento natural y el movimiento violento. Veremos cada uno en forma breve, no como material de estudio, sino tan sólo como antecedente de las ideas actuales acerca del movimiento.
+
+Aristóteles aseguraba que el movimiento natural surge a partir de la “naturaleza” de un objeto, dependiendo de qué combinación tenía de los cuatro elementos que formaban al objeto (tierra, agua, aire y fuego). Consideraba que todo objeto en el universo tiene un lugar propio determinado por esa “naturaleza”, y cualquier objeto que no está en su lugar propio “se esforzará” por alcanzarlo. Al estar en la Tierra, un terrón de arcilla no soportado cae al suelo; al estar en el aire, una bocanada de humo no restringida se eleva; como una mezcla de tierra y aire, pero principalmente de tierra, una pluma cae al suelo, pero no con tanta rapidez como un terrón de arcilla. Afirmaba que los objetos más pesados opondrían resistencia con más fuerza. Por consiguiente, decía, los objetos deben caer a rapideces proporcionales a sus pesos: cuanto más pesado sea un objeto, más rápido debería caer.
+
+El movimiento natural podía ser directo hacia arriba o directo hacia abajo, como en el caso de todas las cosas sobre la Tierra; o podía ser circular, como en el caso de los objetos celestes. A diferencia del movimiento hacia arriba o hacia abajo, el movimiento circular no tiene principio ni fin, y se repite sin desviarse. Aristóteles creía que en los cielos rigen reglas distintas, y aseguró que los cuerpos celestes son esferas perfectas hechas de una sustancia perfecta e inmutable, a la cual llamó quintaesencia. (El único objeto celeste con variación discernible en su superficie era la Luna. Los cristianos medievales, todavía bajo la influencia de las enseñanzas de Aristóteles, explicaban esto diciendo que debido a la proximidad de la Luna, está algo contaminada por la corrompida (Tierra.)
+
+El movimiento violento, la otra clase de movimiento de Aristóteles, se debía a fuerzas de empuje o tracción. El movimiento violento es impuesto. Un individuo que empuja un carrito o levanta un peso impone movimiento, al igual que quien lanza una piedra o gana en una competencia de tirar de una cuerda. El viento impone movimiento a los navíos. Las inundaciones imponen movimiento a los pedruscos y a los troncos de los árboles. Lo esencial acerca del movimiento violento es que es causado externamente y se imparte a los objetos. No se mueven por sí mismos ni por su “naturaleza”, sino gracias a empujes o tirones (tracciones).
+
+El concepto del movimiento violento tiene sus dificultades, ya que los empujes o los tirones no siempre son evidentes. Por ejemplo, la cuerda de un arco mueve la flecha hasta que ésta sale del arco; después, para seguir explicando el movimiento de la flecha se requiere que haya otro agente de empuje. De manera que Aristóteles imaginaba que la brecha en el aire originada por el movimiento de la flecha causaba un efecto de apriete en la parte trasera de la flecha, a medida que el aire regresaba para evitar que se formara el vacío. La flecha se impulsaba por el aire como cuando una barra de jabón se impulsa en la tina de baño cuando se aprieta uno de sus lados.
+
+En resumen, Aristóteles enseñaba que todos los movimientos se debían a la naturaleza del objeto en movimiento, o a un empuje o tracción sostenidos. Siempre que un objeto está en su lugar propio no se moverá, a menos que se le someta a una fuerza. A excepción de los objetos celestes, el estado normal es el de reposo.
+
+Las afirmaciones de Aristóteles acerca del movimiento fueron el comienzo del pensamiento científico, y aunque él no creía que fueran definitivos acerca del tema, durante casi 2.000 años sus seguidores consideraron sus ideas como fuera de toda duda. La noción de que el estado normal de los objetos es el de reposo estaba implícita en el pensamiento antiguo, el medieval y el de principios del Renacimiento. Como era evidente para la mayoría de los pensadores hasta el siglo XVI que la Tierra debe estar en su lugar propio, y como es inconcebible que haya una fuerza capaz de moverla, resultaba bastante claro que la Tierra no se movía.
+
+### ARISTÓTELES
+
+(384 — 322 Antes de Cristo)
+
+Aristóteles, filósofo, científico y educador griego era hijo de un médico, quien estaba al servicio personal del rey de Macedonia. A los 17 años de edad ingresó a la Academia de Platón, donde trabajó y estudió durante 20 años, hasta la muerte de este último. Aristóteles fue tutor del joven Alejandro el Grande y, ocho años después, fundó su propia escuela. Su objetivo era sistematizar el conocimiento existente, así como Euclides había sistematizado la geometría. Hizo observaciones críticas, reunió especímenes, y recopiló, resumió y clasificó, la mayoría del conocimiento del mundo físico de su tiempo.
+
+Su enfoque sistemático se convirtió en el método del cual surgiría más adelante la ciencia occidental. Después de su muerte, sus extensos cuadernos de notas se preservaron en cuevas cerca de su casa, y luego fueron vendidos a la biblioteca de Alejandría. La actividad científica cesó en la mayoría del Viejo Continente durante la Edad del Oscurantismo, de manera que los trabajos de Aristóteles se olvidaron o se perdieron entre los eruditos que continuaron en los imperios bizantino e islámico. Algunos textos fueron reintroducidos a Europa durante los siglos XI y XII, y se tradujeron al latín. En un inicio la Iglesia, la principal fuerza política y cultural en Europa Occidental, prohibió las obras de Aristóteles, pero después las aceptó y las incorporó en la doctrina cristiana.
+
+EXAMÍNATE
+
+¿No es sentido común imaginar que la Tierra está en su lugar propio y que es inconcebible que haya una fuerza que la mueva, como afirmaba Aristóteles, y que la Tierra está en reposo en este Universo?
+
+#### COMPRUEBA TU RESPUESTA
+
+Las ideas de Aristóteles eran lógicas y consistentes con las observaciones cotidianas. Entonces, a menos que te familiarices con la física que presentamos en este libro, las ideas de Aristóteles acerca del movimiento sí tienen sentido común. Sin embargo, a medida de que adquieras más información acerca de las reglas de la naturaleza, es probable que progrese tu sentido común más allá del pensamiento aristotélico.
+
+## Copérnico y la Tierra en movimiento
+
+En este ambiente intelectual Nicolás Copérnico (1473-1543), astrónomo polaco, formuló su teoría sobre el movimiento de la Tierra. Dedujo que la forma más sencilla de explicar los movimientos observados del Sol, la Luna y los planetas por el cielo es suponiendo que la Tierra y otros planetas describen círculos alrededor del Sol. Durante años desarrolló sus ideas sin hacerlas públicas, por dos razones fundamentales. La primera fue que tenía miedo de ser perseguido; una teoría tan distinta de la opinión común con seguridad se tomaría como un ataque al orden establecido. La segunda razón fue que él mismo tenía serias dudas, porque no podía reconciliar la idea de una Tierra en movimiento con las ideas que prevalecían acerca del movimiento. Finalmente, en los últimos días de su vida, y por la insistencia de sus amigos más íntimos, mandó a la imprenta su De Revolutionibus. El primer ejemplar de su famosa exposición llegó a él el día de su muerte: el 24 de mayo de 1543.
+
+La mayoría de nosotros conoce la reacción de la Iglesia medieval contra la idea de que la Tierra viaja alrededor del Sol. Como las ideas de Aristóteles se habían integrado de manera tan formidable a la doctrina de la Iglesia, contradecirlas era cuestionar a la Iglesia misma. Para muchos dignatarios del clero la idea de una Tierra en movimiento no sólo amenazaba su autoridad, sino también las bases mismas de la fe y de la civilización. Para bien o para mal, esta nueva idea iba a derrumbar su concepción del Cosmos, aunque a final de cuentas la Iglesia la adoptó.
+
+## Galileo y la Torre Inclinada
+
+Fue Galileo, el principal científico de principios del siglo XVII, quien dio crédito a la idea de Copérnico de una Tierra en movimiento. Lo logró desacreditando las ideas aristotélicas sobre el movimiento. Aunque no fue el primero en señalar los problemas en las ideas de Aristóteles, sí fue el primero en ofrecer refutación contundente mediante la observación y el experimento.
+
+*Imagen 9. Galielo y torre de Pisa.*
+
+Descripción de la Imagen 9. La famosa demostración de Galileo. La imagen muestra a la Torre de Pisa, que es famosa por estar inclinada. Encima se aprecia al dibujo de Galileo dejando caer dos objetos. 6 personas abajo admiran lo que Galileo hace. Entre las personas se distinguen 2 personas religiosas.
+
+Galileo demolió con facilidad la hipótesis de Aristóteles acerca de la caída de los cuerpos. Se dice que Galileo dejó caer objetos de varios pesos desde lo más alto de la Torre Inclinada de Pisa, y luego comparó las caídas. Al contrario de la aseveración de Aristóteles, Galileo encontró que una piedra con el doble de peso que otra no caía con el doble de rapidez. A excepción del pequeño efecto de la resistencia del aire, encontró que los objetos de distinto peso, cuando se sueltan al mismo tiempo, caían juntos y llegaban al suelo en el mismo momento. Se dice que en una ocasión Galileo reunió a un gran número de personas para que atestiguaran la caída de dos objetos de distinto peso que lanzaría desde lo alto de la torre. Dice la leyenda que muchos de quienes observaron que los objetos llegaban al suelo al mismo tiempo, se mofaron del joven Galileo y continuaron apegándose a las enseñanzas aristotélicas.
+
+### GALILEO GALILEI
+
+Galileo (1564 — 1642) nació en Pisa, Italia, el mismo año que nació Shakespeare y que murió Miguel Ángel. Estudió medicina en la Universidad de Pisa, pero después se dedicó a las matemáticas. Mostró un interés temprano en el movimiento, y pronto tuvo desacuerdos con sus contemporáneos, quienes se apegaban a las ideas aristotélicas sobre la caída de los cuerpos. Dejó Pisa para enseñar en la Universidad de Padua y se volvió partidario de la nueva teoría copernicana sobre el sistema solar. Fue uno de los primeros en construir un telescopio, y el primero en dirigirlo hacia el cielo nocturno, y en descubrir montañas en la Luna y las lunas de Júpiter. Como publicó sus hallazgos en italiano, y no en latín como era de esperarse de un sabio tan afamado, y debido a la reciente invención de la imprenta, sus ideas estuvieron muy difundidas. Pronto enfrentó dificultades con la Iglesia, y se le indicó que no enseñara ni respaldara las ideas de Copérnico. Se abstuvo de divulgar sus ideas durante 15 años, pero después publicó de manera desafiante sus observaciones y conclusiones, que eran contrarias a la doctrina de la Iglesia. El resultado fue un juicio donde se le encontró culpable, y fue obligado a renunciar a sus descubrimientos. Para entonces ya era anciano, con la salud y el espíritu quebrantados, fue sentenciado a un arresto domiciliario perpetuo. Sin embargo, terminó sus estudios sobre el movimiento, y sus escritos salieron clandestinamente de Italia y se publicaron en Holanda. Ya antes se había dañado los ojos al observar el Sol a través de un telescopio, y a los 74 años de edad quedó ciego. Murió cuatro años después.
+
+## Los planos inclinados de Galileo
+
+Aristóteles era un observador astuto de la naturaleza, y estudió problemas de su entorno más que estudiar casos abstractos que no se presentaban en su ambiente. El movimiento siempre implicaba un medio de resistencia, como el aire o el agua. Creía que es imposible el vacío y, en consecuencia, no dio gran importancia al movimiento en ausencia de un medio en interacción. Era básico para Aristóteles que un objeto requiere de un empuje o un tirón para mantenerse en movimiento. Y fue este principio básico el que rechazó Galileo al decir que si no hay interferencia para un objeto en movimiento, se mantendrá moviéndose en línea recta por siempre; no hace falta un empujón, ni tracción ni fuerza.
+
+Galileo demostró esta hipótesis experimentando con el movimiento de varios objetos sobre planos inclinados. Observó que las esferas que ruedan cuesta abajo en planos inclinados aumentaban su rapidez, en tanto que las que rodaban cuesta arriba perdían rapidez. Dedujo entonces que las esferas que ruedan por un plano horizontal ni se aceleran ni se desaceleran. La esfera llega al reposo finalmente no por su “naturaleza”, sino por la fricción. Esta idea estaba respaldada por la observación del Galileo mismo, del movimiento sobre superficies más lisas: cuando había menos fricción, el movimiento de los objetos duraba más: cuanto menos fricción, el movimiento se aproximaba más a una rapidez constante. Dedujo que en ausencia de la fricción o de otras fuerzas contrarias, un objeto en movimiento horizontal continuaría moviéndose indefinidamente.
+
+*Imagen 10. Objetos sobre diferentes planos.*
+
+Descripción de la Imagen 10. Movimiento de esferas en diversos planos. La Imagen muestra 3 situaciones para un objeto en movimiento. El primero es sobre un plano con pendiente de bajada, en donde aumenta la rapidez. El segundo es sobre un plano de subida, en donde disminuye la rapidez. Y el tercero, un plano sin pendiente con una leyenda: ¿cambia la rapidez?
+
+A esta aseveración la apoyaban un experimento distinto y otra línea de razonamiento. Galileo colocó dos de sus planos inclinados uno frente a otro. Observó que una esfera, soltada desde el reposo en la parte superior de un plano inclinado hacia abajo, rodaba hacia abajo y después hacia arriba por la pendiente inclinada hacia arriba, hasta que casi llegaba a su altura inicial. Dedujo que sólo la fricción evitaba que subiera hasta llegar exactamente a la misma altura, porque cuanto más liso fueran los planos, la esfera llegaría más cerca de la misma altura original. A continuación redujo el ángulo del plano inclinado hacia arriba. De nuevo, la bola subió casi hasta la misma altura, pero tuvo que ir más lejos. Con reducciones adicionales del ángulo obtuvo resultados parecidos: para alcanzar la misma altura, la esfera tenía que llegar más lejos cada vez. Entonces se preguntó: “Si tengo un plano horizontal largo. ¿Hasta dónde debe llegar la esfera para alcanzar la misma altura?” La respuesta obvia es “hasta el infinito: nunca llegará a su altura inicial”.
+
+Galileo analizó lo anterior todavía de forma diferente. Como el movimiento de bajada de la esfera en el primer plano es igual en todos los casos, su rapidez, al comenzar a subir por el segundo plano es igual en todos los casos. Si sube por una pendiente más inclinada pierde su rapidez rápidamente. En una pendiente menos inclinada la pierde con más lentitud, y rueda durante mayor tiempo. Cuanto menor sea la pendiente de subida, con más lentitud pierde su rapidez. En el caso extremo donde no hay pendiente, es decir, cuando el plano es horizontal, la esfera no debería perder rapidez alguna. En ausencia de fuerzas de retardo, la tendencia de la esfera es a moverse por siempre sin desacelerarse. A la propiedad de un objeto de resistirse a los cambios en el movimiento la llamó inercia.
+
+*Imagen 11. Planos inclinados posición inicial y final.*
+
+Descripción de la Imagen 11. La Imagen muestra 3 situaciones para un objeto en movimiento. Para cada caso el movimiento empieza en la izquierda de un plano específico y termina a la derecha. Para el primer caso, un cuerpo se suelta sobre una rampa (como un tazón) y se indica que la posición inicial es la misma que alcanza el cuerpo al ocupar su posición final (misma tura). Para el segundo caso la rampa por la cual debe subir de nuevo el objeto es menos inclinado, sin embargo se muestra que alcanza la misma altura (igual posición inicial y final). Para la última parte se muestra el objeto en la misma posición inicial, pero esta vez después de deslizarse no encuentra un nuevo plano por el cual subir sino un plano sin inclinación. Se pregunta ¿dónde está la posición final? Una esfera que baja rodando por un plano inclinado (del lado izquierdo) tiende a subir rodando hasta su altura inicial (del lado derecho). La esfera debe rodar mayor distancia, conforme se reduce el ángulo de inclinación (del lado derecho).
+
+El concepto de la inercia, debido a Galileo, desacreditó la teoría aristotélica del movimiento. Aristóteles no se dio cuenta del concepto de la inercia porque no se imaginó qué sería el movimiento sin fricción. Según su experiencia, todo movimiento estaba sometido a resistencia, y esta idea fue la piedra angular de su teoría de movimiento. La falla de Aristóteles en reconocer la fricción por lo que es, una fuerza como cualquier otra, impidió el progreso de la física durante casi 2.000 años, hasta la época de Galileo. Una aplicación del concepto de la inercia, según Galileo, hubiera demostrado que no se requiere fuerza alguna para mantener moviéndose a la Tierra. Se había abierto el camino para que Isaac Newton sintetizara una nueva visión del Universo.
+
+En 1642, varios meses después de la muerte de Galileo, nació Isaac Newton. A los 23 años ya había desarrollado sus famosas leyes del movimiento, que terminaron de demoler las ideas aristotélicas que habían dominado el razonamiento de los mejores pensadores durante casi dos milenios. En este capítulo explicaremos la primera de ellas. Se trata de un replanteamiento del concepto de inercia que propuso Galileo. (Las tres leyes de Newton sobre el movimiento aparecieron por primera vez en uno de los libros más importantes de todos los tiempos: los Principia de Newton.)
+
+#### EXAMÍNATE
+
+¿Es correcto decir que la inercia es la razón por la cual un objeto en movimiento continúa moviéndose cuando no hay fuerza que actúe sobre él?
+
+#### COMPRUEBA TU RESPUESTA
+
+En el sentido estricto, no. No conocemos la razón por la que los objetos persisten en su movimiento cuando no hay fuerzas que actúen sobre ellos. Se llama inercia a la propiedad de los objetos materiales de comportarse en esta forma predecible. Comprendemos muchas cosas y tenemos nombres y etiquetas para ellas. Hay muchas cosas que no comprendemos, y también les ponemos nombres y etiquetas. La educación no consiste tanto en conocer nombres y etiquetas nuevas, sino en aprender qué fenómenos comprendemos y cuáles no.
+
+## Primera ley de Newton del movimiento
+
+La idea aristotélica de que un objeto en movimiento debe estar impulsado por una fuerza continua fue demolida por Galileo, quien dijo que en ausencia de una fuerza, un objeto en movimiento continuará moviéndose. La tendencia de las cosas a resistir cambios en su movimiento fue lo que Galileo llamó inercia. Newton refinó esta idea de Galileo, y formuló su primera ley, que bien se llama ley de la inercia. En los Principia de Newton (traducido del original en latín):
+
+Todo objeto continúa en su estado de reposo o de movimiento uniforme en línea recta, a menos que sea obligado a cambiar ese estado por fuerzas que actúen sobre él.
+
+La palabra clave de esta ley es continúa: un objeto continúa haciendo lo que haga a menos que sobre él actúe una fuerza. Si está en reposo continúa en un estado de reposo. Esto se demuestra muy bien cuando un mantel se retira con habilidad por debajo de una vajilla colocada sobre una mesa y los platos quedan en su estado inicial de reposo. La propiedad de los objetos de resistir cambios en su movimiento se le llama inercia.
+
+*Imagen 12. Ejemplos de Inercia.*
+
+Descripción de la Imagen 12. Ejemplos de la inercia. Aparecen en la Imagen 3 imágenes. En una, aparece una bola atada al techo por un extremo y por el otro extremo la jala una mano. La leyenda al lado de la imagen dice “¿Por qué un aumento lento y continuo en la fuerza hacia abajo rompe la cuerda de arriba de la pesada bola, pero un aumento repentino rompe la cuerda de abajo?”.
+
+Otra de las imágenes muestra un vaso tapado por una tarjeta y encima una moneda. Una mano está apunto de golpear la tarjeta. La leyenda dice “Caerá la moneda al vaso cuando una fuerza acelere la tarjeta”.
+
+Otra de las imágenes muestra una mano sujetando un martillo y golpeando con el mango sobre una superficie. La leyenda al lado dice “¿Por qué el movimiento hacia abajo, y la parada repentina del martillo aprietan su cabeza?”
+
+Si un objeto se mueve, continúa moviéndose sin girar ni cambiar su rapidez. Esto se ve en las sondas espaciales que se mueven continuamente en el espacio exterior. Se deben imponer cambios del movimiento contra la tendencia de un objeto a retener su estado de movimiento. En ausencia de fuerzas netas, un objeto en movimiento tiende a moverse indefinidamente a lo largo de una línea recta.
+
+#### EXAMÍNATE
+
+Un disco de hockey resbala por el hielo y al final se detiene. ¿Cómo interpretaría Aristóteles este comportamiento? ¿Cómo lo interpretarían Galileo y Newton? ¿Cómo lo interpretas tú? (¡Piensa bien antes de leer las respuestas de abajo!)
+
+#### COMPRUEBA TUS RESPUESTAS
+
+Es probable que Aristóteles diría que el disco resbala y se para porque busca su estado propio y natural, que es el reposo. Galileo y Newton dirían probablemente que una vez en movimiento, el disco continuaría moviéndose y que lo que evita que continúe el movimiento no es su naturaleza ni su estado propio de reposo, sino la fricción que encuentra. Esta fricción es pequeña en comparación con la que hay entre el disco y un piso de madera, y es la causa de que sobre el hielo se deslice mucho más lejos. Sólo tú puedes contestar la última pregunta.
+
+## Fuerza neta
+
+Los cambios de movimiento son producidos por una fuerza, o por una combinación de fuerzas (en el siguiente capítulo llamaremos aceleración a los cambios en el movimiento). Una fuerza, en el sentido más sencillo, es un empuje o un tirón. Su causa puede ser gravitacional, eléctrica, magnética o simplemente esfuerzo muscular. Cuando sobre un objeto actúa más que una sola fuerza, lo que se considera es la fuerza neta. Por ejemplo, si tú y un amigo tiran de un objeto en la misma dirección con fuerzas iguales, esas fuerzas se combinan y producen una fuerza neta que es dos veces mayor que tu propia fuerza. Si cada uno de ustedes tiran en direcciones opuestas con fuerzas iguales, la fuerza neta será cero. Las fuerzas iguales, pero con dirección opuesta, se anulan entre sí. Se puede considerar que una de las fuerzas es el negativo de la otra, y que se suman algebraicamente para dar cero, así que la fuerza neta resultante es cero.
+
+La Imagen 13 que se encuentra abajo muestra cómo se combinan las fuerzas para producir una fuerza neta. Un par de fuerzas de 5 libras en la misma dirección producen una fuerza neta de 10 libras. Si las fuerzas de 5 libras tienen direcciones opuestas, la fuerza neta es cero. Si 10 libras de fuerza se ejercen a la derecha y 5 libras a la izquierda, la fuerza neta es 5 libras hacia la derecha. Las fuerzas se representan con flechas. Una cantidad, como las fuerzas, que tiene magnitud y también dirección se llama cantidad vectorial. Las cantidades vectoriales se pueden representar por flechas cuya longitud y dirección indican la magnitud y la dirección de la cantidad.
+
+*Imagen 13. Fuerza neta.*
+
+Descripción de la Imagen 13. La fuerza neta. Muestra las relaciones entre las fuerzas aplicadas y la fuerza neta sobre un cuerpo por medio de flechas. Para el primer cuerpo se muestran 2 flechas de 5 Newton paralelas, como si dos cuerdas jalaran el bloque paralelamente y en la misma dirección. Y la fuerza neta es una fuerza de 10 Newton representado por una sola flecha más larga hacia la derecha.
+
+Sobre el segundo bloque se muestra una flecha de 5 Newton hacia la derecha, y otra flecha hacia la izquierda de 5 Newton. Y la fuerza neta en este caso es 0 Newton.
+
+Sobre el tercer bloque se muestra una flecha de 10 Newton hacia la derecha, y una flecha de 5 Newton hacia la izquierda. La fuerza neta es de 5 Newton hacia la derecha.
+
+### ISAAC NEWTON
+
+Isaac Newton (1642 — 1727) nació prematuramente el día de Navidad de 1642, y apenas pudo sobrevivir. Su lugar de nacimiento fue la granja de su madre en Woolsthorpe, Inglaterra. Como su padre había muerto pocos meses antes, creció bajo el cuidado de su madre y su abuela. De niño no mostró señales específicas de brillantez, y a la edad de 14 años y medio lo sacaron de la escuela para que trabajara en la finca de su madre. Fue un fracaso como granjero, ya que prefería leer los libros que le prestaba un boticario vecino. Un tío captó el potencial intelectual del joven Isaac y lo animó a estudiar en la Universidad de Cambridge, lo cual hizo durante 5 años. Se gradúo sin distinciones especiales.
+
+Una peste azotó a Inglaterra y Newton se retiró a la finca de su madre, esta vez para continuar sus estudios. Allí, a los 23 y 24 años, estableció las bases del trabajo que lo haría inmortal. Al ver caer una manzana al suelo, pensó que la fuerza de gravedad se extiende hasta la Luna y más allá. También formuló la ley de la gravitación universal y la aplicó para resolver el enigma milenario del movimiento de los planetas y de las mareas del océano; inventó el cálculo, herramienta matemática indispensable de la ciencia. Amplió los trabajos de Galileo y formuló las tres leyes fundamentales del movimiento; también formuló una teoría sobre la naturaleza de la luz, y demostró, con prismas, que la luz blanca está formada por todos los colores del arco iris. En un inicio fueron sus experimentos con los prismas los que lo hicieron famoso.
+
+*Imagen 14. Retrato de Isaac Newton.*
+
+Descripción de la Imagen 14. Retrato de Isaac Newton. Usa ropas de la época elegante. Tiene una cabellera abundante y blanca. Nariz gruesa y mirada penetrante y fija. Está en la madurez y no se aprecia nada de fondo.
+
+Cuando cesó la peste, Newton regresó a Cambridge, y pronto estableció su reputación como matemático de primera línea. Su maestro de matemáticas renunció en su favor, y Newton fue contratado como profesor Lucasiano de matemáticas. Conservó este puesto durante 28 años. En 1672 fue elegido miembro de la Real Sociedad, donde demostró al mundo su primer telescopio reflector, el cual todavía se conserva en la biblioteca de la Real Sociedad, en Londres, con la inscripción: “El primer telescopio reflector, inventado por Sir Isaac Newton y construido con sus propias manos.”
+
+No fue sino hasta los 42 años de edad que comenzó a escribir lo que en general se considera el libro científico más grande que se haya escrito, Principia Mathematica Philosophiae Naturalis. Lo escribió en latín y lo terminó en 18 meses. Salió de la imprenta en 1687, y no se imprimió en inglés sino hasta 1729, dos años después de su muerte. Cuando se le preguntaba cómo pudo hacer tantos descubrimientos, Newton contestaba que llegó a las soluciones de los problemas no por repentina inspiración, sino meditando continua e intensamente durante mucho tiempo acerca de ellos, hasta que pudo resolverlos.
+
+A la edad de 46 años sus energías se apartaron algo de la ciencia cuando fue electo miembro del Parlamento. Asistió durante dos años a esas sesiones, y nunca pronunció un discurso. Una vez se levantó y los asistentes quedaron en silencio para escuchar al gran hombre. El “discurso” de Newton fue breve; tan sólo pidió se cerrara una ventana, porque había una corriente de aire.
+
+Se siguió apartando de sus trabajos científicos cuando fue contratado como supervisor, y después como director de la casa de moneda. Newton renunció a su cátedra y dirigió sus esfuerzos para mejorar mucho los trabajos de la moneda, para desgracia de los falsificadores que proliferaban en esa época. Mantuvo su membresía en la Real Sociedad y fue elegido presidente, y reelegido cada año por el resto de su vida. A los 62 años escribió Opticks, donde resumió sus trabajos sobre la luz. Nueve años después escribió una segunda edición de sus Principia.
+
+Aunque el cabello de Newton encaneció a los 30 años, siempre lo conservó abundante, largo y ondulado y, a diferencia de otros contemporáneos, no usó peluca. Era modesto, muy sensible a la crítica y nunca se casó. Permaneció saludable en cuerpo y alma hasta la vejez. A los 80 conservaba todos los dientes, su vista y oído eran agudos, y su mente permaneció lúcida. En su vida fue considerado por sus compatriotas como el más grande científico de todos los tiempos. En 1705 fue armado caballero por la reina Ana. Newton murió a los 85 años, y fue enterrado en la abadía de Westminster, junto con reyes y héroes de Inglaterra.
+
+Newton demostró que el universo se rige por leyes naturales, que no son caprichosas ni malévolas; éste fue un conocimiento que despertó la esperanza y la inspiración de científicos, escritores, artistas, filósofos y personas de todos los andares de la vida que se dirigían a la Edad de la Razón. Las ideas y puntos de vista de Isaac Newton cambiaron verdaderamente al mundo y mejoraron la condición humana.
+
+### ENSAYO PERSONAL
+
+Cuando estaba en secundaria mi tutor me aconsejó no inscribirme en clases de ciencias y de matemáticas, y que mejor me enfocara hacia lo que parecía estar dotado: el arte. Seguí su consejo, y me interesé en dibujar historietas y en el boxeo, aunque en ninguno de los dos campos tuve mucho éxito. Después de cumplir con mi servicio militar probé suerte de nuevo pintando letreros, pero los fríos inviernos de Boston me impulsaron hacia el cálido Miami, en Florida. Ahí, a los 26 años de edad, conseguí un trabajo para pintar carteles y me encontré a Burl Grey, mi mentor intelectual. Al igual que yo, Burl nunca había estudiado física en la enseñanza intermedia. Pero le apasionaba la ciencia en general, y expresaba su pasión con muchas preguntas, cuando pintábamos juntos.
+
+*Imagen 15. Pintores en los extremos*
+
+Descripción de la Imagen 15. Caricatura de Paul y Burl pintando carteles sobre una base sostenida de 2 cuerdas atadas casi a los extremos que los suspende. Cada uno se encuentra en un extremo.
+
+Recuerdo que Burl me preguntaba sobre las tensiones en las cuerdas que sostenían los andamios donde estábamos. Eran simples tablas horizontales colgadas de un par de cuerdas. Burl tiraba de la cuerda de su lado y me pedía hacer lo mismo de mi lado. Comparaba las tensiones de ambas cuerdas, para ver cuál era mayor. Burl era más pesado que yo, y creía que la tensión de la cuerda de su lado era mayor. Como una cuerda de guitarra más tensada, la cuerda con mayor tensión vibraba con un tono más alto. La determinación de que la cuerda de Burl tenía más altura de tono parecía razonable, ya que sostenía más carga.
+
+Cuando caminaba hacia Burl para que me prestara alguna de sus brochas, se preguntaba si cambiaban las tensiones en las cuerdas. ¿Aumenta la tensión de su cuerda al acercarme yo? Concordamos en que debía aumentar, ya que esa cuerda sostenía cada vez más peso. ¿Y la cuerda de mi lado? ¿Disminuiría su tensión? Estuvimos de acuerdo en que sí, porque estaba sosteniendo una parte menor de la carga total. No sabía entonces que estaba discutiendo sobre física.
+
+*Imagen 16. Pintores acercándose*
+
+Descripción de la Imagen 16. Caricatura de Paul y Burl pintando carteles sobre una base sostenida de 2 cuerdas atadas casi a los extremos que los suspende. Paul se dirige caminando hacia Burl.
+
+Burl y yo exagerábamos para reforzar nuestros razonamientos (al igual que hacen los físicos). Si ambos nos parábamos en uno de los extremos del andamio y nos inclinábamos hacia afuera, era fácil de imaginar que el extremo opuesto de la tabla sería como el de un subibaja, y que la cuerda opuesta quedaría floja. Quiere decir que no había tensión en ella. A continuación dedujimos que la tensión en mi cuerda disminuiría en forma gradual conforme caminara hacia Burl. Era divertido hacernos estas preguntas y ver si las podíamos contestar.
+
+*Imagen 17. 2 pintores en un extremo*
+
+Descripción de la Imagen 17. Caricatura de Paul y Burl pintando carteles sobre una base sostenida de 2 cuerdas atadas casi a los extremos que los suspende. Los dos personajes están al borde izquierdo de la base. Se aprecia la cuerda del otro extremo destemplada.
+
+Una pregunta que no pudimos responder fue si la disminución de la tensión en mi cuerda, al retirarme de ella, se compensaría exactamente con un aumento de tensión en la cuerda de Burl. Por ejemplo, si en mi cuerda disminuía en 50 newtons, ¿aumentaría en 50 newtons en la cuerda de Burl? (Entonces razonábamos en libras, pero aquí usaremos la unidad científica de fuerza, el newton, que se abrevia N.) ¿La ganancia sería exactamente 50 N? En ese caso, ¿sería una gran coincidencia? No conocí la respuesta, sino hasta un año después, cuando por estímulo de Burl abandoné mi oficio de pintor de tiempo completo y fui a la universidad para aprender más acerca de la ciencia.
+
+Ahí aprendí que se dice que cualquier objeto en reposo, como el andamio de pintor donde trabajaba con Burl, está en equilibrio. Esto es, todas las fuerzas que actúan sobre él se compensan y se obtiene cero. Así, la suma de las fuerzas hacia arriba, ejercidas por las cuerdas de soporte, sí son la suma de nuestros pesos más el peso de la tabla. Una disminución de 50 N en una debe acompañarse de un aumento de 50 N en la otra.
+
+*Imagen 18. Pintores y Fuerzas igual a cero*
+
+Descripción de la Imagen 18. Caricatura de Paul y Burl pintando carteles sobre una base sostenida de 2 cuerdas atadas casi a los extremos que los suspende. Paul se dirige caminando hacia Burl. Esta vez hay escritas unas ecuaciones. La tensión más 50 N en la parte izquierda. Y tensión 2 menos 50 N, en la parte derecha. En el centro una ecuación que dice, sumatoria de fuerzas es igual a cero.
+
+Cuento todo esto, que es verídico, para señalar que las ideas de uno son muy distintas cuando no hay reglas que las guíen. Ahora cuando veo cualquier objeto en reposo se inmediatamente que todas las fuerzas que actúan sobre él se anulan. Vemos a la naturaleza en forma distinta cuando conocemos sus reglas. Sin las reglas de la física tendemos a ser supersticiosos y a ver magia donde no la hay. Es maravilloso que todo esté relacionado con todo lo demás, mediante una cantidad sorprendentemente pequeña de reglas, y en una forma bellamente sencilla. Las reglas de la naturaleza es lo que estudia la física.
+
+## La regla del equilibrio
+
+Si con un cordón atas una bolsa con 2 libras de azúcar y las cuelgas de una báscula de mano, el resorte de la báscula se estirará hasta que ésta indique 2 libras. El resorte estirado está bajo una “fuerza de estiramiento” llamada tensión. Es probable que la misma báscula en un laboratorio científico indique que la misma fuerza es 9 newtons. Tanto las libras como los newtons son unidades de peso, que a su vez son unidades de fuerza. La bolsa de azúcar es atraída hacia la Tierra con una fuerza gravitacional de 2 libras, o lo que es igual, de 9 newtons. Si cuelgas dos bolsas de azúcar iguales a la primera, la lectura será 18 newtons.
+
+*Imagen 19. Bolsa de azúcar y báscula.*
+
+Descripción de la Imagen 19. Una bolsa de azúcar cuelga de una báscula que marca en la misma señal 2 libras y 9 Newton. La tensión del cordón, que es hacia arriba, tiene la misma magnitud que el peso de la bolsa, por lo que la fuerza neta sobre la bolsa son cero.
+
+Nota que aquí son dos las fuerzas que actúan sobre la bolsa de azúcar: la fuerza de tensión que actúa hacia arriba, y su peso que actúa hacia abajo. Las dos fuerzas sobre la bolsa son iguales y opuestas y se anulan; la fuerza neta es cero. Por consiguiente la bolsa permanece en reposo. De acuerdo con la primera ley de Newton ninguna fuerza neta actúa sobre la bolsa. Podemos ver la primera ley de Newton con una luz diferente: el equilibrio mecánico.
+
+Cuando la fuerza neta que actúa sobre algo es cero, se dice que ese algo está en equilibrio mecánico. En notación matemática, la regla del equilibrio es:
+
+La sumatoria de todas las fuerzas que actúan sobre el cuerpo es igual a 0, expresado por ∑F=0 (Sigma de F mayúscula igual a cero, y se lee, la sumatoria de F es igual a cero).
+
+El símbolo ∑ (letra griega sigma mayúscula) representa “la suma vectorial de” y F representa “fuerzas”. Para un objeto suspendido en reposo, como la bolsa de azúcar, la regla dice que las fuerzas que actúan hacia arriba sobre algo que está en reposo deben estar equilibradas por otras fuerzas que actúan hacia abajo, para que la suma vectorial sea igual a cero. (Las cantidades vectoriales tienen en cuenta la dirección, por lo que las fuerzas hacia arriba son positivas y las fuerzas hacia abajo son negativas; cuando se suman en realidad se restan.)
+
+*Imagen 20. Pintores y fuerzas.*
+
+Descripción de la Imagen 20. Caricatura de Paul y Burl pintando carteles sobre una base sostenida de 2 cuerdas atadas casi a los extremos que los suspende. Paul se dirige caminando hacia Burl. Una flecha hacia arriba se dibuja sobre la cuerda que está próxima a Burl. Sobre la otra cuerda también se le dibuja una flecha hacia arriba pero más corta. Sobre cada uno de los personajes se dibuja una flecha hacia abajo. La flecha de Burl es más larga que la de Paul. En la mitad de la base se dibuja una flecha hacia abajo. La suma de los vectores hacia arriba es igual a la suma de los vectores hacia abajo. ∑F = 0 y la tabla está en equilibrio.
+
+En la Imagen 20 vemos las fuerzas que intervienen cuando Burl y Hewitt pintan un letrero sobre una tabla. La suma de tensiones hacia arriba es igual a la suma de sus pesos más el peso de la tabla. Observa cómo las magnitudes de los dos vectores hacia arriba son iguales a las magnitudes de los tres vectores hacia abajo. La fuerza neta sobre la tabla es cero, por lo que decimos que está en equilibrio mecánico.
+
+#### CUADRO DE PRÁCTICA
+
+*Imagen 21. Práctica con pintor y báscula*
+
+Descripción de la Imagen 21. Recordar la Caricatura de Paul y Burl pintando. En esta ocasión sólo aparece Burl, y las cuerdas que sostienen la tabla tienen una báscula. La primera situación muestra la báscula izquierda marcando 500 newton mientras Burl está de pie en la mitad de la tabla.
+
+La segunda situación muestra a Burl un poco corrido hacia la derecha alejado de la otra cuerda con báscula que marca 170 Newton.
+
+La tercera situación muestra a Burl colgado totalmente del extremo derecho de la tabla, y la báscula de la izquierda ahora marca 0 Newton.
+
+1. Cuando Burl está solo exactamente a la mitad de esta tabla, la báscula de la izquierda indica 500 N. ¿Cuál debe ser la lectura de la báscula derecha? ¿Cuál es el peso total de Burl y la tabla en unidades de Newton?
+
+2. Burl se aleja de la izquierda. ¿Cuál es la indicación de la báscula de la derecha?
+
+3. Por diversión, Burl se cuelga del extremo derecho. ¿Cuál es la lectura de la báscula de la derecha?
+
+Todo lo que no experimente cambios de movimiento está en equilibrio mecánico. Esto es porque la suma de las fuerzas es cero. ¡Eureka!
+
+#### RESPUESTAS DEL CUADRO DE PRÁCTICA
+
+¿Tus respuestas ilustran la regla del equilibrio? En la pregunta 1, la cuerda derecha debe tener una tensión de 500 N, porque Burl está a la mitad de la tabla, y ambas cuerdas sostienen su peso por igual. Como la suma de las tensiones hacia arriba es 1.000 N, el peso total de Burl y la tabla debe ser 1.000 N. Llamaremos +1.000 N a las fuerzas de tensión hacia arriba. Entonces los pesos hacia abajo son -1.000 N.
+
+¿Qué sucede si sumas +1.000 N y –1.000 N? La respuesta es que esa suma es igual a cero. Vemos así que la sumatoria de fuerzas es igual a cero.
+
+Para la pregunta 2, ¿llegaste a la respuesta correcta, que es 830 N? Razonamiento: Por la pregunta 1 se sabe que la suma de las tensiones en la cuerda es igual a 1.000 N, y como la cuerda de la izquierda tiene 170 N de tensión, la otra debe tener la diferencia: 1.000 N –170 N = 830 N. ¿Comprendes? Bien si lo comprendes. Si no, habla de eso con tus amigos. Después lee más.
+
+La respuesta a la pregunta 3 es 1.000 N. ¿Ves cómo todo esto ilustra que la sumatoria de fuerzas debe ser igual a cero?
+
+## Fuerza de soporte
+
+Imagina un libro que yace sobre una mesa. Está en equilibrio. ¿Qué fuerzas actúan sobre él? Una es la que se debe a la gravedad y que es el peso del libro. Como el libro está en equilibrio, debe haber otra fuerza que actúa sobre él que haga que la fuerza neta sea cero: una fuerza hacia arriba, opuesta a la fuerza de gravedad. La mesa es la que ejerce esa fuerza hacia arriba. A esta fuerza se le llama fuerza de soporte. Esta fuerza de soporte, hacia arriba, a menudo se llama fuerza normal y debe ser igual al peso del libro. Si a la fuerza normal la consideramos positiva, el peso es hacia abajo, por lo que es negativo, y al sumarse las dos resulta cero. La fuerza neta sobre el libro es cero. Otra forma de decir lo mismo es la sumatoria de fuerzas sobre el libro es cero.
+
+*Imagen 22. Fuerzas en cuerpos en reposo.*
+
+Descripción de la Imagen 22. (Izquierda) Un libro está sobre la mesa. Se le dibuja una flecha hacia arriba perpendicular a la superficie, y otra flecha de mismo tamaño hacia abajo. (Izquierda) La mesa empuja el libro hacia arriba, con igual fuerza que la de gravedad, que tira del libro hacia abajo.
+
+(Derecha) Una mano empuja para comprimir un resorte. Sobre la mano se dibuja una flecha hacia arriba, y otra del mismo tamaño hacia abajo. (Derecha) El resorte empuja tu mano hacia arriba, con tanta fuerza como la que ejerzas para oprimir el resorte.
+
+Para entender mejor que la mesa empuja el libro hacia arriba, compara el caso de la compresión de un resorte (Imagen 22). Comprime el resorte hacia abajo, y podrás sentir que el resorte empuja tu mano hacia arriba. Asimismo, el libro que yace sobre la mesa comprime los átomos de ésta, que se comportan como resortes microscópicos. El peso del libro comprime a los átomos hacia abajo, y ellos comprimen el libro hacia arriba. De esta forma los átomos comprimidos producen la fuerza de soporte.
+
+Cuando te subes en una báscula de baño hay dos fuerzas que actúan sobre ella. Una es el tirón de la gravedad, hacia abajo, que es tu peso, y la otra es la fuerza de soporte, hacia arriba del piso. Estas fuerzas comprimen un mecanismo (en efecto, un resorte) en la báscula que está calibrado para indicar la magnitud de la fuerza de soporte (Imagen 23). Es esta fuerza de soporte que muestra tu peso. Cuando te pesas en una báscula de baño en reposo, la fuerza de soporte y la fuerza de gravedad que te jala hacia abajo tienen la misma magnitud. Por lo tanto, decimos que tu peso es la fuerza de gravedad que actúa sobre ti.
+
+*Imagen 23. Hombre sobre báscula.*
+
+Descripción de la Imagen 23. Un señor está leyendo lo que marca la báscula sobre la cual está parado. Una flecha se dirige de arriba hacia abajo llegando a los pies, indicada como “Fuerza de gravedad”. De igual manera, una fuerza de abajo hacia arriba hasta llegar a la base de la báscula indicada como “Fuerza de soporte, lectura de la báscula”. El soporte hacia arriba es igual a la fuerza de gravedad hacia abajo.
+
+#### EXAMÍNATE
+
+*Imagen 24. Niño sobre una báscula.*
+
+Descripción de la Imagen 24. Un niño está sobre una báscula en cada uno de sus pies. Y al lado está el mismo niño sobre la misma báscula en cada uno de sus pies, pero está inclinado hacia su izquierda sin levantar sus pies.
+
+  1. ¿Cuál es la fuerza neta sobre una báscula de baño cuando sobre ésta se para un individuo que pesa 150 libras?
+
+  2. Supón que te paras en dos básculas de baño, y que tu peso se reparte por igual entre ambas. ¿Cuánto indicará cada una? ¿Y si descansas más de tu peso en un pie que en el otro?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. Cero, porque la báscula permanece en reposo. La báscula indica la fuerza de soporte, que tiene la misma magnitud que el peso; no indica la fuerza neta.
+
+La indicación de cada báscula es la mitad de tu peso. Esto se debe a que la suma de las indicaciones de las básculas, que es igual a la fuerza de soporte que ejerce el piso, debe equilibrarse con tu peso, para que la fuerza neta sobre ti sea cero. Si te inclinas más sobre una báscula que sobre la otra, aquélla indicará más de la mitad de tu peso, pero la segunda menos de la mitad, y la suma de ambas lecturas seguirá siendo tu peso. Al igual que el ejemplo de la gimnasta que cuelga de las argollas, si una báscula indica dos tercios de tu peso, la otra indicará un tercio del mismo.
+
+## Equilibrio de cosas en movimiento
+
+El reposo sólo es una forma de equilibrio. Un objeto que se mueve con rapidez constante en una trayectoria rectilínea también está en equilibrio. El equilibrio es un estado donde no hay cambios. Una bola de bolos que rueda a rapidez constante en línea recta también está en equilibrio, hasta que golpea los pinos. Si un objeto está en reposo (equilibrio estático) o rueda uniformemente en línea recta (equilibrio dinámico), la sumatoria de fuerzas es igual a cero.
+
+*Imagen 25. Niña empuja un bloque.*
+
+Descripción de la Imagen 25. Una niña empuja con sus manos hacia la derecha un gran bloque. Desde el punto de contacto entre las manos y el bloque se proyecta una flecha hacia la derecha que indica, 75 N, Fuerza aplicada. Desde el mismo punto de contacto, hacia la izquierda se proyecta una flecha hacia la izquierda del mismo tamaño que la anterior, y se indica 75 N, Fuerza de fricción. Cuando el empuje sobre la caja es igual que la fuerza de fricción entre la caja y el piso, la fuerza neta sobre la caja es cero, y se desliza con una rapidez constante.
+
+De acuerdo con la primera ley de Newton, un objeto que sólo esté bajo la influencia de una fuerza no puede estar en equilibrio. La fuerza neta no podría ser cero. Únicamente cuando actúan sobre él dos o más fuerzas puede estar en equilibrio. Podemos probar si algo está en equilibrio o no, observando si sufre cambios en su estado de movimiento o no.
+
+Imagina una caja que se empuja horizontalmente por el piso de una fábrica. Si se mueve a una rapidez constante, y su trayectoria es una línea recta, está en equilibrio dinámico. Esto nos indica que sobre la caja actúa más de una fuerza. Existe otra, que es probablemente la fuerza de fricción entre la caja y el piso. El hecho de que la fuerza neta sobre la caja sea igual a cero significa que la fuerza de fricción debe ser igual y opuesta a la fuerza de empuje. La regla de equilibrio brinda una forma razonada de observar todas las cosas en reposo: pilas de piedras, objetos de tu habitación o las vigas de acero de los puentes o en la construcción de edificios. Cualquiera que sea su configuración, en equilibrio estático, todas las fuerzas que actúan siempre se equilibran a cero. Lo mismo es cierto para los objetos que se mueven constantemente, sin acelerar, desacelerar ni cambiar de dirección. Para el equilibrio dinámico, todas las fuerzas que actúan también se equilibran a cero. La regla del equilibrio permite que veas mejor que el ojo del observador casual. Resulta agradable saber las razones de la estabilidad de los objetos en el mundo actual.
+
+#### EXAMÍNATE
+
+Un avión vuela a rapidez constante en una trayectoria recta y horizontal. En otras palabras, el avión está en equilibrio cuando vuela. Sobre él actúan dos fuerzas horizontales. Una es el empuje de la hélice, la cual lo impulsa hacia adelante. La otra es la resistencia del aire, que actúa en la dirección opuesta. ¿Cuál de ellas es mayor?
+
+#### COMPRUEBA TU RESPUESTA
+
+Las dos fuerzas tienen la misma magnitud. Llamemos positiva a la fuerza de avance que ejerce la hélice. La resistencia del aire es negativa. Como el avión está en equilibrio dinámico, ¿puedes ver que las dos fuerzas se combinan y que el resultado es cero? Por lo tanto, ni gana ni pierde rapidez.
+
+### La Tierra en movimiento
+
+Cuando Copérnico anunció su idea de una Tierra en movimiento, en el siglo XVI, no se entendía aún el concepto de la inercia. Había muchos argumentos y debates acerca de si la Tierra se mueve o no. La cantidad de fuerza necesaria para mantener la Tierra en movimiento escapaba a la imaginación. Otro argumento contra una Tierra en movimiento era el siguiente: imagina a un ave parada en reposo en la copa de un árbol muy alto. En el suelo, abajo de él, está un gusano gordo y jugoso. El ave lo observa y se deja caer verticalmente y lo atrapa. Esto sería imposible, se afirma, si la Tierra se moviera como lo sugirió Copérnico. Si él hubiera tenido razón, la Tierra tendría que viajar a una rapidez de 107.000 kilómetros por hora para describir un círculo alrededor del Sol en un año. Al convertir esta rapidez en kilómetros por segundo el resultado es 30 kilómetros por segundo. Aun si el ave pudiera descender de su rama en un segundo, el gusano habría sido desplazado 30 kilómetros por el movimiento de la Tierra. Sería imposible que un ave se dejara caer directamente y atrapara al gusano. Pero las aves sí atrapan gusanos desde las ramas altas de los árboles, y eso parecía una prueba evidente de que la Tierra debía estar en reposo.
+
+¿Puedes refutar este argumento? Puedes hacerlo, si invocas la idea de la inercia. Ya ves, no sólo la Tierra se mueve a 30 kilómetros por segundo, sino también el árbol, su rama, el ave parada en ésta, el gusano que está en el suelo y hasta el aire que hay entre los dos. Todos se mueven a 30 kilómetros por segundo. Las cosas que se mueven siguen en movimiento si no actúa sobre ellas alguna fuerza no equilibrada. Entonces, cuando el ave se deja caer desde la rama, su velocidad inicial lateral de 30 kilómetros por segundo no cambia. Atrapa al gusano sin que los afecte el movimiento de su entorno total.
+
+Párate junto a una pared. Salta de manera que tus pies no toquen al piso. ¿El muro te golpea a 30 kilómetros por segundo? No lo hace, porque también tú te mueves a 30 kilómetros por segundo, antes, durante y después de tu salto. Los 30 kilómetros por segundo es la rapidez de la Tierra en relación con el Sol, y no la del muro en relación contigo.
+
+Hace 400 años las personas tenían dificultad para entender ideas como éstas, no sólo porque desconocían el concepto de la inercia, sino porque no estaban acostumbradas a moverse en vehículos con gran rapidez. Los viajes lentos y agitados en carruajes tirados por caballos no se prestaban a hacer experimentos que indicaran los efectos de la inercia. En la actualidad podemos lanzar una moneda en un automóvil, en un autobús o en un avión que viajen a gran rapidez, y la atrapamos, con su movimiento vertical, como si el vehículo estuviera en reposo. Vemos la evidencia de la ley de la inercia cuando el movimiento horizontal de la moneda es igual antes, durante y después de atraparla. La moneda sigue con nosotros. La fuerza vertical de la gravedad sólo afecta el movimiento vertical de la moneda.
+
+*Imagen 26. Persona lanza moneda.*
+
+Descripción de la Imagen 26. Una persona está sentada en la silla dentro de un avión. Se muestra lanzando una moneda verticalmente hacia arriba. Una línea discontinua indica la trayectoria de la moneda la cual muestra que va a caer casi en la misma posición de la que fue lanzada. Cuando lanzas una moneda dentro de un avión que viaja a gran rapidez, se comporta como si el avión estuviera en reposo. La moneda sigue contigo. ¡Es la inercia en acción!
+
+Actualmente nuestras nociones sobre el movimiento son muy diferentes de las de nuestros antepasados. Aristóteles no se dio cuenta del concepto de la inercia porque no vio que todas las cosas en movimiento siguen las mismas reglas. Imaginó que las reglas del movimiento en los cielos eran muy diferentes a sus correspondientes en la Tierra. Vio que el movimiento vertical es natural, pero que el horizontal no era natural porque requería de una fuerza sostenida. Por otro lado, Galileo y Newton consideraron que todos los objetos en movimiento siguen las mismas reglas. Para ellos, los objetos en movimiento no requieren fuerza que los mantenga en movimiento, si no hay fuerzas que se opongan al mismo, como la fricción. Podemos imaginar cuán distinto hubiera avanzado la ciencia si Aristóteles hubiera reconocido la unidad de todas las clases de movimiento.
+
+## Resumen de términos
+
+Equilibrio mecánico: Estado de un objeto o sistema de objetos en el cual no hay cambios de movimiento. De acuerdo con la primera ley de Newton, si están en reposo, persiste el estado de reposo. Si están en movimiento, el movimiento continúa sin cambiar.
+
+Fuerza: En el sentido más simple, un empuje o un tirón.
+
+Inercia: La propiedad de las cosas de resistir cambios de movimiento.
+
+Primera ley de Newton del movimiento (ley de la inercia): Todo objeto continúa en su estado de reposo, o de movimiento uniforme en línea recta, a menos que sea obligado a cambiar ese estado por fuerzas que actúen sobre él.
+
+Regla del equilibrio: En cualquier objeto o sistema de objetos en equilibrio, la suma de las fuerzas que actúan es igual a cero.
+
+### Preguntas de repaso
+
+#### El movimiento, según Aristóteles
+
+1. Contrasta las ideas de Aristóteles acerca del movimiento natural y del movimiento violento.
+
+2. ¿Qué clase de movimiento natural o violento, atribuía Aristóteles a la Luna?
+
+3. ¿Qué estado de movimiento atribuía Aristóteles a la Tierra?
+
+#### Copérnico y la Tierra en movimiento
+
+4. ¿Qué relación estableció Copérnico entre el Sol y la Tierra?
+
+#### Galileo y la Torre inclinada
+
+5. ¿Qué descubrió Galileo en su legendario experimento en la Torre Inclinada de Pisa?
+
+#### Los planos inclinados de Galileo
+
+6. ¿Qué descubrió Galileo acerca de los cuerpos en movimiento y las fuerzas, en sus experimentos con planos inclinados?
+
+7. ¿Qué quiere decir que un objeto en movimiento tiene inercia? Describe un ejemplo.
+
+8. ¿La inercia es la razón de que los objetos en movimiento se mantengan en movimiento, o es el nombre que se da a esta propiedad?
+
+#### Primera ley de Newton del movimiento
+
+9. Cita la primera ley de Newton del movimiento.
+
+#### Fuerza neta
+
+10. ¿Cuál es la fuerza neta sobre un carro que es tirado con 100 libras hacia la derecha y con 30 libras hacia la izquierda?
+
+11. ¿Por qué se dice que la fuerza es una cantidad vectorial?
+
+#### La regla del equilibrio
+
+12. ¿La fuerza se puede expresar en libras y también en newtons?
+
+13. ¿Cuál es la fuerza neta sobre un objeto del cual se tira con 80 newtons hacia la derecha y con 80 newtons hacia la izquierda?
+
+14. ¿Cuál es la fuerza neta sobre una bolsa en la cual la gravedad tira hacia abajo con 18 newtons, y de la cual una cuerda tira hacia arriba con 18 newtons?
+
+15. ¿Qué significa decir que algo está en equilibrio mecánico?
+
+16. Enuncia con símbolos la regla del equilibrio.
+
+#### Fuerza de soporte
+
+17. Un libro que pesa 15 N descansa sobre una mesa plana. ¿Cuántos newtons de fuerza de soporte debe ejercer la mesa? ¿Cuál es la fuerza neta sobre el libro en este caso?
+
+18. Cuando te paras sin moverte sobre una báscula de baño, ¿cómo se compara tu peso con la fuerza de soporte de esta báscula?
+
+#### Equilibrio de objetos en movimiento
+
+19. Una bola de bolos en reposo está en equilibrio. ¿También está en equilibrio cuando se mueve con una rapidez constante en trayectoria rectilínea?
+
+20. ¿Cuál es la prueba para decir si un objeto en movimiento está o no en equilibrio?
+
+21. Si empujas una caja con una fuerza de 100 N, y se desliza en línea recta con rapidez constante, ¿cuánta fricción actúa sobre la caja?
+
+#### La Tierra en movimiento
+
+22. ¿Qué concepto faltaba en el pensamiento de los seres humanos del siglo XVI, que no podían creer que la Tierra estuviera en movimiento?
+
+23. Un ave parada sobre un árbol se mueve a 30 km/s en relación con el lejano Sol. Cuando se deja caer al suelo bajo él, ¿todavía va a 30 km/s, o esa rapidez se vuelve cero?
+
+24. Párate junto a un muro que se mueva a 30 km/s en relación con el Sol, y salta. Cuando tus pies están sobre el piso, también tú te mueves a 30 km/s. ¿Sostienes esta rapidez cuando tus pies se despegan del piso? ¿Qué concepto respalda tu respuesta?
+
+25. ¿De qué no pudo darse cuenta Aristóteles acerca de las reglas de la naturaleza para los objetos en la Tierra y en los cielos?
+
+### Proyecto
+
+Pídele a un amigo que clave una tachuela en un trozo de madera colocado en la cima de una pila libros colocados sobre tu cabeza. ¿Por qué no te lastima?
+
+### Ejercicios
+
+Por favor, no te intimides por el gran número de ejercicios en este libro. Si el objetivo de tu curso es estudiar muchos capítulos, es probable que tu profesor sólo te pida resolver unos cuantos de cada capítulo.
+
+1. Una bola que rueda por el piso no continúa rodando indefinidamente. ¿Esto es porque busca un lugar de reposo o porque alguna fuerza actúa sobre ella? Si hay una fuerza ¿cuál sería ésta?
+
+2. Copérnico postuló que la Tierra se mueve en torno al Sol (y no lo contrario); pero se le complicó la idea. ¿Qué conceptos de la mecánica le faltaron (que después fueron introducidos por Galileo y Newton) que hubieran disipado sus dudas?
+
+3. ¿Qué idea aristotélica desacreditó Galileo en su legendaria demostración de la Torre Inclinada?
+
+4. ¿Qué idea aristotélica demolió Galileo con sus experimentos con planos inclinados?
+
+5. ¿Quién introdujo primero el concepto de inercia, Galileo o Newton?
+
+6. Los asteroides han estado moviéndose por el espacio durante miles de millones de años. ¿Qué los mantiene en movimiento?
+
+7. Una sonda espacial puede ser conducida por un cohete hasta el espacio exterior. ¿Qué mantiene el movimiento de la sonda después de que el cohete ya no la sigue impulsando?
+
+8. Al contestar la pregunta “¿qué mantiene a la Tierra moviéndose alrededor del Sol?”, un amigo tuyo asegura que la inercia la mantiene en movimiento. Corrige esa aseveración errónea.
+
+9. Tu amigo dice que la inercia es una fuerza que mantiene las cosas en su lugar, ya sea en reposo o en movimiento. ¿Estás de acuerdo? ¿Por qué?
+
+10. Otro de tus amigos dice que las organizaciones burocráticas tienen mucha inercia. ¿Se parece a la primera ley de Newton de la inercia?
+
+11. Una bola está en reposo en medio de un coche de juguete. Cuando se hace avanzar al coche, la bola rueda contra su parte trasera. Interpreta esta observación en términos de la primera ley de Newton.
+
+12. Al jalar una toalla de papel o una bolsa de plástico para desprenderlas de un rollo, ¿por qué es más efectivo un tirón brusco que uno gradual?
+
+13. Si estás dentro de un automóvil en reposo que es golpeado en la parte trasera, podrías sufrir una severa lesión llamada latigazo cervical. ¿Qué tiene que ver esta lesión con la primera ley de Newton?
+
+14. En términos de la primera ley de Newton (la ley de la inercia), ¿cómo puede ayudar la cabecera del asiento en un automóvil a proteger la nuca en un choque por atrás?
+
+15. ¿Por qué te tambaleas hacia adelante dentro de un autobús que se detiene de repente? ¿Por qué te tambaleas hacia atrás cuando acelera? ¿Qué leyes se aplican en este caso?
+
+16. Supón que vas en un automóvil en movimiento y que el motor se apaga. Pisas el freno y lentamente el carro disminuye su rapidez a la mitad. Si sueltas el freno el automóvil, ¿acelerará un poco o continuará reduciendo su rapidez debido a la fricción? Sustenta tu respuesta.
+
+17. Empuja un carrito y se moverá. Cuando dejas de empujarlo, se detiene. ¿Viola esto la ley de inercia de Newton? Sustenta tu respuesta.
+
+18. Suelta una bola por una mesa de bolos, y verás que con el tiempo se mueve con más lentitud. ¿Viola eso la ley de inercia de Newton? Sustenta tu respuesta.
+
+19. En un par de fuerzas, una tiene 20 N de magnitud y la otra 12 N. ¿Cuál fuerza neta máxima es posible tener con estas dos fuerzas? ¿Cuál es la fuerza neta mínima posible?
+
+20. Cuando un objeto está en equilibrio mecánico, ¿qué puede decirse correctamente acerca de todas las fuerzas que actúan en él? ¿La fuerza neta necesariamente debe ser cero?
+
+21. Un mono está colgado en reposo de una liana. ¿Cuáles son las dos fuerzas que actúan sobre el mono? ¿Alguna es mayor?
+
+22. ¿Puede un objeto estar en equilibrio mecánico cuando sólo hay una fuerza que actúe sobre él? Explica por qué.
+
+23. Cuando se arroja una bola hacia arriba, se detiene momentáneamente en la cumbre de su trayectoria. ¿Está en equilibrio durante este breve instante? ¿Por qué?
+
+24. Un disco de hockey se desliza por el hielo a rapidez constante. ¿Está en equilibrio? ¿Por qué?
+
+25. ¿Podrías afirmar que ninguna fuerza actúa sobre un cuerpo en reposo? ¿O es correcto decir que ninguna fuerza neta actúa sobre él? Defiende tu respuesta.
+
+26. Si el fortachón del ejercicio anterior ejerce una fuerza hacia abajo de 800 N en la cuerda, ¿cuánta fuerza hacia arriba ejerce sobre el bloque?
+
+27. La fuerza de gravedad jala hacia abajo un libro que está sobre una mesa. ¿Qué fuerza evita que el libro acelere hacia abajo?
+
+28. ¿Cuántas fuerzas significativas actúan sobre un libro en reposo que está sobre una mesa? Menciona esas fuerzas.
+
+29. Considera la fuerza normal sobre un libro en reposo que está sobre la superficie de una mesa. Si la mesa está inclinada de manera que la superficie forme un plano inclinado, ¿cambiará la magnitud de la fuerza normal? ¿Por qué?
+
+30. Cuando empujas hacia abajo un libro en reposo que está sobre una mesa, ¿sientes una fuerza hacia arriba? ¿Esta fuerza depende de la fricción? Defiende tu respuesta.
+
+31. Cuando te paras, ¿el piso ejerce una fuerza hacia arriba contra tus pies? ¿Cuánta fuerza ejerce? ¿Por qué esa fuerza no te mueve hacia arriba?
+
+32. Coloca un libro pesado sobre una mesa; la mesa lo empuja hacia arriba. ¿Por qué esa fuerza no hace que el libro se levante de la mesa?
+
+33. Una jarra vacía con peso W descansa sobre una mesa. ¿Cuál es la fuerza de soporte que la mesa ejerce sobre la jarra? ¿Cuál es la fuerza de soporte cuando se vierte en la jarra agua que pesa W?
+
+34. Considera una caja que está en reposo sobre el piso de una fábrica. Cuando dos trabajadores la levantan, ¿la fuerza de soporte sobre la caja dada por el piso se incrementa, disminuye o permanece sin cambio? ¿Qué sucede a la fuerza de soporte sobre los pies del trabajador?
+
+35. Cada una de dos personas tira de una cuerda con una fuerza de 300 N en un juego de tira y afloja. ¿Cuál es la fuerza neta sobre la cuerda? ¿Cuánta fuerza es ejercida en cada persona por la cuerda?
+
+36. Sobre un paracaidista que desciende en el aire actúan dos fuerzas: su peso y la resistencia del aire. Si el descenso es uniforme, sin ganancia ni pérdida de rapidez, el paracaidista está en equilibrio dinámico. ¿Cómo comparas las magnitudes del peso y de la resistencia del aire?
+
+37. Antes de la época de Galileo y Newton, algunos sabios pensaban que una piedra que se deja caer desde la punta de un mástil alto de un barco en movimiento caería verticalmente y llegaría a la cubierta atrás del mástil, a una distancia igual a la que había avanzado el barco mientras la piedra caía. A la luz de lo que captas de la primera ley de Newton, ¿qué piensas acerca de esto?
+
+38. Si lanzas una moneda hacia arriba estando dentro de un tren en movimiento, ¿dónde cae cuando el movimiento del tren es uniforme en línea recta? ¿Y cuando el tren desacelera mientras la moneda está en el aire? ¿Y cuando el tren está tomando una curva?
+
+39. La chimenea de un tren de juguete estacionario es un cañón de resorte vertical que dispara un balín de acero a una altura aproximada de un metro, directamente hacia arriba, tan recto que el balín siempre regresa a la chimenea. Supón que el tren se mueve a rapidez constante por un tramo recto de vía. ¿Crees que el balín seguirá regresando a la chimenea si es disparado desde el tren en movimiento? ¿Y si el tren acelera por el tramo recto? ¿Y si recorre una vía circular a rapidez constante? ¿Por qué son distintas tus respuestas?
+
+40. Piensa en el avión que se vuela directamente hacia el este en un tramo, y luego regresa volando directamente hacia el oeste. Al volar en una dirección, sigue la rotación de la Tierra; y cuando viaja en la dirección contraria, va en contra de la rotación de la Tierra. Sin embargo, cuando no hay viento, los tiempos de vuelo son iguales en cualquier dirección. ¿Por qué?
+
+# CAPÍTULO 3: movimiento rectilíneo
+
+Hace más de 2.000 años, los antiguos científicos griegos estaban familiarizados con algunas de las ideas de la física que estudiamos en la actualidad. Entendían bien algunas propiedades de la luz, pero se confundían en lo relativo al movimiento. Con Galileo y su estudio de las esferas sobre planos inclinados, se alcanzó un gran progreso respecto a la comprensión del movimiento, como vimos en el capítulo anterior. En este capítulo aprenderemos las reglas del movimiento que abarcan tres conceptos: rapidez, velocidad y aceleración. Sería bueno dominar estos conceptos, pero bastará con que te familiarices con ellos y puedas distinguirlos entre sí. En los siguientes capítulos te habituarás más a ellos. Aquí sólo estudiaremos la forma más sencilla del movimiento: la que va a lo largo de una trayectoria en línea recta, es decir, el movimiento rectilíneo.
+
+## El movimiento es relativo
+
+Todo se mueve, hasta lo que parecería estar en reposo. Todo se mueve en relación con el Sol y las estrellas. Mientras estás leyendo este libro, te mueves a unos 107.000 kilómetros por hora en relación con el Sol, y te mueves aún más rápido con respecto al centro de nuestra galaxia. Cuando examinamos el movimiento de algo, lo que describimos es el movimiento en relación con algo más. Si caminas por el pasillo de un autobús en movimiento, es probable que tu rapidez con respecto al piso del vehículo sea bastante distinta de tu rapidez con respecto al camino. Cuando se dice que un auto de carreras alcanza una rapidez de 300 kilómetros por hora, queremos decir que es con respecto a la pista de competencias. A menos que indiquemos otra cuestión, al describir la rapidez de cosas de nuestro entorno, lo haremos en relación con la superficie terrestre. El movimiento es relativo.
+
+## Rapidez
+
+Antes de Galileo, la gente describía los objetos en movimiento simplemente como “lentos” o “rápidos”; no obstante, tales descripciones eran muy vagas. A Galileo se le da el crédito de ser primero en medir la rapidez al considerar la distancia que se cubre durante cierto tiempo. Definió la rapidez como la distancia recorrida por unidad de tiempo.
+
+Rapidez es igual a la distancia dividida entre el tiempo.
+
+Un ciclista que recorre 30 metros en un tiempo de 2 segundos, por ejemplo, tiene una rapidez de 15 metros por segundo.
+
+*Imagen 27. Sol y la Tierra girando.*
+
+Descripción de la Imagen 27. Se muestra al planeta Tierra girando sobre una órbita circular alrededor del Sol. Cuando estás sentado en una silla, tu rapidez es cero con respecto a la Tierra; pero 30 km/s respecto al Sol.
+
+Cualquier combinación de unidades de distancia entre tiempo es válida para medir la rapidez: para los vehículos de motor (o en distancias largas) por lo común se utilizan las unidades de kilómetros por hora (km/h) o millas por hora (mi/h, o mph). Para distancias más cortas con frecuencia se usan las unidades de metros por segundo (m/s). El símbolo diagonal (/) se lee por, y quiere decir “dividido entre”. En este libro usaremos principalmente metros por segundo. A continuación se muestra la comparación de rapideces, en distintas unidades.
+
+### Rapideces aproximadas en distintas unidades.
+
+A continuación encuentras algunas rapideces aproximadas en distintas unidades. Mi es millas, h es horas, Km es kilómetros, m es metro, y s es segundos.
+
+12 mi/h=20 Km/h=6 m/s
+
+25 mi/h=40 Km/h=11 m/s
+
+37 mi/h=60 Km/h=17 m/s
+
+50 mi/h=80 Km/h=22 m/s
+
+62 mi/h=100 Km/h=28 m/s
+
+75 mi/h=120 Km/h=33 m/s
+
+100 mi/h=160 Km/h=44 m/s
+
+### Rapidez instantánea
+
+Las cosas que se mueven a menudo tienen variaciones en la rapidez. Un automóvil, por ejemplo, puede recorrer una calle a 50 km/h, detenerse hasta 0 km/h con la luz roja del semáforo, y acelerar sólo hasta 30 km/h debido al tránsito vehicular. Puedes saber en cada instante la rapidez del automóvil observando el velocímetro. La rapidez en cualquier instante es la rapidez instantánea. En general, cuando un automóvil viaja a 50 km/h, sostiene esa rapidez durante menos de una hora. Si lo hiciera durante toda una hora, recorrería los 50 km. Si durara media hora a esa velocidad, recorrería la mitad de esa distancia, es decir, 25 km. Si sólo durara 1 minuto, recorrería menos de 1 km.
+
+### Rapidez media
+
+Cuando se planea hacer un viaje en automóvil, el conductor desea saber el tiempo de recorrido. Lo que considera es la rapidez promedio o rapidez media, en el viaje. La rapidez media se define como:
+
+```latex
+Rapidez media= \frac{distancia total recorrida}{tiempo de recorrido}
+```
+
+Descripción de la ecuación de rapidez media. La rapidez media es igual a la distancia total recorrida dividido por el tiempo de recorrido.
+
+La rapidez media se calcula con mucha facilidad. Por ejemplo, si recorremos 80 kilómetros de distancia en un tiempo de 1 hora, decimos que nuestra rapidez media fue de 80 kilómetros por hora. Asimismo, si recorriéramos 320 kilómetros en 4 horas,
+
+```latex
+Rapidez media= \frac{distancia total recorrida}{tiempo de recorrido}= \frac{320 Km}{4 h}= 80 Km/h
+```
+
+Descripción de ecuación ejemplo de rapidez media. La rapidez media es igual a la distancia total recorrida dividido por el tiempo de recorrido. A su vez es igual a 320 Km dividido 4 h. el resultado final es 80 Km/h.
+
+Notamos que cuando una distancia en kilómetros (km) se divide entre un tiempo en horas (h), el resultado está en kilómetros por hora (km/h).
+
+Como la rapidez media es la distancia total recorrida dividida entre el tiempo total del recorrido, no indica las diversas rapideces ni sus posibles variaciones durante intervalos de tiempo más cortos. En la mayoría de nuestros viajes avanzamos con varias rapideces, de manera que la rapidez media es muy distinta de la rapidez instantánea.
+
+Si conocemos la rapidez media y el tiempo de recorrido, es fácil determinar la distancia recorrida. Si la definición anterior se ordena de forma sencilla, se obtiene
+
+Distancia total recorrida = rapidez media × tiempo
+
+Si tu rapidez media es 80 kilómetros por hora durante un viaje de 4 horas, por ejemplo, recorres una distancia total de 320 kilómetros.
+
+Cuestiónate: si te infraccionan por exceso de velocidad, ¿fue por tu rapidez instantánea o por tu rapidez media? ¡Eureka!
+
+#### EXAMÍNATE
+
+1. ¿Cuál es la rapidez media de un guepardo que recorre 100 metros en 4 segundos? ¿Y si recorre 50 m en 2 s?
+
+2. Si un automóvil se mueve con una rapidez media de 60 km/h durante una hora, recorre una distancia de 60 km.
+
+a) ¿Cuánto hubiera recorrido si se moviera con esa rapidez durante 4 h?
+
+b) ¿Y durante 10 h?
+
+3. Además del velocímetro en el tablero de instrumentos, en los automóviles se instala un odómetro, que indica la distancia recorrida. Si se ajusta la distancia inicial a cero, al principio de un viaje, y media hora después indica 40 km, ¿cuál fue la rapidez media?
+
+4. ¿Sería posible alcanzar esta rapidez media sin exceder la rapidez de 80 km/h?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+(¿Estás leyendo esto antes de haber razonado las respuestas? Como dijimos en el capítulo anterior, cuando encuentres las preguntas Examínate que hay en este libro, detente y piensa antes de leer las respuestas que vienen adelante. No sólo aprenderás más, sino que disfrutarás del mayor aprendizaje.)
+
+1. En ambos casos, la respuesta es 25 m/s:
+
+Rapidez promedio = distancia recorrida ÷ intervalo de tiempo = 100 metros ÷ 4 segundos = 25 m/s.
+
+2. La distancia recorrida es la rapidez media × tiempo del viaje, de manera que
+
+a) Distancia = 60 km/h × 4 h = 240 km.
+
+b) Distancia = 60 km/h × 10 h = 600 km.
+
+3. Rapidez media = distancia total recorrida ÷ intervalo de tiempo = 40 Km ÷ 0,5 h = 80 km/h.
+
+4. No, si el viaje parte del reposo y termina en el reposo. Hay veces que las rapideces instantáneas son menores que 80 km/h, por lo que el conductor debe manejar, por momentos, con rapidez mayor que 80 km/h para obtener un promedio de 80 km/h. En la práctica las rapideces medias suelen ser mucho menores que las máximas rapideces instantáneas.
+
+## Velocidad
+
+Cuando se conocen tanto la rapidez como la dirección de un objeto, estamos especificando su velocidad. Cuando decimos que un automóvil viaja a 60 km/h, por ejemplo, nos referimos a su rapidez. Pero si señalamos que se mueve 60 km/h al norte especificamos su velocidad. La rapidez es una descripción de qué tan rápido se mueve; mientras que la velocidad indica qué tan rápido se mueve y en qué dirección. A una cantidad cómo la velocidad, que especifica tanto dirección como magnitud se le denomina cantidad vectorial. Recuerda del capítulo 2 que la fuerza es una cantidad vectorial, la cual para describirse requiere tanto magnitud como dirección. Asimismo, la velocidad es una cantidad vectorial. En cambio, las cantidades que se describen sólo con magnitud se denominan cantidades escalares. La rapidez es una cantidad escalar.
+
+### Velocidad constante
+
+La rapidez constante no varía. Algo con rapidez constante ni disminuye ni aumenta su rapidez. Por otro lado, la velocidad constante implica tanto rapidez constante como dirección constante. Esta última es una recta: la trayectoria del objeto no describe una curva. Por consiguiente, velocidad constante significa movimiento en una recta a rapidez constante.
+
+### Velocidad variable
+
+Si la rapidez o la dirección cambian (o si ambas lo hacen), entonces cambia la velocidad. Por ejemplo, un automóvil que describe un círculo tiene rapidez constante, pero como su dirección cambia, su velocidad no es constante. Estudiaremos esto en la siguiente sección cuando veamos la aceleración.
+
+*Imagen 28. Carro en trayectoria circular.*
+
+Descripción de la Imagen 28. Muestra un carro describiendo una trayectoria circular. El automóvil en la trayectoria circular puede tener una rapidez constante, pero su velocidad cambia a cada instante. ¿Por qué?
+
+#### EXAMÍNATE
+
+1. "Una persona se mueve con una rapidez constante en una dirección constante." Di lo mismo con menos palabras.
+
+2. El velocímetro de un automóvil que va hacia el este indica 100 km/h. Se cruza con otro que va hacia el oeste a 100 km/h. ¿Los dos vehículos tienen la misma rapidez? ¿Tienen la misma velocidad?
+
+3. Durante cierto intervalo de tiempo, el velocímetro de un automóvil marca 60 km/h constantes. ¿Esto equivale a una rapidez constante? ¿Y a una velocidad constante?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. "Una persona se mueve con velocidad constante."
+
+2. Ambos vehículos tienen la misma rapidez; pero sus velocidades son contrarias porque se mueven en direcciones contrarias.
+
+3. La lectura constante del velocímetro indica que la rapidez es constante, aunque la velocidad quizá no sea constante ya que el vehículo podría no estarse moviendo en una trayectoria rectilínea, en cuyo caso estaría acelerando.
+
+### Aceleración
+
+Podemos cambiar la velocidad de algo al modificar su rapidez, su dirección o ambas. El qué tan rápido cambia la velocidad es lo que entendemos por aceleración:
+
+```latex
+Acelaración=\frac{cambio de velocidad}{intervalo de tiempo}
+```
+
+Descripción de la Ecuación de aceleración. La aceleración es igual al cambio de velocidad dividido por el intervalo de tiempo.
+
+Decimos que un cuerpo tiene aceleración cuando hay un cambio en su estado de movimiento. Estamos familiarizados con la aceleración de un automóvil.
+
+*Imagen 29. Motociclista andando.*
+
+Descripción de la Imagen 29. La Imagen muestra 3 momentos de una persona conduciendo una motocicleta. La primera situación muestra a la motocicleta andando sobre una superficie plana. La siguiente situación muestra a la motocicleta frenando poco antes de seguir por un precipicio. La siguiente situación muestra al motociclista con un signo de exclamación, porque viaja sobre una superficie curva y parece salirse del camino. Decimos que un cuerpo tiene aceleración cuando hay un cambio en su estado de movimiento.
+
+Cuando el conductor pisa el acelerador, los pasajeros experimentamos aceleración conforme nos recargarnos más contra los asientos. La idea clave que define la aceleración es el cambio. Supongamos que al manejar aumentamos, en un segundo, nuestra velocidad de 30 a 35 kilómetros por hora, y en el siguiente segundo a 40 kilómetros por hora, y a 45 en el siguiente y así sucesivamente. Cambiamos la velocidad en 5 kilómetros por hora cada segundo. Este cambio de velocidad es lo que entendemos por aceleración.
+
+```latex
+Aceleración= \frac{cambio de velocidad}{intervalo de tiempo}= \frac{5 Km/h}{1 s}=5 Km/h\times s
+```
+
+Descripción de la Ecuación de ejemplo de aceleración. La aceleración es igual al cambio de velocidad dividido por el intervalo de tiempo. A su vez es igual a 5 Km/h dividido por 1 s. el resultado es 5 Km/h por s.
+
+En este caso, la aceleración es 5 kilómetros por hora por segundo (y se escribe 5 km/h×s). Observa que entran dos veces unidades de tiempo: una por la unidad de velocidad, y de nuevo por el intervalo de tiempo en que cambió la velocidad.
+
+Nota también que la aceleración no es tan sólo el cambio total de la velocidad: es la razón de cambio de la velocidad con respecto al tiempo, o el cambio de velocidad por segundo.
+
+El término aceleración se aplica tanto a disminuciones como a incrementos de la velocidad. Por ejemplo, decimos que los frenos de un automóvil producen grandes desaceleraciones, es decir, que hay una gran disminución de la velocidad del vehículo en un segundo. Con frecuencia se llama a esto desaceleración. Sentimos la desaceleración cuando el conductor de un autobús aplica los frenos y nos sentimos impulsados hacia adelante del vehículo.
+
+Aceleramos siempre que nos movemos en trayectorias curvas, aun cuando nos movamos a rapidez constante, ya que nuestra dirección cambia y, por consiguiente, también cambia nuestra velocidad. Sentimos esta aceleración cuando algo nos impulsa hacia el exterior de la curva.
+
+Por este motivo distinguimos entre rapidez y velocidad, y definimos la aceleración como la razón con la que cambia la velocidad en el tiempo, y con ello abarcamos los cambios tanto en la rapidez como en la dirección.
+
+Quien ha estado de pie en un autobús lleno de pasajeros ha sentido la diferencia entre la velocidad y la aceleración. A excepción de los saltos en un camino irregular, tú puedes estar de pie, sin esfuerzos adicionales, dentro de un autobús que se mueva a velocidad constante, independientemente de lo rápido que vaya. Puedes lanzar una moneda hacia arriba y atraparla exactamente del mismo modo que si el vehículo estuviera parado. Sólo cuando el autobús acelera, sea que aumente o disminuya su rapidez, o que tome una curva, es cuando tienes algunas dificultades.
+
+*Imagen 30. Vehículo frenando.*
+
+Descripción de la Imagen 30. Muestra el dibujo de un hombre que ha frenado repentinamente su vehículo porque hay en frente un precipicio. La persona casi se sale del vehículo y su gorra se le ha escapado. El conductor siente una rápida desaceleración, al ser impulsado hacia adelante (de acuerdo con la primera ley de Newton).
+
+En gran parte de este libro sólo nos ocuparemos de los movimientos a lo largo de una línea recta. Cuando se describe el movimiento rectilíneo, se acostumbra usar los términos rapidez y velocidad en forma indistinta. Cuando no cambia la dirección, la aceleración se puede expresar como la razón de cambio de la rapidez en el tiempo.
+
+```latex
+Aceleración \left( en una recta \right)= \frac{cambio de rapidez}{intervalo de tiempo}
+```
+
+Descripción de la Ecuación de aceleración en una recta. Aceleración en una recta es igual al cambio de rapidez dividido por el intervalo de tiempo.
+
+Dato curioso: hay tres dispositivos que cambian la velocidad en un automóvil: el acelerador, los frenos y el volante. ¡Eureka!
+
+#### EXAMÍNATE
+
+1. Un automóvil puede pasar del reposo a 90 km/h en 10 s. ¿Cuál es su aceleración?
+
+2. En 2,5 s, un automóvil aumenta su rapidez de 60 a 65 km/h, mientras que una bicicleta pasa del reposo a 5 km/h. ¿Cuál de los dos tiene la mayor aceleración? ¿Cuál es la aceleración de cada uno?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. Su aceleración es 9 km/h×s. Específicamente hablando, sería su aceleración media, porque habría cierta variación en esta tasa de aumento de rapidez.
+
+2. Las aceleraciones del automóvil y de la bicicleta son iguales: 2 km/h×s.
+
+Aceleración de coche = cambio de velocidad ÷ intervalo de tiempo = (65 Km/h -60 Km/h) ÷ 2,5 s = 5 Km/h ÷ 2,5 s = 2 Km/h×s
+
+Aceleración de bici = cambio de velocidad ÷ intervalo de tiempo = (5 Km/h -0 Km/h) ÷ 2,5 s = 5 Km/h ÷ 2,5 s = 2 Km/h×s
+
+Aunque tales velocidades son muy distintas, la razón de cambio de la velocidad es la misma. Por lo tanto, las aceleraciones son iguales.
+
+#### EXAMÍNATE
+
+1. ¿Cuál es la aceleración de un automóvil de carreras que pasa zumbando junto a ti con velocidad constante de 400 km/h?
+
+2. ¿Qué tiene mayor aceleración, un avión que pasa de 1,000 a 1,005 km/h en 10 segundos, o una patineta que pasa de 0 a 5 km/h en 1 segundo?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. Cero, porque su velocidad no cambia.
+
+2. Los dos aumentan su rapidez en 5 km/h, pero la patineta lo hace en la décima parte del tiempo. Por consiguiente, la patineta tiene la mayor aceleración, 10 veces mayor. Con algunos cálculos se demuestra que la aceleración del avión es 0.5 km/h×s; mientras que la de la patineta, que es más lenta, es 5 km/h×s. La velocidad y la aceleración son conceptos muy diferentes. Es muy importante diferenciarlos.
+
+### La aceleración en los planos inclinados de Galileo
+
+Galileo desarrolló el concepto de aceleración con sus experimentos en planos inclinados. Su principal interés era el de la caída de los objetos, y como carecía de los cronómetros adecuados, usó planos inclinados para disminuir el movimiento acelerado e investigarlo más cuidadosamente.
+
+Encontró que una esfera que rueda bajando por un plano inclinado aumenta en la misma cantidad su rapidez en los segundos sucesivos, es decir, rueda sin cambiar su aceleración. Por ejemplo, veríamos que una esfera que rueda por un plano con cierto ángulo de inclinación aumenta su rapidez en 2 metros por segundo cada segundo que rueda. Este incremento por segundo es su aceleración. Su rapidez instantánea a intervalos de 1 segundo, con esta aceleración, será entonces 0, 2, 4, 6, 8, 10, etcétera, metros por segundo. Observamos que la rapidez o velocidad instantánea de la esfera, en cualquier tiempo después de haber sido soltada desde el reposo, es simplemente su aceleración multiplicada por ese tiempo:
+
+Velocidad adquirida = aceleración × tiempo
+
+Si sustituimos la aceleración de la esfera en esta ecuación (dos metros por segundo al cuadrado), podemos ver que al final de 1 segundo viaja a 2 metros por segundo; al final de 2 segundos viaja a 4 metros por segundo; al final de 10 segundos se mueve a 20 metros por segundo; y así sucesivamente. La rapidez o velocidad instantánea en cualquier momento no es más que la aceleración multiplicada por la cantidad de segundos que ha estado acelerando.
+
+Galileo encontró que mayores inclinaciones generan mayores aceleraciones. Cuando el plano es vertical, la esfera alcanza su aceleración máxima. Entonces la aceleración es igual a la de un objeto que cae. Independientemente del peso o del tamaño del objeto, Galileo descubrió que cuando la resistencia del aire es lo suficientemente pequeña como para no ser tomada en cuenta, todos los objetos caen con la misma aceleración, la que es invariable.
+
+*Imagen 31. Esfera cayendo en diferentes planos.*
+
+Descripción de la Imagen 31. La imagen muestra 4 planos inclinados y una esfera moviéndose. Se comparan 2 planos que tienen diferente altura pero misma distancia horizontal. Los otros 2 planos comparados tienen la misma altura pero uno tiene cierta distancia horizontal y uno totalmente vertical. En los 4 casos la esfera parece que recorre distancias más largas a medida que avanza el tiempo. Cuanto mayor sea la inclinación del plano, la aceleración de la esfera será mayor. ¿Cuál es la aceleración en el plano vertical?
+
+## Caída libre
+
+### Qué tan rápido
+
+Los objetos caen a causa de la fuerza de gravedad. Cuando un objeto que cae está libre de toda restricción —sin fricción de aire ni de cualquier otro tipo—, y cae bajo la sola influencia de la gravedad, ese objeto se encuentra en caída libre. Abajo se muestra la relación de la rapidez instantánea de un objeto en caída libre a intervalos de 1 segundo. Lo importante que se nota en esos números es la forma en que cambia la rapidez. Durante cada segundo de caída el objeto aumenta su velocidad en 10 metros por segundo. Esta ganancia por segundo es la aceleración.
+
+La aceleración de la caída libre es aproximadamente de 10 metros por segundo cada segundo o, en notación compacta, es 10 m/s2 (que se lee como 10 metros por segundo al cuadrado). Observa que la unidad de tiempo, el segundo, aparece dos veces: una por ser la unidad de rapidez, y otra por ser el intervalo de tiempo durante el cual cambia la rapidez.
+
+En el caso de los objetos en caída libre se acostumbra el uso de la letra g para representar la aceleración (ya que la aceleración se debe a la gravedad). El valor de g es muy distinto en la superficie lunar o en la superficie de los demás planetas. Aquí en la Tierra g varía muy poco en distintos lugares, y su valor promedio es 9,8 metros por segundo cada segundo o, en notación compacta, 9,8 m/s2. Esto lo redondeamos a 10 m/s2 en esta explicación, para presentar las ideas con mayor claridad. Los múltiplos de 10 son más claros que los de 9,8. Cuando la exactitud sea importante, se deberá usar el valor de 9,8 m/s2 (que se lee como 9,8 metros por segundo al cuadrado).
+
+### Medidas para caída libre desde el reposo.
+
+Para cada tiempo de caída en segundos se relaciona una velocidad adquirida en metros sobre segundo.
+
+0 segundos, 0 metros sobre segundo
+
+1 segundo, 10 metros sobre segundo
+
+2 segundos, 20 metros sobre segundo
+
+3 segundos, 30 metros sobre segundo
+
+4 segundos, 40 metros sobre segundo
+
+5 segundos, 50 metros sobre segundo
+
+…
+
+t segundos, 10×t, metros sobre segundo
+
+Nota que la rapidez o velocidad instantánea de un objeto que cae partiendo del reposo es consistente con la ecuación que dedujo Galileo usando sus planos inclinados:
+
+Velocidad adquirida = aceleración × tiempo
+
+La velocidad instantánea v de un objeto que cae desde el reposo después de un tiempo t se puede expresar en notación compacta como sigue:
+
+v = g × t
+
+Para cerciorarte de que esta ecuación tiene sentido, toma un momento para comprobarla en las medidas para caída libre desde el reposo. Observa que la velocidad o rapidez instantánea en metros por segundo no es más que la aceleración g = 10 m/s2 multiplicada por el tiempo t en segundos.
+
+La aceleración de la caída libre es más clara si pensamos en un objeto que cae equipado con un velocímetro (Imagen 32). Supongamos que una piedra se deja caer por un acantilado muy alto, y que tú la observas con un telescopio. Si enfocas tu telescopio en el velocímetro, notarías un incremento en su rapidez conforme el tiempo pasa. ¿De cuánto? La respuesta es en 10 m/s cada segundo sucesivo.
+
+#### EXAMÍNATE
+
+En la Imagen 32, ¿qué indicaría el velocímetro de la piedra que cae 5 s después de partir del reposo? ¿Y 6 s después de dejarla caer? ¿Y a los 6,5 s?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+Las lecturas del velocímetro serían 50 m/s, 60 m/s y 65 m/s, respectivamente. Lo puedes deducir de usar la ecuación v = g×t, donde g es 10 m/s2.
+
+*Imagen 32. Objeto cayendo medido con velocímetro.*
+
+Descripción de la Imagen 32. Muestra un objeto cayendo desde una altura considerable. Cada vez que pase un segundo se ubica la posición del objeto que cae, y al lado un velocímetro y un cronómetro. Hay 6 posiciones desde 0 segundos hasta 5 segundos. En 0 segundos el velocímetro marca 0 m/s. En 1 segundo, el velocímetro marca 10 m/s. En 2 segundos, el velocímetro marca 20 m/s. En 3, 4 y 5 segundos no se ha puesto la marca del velocímetro. Imagínate que la piedra que cae tiene un velocímetro. En cada segundo sucesivo de su caída verías que la rapidez de esa piedra aumenta la misma cantidad: 10 m/s. Dibuja la aguja de cada velocímetro cuando t = 3 s, 4 s y 5 s.
+
+Hasta aquí hemos considerado objetos que se mueven directo hacia abajo, en dirección de la gravedad. ¿Y si se avienta un objeto directo hacia arriba? Una vez lanzado continúa moviéndose hacia arriba durante algún tiempo, y después regresa. En su punto más alto, al cambiar su dirección de movimiento de hacia arriba a hacia abajo, su rapidez instantánea es cero. A continuación comienza a ir hacia abajo exactamente como si se hubiera dejado caer desde el reposo a esa altura.
+
+Durante la parte de subida de este movimiento el objeto se desacelera al subir. No debe sorprendernos que desacelere a razón de 10 metros por segundo cada segundo: la misma aceleración que toma cuando va hacia abajo. Así, como muestra la Imagen 33, la rapidez instantánea en puntos de igual altura en la trayectoria es igual, ya sea que el objeto se mueva hacia arriba o hacia abajo. Desde luego, las velocidades son opuestas, ya que tienen direcciones contrarias. Observa que las velocidades hacia abajo tienen signo negativo para indicar que la dirección es hacia abajo (se acostumbra a llamar positivo a hacia arriba, y negativo a hacia abajo). Ya sea que se mueva hacia arriba o hacia abajo, la aceleración es 10 m/s2 (que se lee como 10 metros por segundo al cuadrado) hacia abajo todo el tiempo.
+
+#### EXAMÍNATE
+
+Arrojas una pelota directamente hacia arriba que sale de tu mano a 20 m/s. ¿Qué predicciones puedes hacer acerca de esa pelota? (¡Razona tu respuesta antes de leer las predicciones sugeridas!)
+
+#### COMPRUEBA TUS RESPUESTAS
+
+Hay varias. Una es que se desacelerará a 10 m/s un segundo después de haber salido de tu mano, que se detendrá en forma momentánea 2 segundos después de dejar tu mano, cuando llega a la cúspide de su trayectoria. Esto se debe a que pierde 10 m/s cada segundo que sube. Otra predicción es que 1 segundo después, a los 3 segundos en total, se estará moviendo hacia abajo a 10 m/s. En otro segundo más habrá regresado a su punto de partida, moviéndose a 20 m/s. Entonces, el tiempo en cada dirección es 2 segundos, y el tiempo total en el aire es 4 segundos. Más adelante veremos hasta dónde llega en la subida y en la bajada.
+
+### Hasta dónde
+
+Hasta dónde cae un objeto es muy distinto de qué tan rápido cae. Con sus planos inclinados, Galileo determinó que la distancia que recorre un objeto que acelera uniformemente es proporcional al cuadrado del tiempo. Aquí sólo reseñaremos los resultados. La distancia recorrida por un objeto uniformemente acelerado que parte del reposo es
+
+Distancia recorrida = ½ × (aceleración × tiempo × tiempo)
+
+Esta relación aplica a la distancia de algo que cae. La podemos expresar para el caso de un objeto en caída libre, en notación compacta, como sigue:
+
+ALTURA d = ½ × g×t2
+
+Que se lee, d es igual a un medio, por g, por t elevado al cuadrado. Donde d es la distancia recorrida de algo que cae cuando se sustituye el tiempo de su caída, en segundos, por t al cuadrado. Si se usa 10 m/s2 como el valor de g, la distancia recorrida en diversos tiempos de caída se indica más abajo.
+
+Vemos que un objeto cae tan sólo 5 metros de altura durante el primer segundo de la caída, mientras que su rapidez es 10 metros por segundo. Esto puede confundirnos, ya que se pensaría que el objeto debería caer 10 metros. Pero para que lo hiciera en el primer segundo de la caída debería caer con una rapidez promedio de 10 metros por segundo durante todo el segundo. Comienza a caer a 0 metros por segundo, y su rapidez es 10 metros por segundo sólo en el último instante del intervalo de 1 segundo. Su rapidez promedio durante este intervalo es el promedio de sus rapideces inicial y final, 0 y 10 metros por segundo. Para calcular el valor promedio de estos dos números, o de cualquier par de números, simplemente se suman los dos y el resultado se divide entre 2. De este modo se obtienen 5 metros por segundo en nuestro caso, que durante un intervalo de tiempo de 1 segundo da como resultado una distancia de 5 metros. Si el objeto continúa cayendo en los siguientes segundos lo hará recorriendo cada vez mayores distancias, porque su rapidez aumenta en forma continua.
+
+*Imagen 33. Lanzamiento vertical hacia arriba.*
+
+Descripción de la Imagen 33. Muestra a un hombre al borde de un precipicio lanzando una esfera verticalmente hacia arriba. Se eligen algunos puntos de la trayectoria, desde la salida de la esfera hasta su caída por el precipicio. El primer punto es el de salida de la mano, 0 s, v=30 m/s. Alejado hacia arriba se muestra 1 s, v=20 m/s. con menos distancia que antes se muestra 2 s, v=10 m/s. el punto más alto que alcanza es en 3 s, con una velocidad=0 Ahora la esfera empieza a caer. En 4 s, alcanza la misma altura que en 2 s, pero la velocidad es -10 m/s. en 5 s, la misma altura que en 1 s, v=-20 m/s. cuando pasan 6 s, es la misma posición de salida y v=-30 m/s. y mucho más abajo en el precipicio en 7 s, v=-40 m/s. La razón de cambio de la velocidad cada segundo es la misma.
+
+### Distancia recorrida en la caída libre.
+
+Para cada tiempo de caída en segundos se relaciona una distancia recorrida en metros.
+
+0 segundos, 0 metros
+
+1 segundo, 5 metros
+
+2 segundos, 20 metros
+
+3 segundos, 45 metros
+
+4 segundos, 80 metros
+
+5 segundos, 125 metros
+
+…
+
+t segundos, ½×10×t2, se lee, un medio por 10, por t elevado al cuadrado.
+
+#### EXAMÍNATE
+
+Un gato baja de una cornisa y llega al suelo en 1/2 segundo.
+
+  a. ¿Cuál es su rapidez al llegar al suelo?
+
+  b. ¿Cuál es su rapidez media durante el 1/2 segundo?
+
+  c. ¿Qué altura tiene la cornisa desde el piso?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+  a. Rapidez: v = g×t = 10 m/s2 × ½ s = 5 m/s
+
+  b. Rapidez media:
+
+```latex
+\overline{v}=\frac{v inicial+v final}{2}=\frac{0 m/s+ 5 m/s}{2}=2,5 m/s
+```
+
+Se lee rapidez media es igual a (v inicial + v final), dividido entre 2, es igual a (0 m/s + 5 m/s) dividido en 2, el resultado es 2,5 m/s.
+
+Hemos puesto una raya arriba del símbolo para indicar que es la rapidez media: $\overline{v}$ (se lee v barra)
+
+  c. Distancia: d = v×t = 2,5 m/s × ½ s = 1,25 m
+
+O también,
+
+d = ½ g×t2 = ½ × 10 m/s2 × (1/2 s)2 = ½ × 10 m/s2 × ¼ s2 = 1,25 m
+
+que se lee, d es igual a un medio por g por t elevado al cuadrado, es igual a un medio por 10 metros sobre segundo al cuadrado por un medio segundos elevado al cuadrado, es igual a un medio por 10 m sobre s al cuadrado por un cuarto s al cuadrado, es igual a 1,25 m.
+
+Observa que se puede calcular la distancia por cualquiera de estas dos ecuaciones, ya que son equivalentes.
+
+*Imagen 34. Caída libre medida con odómetro.*
+
+Descripción de la Imagen 34. Muestra un objeto cayendo desde una altura considerable. Cada vez que pase un segundo se ubica la posición del objeto que cae, y al lado un velocímetro, un odómetro y un cronómetro. Hay 7 posiciones desde 0 segundos hasta 6 segundos. En 0 segundos el velocímetro marca 0 m/s y el odómetro 0 metros. En 1 segundo, el velocímetro marca 10 m/s y el odómetro 5 metros. En 2 segundos, el velocímetro marca 20 m/s y el odómetro 20 metros. En 3, 4, 5 y 6 segundos no se ha puesto la marca del velocímetro ni del odómetro. Imagínate que una piedra que cae tuviera un velocímetro y un odómetro. Las indicaciones de velocidad aumentan en 10 m/s y las de distancias en ½ ×g×t2. ¿Puedes anotar las posiciones de aguja del velocímetro y las distancias del odómetro?
+
+Lo común es observar que muchos objetos caen con aceleraciones distintas. Una hoja de árbol, una pluma o una hoja de papel pueden llegar al suelo con lentitud, con una especie de bamboleo. El hecho de que la resistencia del aire sea la causa de esas aceleraciones distintas se puede demostrar muy bien con un tubo de vidrio hermético que contenga objetos livianos y pesados, por ejemplo, una pluma y una moneda. En presencia del aire, ambas caen con aceleraciones muy distintas. No obstante, si con una bomba de vacío se saca el aire del tubo, al invertirlo rápidamente se ve que la pluma y la moneda caen con la misma aceleración (Imagen 35). Aunque la resistencia del aire altera mucho el movimiento de objetos como plumas que caen, el movimiento de los objetos más pesados, como piedras y bolas de béisbol, en los valores bajos de rapidez no se ve afectado en forma apreciable por el aire. Se pueden usar las ecuaciones v=g×t y d= ½ ×g×t2 y con mucha aproximación con la mayoría de los objetos que caen por el aire desde el reposo.
+
+*Imagen 35. Moneda y Pluma.*
+
+Descripción de la Imagen 35. Muestra un tubo al vacío en el cual van cayendo una moneda y una pluma a la par. En el vacío una pluma y una moneda caen con aceleraciones iguales.
+
+### “Qué tan rápido” cambia de rapidez
+
+En el análisis del movimiento de objetos que caen surgen dificultades ya que es probable que se confundan “qué tan rápido” y “hasta dónde”. Cuando queremos especificar qué tan rápido está cayendo algo, nos referimos a rapidez o a velocidad, que se expresan como v = g×t. Cuando buscamos determinar desde qué altura cae algo, nos referimos a distancia, la cual se expresa como d= ½ × g × t2. Rapidez o velocidad (qué tan rápido) y distancia (hasta dónde) son muy diferentes entre sí.
+
+Un concepto que confunde mucho y que quizá sea el más difícil que se encuentre en este libro es “qué tan rápido cambia de rapidez, que es la aceleración. Lo que hace tan complicada a la aceleración es que es una razón de cambio de una razón de cambio. Con frecuencia se confunde con la velocidad, que es en sí una razón de cambio (la razón de cambio de la posición). La aceleración no es velocidad, ni siquiera es un cambio de velocidad. La aceleración es la razón de cambio con la que cambia la velocidad misma.
+
+*Imagen 36. Acelaración montaña rusa.*
+
+Descripción de la Imagen 36. Análisis del movimiento. Muestra un diagrama de aceleración es la razón de cambio de velocidad debida a cambio de rapidez o dirección. Abajo hay 3 imágenes. Una muestra un carro en 3 posiciones en la misma línea cambiando la velocidad, de 40 Km/h a 80 Km/h y finalmente a 0 Km/h (cambio de rapidez pero no de dirección). Otra imagen muestra un carro describiendo una trayectoria circular al a misma velocidad de 40 Km/h (cambio de dirección pero no de rapidez). Y otra de las imágenes muestra una montaña rusa en 2 posiciones diferentes subiendo y otra bajando (cambio de rapidez y también de dirección).
+
+### Tiempo en el aire
+
+Algunos atletas y bailarines tienen gran habilidad para saltar. Al saltar directamente hacia arriba parece que están “colgados en el aire” y desafían la gravedad. Pide a tus amigos que estimen el “tiempo en el aire” de los grandes saltadores, el tiempo durante el cual, quien salta, tiene los pies despegados del piso. Podrán decir que son 2 o 3 segundos. Pero ¡sucede que el tiempo en el aire de los más grandes saltadores es casi siempre menor que 1 segundo! Un tiempo mayor es una de las muchas ilusiones que tenemos en la naturaleza.
+
+Una ilusión parecida es la altura vertical que un hombre puede alcanzar. Es probable que la mayoría de tus compañeros de clase no salten más que 0,5 metros. Podrán pasar por encima de una cerca de 0,5 metros, pero al hacerlo su cuerpo sube ligeramente. La altura de la barrera es distinta de la que sube el “centro de gravedad” de un saltarín. Muchas personas pueden saltar sobre una cerca de 1 metro de altura; aunque casi nadie sube 1 metro el “centro de gravedad” de su cuerpo. Incluso Michael Jordan, estrella del básquetbol, en su apogeo fue incapaz de subir su cuerpo 1,25 m; aunque con facilidad podía llegar bastante más arriba que la canasta, que está a más de 3 m sobre el piso.
+
+La capacidad de salto se mide mejor estando parado y dando un brinco vertical. Párate de frente a un muro, con tus pies asentados en el piso y tus brazos extendidos hacia arriba. Haz una marca en la pared, donde apuntas tus dedos. A continuación salta y en lo más alto haz otra marca. La distancia entre ambas marcas es la medida de tu salto vertical. Si es más de 0,6 metros (2 pies), eres excepcional.
+
+La física es la siguiente: al saltar hacia arriba, la fuerza del salto sólo se aplica mientras tus pies están en contacto con el piso. Cuanto mayor sea esa fuerza, mayor será tu rapidez de despegue y el salto será más alto. Cuando tus pies dejan el piso, de inmediato tu rapidez vertical hacia arriba disminuye, a la tasa constante de g: 10 m/s2 (diez metros sobre segundo al cuadrado). En lo más alto de tu salto tu rapidez hacia arriba disminuye a cero. A continuación comienzas a caer, y tu rapidez aumenta exactamente con la misma tasa, g. Si tocas tierra como despegaste, de pie y con las piernas extendidas, el tiempo de subida será igual al tiempo de caída; el tiempo en el aire es igual al tiempo de subida más el tiempo de bajada. Mientras estás en el aire ningún movimiento de agitar piernas ni brazos, ni de cualquier clase de movimiento del cuerpo, cambiará tu tiempo en el aire.
+
+La relación entre el tiempo de subida o de bajada, y la altura vertical está dada por:
+
+d = ½ × g × t2
+
+Si se conoce d, la altura vertical, esta ecuación se puede reordenar como sigue:
+
+```latex
+t=\sqrt{\frac{2\times d}{g}}
+```
+
+Descripción de la ecuación. T minúscula es igual a la raíz cuadrada del término: 2 por d, dividido entre g.
+
+Spud Webb, la estrella del básquetbol estadounidense, alcanzó un salto vertical de pie de 1,25 m, en 1986. En ese momento fue el récord mundial. Usaremos la altura de su salto, 1,25 metros, como d y el valor más exacto de 9,8 m/s2 como g. Al sustituir en la ecuación anterior, se obtiene t, la mitad del tiempo en el aire:
+
+```latex
+t=\sqrt{\frac{2\times d}{g}}=\sqrt{\frac{2\times1,25 m}{9,8 m/s^{2}}}=0,50 s
+```
+
+Descripción de la ecuación. T minúscula es igual a la raíz cuadrada del término: 2 por d, dividido entre g. A su vez es igual a la raíz del resultado de 2 por 1,25 m, dividido entre 9,8 m/s2. El resultado es 0,50 s
+
+Esto se multiplica por dos (por ser el tiempo de una dirección en un viaje redondo, de subida y de bajada), y vemos que el tiempo récord de Spud en el aire es 1 segundo.
+
+Aquí hablamos de movimiento vertical. ¿Y los saltos con carrera? El tiempo en el aire sólo depende de la rapidez vertical del saltador al despegarse del suelo. Mientras está en el aire, su rapidez horizontal permanece constante, mientras que la vertical tiene aceleración. ¡Es interesante la física!
+
+### Resumen de términos
+
+Aceleración: Razón con la que cambia la velocidad de un objeto con el paso del tiempo; el cambio de velocidad puede ser en la magnitud, en la dirección o en ambas.
+
+Caída libre: Movimiento sólo bajo la influencia de la gravedad.
+
+Cantidad vectorial: En física la cantidad que tiene tanto magnitud como dirección.
+
+Rapidez: Que tan rápido mueve algo: la distancia que recorre un objeto por unidad de tiempo.
+
+Velocidad: La rapidez de un objeto y una especificación de la dirección de su movimiento.
+
+### Resumen de fórmulas
+
+Rapidez = distancia ÷ tiempo
+
+Rapidez media = distancia total recorrida ÷ intervalo de tiempo
+
+Aceleración = cambio de velocidad ÷ intervalo de tiempo
+
+Aceleración (en una recta) = cambio en la rapidez ÷ intervalo de tiempo
+
+Velocidad en caída libre, a partir del reposo: v = g × t
+
+Distancia recorrida en caída libre, a partir del reposo; d = ½ × g × t 2
+
+### Preguntas de repaso
+
+#### El movimiento es relativo
+
+    1. Mientras lees esto, ¿con qué rapidez te mueves, en relación con la silla donde te sientas? ¿Y en relación con el Sol?
+
+#### Rapidez
+
+    2. ¿Cuáles son las dos unidades de medida necesarias para describir la rapidez?
+
+#### Rapidez instantánea
+
+    3. ¿Qué clase de rapidez indica el velocímetro de un automóvil, la rapidez media o la rapidez instantánea?
+
+#### Rapidez media
+
+    4. Describe la diferencia entre rapidez instantánea y rapidez media.
+
+    5. ¿Cuál es la rapidez media, en kilómetros por hora, de un caballo que galopa 15 kilómetros en 30 minutos?
+
+    6. ¿Qué distancia recorre un caballo si durante 30 minutos galopa con una rapidez media de 25 km/h?
+
+#### Velocidad
+
+    7. Explica la diferencia entre rapidez y velocidad.
+
+#### Velocidad constante
+
+    8. Si un automóvil se mueve con velocidad constante, ¿también se mueve con rapidez constante?
+
+#### Velocidad variable
+
+    9. Si un automóvil se mueve a 90 km/h y toma una curva también a 90 km/h, ¿mantiene constante su rapidez? ¿Mantiene constante su velocidad? Sustenta tus respuestas.
+
+#### Aceleración
+
+    10. Describe la diferencia entre velocidad y aceleración.
+
+    11. ¿Cuál es la aceleración de un automóvil que aumenta su velocidad de 0 a 100 km/h en 10 s?
+
+    12. ¿Cuál es la aceleración de un automóvil que mantiene una velocidad constante de 100 km/h durante 10 s? (¿Por qué algunos de tus compañeros que contestaron bien la pregunta anterior tuvieron equivocada esta respuesta?)
+
+    13. ¿Cuándo sientes más el movimiento en un vehículo, cuando se mueve en forma continua en línea recta o cuando acelera? Si el automóvil se moviera con una velocidad absolutamente constante (sin baches en el camino), ¿te darías cuenta del movimiento?
+
+    14. La aceleración se suele definir como la razón de cambio de la velocidad con respecto al tiempo. ¿Cuándo se puede definir como la razón de cambio de la rapidez con respecto al tiempo?
+
+#### La aceleración en los planos inclinados de Galileo
+
+    15. ¿Qué descubrió Galileo acerca de la cantidad de rapidez que gana una esfera cada segundo cuando rueda hacia abajo sobre un plano inclinado? ¿Qué le dijo eso acerca de la aceleración de la esfera?
+
+    16. ¿Qué relación descubrió Galileo para la velocidad adquirida en un plano inclinado?
+
+    17. ¿Qué relación descubrió Galileo entre la aceleración de una esfera y la pendiente de un plano inclinado? ¿Qué aceleración se obtiene cuando el plano es vertical?
+
+#### Caída libre
+
+##### Qué tan rápido
+
+    18. ¿Qué quiere decir exactamente un objeto en “caída libre”?
+
+    19. ¿Cuál es el aumento de rapidez, por segundo, de un objeto en caída libre?
+
+    20. ¿Qué velocidad adquiere un objeto en caída libre a los 5 s después de dejarse caer desde el reposo? ¿Y cuál es a los 6 s después?
+
+    21. La aceleración aproximada de la caída libre es 10 m/s2. ¿Por qué aparece dos veces la unidad “segundo”?
+
+    22. Cuando un objeto se lanza hacia arriba, ¿cuánta rapidez pierde cada segundo?
+
+##### Hasta dónde
+
+    23. ¿Qué relación descubrió Galileo entre la distancia recorrida y el tiempo, para los objetos con aceleración?
+
+    24. ¿Cuál es la altura que cae un objeto, en caída libre, 1 s después de haber sido dejado caer desde el reposo? ¿Y después de 4 s?
+
+    25. ¿Qué efecto tiene la resistencia del aire sobre la aceleración de los objetos que caen? ¿Cuál es la aceleración de ellos sin resistencia del aire?
+
+##### Qué tan rápido cambia de rapidez
+
+    26. Para las siguientes mediciones: 10 m, 10 m/s y 10 m/s2, ¿cuál es una medida de distancia, cuál es de rapidez y cuál es de aceleración?
+
+### Proyectos
+
+1. Tu abuelita está interesada en tu progreso académico. Como la mayoría de las abuelitas ella quizá tiene escasa formación científica y se siente intimidada por las matemáticas. Escríbele una carta sin utilizar ecuaciones y explícale la diferencia entre velocidad y aceleración. Dile porqué algunos de tus compañeros confunden los dos conceptos y menciona algunos ejemplos para aclarar la confusión.
+
+2. Párate junto a un muro y haz una marca en la altura máxima que puedas alcanzar. A continuación salta verticalmente y marca lo más alto que puedas. La distancia entre las dos marcas es la altura de tu salto. Con ella calcula tu tiempo en el aire.
+
+### Cálculos de un paso
+
+Éstas son actividades del tipo “conéctate al número” para familiarizarte con las ecuaciones que vinculan los conceptos de física. En general, implican sustituciones de un paso y son menos desafiantes que los problemas.
+
+Rapidez = distancia ÷ tiempo
+
+1. Calcula la rapidez a la que caminas cuando das un paso de 3 metro en 2 segundos.
+
+2. Calcula la rapidez de una bola de bolos que recorre 4 metros en 2 segundos.
+
+Rapidez promedio = distancia total recorrida ÷ intervalo de tiempo
+
+3. Calcula tu rapidez promedio si corres 50 metros en 10 segundos.
+
+4. Calcula la rapidez promedio de una pelota de tenis que recorre la longitud completa de la cancha (24 metros) en 0,5 segundos.
+
+5. Calcula la rapidez promedio de un guepardo que corre 140 metros en 5 segundos.
+
+6. Calcula la rapidez promedio (en km/h) de Larry quien, para ir a la tienda, corre 4 kilómetros en 30 minutos
+
+Distancia = rapidez promedio × tiempo
+
+7. Calcula la distancia (en km) que Larry corre si mantiene una rapidez promedio de 8 km/h durante 1 hora.
+
+8. Calcula la distancia que recorrerás si mantienes una rapidez promedio de 10 m/s durante 40 segundos.
+
+9. Calcula la distancia que recorrerás si mantienes una rapidez promedio de 10 km/h durante media hora.
+
+Aceleración = cambio de velocidad ÷ intervalo de tiempo
+
+10. Calcula la aceleración de un automóvil (en km/h×s) que parte del reposo y alcanza 100 km/h en 10 s.
+
+11. Calcula la aceleración de un autobús que va desde los 10 km/h hasta una rapidez de 50 km/h en 10 segundos.
+
+12. Calcula la aceleración de una pelota que parte del reposo, desciende rodando por una rampa y gana una rapidez de 25 m/s en 5 segundos.
+
+13. En un planeta distante, un objeto en caída libre incrementa su rapidez a una razón constante de 20 m/s durante cada segundo de la caída. Calcula su aceleración.
+
+Rapidez instantánea = aceleración × tiempo
+
+14. Calcula la rapidez instantánea (en m/s) a los 10 segundos para un automóvil que acelera a 2 m/s2 desde el reposo.
+
+15. Calcula la rapidez (en m/s) de un aficionado a la patineta que parte desde el reposo y acelera bajando una rampa durante 3 segundos con una aceleración de 5 m/s2.
+
+Velocidad adquirida en caída libre partiendo del reposo:
+
+V = g × t (donde g = 10 m/s2 “diez metros sobre segundo al cuadrado”)
+
+16. Calcula la rapidez instantánea de una manzana que cae libremente desde una posición de reposo y acelera a 10 m/s2 durante 1,5 segundos.
+
+17. Se deja caer libremente un objeto desde el reposo. Calcula su rapidez instantánea después de 7 segundos.
+
+18. Una paracaidista salta desde un helicóptero que vuela a gran altura. En la ausencia de resistencia del aire, ¿qué tan rápido irá cayendo después de 12 segundos de haber saltado?
+
+19. En un planeta distante, un objeto en caída libre tiene una aceleración de 20 m/s2. Calcula la rapidez que tendrá en 1.5 segundos un objeto que se deja caer desde el reposo en ese planeta.
+
+Distancia recorrida en caída libre a partir del reposo: d = ½×g×t2
+
+Se lee, d es igual a un medio, por g, por t elevado al cuadrado.
+
+20. Una manzana cae de un árbol y golpea el suelo en 1,5 segundos. Calcula qué distancia recorrió en su caída.
+
+21. Calcula la distancia vertical que en 12 segundos recorre un objeto que parte del reposo y cae libremente.
+
+22. En un planeta distante, un objeto en caída libre tiene una aceleración de 20 m/s2. Calcula la distancia vertical que recorre en 1,5 segundos un objeto que se deja caer desde el reposo en ese planeta.
+
+### Ejercicios
+
+1. ¿Cuál es la rapidez de impacto de un automóvil que se mueve a 100 km/h y que golpea por detrás a otro que va en la misma dirección a 98 km/h?
+
+2. Harry Hosthot puede remar en una canoa, en agua estancada, a 8 km/h. ¿Tendrá caso que reme contra la corriente de un río que fluye a 8 km/h?
+
+3. ¿Las multas por exceso de velocidad son por la rapidez promedio o por la rapidez instantánea? Explica por qué.
+
+4. Un avión vuela hacia el norte a 300 km/h, mientras que otro vuela hacia el sur a 300 km/h. ¿Son iguales sus rapideces? ¿Son iguales sus velocidades? Explica por qué.
+
+5. La luz viaja en línea recta con una rapidez constante de 300.000 km/s. ¿Cuál es su aceleración?
+
+6. ¿Puede un automóvil que tiene velocidad hacia el norte, tener al mismo tiempo una aceleración hacia el sur? Explica cómo.
+
+7. Viajas en un automóvil a un límite de rapidez específico y observas a otro automóvil que se acerca hacia ti con la misma rapidez. ¿Qué tan rápido se aproxima el otro automóvil a ti, en comparación con el límite de rapidez?
+
+8. ¿Un objeto puede invertir su dirección de recorrido mientras mantiene una aceleración constante? Si es así, da un ejemplo. Si no, explica por qué.
+
+9. Corrige a tu amigo que dice “el auto siguió la curva con una velocidad constante de 100 km/h”.
+
+10. Harry dice que la aceleración es la rapidez con que uno va. Carol dice que la aceleración es la rapidez con que uno adquiere rapidez. Los dos te miran y te piden tu opinión. ¿Quién tiene la razón?
+
+11. Partiendo del reposo, un automóvil acelera hasta llegar a una rapidez de 50 km/h, y otro acelera hasta 60 km/h. ¿Puedes decir cuál de ellos tuvo la mayor aceleración? ¿Por qué?
+
+12. Menciona un ejemplo donde tu rapidez sea cero, pero tu aceleración diferente de cero.
+
+13. Señala un ejemplo de algo que tenga una rapidez constante y al mismo tiempo una velocidad variable. ¿Puedes describir un ejemplo de algo que tenga una velocidad constante y una rapidez variable? Sustenta tus respuestas.
+
+14. Describe un ejemplo de algo que acelere y que al mismo tiempo se mueva con rapidez constante. ¿Puedes describir también un ejemplo de algo que acelere y al mismo tiempo tenga una velocidad constante? Explica por qué.
+
+15. Contesta
+
+a) ¿Puede moverse un objeto cuando su aceleración es cero?
+
+b) ¿Puede acelerar un objeto cuando su velocidad es cero? En caso afirmativo, indica un ejemplo.
+
+16. ¿Puedes describir un ejemplo en el que la aceleración de un cuerpo sea opuesta a la dirección de su velocidad? En caso afirmativo, ¿cuál es tu ejemplo?
+
+17. ¿Cuál es la aceleración de un automóvil que se mueve con velocidad constante de 100 km/h durante 100 segundos? Explica tu respuesta.
+
+18. Galileo hizo experimentos con esferas que ruedan en planos inclinados en ángulos que iban de 0 a 90°. ¿Qué intervalo de aceleraciones corresponde a este intervalo de ángulos?
+
+19. Sé estricto y corrige a tu amigo que dice “en la caída libre, la resistencia del aire es más efectiva para desacelerar una pluma que una moneda”.
+
+20. Supón que un objeto en caída libre tuviera un velocímetro. ¿Cuánto aumentaría su indicación de velocidad en cada segundo de la caída?
+
+21. Supón que el objeto en caída libre del ejercicio anterior también tuviera un odómetro. ¿Las indicaciones de la distancia de caída cada segundo serían iguales o distintas en los segundos sucesivos?
+
+22. Para un objeto en caída libre que parte del reposo, ¿cuál es la aceleración al terminar el quinto segundo de caída? ¿Y al terminar el décimo segundo? Defiende tus respuestas.
+
+23. Si se puede despreciar la resistencia del aire, ¿cómo se compara la aceleración de una pelota que se ha lanzado directamente hacia arriba, con su aceleración cuando tan sólo se deja caer?
+
+24. Cuando un jugador de béisbol lanza una bola directamente hacia arriba, ¿cuánto disminuye la rapidez de ésta cada segundo cuando va hacia arriba? En ausencia de aire, ¿cuánto aumenta cada segundo al descender? ¿Cuánto tiempo necesita para subir, en comparación con el necesario para bajar?
+
+25. Contesta la pregunta anterior cuando la resistencia del aire no es despreciable: cuando esa resistencia afecta al movimiento.
+
+26. Mientras ruedan esferas por un plano inclinado, Galileo observa que recorren un antebrazo (la distancia del codo a la punta de los dedos) mientras cuenta hasta 10. ¿Hasta dónde habría llegado la esfera, desde su punto de partida, cuando hubiera contado hasta 20?
+
+27. Un proyectil se lanza verticalmente hacia arriba, y la resistencia del aire es despreciable. ¿Cuándo es mayor la aceleración de la gravedad: cuando sube, en la parte más alta o cuando desciende? Sustenta tu respuesta.
+
+28. Si no fuera por la resistencia del aire, ¿sería peligroso salir a la intemperie en días lluviosos?
+
+29. Cuándo la rapidez aumenta para un objeto que cae libremente, ¿también se incrementa su aceleración?
+
+30. Una pelota lanzada hacia arriba regresará al mismo punto con la misma rapidez inicial, cuando la resistencia del aire es insignificante. Cuando no es así, ¿cómo se compara la rapidez de retorno con su rapidez inicial?
+
+31. ¿Por qué un chorro de agua se hace más angosto a medida que se aleja de la boca de la llave?
+
+32. El “tiempo en el aire” de una persona sería bastante mayor en la Luna. ¿Por qué?
+
+### Problemas
+
+1. En la actualidad, el nivel del mar está subiendo más o menos 1.5 mm cada año. A esta tasa, ¿dentro de cuántos años el nivel del mar estará 3 metros más alto?
+
+2. ¿Cuál es la aceleración de un vehículo que cambia su velocidad de 100 km/h hasta paro total, en 10 s?
+
+3. Se lanza una bola directamente hacia arriba, con una rapidez inicial de 30 m/s. ¿Hasta qué altura llega y cuánto tiempo estará en el aire (sin tener en cuenta la resistencia del aire)?
+
+4. Se lanza una bola directo hacia arriba, con rapidez suficiente para permanecer varios segundos en el aire.
+
+a) ¿Cuál es la velocidad de la bola cuando llega al punto más alto?
+
+b) ¿Cuál es su velocidad 1 s antes de llegar al punto más alto?
+
+c) ¿Cuál es su cambio de velocidad durante este intervalo de 1 s?
+
+d) ¿Cuál es su velocidad 1 s después de haber alcanzado su punto más alto?
+
+e) ¿Cuál es su cambio de velocidad durante este intervalo de 1 s?
+
+f) ¿Cuál es su cambio de velocidad durante el intervalo de 2 s (1 antes y 1 después de llegar hasta arriba)? (¡Cuidado!)
+
+g) ¿Cuál es la aceleración de la bola durante cualquiera de esos intervalos de tiempo, y en el momento en que tiene velocidad cero?
+
+5. ¿Cuál es la velocidad instantánea de un objeto en caída libre 10 s después de haber partido del reposo? ¿Cuál es su velocidad promedio durante este intervalo de 10 s? ¿Qué altura habrá caído durante ese tiempo?
+
+6. Un automóvil tarda 10 s en pasar de v = 0 a v = 25 m/s con una aceleración aproximadamente constante. Si deseas calcular la distancia recorrida con la ecuación d= ½×a×t2 (un medio por a, por t elevado al cuadrado), ¿qué valor usarías en a?
+
+7. Un avión de reconocimiento se aleja 600 km de su base, volando a 200 km/h, y regresa a ella volando a 300 km/h. ¿Cuál es su rapidez promedio?
+
+8. Un coche recorre cierta carretera con una rapidez promedio de 40 km/h, y regresa por ella con una rapidez promedio de 60 km/h. Calcula la rapidez promedio en el viaje redondo. (¡No es 50 km/h!)
+
+9. Si no hubiera resistencia del aire, ¿con qué rapidez caerían las gotas que se formaran en una nube a 1 km sobre la superficie terrestre? (¡Por suerte, esas gotas sufren la resistencia del aire cuando caen!)
+
+10. Es sorprendente, pero muy pocos atletas pueden saltar a más de 2 pies (60 cm) sobre el piso. Usa d= ½×g×t2 y despeja el tiempo que tarda uno en subir en un salto vertical de 2 pies. A continuación multiplícalo por 2 para conocer el “tiempo en el aire”: el tiempo que los pies de uno no tocan el piso.
+
+# CAPÍTULO 4: segunda ley de Newton
+
+Anteriormente estudiamos el concepto de equilibrio mecánico, (Sumatoria de fuerzas =0, ∑F = 0) donde las fuerzas están en equilibrio. En este capítulo veremos lo que sucede cuando las fuerzas no están en equilibrio, es decir, cuando las fuerzas netas no son iguales a cero. La fuerza neta de un balón de fútbol que se patea, por ejemplo, es mayor que cero, y el movimiento del balón cambia de manera abrupta. Su trayectoria en el aire no es rectilínea, sino curva y hacia abajo debido a la gravedad; de nuevo tenemos un cambio en el movimiento. La mayoría del movimiento que vemos sufre cambios. En este capítulo veremos los cambios en el movimiento: el movimiento acelerado.
+
+En el capítulo anterior aprendimos que la aceleración determina qué tan rápido cambia el movimiento. Específicamente, es el cambio de velocidad durante cierto intervalo de tiempo. Recuerda la definición de aceleración:
+
+Aceleración = cambio de velocidad ÷ intervalo de tiempo
+
+Ahora nos enfocaremos en lo que causa la aceleración: la fuerza.
+
+## La fuerza causa aceleración
+
+Considera un disco (puck) de hockey que está en reposo sobre el hielo. Si le aplicas una fuerza, entonces comienza a moverse y acelera. Cuando el palo (stick) de hockey ya no lo está impulsando, el disco se mueve a velocidad constante. Si se aplica otra fuerza que golpee al disco, otra vez, el movimiento cambia. La aceleración es causada por la fuerza.
+
+A menudo hay más de una fuerza que actúa sobre un objeto. Es decir, pueden intervenir varias fuerzas. Del capítulo 2 recuerda que la suma de fuerzas que actúan sobre un objeto es la fuerza neta. La aceleración depende de la fuerza neta. Para incrementar la aceleración de un objeto, debes aumentar la fuerza neta que actúa sobre éste. Si aplicas el doble de fuerza neta, su aceleración será del doble; si aplicas el triple de fuerza neta, se triplicará la aceleración; y así sucesivamente. Decimos que la aceleración producida es directamente proporcional a la fuerza neta que actúa sobre él y se escribe así:
+
+Aceleración ~ fuerza neta,
+
+El símbolo ~ quiere decir “es directamente proporcional a”. Entonces, cualquier cambio en una produce la misma cantidad de cambio en la otra.
+
+#### EXAMÍNATE
+
+1. Estás empujando una caja que está sobre un suelo liso, y acelera. Si aplicas cuatro veces esa fuerza neta, ¿cuánto aumentará la aceleración?
+
+2. Si empujas con la misma fuerza incrementada sobre la misma caja, la cual se desliza en un suelo muy áspero, ¿cómo se comparará la aceleración con la que hubo en el suelo liso? (¡Piensa antes de leer la respuesta más adelante!)
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. Tendrá una aceleración cuatro veces mayor.
+
+2. Tendrá menos aceleración, ya que la fricción reducirá la fuerza neta.
+
+## Fricción
+
+Cuando las superficies de dos objetos se deslizan entre sí o tienden a hacerlo, actúa una fuerza de fricción o rozamiento. Cuando aplicas una fuerza a un objeto, por lo general, una fuerza de fricción reduce la fuerza neta y la aceleración que resulta. La fricción se debe a las irregularidades en las superficies que están en contacto mutuo, y depende de los materiales y de cuánto se opriman entre sí. Hasta las superficies que parecen muy lisas tienen irregularidades microscópicas que estorban el movimiento. Los átomos se adhieren entre sí en muchos puntos de contacto. Cuando un objeto se desliza contra otro, debe subir sobre los picos de las irregularidades, o se deben desprender los átomos por la fricción. En cualquiera de los casos se requiere una fuerza.
+
+*Imagen 37. Mano empuja ladrillo.*
+
+Descripción de la Imagen 37. Una mano empuja un ladrillo (La fuerza de la mano acelera el ladrillo). A dos manos se empuja el mismo ladrillo (Si la fuerza es el doble, la aceleración también es el doble). A dos manos se empujan dos ladrillos que están uno sobre otro (Si la Fuerza es el doble y la masa es el doble, se produce la misma aceleración). La aceleración es directamente proporcional a la fuerza.
+
+La dirección de la fuerza de fricción siempre es opuesta al movimiento. Un objeto que se deslice de bajada por un plano inclinado está sometido a una fricción dirigida de subida por el plano; un objeto que se desliza hacia la derecha está sometido a una fricción dirigida hacia la izquierda. Así, si se debe mover un objeto a velocidad constante, se le debe aplicar una fuerza igual a la fuerza opuesta de la fricción, de manera que las dos fuerzas se anulen exactamente entre sí. La fuerza neta igual cero causa una aceleración cero y velocidad constante.
+
+No hay fricción en una caja que está en reposo sobre un suelo horizontal. Sin embargo, cuando se perturban las superficies de contacto al empujar la caja en dirección horizontal, se produce la fricción. ¿Cuánta? Si la caja sigue en reposo, la fricción que se opone al movimiento es justo la necesaria para anular el empuje. Si empujas horizontalmente con, digamos, 70 newtons, la fricción será de 70 newtons. Si empujas más, por ejemplo con 100 newtons y la caja está a punto de deslizarse, la fricción entre la caja y el suelo opone 100 newtons a tu empuje. Si los 100 newtons es lo más que pueden resistir las superficies, entonces cuando empujes con un poco más de fuerza se rompe la adherencia y la caja se desliza.
+
+*Imagen 38. Hombre y saco se mueven.*
+
+Descripción de la Imagen 38. (Primera Imagen) Si empujas una caja a la derecha, la fricción actúa hacia la izquierda. Hombre empujando un gran bloque y en sentido contrario se indica la Fricción. (Segunda Imagen) Cuando el saco cae, la fricción con el aire (resistencia del aire) actúa hacia arriba. Un gran saco cayendo, y en sentido contrario se indica la Resistencia del aire. La dirección de la fuerza de fricción siempre es opuesta a la dirección del movimiento. (¿Cuál será la aceleración del saco cuando la resistencia del aire sea igual al peso del saco?)
+
+Un hecho interesante es que, en el deslizamiento, la fricción es algo menor que la fricción que se acumula antes de que haya deslizamiento. Los físicos y los ingenieros distinguen entre fricción estática y fricción de deslizamiento. Para ciertas superficies, la fricción estática es un poco mayor que la fricción de deslizamiento. Cuando empujas una caja, requieres más fuerza para que ésta empiece a moverse, que para mantenerla deslizándose. Antes de que apareciera el sistema de frenos antibloqueo, un frenado de emergencia era bastante problemático. Cuando los neumáticos se inmovilizan, patinan y proporcionan menor fricción que si siguieran rodando hasta pararse. Mientras ruede el neumático, su superficie no resbalará por la superficie del camino y la fricción será estática y, en consecuencia, será mayor que la de deslizamiento. Pero una vez que los neumáticos comienzan a patinar, se reduce la fuerza de fricción, lo cual no es nada halagüeño. Un sistema de frenos antibloqueo mantiene a los neumáticos abajo del umbral de inmovilizarse en un patinazo.
+
+También es interesante que la fuerza de fricción no dependa de la rapidez. Un automóvil que se patina a baja rapidez tiene, aproximadamente, la misma fricción que uno que se patina con alta rapidez. Si la fuerza de fricción de una caja que se desliza sobre el suelo es 90 newtons a baja rapidez, será también, con mucha aproximación, de 90 newtons a mayor rapidez. Puede ser mayor cuando la caja está en reposo y a punto de deslizarse; pero una vez en movimiento, la fuerza de fricción permanece aproximadamente igual.
+
+Todavía más interesante es que la fricción no dependa del área de contacto. Si la caja se desliza sobre su cara más pequeña, todo lo que haces es concentrar el mismo peso sobre una superficie menor y, como resultado, la fricción será la misma. Entonces, los neumáticos extra anchos que ves en algunos automóviles no ofrecen mayor fricción que los angostos. Simplemente lo que hace el neumático más ancho es repartir el peso del vehículo sobre una superficie mayor, para reducir el calentamiento y el desgaste. De igual modo, la fricción entre un camión y el suelo es la misma sin importar si el camión tiene 4 o ¡18 neumáticos! Cuando hay más neumáticos la carga se distribuye sobre una superficie mayor y tan sólo se reduce la presión en cada neumático. Es interesante que la distancia de frenado al aplicar los frenos no está afectada por la cantidad de neumáticos. Pero el desgaste de éstos depende mucho de su número.
+
+La fricción no se restringe a sólidos que se deslizan entre sí. También se presenta en líquidos y gases, que colectivamente se llaman fluidos (porque fluyen). La fricción de los fluidos ocurre cuando un objeto aparta el fluido a través del cual se mueve. ¿Alguna vez has intentado correr 100 m con el agua llegándote a la cintura? La fricción de los fluidos es significativa incluso a rapideces bajas. Una forma muy común de fricción de fluidos para algo que se mueve a través del aire es la resistencia del aire, también llamada resistencia aerodinámica. Por lo común, no nos damos cuenta de la resistencia del aire cuando estamos caminando o trotando; pero sí la notamos al ir a mayor rapidez cuando vamos en bicicleta o cuando bajamos una pendiente pronunciada en la montaña rusa. La resistencia del aire se incrementa conforme aumenta la rapidez. En la Imagen 38 el saco que cae alcanzará una velocidad constante cuando la resistencia del aire se equilibra con el peso del mismo.
+
+#### EXAMÍNATE
+
+¿Qué fuerza neta actúa sobre una caja que se desliza cuando ejerces sobre ella una fuerza de 110 N y la fricción entre la caja y el suelo es 100 N?
+
+#### COMPRUEBA TU RESPUESTA
+
+10 N, en la dirección en que empujas (110 N −100 N).
+
+## Masa y peso
+
+La aceleración que adquiere un objeto no sólo depende de las fuerzas aplicadas y de las fuerzas de fricción, sino también de la inercia del objeto. La cantidad de inercia que posee un objeto depende de la cantidad de materia que haya en él; cuanto más materia haya, habrá mayor inercia. Para indicar cuánta materia tiene algo se usa el término masa. Cuanta mayor masa tenga un objeto, su inercia será mayor. La masa es una medida de la inercia de un objeto material.
+
+La masa corresponde a nuestra noción intuitiva de peso. De ordinario decimos que algo tiene mucha materia cuando pesa mucho. Pero hay una diferencia entre masa y peso. Definiremos cada término como sigue:
+
+Masa: cantidad de materia en un objeto. Es también la medida de la inercia u oposición que muestra un objeto en respuesta a algún esfuerzo para ponerlo en movimiento, detenerlo o cambiar de cualquier forma su estado de movimiento.
+
+Peso: fuerza sobre un objeto debido a la gravedad.
+
+En ausencia de aceleración la masa y el peso son directamente proporcionales entre sí. Si la masa de un objeto se duplica, también lo hará su peso; si la masa se reduce a la mitad, el peso también disminuye a la mitad. Por ello con frecuencia se intercambian masa y peso. Asimismo, a veces se confunde entre ellos, porque se acostumbra a medir la cantidad de materia en las cosas (la masa) con su atracción gravitacional hacia la Tierra (el peso). No obstante, la masa es más fundamental que el peso: es una cantidad fundamental que escapa por completo a la noción de la mayoría de los individuos.
+
+Hay veces en que el peso corresponde a nuestra noción inconsciente de inercia. Por ejemplo, si tratas de determinar cuál de dos objetos pequeños es más pesado, los podrías agitar en tus manos, o moverlos de alguna manera, en vez de levantarlos. Al hacer ese movimiento estás apreciando cuál de los dos es más difícil de poner en movimiento; sabes cuál de los dos se resiste más a un cambio de movimiento. En realidad estás comparando la inercia de los objetos.
+
+*Imagen 39. Astronauta.*
+
+Descripción de la Imagen 39. Astronauta sosteniendo un Yunque en el espacio exterior. El astronauta ve que en el espacio es difícil agitar el yunque “sin peso”, tan difícil como en la Tierra. Si el yunque tiene más masa que el astronauta, ¿qué se agitará más, el yunque o el astronauta?
+
+En Estados Unidos, la cantidad de materia en un objeto se suele describir a través del tirón de la gravedad entre éste y la Tierra, es decir, por su peso, que se acostumbra expresar en libras. Sin embargo, en la mayor parte del orbe la medida de la materia se expresa normalmente en kilogramos, que son unidad de masa. En la superficie de la Tierra, un ladrillo con 1 kilogramo de masa pesa 2,2 libras. En el sistema métrico, la unidad de fuerza es el newton, que es igual a un poco menos de un cuarto de libra (como el peso de una hamburguesa de un cuarto de libra después de cocinarla). Un ladrillo de 1 kilogramo pesa aproximadamente 10 N (con más exactitud, 9.8 N). Lejos de la superficie terrestre, donde la influencia de la gravedad es menor, un ladrillo de 1 kilogramo pesa menos. También pesaría menos en la superficie de planetas con menor gravedad que la de la Tierra. Por ejemplo, en la superficie de la Luna, donde la fuerza de gravedad sobre los objetos es de sólo un sexto de la de la Tierra, un ladrillo de 1 kilogramo pesa más o menos 1,6 newtons (o 0,36 libras). En planetas con mayor gravedad pesaría más; sin embargo, la masa del ladrillo sería igual en cualquier parte. El ladrillo ofrece la misma resistencia a acelerarse o a desacelerarse, independientemente de si está en la Tierra, en la Luna, o en cualquier cuerpo que lo atraiga. En una nave espacial a la deriva, donde una báscula indicaría cero para un ladrillo, éste sigue teniendo masa. Aun cuando no oprima el plato de la báscula, tiene la misma resistencia a cambiar de movimiento que la que tiene en la Tierra. Para agitar el ladrillo de un lado a otro, un astronauta debe ejercer exactamente la misma fuerza en una nave espacial que en la Tierra. Tendrías que ejercer la misma cantidad de empuje para acelerar un camión grande hasta determinada rapidez, sobre una superficie horizontal en la Luna que en la Tierra. No obstante, la dificultad de levantarlo contra la fuerza de la gravedad (el peso) es algo distinto. La masa y el peso son diferentes entre sí.
+
+*Imagen 40. Esfera colgando y jalada.*
+
+Descripción de la Imagen 40. Una esfera cuelga del techo por medio de un cordel. En el otro extremo, está amarrada desde abajo una mano que la jala.
+
+¿Por qué un aumento lento y continuo de la fuerza hacia abajo rompe el cordel sobre la esfera masiva, mientras que un tirón repentino rompería el cordel de abajo?
+
+Una buena demostración de la diferencia entre masa y peso es una esfera masiva colgada de un cordel como se muestra en la Imagen 40. El cordel de arriba se revienta cuando se tira de abajo con una fuerza que aumenta gradualmente; pero cuando se le da un tirón brusco, se revienta de la parte de abajo. ¿Cuál de estos casos ilustra el peso de la esfera, y cuál la masa de ésta? Observa que sólo el cordel de arriba sostiene el peso de la esfera. Así, cuando se tira lentamente del cordel de abajo, la tensión que provoca el tirón se transmite a la parte superior. Entonces, la tensión total en el cordel de arriba es igual al tirón más el peso de la esfera. El cordel de arriba se rompe cuando se llega al punto de rotura. Pero cuando se da un tirón brusco al cordel de abajo, la masa de la esfera, cuya tendencia es a permanecer en reposo, es la responsable de que el cordel se rompa de abajo.
+
+También es fácil confundir la masa con el volumen. Cuando imaginamos un objeto masivo con frecuencia lo vemos como un objeto grande. Sin embargo, el tamaño (volumen) de un objeto, no es siempre una buena forma de analizar su masa. ¿Qué es más fácil de poner en movimiento, el acumulador de un automóvil o una caja de cartón vacía del mismo tamaño? Entonces se ve que la masa no es igual al peso ni es igual al volumen.
+
+#### EXAMÍNATE
+
+1. ¿La inercia de un bloque de hierro de 2 kg es del doble que la de un bloque de hierro de 1 kg? ¿Su masa es el doble? ¿Su volumen es el doble? ¿Su peso es el doble?
+
+2. ¿Sería más fácil levantar en la Tierra un camión cargado con cemento, que en la Luna?
+
+3. Pide a un amigo que clave un clavo pequeño en un trozo de madera que esté sobre una pila de libros y sobre tu cabeza. ¿Por qué no te daña?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+1. Las respuestas de todas las partes son sí. Un trozos de hierro de 2 kg tiene doble cantidad de átomos de hierro y, en consecuencia, dos veces la cantidad de materia y de masa. En el mismo lugar, también su peso es doble. Y como ambos trozos tienen la misma densidad (la misma razón de masa/volumen), el trozo de 2 kg tiene el doble del volumen.
+
+2. Un camión de cemento se levantaría con mayor facilidad en la Luna, porque ahí la fuerza de gravedad es menor. Cuando levantas un objeto, estás actuando contra la fuerza de gravedad (su peso). Aunque su masa sea igual en la Tierra, en la Luna o en cualquier lugar, su peso sólo es 1/6 en la Luna, de manera que sólo se requiere 1/6 de la fuerza para levantarlo. Sin embargo, para moverlo horizontalmente no empujas contra la gravedad. Cuando la masa es el único factor, fuerzas iguales producen aceleraciones iguales, ya sea que el objeto esté en la Tierra o en la Luna.
+
+3. La masa relativamente grande de los libros y del bloque sobre tu cabeza se resiste al movimiento. La fuerza que puede meter bien el clavo no tiene el mismo efecto para acelerar los libros y el bloque, que son masivos y no se mueven mucho al golpear el clavo. ¿Puedes ver la semejanza de este ejemplo con la demostración con la esfera masiva suspendida, cuando no se rompe el cordel de arriba al momento de tirar violentamente de la parte de abajo?
+
+## Una masa se resiste a acelerar
+
+Si empujas a un amigo que está sobre una patineta, tu amigo acelera; pero si empujas igual a un elefante que esté sobre una patineta, su aceleración será mucho menor. Verás que la cantidad de aceleración no sólo depende de la fuerza, sino también de la masa que empujas. La misma fuerza aplicada al doble de masa produce la mitad de la aceleración. Con tres masas, la aceleración es la tercera parte. Se dice que la aceleración que produce determinada fuerza es inversamente proporcional a la masa; esto es,
+
+Aceleración ~ 1 ÷ Masa
+
+Inversamente quiere decir que los dos valores cambian en dirección contraria. Cuando aumenta el denominador, toda la cantidad disminuye. Por ejemplo, 1/100 es menor que 1/10.
+
+Cuando dos cantidades son directamente proporcionales entre sí, cuando una aumenta, la otra también lo hace. Sin embargo, cuando las dos son inversamente proporcionales entre sí, cuando una aumenta, el otro disminuye. ¡Eureka!
+
+*Imagen 41. Hombre empuja elefante.*
+
+Descripción de la Imagen 41. Un hombre intenta mover a un elefante empujándolo con sus dos brazos. Cuanto mayor masa, se debe ejercer mayor fuerza para obtener cierta aceleración.
+
+## Segunda ley de Newton del movimiento
+
+Newton fue el primero que descubrió la relación entre los tres conceptos fundamentales de física: aceleración, fuerza y masa. Propuso una de las más importantes leyes de la naturaleza, su segunda ley del movimiento. La segunda ley de Newton establece que
+
+La aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él, tiene la dirección de la fuerza neta y es inversamente proporcional a la masa del objeto.
+
+En resumen, esto dice que:
+
+Aceleración ~ Fuerza neta ÷ masa
+
+Usaremos la línea ondulada ~ como símbolo que indica “es proporcional a”. Se dice que la aceleración a es directamente proporcional a la fuerza neta general F e inversamente proporcional a la masa m. Eso quiere decir que si F aumenta, a se incrementa con el mismo factor (si F es doble, a es doble); pero si m aumenta, a disminuye con el mismo factor (si m se duplica, a se reduce a la mitad). Usando las unidades de manera consistente, como newtons (N) para fuerza, kilogramos (kg) para masa y metros por segundo al cuadrado (m/s2) para aceleración, la proporcionalidad se puede convertir en una ecuación exacta:
+
+Aceleración = Fuerza neta ÷ masa
+
+De manera breve, donde a es la aceleración, F net (F sub net) es la fuerza neta y m es la masa, lo cual se expresa como
+
+a = Fnet ÷ m
+
+la ecuación anterior se lee: a mínuscula es igual a F mayúscula sub net dividid por m.
+
+Un objeto se acelera en la dirección de la fuerza que actúa sobre él. Si se aplica en la dirección de movimiento del objeto, la fuerza aumentará la rapidez del objeto.
+
+Si se aplica en dirección contraria, disminuirá su rapidez. Si se aplica en ángulo recto, desviará al objeto. Cualquier otra dirección de aplicación dará como resultado una combinación de cambio de rapidez y de dirección. La aceleración de un objeto tiene siempre la dirección de la fuerza neta.
+
+*Imagen 42. Mano empuja 3 ladrillos.*
+
+Descripción de la Imagen 42. Una mano empuja un ladrillo (La fuerza que ejerce la mano acelera el ladrillo). Una mano empuja a 2 ladrillos que están puestos uno sobre otro (La misma fuerza acelera 2 ladrillos a la mitad). Una mano empuja a 3 ladrillos que están puestos uno sobre otro (Con 3 ladrillos, la aceleración es un tercio de la original). La aceleración es inversamente proporcional a la masa de los cuerpos.
+
+#### EXAMÍNATE
+
+1. En el capítulo anterior la aceleración se definió como la razón de cambio de la velocidad con respecto al tiempo; esto es, a = (cambio de v)/tiempo. En este capítulo, ¿estamos diciendo que la aceleración es más bien la relación de la fuerza entre la masa, esto es, que a = F/m? ¿Cuál de las dos es cierta?
+
+2. Un avión jumbo viaja a la velocidad constante de 1.000 km/h cuando la fuerza de empuje de sus motores es una constante de 100.000 N. ¿Cuál es la aceleración del avión? ¿Cuál es la fuerza de resistencia del aire que actúa sobre el avión?
+
+#### COMPRUEBA TUS RESPUESTAS
+
+  1. La aceleración se define como la razón de cambio de la velocidad con respecto al tiempo, y la produce una fuerza. La magnitud de fuerza/masa (la causa) determina la razón de cambio de v/tiempo (el efecto).
+
+  2. La aceleración es cero porque la velocidad es constante. Como la aceleración es cero, por la segunda ley de Newton se sigue que la fuerza neta es cero, lo cual significa que la fuerza de resistencia aerodinámica debe ser igual a la fuerza de empuje de 100.000 N y debe actuar en la dirección contraria. Entonces, la resistencia aerodinámica sobre el avión es 100.000 N. (Observe que no necesitamos saber la velocidad del avión para contestar esta pregunta. Únicamente necesitamos saber que es constante, nuestra clave para afirmar que la aceleración y, por lo tanto, la fuerza neta, es cero.)
+
+## Cuando la aceleración es g (caída libre)
+
+Aunque Galileo usó los conceptos de inercia y de aceleración, y fue quien primero midió la aceleración de objetos que caen, no pudo explicar por qué los objetos de diversas masas caen con aceleraciones iguales. La segunda ley de Newton es la explicación.
+
+Sabemos que un cuerpo que cae acelera hacia la Tierra debido a la fuerza de atracción gravitacional entre el objeto y la Tierra. Cuando la fuerza de gravedad es la única que actúa, es decir, cuando fricciones como la del aire son despreciables, se dice que el objeto está en caída libre.
+
+*Imagen 43. Bloques cayendo.*
+
+Descripción de la Imagen 43. Un bloque de masa m cae con una Fuerza F hacia abajo (F÷m=g). Ahora dos bloques m caen juntos hacia abajo (2×F÷(2×m)=g). La relación del peso (F) entre la masa (m) es igual para todos los objetos en el mismo lugar; por consiguiente, cuando no hay resistencia del aire sus aceleraciones son iguales.
+
+Cuanto mayor sea la masa de un objeto, mayor será la fuerza de atracción gravitacional entre éste y la Tierra. Por ejemplo, el ladrillo doble de la Imagen 43 tiene el doble de atracción gravitacional que el ladrillo único. ¿Por qué, entonces, como suponía Aristóteles, la caída del ladrillo doble no tiene el doble de rapidez? La respuesta es que la aceleración de un objeto no sólo depende de la fuerza, en este caso, el peso, sino también de la resistencia del cuerpo a moverse, su inercia. Mientras que una fuerza produce una aceleración, la inercia es una resistencia a la aceleración. Así, el doble de fuerza que se ejerce sobre el doble de inercia produce la misma aceleración que la mitad de la fuerza ejercida sobre la mitad de la inercia. Los dos cuerpos aceleran por igual. La aceleración debida a la gravedad tiene el símbolo g. Usaremos este símbolo g, en vez de a, para indicar que la aceleración sólo se debe a la gravedad.
+
+*Imagen 44. Roca y pluma.*
+
+Descripción de la Imagen 44. Una gran roca y una pluma caen al mismo tiempo. Para la roca F÷m=g. Y para la pluma, su fuerza y su masa más pequeña es F÷m=g. Análogamente, una circunferencia muestra la relación C÷D=π (C mayúscula dividido por D mayúscula es igual a pi). Al lado una circunferencia más pequeña, muestra la relación C÷D=π (C mayúscula dividido por D mayúscula es igual a pi). La relación del cociente entre el peso (F) y la masa (m) es igual en la piedra grande y en la pluma pequeña; asimismo, la razón entre el perímetro de la circunferencia (C) y el diámetro (D) es igual para el círculo grande y para el pequeño.
+
+La relación de peso a masa en objetos en caída libre es igual a la constante g. Se parece a la relación constante de la circunferencia al diámetro de los círculos, que es igual a la constante π (letra griega pi). La relación del peso a la masa es igual para objetos pesados que para objetos ligeros, del mismo modo que la relación de la circunferencia al diámetro es igual tanto para círculos grandes como para los pequeños (Imagen 44).
+
+Ahora comprendemos que la aceleración de la caída libre es independiente de la masa de un objeto. Una piedra 100 veces más masiva que un guijarro cae con la misma aceleración que el guijarro, porque aunque la fuerza sobre la piedra (su peso) es 100 veces mayor que la fuerza sobre el guijarro, su resistencia (la masa) a cambiar el movimiento es 100 veces mayor que la del guijarro. La mayor fuerza se compensa con la masa igualmente mayor.
+
+#### EXAMÍNATE
+
+En el vacío, una moneda y una pluma caen igual, lado a lado. ¿Es correcto decir que fuerzas iguales de gravedad actúan en la moneda y en la pluma cuando están en el vacío?
+
+#### COMPRUEBA TU RESPUESTA
+
+No, no, no. ¡Mil veces no! Estos objetos tienen la misma aceleración, pero no porque las fuerzas de gravedad que actúan sobre ellos sean iguales, sino porque las relaciones de sus pesos entre sus masas son iguales. Aunque en el vacío no hay resistencia del aire, sí hay gravedad (bien que lo sabrías, si pusieras tu mano en una cámara de vacío y sobre ella pasara un camión). Si contestaste
+
+que sí a esta pregunta, ¡considérala una advertencia para que tengas más cuidado cuando pienses en física!
+
+## Cuando la aceleración es menor que g (caída no libre)
+
+Los objetos que caen en el vacío son una cuestión, pero, ¿y los casos de objetos que caen en el aire? Aunque una pluma y una moneda caen con igual aceleración en el vacío, lo hacen en forma muy distinta en el aire. ¿Cómo se aplican las leyes de Newton a objetos que caen en el aire. La respuesta es que las leyes de Newton se aplican a todos los objetos, ya sea que caigan libremente o que caigan en presencia de fuerzas de resistencia. No obstante, las aceleraciones son muy diferentes en ambos casos. Lo importante que se debe tener en cuenta es la idea de una fuerza neta. En el vacío, o en los casos en que se puede despreciar la resistencia del aire, la fuerza neta es igual al peso, ya que es la única fuerza. Sin embargo, en presencia de la resistencia del aire, sin embargo, la fuerza neta es menor que el peso, es el peso menos la resistencia aerodinámica, fuerza que se presenta debido a la resistencia del aire.
+
+Cuando dos cantidades son directamente proporcionales entre sí, cuando una aumenta, la otra también lo hace. Sin embargo, cuando las dos son inversamente proporcionales entre sí, cuando una aumenta, el otro disminuye. ¡Eureka!
+
+La fuerza de resistencia del aire que actúa sobre un objeto que cae depende de dos factores. En primer lugar, depende de su área frontal, es decir, de la cantidad de aire que debe cortar en su caída. En segundo lugar, depende de la rapidez del objeto que cae: cuanto mayor sea la rapidez, mayor será la cantidad de moléculas de aire con que se encuentra un objeto en cada segundo y también serán mayores las fuerzas debidas a los impactos moleculares. La resistencia aerodinámica depende de la superficie y de la rapidez del objeto que cae.
+
+En algunos casos la resistencia del aire afecta mucho la caída, y en otros no. La resistencia aerodinámica es importante en la caída de una pluma. Como la pluma tiene tanta superficie en comparación con su peso tan bajo, no cae mucho antes de que la resistencia del aire, con dirección hacia arriba, anule el peso que actúa hacia abajo. Entonces, la fuerza neta sobre la pluma es cero y la aceleración termina. Al terminarse la aceleración se dice que el objeto alcanzó su rapidez terminal. Si nos ocupamos además de la dirección, que es hacia abajo para los objetos que caen, decimos que el objeto llegó a su velocidad terminal. La misma idea se aplica a todos los objetos que caen por el aire; por ejemplo, en el paracaidismo. Cuando se lanza un paracaidista, aumenta su rapidez y, por lo tanto, aumenta la resistencia del aire hasta que se iguala al peso de la persona. Cuando eso sucede, la fuerza neta se vuelve cero, y la aceleración del paracaidista se anula porque ha alcanzado su velocidad terminal. Para una pluma la velocidad terminal es algunos centímetros por segundo; en tanto que para un paracaidista es de unos 200 kilómetros por hora. El paracaidista puede variar esa velocidad cambiando de posición. En la posición de cabeza o de pie se encuentra con menos aire y, en consecuencia, con menos resistencia aerodinámica, y alcanza su velocidad terminal máxima. Una velocidad terminal menor se alcanza si uno se extiende, del mismo modo que lo haría una ardilla voladora. Cuando se abre el paracaídas se llega a la velocidad terminal mínima.
+
+*Imagen 45. Dos personas en paracaídas.*
+
+Descripción de la Imagen 45. Dos personas, cada una cayendo con un paracaídas. Para cada persona una flecha hacia arriba (resistencia del aire) y una flecha hacia abajo (Peso) tienen el mismo tamaño. El paracaidista más pesado debe caer con más rapidez que la paracaidista más ligera, para que la resistencia del aire iguale a su peso, que es mayor.
+
+Supongamos que un hombre y una mujer se lanzan en paracaídas desde la misma altura y al mismo tiempo (Imagen 45) y que el hombre pesa el doble que la mujer, pero que sus paracaídas tienen el mismo tamaño y se abren desde el principio. El paracaídas del mismo tamaño quiere decir que con rapideces iguales la resistencia del aire es igual en cada uno. ¿Quién llega primero al suelo, el hombre pesado o la mujer ligera? La respuesta es que la persona que cae con mayor rapidez llega primero al suelo; esto es, la persona que tiene la mayor rapidez terminal. Al principio creeríamos que como los paracaídas son iguales, las rapideces terminales de los dos serían iguales, y que en consecuencia los dos llegarían juntos al suelo. Sin embargo, eso no sucede porque también la resistencia del aire depende de la rapidez. Una mayor rapidez equivale a una mayor fuerza de impacto en el aire. La mujer llegará a su rapidez terminal cuando la resistencia del aire contra su paracaídas sea igual a su peso. Cuando eso sucede, la resistencia del aire contra el paracaídas del hombre no habrá igualado a su peso todavía. Debe caer con mayor rapidez que ella, para que la resistencia del aire coincida con su peso mayor. La velocidad terminal es mayor para la persona más pesada y como resultado ésta llega primero al suelo.
+
+Dato curioso: cuando la fuerza de gravedad y la resistencia del aire actúan sobre un objeto que cae, éste no va en caída libre. ¡Eureka!
+
+Imagínate dos pelotas de tenis, una hueca y la otra rellena con balines de acero. Aunque tienen el mismo tamaño, la que se rellenó con balines es bastante más pesada que la otra. Si las sujetas arriba de la cabeza y las dejas caer simultáneamente, verás que llegan al suelo al mismo tiempo. Pero si las dejas caer desde una altura mayor, digamos desde la azotea de un edificio, verás que la pelota más pesada llega al suelo primero. ¿Por qué? En el primer caso, las pelotas no aumentan mucho de rapidez porque su caída es corta. La resistencia aerodinámica con que se encuentran es pequeña, en comparación con sus pesos, aun con la pelota normal. No se percibe la diminuta diferencia en sus momentos de llegada. Sin embargo, cuando se dejan caer desde una altura mayor, las rapideces de caída mayores se encuentran con mayores resistencias del aire. A igual rapidez cada pelota se encuentra con la misma resistencia del aire porque tienen el mismo tamaño. Esta misma resistencia del aire puede ser mucho mayor en comparación con el peso de la pelota más liviana, pero quizá sea pequeña en comparación con el peso de la pelota más pesada (como los paracaidistas de la Imagen 45). Por ejemplo, 1 N de resistencia del aire que actúa sobre un objeto que pesa 2 N reduce su aceleración a la mitad; pero 1 N de resistencia del aire que actúa sobre un objeto de 200 N sólo disminuye levemente su aceleración. Así, aun cuando las resistencias del aire sean iguales, las aceleraciones de cada cuerpo serían distintas. En este caso la moraleja es: siempre que consideres la aceleración de algo, utiliza la ecuación de la segunda ley de Newton para guiar tu razonamiento. La aceleración es igual al cociente entre la fuerza neta y la masa. Para las pelotas de tenis que caen, la fuerza neta sobre la bola hueca se reduce en forma significativa conforme se incrementa la resistencia del aire; en cambio, la fuerza neta sobre la pelota rellena de acero sólo se reduce muy poco. La aceleración disminuye a medida que disminuye la fuerza neta y esa fuerza, a la vez, disminuye al aumentar la resistencia del aire. La resistencia del aire aumentará hasta igualar el peso del objeto que cae, cuando esto suceda la fuerza neta se volverá cero y la aceleración desaparecerá.
+
+*Imagen 46. Fotografía estroboscópica.*
+
+Descripción de la Imagen 46. Fotografía estroboscópica de dos esferas de diferente tamaño que caen pero no al mismo tiempo. Fotografía estroboscópica de una pelota de golf (izquierda) y una pelota de poliuretano (derecha) que caen en el aire. La resistencia del aire es despreciable para la pelota más pesada, y su aceleración es aproximadamente igual a g. La resistencia del aire no es despreciable para la pelota ligera de poliuretano, la cual alcanza muy pronto su velocidad terminal.
+
+#### EXAMÍNATE
+
+Una paracaidista salta desde un helicóptero que vuela muy alto. Al caer cada vez con mayor rapidez por el aire, ¿su aceleración aumenta, disminuye o permanece igual?
+
+COMPRUEBA TU RESPUESTA
+
+La aceleración disminuye porque la fuerza neta sobre ella disminuye. La fuerza neta es igual a su peso menos la resistencia del aire, y como la resistencia del aire aumenta al aumentar su rapidez, la fuerza neta, y en consecuencia la aceleración, disminuyen. De acuerdo con la segunda ley de Newton,
+
+a = Fnet ÷ m = (m×g –R) ÷ m
+
+Que se lee, a= F sub net ÷ m = (m×g menos R mayúscula) ÷ m
+
+Donde m×g es su peso y R es la resistencia del aire que encuentra. Conforme R aumenta, a disminuye. Observa que si cae con la suficiente rapidez para que R = mg, entonces a = 0 y no hay aceleración; por lo tanto, cae con rapidez constante.
+
+### Resumen de términos
+
+Caída libre: Movimiento bajo la influencia única de la fuerza de atracción gravitacional.
+
+Fricción: Fuerza de resistencia que se opone al movimiento o a intentos de movimiento de un objeto, en relación con otro con el que está en contacto, o a través de un fluido.
+
+Fuerza: Influencia que puede causar aceleración en un objeto; se mide en newtons (o en libras en el sistema inglés).
+
+Kilogramo: Unidad fundamental de masa en el S I. Un kilogramo (símbolo kg) es equivalente a la masa de 1 litro (L) de agua a 4 °C.
+
+Masa: Cantidad de materia en un objeto. En forma más específica, la medida de la inercia u oposición del objeto a cambiar de movimiento en respuesta a los esfuerzos para ponerlo en movimiento, detenerlo, desviarlo o cambiar en cualquier forma su estado de movimiento.
+
+Newton: Unidad de fuerza en el S I. Un newton (símbolo N) es la fuerza que produce una aceleración de 1 m/s2 (metro sobre segundo al cuadrado) a un objeto con masa de 1 kg.
+
+Peso: Fuerza debida a la gravedad sobre un objeto.
+
+Rapidez terminal: Rapidez a que llega un cuerpo que cae cuando la aceleración se hace cero debido a que la resistencia del aire balancea el peso del objeto. Cuando se explicita la dirección hablamos de velocidad terminal.
+
+Segunda ley de Newton: La aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre éste, está en la dirección de la fuerza neta y es inversamente proporcional a la masa del objeto.
+
+Volumen: La cantidad de espacio que ocupa un objeto.
+
+### Preguntas de repaso
+
+#### La fuerza causa aceleración
+
+1. ¿La aceleración es proporcional a la fuerza neta, o es igual a la fuerza neta?
+
+#### Fricción
+
+2. ¿Cómo influye la fricción sobre la fuerza neta sobre un objeto?
+
+3. ¿Cuál es la magnitud de la fricción, en comparación con tu empuje sobre una caja que no se mueve sobre el suelo horizontal?
+
+4. Si aumentas tu empuje, ¿aumentará también la fricción en la caja?
+
+5. Una vez que la caja se desliza, ¿con qué fuerza debes empujarla para mantenerla en movimiento a velocidad constante?
+
+6. ¿Cuál suele ser mayor, la fricción estática o la fricción cinética sobre el mismo objeto?
+
+7. ¿Cómo varía la fuerza de fricción cuando varía la rapidez?
+
+8. Desliza un bloque sobre su lado más grande, y a continuación voltéalo de manera que se deslice sobre su lado más pequeño. ¿En qué caso la fricción es mayor?
+
+9. ¿Varía la fricción en los fluidos con la rapidez y con el área de contacto?
+
+#### Masa y peso
+
+10. ¿Qué relación tiene la masa con la inercia?
+
+11. ¿Qué relación tiene la masa con el peso?
+
+12. ¿Qué es más fundamental, la masa o el peso? ¿Cuál varía con el lugar?
+
+13. ¿Cuál es el peso aproximado de una hamburguesa de un cuarto de libra ya cocinada?
+
+14. ¿Cuál es el peso de un ladrillo de 1 kilogramo?
+
+15. Explica con claridad la diferencia entre masa, peso y volumen.
+
+#### Una masa se resiste a acelerar
+
+16. ¿La aceleración es directamente proporcional a la masa, o es inversamente proporcional a la masa? Da un ejemplo.
+
+#### Segunda ley de Newton del movimiento
+
+17. Enuncia la segunda ley de Newton del movimiento.
+
+18. Si se dice que una cantidad es directamente proporcional a otra. ¿Quiere decir que son iguales entre sí? Explícalo en forma breve, usando masa y peso en un ejemplo.
+
+19. Si la fuerza neta que actúa sobre un bloque que se desliza aumenta al triple, ¿cuánto aumentará su aceleración?
+
+20. Si la masa de un bloque que se desliza aumenta al triple, mientras se le aplica una fuerza neta constante, ¿cuánto disminuye la aceleración?
+
+21. Si la masa de un bloque que se desliza aumenta al triple y al mismo tiempo la fuerza neta aumenta al triple, ¿cómo se compara la aceleración que resulta con la aceleración original?
+
+22. ¿Cómo se compara la dirección de la aceleración con la de la fuerza neta que la produce?
+
+#### Cuando la aceleración es g (caída libre)
+
+23. ¿Qué quiere decir caída libre?
+
+24. La relación circunferencia/diámetro es π en todos los círculos. ¿Cuál es la relación fuerza/masa en todos los objetos que caen libremente?
+
+25. ¿Por qué un objeto pesado no acelera más que uno ligero, cuando ambos caen libremente?
+
+#### Cuando la aceleración es menor que g (caída no libre)
+
+26. ¿Cuál es la fuerza neta que actúa sobre un objeto de 10 N en caída libre?
+
+27. ¿Cuál es la fuerza neta que actúa sobre un objeto de 10 N cuando al caer se encuentra con una resistencia del aire igual a 4 N? ¿Y si encuentra una resistencia del aire de 10 N?
+
+28. ¿Cuáles son los dos factores principales que afectan la fuerza de resistencia del aire sobre un objeto que cae?
+
+29. ¿Cuál es la aceleración de un objeto que cae y ha llegado a su velocidad terminal?
+
+30. ¿Por qué un paracaidista pesado cae con mayor rapidez que uno más ligero, si los dos usan paracaídas del mismo tamaño?
+
+31. Si dos objetos del mismo tamaño caen por el aire con distintas rapideces, ¿cuál encuentra la mayor resistencia del aire?
+
+### Proyectos
+
+1. Escribe una carta a tu abuelita. Cuéntale que Galileo introdujo los conceptos de aceleración e inercia, y que estaba familiarizado con las fuerzas, pero que no consideró ninguna relación entre los tres conceptos. Dile cómo Isaac Newton en verdad percibió tales conexiones y cómo éstas explican porqué los objetos pesados y ligeros que caen libremente tienen la misma rapidez en el mismo tiempo. En la carta, está bien que uses una ecuación o dos, según consideres que le ayudará a tu abuelita a tener claro que una ecuación es una notación abreviada de las ideas que le estás explicando.
+
+2. Deja caer una hoja de papel y una moneda al mismo tiempo. ¿Cuál llega primero al suelo? ¿Por qué? Ahora haz una bola con la hoja de papel y déjala caer de nuevo con la moneda. Describe la diferencia que observes. ¿Caerían igual si se dejaran caer desde la ventana de un segundo, un tercer o un cuarto pisos? Inténtalo y describe tus observaciones.
+
+3. Deja caer un libro y una hoja de papel, y observa que el libro tiene mayor aceleración (g). Coloca el papel bajo el libro, de manera que sea impulsado por éste cuando ambos caen, por lo que ambos caen con g. ¿Cómo se comparan sus aceleraciones si colocas el papel sobre el libro levantado y luego dejas caer ambos? Te sorprenderá, así que haz la prueba y observa. A continuación explica tu observación.
+
+4. Deja caer dos pelotas con distintos pesos desde la misma altura. Cuando sus rapideces son pequeñas, caen prácticamente juntas. ¿Rodarán igual por el mismo plano inclinado? Si cada una se cuelga de un hilo con igual longitud, formando un par de péndulos y soltándolas desde el mismo ángulo, ¿oscilarán al unísono? Prueba y observa; a continuación explícalo usando las leyes de Newton.
+
+5. La fuerza neta que actúa sobre un objeto, y la aceleración que resulta, siempre tienen la misma dirección. Lo puedes demostrar con un carrete. Si tiras del carrete horizontalmente hacia la derecha, ¿en qué dirección rodará?
+
+### Cálculos de un paso
+
+Realiza estos sencillos cálculos de un paso y familiarízate con las ecuaciones que relacionan los conceptos de fuerza, masa y aceleración.
+
+Peso = m×g
+
+  3. Calcula el peso en newtons de una persona que tenga una masa de 50 kg.
+
+  4. Calcula el peso en newtons de un elefante de 2.000 kg.
+
+  5. Calcula el peso en newtons de un melón de 2,5 kg. ¿Cuál es su peso en libras?
+
+  6. Una manzana pesa aproximadamente 1 N. ¿Cuál es su masa en kilogramos? ¿Cuál es su peso en libras?
+
+  7. Susie Small tiene un peso de 300 N. Calcula su masa.
+
+Aceleración: a = F net ÷ m
+
+  8. Calcula la aceleración de una avioneta de 2.000 kg, con un solo motor, justo antes de despegar, si el empuje de su motor es de 500 N.
+
+  9. Calcula la aceleración de un avión jumbo de 300.000 kg justo antes de despegar, si el empuje sobre el avión es de 120.000 N.
+
+  10. Calcula
+
+a) La aceleración de un bloque de 2 kg sobre una superficie horizontal, sin fricción, cuando ejerces una fuerza horizontal neta de 20 N.
+
+b) ¿Cuál es la aceleración que ocurre si la fuerza de fricción es de 4 N?
+
+Fuerza = m×a
+
+  11. Calcula la fuerza horizontal que debe aplicarse a un disco de hockey (puck) de 1 kg, para hacer que su aceleración sobre una superficie horizontal, sin fricción, sea la misma que tendría si se dejara caer libremente.
+
+  12. Calcula la fuerza horizontal que debe aplicarse para producir una aceleración de 1,8 g en un disco de hockey de 1,2 kg, que se encuentra sobre una superficie horizontal, sin fricción.
+
+### Ejercicios
+
+1. ¿La velocidad de un objeto puede invertir su dirección mientras mantiene aceleración constante? En caso afirmativo, menciona un ejemplo. Si no, explica por qué.
+
+2. En una pista larga, una bola de bolos se desacelera cuando rueda. ¿Está actuando alguna fuerza horizontal sobre ella? ¿Cómo lo sabes?
+
+3. ¿Es posible describir una curva en ausencia de una fuerza? Sustenta tu respuesta.
+
+4. Un astronauta lanza una piedra sobre la Luna. ¿Qué fuerza o fuerzas actúa sobre la piedra durante su trayectoria curva?
+
+5. Como un objeto pesa menos en la superficie de la Luna que en la superficie de la Tierra, ¿tendrá menos inercia en la superficie de la Luna?
+
+6. ¿Qué contiene más manzanas, una bolsa de 1 libra de ellas en la Tierra o una bolsa de 1 libra de ellas en la Luna? ¿Qué contiene más manzanas, una bolsa de 1 kilogramo de ellas en la Tierra o una bolsa de 1 kilogramo de ellas en la Luna?
+
+7. Una caja permanece en reposo en el suelo de una fábrica, cuando la empujas con una fuerza horizontal F. ¿De qué magnitud es la fuerza de fricción que ejerce el suelo sobre la caja? Explica por qué.
+
+8. Estando en órbita el transbordador espacial, en su interior te dan dos cajas idénticas: una está llena de arena y la otra está llena de plumas. ¿Cómo puedes saber cuál es cuál, sin abrirlas?
+
+9. Tu mano vacía no se lesiona cuando la golpeas con suavidad contra un muro. ¿Por qué se lesionaría si lo hicieras sujetando en ella una carga pesada? ¿Cuál es la ley de Newton que se aplica mejor aquí?
+
+10. ¿Por qué un cuchillo masivo es más efectivo para cortar verduras que una navaja igualmente afilada?
+
+11. ¿La masa de un astronauta cambia cuando visita la estación espacial internacional? Sustenta tu respuesta.
+
+12. Cuando a un vehículo viejo se le transforma en chatarra y se compacta en forma de cubo, ¿cambia su masa? ¿Cambia su peso? Explica por qué.
+
+13. La gravedad en la superficie de la Luna sólo es la sexta parte que sobre la Tierra. ¿Cuál es el peso de un objeto de 10 kg sobre la Luna y sobre la Tierra? ¿Cuál es su masa en cada lugar?
+
+14. Qué es más correcto decir de una persona que sigue una dieta, ¿qué está perdiendo masa o que está perdiendo peso?
+
+15. ¿Qué sucede a tu peso cuando aumenta tu masa?
+
+16. ¿Cuál es tu masa en kilogramos? ¿Cuál es tu peso en newtons?
+
+17. Considera una caja pesada que está en reposo en la superficie de la cama plana de un camión. Cuando éste acelera, la caja también acelera y permanece en su sitio. Identifica la fuerza que acelera la caja.
+
+18. Explica cómo la primera ley de Newton del movimiento se puede considerar una consecuencia de la segunda ley de Newton.
+
+19. ¿Qué necesita menos combustible, lanzar un cohete desde la Luna o desde la Tierra? Sustenta tu respuesta.
+
+20. Aristóteles afirmaba que la rapidez de un cuerpo que cae depende de su peso. Hoy sabemos que los objetos en caída libre, independientemente de su peso, tienen el mismo aumento de rapidez. ¿Por qué el peso no afecta la aceleración?
+
+21. En el bloqueo del fútbol americano, un liniero defensivo con frecuencia trata que su cuerpo esté más abajo que el del contrario, para empujarlo hacia arriba. ¿Qué efecto tiene eso sobre la fuerza de fricción entre los pies del liniero contrario y el terreno?
+
+22. Un auto de carreras viaja por una pista a velocidad constante de 200 km/h. ¿Qué fuerzas horizontales actúan sobre él y cuál es la fuerza neta que actúa sobre él?
+
+23. Para tirar de un carro por un prado, con velocidad constante, debes ejercer una fuerza constante. Relaciona esto con la primera ley de Newton, que dice que el movimiento con velocidad constante no requiere fuerza.
+
+24. La caída libre es el movimiento en el que la gravedad es la única fuerza que actúa. Responde:
+
+a) ¿Un paracaidista que ha llegado a su rapidez terminal está en caída libre?
+
+b) ¿Un satélite que describe círculos en torno a la Tierra está en caída libre?
+
+25. Cuando una moneda se lanza hacia arriba, ¿qué sucede con su velocidad mientras asciende? ¿Es aceleración? (No tomes en cuenta la resistencia del aire.)
+
+26. ¿Cuánta fuerza actúa sobre una moneda lanzada cuando está a la mitad del camino de su altura máxima? ¿Cuánta fuerza actúa sobre ella cuando alcanza su altura máxima? (No tomes en cuenta la resistencia del aire.)
+
+27. Cuando saltas verticalmente del suelo, ¿cuál es tu aceleración cuando llegas a tu punto más alto?
+
+28. ¿Cuál es la aceleración de una piedra en la cúspide de su trayectoria, cuando se lanza directo hacia arriba? ¿Tu respuesta coincide con la segunda ley de Newton?
+
+29. Un refrán dice: “No es la caída la que duele, es la parada tan repentina.” Traduce lo anterior en términos de las leyes de Newton del movimiento.
+
+30. Un amigo te dice que mientras un automóvil está en reposo no actúa fuerzas sobre él. ¿Qué le dirías al respecto para corregirlo?
+
+31. Cuando tu automóvil avanza por la carretera con velocidad constante, la fuerza neta sobre él es cero. ¿Por qué entonces debes mantener el motor funcionando?
+
+32. Una “estrella fugaz” suele ser un grano de arena procedente del espacio, que se quema y emite luz al entrar a la atmósfera. ¿Qué es exactamente lo que causa que se queme?
+
+33. ¿Un cartucho de dinamita contiene fuerzas?
+
+34. Un paracaidista, después de abrir el paracaídas, baja suavemente y no aumenta su rapidez. Sin embargo, siente el tirón del arnés hacia arriba, mientras que la gravedad tira de él hacia abajo. ¿Cuál de las dos fuerzas es mayor? ¿O tendrán la misma magnitud?
+
+35. ¿Un objeto que cae aumenta de rapidez si disminuye su aceleración de caída?
+
+36. ¿Cuál es la fuerza neta que actúa sobre una esfera de 1 kg en caída libre?
+
+37. ¿Por qué una hoja de papel caerá más despacio que otra que se ha hecho en forma de bola?
+
+38. ¿La resistencia del aire, será mayor sobre una hoja de papel que cae, o sobre el mismo papel hecho una bola, la cual cae con una rapidez terminal mayor? (¡Ten cuidado!)
+
+39. Con una mano sujeta una pelota de ping-pong y con la otra una pelota de golf. Suéltalas al mismo tiempo. Verás que caen al suelo casi al mismo tiempo. Pero si las dejas caer desde la cima de una escalera alta, verás que la de golf llega primero. ¿Cómo explicas lo sucedido?
+
+40. ¿Cómo se compara la fuerza de gravedad sobre una gota de lluvia con la resistencia del aire que se encuentra en su caída, cuando la gota cae a velocidad constante?
+
+41. Cuando un automóvil se mueve en reversa, al regresar por un camino y el conductor frena. ¿En qué dirección va la aceleración del carro?
+
+42. Cuando un paracaidista abre el paracaídas, ¿en qué dirección acelera?
+
+43. ¿Cómo se comparan la rapidez terminal de un paracaidista, antes de abrir el paracaídas, con su velocidad terminal después de abrirlo? ¿A qué se debe la diferencia?
+
+44. ¿Bajo qué condiciones estará en equilibrio una esfera de metal que cae en un líquido viscoso?
+
+45. Cuando Galileo dejaba caer las dos pelotas desde lo alto de la Torre Inclinada de Pisa, la resistencia del aire no era despreciable. Suponiendo que ambas tuvieran el mismo tamaño pero una fuera de madera y la otra de metal, ¿cuál de ellas llegaría primero al suelo? ¿Por qué?
+
+46. Si dejas caer un par de pelotas de tenis, al mismo tiempo, desde la azotea de un edificio, llegarán al suelo al mismo tiempo. Si rellenas una de ellas con balines de plomo y las dejas caer al mismo tiempo, ¿cuál llegará primero al suelo? ¿Cuál tendrá mayor resistencia del aire? Sustenta tus respuestas.
+
+47. Cuando no hay resistencia del aire, si una pelota se lanza verticalmente hacia arriba, con cierta rapidez inicial, al regresar a su altura original tendrá la misma rapidez. Cuando se tienen en cuenta la resistencia del aire, ¿la pelota se moverá más rápido, igual o más lento cuando regrese al mismo nivel? ¿Por qué? (Con frecuencia, los físicos usan un “principio de exageración” para ayudarse a analizar un problema. Examina el caso exagerado de una pluma, y no de una pelota, porque el efecto de la resistencia del aire sobre la pluma es más pronunciado y en consecuencia es más fácil de visualizar.)
+
+48. Si una pelota se lanza verticalmente al aire en presencia de la resistencia de éste, ¿crees que el tiempo durante el cual sube será más largo o más corto que su tiempo de bajada? (Aplica de nuevo el “principio de la exageración”.)
+
+### Problemas
+
+1. ¿Cuál es la aceleración de un bloque de cemento de 40 kg, al tirar de él lateralmente con una fuerza neta de 200 N?
+
+2. ¿Cuál es la aceleración de una cubeta con 20 kg de cemento de la cual se tira hacia arriba (¡no lateralmente!) con una fuerza de 300 N?
+
+3. Si una fuerza de 1 N acelera una masa de 1 kg con 1 m/s2, ¿cuál será la aceleración de 2 kg sobre los cuales obre una fuerza de 2 N?
+
+4. Se ve que dos cajas aceleran igual cuando se aplica una fuerza F a la primera, y se aplica 4F a la segunda. ¿Cuál es la relación de sus masas?
+
+5. Un bombero de 80 kg de masa se desliza por un poste vertical con una aceleración de 4 m/s2. ¿Cuál es la fuerza de fricción entre el poste y el bombero?
+
+6. ¿Cuál será la aceleración de un paracaidista cuando aumenta la resistencia del aire hasta la mitad de su peso?
+
+7. Al acelerar cerca del final de una carrera, un corredor de 60 kg de masa pasa de una rapidez de 6 m/s a otra de 7 m/s en 2 s. Contesta:
+
+a) ¿Cuál es la aceleración promedio del corredor durante este tiempo?
+
+b) Para aumentar su rapidez, el corredor produce una fuerza sobre el suelo dirigida hacia atrás, y en consecuencia el suelo lo impulsa hacia adelante y proporciona la fuerza necesaria para la aceleración. Calcula esta fuerza promedio.
+
+NOTA FINAL
+
+Recuerda: las preguntas de repaso te ofrecen una autoevaluación respecto de si aprendiste o no las ideas centrales del capítulo. Los ejercicios y problemas son un “impulso” extra, para que los resuelvas después de tener al menos un entendimiento modesto del capítulo y puedas manejar las preguntas de repaso.
+
+# Bibliografía
+
+Hewitt, P. (2007). Física Conpetual. En P. Hewitt, Física Conpetual (Décima ed., págs. 1-73). México, México: Pearson Educación.

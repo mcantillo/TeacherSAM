@@ -1,0 +1,2886 @@
+
+
+
+
+
+
+
+
+
+
+
+
+MATEMÁTICASMATEMÁTICAS
+
+
+
+Guía de Apoyo Educativo en el área de las matemáticas.
+
+
+
+
+
+Conceptos de las funciones y  las relaciones como introducción a grado 11º de educación secundaria
+
+
+
+
+
+
+
+Autor:
+Adriana Quintero Palomino
+
+TABLA DE CONTENIDO
+
+	TEMA 1: DESIGUALDADES E INECUACIONES	3
+	PROPIEDADES DE LAS DESIGUALDADES	8
+	Intervalos	13
+	Practica lo aprendido	21
+	SOLUCIÓN DE INECUACIONES DE PRIMER GRADO	25
+	Practica lo aprendido	30
+	INECUACIONES SIMULTÁNEAS DE PRIMER GRADO	35
+	Practica lo aprendido	39
+	INECUACIONES CUADRÁTICAS	41
+	Practica lo aprendido	49
+	INECUACIONES RACIONALES	52
+	Practica lo aprendido	58
+	TEMA 2: VALOR ABSOLUTO	63
+	PROPIEDADES DEL VALOR ABSOLUTO	66
+	ECUACIONES CON VALOR ABSOLUTO	70
+	INECUACIONES CON VALOR ABSOLUTO	72
+	Practica lo aprendido	74
+	Prepárate para el ICFES	78
+	TEMA 3: FUNCIONES	95
+	TRAZADO E INTERPRETACIÓN DE GRÁFICAS	97
+	INTERSECCIONES DE LA GRÁFICA CON LOS EJES	102
+	SIMETRÍAS	105
+	CÁLCULO DEL DOMINIO Y DEL RANGO	111
+	TRANSFORMACIONES BÁSICAS DE LAS GRÁFICAS	127
+	Practica lo aprendido	138
+
+TABLA DE TABLAS
+
+	Tabla 1: Multiplicación por valores positivos	10
+	Tabla 2: Multiplicación por valores negativos.	11
+	Tabla 1: Valores de y con desplazamiento.	100
+	Tabla 2: Tabulación de la función cuadrática transformada.	109
+	Tabla 3: Valores menores a 2.	121
+	Tabla 4: Valores Mayores a 2.	122
+
+TABLA DE IMÁGENES
+
+
+	Imagen 1: b>a.	6
+	Imagen 2: a = b	7
+	Imagen 3: a>b	7
+	Imagen 4: m < n.	10
+	Imagen 5: Representación intervalo abierto.	16
+	Imagen 6: Representación intervalo semi - abierto.	17
+	Imagen 7: Intervalo semi - abierto.	17
+	Imagen 8: Intervalo Cerrado.	18
+	Imagen 9: Unión de intervalos	20
+	Imagen 10: Resta de Intervalos	21
+	Imagen 11: Intervalos Disyuntos.	21
+	Imagen 12: Intersección de intervalos	22
+	Imagen 13: Unión de Intervalos	23
+	Imagen 14: Solución de desigualdades dobles.	40
+	Imagen 15: Representación de Uniones e Intersecciones de Intervalos.	45
+	Imagen 16: Paso 1.	46
+	Imagen 17: Paso 2.	47
+	Imagen 18: Paso 3.	47
+	Imagen 19: Paso 4.	48
+	Imagen 20: Solución de factores lineales de la inecuación cuadrática.	49
+	Imagen 21: Producto de Signos	50
+	Imagen 22: Inecuación Cuadrática	55
+	Imagen 23: Desigualdad Racional.	58
+	Imagen 24: Distancia entre puntos.	64
+	Imagen 25: Simetría del Valor absoluto.	64
+	Imagen 26: Solución de la desigualdad a.	68
+	Imagen 27: Solución de la desigualdad b.	68
+	Imagen 28: Solución de la desigualdad C.	69
+	Imagen 29: Ecuación Lineal Valor Absoluto.	70
+	Imagen 30: Solución Desigualdad Doble.	73
+	Imagen 31: Solución como Unión.	75
+	Imagen 32: Tabla de Liquidación.	81
+	Imagen 33: Representación A.	83
+	Imagen 34: Representación B	84
+	Imagen 35: Representación C.	84
+	Imagen 36: Representación D.	85
+	Imagen 37: Ubicación de las lámparas.	87
+	Imagen 38: Gráfica a.	91
+	Imagen 39: Gráfica B.	91
+	Imagen 40: Gráfica c.	92
+	Imagen 41: Gráfica d.	92
+	Imagen 1: Crecimiento Poblacional.	96
+	Imagen 2: Segmento de parábola	99
+	Imagen 3: Gráfica de Puntos Tabulados	102
+	Imagen 4: Parábola descrita por la función.	103
+	Imagen 5: Gráficas de funciones que intersectan ejes.	104
+	Imagen 6: Simetría respecto al eje x.	106
+	Imagen 7: Simetría Respecto al eje y.	107
+	Imagen 8: Gráfica Función Cúbica.	109
+	Imagen 9: Función Cuadrática Negativa.	111
+	Imagen 10: Solución y > 0	115
+	Imagen 11: Solución de y + 12.	116
+	Imagen 12: Producto de las soluciones simples.	116
+	Imagen 13: Gráfica de Función Racional	119
+	Imagen 14: Gráfica Función Racional.	123
+	Imagen 15: Función Lineal.	125
+	Imagen 16: Gráfica de Tan(x)	127
+	Imagen 17: Gráfica función cuadrática.	129
+	Imagen 18: Desplazamiento Vertical.	129
+	Imagen 19: Desplazamiento Horizontal.	130
+	Imagen 20: Variaciones en la amplitud de la función sen(x)	131
+	Imagen 21: Variaciones de periodo en función Seno	132
+	Imagen 22: Reflejo de la función seno.	133
+	Imagen 23: Reflejo de la función seno.	133
+	Imagen 24: Desplazamiento Horizontal de la cúbica.	135
+	Imagen 25: Desplazamiento Vertical de la Función Cúbica.	136
+	Imagen 26: Reflejo de una función cuadrática.	138
+	Imagen 27: Combinación de desplazamientos.	139
+	Imagen 28: Ejercicio a.	140
+	Imagen 29: Ejercicio b.	140
+	Imagen 30: Ejercicio c.	141
+	Imagen 31: Ejercicio d.	141
+
+
+
+TEMA 1: DESIGUALDADES E INECUACIONES
+
+
+En tres exámenes de matemáticas, un universitario obtuvo las siguientes calificaciones: 55, 75 y 60 sobre 100. Suponiendo que aún le falta un examen y que la nota final se halla promediando los cuatro exámenes, ¿cuál debe ser la calificación mínima del último, si la materia se aprueba con 70?
+
+Supongamos que la nota del examen final es x:
+
+ [ecuación] 
+
+Si quiere aprobar el examen el promedio debe ser por lo menos 70. Esta situación puede representarse de la siguiente manera:
+
+ [ecuación] 
+
+Hemos obtenido una expresión que relaciona o compara dos cantidades por medio de una desigualdad.
+
+Por el hecho de tener una incógnita, esta desigualdad recibe el nombre de inecuación.
+
+El propósito de esta lección es encontrar procedimientos para resolver inecuaciones de diferentes tipos, las cuales permitirán darles solución a diferentes problemas y situaciones como la mencionada.
+
+Pero antes de comenzar es necesario hacer un estudio acerca de las relaciones de orden y sus propiedades. 
+
+Veamos:
+
+Sabemos que el conjunto de los números reales es ordenado. Por tal razón, dados los números reales a y b, solo puede presentarse una de las siguientes relaciones:
+
+•	a – b < 0
+•	a – b = 0
+•	a – b > 0
+
+La primera afirmación significa que el valor a es menor que el valor b, es decir, a < b. La segunda afirmación indica que los valores a y b son iguales, es decir, a = b. La última afirmación significa que a es mayor que b, o sea, a > b.
+
+Gráficamente, estas relaciones se pueden representar así:
+
+Imagen 1: b>a.
+
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los puntos a y b, el punto b se encuentra más a la derecha de a, lo que indica que b > a.
+
+
+Imagen 2: a = b
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los puntos a y b, el punto b se encuentra sobre el punto a, lo que indica que a = b.
+
+Imagen 3: a>b
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los puntos a y b, el punto b se encuentra más a la derecha que el punto a, lo que indica que  b < a.
+
+
+Ejemplo 1. Relaciones de orden entre números reales:
+
+Los números reales se pueden representar en la recta numérica. En ella, cualquier número a la derecha de otro es mayor que este.
+
+Verifica las relaciones anteriores comparando a - b, b - a y a - c, si a = 7,  b = 5 y c = 7.
+
+Solución
+
+•	Al realizar a - b, obtenemos a diferencia 
+
+7 - 5 = 2 
+
+Lo cual implica que:
+
+7 - 5 > 0,
+
+Entonces se puede concluir que a > b.
+
+•	Al realizar b - a, obtenemos la diferencia
+
+5 - 7 = - 2 
+
+La cual implica que
+
+5 - 7 < 0, 
+
+Entonces se puede concluir que b < a.
+
+•	Como a - c = 0, entonces se concluye que a = c.
+
+Las proposiciones a > b, a = b y a < b, equivalen a:
+
+•	a – b > 0
+•	b – a < 0 y
+•	a – c = 0, respectivamente.
+
+De lo anterior se puede generalizar que:
+
+Dados dos números reales a y b, entonces:
+
+•	a < b si y sólo si a - b < 0
+•	a = b si y sólo si a- b = 0 
+•	a > b si y sólo si a - b > 0
+
+Estas tres relaciones pueden reducirse solamente a dos si las combinamos de la siguiente manera:
+
+Dados dos números reales a y b, entonces:
+
+•	a < b si y sólo si a< b o a= b 
+•	a> b si y sólo si a> b o a = b
+
+Ejemplo 2. Relaciones mayor o igual y menor o igual:
+
+Relaciona los números  [ecuación]  con 0,6 y - 2,8 con -1,6, utilizando los signos  [ecuación]  o  [ecuación]  
+
+Solución:
+	
+•	Ya que  [ecuación]  = 0,6, entonces la relación  [ecuación]  0,6 es cierta.
+•	Como - 2,8 < -1,6, entonces la relación -2,8  [ecuación]  -1,6 también es cierta.
+
+
+Si a  [ecuación]  0, decimos que a es no negativo. De igual manera si a  [ecuación]  0, entonces a es no positivo.
+
+
+PROPIEDADES DE LAS DESIGUALDADES
+
+
+Supongamos que m y n son dos números reales tales que m < n, como se muestra en la imagen siguiente.
+
+
+Imagen 4: m < n.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los puntos m y n, el punto m se encuentra más a la izquierda que el punto n, lo que indica que m < n.
+
+
+¿Qué sucede si sumamos un mismo valor c tanto a m como a n? 
+
+Observa que al sumar c, los dos resultados m + c y n + c mantienen la misma relación de orden que los valores m y n, independientemente de si c es positivo, negativo o es cero. 
+
+En otras palabras,
+
+m + c < n + c.
+
+Si realizamos el mismo procedimiento, pero con la desigualdad n > m, que es equivalente a la anterior, obtenemos:
+
+n + c > m + c
+
+Si m, n  [ecuación] R tal que m > n, entonces m + c > n + c para todo c  [ecuación]  R.
+
+Responde
+
+¿Se cumplirá también esta propiedad cuando se multiplica un valor cualquiera a ambos lados de la desigualdad?
+
+Realicemos un ejemplo sencillo, con la desigualdad 4 < 9, y multipliquemos a ambos lados de la desigualdad por diferentes valores positivos de c.
+
+Tabla 1: Multiplicación por valores positivos
+c
+4c
+9c
+Conclusión
+2
+8
+18
+8<18
+7
+28
+63
+28<63
+23
+92
+207
+92 < 207
+1,5
+6
+13,5
+6 < 13,5
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] <  [ecuación] 
+
+
+Cualquiera que sea el valor positivo de c, la desigualdad se mantiene, es decir, 4c < 9c.
+
+Podríamos realizar el mismo ejercicio para otra desigualdad y obtendríamos la misma conclusión.
+
+
+Veamos qué sucede si el valor por el cual se va a multiplicar es negativo.
+
+Tabla 2: Multiplicación por valores negativos.
+c
+4c
+9c
+Conclusión
+-2
+-8
+-18
+-8 > -18
+-7
+-28
+-63
+- 28  > - 63
+-23
+-92
+-207
+- 92 > - 207
+-1,5
+-6
+-13,5
+-6 > -13,5
+- [ecuación] 
+- [ecuación] 
+- [ecuación] 
+ [ecuación] - > - [ecuación] 
+
+Observamos que si el valor de c es negativo, la desigualdad cambia de sentido (se invierte), es decir, se obtiene 4c> 9c.
+
+Esta propiedad se cumple para cualquier desigualdad. También es válida cuando dividimos ambos lados de una desigualdad por la misma cantidad.
+
+Recuerda que la división se puede definir como una multiplicación (dividir por c, es lo mismo que multiplicar por  [ecuación] ).
+
+Si m, n  [ecuación]  R, y m < n, entonces:
+
+•	mc < nc, si o c > 0 y mc > nc, si c < 0
+•	 [ecuación]  <  [ecuación] , si c > 0 y  [ecuación]  >  [ecuación] ,  si c < 0
+
+Ejemplo 3. Propiedades de las desigualdades
+
+Comprueba que si x + 3 > 5, entonces x > 2.
+
+Solución:
+
+Inecuación inicial:	x + 3 > 5
+
+Sumamos en ambos lados el valor de -3 y obtenemos según las propiedades:
+
+x + 3 + (- 3) > 5 + (- 3)
+
+Efectuamos las operaciones:
+
+x + 0 > 5 + (- 3)
+
+De donde:
+
+x > 2
+
+Ejemplo 4. Propiedades de las desigualdades
+
+Comprueba que si 3x < 12, entonces x < 4.
+
+Solución:
+
+Inecuación inicial:
+
+3x < 12
+
+Multiplicamos ambos lados de la desigualdad por  [ecuación]  (o dividimos ambos lados por 3), que es un valor positivo. De donde, según las propiedades, tenemos:
+
+(3x)  [ecuación]  < 12 ( [ecuación] )
+
+Obtenemos:
+
+x < 4
+
+Ejemplo 5. Propiedades de las desigualdades
+
+Comprueba que si - 8x > 24, entonces x < - 3.
+
+Solución:
+
+De acuerdo con las propiedades, podemos multiplicar ambos lados de la desigualdad por  [ecuación]  y obtenemos:
+
+-8x ( [ecuación] ) < 24 ( [ecuación] )
+
+x < -3
+
+
+Intervalos
+
+
+El uso de subconjuntos de números reales es de gran utilidad en el estudio de las inecuaciones.
+
+Por ejemplo: el conjunto A = {x  [ecuación]  R / x> 2, x < 8} se puede expresar usando el conector lógico " [ecuación] ":
+
+A = {x  [ecuación]  R / x> 2  [ecuación]  x < 8}
+
+Este conjunto se puede expresar de diferentes formas:
+
+•	El conjunto A = {x  [ecuación]  R /  2 < x < 8}, que se interpreta como el conjunto infinito que contiene todos los números reales comprendidos entre 2 y 8, pero no incluye al 2 ni al 8.
+
+Este conjunto se puede representar en la recta numérica como:
+
+Imagen 5: Representación intervalo abierto.
+
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números desde -7 hasta 8, el segmento comprendido entre los números  -2 y 8 está subrayado con rojo, sobre el -2 hay un circulo vacío, al igual que sobre -8, lo que indica que estos dos números no se cuentan.
+
+
+Como no incluye al 2 ni al 8, aparecen dos huecos en el segmento. El conjunto definido de esta manera se llama intervalo abierto y se denota como (2, 8).
+
+El número 2 y el número 8 se llaman extremos del intervalo.
+
+•	El conjunto A = {x  [ecuación]  R / x  [ecuación]  2  [ecuación]  x < 8} = {x  [ecuación]  R / 2  [ecuación]  x < 8}, representa el conjunto infinito que contiene todos los números reales comprendidos entre 2 y 8, incluyendo el 2 pero no el 8.
+
+Al conjunto que cumple esta condición se le denomina intervalo abierto a la derecha y se denota como [2, 8).
+
+Se representa así:
+
+Imagen 6: Representación intervalo semi - abierto.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números desde -7 hasta 8, el segmento comprendido entre los números  -2 y 8 está subrayado con rojo, sobre el -2 hay un circulo relleno, sobre -8 hay un circulo vacío, lo que indica que el número -2 se cuenta pero el número 8 no se cuenta.
+
+
+•	El conjunto A = {x  [ecuación]  R / x > 2  [ecuación]  8  [ecuación]  x}, = {x  [ecuación]  R / 2 < x  [ecuación]  8}, representa el conjunto infinito que contiene todos los números reales comprendidos entre 2 y 8, sin incluir el 2 pero incluyendo el 8.
+
+Este conjunto se denomina intervalo abierto a la izquierda. Se denota como (2, 8] y se representa así:
+
+Imagen 7: Intervalo semi - abierto.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números desde -7 hasta 8, el segmento comprendido entre los números  -2 y 8 está subrayado con rojo, sobre el -2 hay un circulo vacío, sobre -8 hay un circulo relleno, lo que indica que el número -2 no se cuenta pero el número 8 si se cuenta.
+
+
+•	El conjunto A = {x  [ecuación]  R / x  [ecuación]  2  [ecuación]  x  [ecuación]  8} = {x  [ecuación]  R / 2  [ecuación]  x  [ecuación]  8}, representa el conjunto que contiene todos los números reales comprendidos entre 2 y 8, incluyéndolos a ambos.
+
+Este tipo de conjunto se llama intervalo cerrado. Se denota como [2, 8] y se representa así:
+
+Imagen 8: Intervalo Cerrado.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números desde -7 hasta 8, el segmento comprendido entre los números  -2 y 8 está subrayado con rojo, sobre el -2 hay un circulo relleno, al igual que sobre -8, lo que indica que ambos números se cuentan.
+
+El símbolo  [ecuación] , que se lee infinito, se usa solamente como una notación pero no representa ningún número real.
+
+Los conjuntos de la forma {x  [ecuación]  R / x < 8}, {x  [ecuación]  R / x > 8}, {x  [ecuación]  R / x  [ecuación]  8}, {x  [ecuación]  R / x  [ecuación]  8} se llaman intervalos infinitos y se denotan respectivamente, así:
+
+•	(- [ecuación] , 8)
+•	(8,  [ecuación] )
+•	(- [ecuación] , 8] 
+•	[8,  [ecuación] )
+
+El conjunto de números reales IR se puede representar como el intervalo abierto (- [ecuación] , [ecuación] ).
+
+En general, si a y b son números reales, tales que a < b, entonces:
+
+•	(a, b) = {x  [ecuación]  R: x < b a x> a} = {x  [ecuación]  R: a < x < b}
+
+•	[a, b] = {x  [ecuación]  R: x  [ecuación]  b  [ecuación]  x  [ecuación]  a} = {x  [ecuación]  R: a  [ecuación]  x  [ecuación]  b}
+
+•	[a, b) = {x  [ecuación]  R: x < b  [ecuación]  x  [ecuación]  a} = {x  [ecuación]  R: a  [ecuación]  x < b}
+
+•	(a, b] = {x  [ecuación]  R: x  [ecuación]  b  [ecuación]  x > a} = {x  [ecuación]  R: a < x  [ecuación]  b}
+
+•	(- [ecuación] , b) = {x [ecuación]  R: x < b}
+
+•	(b,  [ecuación]  ) = {x  [ecuación]  R: x > b}
+
+•	(- [ecuación] , b] = {x  [ecuación]  R: x  [ecuación]  b}
+
+•	[b,  [ecuación] ) = {x  [ecuación]  R: x  [ecuación]  b}
+
+•	(- [ecuación] , [ecuación] ) =R
+
+
+Como los intervalos son conjuntos, es posible realizar operaciones de unión, intersección y diferencia entre ellos.
+
+Ejemplo 6. Operaciones entre intervalos
+
+Resuelve las siguientes operaciones entre intervalos.
+
+•	(2, 3)  [ecuación]  (2,5, 8)
+•	[-1, 10) - (9, 29]
+•	(2, 9)  [ecuación]  (10,  [ecuación] )
+•	(2,3)  [ecuación]  (2,5,8)
+•	[- 1, 10)  [ecuación]  [10, 29]
+
+Solución:
+
+Recordemos que si A y B son dos conjuntos, entonces: 
+
+•	A  [ecuación]  B = {x / x  [ecuación]  A  [ecuación]  x  [ecuación]  B}
+
+•	A  [ecuación]  B = { x / x  [ecuación]  A  [ecuación]  x  [ecuación]  B } 
+
+•	A - B = { x / x  [ecuación]  A  [ecuación]  x  [ecuación]  B }
+
+
+•	(2, 3)  [ecuación]  (2,5, 8) = { x / x  [ecuación]  (2, 3)   [ecuación]  x  [ecuación]  (2,5, 8) } = (2, 8)
+
+Imagen 9: Unión de intervalos
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los intervalos (2,3) y sobre una parte de este el intervalo (2,5; 8), desde el número 2 hasta el número 8, sobre los cuales se encuentra respectivamente (y), esta resaltado de rojo. La unión de los intervalos es de 2 hasta 8 ambos extremos abiertos.
+
+
+•	[-1, 10) - (9, 29] = { x / x  [ecuación]  [-1, 10)   [ecuación]  x  [ecuación]  (9, 29] } = [-1, 9] 
+
+Imagen 10: Resta de Intervalos
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los intervalos [-1, 10) y (9, 29], desde el número -1 hasta el número 9, sobre los cuales se encuentra respectivamente [ y (, esta resaltado de rojo. La diferencia de los intervalos es de -1 hasta 9, cerrado en -1 y abierto en 9, esta región es la que el primer intervalo no comparte con el segundo. .
+
+•	(2, 9)  [ecuación]  (10,  [ecuación] ) = { x / x  [ecuación]  (2, 9)  [ecuación]  x  [ecuación]  (10,  [ecuación] ) } = {}
+
+Imagen 11: Intervalos Disyuntos.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los intervalos (2, 9) y (10,  [ecuación] ), desde el número 9 hasta el número 10, sobre los cuales se encuentra respectivamente) y (, esta resaltado de rojo. Intersección de los intervalos no se da, ya que no tienen números en común, por tanto son disyuntos.
+
+•	(2,3)  [ecuación]  (2,5,8) = { x / x  [ecuación]  (2,3)  [ecuación]  x  [ecuación]  (2,5,8) } =(2,5 , 3)
+
+Imagen 12: Intersección de intervalos
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los intervalos (2, 3) y (2,5, 8), desde el número 2,5 hasta el número 3, sobre los cuales se encuentra respectivamente (y), esta resaltado de rojo. La intersección de los intervalos se da desde 2,5 hasta 3, ya que estos son los que comparten los dos intervalos, los extremos de la intersección ambos son abiertos.
+
+
+•	[- 1, 10)  [ecuación]  [10, 29] = {x / x  [ecuación]  [- 1, 10)  [ecuación]  x  [ecuación]  [10, 29]} =  [-1, 29]
+
+Imagen 13: Unión de Intervalos
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los intervalos [-1, 10) y [10, 29], desde el número -1 hasta el número 29, sobre los cuales se encuentra respectivamente [ y ], esta resaltado de rojo. La unión de los intervalos se da desde -1 hasta 10, ya que el 10 se complementa con el del intervalo cerrado.
+
+
+Practica lo aprendido
+
+
+•	Dado - 6 > - 9, determina la desigualdad obtenida si:
+
+•	Se suma 8 a ambos lados.
+
+•	Se suma - 6 a ambos lados.
+
+•	Se multiplican por 2 ambos lados.
+
+•	Se multiplican por- 3 ambos lados.
+
+•	Se resta - 8 a ambos lados.
+
+•	Se dividen por - 6 ambos lados.
+
+•	Se multiplican por 1 ambos lados.
+
+•	Se dividen por 1 ambos lados.
+
+•	Comprensión conceptual ¿Qué sucede con una desigualdad si ambos lados se multiplican por cero?
+
+•	¿Es posible dividir ambos lados de una desigualdad por cero? Explica.
+
+•	Comunicación ¿Cumplen las desigualdades las mismas propiedades de las igualdades?
+
+•	Expresa las siguientes desigualdades en forma de intervalo y represéntalos gráficamente:
+
+•	x < -5  [ecuación]  x > -8
+
+•	x < -10  [ecuación]  x > 3
+
+•	x  [ecuación]  9
+
+•	x < 0  [ecuación]  x > -8
+
+•	x  [ecuación]   [ecuación]   [ecuación]  x >  [ecuación] 
+
+•	x  [ecuación]  0  [ecuación]  x >  [ecuación] 
+
+•	x > - [ecuación] 
+
+•	x  [ecuación]   [ecuación]   [ecuación]  x >  [ecuación] 
+
+
+•	Expresa cada uno de los siguientes intervalos como una desigualdad en términos de una variable x:
+
+•	(-6, 8)
+
+•	[-3,6, 126]
+
+•	[2, 0)
+
+•	(-4,  4,1]
+
+•	(- [ecuación] , 3)
+
+•	(- [ecuación] , [ecuación] )
+
+•	Argumentación ¿Por qué la notación [ [ecuación] , 8) no es correcta?
+
+•	Escribe en forma de intervalos la solución de:
+
+•	(1, 6)  [ecuación]  (-2, 9)
+
+•	[-2,  [ecuación] )  [ecuación]  [0, 1)
+
+•	[-2,  [ecuación] ) - [0, 1)
+
+•	(- [ecuación] , - [ecuación] )  [ecuación]  (- [ecuación] , [ecuación] )
+
+•	(- [ecuación] ,  [ecuación] )  [ecuación]  ( [ecuación] , 8)
+
+•	(- [ecuación] , 12)  [ecuación]  (11,9,  [ecuación] )
+
+•	R - {(-  [ecuación] , 5)  [ecuación]  [6,  [ecuación] )}
+
+•	{(- 2, 8)  [ecuación]  (0, 6]}  [ecuación]  [4, 7)
+
+
+•	Representa gráficamente:
+
+•	(1, 6)  [ecuación]  (-3, 5)
+•	[-1,  [ecuación] )  [ecuación]  (1, 5)
+•	(- [ecuación] , 4)  [ecuación]  (5,  [ecuación] )
+
+
+SOLUCIÓN DE INECUACIONES DE PRIMER GRADO
+
+
+Una inecuación de primer grado es una desigualdad que tiene cualquiera de estas formas:
+
+•	Ax + B < 0
+
+•	Ax + B > 0
+
+•	Ax + B  [ecuación]  0
+
+•	Ax + B  [ecuación]  0
+
+
+En estos casos, los valores A y B son valores constantes reales y x es una variable real.
+
+Para resolver una inecuación se debe encontrar el valor o los valores de x que satisfacen la desigualdad, es decir, hallar el conjunto solución.
+
+Resolvamos la siguiente inecuación lineal:
+
+2x – 8 < 0
+
+Debemos hallar los valores de x que al ser multiplicados por 2 y después de restarle 8 a este producto, su resultado sea menor que cero, es decir, negativo.
+
+Apliquemos a la inecuación las propiedades de la desigualdad necesarias hasta hallar el valor de x.
+Desigualdad dada:
+
+2x - 8 < 0
+
+Sumamos 8 a ambos lados de la desigualdad:
+
+2x - 8 + 8 < 0 + 8
+
+Efectuamos la operación:
+
+2x < 8
+
+Multiplicamos por  [ecuación]  ambos lados de la desigualdad:
+
+2x ( [ecuación] ) < 8 ( [ecuación] )
+
+Efectuamos la operación:	
+
+x < 4
+
+Por tanto, el conjunto solución son todos los números reales estrictamente menores que 4, es decir: {x  [ecuación]  R / x < 4} = (- [ecuación] , 4).
+
+Realicemos una verificación de la solución, remplazando algunos valores pertenecientes al conjunto solución, en la inecuación.
+
+Comprobamos para x = 0, x = 3; x = - 2.
+
+Si x = 0, entonces:
+
+2(0) - 8 < 0
+
+-8 < 0
+
+Si x = 3, entonces:
+
+2(3) - 8 < 0
+6 – 8 < 0
+
+-2 < 0
+
+Si x = - 2, entonces:
+
+2(- 2) - 8 < 0 
+
+-4 – 8 < 0 
+
+- 12 < 0
+
+Vemos que estos valores satisfacen la desigualdad.
+
+Una inecuación lineal o de primer grado es aquella donde el máximo exponente de la variable es 1.
+
+Al resolver una inecuación es necesario aplicar correctamente las propiedades, sobre todo cuando multiplicamos o dividimos por un valor negativo, ya que la desigualdad cambia de sentido.
+
+Ejemplo 7. Solución de inecuaciones de primer grado
+
+Encuentra el conjunto de valores que satisfacen la inecuación:
+
+- 5x + 8 > 7
+
+Solución:
+
+Para hallar el valor de x sumamos- 8 en ambos lados de la desigualdad:
+
+5x + 8 + (-8) > 7 + (-8)
+
+- 5x > -1
+
+Multiplicamos ambos lados por -  [ecuación]  (o dividimos por-5):
+
+-5x (-  [ecuación] ) < -1 (-  [ecuación] )
+
+x <  [ecuación] 
+
+Por tanto, la solución de la inecuación está en el intervalo (- [ecuación] , - [ecuación] ).
+
+Como puedes observar, al multiplicar por -1 a ambos lados, la desigualdad cambia de sentido por ser este un número negativo.
+
+Ejemplo 8. Solución de inecuaciones de primer grado
+
+Encuentra la solución de:
+
+ [ecuación] x – 3  [ecuación]  2x + 8. 
+
+Solución:
+
+En este caso, la estrategia que debemos seguir consiste en tratar de dejar los términos que contienen la variable en un mismo lado de la desigualdad, y los términos independientes en el otro. Luego simplificamos.
+
+Restamos 2x en ambos lados:
+ 
+ [ecuación] x – 3 – 2x  [ecuación]  2x + 8 – 2x
+ 
+Reducimos términos semejantes: 
+
+- [ecuación] x – 3  [ecuación]  8.
+
+Sumamos 3 a ambos lados:
+
+- [ecuación] x – 3 + 3  [ecuación]  8 + 3
+
+- [ecuación] x  [ecuación]  11
+
+Multiplicamos ambos lados por - [ecuación]  y obtenemos:
+(- [ecuación] x)(- [ecuación] )  [ecuación]  11(- [ecuación] )
+
+x  [ecuación]  - [ecuación] 
+
+De esta manera, el conjunto solución es {x  [ecuación]  R / x  [ecuación]  - [ecuación] } o en forma de intervalo:
+
+(- [ecuación] ,- [ecuación] ]
+
+El inverso multiplicativo de  [ecuación]  es  [ecuación] , siempre que a y b no sean cero.
+
+
+Practica lo aprendido
+
+
+•	Resuelve as siguientes inecuaciones expresando la respuesta en forma de intervalos:
+
+•	4 – 3x >7 + 2x
+
+•	- 2x + 3 < 7
+
+•	3x – 4  [ecuación]  8
+
+•	-2x + 3  [ecuación]  7
+
+•	2x -3 > 0
+
+•	- [ecuación] x -  [ecuación]  [ecuación]   [ecuación] 
+
+
+•	Resuelve las siguientes desigualdades y expresa las soluciones en forma gráfica.
+
+•	3x - 5 < 10
+
+•	7 – 2x  [ecuación]  -3
+
+•	5 + 3x > 6x – 4
+
+•	2 + 7x < 3x – 10
+
+•	6x - 7 > 1
+
+•	2(x + 2) < 5
+
+•	3x - 10  [ecuación]  5x
+
+•	4x + 10 > 4 – 2x
+
+•	x + 4 < 3
+
+•	x +  [ecuación]  < 2 +  [ecuación] 
+
+•	3x -  [ecuación]  >  [ecuación] x
+
+•	 [ecuación] y – 9  [ecuación]  2y - 4
+
+
+•	Halla e conjunto solución de cada una de las siguientes inecuaciones.
+
+•	x + 3  [ecuación]  1
+
+•	5 + 3x > 2(3x - 2)
+
+•	3x – 2 < 2x + 1
+
+•	2x + 4 < 5
+
+•	3x – 4 >  [ecuación] (x - 3)
+
+•	3x – 4 > 5x + 6
+
+•	 [ecuación]  + 6  [ecuación]  3x – 2
+
+•	 [ecuación]  -  4 <  [ecuación]  -  [ecuación] x
+
+•	(x – 1) (x + 2)  [ecuación]  (x + 1) (x - 2)
+
+•	2x + 1  [ecuación]  3 + (x – 1)
+
+•	Simbolización Halla el conjunto solución de cada una de las siguientes inecuaciones y represéntalo en forma gráfica.
+
+•	x - 5 > 3 – x
+
+•	2 - 7x < 16
+
+•	2x + 1 < 3x – 1
+
+•	x -  [ecuación]  > 2x +  [ecuación] 
+
+•	x + 1 > 3x + 5
+
+•	4x + 3 > 2x – 5
+
+•	5x - 6 > 11
+
+•	3x + 2 < 5x – 8
+
+•	4x -  [ecuación]  > -x – 6
+
+•	-5x +  [ecuación]   [ecuación]   [ecuación] x
+
+•	 [ecuación]  -  [ecuación] x  [ecuación]   [ecuación] 
+
+•	12 -  [ecuación] x < -9x + 4
+
+•	Resuelve los siguientes problemas:
+
+•	La ley de Ohm (I =  [ecuación] ) en teoría eléctrica señala que R denota la resistencia de un objeto (en ohmios:  [ecuación] ), V es la diferencia del potencial (en voltios: v) conectada al objeto y que I es la corriente (en amperios: A) que circula por el objeto. Si el voltaje es de 110 V, ¿qué valores de resistencia producirá una corriente que no exceda los 10A?
+
+•	La fórmula °C =  [ecuación]  (°F - 32) relaciona las lecturas de temperatura en las escalas Farenheit y Celsius. ¿Qué valores de °F corresponden a los valores de °C tales que °C < 30?
+
+•	El desplazamiento de un móvil está dado por la ecuación:
+
+s(t) = 30t + 8 
+
+Donde t es el tiempo en minutos y s es la posición en metros. ¿Para qué valores de t, la posición es de máximo 500 metros? 
+
+
+INECUACIONES SIMULTÁNEAS DE PRIMER GRADO
+
+
+Analicemos esta forma de inecuaciones solucionando la siguiente:
+
+3  [ecuación]  2x - 1 < 7
+
+Podemos expresarla como:
+
+3  [ecuación]  2x – 1  [ecuación]  2x – 1 < 7
+ 
+Resolvemos por separado cada inecuación lineal. Veamos:
+
+Desigualdades propuestas:	
+
+3  [ecuación]  2x – 1  [ecuación]  2x – 1 < 7
+
+Sumamos 1 en ambos lados:
+
+3 + 1  [ecuación]  2x - 1 + 1  [ecuación]  2x - 1 + 1 < 7 + 1
+
+Efectuamos la operación:	
+
+4  [ecuación]  2x  [ecuación]  2x < 8
+
+Multiplicamos por  [ecuación]  ambos lados:
+
+4 ( [ecuación] ) [ecuación]  2x ( [ecuación] )  [ecuación]  2x ( [ecuación] ) <  8 ( [ecuación] )
+
+Efectuamos la operación:	
+
+2  [ecuación]  x  [ecuación]  x < 4
+
+El conjunto solución es S = {x  [ecuación]  R / 2  [ecuación]  x  [ecuación]  x < 4}.
+
+Este conjunto indica la operación de intersección [2,  [ecuación] )  [ecuación]  (- [ecuación] , 4). Entonces:
+
+Por tanto: (- [ecuación] , 4)  [ecuación]  [2,  [ecuación] ) = [2, 4)
+
+Observando los pasos realizados, vemos que a cada desigualdad le aplicamos las mismas operaciones. Entonces es posible simplificar el procedimiento realizando las operaciones simultáneamente sobre 3  [ecuación]  2x - 1 < 7.
+
+Inecuación propuesta: 3  [ecuación]  2x - 1 < 7.
+
+Sumamos 1 a cada uno de los miembros:
+
+3 + 1  [ecuación]  2x – 1 + 1 < 7 + 1
+
+Efectuamos la operación:
+
+4  [ecuación]  2x < 8
+
+Multiplicamos por  [ecuación]  cada uno de los miembros:
+4 ( [ecuación] )  [ecuación]  2x ( [ecuación] )  < 8( [ecuación] )
+
+Efectuamos la operación:
+
+2  [ecuación]  x < 4
+
+El resultado es idéntico; por tanto, la  solución está en el intervalo [2, 4)
+
+Ejemplo 9. Inecuaciones simultáneas de primer grado
+
+Halla el conjunto solución de la inecuación: 1 < -x + 1 < 5
+
+Solución: 
+
+Sumamos -1 a cada lado de las desigualdades y obtenemos: 
+
+1 -1 < -x + 1 – 1 <5 – 1
+
+0 < -x < 4
+
+Multiplicamos luego por-1 a cada lado:
+
+0{-1) > -x (-1) > 4(-1)
+
+0 > x >-4
+
+-4 < x  < 0
+
+De donde el conjunto solución es el intervalo (-4, 0).
+
+Aunque este procedimiento es muy práctico, no siempre es posible utilizarlo. 
+
+Veamos el siguiente ejemplo.
+
+Ejemplo 10. Inecuaciones simultáneas de primer grado
+
+Resuelve la siguiente inecuación: 2 + 2x < x – 1 < 5.
+
+Solución:
+
+En este caso, si aplicáramos propiedades a cada lado de la desigualdad, no sería posible despejara en alguno de los miembros de la inecuación. Por esa razón, es necesario expresarla de la siguiente manera:
+
+2 + 2x < x – 1 y x – 1 < 5
+
+de donde:
+
+2x – x < -1 – 2  y  x < 5 + 1
+
+x < - 3	y  x < 6
+
+Como se observa en la siguiente imagen, el conjunto solución corresponde a
+
+Imagen 14: Solución de desigualdades dobles.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números -3 y 6, desde 6 hacia la izquierda está resaltado el segmento con azul, desde -3 hacia la izquierda está una flecha negra sobre la línea azul, lo que indica que la solución va de menos infinita a -3.
+
+(- [ecuación] , - 3)  [ecuación]  (- [ecuación] , 6) = (- [ecuación] , -3)
+
+
+Practica lo aprendido
+
+
+•	Determina para qué valores de x se satisfacen cada una de las siguientes inecuaciones simultáneas.
+
+•	-7  [ecuación]  2x + 1  [ecuación]  19
+ 
+•	-5 < x-3  [ecuación]  -3
+
+•	 [ecuación]  + 1 < 3x + 1 < 7
+
+•	-3  [ecuación]  -x  < 2
+
+•	100 > 400 – 6x  > 10
+
+•	2  [ecuación]   [ecuación] x – 6  [ecuación]  8
+
+•	7 < 3 -  [ecuación] x  [ecuación]  8
+
+•	-5  [ecuación]  3x + 4 < 13
+
+•	 [ecuación]   [ecuación]  2x -  [ecuación]   [ecuación]   [ecuación] 
+•	 [ecuación]   [ecuación]  3x -  [ecuación]   [ecuación]  [ecuación] 	
+	
+•	Determina los valores de x para los cuales se satisfacen las siguientes inecuaciones:
+
+•	 [ecuación] 
+
+•	12  [ecuación]  5x – 3 > -7
+
+•	2x < x < 3
+
+•	x  [ecuación]  3 – x < 0
+
+•	 [ecuación] 
+
+•	 [ecuación] x  [ecuación]  2  [ecuación]   [ecuación] x
+
+•	-3x + 1 < x < 5
+
+•	–x  [ecuación]  x  [ecuación]  0
+
+•	 [ecuación]  - x < 0 < x – 1
+
+•	 [ecuación] x  [ecuación]  5x  [ecuación]   [ecuación] 
+
+
+INECUACIONES CUADRÁTICAS
+
+
+Una inecuación cuadrática es una desigualdad que tiene cualquiera de estas formas:
+
+•	A [ecuación] + Bx + C < 0
+
+•	A [ecuación]  + Bx + C > 0
+
+•	A [ecuación]  + Bx + C  [ecuación]  0
+
+•	A [ecuación]  + Bx + C  [ecuación]  0 
+
+Donde A, B y C son números reales con A  [ecuación]  0.
+
+Para resolver una inecuación cuadrática se debe encontrar el valor o los valores de x que satisfacen la desigualdad. Para ello, es necesario tener en cuenta las siguientes propiedades:
+
+•	Si ab > 0, entonces (a > 0 y b > 0) o (a < 0 y b < 0). Es decir, para que el producto de dos números sea positivo, ambos deben ser positivos o ambos deben ser negativos.
+
+•	Si ab < 0, entonces (a > 0 y b < 0) o (a < 0 y b > 0). Es decir, para que un producto de dos números sea negativo, ambos deben ser de diferente signo.
+
+
+Por consiguiente, para resolver una inecuación cuadrática, podemos expresarla en la forma ab, factorizándola y luego aplicando las propiedades anteriores.
+
+Ejemplo 11. Resolución de una inecuación cuadrática
+
+Determina los valores de x para los cuales se cumple que:
+
+ [ecuación]  + 2x - 3 > 0
+
+Solución:
+
+Factorizamos el primer miembro de la desigualdad y obtenemos la inecuación:
+
+(x + 3) (x - 1) > 0
+
+Como el producto de los dos factores es positivo, entonces por propiedades del producto se tiene que:
+
+x + 3 > 0 y  x - 1 > 0
+
+o 
+
+x + 3 < 0 y x - 1 < 0
+
+De donde:
+
+x > -3 y x > 1
+
+o
+
+x < -3 y x < 1
+
+El conjunto solución se halla mediante la operación: 
+
+(-3,  [ecuación] )  [ecuación]  (1,  [ecuación] )  [ecuación]  (- [ecuación] , -3)  [ecuación]   (- [ecuación] , 1)
+Imagen 15: Representación de Uniones e Intersecciones de Intervalos.
+
+
+
+Descripción Imagen: 3 rectas numéricas sobre la cual se encuentran ubicados los números -3 y 1, alineadas respecto a estos valores. En la primera desde ‘3 hacia la derecha está resaltado el segmento con una línea de color, desde -3 hacia la derecha está una flecha negra sobre la línea de color, sobre el ‘3 y el 1 hay círculos vacíos. En la segunda desde 1 hacia la izquierda está resaltado el segmento con una línea de color, desde -3 hacia la izquierda está una flecha negra sobre la línea de color, sobre el -3 y el 1 hay círculos vacíos. En la tercera desde -3 hacia la izquierda y desde 1 hacia la derecha está resaltado el segmento con una línea de color, desde -3 hacia la izquierda está una flecha negra sobre la línea de color, sobre el -3 y el 1 hay círculos vacíos. La tercera indica que la solución va de menos infinita a -3.
+
+
+De acuerdo con la imagen anterior, esto equivale a:
+
+(1,  [ecuación] )  [ecuación]  (- [ecuación] , - 3) = (- [ecuación] , - 3)  [ecuación]  (1,  [ecuación] )
+
+El procedimiento anterior se puede agilizar usando representaciones gráficas para los factores que intervienen en la inecuación. Observemos:
+
+ [ecuación]  + 2x - 3 > 0
+
+•	El factor x + 3 es positivo cuando x + 3 > 0, es decir, si x > -3. Por tanto, x + 3 > 0 si x > -3 y x + 3 < 0 si x < -3. Esta situación se representa así
+
+Imagen 16: Paso 1.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentra ubicado el número -3, desde este hacia la izquierda signos de resta y hacia la derecha signos de suma.
+
+
+•	El factor x - 1 es positivo cuando x - 1 > 0, es decir, si x > 1. Por tanto, x - 1 > 0 si x > 1 y x - 1 < 0 si x < 1. Esta situación se representa así:
+
+Imagen 17: Paso 2.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números -3 y 1, desde este hacia la izquierda signos de resta y hacia la derecha signos de suma.
+
+•	Como no existen más factores, ubicamos las dos representaciones en una sola, de tal manera que se forman tres intervalos:
+
+Imagen 18: Paso 3.
+
+
+
+Descripción Imagen: Signos descritos en paso 2, alineados con signos descritos en paso 2.
+
+•	Como se tiene que (x + 3) (x - 1) > 0, es decir, su producto debe ser positivo, efectuamos la ley de los signos en cada uno de los intervalos y tomamos el intervalo o los intervalos donde el resultado sea
+positivo.
+
+Imagen 19: Paso 4.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentran ubicados los números -3 y 1, desde -3 hacia la izquierda signos de suma, entre -3 y 1 signos de resta y de 1 a la derecha signos de suma.
+
+
+Por tanto, la solución es (- [ecuación] , - 3)  [ecuación]  (1,  [ecuación] ).
+
+
+Ejemplo 12. Resolución de una inecuación cuadrática por el método gráfico.
+
+Resuelve la inecuación  [ecuación]  + 5x  [ecuación]  -6
+
+Solución
+
+Primero la inecuación se debe expresar en la forma A [ecuación]  + Bx + C  [ecuación]  0, por tanto, debemos sumar 6 en ambos lados y obtenemos:
+
+ [ecuación]  + 5x  +  6  [ecuación]  0. 
+
+Factorizamos el primer miembro: (x + 3) (x + 2)  [ecuación]  0
+
+Como x + 3 > 0 cuando x > -3 y x + 2 > 0 cuando x > -2, entonces la representación gráfica sería:
+
+Imagen 20: Solución de factores lineales de la inecuación cuadrática.
+
+
+
+Descripción Imagen: Dos rectas numéricas una sobre la otra, sobre cada una de estas están marcados los números -3 y -2, estos están alineados. La primera representa la solución de la desigualdad x + 3 y la segunda la de x + 2. En la primera, por encima de la recta, desde -3 hacia la derecha hay signos de suma y hacia la izquierda signos de resta. En la segunda desde -2 hacia la izquierda la signos de resta y hacia la derecha signos de suma.
+
+Al multiplicar los signos en cada intervalo, obtenemos:
+
+Imagen 21: Producto de Signos
+
+Descripción Imagen: Las mismas rectas de la imagen anterior y debajo de estas una tercera recta la cual por encima, desde -3 hacia la derecha hasta -2 hay signos de resta y hacia la izquierda signos de suma y desde -2 hacia la derecha signos de suma.
+ 
+Por tanto, la solución es el intervalo [-3, -2].
+
+Nota que en este caso deben incluirse los extremos -3 y -2, pues el producto (x + 3) (x + 2) puede llegar a ser cero, como lo indica la inecuación.
+
+
+Practica lo aprendido
+
+
+•	Resuelve:
+
+•	 [ecuación]  + 2x -15 > 0
+
+•	 [ecuación]  + 3x + 2 > 0
+
+•	 [ecuación]  - 3x + 2 > 0
+
+•	4 [ecuación]  - 4x + 1 < 0
+
+•	4 [ecuación]  + 9x – 9 < 0
+
+•	 [ecuación]  - 16 < 0
+
+•	 [ecuación]  + 6x + 9  [ecuación]  0
+
+•	 [ecuación]  + 9x + 20 < 0
+
+•	4 [ecuación]  - 20x + 25  [ecuación]  0
+
+•	2 [ecuación]  - x - 1 < 0
+
+•	3 [ecuación]  + 2x – 5 > 0
+
+•	2 [ecuación]  + 9x + 4  [ecuación]  0
+
+•	8 [ecuación]  - 22x + 15  [ecuación]  0
+
+•	25 [ecuación]  + 15x + 2 > 0
+
+•	9 [ecuación]  - 36x + 1  [ecuación]  0
+
+•	x(x – 5) < 0
+
+•	(3x – 1)(2x + 3) > 0
+
+•	(x + 1)(x – 2) < 0
+
+•	Describe y representa el conjunto determinado por cada una de las siguientes inecuaciones.
+
+•	 [ecuación]  < 4
+
+•	 [ecuación]   [ecuación]  9
+
+•	 [ecuación]  > 1
+
+•	 [ecuación] > 1
+
+•	6 [ecuación]  + 13x < 5
+
+•	 [ecuación]  + 6x + 8 < 0
+
+•	Si se lanza verticalmente un objeto hacia arriba desde el nivel del suelo, con una velocidad inicial de 528 pies por segundo, entonces su distancia d arriba del suelo está dada por d = -16 [ecuación]  + 528t, donde t es el tiempo en segundos. ¿Para qué valores de t el objeto estará a más de 3200 pies sobre el suelo? 
+
+•	El número de millas M que cierto auto puede recorrer con un galón de gasolina está relacionado con su velocidad v(en millas por hora) por:
+
+ [ecuación]  para 0 < v < 70
+
+¿A qué velocidades será M al menos 45 millas?
+
+•	Comunicación Describe un procedimiento para resolver una inecuación de la forma:
+
+(x + a) (x + b) (x + c)  [ecuación]  0
+
+•	De acuerdo con el ejercicio anterior resuelve la inecuación:
+
+(x -2)(x + 3)(x + 5)  [ecuación]  0
+
+•	Se tienen 100 metros de alambre para cercar un terreno rectangular. ¿Cuáles serán el largo y el ancho de un terreno cercado de al menos 600 pies cuadrados?
+
+
+INECUACIONES RACIONALES
+
+
+Una inecuación racional es una desigualdad que tiene cualquiera de estas formas:
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+donde p(x) y q(x) son polinomios en x y q(x)  [ecuación]  0.
+
+En este caso, vamos a resolver inecuaciones racionales cuyos numeradores y denominadores puedan expresarse como producto de factores lineales. Para esto debemos tener en cuenta las siguientes propiedades de los cocientes:
+
+•	Si  [ecuación]  >0, entonces (a > 0  [ecuación]  b > 0)  [ecuación]  (a < 0  [ecuación]  b < 0). Es decir, para que el cociente de dos números sea positivo, ambos términos deben ser positivos o ambos negativos. En otras palabras, ambos deben tener el mismo signo.
+
+•	Si  [ecuación]  < 0, entonces (a > 0  [ecuación]  b <  0)  [ecuación]  (a < 0  [ecuación]  b > 0). Es decir, para que el cociente de dos números sea negativo, cada término debe ser de diferente signo. Por tanto, podemos aplicar el mismo procedimiento que empleamos en el caso de las inecuaciones cuadráticas.
+
+Ejemplo 13. Resolución de una inecuación racional
+
+Determina los valores de x que satisfacen:
+
+ [ecuación] 
+
+Solución:
+
+En esta desigualdad, x debe ser diferente de (- 2), ya que el denominador no puede ser cero.
+
+Como x + 1 > 0 cuando x > -1 y x + 2 > 0 cuando x > - 2, entonces la representación gráfica de los signos del numerador y el denominador es:
+
+Imagen 22: Inecuación Cuadrática
+
+
+
+Descripción Imagen: Dos rectas numéricas una sobre la otra, sobre cada una de estas están marcados los números -2 y -1, estos están alineados. La primera representa la solución de la desigualdad x + 1 y la segunda la de x + 2. En la primera, por encima de la recta, desde -1 hacia la derecha hay signos de suma y hacia la izquierda signos de resta. En la segunda desde -2 hacia la izquierda la signos de resta y hacia la derecha signos de suma. Debajo de estas una tercera recta la cual por encima, desde -2 hacia la derecha hasta -1 hay signos de resta y hacia la izquierda signos de suma y desde -1 hacia la derecha signos de suma.
+
+Como el cociente debe ser un negativo, entonces tomamos los intervalos donde el producto sea de signo negativo. Al dividir los signos correspondientes en cada intervalo obtenido, la solución es (-2, -1].
+
+Observa que se incluye el -1, pues en este caso la desigualdad da cero. No se incluye el -2, pues como ya se había dicho, el denominador no puede ser cero.
+
+Ejemplo 14. Resolución de una inecuación racional
+
+Resuelve:
+
+ [ecuación] 
+
+Solución:
+
+Debemos expresar esta desigualdad en la forma:
+
+ [ecuación] 
+
+Por tanto, sumando 1 en ambos lados, obtenemos:
+
+ [ecuación] 
+
+
+ [ecuación] 
+
+ [ecuación] 
+
+Donde x  [ecuación]  -2
+
+Como 2x + 3 es positivo cuando x > -  [ecuación]  y x + 2 es positivo cuando x > - 2, entonces la solución gráfica de la inecuación puede presentarse en la siguiente imagen:
+
+Imagen 23: Desigualdad Racional.
+
+
+
+Descripción Imagen: Dos rectas numéricas una sobre la otra, sobre cada una de estas están marcados los números -2 y - [ecuación] , estos están alineados. La primera representa la solución de la desigualdad 2x + 3 y la segunda la de x + 2. En la primera, por encima de la recta, desde - [ecuación]  hacia la derecha hay signos de suma y hacia la izquierda signos de resta. En la segunda desde -2 hacia la izquierda la signos de resta y hacia la derecha signos de suma. Debajo de estas una tercera recta la cual por encima, desde -2 hacia la derecha hasta - [ecuación]  hay signos de resta y hacia la izquierda signos de suma y desde - [ecuación]  hacia la derecha signos de suma.
+
+
+De esta manera, el conjunto solución está dado por el intervalo
+
+(- [ecuación] , -2)  [ecuación]  [- [ecuación] , [ecuación] )
+
+
+Practica lo aprendido
+
+
+•	Determina los valores de x que satisfacen cada una de las siguientes inecuaciones.
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	Resuelve las desigualdades y expresa el resultado en forma de intervalos.
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	Halla el intervalo donde puede encontrarse x en cada caso.
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	Explica si es posible encontrar algún valor de x que satisfaga la desigualdad siguiente:
+
+ [ecuación] 
+
+
+•	Observa el siguiente procedimiento para resolver la inecuación:
+
+ [ecuación] 
+
+¿Cuál de los pasos seguidos no es correcto? ¿Por qué?
+
+Paso 1. Multiplicando por x en ambos lados: 
+
+ [ecuación] 
+
+Paso 2. Cancelando x:
+
+3x + 2 < x • x
+
+Paso 3. Restando x en ambos lados: 
+
+3x + 2 - x < x – x
+
+Paso 4. Realizando las operaciones:
+
+2x + 2 < 0.
+
+Paso 5. Despejando x:
+
+x < -1.
+
+•	Explica para qué valores de x se cumple la siguiente desigualdad:
+
+ [ecuación] 
+
+•	Después que un astronauta es lanzado al espacio, su peso disminuye hasta que alcanza un
+estado de ingravidez. 
+
+El peso de un astronauta de 140 libras a una altitud de X km sobre el nivel del mar está dado por:
+
+ [ecuación] 
+
+¿A qué altitud su peso será menor de 10 libras?
+
+•	Para que un medicamento tenga un efecto benéfico, su concentración sanguínea debe ser
+mayor que cierto valor llamado nivel terapéutico mínimo.
+
+Supón que la concentración c (en mg/l) de un fármaco, t horas después de su ingestión, está dada por:
+
+ [ecuación] 
+
+Si el nivel terapéutico mínimo es de 4 mg/l, ¿cuándo se rebasa el nivel?
+
+
+
+
+TEMA 2: VALOR ABSOLUTO
+
+
+Recordemos que dados dos puntos  [ecuación]  y  [ecuación]  en una recta numérica, la distancia entre los dos se define como:
+
+ [ecuación] 
+
+Imagen 24: Distancia entre puntos.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados x1 y x2, x2 más a la izquierda que x1, debajo de estos se indica el valor absoluto de la diferencia entre x2 y x1.
+
+Si  [ecuación]  = 0, entonces esta distancia se reduce a:
+
+ [ecuación] | 
+
+que representa la distancia que hay entre 0 y  [ecuación] , tal como se observa en la siguiente imagen:
+
+Imagen 25: Simetría del Valor absoluto.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados –x2 y x2, equidistantes a izquierda y derecha del cero respectivamente. La distancia entre –x2 y 0 se resalta con valor absoluto de –x2y la distancia desde 0 a x2 se indica como valor absoluto de x2.
+
+De lo anterior se deduce que:
+
+ [ecuación] 
+
+Porque la distancia desde el punto 0 hasta - [ecuación]  es la misma distancia que hay desde 0 a  [ecuación] .
+
+Por ejemplo: la distancia entre el punto 0 y el punto - 5 es de 5 unidades, y de la misma manera, la distancia desde 0 a 5 es de 5 unidades.
+
+Es decir, que para cualquier real positivo a, la distancia del punto a al origen es el mismo a; y para cualquier real negativo b, la distancia de b al origen es - b (que es positivo).
+
+El valor absoluto de 0 es el mismo cero.
+
+El valor absoluto se define como:
+
+ [ecuación] 
+Para a  [ecuación]  R.
+Ejemplo 1. Cálculo del valor absoluto
+Calcula:
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+Solución
+•	 [ecuación]  = 3, ya que la distancia desde 0 hasta 3 es 3.
+
+•	 [ecuación]  = 8, ya que la distancia desde 0 hasta - 8 es 8.
+
+•	Para solucionar  [ecuación] , debemos tener en cuenta el signo de a + 1.
+Por definición:
+
+•	 [ecuación]   = a + 1,  si a + 1 > 0, es decir, si a > - 1
+
+•	 [ecuación]  = 0, si a + 1 = 0, es decir, si a = - 1
+
+•	 [ecuación]  = - (a + 1), si a + 1 < 0, es decir, si a < - 1
+
+
+PROPIEDADES DEL VALOR ABSOLUTO
+
+
+De la definición del valor absoluto, obtenemos las siguientes propiedades: Si x   [ecuación]  R:
+
+•	 [ecuación] 
+
+•	 [ecuación]  = 0 si y sólo si x = 0
+
+•	 [ecuación] 
+
+
+Como el producto y el cociente de dos números reales no cambian en su valor absoluto, cuando les cambiamos los signos a los números, obtenemos las 2 propiedades siguientes:
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+
+Para entender la sexta propiedad, procedemos a resolver estas desigualdades:
+
+•	 [ecuación] 
+
+Imagen 26: Solución de la desigualdad a.
+
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –8, x1, 0 x2 y 8, La distancia entre –8 y 0 se resalta con valor absoluto de –8 y la distancia desde 0 a 8 se indica como valor absoluto de 8.
+
+
+•	 [ecuación] 
+
+Imagen 27: Solución de la desigualdad b.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –12, x1, 0 x2 y 12, La distancia entre –12 y 0 se resalta con valor absoluto de –8 y la distancia desde 0 a 12 se indica como valor absoluto de 12.
+
+
+•	 [ecuación] 
+
+Imagen 28: Solución de la desigualdad C.
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –15, x1, 0 x2 y 15, La distancia entre –15 y 0 se resalta con valor absoluto de –15 y la distancia desde 0 a 15 se indica como valor absoluto de 15.
+
+
+De acuerdo con las gráficas anteriores, la primera desigualdad se refiere a todos los posibles valores x cuya distancia a cero es menor o igual a 8. Por tanto, los valores que satisfacen dicha desigualdad deben estar en el intervalo [- 8, 8], es decir, cuando - 8  [ecuación]  x  [ecuación]  8.
+
+De igual manera, los números cuya distancia a cero es menor o igual a 12, satisfacen la desigualdad -12  [ecuación]  x  [ecuación]  12, y los números cuya distancia a cero es menor o igual a 15 satisfacen - 15  [ecuación]  x  [ecuación]  15.
+
+Por tanto:
+
+•	 [ecuación]  si y sólo si –a  [ecuación]  x  [ecuación]  a.
+
+•	Averigüemos cuáles son los valores de x cuya distancia a cero es mayor o igual a cierto valor a. La solución se representa en la
+siguiente gráfica:
+
+Imagen 29: Ecuación Lineal Valor Absoluto.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –a, 0, a. Desde –a hacia la izquierda está resaltado y desde a hacia la derecha está resaltado. 
+
+Por tanto:  [ecuación]   si y sólo si  x  [ecuación]  -a y x  [ecuación]  a.
+
+Las propiedades del valor absoluto se pueden resumir de la siguiente manera:
+
+Para todo x, y  [ecuación]  R, se tiene:
+
+•	 [ecuación] 
+
+•	 [ecuación]  = 0 si y sólo si x = 0
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+
+•	 [ecuación]  si y sólo si –a  [ecuación]  x  [ecuación]  a, para a > 0.
+
+•	 [ecuación]   si y sólo si  x  [ecuación]  -a y x  [ecuación]  a, para a  [ecuación]  R.
+
+
+ECUACIONES CON VALOR ABSOLUTO
+
+
+Determinemos los valores de x que satisfacen:
+
+|2x - 3| = 6
+
+Por propiedades, sabemos que para que el valor absoluto de un número sea 6, este número debe ser 6 ó -6. Por tanto:
+
+2x - 3 = 6 o 2x - 3 = -6 
+
+Resolviendo cada ecuación, tenemos que:
+
+x =  [ecuación]  o  x = - [ecuación] 
+
+
+El conjunto solución es:
+
+ [ecuación] 
+
+Ejemplo 2. Ecuaciones con valor absoluto
+
+¿Cuál es el valor de x si  |2x - 5| = 4?
+
+Solución:
+
+2x - 5 = 4  o   2x - 5 = - 4
+
+2x = 9  o  2x = 1
+
+x =  [ecuación]  o x =  [ecuación] 
+
+El conjunto solución es:
+
+ [ecuación] 
+
+
+INECUACIONES CON VALOR ABSOLUTO
+
+
+Resolvamos  [ecuación] 
+
+Por la propiedad 6 de valor absoluto:
+
+-8  [ecuación]  6x + 5  [ecuación]  8
+
+Resolviendo esta inecuación simultánea, obtenemos:
+
+ -8 -5  [ecuación]  6x + 5 – 5  [ecuación]  8 – 5
+
+-13  [ecuación] 6x  [ecuación]  3
+
+ [ecuación] 
+
+Imagen 30: Solución Desigualdad Doble.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –13 sextos, y un medio. Desde –13 sextos a la izquierda está resaltado con una línea sencilla, entre –13 sextos y un medio está resaltado con línea doble y de un medio hacia la derecha con línea simple, sobre –13 sextos y un medio hay círculos rellenos. 
+
+Entonces, el conjunto solución es el intervalo:
+
+ [ecuación] 
+
+
+Ejemplo 3. Inecuaciones con valor absoluto
+
+Resuelve la inecuación:  [ecuación]  > 9
+
+Solución:
+
+Aplicando propiedades, tenemos que:
+
+3x + 6 < -9 o 3x + 9 > 9
+
+3x < - 15 o  3x > 3
+
+x < - 5 o x > 1
+Imagen 31: Solución como Unión.
+
+
+
+Descripción Imagen: Recta numérica, sobre la cual se encuentran ubicados de izquierda a derecha –5 y 1. Desde –5  a la izquierda está resaltado con una línea de color, desde 1 hacia la derecha con está resaltado con una línea de color.
+ 
+De acuerdo con la gráfica, el conjunto solución es:
+
+ [ecuación] 
+
+
+Practica lo aprendido
+
+
+•	En cada uno de los siguientes ejercicios, resuelve la inecuación o ecuación dada:
+
+•	 [ecuación]  < 2
+
+•	 [ecuación]  < 1
+
+•	 [ecuación]  < 1
+
+•	 [ecuación]  
+
+•	 [ecuación]  < 1
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación]  < 0,3
+
+•	 [ecuación]  > 7
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación]  = 3
+
+•	 [ecuación]  = 2
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación]  < 3
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+
+•	En los siguientes ejercicios, determina los valores de .x que satisfacen la expresión dada. Expresa la solución en notación de:
+
+•	Intervalos
+
+•	Conjuntos 
+
+•	Gráfica
+
+•	 [ecuación] 
+
+•	2x + 3 =  [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+•	 [ecuación] 
+
+
+•	Si se define  [ecuación]  , ¿cuál es la solución de la inecuación  [ecuación] ?
+
+•	Expresa cada enunciado  en términos de una desigualdad con valor absoluto:
+
+•	El radio r de un componente no debe variar más de 0,1 cm de 1 cm.
+
+•	La diferencia entre las edades de dos personas tiene que estar entre 0 y 4 años.
+
+•	La distancia entre dos valores en la recta real debe estar entre 5 y 27 unidades.
+
+•	Utilizando el ejercicio 3, resuelve la inecuación  [ecuación] < 100.
+
+•	Verificación: Dada la inecuación  [ecuación]  < 16, ¿es posible resolverla sacando la raíz cuadrada en ambos miembros de la desigualdad? Verifica tu respuesta.
+
+•	¿Para qué valores de x, la desigualdad  [ecuación]  > 0 es cierta? Explica.
+
+•	Dados los números reales m y n, ¿la desigualdad  [ecuación]  es siempre cierta? Verifícalo con varios valores de m y n. ¿Para qué valores no se cumple?
+
+
+Prepárate para el ICFES
+
+
+Así como se pueden utilizar modelos matemáticos a través de igualdades para relacionar 2 variables, en algunos campos como en la "Programación Lineal" se necesitan modelos de desigualdades para el mismo fin.
+
+Por ejemplo, supongamos que cierta fábrica produce 2 tipos de artículos x y  y a un costo de $5000 y $7000 por artículo respectivamente, y cuyo costo diario de producción no debe superar los 2 millones de pesos.
+
+Esta situación se puede representar mediante la desigualdad. 
+
+5000x + 7000y   [ecuación]  2000000
+
+donde x y y representan el número de artículos del producto x y v que se deben producir diariamente. La región sombreada con color azul muestra todos los posibles valores de x y y.
+
+IMAGEN PÁGINA 44
+
+Observa que, por ejemplo, el punto (1,1) está en la región, ya que 5 000 (1) + 7000(1)  [ecuación]  2000000.
+
+
+De acuerdo con la situación anterior:
+
+•	¿Cuál sería la representación gráfica del problema, si además de la condición dada, el número de artículos de y no puede superar al doble del número de artículos x?
+
+•	Representa gráficamente la región de los puntos (x, y) que cumplen con las dos condiciones siguientes:
+
+ [ecuación] 
+
+
+La siguiente prueba te será útil como fuente de información para saber cómo están tus competencias en matemáticas, y más específicamente en pensamiento numérico. La prueba está conformada por una variedad de problemas cuyas respuestas son de selección múltiple.
+
+Después de leer y resolver las situaciones que cada problema plantea, organiza una puesta en común en el salón de clases y compara tus respuestas con las de tus compañeros y compañeras.
+
+•	La empresa de Acueducto y Alcantarillado de Bogotá, con el propósito de la cultura de ahorro entre los usuarios de su servicio, les cobra una tarifa preferencial a las personas que consuman menos de 40  [ecuación]  de agua al mes. Par a ello establece la siguiente tabla de liquidación:
+
+Imagen 32: Tabla de Liquidación.
+
+
+
+Descripción Imagen: Tabla con columnas de conceptos, consumo, acueducto y alcantarillado. En los conceptos Consumo Básico, subtotal, cargo fijo y subtotal. Con valores para columna consumo de 22, 0, 0, 0; para Acueducto 1033, 22726, 13830 y 36556; para alcantarillado 551, 12122, 6190 18312.
+
+
+•	La función que describe el valor de la tarifa de acueducto para consumos menores a 40  [ecuación] es y = 1033x + 13830. Si el usuario desea pagar por concepto de acueducto un valor  que esté entre el doble y el triple del cargo fijo, debe consumir mensualmente entre:
+
+•	13830 y 27660
+
+•	 [ecuación]  y  [ecuación] 
+
+•	 [ecuación]  y  [ecuación] 
+
+
+•	 [ecuación]  y  [ecuación] 
+
+•	El valor del  [ecuación]  cuando el consumo está entre 41 y 80 es de $1420. En este caso la tarifa básica es de $ 13 830. Para calcular el mayor valor que debe pagar un usuario que consuma menos de 80  [ecuación] , se debe realizar:
+
+•	13830 X 79 + 1420
+
+•	1420 X 80 + 13830
+
+•	1420 X 13830 + 79
+
+•	1420 X 79 + 13830
+
+
+•	¿Cuál de las siguientes funciones representa la relación entre la cantidad de metros cúbicos consumidos y el costo de dicho consumo?
+
+Imagen 33: Representación A.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficados dos segmentos de rectas, uno que une los puntos (0, 0) y (40, 55150), otra que une los puntos (40, 70630) y (80, 127430).
+
+Imagen 34: Representación B
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficados dos segmentos de rectas, uno que une los puntos (0, 0) y (40, 41320), otra que une los puntos (40, 56800) y (80, 113600).
+
+
+Imagen 35: Representación C.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficados dos segmentos de rectas, uno que une los puntos (0, 0) y (40, 1030), otra que une los puntos (40, 1030) y (80, 1420).
+
+
+Imagen 36: Representación D.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficados dos segmentos de rectas, uno que une los puntos (0, 0) y (40, 55150), otra que une los puntos (40, 551500) y (80, 127430).
+
+
+•	Si la tarifa básica se mantiene en $ 13830 y el usuario consume entre 79 y 81  [ecuación] , entonces debe pagar precios entre $ 126010 y $ 140190. A partir de los datos anteriores se puede calcular el valor del metro cúbico de agua aplicando:
+
+•	Una ecuación lineal.
+
+•	Una proporción.
+
+•	Una regla de tres.
+
+•	Una ecuación cuadrática.
+
+•	El alumbrado eléctrico de las calles se coloca de tal manera que los círculos que iluminan cubran la mayor cantidad de área posible. En cada caso, el área del círculo depende de la potencia de la lámpara que se esté utilizando.
+
+La siguiente gráfica representa la ubicación de tres lámparas de distinto color, que abarcan un terreno rectangular donde cada una de ellas ilumina un sector. Las lámparas se encuentran en los puntos A, B y C, y los círculos que iluminan tienen radios  [ecuación] , [ecuación]  y  [ecuación] , respectivamente.
+
+
+Imagen 37: Ubicación de las lámparas.
+
+
+
+Descripción Imagen: Circunferencia con centro en b, la cual es cortada a su izquierda por otra circunferencia de centro A y a su derecha por otro de centro C. Los centros de las 3 circunferencias se encuentran alineados. La distancia entre la circunferencia de centro A y la de centro B, se denota con la letra x (esta medida sobre la línea que une los radios), y la distancia que separa la circunferencia de centro C y la de centro B es denotada con la letra y, medida de la misma manera que x.
+
+
+
+•	Si colocamos un sistema de coordenadas en B. ¿en qué intervalos se puede hallar una persona que recibe la iluminación de dos lámparas?
+
+•	 [ecuación]  y  [ecuación] 
+
+•	 [ecuación]  y  [ecuación] 
+
+•	 [ecuación]  y  [ecuación] 
+
+•	 [ecuación]  y  [ecuación] 
+
+•	Si el radio de C es el doble del radio de A, concluir que una persona ubica la intersección de dos circunferencias se encuentra más alejada de la lámpara C si conocemos:
+
+•	La distancia x.
+
+•	Que la distancia x es igual a y.
+
+•	Que x > y
+
+•	Que x < y.
+
+•	Si el radio de B se conserva y las lámparas B y C tienen la misma potencia que B, entonces las tres lámparas iluminan la mayor cantidad de área cuando se busca:
+
+•	La distancia x.
+
+•	Que la distancia x es igual a y.
+
+•	Que x > y
+
+•	Que x < y.
+
+
+•	Si el radio de B se conserva y las lámparas A y C tienen la misma potencia que B,
+entonces las tres lámparas iluminan la mayor cantidad de área cuando se ubican:
+
+•	En los tres vértices del rectángulo.
+
+•	En línea recta sobre la diagonal del rectángulo.
+
+•	Sobre una línea recta horizontal y a distancias iguales.
+
+•	Formando un triángulo isósceles.
+
+
+•	Si el radio de A es menor que el radio de C, y este, a su vez, es menor que el radio
+de B, podemos concluir que: 
+
+•	x < y
+
+•	 y = x
+
+•	y < x
+
+•	No se puede determinar cuál es mayor entre x y y.
+
+
+•	Un empresario trae un grupo de salsa para amenizar las festividades de fin Los precios de las boletas para el concierto son de $ 20000 para damas y $ 25000 para caballero. El empresario le dice al grupo que le pagará $5000 por cada entrada de $ 20000 y $ 8000 por cada boleta de $ 25000.
+
+•	Sí en el contrato el empresario asegura una entrada de 6000 personas e ingresan dos veces más de un género que del otro. tas valores mínimos y los valores máximos  que el grupo puede ganar son:
+
+•	48000000 y 36000000
+
+•	56000000 y 42000000
+
+•	42000000 y 48000000
+
+•	150000000 y 300000000
+
+•	Si la boletería total vendida asciende a 120 millones de pesos y entraron 5000 personas, ¿cuál es la menor cantidad de mujeres que entraron?
+
+•	2000 mujeres.
+
+•	1000 mujeres.
+
+•	15000 mujeres.
+
+•	500 mujeres.
+
+
+•	Si el empresario garantiza una entrada de 6000 personas y se vende boletería por 130 millones, las funciones que mejor representan estas condiciones son:
+
+Imagen 38: Gráfica a.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficadas dos rectas, un paralela al eje x que pasa por 5200 y otra que pasa por los puntos (0, 6000) y (6000, 0).
+
+Imagen 39: Gráfica B.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficadas dos rectas, una que pasa por el punto (0, 0) y el punto (6000, 6000) y otra que pasa por los puntos (0, 5200) y (6500, 0).
+
+
+Imagen 40: Gráfica c.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficadas dos rectas: una que pasa por los puntos (0, 5200) y (6500, 0) y otra que pasa por los puntos (0, 6000) y (6000, 0).
+
+
+Imagen 41: Gráfica d.
+
+•	
+
+Descripción Imagen: Primer cuadrante del plano cartesiano, sobre el cual se encuentran graficadas dos rectas, un paralela al eje x que pasa por 5200 y otra que pasa por los puntos (0, 0) y (6000, 6000).
+
+
+•	Si el empresario asegura una entrada de 6 000 personas y se vende boletería por 130 millones de pesos, ¿cuál es el valor mínimo de dinero que ganará el grupo de salsa?
+
+•	42000000
+•	40000000 
+•	36000000
+•	20000000
+
+
+•	La ley de la gravedad establece que los cuerpos ascienden y descienden según relaciones de tipo cuadrático como, por ejemplo, y = a [ecuación]  + bt + c, donde a representa la aceleración de la gravedad, y b la velocidad inicial con que fue impulsado el cuerpo.
+
+•	Un cuerpo que cae libremente lo hace de acuerdo con la función y = 9 [ecuación]   + 18t, donde y representa la posición y t el tiempo transcurrido desde que inició su movimiento. Si el cuerpo ha recorrido 72 metros, ¿en qué intervalo de tiempo recorrerá 27 metros más?
+
+•	Entre 2 y 4 seg.
+
+•	Entre3y5seg.
+
+•	Entre 2 y 3 seg.
+
+•	Entre 3 y 4 seg.
+
+•	¿Entre qué intervalo de tiempo el cuerpo "recorre el intervalo de distancia desde 135 metros a 216 metros?
+
+•	(2, 5) 
+•	(1, 2)
+•	(3, 4)
+•	(3, 5)
+
+•	Si tomamos un intervalo de tiempo entre  [ecuación]  seg y  [ecuación]  seg después de iniciado el movimiento entonces el cuerpo recorre una distancia entre los 7 y los 16 metros. Para encontrar dichos valores se debe:
+
+•	Solucionar la desigualdad:
+
+7 < 9 [ecuación]  + 18t  < 16
+
+•	Hallar la posición del cuerpo después de  [ecuación] y  [ecuación]  segundos de iniciado el movimiento.
+
+•	Restar  [ecuación]  -  [ecuación]  y calcular la posición al cabo de dicho tiempo.
+
+•	Solucionar las ecuaciones:
+
+9 [ecuación]  + 18t =  [ecuación] 
+
+9 [ecuación]  + 18t =  [ecuación] 
+
+
+
+TEMA 3: FUNCIONES 
+
+
+Estimación de la población
+
+
+Según las estimaciones de las Naciones Unidas, la población mundial alcanzó los 5300 millones en 1990 y aumentó cada año en más de 90 millones de personas.
+
+Antes del siglo XVIII, el crecimiento de la población no era constante y vanaba en función del clima, los alimentos, las enfermedades y las guerras. A partir de la segunda mitad del siglo XVIII, los grandes avances del conocimiento científico, la agricultura, la industria y la organización social, hicieron que la población creciera considerablemente; así, la población se multiplicó en tan solo un siglo (1850-1950), por casi 2,5, y pasó de 1200 millones a 2500 millones de habitantes.
+
+Hacia 1950 se inicia una nueva etapa debido a que se logran controlar el hambre y las enfermedades. Las estimaciones de las Naciones Unidas indican que la población pasará de 5 300 millones en 1990, a 6200 millones en el año 2004, y a 8 500 millones en el 2025.
+
+Imagen 1: Crecimiento Poblacional.
+
+
+
+Descripción Imagen: Curva creciente con comportamiento suave iniciando en el punto (0, 800) y hacia el punto 2000 en x la curva acelera su crecimiento de manera asintótica.
+
+
+Interpretación de Gráficas
+
+Con base en la información de la gráfica, contesta:
+
+•	Traza una recta paralela al eje de población. ¿En cuántos puntos corta la gráfica esta recta?
+•	¿Está representada la gráfica por una línea continua?
+•	¿Cuál es el intervalo de tiempo en el que se representa la población?
+•	¿Aproximadamente qué población había en 1999?
+•	¿Qué podrá suceder con la gráfica y la población si se estima un tiempo demasiado grande
+
+
+TRAZADO E INTERPRETACIÓN DE GRÁFICAS
+
+
+Las representaciones gráficas se utilizan con mucha frecuencia en diferentes ramas de las ciencias, para registrar los cambios ocasionados por fenómenos naturales.
+
+Sin embargo, esta clase de registros abarca otros campos. En medicina, por ejemplo, un electrocardiograma es una gráfica en forma sinusoidal que sirve para analizar el ritmo cardíaco.
+
+En meteorología se usan las gráficas para indicar la variación de temperatura en un determinado período.
+
+Por todo esto y mucho más, las gráficas son auxiliares visuales que revelan el comportamiento de fenómenos naturales y facilitan su análisis e interpretación.
+
+Estos comportamientos se expresan mediante relaciones, es decir, ecuaciones que relacionan variables. Así, por ejemplo, en el lanzamiento vertical hacia arriba de un proyectil, la altura h dada en metros a los t segundos, está determinada por la relación:
+
+ [ecuación] 
+
+En esta ecuación, la altura h depende del tiempo t transcurrido:
+
+•	Si t = 0, entonces h = 0. Por tanto, la pareja ordenada (0,0) es
+una solución de la ecuación.
+
+•	Si t = 1, entonces h = 787 m. Luego, (1, 787) es una solución de
+la ecuación.
+
+Podemos continuar obteniendo parejas de la forma (t, h) que sean solución de la ecuación original:
+
+h (2) = 1542. Entonces, la pareja (2, 1 542) es otra solución.
+
+Imagen 2: Segmento de parábola
+
+
+
+Descripción Imagen: Primer cuadrante del plano cartesiano en el cual se encuentra graficado el segmento de recta que une los puntos (0, 0), (1, 787) y (2, 1542).
+
+Generalizando: Para cada solución de la ecuación existe un punto P (x, y) en el plano cartesiano.
+
+El conjunto de puntos P (x, y) del plano cartesiano que hace que la ecuación sea una igualdad, se llama gráfica de la relación
+
+Ubicación de puntos para construir una gráfica:
+
+La gráfica de algunas relaciones se puede realizar localizando unos pocos puntos. Por ejemplo, para realizar la gráfica de una relación lineal se necesitan únicamente dos puntos, ya que por dos puntos pasa solamente una línea recta.
+
+La elaboración de gráficas de relaciones más complejas requiere de mayor información, tal como interceptos con los ejes, simetrías, desplazamientos, etcétera.
+
+Ejemplo 1. Trazado de gráficas
+
+Traza la gráfica de la relación y + 3 =  [ecuación] .
+
+
+Solución:
+ 
+
+•	Paso 1: Despejamos la variable  y:
+
+y =  [ecuación]  - 3
+
+•	Paso 2: Hacemos una tabla para asignarle valores a la variable independiente x, remplazamos en la ecuación y encontramos los valores de la variable dependiente y.
+
+Tabla 1: Valores de y con desplazamiento.
+
+x
+y
+-3
+6
+-2
+1
+-1
+-2
+0
+-3
+1
+-2
+2
+1
+3
+6
+
+
+•	Paso 3: Ubicamos en el plano cartesiano los puntos solución P (x, y) que aparecen en la tabla.
+
+Imagen 3: Gráfica de Puntos Tabulados
+
+
+
+Descripción Imagen: Plano cartesiano en el cual se encuentran marcados los puntos (-3, 6), (-2, 1), (-1, -2), (0, -3), (1, -2), (2, 1) y (3, 6).
+
+•	Paso 4: Unimos los puntos ubicados por medio de una curva suave:
+
+Imagen 4: Parábola descrita por la función.
+
+
+
+Descripción Imagen: Plano cartesiano en el cual se encuentra graficada la curva suave que une los puntos (-3, 6), (-2, 1), (-1, -2), (0, -3), (1, -2), (2, 1) y (3, 6). La curva que describe es una parábola.
+
+
+Procediendo en forma similar, podemos realizar muchos tipos de gráficas.
+
+
+INTERSECCIONES DE LA GRÁFICA CON LOS EJES
+
+
+Las intersecciones de la curva con los ejes son los puntos donde la gráfica corta o toca al eje. Es posible encontrar puntos de intersección con el eje x y también con el eje y.
+
+Imagen 5: Gráficas de funciones que intersectan ejes.
+
+
+
+Descripción Imagen: Gráfica de dos planos cartesianos sobre cada uno de estos se encuentra graficada una curva suave, la primera corta al eje x en los puntos (-x, 0) y (x, 0). La otra corta al eje y en los puntos (0, y) y (0, -y).
+
+
+Ejemplo 2. Puntos 'de intersección
+
+Encuentra los puntos de intersección de la relación y =  [ecuación]  - 3 con los ejes coordenados.
+
+Solución
+
+•	Intersección con el eje y.
+
+Hacemos x = 0, y hallamos el valor de y:
+
+y =  [ecuación]  - 3
+
+y = 0 - 3 y = -3
+
+La gráfica corta al eje y en el punto (0, - 3)
+
+•	Intersección con el eje x.
+
+Hacemos y = 0, despejamos y hallamos el valor de x: 
+
+0 =  [ecuación]  - 3
+
+3 =  [ecuación] 
+
+ [ecuación]  = x
+
+La gráfica corta al eje x en los puntos ( [ecuación] , 0) y ( [ecuación] , 0).
+
+Para calcular la intersección con el eje x se hace y = 0, y se halla el valor de x.
+
+Para calcular la intersección con el eje y se hace x = 0, y se halla el valor de y.
+
+
+SIMETRÍAS
+
+
+•	En la siguiente figura se observa que si el plano cartesiano se dobla a lo largo del eje x, la curva o gráfica que queda en la parte de arriba coincide con la que queda en la parte de abajo. En este caso, la gráfica es simétrica con respecto al eje x.
+
+Imagen 6: Simetría respecto al eje x.
+
+
+
+Descripción Imagen: Gráfica de 3 planos cartesianos sobre el primero en el tercer y cuarto cuadrante se encuentra graficada media circunferencia con centro en (0, 0). Sobre el segundo se muestra un pliegue respecto al eje x de la imagen, y en el tercero se muestra una circunferencia con centro en (0, 0).
+
+Una gráfica es simétrica con respecto al eje x si para cada punto (x, y) que está en la gráfica, el punto (x, -y) también está en ella.
+
+•	Si el plano cartesiano de la figura se dobla a lo largo del eje y, la gráfica que queda al lado izquierdo coincide con la que queda al lado derecho.
+
+Imagen 7: Simetría Respecto al eje y.
+
+
+
+Descripción Imagen: Gráfica de 3 planos cartesianos sobre el primero en el primer y cuarto cuadrante se encuentra graficada una curva que se asemeja al mago de una espada la cual es simétrica respecto al el eje x. Sobre el segundo se muestra un pliegue respecto al eje y de la imagen, y en el tercero se muestra una flor con cuatro pétalos simétricos cada uno sobre uno de los ejes.
+
+
+La gráfica es simétrica con respecto al eje y, ya que para cada punto (x, y) que está en la gráfica, el punto (-x, y) también está en ella.
+
+•	Si para cada punto (x, y) que está en la gráfica, el punto (-x, -y) también está en ella, entonces la gráfica es simétrica con respecto al origen.
+
+•	Una relación y = f(x) es simétrica con respecto al eje x, si al sustituir y por-y se obtiene la misma ecuación.
+
+•	Una relación y = f(x) es simétrica con respecto al eje y, si al sustituir x por -x se obtiene la misma ecuación.
+
+•	Una relación y = f(x) es simétrica con respecto al origen, si al sustituir y por -y y x por -x, simultáneamente, se obtiene la misma ecuación.
+
+
+Ejemplo 3. Simetría con respecto al origen
+
+Determina si y = f(x) =  [ecuación]   es simétrica con respecto a origen.
+
+Solución:
+
+Graficamos la función y =  [ecuación] 
+
+X
+f(x)
+-3
+-27
+-2
+-8
+-1
+-1
+0
+0
+1
+1
+2
+8
+
+Imagen 8: Gráfica Función Cúbica.
+
+
+
+Descripción Imagen: Gráfica de una curva suave en el plano cartesianos, la cual es creciente, une los puntos (-2, 8), (1, 1), (0, 0), (1, 1) y (2, 8), la curva es cóncava hacia debajo de menos infinito a 0 y cóncava hacia arriba de 0 a infinito. 
+
+Para que la gráfica sea simétrica con respecto al origen, se debe cumplir que si (x, y) pertenece a la gráfica, entonces (-x, -y) también debe pertenecer a ella.
+
+Observamos que (2, 8) y (-2,-8); (1, 1) y (-1,-1) pertenecen a la gráfica.
+ 
+Por tanto, la gráfica de y =f(x) =  [ecuación]  es simétrica con respecto al origen.
+
+En forma general, si y =f(x) es simétrica al origen, entonces f (-x) = -f(x).
+
+
+Ejemplo 4. Simetría con respecto a y
+
+Determina si y = f(x) = - 3 [ecuación]  + 6, es simétrica con respecto al eje y.
+
+Solución:
+
+Graficamos la función y = f(x) = - 3 [ecuación]  + 6.
+
+Tabla 2: Tabulación de la función cuadrática transformada.
+x
+F(x)
+-3
+-21
+-2
+-6
+-1
+3
+0
+6
+1
+3
+2
+-6
+3
+-21
+
+
+Imagen 9: Función Cuadrática Negativa.
+
+
+
+Descripción Imagen: Plano cartesiano en el cual se encuentra graficada la curva suave que une los puntos (-2, -8), (-1, 3), (0, 6), (1, 3) y (2, -6). La curva que describe es una parábola que abre hacia abajo y está desplazada 6 unidades arriba del origen.
+
+En la imagen anterior vemos que:
+
+•	(1, 3) y (-1, 3) pertenecen a la gráfica.
+
+•	(2, -6) y (-2, -6) pertenecen a la gráfica.
+
+•	(3, -21) y (-3, -21) también pertenecen a la gráfica.
+
+Por tanto, si (x, y) pertenece a la gráfica, entonces (-x, y) también.
+
+Observa que para cualquier valor de x, se tiene que:
+
+f (-x) = f(x).
+
+
+CÁLCULO DEL DOMINIO Y DEL RANGO
+
+
+Sabemos que en el conjunto de parejas ordenadas de la forma (x, y), las primeras componentes están ubicadas sobre el eje x y constituyen el dominio de la relación.
+
+Las segundas componentes están ubicadas sobre el eje y y forman el rango de la relación.
+
+Calculemos analíticamente el dominio y el rango en la relación  [ecuación] 
+
+•	Calculemos el dominio
+
+Hallamos el valor de y: y =  [ecuación] 
+
+Buscamos los valores de x para los cuales la relación queda bien definida:
+
+x  [ecuación]  0.
+
+Por tanto, el dominio de la función son todos los valores de x  [ecuación]  0. Este dominio se puede expresar en forma de:
+
+•	Intervalo:  [ecuación] 	
+
+•	Conjunto: Dm f = {x  [ecuación]  R / x  [ecuación]  0}
+
+•	Calculemos el rango
+
+Hallamos el valor de x: en x =  [ecuación] .
+
+Buscamos los valores de y para los cuales la relación queda bien definida:
+
+x =  [ecuación]  queda bien definida para cualquier valor que tome y, es decir, y es cualquier número real.
+
+Por tanto, el rango de la función son todos los números reales. Se puede expresar como:
+
+•	Intervalo: [ecuación] 
+
+•	Conjunto: Rg f ={y/y  [ecuación]  R}
+
+Ejemplo 5. Cálculo del dominio y el rango de una relación
+
+Calcula el dominio y el rango de la relación f  =  [ecuación] 
+
+Solución:
+
+Buscamos los valores de x para los cuales la relación  [ecuación]  queda bien definida.
+
+Observa que el numerador es de la forma  [ecuación]  y no tiene ninguna restricción. El denominador siempre tiene que ser diferente de cero. Luego:
+
+x + 3  [ecuación]  0 y x  [ecuación]  -3
+
+Por tanto, x + 3 se hace cero cuando x = -3. Entonces, x = -3, no pertenece al dominio de la función:
+
+Dm f =  [ecuación] , o, R -{-3}
+
+Para saber cuál es el rango de la función, despejamos la variable x y buscamos los valores de y donde queda bien definida la función:
+
+ [ecuación]  = y(x + 3) 
+
+ [ecuación]  = xy + 3y
+
+La última ecuación es de la forma a [ecuación]  + bx + c = 0, donde a = 1, b = -y y c = -3y.
+
+Aplicamos la fórmula cuadrática para encontrar x:
+
+ [ecuación] 
+
+Para que el resultado de la raíz esté definido, los valores que puede tomar y están dados por:
+
+ [ecuación] 
+
+Por tanto:
+
+y (y+ 12)  [ecuación]  O
+
+Al resolver esta desigualdad por el método gráfico, obtenemos:
+
+Signo de y
+
+Imagen 10: Solución y > 0
+
+Descripción Imagen: Recta numérica sobre la cual se encuentra identificado el 0, a la izquierda de 0 hay sobre la recta signos de resta y a la derecha signos de suma.
+
+Signo de y + 12
+
+Imagen 11: Solución de y + 12.
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentra identificado el 0 y el -12, a la izquierda de -12 hay sobre la recta signos de resta y a la derecha signos de suma.
+
+
+Signo de y (y + 12)
+
+Imagen 12: Producto de las soluciones simples.
+
+
+
+Descripción Imagen: Recta numérica sobre la cual se encuentra identificado el 0 y el -12, a la izquierda de -12 hay sobre la recta signos de suma, entre -12 y 0 signos de resta y a la derecha de 0 signos de suma.
+
+de donde: 
+
+ [ecuación] 
+
+Es decir, Rg f =  [ecuación] 
+
+Para determinar el dominio de una relación, despejamos la variable y, si es posible, y buscamos los valores de x para los cuales la relación queda bien definida.
+
+Para determinar el rango de una relación, despejamos la variable x, si es posible, y buscamos los valores de y para los cuales la relación queda bien definida.
+
+Ejemplo 6. Asíntotas verticales y horizontales
+
+Halla el dominio y el rango de la relación  [ecuación] 
+
+Solución:
+
+
+Al despejar y en la relación original, obtenemos:
+
+ [ecuación] 
+
+Para hallar el dominio debemos tener en cuenta que x no puede tomar el valor 2, ya que el denominador sería cero.
+
+Por otro lado, el cociente  [ecuación]  no puede ser negativo por estar dentro de una raíz cuadrada 
+
+Por tanto,  [ecuación]  y x  [ecuación]  2
+
+Al resolver la primera desigualdad, encontramos que:
+
+ [ecuación] 
+
+Pero como x  [ecuación]  2, entonces el dominio de la función es:
+
+Dm f =  [ecuación] 
+
+Para el rango, despejamos la variable x de la siguiente manera:
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+de donde se deduce que y  [ecuación]  -1 y y  [ecuación]  1. Por tanto, Rg f = R -{-1, 1}
+
+La gráfica de la relación f se muestra en la siguiente imagen. Podemos observar que la curva se acerca de manera infinita a la recta x = 2, sin cortarla en ningún punto. A esta recta se le llama asíntota vertical.
+
+Imagen 13: Gráfica de Función Racional
+
+
+
+Descripción Imagen: Plano cartesiano sobre él se encuentra graficada una función racional la cual se describe a continuación: Entre menos infinito y cero es una parábola simétrica al eje x que se acerca a 1 y a -1, sin tocarlos, las rectas que pasan por estos puntos se denominan asíntotas horizontales. De 2 hasta infinito hay una curva suave que es decreciente y se acerca a uno para el primer cuadrante y en el cuarto cuadrante tiene a -1.
+
+De igual forma, la curva se acerca de manera infinita a las rectas y = 1 y y = -1, sin cortarlas. Estas rectas son asíntotas horizontales.
+
+Ejemplo 7. Análisis de una relación y sus características
+
+Dada la relación y = f(x) =  [ecuación] 
+
+•	Halla las intersecciones con los ejes.
+
+•	Verifica si tiene algún tipo de simetría.
+
+•	Calcula el dominio y el rango.
+
+•	Halla las asíntotas.
+
+•	Construye la gráfica.
+
+Solución
+
+•	La intersección con el eje y se consigue haciendo x = 0; entonces:
+
+y =  [ecuación] . La gráfica interseca al eje y en el punto  [ecuación] .
+
+La intersección con el eje x se consigue haciendo y = 0; pero no es posible porque si  [ecuación]  = 0, entonces 1 = 0 lo que es absurdo. Esto significa que no hay intersección con el eje y.
+
+•	Si cambiamos y por - y en la relación original, obtenemos:
+
+-y =  [ecuación] , de donde y =  [ecuación] que es diferente de  [ecuación] . Por tanto, no es simétrica con respecto al eje x.
+
+Si cambiamos x por -x, y =  [ecuación]   [ecuación]   [ecuación] ; lo que quiere decir que tampoco es simétrica con respecto al eje y.
+
+Por último, f (-x) =  [ecuación]   [ecuación]  f (-x), entonces tampoco es simétrica con respecto al origen.
+
+•	Calculemos el dominio: Observa que la variable x está en el denominador; entonces debemos buscar los valores que se le pueden asignar a x: Como x - 2  [ecuación]  0, x  [ecuación]  2, entonces a la variable x se le puede asignar cualquier número real, excepto x = 2:
+
+Dm f =  [ecuación] 
+
+Para calcular el rango despejamos la variable x:
+
+x =  [ecuación] , y  [ecuación]  0. Esto es, la variable y nunca tomará el valor 0. Luego, Rg =  [ecuación] 
+
+•	Escojamos algunos valores de x cercanos a 2. Por ejemplo, x = 1,9; x = 1,99; x = 1,999. Al remplazarlos en la relación, obtenemos las imágenes respectivas.
+
+y = -10
+
+y = -100
+
+y = -1000
+
+Lo que indica que la recta x = 2 es una asíntota vertical, ya que la curva se acerca a ella infinitamente, pero no la corta.
+
+Como y  [ecuación] 0, entonces la recta y = 0 (es decir, el eje x) es una asíntota horizontal.
+
+•	Para hacer la gráfica de y =  [ecuación] , elaboramos primero la tabla de valores:
+
+•	Para valores antes de la asíntota x = 2, tenemos:
+
+Tabla 3: Valores menores a 2.
+
+X
+Y
+-4
+-0,16
+-1
+-0.33
+0
+-0,5
+1
+-1
+1,5
+-2
+1,8
+-5
+1,9
+-10
+1,99
+-100
+1,999
+-1000
+
+•	Para valores después de la asíntota x = 2, tenemos:
+
+Tabla 4: Valores Mayores a 2.
+
+x
+y
+2,001
+1000
+2,01
+100
+2,1
+10
+2,5
+2
+3
+1
+4
+0,5
+5
+0,33
+
+Ahora ubicamos los puntos (x, y) en el plano y trazamos la curva.
+
+Imagen 14: Gráfica Función Racional.
+
+
+
+Descripción Imagen: Plano cartesiano sobre el cual se encuentra graficada una función racional la cual se describe a continuación: Entre menos infinito y 2 es una curva decreciente que cuando se acerca a menos infinito la gráfica se acera a cero, sin cruzar el eje x y cuando se acerca a 2 tiende a menos infinito sin tocar el 2. Ahora de 2 a infinito la curva es decreciente pero cuando x se acerca a 2 la gráfica va para infinito y cuando x y tiende a infinito la gráfica va a cero, sin atravesar el eje.
+ 
+Ejemplo 8. Análisis de una relación y sus características
+
+Analiza la gráfica de la ecuación y = x. 
+
+Imagen 15: Función Lineal.
+
+
+
+Descripción Imagen: Plano cartesiano sobre él se encuentra graficada una función lineal la cual une los puntos (0, 0=, (1, 1), (2, 2), en general aquellos con ambas coordenadas iguales.
+
+Solución
+
+•	Intersecciones:
+
+Con el eje x, en el punto x = 0.
+
+Con el eje y, en el punto y = 0.
+
+•	Simetría:
+
+Con respecto al origen porque e punto (1,1) está en la gráfica y el punto (- 1, - 1) también.
+
+•	Dm f =  [ecuación]  o Dm f =  [ecuación] .
+Rg  f =  [ecuación] o Rg f =  [ecuación] 
+
+•	No tiene asíntotas verticales porque la relación x está definida
+para todos los valores de x.
+
+No tiene asíntotas horizontales porque la relación y está definida para todos os valores de y.
+
+Ejemplo 9. Análisis de una relación y sus características
+
+Analiza la gráfica de la ecuación y = f(x) = tan x. 
+
+Imagen 16: Gráfica de Tan(x)
+
+
+Descripción Imagen: Plano cartesiano sobre el cual se encuentra graficada la función tangente.
+ 
+Solución
+
+•	Intersecciones: 
+
+Con el eje x, tan x se hace cero cuando x toma valores múltiplos de  [ecuación] , es decir, cuando x = n [ecuación] , n  [ecuación]  Z.
+
+Con el eje y, se hace cero cuando x toma el valor cero. Luego, y = tan x interseca al eje y en y = 0.
+
+•	Simetría:
+Por trigonometría básica, sabemos que tan (-x) =-tan x. Por tanto, y = tan x es simétrica con respecto al origen.
+
+•	Dm f =  [ecuación] 
+Rg f = R
+
+•	Tiene asíntotas verticales en c =  [ecuación] . Son rectas que pasan por los puntos x donde la tangente no está definida.
+
+No tiene asíntotas horizontales.
+
+
+TRANSFORMACIONES BÁSICAS DE LAS GRÁFICAS
+
+
+El trabajo de realizar gráficas de relaciones podemos reducirlo un poco si conocemos los efectos que se producen al realizar transformaciones (traslaciones, reflexiones, alargamientos) en algunas relaciones básicas.
+
+En las siguientes figuras se muestra el efecto producido en la ecuación y =  [ecuación]  al desplazar la curva 3 unidades hacia arriba, 3 unidades hacia abajo, 3 a la derecha y 3 a la izquierda.
+
+Imagen 17: Gráfica función cuadrática.
+
+
+
+Descripción Imagen: Gráfica de la función x al cuadrado, la cual describe una parábola.
+
+Imagen 18: Desplazamiento Vertical.
+
+
+Descripción Imagen: Gráfica de la función x al cuadrado y su desplazamiento en 3 unidades hacia arriba y menos 3 unidades hacia abajo, por tano hay 2 parábolas sobre el plano.
+
+Imagen 19: Desplazamiento Horizontal.
+
+
+
+Descripción Imagen: Gráfica de la función x al cuadrado y su desplazamiento en 3 unidades a la izquierda y menos 3 unidades a la derecha, por tano hay 2 parábolas sobre el plano. 
+
+En general, si k>0, la gráfica de y - f(x) + k es la misma de y = f(x), pero desplazada k unidades hacia arriba, debido a que cada ordenada se incrementa en ese valor. Si k < 0, se desplaza k unidades hacia abajo.
+
+De igual manera, si g(x) = f(x - k), donde k > 0, el valor de g en x es el mismo de f en x - k. Por tanto, la gráfica de y = f(x - k) es la de y = f(x) desplazada k unidades hacia la derecha. La gráfica de y = f(x + k) con k > 0, es la misma de y = f(x), pero desplazada k unidades hacia la izquierda.
+
+Si k> 0, la gráfica de:
+
+•	y = f(x) + k se obtiene al desplazar y = f(x) k unidades hacia arriba.
+
+•	y = f(x) - k se obtiene al desplazar y = f(x) k unidades hacia abajo.
+
+•	y = f(x - k) se obtiene al desplazar y = f(x) k unidades hacia la derecha.
+
+•	y = f(x + k) se obtiene al desplazar y = f(x) k unidades hacia la izquierda.
+
+Las siguientes transformaciones podemos comprenderlas mejor con la función y = f(x) = sen x.
+
+En la función y = Asen x;
+
+A indica la amplitud de la gráfica.
+
+En la función y = sen (Bx),  [ecuación]  indica la elongación o período.
+
+Imagen 20: Variaciones en la amplitud de la función sen(x)
+
+
+
+Descripción Imagen: Gráfica de la función sen(x) con variaciones en amplitud, una hasta un medio, otra hasta 1, y otra hasta 2. 
+
+Imagen 21: Variaciones de periodo en función Seno
+
+
+
+Descripción Imagen: Gráfica de la función sen(x) con variaciones en periodo, una con periodo pi, otra con periodo 2 pi y otra con periodo 4 pi. 
+
+Imagen 22: Reflejo de la función seno.
+
+
+
+Descripción Imagen: Gráfica de la función sen(x) reflejada respecto al eje x.
+
+
+Imagen 23: Reflejo de la función seno.
+
+
+
+Descripción Imagen: Gráfica de la función sen(x) reflejada respecto al eje y.
+
+
+•	En la figura(a) la gráfica de y = 2 sen x es la de y = sen x alargada en el factor 2 en la dirección vertical, ya que la coordenada se multiplica por ese factor. De igual manera, la gráfica de y =  [ecuación] sen x se ha comprimido en el factor 2.
+
+•	En la figura (b) la gráfica de y = sen ( [ecuación] ) es la de y = sen x alargada en el factor 2, pero ahora en la dirección horizontal, y la gráfica de y = sen 2x es la de y = sen x comprimida en el factor 2, también en dirección horizontal.
+
+•	La figura (c) muestra la gráfica de y = -sen x, obtenida de y = sen a al hacerle una reflexión con respecto al eje x, y en (d), la gráfica de y - sen (-x) se obtiene de y = sen x al hacerle una reflexión con respecto al eje y.
+
+En general:
+
+Si k> 1, la gráfica de:
+
+•	y = kf(x) se obtiene al alargar la gráfica de y = f(x) verticalmente en un factor k.
+
+•	y =  [ecuación] f(x) se obtiene al comprimir la gráfica de y = f(x) verticalmente en un factor k.
+
+•	y = f (kx) se obtiene al comprimir la gráfica de y = f(x) horizontalmente en un factor k.
+
+•	y = f ( [ecuación] ) se obtiene al alargar la gráfica de y = f(x) horizontal-mente en un factor k.
+
+•	y = -f(x) se obtiene al reflejar la gráfica de y = f(x) respecto al eje x.
+
+•	y = f (-x) se obtiene al reflejar la gráfica de y = f(x) respecto al eje y.
+
+
+Ejemplo 10. Transformaciones de gráficas
+
+Halla las gráficas de y =  [ecuación]  y de y =  [ecuación]  + 2 a partir de la gráfica de y =  [ecuación] .
+
+Solución:
+
+Primero se traza la gráfica de y =  [ecuación] .
+La gráfica de y =  [ecuación]  se obtiene desplazando y =  [ecuación] , 2 unidades hacía la derecha.
+
+Imagen 24: Desplazamiento Horizontal de la cúbica.
+
+
+
+Descripción Imagen: Desplazamiento horizontal del trazo de la función x al cubo tres unidades hacia la derecha, la curva resultante es una suave idéntica en comportamiento a la original con coordenadas en x más 3 en cada una.
+
+Imagen 25: Desplazamiento Vertical de la Función Cúbica.
+
+
+
+Descripción Imagen: Desplazamiento horizontal del trazo de la función x al cubo 2 unidades hacia arriba, la curva resultante es una suave idéntica en comportamiento a la original con coordenadas en y más 2 en cada una.
+
+
+Ejemplo 11. Transformaciones de gráficas
+
+Halla las gráficas de y = - [ecuación]  y y = - [ecuación]  + 1 a partir de la gráfica de y =  [ecuación] .
+
+Solución
+
+La gráfica de y = - [ecuación]  se obtiene a partir de una reflexión de y =  [ecuación]  respecto al eje x.
+
+Imagen 26: Reflejo de una función cuadrática.
+
+
+
+Descripción Imagen: Reflejo de la curva x al cuadrado respecto al eje x, todas la coordenadas en y ahora tienen el signo contrario, por tanto la gráfica es una parábola que abre hacia abajo.
+
+
+La gráfica de y = - [ecuación]  + 1 se obtiene de:
+
+•	Reflejar y =  [ecuación]  respecto al eje x, para obtener y = - [ecuación] .
+
+•	Desplazar y = - [ecuación] , 3 unidades a la derecha, para obtener y = - [ecuación] 
+
+•	Desplazar y = - [ecuación] , 1 unidad hacia arriba, para obtener así y = - [ecuación]  + 1
+
+Imagen 27: Combinación de desplazamientos.
+
+
+
+Descripción Imagen: Gráfica de un reflejo de la curva menos x al cuadrado desplazada una unidad hacia arriba y 3 unidades a la derecha, por tanto se modifican coordenadas en x y coordenadas en y.
+
+
+Practica lo aprendido
+
+
+•	Determina para cada una de las siguientes gráficas:
+
+•	El dominio.
+•	El rango.
+•	Las intersecciones con los ejes.
+•	Qué tipo de simetría existe.
+
+Imagen 28: Ejercicio a.
+
+•	
+
+Descripción Imagen: Gráfica de una curva suave que termina en flechas hacia la derecha y une los puntos en (-2, 0), (0, -2) y (0, 2) de forma parabólica.
+
+
+Imagen 29: Ejercicio b.
+
+•	
+
+Descripción Imagen: Gráfica de un reflejo de la curva menos x al cuadrado desplazada una unidad hacia arriba y 3 unidades a la derecha, por tanto se modifican coordenadas en x y coordenadas en y.
+
+
+Imagen 30: Ejercicio c.
+
+•	
+Descripción Imagen: Gráfica de la función trigonométrica sen(x). 
+
+Imagen 31: Ejercicio d.
+
+•	
+Descripción Imagen: Gráfica de una recta paralela que pasa por el punto 2 y es paralela al eje y.
+
+•	Para cada una de las siguientes relaciones:
+
+•	Realiza la gráfica.
+
+•	Halla el dominio.
+
+•	Halla el rango.
+
+•	Halla las intersecciones con los ejes.
+
+•	Determina el tipo de simetría.
+
+•	Halla las asíntotas, si existen.
+
+•	y + x = 1
+
+•	y -  [ecuación]  = 0
+
+•	xy = 1
+
+•	 [ecuación] y = 1
+
+•	x [ecuación]  = 1
+
+•	y= sen x
+
+•	 [ecuación] 
+
+•	y = secx
+
+
+•	Traza la gráfica de y = -cosx a partir de la gráfica de y = cos x.
+
+•	Traza la gráfica de y =  [ecuación]  a partir de la gráfica de y =  [ecuación] .
+
+•	Traza la gráfica de f(x) =  [ecuación]  - 6x + 4 a partir de la gráfica de y =  [ecuación] . Sugerencia: Escribe f(x) en la forma f(x) =  [ecuación]  + h.
+

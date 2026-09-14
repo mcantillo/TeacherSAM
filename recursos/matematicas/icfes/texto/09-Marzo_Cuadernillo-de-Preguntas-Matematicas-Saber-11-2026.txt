@@ -1,0 +1,1658 @@
+Prueba
+Matemáticas
+ Cuadernillo de preguntas
+ Saber 11.º                 y
+
+
+
+
+                                x
+
+
+                   z
+Presidente de la República                      Directora General
+Gustavo Francisco Petro Urrego                  Elizabeth Blandón Bermúdez
+
+Ministro de Educación Nacional                  Secretario General
+José Daniel Rojas Medellín                      Luis Gonzaga Martínez Sierra
+
+Viceministra de Educación Preescolar,           Director Técnico de Evaluación
+Básica y Media                                  Gustavo Andrés Monsalve Londoño
+Lucy Maritza Molina Acosta
+                                                Directora Técnica de Producción y
+                                                Operaciones
+                                                Luz Patricia Loaiza Cruz
+Publicación del Instituto Colombiano para la
+Evaluación de la Educación (Icfes)              Director Técnico de Tecnología e Información
+© Icfes, 2026.                                  Luis Rodrigo Cadavid Durán
+Todos los derechos de autor reservados.
+                                                Subdirector de Diseño de Instrumentos
+Bogotá, D. C., marzo de 2026
+                                                Heider Martínez Mena
+ISBN de la versión digital:
+                                                Subdirector de Estadísticas
+En trámite
+                                                Cristian Fabián Montaño Rincón
+¿Cómo citar?
+                                                Subdirectora de Análisis y Divulgación
+Icfes, (2026). Prueba Matemáticas,
+                                                Alejandra Neira Aroca
+Cuadernillo de preguntas. Saber 11.º.
+Bogotá D. C.: Dirección de Evaluación, Icfes.
+                                                Equipo de la Subdirección de Diseño de
+                                                Instrumentos
+
+                                                Elaboración
+                                                Óscar Alejandro Chaparro Gutiérrez
+                                                Cristian Hernando González Runza
+                                                Olga Julieth Osman Cabezas
+                                                Jorge Durley Trujillo Diaz
+Prueba                                          Corrección de estilo
+Matemáticas                                     Juan Camilo Gómez Barrera
+
+                                                Diseño y diagramación
+Saber 11.º                                      Linda Nathaly Sarmiento Olaya
+Términos y condiciones de uso para
+publicaciones y obras de propiedad
+del Icfes
+
+
+El Instituto Colombiano para la Evaluación de                        En todo caso, cuando se haga uso parcial o
+la Educación (Icfes) pone a disposición de la                        total de los contenidos de esta publicación
+comunidad educativa y del público en general,                        del Icfes, el usuario deberá hacer referencia
+de forma gratuita y libre de cualquier cargo,                        a los créditos institucionales, respetando los
+un conjunto de publicaciones a través de su                          derechos de autoría y su correspondiente
+portal www.icfes.gov.co. Dichos materiales                           referencia. Las obras del Icfes se podrán utilizar
+y documentos están normados por la presente                          con los fines aquí previstos, transcribiendo los
+política y están protegidos por derechos de                          pasajes necesarios, citando siempre al Icfes
+propiedad intelectual y derechos de autor a                          como fuente de autor. Lo anterior siempre que
+favor del Icfes. Si tiene conocimiento de alguna                     los pasajes no sean tantos y tan seguidos que,
+utilización contraria a lo establecido en estas                      razonadamente, puedan considerarse como
+condiciones de uso, por favor, infórmenos al                         una reproducción simulada y sustancial que
+correo prensaicfes@icfes.gov.co.                                     redunde en perjuicio del Icfes.
+
+Queda prohibido el uso o publicación total                           Asimismo, los logotipos institucionales son
+o parcial de este material con fines de lucro.                       marcas registradas y de propiedad exclusiva
+Únicamente está autorizado su uso para                               del Icfes. Por tanto, los terceros no podrán
+fines académicos e investigativos. Ninguna                           usar las marcas de propiedad del Icfes ni
+persona, natural o jurídica, nacional o                              signos idénticos o similares respecto de
+internacional, podrá vender, distribuir, alquilar,                   cualesquiera productos o servicios prestados
+reproducir, transformar1, promocionar o realizar                     por esta entidad, cuando su uso pueda causar
+acción alguna, de la cual se lucre directa o                         confusión. En todo caso, queda prohibido
+indirectamente, con este material.                                   sin previa autorización expresa del Icfes. La
+                                                                     infracción de estos derechos se perseguirá
+                                                                     civil y penalmente, de acuerdo con las leyes
+                                                                     nacionales y tratados internacionales aplicables.
+   1 La transformación es la modificación de la obra a través
+   de la creación de adaptaciones, traducciones, compilaciones,      El Icfes realizará cambios o revisiones
+   actualizaciones, revisiones y, en general, cualquier              periódicas a los presentes términos de uso y los
+   modificación que de la obra se pueda realizar, de modo que
+   el producto resultante se constituya en una obra derivada
+                                                                     actualizará en esta publicación.
+   protegida por el derecho de autor, con la única diferencia
+   respecto de la original de que aquella requiere, para su
+   realización, de la autorización expresa del autor o propietario
+                                                                     El Icfes adelantará las acciones legales
+   para adaptar, traducir, compilar, etcétera. En este caso, el      pertinentes por cualquier violación a estas
+   Icfes prohíbe la transformación de esta publicación.              políticas y condiciones de uso.
+
+
+
+
+                                                                                                                    3
+                                                                            Cuadernillo de preguntas
+            .
+                                                                                 Prueba Matemáticas
+
+
+
+
+Características de la
+prueba Matemáticas
+
+El examen Saber 11.º se compone de cinco            información para resolver problemas en
+pruebas. Entre ellas, la de Matemáticas evalúa      situaciones de la vida cotidiana.
+los conocimientos, habilidades y destrezas
+esperadas para el área tras la finalización de la   Para cada competencia se establecen una o más
+educación media.                                    afirmaciones, entendidas como aquello específico
+                                                    de un área del conocimiento o de un conjunto
+Esta prueba sigue la metodología del diseño         de habilidades y destrezas que se espera los
+centrado en evidencias, por lo tanto, su            evaluados sean capaces de saber-hacer.
+estructura está organizada en competencias,
+afirmaciones y evidencias, como se describen a      Finalmente, las afirmaciones, a su vez, se
+continuación.                                       componen de evidencias, entendidas como
+                                                    aquello que permite inferir que el evaluado
+Las competencias son las habilidades                posee las habilidades o los conocimientos
+necesarias para aplicar los conocimientos           suficientes para dar cuenta de la afirmación
+en diferentes contextos. En este sentido,           relacionada. Se trata de la formulación de
+enfrentarse al examen Saber 11.º no implica         aspectos observables en los evaluados que
+solo conocer conceptos o datos, sino                permiten obtener información del nivel de
+que involucra saber cómo emplear dicha              adquisición de las afirmaciones planteadas.
+
+
+
+Competencia evaluada
+
+La prueba Matemáticas evalúa las competencias       información, la justificación de afirmaciones y
+de los evaluados para enfrentar situaciones que     la solución de problemas. Las competencias
+pueden resolverse con el uso de herramientas        evaluadas son Interpretación y representación,
+matemáticas. De acuerdo con lo anterior, se         Formulación y ejecución y Argumentación.
+integran competencias y contenidos en distintas
+situaciones o contextos, en los cuales, las         Para conocer las afirmaciones, evidencias y
+herramientas matemáticas cobran sentido y           estructura detallada de la prueba te invitamos
+son un importante recurso para la comprensión       a consultar la Guía de orientación y el Marco de
+de planteamientos, la transformación de             referencia disponibles en el portal web.
+
+
+
+
+                                                                                                 4
+                                                                              Cuadernillo de preguntas
+           .
+                                                                                     Prueba Matemáticas
+
+
+
+
+Tipos de preguntas                                  presentar una situación, imagen, contexto, texto,
+                                                    entre otros); la formulación de una tarea de
+                                                    evaluación (aquello que se le pide al evaluado
+Esta prueba se compone de preguntas de              realizar), y opciones de respuesta, de las
+selección múltiple con única respuesta,             cuales solo una es válida para responder la
+conformadas por un enunciado (que puede             tarea planteada.
+
+
+
+
+¿Cómo utilizar correctamente
+este cuadernillo?
+Este cuadernillo contiene 50 preguntas, utilizadas en aplicaciones
+anteriores de la prueba Saber 11.º. Con estos ítems podrás
+familiarizarte y conocer un poco más de la prueba de Matemáticas.
+
+
+
+
+                                        ¡Te
+               1                   recomendamos!
+               Leer cada
+               pregunta,
+               analizarla y                                          2
+               seleccionar la
+               opción de
+               respuesta que                                          Luego dirígete al
+               consideres                                             ﬁnal del cuadernillo,
+               acertada.                                              donde encontrarás,
+                                                                      además de las
+                                                                      respuestas correctas,
+                                                                      las aﬁrmaciones para
+                                                                      cada una de las
+                                                                      preguntas. Esto te
+                                                                      permitirá identiﬁcar
+                                                                      las habilidades y
+                                                                      destrezas en las que
+                                                                      debes profundizar
+                                                                      antes de presentar
+                                                                      la prueba Saber 11.º.
+
+
+
+
+                                                                                                   5
+                                                                                 Cuadernillo de preguntas
+           .
+                                                                                       Prueba Matemáticas
+
+
+
+
+Pregunta 1
+
+Cuatro cursos, cada uno con igual número de estudiantes, presentan anualmente una prueba de
+matemáticas. La tabla muestra el puntaje promedio obtenido por cada curso.
+
+                        Promedios de los puntajes en el examen por cursos
+                               Curso            I        II       III      IV
+                          Promedio año
+                                               63       61       50       53
+                          anterior
+                          Promedio año
+                                               65       45       53       54
+                          actual
+
+
+Al revisar los puntajes de la tabla, una persona afirma que hubo un aumento en el puntaje respecto
+al año anterior. Esta afirmación es
+
+
+   A.   Correcta, ya que el promedio de la mayoría de los cursos aumentó respecto al año anterior.
+   B.   Incorrecta, ya que el promedio total en el año anterior es superior al promedio total en el
+        año actual.
+   C.   Correcta, ya que al observar todos los promedios, el mayor corresponde al curso I en el año actual.
+   D.   Incorrecta, ya que se necesita el puntaje de cada estudiante para realizar la comparación.
+
+
+Pregunta 2
+
+Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe que la
+tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este mes, siendo 1 dólar
+equivalente a 4.000 pesos colombianos y que su inversión, en dólares, le dará ganancias del 3 % en
+el mismo periodo. Un amigo le asegura que en pesos sus ganancias también serán del 3 %.
+
+¿La afirmación de su amigo es correcta?
+
+
+   A.   Sí, porque, sin importar las variaciones en la tasa de cambio, la proporción en que aumenta
+        la inversión en dólares es la misma que en pesos.
+   B.   No, porque debería conocerse el valor exacto de la inversión para poder calcular la cantidad
+        de dinero que ganará.
+   C.   Sí, porque el 3 % representa una proporción fija en cualquiera de las dos monedas, puesto
+        que la tasa de cambio permanecerá constante.
+   D.   No, porque el 3 % representa un incremento, que será mayor en pesos colombianos, pues
+        en esta moneda cada dólar representa un valor 4.000 veces mayor.
+                                                                                                       6
+                                                                                    Cuadernillo de preguntas
+                .
+                                                                                          Prueba Matemáticas
+
+
+
+Pregunta 3
+
+Las directivas de un colegio tienen que organizar un viaje a un museo con 140 estudiantes,
+quienes deben dividirse en 3 grupos. Cada grupo irá en una franja diferente, pero el costo total de
+las entradas se asumirá equitativamente por los estudiantes. En la tabla se muestran los horarios
+disponibles, la máxima cantidad de estudiantes y los precios respectivos de cada horario.
+
+
+                                                    Cantidad máxima    Precio entrada por
+                     Franja        Horario
+                                                     de estudiantes        estudiante
+                       1         8:00 - 10:00             50                  $ 35.000
+                       2        10:00 - 12:00             40                  $ 40.000
+                       3        12:00 - 14:00             30                  $ 50.000
+                       4        14:00 - 16:00             60                  $ 45.000
+
+
+Con el fin de que todos los estudiantes asistan y paguen el menor precio, las directivas eligieron las
+franjas 1, 3 y 4. ¿Esta elección garantiza que asistan todos los estudiantes al menor precio posible?
+
+
+   A.     Sí, porque esas franjas suman exactamente 140 estudiantes.
+   B.     No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la franja 3.
+   C.     Sí, porque se incluyó la franja 1 que es la de menor precio por estudiante.
+   D.     No, porque en la franja 3 la cantidad máxima de estudiantes es 30.
+
+
+
+                           RESPONDE LAS PREGUNTAS 4 A 6 DE ACUERDO
+                                CON LA SIGUIENTE INFORMACIÓN
+
+Para capacitar en informática básica a los trabajadores de algunas dependencias de una empresa,
+se contrata una institución que ofrece un plan educativo de 4 módulos (ver Tabla).
+
+
+                                    Capacitación en informática básica
+        Módulo          Nombre del módulo                Intensidad horaria          Valor por hora
+           I               Fundamentación                      40 h                      $ 35.000
+          II            Procesador de texto                    30 h                      $ 30.000
+          III              Hoja de cálculo                     40 h                      $ 40.000
+          IV        Presentación con diapositivas              10 h                      $ 45.000
+
+                           La capacitación de cada módulo se hace con cursos de
+                        mínimo 20 y máximo 30 personas, de la misma dependencia.
+
+
+
+                                                                                                        7
+                                                                          Cuadernillo de preguntas
+               .
+                                                                               Prueba Matemáticas
+
+
+
+
+Pregunta 4
+
+La empresa pagará $4.200.000 por capacitar a los trabajadores de la dependencia “Insumos” en el
+módulo I, ¿cuántos empleados tiene esta dependencia?
+
+
+   A.   Entre 20 y 30 trabajadores.
+   B.   Entre 41 y 60 trabajadores.
+   C.   Entre 61 y 90 trabajadores.
+   D.   Entre 80 y 120 trabajadores.
+
+
+
+Pregunta 5
+
+Si se les cobrara a los 50 trabajadores de la dependencia “Recursos Humanos” la capacitación del
+módulo II, y todos pagaran el mismo valor, ¿cuánto debería pagar cada uno por esa capacitación?
+
+
+   A.   $ 18.000
+   B.   $ 36.000
+   C.   $ 450.000
+   D.   $ 900.000
+
+
+
+Pregunta 6
+
+La empresa paga $ 900.000 por la capacitación de los 40 funcionarios de la dependencia
+“Importaciones”. De acuerdo con el valor pagado, ¿cuál de los siguientes módulos corresponde al
+tomado por la dependencia "Importaciones"?
+
+
+   A.   I.
+   B.   II.
+   C.   III.
+   D.   IV.
+
+
+
+
+                                                                                              8
+                                                                                             Cuadernillo de preguntas
+           .
+                                                                                                  Prueba Matemáticas
+
+
+
+Pregunta 7
+
+La figura muestra el portalápices de Eliécer. Él sabe que es posible colocar un caucho de 18 cm de
+perímetro alrededor de la base sin estirarlo, pero a medida que sube el caucho por el portalápices,
+este se estira hasta que, en la boca del portalápices, su perímetro es 24 cm.
+                                                                    Caucho estirado, en la
+                                                                    boca del portalápices.
+
+
+
+
+                                          Caucho sin estirar, en
+                                        la base del portalápices.
+
+El portalápices tiene base y boca cuadrada, por lo cual Eliécer afirma: “Como los perímetros de la
+                                                  18      3
+base y la boca del portalápices están en relación 24 = 4 , el área de la base debe ser también tres
+cuartas partes del área de la boca del portalápices”. ¿Es verdadera esta afirmación?
+
+
+   A.   No, porque la medición se realiza con el mismo caucho y, por tanto, las áreas de la base y la
+        boca deben ser iguales.
+   B.   Sí, porque el caucho se estira dependiendo del área que encierre, por lo que las relaciones
+        de las áreas y los perímetros son iguales.
+   C.   No, porque la relación obtenida se cumple para las longitudes de los lados, pero al calcular
+        las áreas, la razón obtenida se eleva al cuadrado.
+   D.   Sí, porque como las figuras son semejantes, todas sus medidas deben tener la misma razón
+        que los perímetros.
+
+
+Pregunta 8
+
+Un grupo de montañistas sabe que cada vez que aumenta la altitud en 100 m, la temperatura
+disminuye en 1 °C. Si el grupo se encuentra a una altitud de 1.000 m, donde la temperatura es de
+20 °C, ¿cuál de las siguientes expresiones les permite determinar la temperatura que habrá cuando
+se encuentren a 4.000 m de altitud?
+
+                         Altitud
+   A.   Temperatura =                + 10
+                          100
+
+   B.   Temperatura = − Altitud × 100 + 30
+
+                           Altitud
+   C.   Temperatura = −               + 30
+                            100
+
+   D.   Temperatura = Altitud × 100 + 10
+
+                                                                                                                 9
+                                                                            Cuadernillo de preguntas
+           .
+                                                                                 Prueba Matemáticas
+
+
+
+
+                      RESPONDE LAS PREGUNTAS 9 A 13 DE ACUERDO
+                            CON LA SIGUIENTE INFORMACIÓN
+
+Para transportar mango y banano desde un pueblo cercano a dos ciudades, W y Z, un comerciante
+utiliza tres (3) camiones con capacidad de 5 toneladas cada uno; por cada camión contrata dos
+trabajadores en cada viaje. El comerciante compra a $ 400.000 la tonelada de banano y a
+$ 500.000, la de mango. En la tabla se muestra el precio de venta por tonelada de cada producto y
+los gastos de transporte y de trabajadores para cada ciudad.
+
+
+                    Precio de venta   Precio de venta                           Pago por
+                                                        Costo transporte
+        Ciudad        tonelada de       tonelada de                          trabajador por
+                                                          por camión
+                        banano            mango                                   viaje
+           W         $ 1.000.000       $ 1.300.000        $ 150.000            $ 180.000
+           Z         $ 1.200.000       $ 1.350.000        $ 180.000            $ 200.000
+
+
+
+Pregunta 9
+
+Una persona afirma que para el comerciante es más rentable vender 6 toneladas de mango en la
+ciudad Z que en la ciudad W.
+
+¿Por qué la afirmación de esta persona es correcta?
+
+
+   A.   Porque el dinero recibido en la venta del producto en la ciudad Z es mayor que el recibido
+        en la ciudad W.
+   B.   Porque la diferencia entre el precio de venta por tonelada es mayor que la diferencia entre
+        el costo de transporte por camión.
+   C.   Porque la diferencia entre las ventas totales en cada ciudad es mayor que la diferencia
+        entre los gastos totales.
+   D.   Porque el dinero total gastado en empleados y transporte es mayor en la ciudad W que en
+        la ciudad Z.
+
+
+
+
+                                                                                                  10
+                                                                                 Cuadernillo de preguntas
+           .
+                                                                                      Prueba Matemáticas
+
+
+
+Pregunta 10
+
+Los tres (3) camiones se cargan con 5 toneladas de banano cada uno para venderse en la ciudad W. El
+comerciante necesita conocer la ganancia al hacer este negocio, ejecutando el siguiente procedimiento:
+
+   Paso 1. Halla el número de toneladas de banano que hay en los 3 camiones.
+   Paso 2. Halla la diferencia entre el precio de venta de una tonelada de banano en la ciudad W y
+           el precio de compra.
+   Paso 3. Multiplica los valores hallados en los pasos 1 y 2.
+   Paso 4. Encuentra los costos totales de transporte y le suma el pago total de los trabajadores en
+           los tres viajes.
+   Paso 5. Halla la diferencia entre el valor obtenido en el paso 3 y el paso 4.
+
+¿Cuál es la ganancia que obtiene el comerciante?
+
+
+   A.   $ 5.670.000
+   B.   $ 5.970.000
+   C.   $ 7.470.000
+   D.   $ 8.010.000
+
+
+Pregunta 11
+
+Para diciembre, el comerciante decidió que por cada 5 toneladas del producto transportado en
+camión y vendido en alguna de las ciudades, cada uno de los dos empleados necesarios por camión
+recibirá un bono de 0,3 % del dinero recibido en la venta de esas 5 toneladas. En ese mes, dos
+empleados transportaron y vendieron 47 toneladas de mango a la ciudad W. Para hallar el bono
+recibido por cada uno de ellos, se ejecutó el siguiente procedimiento:
+
+   Paso 1. Se dividió el número de toneladas vendidas entre 5 y se halló su residuo.
+   Paso 2. Se restó del número de toneladas vendidas, el valor obtenido en el paso 1.
+   Paso 3. Se multiplicó el valor obtenido en el paso 2 por el valor de venta de la tonelada del producto.
+   Paso 4. Al valor obtenido en el paso 3, se le sacó el 0,3 %.
+
+¿De que valor fue, aproximadamente, el bono recibido por cada empleado?
+
+
+   A.   526.000 pesos.
+   B.   175.000 pesos.
+   C.   148.000 pesos.
+   D.   87.000 pesos.
+                                                                                                     11
+                                                                             Cuadernillo de preguntas
+           .
+                                                                                  Prueba Matemáticas
+
+
+
+
+Pregunta 12
+
+Si se transportan 7 toneladas de fruta a la ciudad W y 10 toneladas de fruta a la ciudad Z, ¿cuál es
+la gráfica que muestra correctamente la relación de costos por ciudad?
+
+
+  A.                                                     B.
+
+
+
+
+  C.                                                     D.
+
+
+
+
+Pregunta 13
+
+Durante enero, el comerciante vendió 100 toneladas de mango y 50 de banano, y contrató 10
+trabajadores. ¿Qué se puede determinar con esta información?
+
+
+   A.   La ganancia de los productores.
+   B.   El pago que recibirá cada trabajador en enero.
+   C.   Los costos totales del comerciante.
+   D.   El número mínimo de viajes que se realizaron desde el pueblo.
+
+
+
+
+                                                                                                 12
+                                                                           Cuadernillo de preguntas
+           .
+                                                                                 Prueba Matemáticas
+
+
+
+
+Pregunta 14
+
+Si en un rectángulo se aumenta la longitud de uno de sus lados en 100 %, ¿Qué se puede concluir
+de su área?
+
+
+   A.   Aumenta en un 50 %.
+   B.   Se duplica.
+   C.   No cambia.
+   D.   Aumenta en 100 unidades.
+
+
+
+Pregunta 15
+
+Las sombras proyectadas por dos postes paralelos de 10 metros y 5 metros se muestran en la
+figura.
+                                         Poste 1
+
+
+                       10 metros
+                                                          Poste 2
+                                            5 metros
+
+
+
+
+                                                °
+                                            = 30¼
+
+
+
+
+                                                                      Figura
+
+El ángulo entre la acera horizontal y la sombra del poste 1 es α = 30º.
+
+De acuerdo con esto, se puede afirmar que el ángulo entre la acera horizontal y la sombra del poste
+2 es
+
+
+   A.   β = 5°.
+   B.   β = 15°.
+   C.   β = 30°.
+   D.   β = 60°.
+
+                                                                                               13
+                                                                                Cuadernillo de preguntas
+              .
+                                                                                     Prueba Matemáticas
+
+
+
+
+Pregunta 16
+
+Una escuela de natación cuenta con un total de 16 estudiantes. Para las clases se usan 2 piscinas
+con distinta profundidad. Por seguridad, las personas con una estatura inferior a 1,80 m se envían a
+la piscina menos profunda, y las demás, a la más profunda.
+
+Un día, el director de la escuela escucha que el promedio de estatura de las 16 personas es 1,70 m
+e insiste en aumentar la cantidad de alumnos para que el promedio sea 1,80 m, afirmando que de
+esta manera se logrará igualar la cantidad de personas en las dos piscinas. ¿Por qué es errónea la
+afirmación del director?
+
+
+   A.   Porque las 16 personas se encuentran actualmente en la piscina menos profunda. El
+        director de la escuela debe aceptar otros 16 alumnos con una estatura superior a 1,80 m.
+   B.   Porque con el promedio es imposible determinar la cantidad de personas en las piscinas.
+        Es necesario utilizar otras medidas, como la estatura máxima o mínima de las personas, en
+        lugar de esta.
+   C.   Porque incrementar el promedio a 1,80 m es insuficiente. El director de la escuela debe
+        aceptar más estudiantes con una altura de 1,80 m hasta que la cantidad de alumnos sea
+        igual en ambas piscinas.
+   D.   Porque aunque el promedio de estatura de las 16 personas sea inferior a 1,80 m, no
+        significa que la cantidad de personas en las piscinas sea diferente.
+
+
+Pregunta 17
+
+La longitud de las aristas de la caja de la figura son l, a y h.
+
+
+
+                                                                   h
+
+
+
+
+                                                               a
+                                            l                          Figura
+¿Cuál de las siguientes expresiones determina la longitud total de las aristas de la caja?
+
+
+   A.   lah
+   B.   4lah
+   C.   l+a+h
+   D.   4l + 4a + 4h
+                                                                                                   14
+                                                                                    Cuadernillo de preguntas
+             .
+                                                                                         Prueba Matemáticas
+
+
+
+Pregunta 18
+
+Un barco navega entre dos faros, ubicados en la parte inferior de la figura.
+
+                                            Faro superior
+
+                                                                45º 45º
+
+                                                                                1
+
+                                                            x
+
+
+                                  30º                            75º      60º
+
+
+                                                  2
+
+En el instante en que el ángulo formado entre el barco, el faro superior y cualquiera de los otros
+faros es de 45°, ¿cuál es la distancia x entre el faro superior y el barco?
+
+                 2 sen(30º)
+   A.   x=
+                 sen(45º)
+                 2 sen(60º)
+   B.   x=
+                 sen(45º)
+                 sen(60º)
+   C.   x=
+                 sen(75º)
+                 sen(30º)
+   D.   x=
+                 sen(60º)
+
+
+
+Pregunta 19
+
+En una feria robótica, el robot P y el robot Q disputan un juego de tenis de mesa. En el momento
+que el marcador se encuentra 7 a 2 a favor del robot P, estos se reprograman de tal forma que por
+cada 2 puntos que anota el robot P, el robot Q anota 3. ¿Cuál de las siguientes ecuaciones permite
+determinar cuándo igualará en puntos el robot Q al robot P?
+
+        3
+   A.      x = 0. Donde x es la cantidad de puntos que anotará P.
+        2
+                3
+   B.   7 + x = x + 2. Donde x es la cantidad de puntos que anotará P.
+                2
+   C.   7 + 3x = 2 + 2y. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de
+        puntos que anotará Q.
+   D.   x + y = 7 + 2. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos
+        que anotará Q.
+
+                                                                                                       15
+                                                                            Cuadernillo de preguntas
+           .
+                                                                                 Prueba Matemáticas
+
+
+
+Pregunta 20
+
+La tabla presenta la información sobre el gasto en publicidad y las ganancias de una empresa
+durante los años 2020 a 2022.
+
+                      Año       Gasto en publicidad*       Ganancia obtenida*
+                     2020                200                      8.000
+                     2021                280                      10.400
+                     2022                250                      9.500
+                                   *Datos en millones de pesos.
+¿Cuál es la función que representa la ganancia obtenida G, en millones de pesos, en función del
+gasto en publicidad p?
+
+
+   A.   G(p) = 30p + 2.000
+   B.   G(p) = 10p
+   C.   G(p) = 40p
+   D.   G(p) = 40p − 800
+
+
+Pregunta 21
+
+En una tienda se venden mesas a $ 40.000 y sillas a $ 20.000. El dueño de la tienda olvidó registrar
+la cantidad total de mesas y sillas que se vendieron, pero sabe que los ingresos por ventas del
+mes fueron de $ 1.400.000 y que se vendieron 3 veces más sillas que mesas. Para determinar
+la cantidad vendida de cada artículo, siendo M la cantidad de mesas y S la de sillas vendidas,
+representó la información con las siguientes ecuaciones:
+
+   Ecuación 1. 40.000M + 20.000S = 1.400.000
+   Ecuación 2. M = 3S
+
+¿Las ecuaciones representan correctamente la situación?
+
+
+   A.   No, porque aunque la ecuación 1 relaciona cada precio con la variable adecuada de forma
+        correcta, la ecuación 2 significa que se venden 3 veces más mesas que sillas.
+   B.   Sí, porque la ecuación 1 relaciona cada precio con la variable adecuada y la ecuación 2 tiene
+        en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas.
+   C.   No, porque aunque la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor
+        que la de mesas, en la ecuación 1 los precios deberían estar dividiendo y no multiplicando.
+   D.   Sí, porque al solucionar las dos ecuaciones se obtiene un número entero, lo cual es
+        consistente con las condiciones iniciales del problema.
+
+                                                                                                  16
+                                                                              Cuadernillo de preguntas
+             .
+                                                                                    Prueba Matemáticas
+
+
+
+
+Pregunta 22
+
+La línea punteada en la figura muestra un corte realizado a un triángulo. El corte es paralelo a la
+base y corta por la mitad a la altura, h, que es perpendicular a la base.
+
+
+
+
+                                                                                           h
+Para realizar el corte, se determinó la altura del triángulo usando la fórmula sen(45°) =     ; luego
+                                                                                          120
+se dividió h entre dos. Realizando este procedimiento, y teniendo en cuenta que
+sen(45°) = √2 ≈ 0,71, ¿cuál fue, aproximadamente, la distancia a la que se cortó la altura del
+             2
+triángulo?
+
+
+   A.   85 cm.
+   B.   60 cm.
+   C.   42 cm.
+   D.   30 cm.
+
+
+Pregunta 23
+
+Un cartabón es una plantilla que se utiliza en dibujo técnico y que tiene forma de triángulo
+rectángulo escaleno, de modo que su hipotenusa mide el doble del cateto de menor longitud.
+
+
+
+
+Si el cateto más largo de un cartabón mide 32 centímetros, como muestra la figura, ¿cuál de las
+siguientes medidas corresponde a su cateto menor?
+
+
+   A.   16 cm.
+        32
+   B.       cm.
+        √3
+   C.   27 cm.
+        64
+   D.            cm.
+        √3
+                                                                                                      17
+                                                                                 Cuadernillo de preguntas
+           .
+                                                                                      Prueba Matemáticas
+
+
+
+Pregunta 24
+
+Una profesora de Matemáticas le entrega a sus estudiantes un cuadrado cuya área es 1 dm2. En el
+cuadrado se encuentra la construcción de la Figura 1.
+                                             Q
+
+
+
+
+                                     P                   R
+
+
+
+
+                                             S                Figura 1
+P, Q, R y S son los puntos medios de cada lado.
+
+La profesora le pide a sus estudiantes que calculen el área del paralelogramo sombreado, para lo
+cual Eloísa razona de la siguiente manera: “Si se mueven los triángulos de las esquinas es posible
+obtener una figura con cuatro paralelogramos congruentes al sombreado”. En la Figura 2 se
+muestra la construcción hecha por Eloísa.
+                                             Q
+
+
+
+                                         P           R
+
+
+
+                                             S
+
+                                                             Figura 2
+Eloísa concluye: “Como el área de esta figura es igual al área del cuadrado inicial, cada
+paralelogramo tiene un área de 1 dm2”.
+                                 4
+
+Al ver la solución de Eloísa, la profesora le dice: “Excelente idea; usa una estrategia similar para
+hallar fácilmente el área del cuadrado sombreado en la Figura 3. Recuerda que el cuadrado grande
+tiene 1 dm2 de área”.                            Q
+
+
+
+
+                                      P                  R
+
+
+
+
+                                                 S           Figura 3
+
+¿Cuál es el área del cuadrado sombreado en la Figura 3?
+
+                 1                                                       1
+                   dm
+               A.						B.
+                     2
+                                                                           dm2
+                 9                                                       8
+
+                 1                                                       1
+                   dm2
+               C.						D.                                                  dm2
+                 6                                                       5
+
+
+                                                                                                    18
+                                                                            Cuadernillo de preguntas
+             .
+                                                                                    Prueba Matemáticas
+
+
+
+
+Pregunta 25
+
+El sistema de comunicaciones de un hotel utiliza los dígitos 2, 3, 4 y 5 para asignar un número de
+extensión telefónica de 4 dígitos diferentes a cada habitación. ¿Cuántas habitaciones del hotel
+pueden tener extensión telefónica?
+
+
+   A.   24
+   B.   56
+   C.   120
+   D.   256
+
+
+
+Pregunta 26
+
+A continuación, se muestran los resultados de una encuesta que indagó sobre el parque automotor
+del transporte intermunicipal en Colombia.
+
+
+
+
+Según la información anterior, ¿cuál de las siguientes afirmaciones es verdadera?
+
+
+   A.   La mayor parte del parque automotor son automóviles, camionetas y camperos.
+   B.   La mitad del parque automotor corresponde a automóviles, camionetas y camperos.
+   C.   La mayor parte del parque automotor son buses, microbuses y busetas.
+   D.   La mitad del parque automotor corresponde a buses, microbuses y busetas.
+
+
+
+
+                                                                                                 19
+                                                                            Cuadernillo de preguntas
+              .
+                                                                                 Prueba Matemáticas
+
+
+
+
+Pregunta 27
+
+Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50
+segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el
+récord olímpico pero no el mundial?
+
+
+   A.   Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los
+        dos tiempos récord.
+   B.   Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord.
+   C.   No, porque no existe un registro posible entre los dos tiempos récord.
+   D.   No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord
+        mundial.
+
+
+
+Pregunta 28
+
+En una institución educativa hay dos cursos en grado undécimo. El número de hombres y mujeres
+de cada curso se relaciona en la tabla:
+
+
+                                            Curso 11A    Curso 11B      Total
+                    Número de mujeres           22           23          45
+                    Número de hombres           18           12          30
+                    Total                       40           35          75
+
+
+La probabilidad de escoger un estudiante de grado undécimo, de esta institución, que sea mujer es
+de 3 . Si se sabe que uno de los valores de esta razón es el número total de mujeres, ¿Cuál es el
+    5
+otro valor?
+
+
+   A.   El número total de estudiantes de grado undécimo.
+   B.   El número total de hombres de grado undécimo.
+   C.   El número total de mujeres del curso 11 B.
+   D.   El número total de hombres del curso 11 A.
+
+
+
+
+                                                                                               20
+                                                                            Cuadernillo de preguntas
+           .
+                                                                                 Prueba Matemáticas
+
+
+
+Pregunta 29
+
+Para fijar un aviso publicitario se coloca sobre un muro una escalera a 12 metros del suelo como se
+muestra en las siguientes figuras. Observa.
+
+
+
+
+¿Cuál es el coseno del ángulo θ que forman el suelo y la escalera?
+
+                 12   12   5     13
+               A.			B.			C.			D.
+                  13                         5                 13                    5
+
+
+Pregunta 30
+
+En la tabla se presentan las cartas que conforman una baraja de póquer.
+
+
+
+
+Si la probabilidad de escoger una carta que cumpla dos características determinadas es cero,
+¿cuáles características podrían ser?
+
+
+   A.   Ser una carta negra y ser un número par.
+   B.   Ser una carta roja y ser de picas.
+   C.   Ser una carta de corazones y ser un número impar.
+   D.   Ser una carta roja K y ser de diamantes.
+                                                                                               21
+                                                                              Cuadernillo de preguntas
+           .
+                                                                                   Prueba Matemáticas
+
+
+
+
+Pregunta 31
+
+Un profesor de Matemáticas les pide a sus estudiantes solucionar la siguiente ecuación:
+                                      (x + 2)(x + 3) = 5(x + 3).
+María, Nelson y Óscar realizan, cada uno, los siguientes procedimientos:
+
+
+                   María                       Nelson                         Óscar
+           x2 + 5x + 6 = 5x + 15       (x + 2)(x + 3) − 5(x + 3) = 0   x+2+x+3=5+x+3
+                x2 + 6 = 15                 (x + 3)[(x + 2) − 5] = 0      2x + 5 = x + 8
+                   x2 = 15 − 6                    (x + 3)(x − 3) = 0      2x − x = 8 − 5
+                    x2 = 9                                x2 − 9 = 0           x=3
+                    x = ±3                                    x2 = 9
+                                                             x = ±3
+
+
+¿Cuál(es) estudiante(s) desarrolló(aron) un procedimiento correcto para solucionar la ecuación?
+
+
+   A.   Solo Nelson y Óscar.
+   B.   Solo María y Nelson.
+   C.   Solamente Óscar.
+   D.   Solamente María.
+
+
+Pregunta 32
+
+Un trapecio isósceles es un trapecio cuyos lados no paralelos son congruentes.
+
+En un plano cartesiano se dibuja un trapecio isósceles de modo que el eje y divide al trapecio en dos
+figuras iguales.
+
+Si las coordenadas de dos de los vértices del trapecio son (−4, 2) y (−2, 8), ¿cuáles son las
+coordenadas de los otros dos vértices?
+
+
+   A.   (8, 2) y (2, 4).
+   B.   (2, 8) y (4, 2).
+   C.   (−2, –4) y (−8, −2).
+   D.   (−4, −2) y (−2, −8).
+
+
+
+
+                                                                                                  22
+                                                                              Cuadernillo de preguntas
+             .
+                                                                                   Prueba Matemáticas
+
+
+
+
+Pregunta 33
+
+En una fábrica se aplica una encuesta a los empleados para saber el medio de transporte que usan
+para llegar al trabajo, y luego decidir si se implementa un servicio de ruta. Los resultados mostraron,
+entre otras, estas tres conclusiones sobre un grupo de 100 empleados que viven cerca de la fábrica
+y que se desplazan únicamente en bus o a pie:
+
+     »   El 60 % del grupo son mujeres.
+     »   El 20 % de las mujeres se desplazan en bus.
+     »   El 40 % de los hombres se desplazan caminando.
+
+¿Cuál de las siguientes tablas representa correctamente la información obtenida de ese grupo?
+
+
+A.
+
+
+
+
+B.
+
+
+
+
+C.
+
+
+
+
+D.
+
+
+
+
+                                                                                                  23
+                                                                               Cuadernillo de preguntas
+           .
+                                                                                    Prueba Matemáticas
+
+
+Pregunta 34
+
+Una regla usada en física indica que, para aumentar el nivel de intensidad del sonido en 10 dB
+(dB es decibelios, la unidad de medida del nivel de intensidad del sonido), es necesario que la
+intensidad medida se multiplique por 10. Ramiro es el encargado de aumentar en 20 dB la medida
+del nivel de intensidad del sistema de sonido de un evento y, según su interpretación de la regla,
+multiplica por 20 la intensidad actual del sistema. ¿Es correcta su interpretación?
+
+
+   A.   No, porque la regla no considera aumentos de 20 dB, solamente de 10 dB; no hay
+        consideraciones para aumentos mayores.
+   B.   Sí, porque la regla presentada indica que para aumentar en x unidades el nivel de la medida
+        de intensidad se agrega x a la intensidad.
+   C.   No, porque aumentar 20 dB equivale a aumentar 10 dB dos veces, es decir, multiplicar por
+        10 la intensidad dos veces; en total, multiplicar por 100.
+   D.   Sí, porque el resultado de multiplicar dos veces por 10 la intensidad es multiplicarla por 20;
+        así, se ahorra un paso y obtiene el resultado correcto.
+
+
+Pregunta 35
+
+En una librería se ofrece un descuento del 10 % sobre el precio original de todos los libros impresos.
+Juan tiene un cupón de descuento adicional del 10 % sobre el precio de venta, el cual incluye el
+descuento inicial. Para saber cuánto debe pagar por un libro cuyo precio original es de $ 50, Juan
+efectúa el siguiente procedimiento:
+
+   Paso 1. Multiplica el precio original del libro por 9.
+   Paso 2. Divide el resultado del paso 1 entre 10.
+   Paso 3. Multiplica el resultado del paso 2 por 10.
+   Paso 4. Divide el resultado del paso 3 entre 100.
+
+¿En cuál paso del procedimiento hay un error?
+
+
+   A.   En el paso 1, porque el precio de venta es el 90 % del precio original, por tanto, debe
+        multiplicarse por 90 y no por 9.
+   B.   En el paso 3, porque el precio final es el 90 % del precio de venta, por tanto, debe
+        multiplicarse por 90 y no por 10.
+   C.   En el paso 2, porque para calcular el precio al aplicar un porcentaje de descuento es
+        necesario dividir entre 100 y no entre 10.
+   D.   En el paso 4, porque solo es necesario dividir una vez para calcular el precio final; es
+        suficiente con la división del paso 2.
+                                                                                                   24
+                                                                                Cuadernillo de preguntas
+            .
+                                                                                       Prueba Matemáticas
+
+
+
+
+Pregunta 36
+
+En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que al sacar una bola al
+azar, los tres colores tienen la misma probabilidad de salir. ¿Es verdadera esta afirmación?
+
+
+   A.   Sí, pues el número de bolas de cada color no importa.
+   B.   No, pues no se sabe el número total de bolas en la bolsa.
+   C.   No, pues hay más bolas de un color que de los otros dos.
+   D.   Sí, pues las bolas están repartidas de igual manera.
+
+
+Pregunta 37
+
+Sobre una circunferencia de centro O se localizan dos puntos P y P’ diferentes.
+
+De las siguientes, ¿cuál figura NO puede resultar al unir entre sí los tres puntos P, P’ y O?
+
+
+   A.   Un triángulo isósceles.
+   B.   Un radio de la circunferencia.
+   C.   Un triángulo equilátero.
+   D.   Un diámetro de la circunferencia.
+
+
+Pregunta 38
+
+Carolina administra una pizzería y, registró en una tabla la información correspondiente a los
+pedidos realizados por los 110 clientes que entraron a la pizzería el domingo.
+
+                           Clientes que eligieron bebida caliente                20
+                             Clientes que eligieron bebida fría                  40
+                                  Clientes que eligieron pizza                   100
+                    Clientes que eligieron bebida caliente y bebida fría          0
+Con la información de la tabla, ¿cuáles de los siguientes datos se pueden calcular?
+
+
+   A.   El total de clientes que eligieron pizza y también bebida caliente.
+   B.   El total de clientes que eligieron pizza o bebida caliente.
+   C.   El total de clientes que solo eligieron pizza.
+   D.   El total de clientes que solo eligieron bebida fría.
+
+                                                                                                    25
+                                                                              Cuadernillo de preguntas
+           .
+                                                                                   Prueba Matemáticas
+
+
+
+
+Pregunta 39
+
+Un sistema de información requiere que los usuarios ingresen una contraseña de solo tres
+caracteres de entre las 26 letras posibles, en minúscula o mayúscula y los 10 dígitos del 0 al 9. Un
+ingeniero propone las siguientes posibles restricciones para la contraseña:
+
+   Restricción R1: utilizar tres dígitos cualesquiera.
+   Restricción R2: utilizar tres dígitos distintos.
+   Restricción R3: utilizar una letra mayúscula, luego una minúscula y al final un dígito.
+   Restricción R4: utilizar una letra cualquiera, mayúscula o minúscula, y luego dos dígitos.
+
+Si se calcula el número de posibles contraseñas de acuerdo con cada una de las restricciones, ¿cuál
+es el orden de las restricciones, de menor a mayor, según el número de posibles contraseñas?
+
+
+   A.   R1, R2, R4 y R3.
+   B.   R1, R2, R3 y R4.
+   C.   R2, R1, R4 y R3.
+   D.   R2, R3, R1 y R4.
+
+
+
+Pregunta 40
+
+Se puede encontrar números racionales mayores que un número entero k, de manera que sean
+cada vez más cercanos a él, calculando k + 1 (con j entero positivo). Cuanto más grande sea j, más
+                                             j
+cercano a k será el racional construido. ¿Cuántos números racionales se pueden construir cercanos
+a k y menores que k + 1 ?
+                           11
+
+   A.   10, que es la cantidad de racionales menores que 11.
+   B.   Una cantidad infinita, pues existen infinitos números enteros mayores que 11.
+   C.   11, que es el número que equivale en este caso a j.
+   D.   Uno, pues el racional más cercano a k se halla con j = 10, es decir, con k + 0,1.
+
+
+
+
+                                                                                                 26
+                                                                                        Cuadernillo de preguntas
+           .
+                                                                                              Prueba Matemáticas
+
+
+
+
+Pregunta 41
+
+Un terreno con forma triangular se debe encerrar, cumpliendo con los siguientes requerimientos:
+
+   Requerimiento 1. Uno de sus ángulos interiores debe ser de 90°.
+   Requerimiento 2. Dos lados deben medir 7 metros y el otro debe medir 18 metros.
+   Requerimiento 3. Uno de sus ángulos interiores debe ser menor que 45°.
+   Requerimiento 4. La suma de sus ángulos interiores debe ser de 180°.
+
+¿Cuál de los requerimientos es imposible de cumplir?
+
+
+   A.   Requerimiento 1.
+   B.   Requerimiento 2.
+   C.   Requerimiento 3.
+   D.   Requerimiento 4.
+
+
+Pregunta 42
+
+En la figura se representa una cancha de fútbol con las medidas de sus lados.
+
+
+
+                                 60 metros
+
+
+
+
+                                                    100 metros       Figura
+Un arquitecto realiza una maqueta del diseño de la cancha, con medida de los lados cien veces
+menor que las medidas originales. ¿Cuál de los siguientes diseños representa correctamente las
+medidas de la maqueta?
+
+          A.						 B.
+               6 x 10-2 metros                                   6 x 10-2 centímetros
+
+
+
+
+                                  1 x 10-2 metros                                          1 x 10-2 centímetros
+
+
+
+
+          C.						 D.
+               6 x 101 metros                                    6 x 101 centímetros
+
+
+
+
+                                   1 x 102 metros                                         1 x 102 centímetros
+
+                                                                                                                  27
+                                                                                       Cuadernillo de preguntas
+               .
+                                                                                               Prueba Matemáticas
+
+
+
+
+Pregunta 43
+
+El área de los rectángulos que se pueden construir a partir del origen, los ejes y un punto que
+pertenece a la gráfica de la función f(x) = 5 , donde x > 0, se describe con la expresión Ax = xf(x).
+                                                    x
+                                      y   f
+                                     8
+                                     7
+                                     6
+                                     5
+                                     4
+                                     3
+                                     2
+                                     1
+
+                                          1 2 3 4 5     6 7 8 9 10 11 12 13
+                                                                                   x
+
+¿Cuál de las siguientes gráficas corresponde a Ax?
+
+
+       y
+    A.						                                                B.        y
+           10                                                         7
+                                                                      6
+                   8
+                                                                      5
+                   6                                                  4
+                                                                      3
+                   4
+                                                                      2
+                   2                                                  1
+                                                    x             -1-1
+                                                                                                         x
+          -2            2   4   6   8 10 12 14 16                          1 2 3 4 5 6 7 8 9
+               -2
+
+
+
+
+       y
+    C.						                                                D.        y
+                                                                      5
+           10
+                                                                      4
+           8
+                                                                      3
+           6
+           4                                                          2
+
+           2                                                          1
+
+         -2            2 4 6 8 10 12 14 16 18
+                                                    x                                                    x
+                                                                 -1        1   2   3   4   5     6   7
+           -2                                                         -1
+
+
+
+
+                                                                                                             28
+                                                                          Cuadernillo de preguntas
+             .
+                                                                               Prueba Matemáticas
+
+
+
+
+Pregunta 44
+
+En un parque hay una rueda giratoria de 3 m de radio. La rueda está diseñada para 10 personas,
+cada una en un sector circular de igual área, como muestra la figura.
+
+
+
+
+Para determinar el área que le corresponde a cada persona, se divide 2π entre 10 lo que determina
+el ángulo θ de cada sector y se usa la fórmula del área de un sector circular S:
+
+					                                       S = r2 θ
+                                                   2
+
+donde r es el radio de la circunferencia.
+
+Utilizando una aproximación de π = 3, ¿cuál es el área aproximada que le corresponde a cada
+persona?
+
+
+   A.   3,6 m2
+   B.   2,7 m2
+   C.   9,0 m2
+   D.   1,8 m2
+
+
+Pregunta 45
+
+Un colegio necesita enviar 5 estudiantes como representantes a un foro sobre la contaminación del
+medio ambiente. Se decidió que 2 estudiantes sean de grado décimo y 3 de grado undécimo. En
+décimo hay 5 estudiantes preparados para el foro y en undécimo hay 4. ¿Cuántos grupos diferentes
+pueden formarse para enviar al foro?
+
+
+   A.   9
+   B.   14
+   C.   20
+   D.   40
+
+                                                                                              29
+                                                                             Cuadernillo de preguntas
+           .
+                                                                                  Prueba Matemáticas
+
+
+
+
+Pregunta 46
+
+En una feria, un niño recibe como premio una consola de videojuegos si gana en cada uno de los
+siguientes juegos:
+
+   Juego 1. Gana si al lanzar un dado obtiene un número par (la probabilidad de ganar es de 1 ).
+                                                                                             2
+   Juego 2. Gana si logra sacar la única pelota amarilla que hay en una bolsa que contiene 6
+   pelotas en total (la probabilidad de ganar es de 1 ).
+                                                    6
+
+Para hallar la probabilidad de ganar la consola de videojuegos se proponen los siguientes
+procedimientos:
+
+   Procedimiento 1. Sumar las probabilidades de ganar en los dos juegos.
+   Procedimiento 2. Multiplicar las probabilidades de ganar en los dos juegos.
+   Procedimiento 3. Restarle a 1 la probabilidad de perder en al menos uno de los dos juegos.
+   Procedimiento 4. Restarle a 1 la probabilidad de perder exactamente en un juego.
+
+¿Cuáles de los anteriores procedimientos permiten hallar la probabilidad de ganar la consola de
+videojuegos?
+
+
+   A.   1 y 3.
+   B.   1 y 4.
+   C.   2 y 3.
+   D.   2 y 4.
+
+
+Pregunta 47
+                     I
+La expresión 103 =     relaciona la sonoridad de un sonido de 30 decibeles con su intensidad (I) y la
+                    IO
+menor intensidad (IO) que percibe el oído humano. ¿Cuántas veces es el valor de I respecto a IO?
+
+
+   A.   Una milésima.
+   B.   Un tercio.
+   C.   Tres veces.
+   D.   Mil veces.
+
+
+
+
+                                                                                                  30
+                                                                           Cuadernillo de preguntas
+           .
+                                                                                Prueba Matemáticas
+
+
+
+
+Pregunta 48
+
+Entre los 16 estudiantes de un salón de clases se va a rifar una boleta para ingresar a un parque
+de diversiones. Cada estudiante debe escoger un número del 3 al 18. El sorteo se efectúa de la
+siguiente manera: se depositan 6 balotas en una urna, cada una numerada del 1 al 6; se extrae
+una balota, se mira el número y se vuelve a depositar en la urna. El experimento se repite dos
+veces más. La suma de los tres puntajes obtenidos determina el número ganador de la rifa. Si en la
+primera extracción del sorteo se obtuvo 2, ¿por qué es más probable que el estudiante que escogió
+el número 10 gane la rifa a que la gane el estudiante con el número 7?
+
+
+   A.   Porque al ser mayor el número escogido, es mayor la probabilidad de ganar.
+   B.   Porque el primer estudiante tiene una posibilidad más de ganar que el segundo.
+   C.   Porque es más probable seguir obteniendo números pares.
+   D.   Porque es mayor la diferencia entre 10 y 18 que entre 2 y 7.
+
+
+
+Pregunta 49
+
+En determinada zona de una ciudad se construyen edificios de apartamentos en los que cada
+metro cuadrado tiene un costo de $ 800.000, y se asegura a los compradores que en esta zona
+anualmente, el metro cuadrado se valoriza un 5 % respecto al costo del año anterior. ¿Con cuál de
+las siguientes expresiones se representa el costo de un metro cuadrado en esa zona, transcurridos
+n años?
+
+
+   A.   800.000 + 5n
+   B.   800.000 (5n)
+                   5   n
+   C.   800.000 100
+                        5 n
+   D.   800.000 1 +
+                       100
+
+
+
+
+                                                                                              31
+                                                                                              Cuadernillo de preguntas
+             .
+                                                                                                    Prueba Matemáticas
+
+
+
+
+Pregunta 50
+
+Alfonso tiene tres empaques para almacenar dulces. Los empaques y las medidas de estos se
+muestran en la figura.
+
+
+        1. Un cilindro cuya altura es h = 2,   2. Una caja de base cuadrada,          3. Una esfera con radio
+                                        3      cuya altura es h = 2 y el lado de la       3
+        y el radio de la base mide r =     .                                          r=    .
+                                        2                      3                          2
+                                               base mide L =     .
+                                                               2
+
+                                                                   L
+                                                              L
+                                                                                                     r
+
+                      h                                                h
+
+
+                          r
+
+
+
+
+¿Cuál de las siguientes afirmaciones es verdadera respecto al volumen de los tres empaques?
+
+
+   A.    El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera
+         es igual que el volumen del cilindro.
+   B.    El volumen del cilindro es igual que el volumen de la caja; además, el volumen de la esfera
+         es mayor que el volumen del cilindro.
+   C.    El volumen del cilindro es menor que el volumen de la caja; además, el volumen de la esfera
+         es igual que el volumen del cilindro.
+   D.    El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera
+         es mayor que el volumen del cilindro.
+
+
+
+
+                                                                                                                 32
+                                      Cuadernillo de preguntas
+  .
+                                           Prueba Matemáticas
+
+
+
+
+Tabla de respuestas correctas
+      Posición   Respuesta correcta
+         1               B
+         2               C
+         3               B
+         4               C
+         5               B
+         6              D
+         7               C
+         8               C
+         9               C
+        10               C
+        11               B
+        12               B
+        13              D
+        14               B
+        15               C
+        16              D
+        17              D
+        18               C
+        19               B
+        20              A
+        21              A
+        22               C
+        23               B
+        24              D
+
+
+
+
+                                                         33
+                                    Cuadernillo de preguntas
+.
+                                         Prueba Matemáticas
+
+
+
+
+    Posición   Respuesta correcta
+      25              A
+      26               C
+      27              A
+      28              A
+      29               C
+      30               B
+      31               B
+      32               B
+      33              D
+      34               C
+      35               B
+      36               C
+      37               B
+      38               C
+      39               C
+      40               B
+      41               B
+      42              D
+      43               B
+      44               B
+      45              D
+      46               C
+      47              D
+      48               B
+      49              D
+      50              A
+
+
+
+
+                                                       34
+Calle 26 N.º 69-76, Torre 2, Piso 16, Edificio Elemento,
+Bogotá D. C., Colombia www.icfes.gov.co
+Líneas de atención al ciudadano: Bogotá D. C.,
+Tel.: (60+1) 915 6101 I PBX: (60+1) 915 6101
+

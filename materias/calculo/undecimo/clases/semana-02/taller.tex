@@ -1,0 +1,98 @@
+% =====================================================================
+% Taller 2 -- Cálculo 11° -- Trimestre I -- Semana 02 (sesión 003, lun 10 ago.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Taller}
+\asignatura{Cálculo}
+\titulo{Taller 2: propiedades de las operaciones}
+\grado{11°}
+\periodo{I}
+\tiempo{35 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencia: describe propiedades de los números y las operaciones que son comunes y
+%      diferentes en los distintos sistemas numéricos.
+% Recurso: recursos/matematicas/Guías pedagógicas Matemáticas/08 - Modulo_Matematicas_Octavo.docx
+%      (Tema 1: la propiedad distributiva como área de un rectángulo) — punto 2
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. Cuando una propiedad no se cumpla, muéstralo con un ejemplo concreto
+(un contraejemplo).
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta[1] Completa la tabla con ✓ (se cumple) o ✗ (no se cumple).
+\begin{center}
+{\renewcommand{\arraystretch}{1.6}
+\begin{tabular}{|p{8.6cm}|c|c|c|}
+  \hline
+  & \makebox[1.4cm]{$\N$} & \makebox[1.4cm]{$\Z$} & \makebox[1.4cm]{$\Q$}\\\hline
+  La resta de dos números del conjunto queda en el conjunto & & & \\\hline
+  La división (divisor $\neq 0$) queda en el conjunto & & & \\\hline
+  Todo número tiene opuesto en el conjunto & & & \\\hline
+  Todo número $\neq 0$ tiene inverso multiplicativo en el conjunto & & & \\\hline
+\end{tabular}}
+\end{center}
+\begin{solucion}
+Resta: ✗ ✓ ✓. División: ✗ ✗ ✓. Opuesto: ✗ ✓ ✓. Inverso multiplicativo: ✗ ✗ ✓.
+\end{solucion}
+
+\pregunta[1] La propiedad distributiva con áreas.
+\begin{opciones}
+  \item Explica con el dibujo por qué $6 \cdot (10 + 4) = 6 \cdot 10 + 6 \cdot 4$.
+  \item Usa la misma idea para calcular mentalmente $7 \cdot 98 = 7 \cdot (100 - 2)$.
+\end{opciones}
+\begin{center}
+\begin{tikzpicture}[thick]
+  \draw (0,0) rectangle (5,1.6);
+  \draw (3.57,0) -- (3.57,1.6);
+  \node[below] at (1.79,0) {$10$};
+  \node[below] at (4.29,0) {$4$};
+  \node[left] at (0,0.8) {$6$};
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[2.5cm]
+a) El área total, $6 \cdot 14 = 84$, es la suma de las áreas de las dos partes:
+$60 + 24 = 84$. b) $7 \cdot 100 - 7 \cdot 2 = 700 - 14 = 686$.
+\end{solucion}
+
+\pregunta[1] Laura calculó $12 \div (3 \cdot 2) = 12 \div 3 \cdot 2 = 4 \cdot 2 = 8$.
+¿Dónde está el error? ¿Qué propiedad supuso que tiene la división? Da el resultado correcto.
+\renglones{3}
+\begin{solucion}
+Quitó el paréntesis como si la división fuera asociativa, y no lo es. Correcto:
+$12 \div 6 = 2$.
+\end{solucion}
+
+\pregunta[1] Opera y simplifica:
+\begin{opciones*}(3)
+  \item $\dfrac{2}{3} + \dfrac{5}{6}$
+  \item $\left(-\dfrac{3}{4}\right) \cdot \dfrac{8}{9}$
+  \item $\left(\dfrac{1}{2} - \dfrac{1}{3}\right) \div \dfrac{5}{6}$
+\end{opciones*}
+\begin{solucion}[3cm]
+a) $\frac{4}{6} + \frac{5}{6} = \frac{9}{6} = \frac{3}{2}$. b) $-\frac{24}{36} = -\frac{2}{3}$.
+c) $\frac{1}{6} \cdot \frac{6}{5} = \frac{1}{5}$.
+\end{solucion}
+
+\pregunta[1] Una receta de pandebono usa $\frac{3}{4}$ de taza de almidón por cada 2 tazas de
+queso. Si tienes 5 tazas de queso, ¿cuánto almidón necesitas? Da la respuesta como fracción y
+como número mixto.
+\espacio{3cm}
+\begin{solucion}
+$\frac{3}{4} \cdot \frac{5}{2} = \frac{15}{8} = 1\frac{7}{8}$ tazas.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

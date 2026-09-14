@@ -1,0 +1,1069 @@
+COLEGIO SAN ALBERTO MAGNO
+MALLA CURRICULAR
+ÁREA DE MATEMÁTICAS — COMPONENTE GEOMÉTRICO-MÉTRICO
+GRADO QUINTO (5°) — CICLO III
+Modelo pedagógico holístico-transformador de enfoque constructivista
+Organización en tres (3) periodos académicos
+Año lectivo: [2026-2027]     Docente: [MARIA MERCEDES CANTILLO A]     Sede/Jornada: [MAÑANA]
+
+1. Marco de referencia normativo y pedagógico
+Esta malla curricular se construye articulando los siguientes referentes de la Secretaría de Educación y el Ministerio de Educación Nacional (MEN). Se recomienda verificar y ajustar los referentes ante la normativa vigente y los lineamientos particulares de la Secretaría de Educación de su entidad territorial.
+• Ley General de Educación (Ley 115 de 1994) y Ley 1098 de 2006 (Código de Infancia y Adolescencia).
+• Lineamientos Curriculares de Matemáticas (MEN, 1998) y Estándares Básicos de Competencias en Matemáticas (MEN, 2006): pensamiento espacial y sistemas geométricos.
+• Derechos Básicos de Aprendizaje (DBA) de Matemáticas V2 — Grado Quinto, como referente de los aprendizajes estructurantes por periodo.
+• Decreto 1290 de 2009: evaluación del aprendizaje y promoción de los estudiantes, base del Sistema Institucional de Evaluación (SIEE).
+• Decreto 1421 de 2017: reglamenta la atención educativa a la población con discapacidad y el Plan Individual de Ajustes Razonables (PIAR).
+• Diseño Universal para el Aprendizaje (DUA): principios de representación, acción-expresión y motivación/compromiso, orientados por el MEN para la educación inclusiva.
+• Reorganización Curricular por Ciclos (RCC): el grado 5° se ubica en el Ciclo III (grados 5°, 6° y 7°), etapa de tránsito entre básica primaria y básica secundaria, orientada a procesos de indagación, profundización conceptual y mayor autonomía del estudiante. Ajustar la impronta y los ejes de desarrollo del ciclo según el documento vigente de la Secretaría de Educación de su territorio.
+• Proyecto Educativo Institucional (PEI) con modelo pedagógico holístico-transformador y enfoque constructivista: el estudiante construye su conocimiento a partir de la experiencia, la interacción social y la resolución de problemas contextualizados, integrando las dimensiones cognitiva, socioafectiva, corporal y valorativa del desarrollo humano.
+1.1 Principios metodológicos del modelo holístico-transformador constructivista aplicados a la geometría
+• Aprendizaje significativo y situado: la geometría se aborda a partir de situaciones reales del entorno del estudiante (colegio, barrio, ciudad).
+• Construcción activa del conocimiento: manipulación de material concreto (geoplanos, tangram, cuerpos geométricos) antes de la formalización simbólica.
+• Aprendizaje colaborativo: trabajo en equipos heterogéneos, tutoría entre pares y diálogo como mediador del aprendizaje.
+• Integralidad (visión holística): articulación de la geometría con el arte, la cultura, la tecnología y el proyecto de vida del estudiante.
+• Evaluación formativa y por competencias: uso de rúbricas, portafolios, autoevaluación, coevaluación y heteroevaluación.
+
+2. PERIODO ACADÉMICO I — Ubicación espacial y clasificación de figuras planas
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Ubicación espacial y sistemas de referencia
+Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia.
+Ubica objetos en el plano y en el espacio a partir de sistemas de referencia, rutas y trayectos, empleando lenguaje geométrico convencional.
+Saber: Identifica sistemas de referencia (puntos cardinales, cuadrículas, coordenadas) para ubicar objetos y lugares.
+Saber hacer: Traza rutas, describe trayectos y ubica puntos en planos y mapas del colegio y del barrio.
+Ser: Valora el uso del lenguaje geométrico para comunicarse con precisión y trabajar en equipo.
+Clasificación de polígonos: triángulos y cuadriláteros
+Clasifico polígonos en relación con sus propiedades.
+Compara y clasifica figuras planas de acuerdo con sus componentes (lados, ángulos, diagonales) y características.
+Saber: Reconoce criterios de clasificación de triángulos y cuadriláteros (lados, ángulos).
+Saber hacer: Clasifica y construye triángulos y cuadriláteros según sus propiedades usando geoplano y tangram.
+Ser: Respeta los ritmos y aportes de sus compañeros durante el trabajo colaborativo.
+Ángulos: medición y clasificación
+Identifico, represento y utilizo ángulos en giros, aberturas, inclinaciones, distancias y formas, entre otros.
+Usa instrumentos de medida (transportador) para medir y clasificar ángulos, y resuelve situaciones que los involucran.
+Saber: Reconoce ángulos rectos, agudos y obtusos en figuras y en el entorno.
+Saber hacer: Mide y traza ángulos con transportador en situaciones cotidianas y figuras geométricas.
+Ser: Es riguroso y cuidadoso en el uso de instrumentos de medición.
+Rectas paralelas, perpendiculares y secantes
+Reconozco nociones de paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia.
+Identifica y representa relaciones entre rectas (paralelas, perpendiculares y secantes) en figuras y en el entorno cotidiano.
+Saber: Diferencia rectas paralelas, perpendiculares y secantes.
+Saber hacer: Identifica y traza estas relaciones en planos, mapas y objetos del entorno.
+Ser: Reconoce la geometría presente en su entorno cotidiano con curiosidad.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Ubicación espacial y sistemas de referencia
+• Cartografía escolar: elaboración de planos del colegio (ABP)
+• Salida pedagógica de observación del entorno
+• Juegos de ubicación con coordenadas (batalla naval geométrica)
+• Trabajo colaborativo en equipos heterogéneos
+• Mapas y planos del colegio
+• Papel cuadriculado
+• Brújula sencilla
+• Fichas de coordenadas
+• Tablet/GeoGebra
+• Plano elaborado (producto)
+• Lista de cotejo de ubicación espacial
+• Autoevaluación y coevaluación de equipo
+• Representación: maqueta táctil o plano en macrotipo/alto contraste
+• Acción y expresión: describir la ruta de forma oral, gráfica o con material concreto
+• Motivación: elegir un lugar significativo propio para ubicar en el plano
+• Ajuste razonable: tiempo adicional y guía paso a paso apoyada por docente de apoyo
+Clasificación de polígonos: triángulos y cuadriláteros
+• Manipulación de geoplano y tangram
+• Clasificación por atributos (rutina de pensamiento)
+• Construcción de figuras con material reciclable
+• Diálogo socrático guiado por preguntas orientadoras
+• Geoplanos y bandas elásticas
+• Tangram
+• Regla y escuadra
+• Fichas de figuras geométricas
+• Cuadro de clasificación construido por el estudiante
+• Sustentación oral de criterios de clasificación
+• Rúbrica de desempeño
+• Representación: figuras en relieve o de gran tamaño para manipular
+• Acción y expresión: clasificar con material concreto en vez de dibujo
+• Motivación: reto graduado según nivel de complejidad
+• Apoyo de pares mediante tutoría entre iguales
+Ángulos: medición y clasificación
+• Taller práctico con transportador
+• Búsqueda de ángulos en el entorno escolar (fotografía matemática)
+• Geometría dinámica con GeoGebra
+• Trabajo por estaciones/rincones
+• Transportadores
+• Reglas y escuadras
+• Fotografías del entorno
+• GeoGebra
+• Registro de mediciones (bitácora)
+• Prueba práctica de medición
+• Coevaluación por pares
+• Representación: plantillas de ángulos pre-dibujados para calcar
+• Acción y expresión: uso de transportador adaptado o app de medición
+• Motivación: trabajo en parejas con roles definidos
+• Flexibilización de tiempos e indicadores de desempeño
+Rectas paralelas, perpendiculares y secantes
+• Observación de estructuras arquitectónicas del colegio
+• Construcción con escuadras y reglas
+• Aprendizaje basado en proyectos: maqueta de un parque
+• Escuadras
+• Fotografías de estructuras
+• Material de construcción (palillos, plastilina)
+• Maqueta o dibujo con relaciones identificadas
+• Rúbrica de desempeño
+• Portafolio de evidencias
+• Representación: ejemplos concretos y videos cortos explicativos
+• Acción y expresión: construcción con material manipulable en 3D
+• Motivación: conexión con intereses del estudiante (deportes, arte, construcción)
+
+3. PERIODO ACADÉMICO II — Medición, transformaciones y simetría
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Perímetro de figuras planas
+Diferencio y ordeno propiedades o atributos que se pueden medir en objetos y eventos (longitudes, distancias) y desarrollo procesos de medición.
+Resuelve y formula problemas que requieren el cálculo del perímetro de figuras planas en contextos reales.
+Saber: Reconoce el perímetro como la medida del contorno de una figura.
+Saber hacer: Calcula el perímetro de figuras planas en situaciones del contexto escolar y familiar.
+Ser: Argumenta procedimientos matemáticos con confianza.
+Área de figuras planas
+Diferencio y ordeno propiedades o atributos que se pueden medir en objetos y eventos y desarrollo procesos de medición del área.
+Calcula el área de figuras planas (cuadrados, rectángulos, triángulos) descomponiendo y componiendo figuras.
+Saber: Reconoce el área como la medida de la superficie de una figura.
+Saber hacer: Calcula el área de figuras compuestas descomponiéndolas en figuras simples.
+Ser: Persiste ante retos matemáticos y valora el error como parte del aprendizaje.
+Transformaciones geométricas: traslación, rotación y reflexión
+Predigo y comparo los resultados de aplicar transformaciones (traslaciones, rotaciones, reflexiones) a figuras bidimensionales.
+Aplica y describe transformaciones de figuras en el plano, prediciendo el efecto de cada una.
+Saber: Diferencia traslación, rotación y reflexión de figuras.
+Saber hacer: Aplica transformaciones a figuras usando cuadrícula, papel calco o software.
+Ser: Disfruta la exploración creativa de patrones geométricos.
+Simetría y teselados
+Construyo y descompongo figuras planas y sólidos a partir de condiciones dadas.
+Identifica ejes de simetría en figuras y construye teselados combinando polígonos.
+Saber: Reconoce la simetría axial en figuras y objetos del entorno.
+Saber hacer: Construye teselados y diseños simétricos con polígonos regulares.
+Ser: Aprecia la presencia de la geometría en el arte y la cultura.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Perímetro de figuras planas
+• ABP: cálculo del perímetro de espacios reales del colegio
+• Uso de cinta métrica en el patio
+• Aprendizaje colaborativo por estaciones
+• Resolución de problemas contextualizados
+• Cinta métrica
+• Metro de costurera
+• Fichas de problemas
+• Calculadora
+• Informe de medición del patio/aula
+• Resolución de problemas escritos
+• Autoevaluación
+• Representación: fórmulas con apoyo visual y ejemplos resueltos paso a paso
+• Acción y expresión: uso de calculadora y plantillas pre-diligenciadas
+• Motivación: trabajo en equipo con roles rotativos
+• Ajustes razonables según valoración pedagógica del estudiante
+Área de figuras planas
+• Composición y descomposición de figuras con papel cuadriculado
+• Juego de baldosas: cálculo de área del salón
+• GeoGebra: exploración dinámica de área
+• Trabajo colaborativo en parejas
+• Papel cuadriculado
+• Baldosas o cuadrículas físicas
+• GeoGebra
+• Material reciclable
+• Taller práctico de cálculo de área
+• Rúbrica de resolución de problemas
+• Sustentación de procedimientos
+• Representación: cuadrículas físicas para contar unidades de área
+• Acción y expresión: respuesta gráfica, oral o manipulativa según necesidad
+• Motivación: retos graduados y refuerzo positivo constante
+Transformaciones geométricas: traslación, rotación y reflexión
+• Geometría dinámica (GeoGebra)
+• Papel calco y espejos para explorar reflexiones
+• Creación de patrones artísticos (arte y matemáticas)
+• Aprendizaje entre pares
+• GeoGebra o tablet
+• Papel calco
+• Espejos pequeños
+• Papel cuadriculado
+• Producción artística con transformaciones
+• Explicación oral del procedimiento
+• Rúbrica de desempeño
+• Representación: demostración física con espejos y calco antes de lo abstracto
+• Acción y expresión: construcción manual de la transformación
+• Motivación: proyecto artístico de libre elección de figura y color
+Simetría y teselados
+• Proyecto artístico: teselados tipo Escher
+• Elaboración de mandalas geométricas
+• Trabajo colaborativo en mesa redonda
+• Conexión con saberes culturales (arte indígena, arquitectura)
+• Plantillas de polígonos
+• Colores y cartulina
+• Tijeras
+• Ejemplos visuales de teselados
+• Producto final: teselado o mandala
+• Coevaluación grupal
+• Portafolio de evidencias
+• Representación: plantillas prediseñadas para recortar y pegar
+• Acción y expresión: elección entre dibujo, collage o construcción con material concreto
+• Motivación: exposición y socialización de trabajos como reconocimiento
+
+4. PERIODO ACADÉMICO III — Cuerpos geométricos, volumen y plano cartesiano
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Cuerpos geométricos: prismas, pirámides y cuerpos redondos
+Identifico en el entorno objetos que evidencian nociones geométricas tridimensionales (paralelismo, perpendicularidad, semejanza).
+Reconoce y clasifica cuerpos geométricos según su número de caras, vértices y aristas.
+Saber: Diferencia prismas, pirámides y cuerpos redondos y sus elementos.
+Saber hacer: Construye cuerpos geométricos con material concreto (armado de figuras).
+Ser: Colabora activamente en la construcción de proyectos grupales.
+Volumen y capacidad
+Reconozco el volumen y la capacidad como atributos de los objetos y desarrollo procesos para medirlos.
+Estima y calcula el volumen de cuerpos geométricos usando unidades convencionales y no convencionales.
+Saber: Reconoce el volumen como el espacio ocupado por un cuerpo.
+Saber hacer: Estima y mide volumen y capacidad utilizando cubos, recipientes y unidades de medida.
+Ser: Actúa con responsabilidad en el manejo de materiales de medición.
+Plano cartesiano
+Utilizo sistemas de coordenadas para especificar localización y describir relaciones espaciales.
+Ubica y representa puntos en el plano cartesiano utilizando pares ordenados.
+Saber: Reconoce los ejes, cuadrantes y el origen del plano cartesiano.
+Saber hacer: Ubica y representa puntos y figuras en el plano cartesiano usando pares ordenados.
+Ser: Aplica el pensamiento lógico con orden y precisión.
+Proyecto integrador: la geometría en mi entorno
+Resuelvo y formulo problemas que requieren técnicas de estimación y aproximación en la solución de situaciones (transversal a los ejes geométricos del grado).
+Resuelve problemas cotidianos que requieren el uso de conceptos geométricos y de medición, y sustenta procedimientos y resultados.
+Saber: Integra los conceptos geométricos del año (ubicación, figuras, medición, cuerpos, plano cartesiano).
+Saber hacer: Diseña y presenta un proyecto (maqueta, plano o diseño) que integra los conceptos trabajados.
+Ser: Comunica sus ideas y resultados con seguridad y respeto por el trabajo de los demás.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Cuerpos geométricos: prismas, pirámides y cuerpos redondos
+• Armado de cuerpos geométricos con material reciclable
+• Clasificación por número de caras/vértices/aristas (rutina de pensamiento)
+• ABP: maqueta de una ciudad con cuerpos geométricos
+• Trabajo colaborativo por equipos
+• Plantillas armables (desarrollos planos)
+• Cartulina, palillos, plastilina
+• Cuerpos geométricos de referencia
+• Material reciclable
+• Maqueta o cuerpo geométrico armado
+• Ficha de clasificación
+• Autoevaluación y coevaluación
+• Representación: manipulación directa de cuerpos geométricos reales
+• Acción y expresión: armado guiado paso a paso con apoyo visual
+• Motivación: trabajo en equipo con roles según fortalezas de cada estudiante
+• Apoyo del docente de aula de apoyo/orientación en el proceso
+Volumen y capacidad
+• Laboratorio de medición con cubos y recipientes
+• Resolución de problemas contextualizados (empaques, cajas)
+• Aprendizaje colaborativo por estaciones
+• Cubos unitarios
+• Recipientes graduados
+• Cajas y empaques reales
+• Agua o arena para medir capacidad
+• Informe de laboratorio
+• Resolución de problemas
+• Rúbrica de desempeño
+• Representación: demostración concreta con materiales manipulables antes de la fórmula
+• Acción y expresión: registro de resultados en tabla con apoyo de plantilla
+• Motivación: trabajo práctico y experiencial que reduce la abstracción
+Plano cartesiano
+• Juegos de coordenadas (puntos y figuras ocultas)
+• Uso de GeoGebra para graficar puntos
+• Aprendizaje colaborativo en parejas
+• Conexión con mapas y ubicación real (GPS)
+• Papel cuadriculado
+• GeoGebra
+• Fichas de pares ordenados
+• Mapa con coordenadas
+• Taller de ubicación de puntos
+• Construcción de una figura en el plano
+• Coevaluación
+• Representación: cuadrícula ampliada y de alto contraste
+• Acción y expresión: ubicación de puntos de forma manipulativa con fichas
+• Motivación: juego de "tesoro escondido" con coordenadas
+Proyecto integrador: la geometría en mi entorno
+• Aprendizaje basado en proyectos (ABP) integrador
+• Exposición y socialización final ante la comunidad educativa
+• Coevaluación entre grupos
+• Vínculo con arte, arquitectura y urbanismo del entorno
+• Materiales según proyecto (cartón, plastilina, GeoGebra, etc.)
+• Rúbrica de proyecto
+• Espacio de socialización
+• Proyecto final y sustentación oral
+• Rúbrica integral de competencias
+• Autoevaluación, coevaluación y heteroevaluación
+• Representación: guía del proyecto en formatos múltiples (texto, imagen, audio)
+• Acción y expresión: producto final flexible según fortalezas (oral, visual, manual)
+• Motivación: elección del tema del proyecto dentro de opciones dadas
+• Articulación con el PIAR: ajuste de criterios de evaluación y tiempos de entrega
+
+5. Lineamientos generales de atención a la diversidad: PIAR y DUA en la enseñanza de la geometría
+5.1 Plan Individual de Ajustes Razonables (PIAR)
+De acuerdo con el Decreto 1421 de 2017, los estudiantes con discapacidad cuentan con un PIAR construido con la familia, el docente de aula, el docente de apoyo pedagógico y el equipo interdisciplinario. Para el componente geométrico-métrico se sugiere:
+• Realizar la valoración pedagógica del estudiante para identificar barreras y potencialidades frente al pensamiento espacial.
+• Definir ajustes razonables sobre: los desempeños esperados, los tiempos, los recursos (material concreto, tecnología asistida) y las formas de evaluación.
+• Priorizar el uso de material manipulativo y concreto (geoplanos, cuerpos armables, plantillas) antes que la representación abstracta.
+• Flexibilizar los criterios e instrumentos de evaluación (rúbricas adaptadas, evaluación oral o manipulativa en lugar de escrita).
+• Hacer seguimiento periódico al PIAR y ajustar las metas de aprendizaje por periodo académico, en articulación con el SIEE institucional.
+• Garantizar la participación del estudiante en el mismo espacio del aula regular, con los apoyos y ajustes requeridos (educación inclusiva).
+5.2 Diseño Universal para el Aprendizaje (DUA)
+El DUA se aplica a todo el grupo (no solo a estudiantes con PIAR) a partir de tres principios:
+• Múltiples formas de representación: presentar los conceptos geométricos con material concreto, imágenes, video, lenguaje oral y escrito, y herramientas digitales (GeoGebra), para que cada estudiante acceda a la información por distintas vías.
+• Múltiples formas de acción y expresión: permitir que el estudiante demuestre su comprensión a través de construcciones manuales, exposiciones orales, producciones gráficas, maquetas o el uso de tecnología, según sus fortalezas.
+• Múltiples formas de motivación y compromiso: ofrecer opciones de temas y contextos (deporte, arte, arquitectura, cultura), retos graduados según el nivel de cada estudiante y espacios de trabajo colaborativo y de reconocimiento del logro.
+Estos principios están integrados de manera transversal en la columna "Adaptaciones PIAR / DUA" de cada tabla de periodo, y deben adaptarse a las particularidades de cada estudiante y grupo.
+6. Criterios generales de evaluación por periodo
+• Evaluación formativa y continua, coherente con el Sistema Institucional de Evaluación de los Estudiantes (SIEE) y el Decreto 1290 de 2009.
+• Ponderación sugerida por periodo: saber (conceptual) 30%, saber hacer (procedimental/producto) 40%, ser (actitudinal/convivencial) 30% — ajustar según el SIEE institucional.
+• Instrumentos: rúbricas de desempeño, portafolio de evidencias, pruebas escritas y orales, sustentación de proyectos, autoevaluación y coevaluación.
+• Los estudiantes con PIAR son evaluados con los ajustes razonables definidos en su plan, sin que ello implique una disminución en las expectativas de aprendizaje, sino una flexibilización de las formas de alcanzarlas y demostrarlas.
+7. Referentes normativos y bibliográficos
+• Ministerio de Educación Nacional (MEN). Lineamientos Curriculares de Matemáticas, 1998.
+• MEN. Estándares Básicos de Competencias en Matemáticas, 2006.
+• MEN. Derechos Básicos de Aprendizaje (DBA) de Matemáticas, V2.
+• MEN. Decreto 1290 de 2009. Evaluación del aprendizaje y promoción de los estudiantes.
+• MEN. Decreto 1421 de 2017. Atención educativa a la población con discapacidad.
+• MEN. Documento de orientaciones sobre el Diseño Universal para el Aprendizaje (DUA).
+• Secretaría de Educación — Reorganización Curricular por Ciclos (RCC) vigente en la entidad territorial.
+• Proyecto Educativo Institucional (PEI) de la institución.
+Nota: este documento es una plantilla curricular base. Los estándares, DBA y ponderaciones deben ser verificados, ajustados y aprobados por el equipo de docentes del área y el consejo académico institucional, conforme a los documentos oficiales vigentes del MEN y de la Secretaría de Educación correspondiente.
+
+ANEXOS
+Rúbrica de evaluación de geometría, cronograma semanal y guías de taller imprimibles
+Grado Quinto (5°) — Componente geométrico-métrico — 10 semanas por periodo académico
+
+8. Rúbrica de evaluación específica de geometría
+Rúbrica analítica de aplicación transversal a los tres periodos. El docente ajusta el nivel de complejidad de cada descriptor según el tema y el grado de avance del grupo. Escala de valoración según SIEE institucional (Decreto 1290 de 2009).
+Criterio
+Desempeño Superior (4.6 – 5.0)
+Desempeño Alto (4.0 – 4.5)
+Desempeño Básico (3.0 – 3.9)
+Desempeño Bajo (1.0 – 2.9)
+Comprensión conceptual (pensamiento espacial y sistemas geométricos)
+Explica con claridad y ejemplos propios los conceptos geométricos trabajados (figuras, ángulos, cuerpos, transformaciones) y los relaciona con situaciones nuevas.
+Explica correctamente los conceptos geométricos trabajados y los aplica en situaciones conocidas.
+Reconoce e identifica los conceptos geométricos básicos, aunque presenta dificultades para explicarlos con sus propias palabras.
+Presenta dificultades para reconocer o identificar los conceptos geométricos trabajados, incluso con apoyo.
+Uso de instrumentos y procedimientos de medición
+Usa con precisión y autonomía instrumentos de medición (regla, transportador, escuadra, cinta métrica) en diferentes contextos.
+Usa correctamente los instrumentos de medición con orientación mínima del docente.
+Usa los instrumentos de medición con apoyo frecuente del docente o de sus compañeros.
+Presenta dificultades notorias para el manejo de instrumentos de medición, aún con acompañamiento.
+Resolución de problemas geométricos
+Resuelve y formula problemas geométricos contextualizados aplicando estrategias propias y verifica sus resultados.
+Resuelve problemas geométricos contextualizados aplicando procedimientos adecuados.
+Resuelve problemas geométricos sencillos, con apoyo para identificar la estrategia adecuada.
+Presenta dificultades para resolver problemas geométricos, incluso con acompañamiento directo.
+Representación y comunicación matemática
+Representa y comunica ideas geométricas utilizando gráficos, planos y lenguaje geométrico de forma clara, precisa y creativa.
+Representa y comunica ideas geométricas utilizando gráficos y lenguaje geométrico adecuado.
+Representa ideas geométricas de forma parcial, con dificultades en el uso del lenguaje geométrico.
+Presenta dificultades significativas para representar o comunicar ideas geométricas.
+Trabajo colaborativo y actitud (ser)
+Participa activamente, propone ideas, respeta los aportes de sus compañeros y asume con responsabilidad el cuidado de los materiales.
+Participa y colabora de forma adecuada, respetando a sus compañeros y cuidando los materiales.
+Participa de manera irregular en el trabajo colaborativo y requiere recordatorios para el cuidado de los materiales.
+Presenta dificultades para participar, colaborar o cuidar los materiales, incluso con llamados de atención.
+8.1 Autoevaluación del estudiante (formato sencillo)
+Para usar al final de cada guía de taller. El estudiante marca con una X según su propio proceso.
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Entendí el tema trabajado.
+
+
+
+Realicé las actividades y ejercicios propuestos.
+
+
+
+Usé correctamente los materiales e instrumentos.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+
+9. Cronograma semanal por periodo (10 semanas)
+PERIODO ACADÉMICO I — Ubicación espacial y clasificación de figuras planas
+Semana
+Eje temático / Actividad
+Recurso asociado
+Semana 1-2
+Ubicación espacial y sistemas de referencia
+Guía de taller 1.1
+Semana 3-4
+Clasificación de polígonos: triángulos y cuadriláteros
+Guía de taller 1.2
+Semana 5-6
+Ángulos: medición y clasificación
+Guía de taller 1.3
+Semana 7-8
+Rectas paralelas, perpendiculares y secantes
+Guía de taller 1.4
+Semana 9
+Refuerzo, nivelación y retroalimentación (DUA/PIAR)
+—
+Semana 10
+Evaluación integradora del periodo y socialización de evidencias
+Aplicación de rúbrica (Sección 8)
+
+PERIODO ACADÉMICO II — Medición, transformaciones y simetría
+Semana
+Eje temático / Actividad
+Recurso asociado
+Semana 1-2
+Perímetro de figuras planas
+Guía de taller 2.1
+Semana 3-4
+Área de figuras planas
+Guía de taller 2.2
+Semana 5-6
+Transformaciones geométricas: traslación, rotación y reflexión
+Guía de taller 2.3
+Semana 7-8
+Simetría y teselados
+Guía de taller 2.4
+Semana 9
+Refuerzo, nivelación y retroalimentación (DUA/PIAR)
+—
+Semana 10
+Evaluación integradora del periodo y socialización de evidencias
+Aplicación de rúbrica (Sección 8)
+
+PERIODO ACADÉMICO III — Cuerpos geométricos, volumen y plano cartesiano
+Semana
+Eje temático / Actividad
+Recurso asociado
+Semana 1-2
+Cuerpos geométricos: prismas, pirámides y cuerpos redondos
+Guía de taller 3.1
+Semana 3-4
+Volumen y capacidad
+Guía de taller 3.2
+Semana 5-6
+Plano cartesiano
+Guía de taller 3.3
+Semana 7-9
+Proyecto integrador: la geometría en mi entorno
+Guía de taller 3.4
+Semana 7-9
+Desarrollo del proyecto integrador (transversal)
+—
+Semana 10
+Sustentación del proyecto integrador y evaluación final del periodo
+Aplicación de rúbrica (Sección 8)
+
+
+10. Guías de taller imprimibles por tema
+Una guía por cada eje temático de los tres periodos (12 guías en total). Cada una está diseñada para imprimirse en una hoja tamaño carta y diligenciarse de forma individual o en pareja.
+
+GUÍA DE TALLER 1.1 — GEOMETRÍA — GRADO 5°
+Periodo: 1
+Semana(s): Semana 1-2
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Ubicación espacial y sistemas de referencia
+  Objetivo de aprendizaje
+Traza rutas, describe trayectos y ubica puntos en planos y mapas del colegio y del barrio.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Observa el plano del salón de clase que te entregará el docente.
+2. Ubica tres objetos del salón utilizando los puntos cardinales (norte, sur, oriente, occidente).
+3. En una hoja cuadriculada, dibuja el plano de tu salón e indica la ubicación de 5 elementos usando coordenadas (fila, columna).
+4. Intercambia tu plano con un compañero y verifica si logra ubicar los mismos elementos siguiendo tus indicaciones.
+  Practico lo aprendido
+1. Dibuja una cuadrícula de 6x6 y ubica los siguientes puntos: A(2,3), B(5,1), C(0,4).
+2. Describe la ruta más corta desde la puerta del salón hasta tu puesto, usando los términos derecha, izquierda, adelante y atrás.
+3. En el plano del colegio, indica qué lugar queda al norte de la biblioteca y cuál al oriente de la cancha.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: maqueta táctil o plano en macrotipo/alto contraste
+• Acción y expresión: describir la ruta de forma oral, gráfica o con material concreto
+• Motivación: elegir un lugar significativo propio para ubicar en el plano
+• Ajuste razonable: tiempo adicional y guía paso a paso apoyada por docente de apoyo
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 1.2 — GEOMETRÍA — GRADO 5°
+Periodo: 1
+Semana(s): Semana 3-4
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Clasificación de polígonos: triángulos y cuadriláteros
+  Objetivo de aprendizaje
+Clasifica y construye triángulos y cuadriláteros según sus propiedades usando geoplano y tangram.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Con el geoplano o papel punteado, construye 3 triángulos diferentes (equilátero, isósceles, escaleno).
+2. Construye 4 cuadriláteros diferentes (cuadrado, rectángulo, rombo, trapecio).
+3. Mide los lados y ángulos de cada figura con regla y transportador.
+4. Clasifica las figuras en una tabla según el número de lados iguales y la medida de sus ángulos.
+  Practico lo aprendido
+1. Completa la tabla: figura – número de lados – tipo de ángulos – nombre.
+2. Recorta 5 figuras de una revista o periódico y clasifícalas como triángulos o cuadriláteros indicando su tipo.
+3. Dibuja un triángulo rectángulo y explica por qué se llama así.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: figuras en relieve o de gran tamaño para manipular
+• Acción y expresión: clasificar con material concreto en vez de dibujo
+• Motivación: reto graduado según nivel de complejidad
+• Apoyo de pares mediante tutoría entre iguales
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 1.3 — GEOMETRÍA — GRADO 5°
+Periodo: 1
+Semana(s): Semana 5-6
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Ángulos: medición y clasificación
+  Objetivo de aprendizaje
+Mide y traza ángulos con transportador en situaciones cotidianas y figuras geométricas.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Aprende a usar el transportador: identifica el centro y la línea base.
+2. Mide 5 ángulos diferentes dibujados en una hoja y regístralos en una tabla.
+3. Recorre el salón de clase y dibuja 3 ángulos que encuentres en objetos reales (esquina de una mesa, puerta abierta, etc.).
+4. Clasifica los ángulos encontrados en rectos, agudos u obtusos.
+  Practico lo aprendido
+1. Traza un ángulo de 45°, uno de 90° y uno de 120° usando el transportador.
+2. Observa un reloj: ¿qué tipo de ángulo forman las manecillas a las 3:00? ¿Y a las 4:00?
+3. Escribe tres ejemplos de ángulos que encuentres en tu casa y clasifícalos.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: plantillas de ángulos pre-dibujados para calcar
+• Acción y expresión: uso de transportador adaptado o app de medición
+• Motivación: trabajo en parejas con roles definidos
+• Flexibilización de tiempos e indicadores de desempeño
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 1.4 — GEOMETRÍA — GRADO 5°
+Periodo: 1
+Semana(s): Semana 7-8
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Rectas paralelas, perpendiculares y secantes
+  Objetivo de aprendizaje
+Identifica y traza estas relaciones en planos, mapas y objetos del entorno.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Observa las líneas de un cuaderno cuadriculado e identifica ejemplos de rectas paralelas.
+2. Usa la escuadra para trazar dos rectas perpendiculares en tu cuaderno.
+3. Dibuja el plano de una calle o avenida de tu barrio identificando calles paralelas y perpendiculares.
+4. Construye con palillos una maqueta sencilla que muestre las tres relaciones entre rectas.
+  Practico lo aprendido
+1. En una cuadrícula, traza dos rectas paralelas y dos perpendiculares.
+2. Observa una ventana o puerta e identifica y dibuja las líneas paralelas y perpendiculares que la forman.
+3. Explica con tus palabras la diferencia entre rectas paralelas y rectas secantes.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: ejemplos concretos y videos cortos explicativos
+• Acción y expresión: construcción con material manipulable en 3D
+• Motivación: conexión con intereses del estudiante (deportes, arte, construcción)
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 2.1 — GEOMETRÍA — GRADO 5°
+Periodo: 2
+Semana(s): Semana 1-2
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Perímetro de figuras planas
+  Objetivo de aprendizaje
+Calcula el perímetro de figuras planas en situaciones del contexto escolar y familiar.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Mide con la cinta métrica el contorno del salón de clase o de una mesa.
+2. Registra las medidas de cada lado en una tabla.
+3. Calcula el perímetro sumando las medidas obtenidas.
+4. Compara tu resultado con el de un compañero y verifica.
+  Practico lo aprendido
+1. Calcula el perímetro de un rectángulo de 8 cm de largo y 5 cm de ancho.
+2. Un jardín cuadrado tiene lados de 6 metros. ¿Cuánta cerca se necesita para rodearlo completamente?
+3. Mide el perímetro de tu cuaderno y regístralo en centímetros.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: fórmulas con apoyo visual y ejemplos resueltos paso a paso
+• Acción y expresión: uso de calculadora y plantillas pre-diligenciadas
+• Motivación: trabajo en equipo con roles rotativos
+• Ajustes razonables según valoración pedagógica del estudiante
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 2.2 — GEOMETRÍA — GRADO 5°
+Periodo: 2
+Semana(s): Semana 3-4
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Área de figuras planas
+  Objetivo de aprendizaje
+Calcula el área de figuras compuestas descomponiéndolas en figuras simples.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Dibuja un rectángulo en papel cuadriculado y cuenta cuántos cuadros lo cubren.
+2. Repite el proceso con un triángulo, dividiéndolo si es necesario.
+3. Compara el conteo con el resultado de aplicar la fórmula correspondiente.
+4. Diseña el plano de una habitación con muebles y calcula el área total y el área ocupada por cada mueble.
+  Practico lo aprendido
+1. Calcula el área de un rectángulo de 7 cm de base y 4 cm de altura.
+2. Calcula el área de un triángulo de 10 cm de base y 6 cm de altura.
+3. Si un salón mide 8 m de largo y 6 m de ancho, ¿cuántos m² de baldosa se necesitan para cubrirlo?
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: cuadrículas físicas para contar unidades de área
+• Acción y expresión: respuesta gráfica, oral o manipulativa según necesidad
+• Motivación: retos graduados y refuerzo positivo constante
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 2.3 — GEOMETRÍA — GRADO 5°
+Periodo: 2
+Semana(s): Semana 5-6
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Transformaciones geométricas: traslación, rotación y reflexión
+  Objetivo de aprendizaje
+Aplica transformaciones a figuras usando cuadrícula, papel calco o software.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Dibuja una figura sencilla en papel cuadriculado.
+2. Realiza una traslación de la figura 3 cuadros a la derecha y dibújala.
+3. Usa un espejo para observar la reflexión de la figura y dibújala.
+4. Gira la figura 90° usando papel calco y regístrala.
+  Practico lo aprendido
+1. Dibuja un triángulo y su reflejo respecto a una línea vertical.
+2. Traslada un cuadrado 4 unidades hacia arriba y 2 hacia la derecha; dibuja el resultado.
+3. Explica con tus palabras la diferencia entre una rotación y una traslación.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: demostración física con espejos y calco antes de lo abstracto
+• Acción y expresión: construcción manual de la transformación
+• Motivación: proyecto artístico de libre elección de figura y color
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 2.4 — GEOMETRÍA — GRADO 5°
+Periodo: 2
+Semana(s): Semana 7-8
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Simetría y teselados
+  Objetivo de aprendizaje
+Construye teselados y diseños simétricos con polígonos regulares.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Dobla una hoja por la mitad y recorta una figura; ábrela y observa la simetría.
+2. Identifica el eje de simetría de la figura obtenida.
+3. Con plantillas de polígonos (triángulos, hexágonos), crea un teselado cubriendo una hoja sin dejar espacios vacíos.
+4. Decora tu teselado y compártelo con el grupo.
+  Practico lo aprendido
+1. Dibuja el eje o los ejes de simetría de un cuadrado, un triángulo equilátero y la letra "A".
+2. Busca 3 objetos simétricos en tu casa o colegio y dibújalos.
+3. Diseña un teselado sencillo usando solo triángulos.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: plantillas prediseñadas para recortar y pegar
+• Acción y expresión: elección entre dibujo, collage o construcción con material concreto
+• Motivación: exposición y socialización de trabajos como reconocimiento
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 3.1 — GEOMETRÍA — GRADO 5°
+Periodo: 3
+Semana(s): Semana 1-2
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Cuerpos geométricos: prismas, pirámides y cuerpos redondos
+  Objetivo de aprendizaje
+Construye cuerpos geométricos con material concreto (armado de figuras).
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Recolecta objetos de tu casa con forma de cubo, prisma, cilindro, esfera o cono.
+2. Cuenta el número de caras, vértices y aristas de cada cuerpo geométrico armable.
+3. Arma un cuerpo geométrico usando la plantilla (desarrollo plano) entregada por el docente.
+4. Clasifica los cuerpos recolectados en una tabla según sus características.
+  Practico lo aprendido
+1. Completa la tabla: cuerpo geométrico – número de caras – número de vértices – número de aristas.
+2. ¿Qué diferencia hay entre un prisma y una pirámide?
+3. Dibuja el desarrollo plano de un cubo.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: manipulación directa de cuerpos geométricos reales
+• Acción y expresión: armado guiado paso a paso con apoyo visual
+• Motivación: trabajo en equipo con roles según fortalezas de cada estudiante
+• Apoyo del docente de aula de apoyo/orientación en el proceso
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 3.2 — GEOMETRÍA — GRADO 5°
+Periodo: 3
+Semana(s): Semana 3-4
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Volumen y capacidad
+  Objetivo de aprendizaje
+Estima y mide volumen y capacidad utilizando cubos, recipientes y unidades de medida.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Llena una caja pequeña con cubos unitarios y cuenta cuántos caben.
+2. Registra el volumen obtenido en una tabla.
+3. Mide la capacidad de 3 recipientes usando agua y una unidad de medida (vaso, taza).
+4. Compara los resultados de volumen y capacidad de los objetos usados.
+  Practico lo aprendido
+1. Calcula el volumen de una caja de 4 cm x 3 cm x 2 cm contando cubos unitarios.
+2. Si un recipiente tiene capacidad de 2 litros, ¿cuántos vasos de 250 ml se necesitan para llenarlo?
+3. Explica la diferencia entre volumen y capacidad con un ejemplo de tu casa.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: demostración concreta con materiales manipulables antes de la fórmula
+• Acción y expresión: registro de resultados en tabla con apoyo de plantilla
+• Motivación: trabajo práctico y experiencial que reduce la abstracción
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 3.3 — GEOMETRÍA — GRADO 5°
+Periodo: 3
+Semana(s): Semana 5-6
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Plano cartesiano
+  Objetivo de aprendizaje
+Ubica y representa puntos y figuras en el plano cartesiano usando pares ordenados.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Dibuja un plano cartesiano en una hoja cuadriculada, marcando los ejes X y Y.
+2. Ubica los pares ordenados que te indique el docente.
+3. Juega con un compañero a "batalla naval geométrica" usando coordenadas.
+4. Dibuja una figura sencilla uniendo puntos ubicados en el plano cartesiano.
+  Practico lo aprendido
+1. Ubica los puntos A(3,4), B(1,1) y C(5,1) y únelos. ¿Qué figura se forma?
+2. Escribe las coordenadas de 4 puntos ubicados en cada uno de los 4 cuadrantes del plano.
+3. Explica qué representa cada número en un par ordenado (x, y).
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: cuadrícula ampliada y de alto contraste
+• Acción y expresión: ubicación de puntos de forma manipulativa con fichas
+• Motivación: juego de "tesoro escondido" con coordenadas
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+
+GUÍA DE TALLER 3.4 — GEOMETRÍA — GRADO 5°
+Periodo: 3
+Semana(s): Semana 7-9
+Nombre del estudiante: _______________________________
+Fecha: _______________
+Eje temático: Proyecto integrador: la geometría en mi entorno
+  Objetivo de aprendizaje
+Diseña y presenta un proyecto (maqueta, plano o diseño) que integra los conceptos trabajados.
+  ¿Qué sé? (saberes previos)
+Antes de empezar, responde: ¿qué recuerdas o qué sabes sobre este tema? ¿En qué situaciones de tu vida diaria lo has visto?
+____________________________________________________________________
+  Manos a la obra (actividad paso a paso)
+1. Elige un tema de proyecto (maqueta de un parque, diseño de una vivienda, mural con teselados, plano del barrio, etc.).
+2. Planifica los conceptos geométricos que vas a usar (figuras, perímetro, área, volumen, plano cartesiano).
+3. Construye el proyecto usando materiales reciclables o herramientas digitales (GeoGebra).
+4. Prepara una breve sustentación explicando qué conceptos geométricos utilizaste y cómo los aplicaste.
+5. Presenta tu proyecto ante el grupo o la comunidad educativa en la Semana 10.
+  Practico lo aprendido
+1. Elabora la bitácora del proyecto registrando los conceptos geométricos aplicados en cada etapa.
+2. Construye el producto final (maqueta, plano, mural o diseño digital).
+3. Prepara una sustentación oral con apoyo visual para la Semana 10.
+  Nota para el docente — Adaptaciones PIAR / DUA
+• Representación: guía del proyecto en formatos múltiples (texto, imagen, audio)
+• Acción y expresión: producto final flexible según fortalezas (oral, visual, manual)
+• Motivación: elección del tema del proyecto dentro de opciones dadas
+• Articulación con el PIAR: ajuste de criterios de evaluación y tiempos de entrega
+  Mi reflexión (autoevaluación)
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+¿Qué fue lo más fácil? _______________________________________________
+¿Qué fue lo más difícil? _______________________________________________
+

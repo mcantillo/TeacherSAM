@@ -1,0 +1,6655 @@
+MODULO DE MATEMÁTICAS: QUINTO GRADO
+
+Tabla de Imágenes
+
+Imagen 1: Gráfica del decimal 1,4 7
+
+Imagen 2: Segmento de recta numérica. 9
+
+Imagen 3: 634 en la recta numérica. 15
+
+Imagen 4: 2,36 en la recta numérica 16
+
+Imagen 5: Lago Míchigan 23
+
+Imagen 6: Valor de posición 25
+
+Imagen 7: Cuadrado de 3 30
+
+Imagen 8: Cuadrado de 5 31
+
+Imagen 9: Cubo de 5 33
+
+Imagen 10: Cubo de 3 35
+
+Imagen 11: Cuadrado de 4 35
+
+Imagen 12: Cuadrado de 7 36
+
+Imagen 13: Cuadrado de 3 36
+
+Imagen 14: Cuadrado de 8 37
+
+Imagen 15: Cuadrado de 10 37
+
+Imagen 16: Conjunto de Animales 51
+
+Imagen 17: Segmento de recta 51
+
+Imagen 18: 4/5 en segmento de recta. 53
+
+Imagen 19: Fracción de circunferencias rellenas. 53
+
+Imagen 20: Fracción de cuadrados rellenos. 54
+
+Imagen 21: Conjunto de Insectos. 55
+
+Imagen 22: Unidad Fraccionada en Cuartos. 55
+
+Imagen 23: Unidad Fraccionada en Doceavos. 56
+
+Imagen 24: División de Numerador en Denominador. 57
+
+Imagen 25: Fracción Impropia en rectángulos 58
+
+Imagen 26: Fracción impropia en círculos. 59
+
+Imagen 27: Número Mixto 60
+
+Imagen 28: Diagrama de Venn 74
+
+Imagen 29: Hexágono regular. 78
+
+Imagen 30: Fracción Propia a Decimal 81
+
+Imagen 31: Fracción a decimal. 81
+
+Imagen 32: Cubo de 10. 82
+
+Imagen 33: Decimales en segmento de Recta. 85
+
+Imagen 34: Puntos en segmento de recta 86
+
+Imagen 35: Puntos Sobre la recta. 87
+
+Imagen 36: Totalidad de Montañas 91
+
+Imagen 37: Montañas a usar. 91
+
+Imagen 38: Kilómetro 92
+
+Imagen 39: Proporción pista El Pionero 93
+
+Imagen 40: Proporción pista Fiebre del Oro 93
+
+Imagen 41: Relación fracciones heterogéneas y Homogéneas 101
+
+Imagen 42: Fracciones heterogéneas y Homogéneas 103
+
+Imagen 43: 1/3 de los 12 pretzels 112
+
+Imagen 44: 2/3 de los 12 pretzels. 113
+
+Imagen 45: Gráfica de 3/4 por 2/3 116
+
+Imagen 46: Multiplicación 1. 118
+
+Imagen 47: Multiplicación 2. 118
+
+Imagen 48: Multiplicación 3. 119
+
+Imagen 49: Multiplicación 4. 119
+
+Imagen 50: Paralelogramo 124
+
+Imagen 51: Cuartos en recta numérica 126
+
+Imagen 52: Unidad en segmento de recta. 127
+
+Imagen 53: Unidad repartida en cuartos. 128
+
+Imagen 54: Cuatro Unidades en tercios 128
+
+Imagen 55: Octavos 129
+
+Imagen 56: Medios 129
+
+Imagen 57: Novenos en cuadrado 130
+
+Imagen 58: Escultura 147
+
+Imagen 59: No inclusión del 3 153
+
+Imagen 60: Mayores que 3 153
+
+Imagen 61: Menores o Iguales que 7 154
+
+Imagen 62: Desigualdad 1. 156
+
+Imagen 63: Desigualdad 2. 156
+
+Imagen 64: Desigualdad 3 156
+
+Imagen 65: Desigualdad 2 157
+
+Imagen 66: Representación de desigualdad. 158
+
+Imagen 67: Figura 1. 159
+
+Imagen 68: Figura 2. 159
+
+Imagen 69: Figura 3. 159
+
+Imagen 70: Figura 4. 159
+
+Imagen 71: División 176
+
+Imagen 72: Velocidad Máxima de Animales Marinos 178
+
+Imagen 73: Diagrama de Barras 194
+
+Imagen 74: Triángulo ABC 197
+
+Imagen 75: Triángulo EMH 197
+
+Imagen 76: Rectángulo 1. 199
+
+Imagen 77: Rectángulo 2. 200
+
+Imagen 78: Rectángulo 3. 200
+
+Imagen 79: Distancias 203
+
+Imagen 80: Rectángulo A 205
+
+Imagen 81: Rectángulo B 205
+
+Imagen 82: Departamentos del almacén 206
+
+Imagen 83: Símbolo de porcentaje 207
+
+Imagen 84: Área 1 209
+
+Imagen 85: Área 2 209
+
+Imagen 86: Área 3 210
+
+Imagen 87: -105 y +6962 en recta numérica. 217
+
+Imagen 88: Enteros sobre la recta numérica 218
+
+Imagen 89: Coordenadas del Banco 220
+
+Imagen 90: (-2, 3) en el plano. 221
+
+Imagen 91: Punto R en el plano. 222
+
+Imagen 92: Distancia sobre el plano. 223
+
+Imagen 93: Diferentes puntos sobre el plano. 226
+
+Imagen 94: Prisma Rectangular 228
+
+Imagen 95: Horas versus Kilómetros. 230
+
+Imagen 96: Gráfico Lineal Edades. 232
+
+# TEMA 1: NÚMEROS NATURALES Y DECIMALES
+
+## VALOR DE POSICIÓN EN DECIMALES
+
+Lo entenderás: Los números menores a 1 se pueden escribir usando el valor de la posición decimal.
+
+¿Cómo representas decimales?
+
+Las semillas de las orquídeas son muy pequeñas. Una semilla de orquídea puede pesar sólo 0,000035 onzas. ¿De qué maneras diferentes puedes representar 0,000035?
+
+Una sola semilla de algunas orquídeas puede pesar apenas 0,000035 onzas
+
+*Tabla 1: Valor de Posición en Decimal*
+
+| Unidades | Coma | Décimas | Centésimas | Milésimas | Diezmilésimas | Cienmilésimas | Millonésimas |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | , | 0 | 0 | 0 | 0 | 3 | 5 |
+
+Forma estándar: 0,000035
+
+El 5 está en el lugar de las millonésimas. Su valor es 0,000005.
+
+Forma desarrollada: 0,00003 + 0,000005
+
+En palabras: Treinta y cinco millonésimas.
+
+Otro ejemplo
+
+¿Qué son los decimales equivalentes? Los decimales equivalentes indican la misma cantidad.
+
+Nombra dos decimales equivalentes a 1,4.
+
+Uno y cuatro décimas tiene 1 y 40 centésimas.
+
+Práctica lo Aprendido, 1,4 = 1,40.
+
+Uno y cuatro décimas tiene 1 y 400 milésimas. Portante, 1,4= 1,400.
+
+Práctica lo Aprendido, 1,4 = 1,40 = 1,400.
+
+*Imagen 1: Gráfica del decimal 1,4*
+
+Descripción imagen: Dibujo de dos cuadrados el primero relleno de color naranja, el segundo tiene 10 filas y 10 columnas. Las primeras 4 columnas están rellenas de color naranja y una de las divisiones de esta región se resalta al exterior del cuadrado dentro de un círculo, mostrando que cada uno de estas puede ser dividida de forma vertical en 10 rectángulos.
+
+4 columnas = 4 décimas
+
+40 cuadrados pequeños = 40 centésimas = 400 milésimas
+
+### Práctica lo Aprendido
+
+1. Escribe cada número en palabras y di el valor del dígito especificado (subrayado).
+
+a. 4,737 Tercer dígito.
+
+b. 9,806415 Quinto dígito.
+
+2. Escribe cada número en forma estándar.
+
+a. 6 + 0,6 + 0,03 + 0,007 + 0,0001
+
+b. Cuatro y sesenta y ocho centésimas.
+
+3. Escribe dos decimales que sean equivalentes al decimal dado.
+
+a. 3,700
+
+b. 5,60
+
+4. Escribir para explicar. El número 3,453 tiene dos 3. ¿Por qué cada 3 tiene un valor 
+diferente?
+
+5. ¿Cómo se lee la coma decimal en palabras?
+
+6. José terminó una carrera en 2,6 horas y Pablo terminó la misma carrera en 2,60 horas. ¿Qué corredor gastó más tiempo?
+
+7. Escribe cada número en palabras y di el valor de los dígitos especificados (subrayados).
+
+a. 2,300 Segundo dígito.
+
+b. 9,00027 Segundo dígito.
+
+c. 1,982 Tercer Dígito.
+
+d. 6,000178 Sexto dígito.
+
+8. Escribe cada número en forma estándar.
+
+a. Dos y seiscientas milésimas.
+
+b. 3 + 0,3 + 0,009 + 0,0005
+
+c. Cinco y ciento cuatro millonésimas.
+
+d. 7 + 0,6 + 0,05+0,007 + 0,0001+0,00003
+
+9. Escribe dos decimales equivalentes al decimal dado.
+
+a. 2,200
+
+b. 8,1
+
+c. 9,50
+
+d. 4,2000
+
+10. Escribir para explicar Catalina quiere comprar jugo en el supermercado. Tiene 
+$9 000 y cada botella de jugo cuesta $2 000. ¿Tiene suficiente dinero para comprar 5 botellas de jugo? Explica.
+
+11. ¿Qué punto sobre la siguiente recta numérica representa al número 0,368?
+
+*Imagen 2: Segmento de recta numérica.*
+
+Descripción imagen: Segmento de recta numérica etiquetada a su extremo izquierdo con el número 0,350 y a su extremo derecho con el número 0,370, al lado de cada uno de estos números hay una punta de flecha en la dirección de la posición del número. Entre los dos números hay 19 líneas verticales que parten el segmento de recta en partes iguales. De izquierda a derecha la línea 5, 9, 14 y 18 están etiquetadas con las letras W, X, Y y Z respectivamente.
+
+12. El insecto palo de Borneo mide 56,7 centímetros de largo, incluyendo las patas. Escribe 56,7 en palabras.
+
+13. Las hormigas cortadoras miden hasta 1,7 centímetros. Nombra dos decimales equivalentes a 1,7
+
+14. Escribir para explicar ¿Por qué son equivalentes 7,630 y 7,63000?
+
+## COMPARACIÓN Y ORDEN EN LOS DECIMALES
+
+Lo entenderás: El valor de posición se puede usar para comparar y ordenar números decimales.
+
+¿Cómo comparas y ordenas decimales?
+
+Unos científicos midieron el largo de diferentes especies de cucarachas.
+
+- Cucaracha australiana: 3,582 centímetros
+
+- Cucaracha oriental: 3,432 centímetros
+
+- Cucaracha americana: 3,576 centímetros
+
+¿Qué cucarachas fueron las más largas: las americanas o las orientales?
+
+Sigue estos tres pasos para averiguarlo.
+
+Paso 1:
+
+Alinea las comas decimales.
+
+Comienza por la izquierda.
+
+Compara los dígitos con el mismo valor de posición.
+
+3,576
+
+3,432
+
+Paso 2:
+
+Halla el primer lugar donde los dígitos son diferentes.
+
+3,576
+
+3,432
+
+Paso 3:
+
+Compara.
+
+5>4
+
+Piénsalo. 0,5 > 0,4
+
+Práctica lo Aprendido, 3,576 > 3,432.
+
+La cucaracha americana es más larga que la oriental.
+
+Otro ejemplo: ¿Cómo ordenas decimales?
+
+Ordena las cucarachas de menor a mayor según su longitud. Sigue estos tres pasos como ayuda.
+
+Paso 1:
+
+Escribe los números y alinea las comas decimales.
+
+Comienza por la izquierda.
+
+Compara los dígitos con el mismo valor de posición.
+
+3,576
+
+3,432
+
+3,582
+
+El menor es 3,432.
+
+Paso 2:
+
+Escribe los números restantes y alinea las comas decimales. Comienza por la izquierda. Compara.
+
+3,576
+
+3,582
+
+El mayor es 3,582.
+
+Paso 3:
+
+Escribe los números de menor a mayor.
+
+3,432; 3,576; 3,582
+
+Según su longitud, el orden de las cucarachas de menor a mayores: oriental, americana y australiana.
+
+### Práctica lo aprendido
+
+1. Compara los números. Escribe > , < o = en cada
+
+a. 3,692 y 3,697
+
+b. 7,216 y 7,203
+
+2. Ordena estos números de menor a mayor.
+
+a. Grupo 1:
+
+- 5,540
+
+- 5,631
+
+- 5,625
+
+- 5,739
+
+b. Grupo 2:
+
+- 0,675
+
+- 1,529
+
+- 1,35
+
+- 0,693
+
+3. Escribe un número mayor que 4,508 pero menor que 4,512.
+
+4. Los científicos midieron la cucaracha de Madeira y descubrieron que tenía 3,438 centímetros de 
+largo. Si ordenaran las cucarachas de menor a mayor según su longitud, ¿dónde situarían aquel 
+insecto?
+
+5. Copia y completa. Escribe >, < o = entre cada par de números.
+
+a. 0,890 y 0,89
+
+b. 5,733 y 5,693
+
+c. 9,707 y 9,717
+
+d. 4,953 y 4,951
+
+e. 1,403 y 1,4
+
+f. 3,074 y 3,740
+
+6. Ordena de menor a mayor.
+
+a. Grupo 1:
+
+- 2,912
+
+- 2,909
+
+- 2,830
+
+- 2,841
+
+b. Grupo 2:
+
+- 8,541
+
+- 8,314
+
+- 8,598
+
+- 8,8
+
+7. Ordena de mayor a menor.
+
+a. Grupo 1:
+
+- 5,132
+
+- 5,123
+
+- 5,312
+
+- 5,231
+
+b. Grupo 2:
+
+- 62,905
+
+- 62,833
+
+- 62,950
+
+- 62,383
+
+8. Escribir para explicar ¿Por qué debes que alinear las comas decimales antes de comparar y 
+ordenar números que tengan decimales?
+
+9. Julia quiere comprarle flores a su mamá. Por las tareas que hace en casa, ella gana $4 000 a la 
+semana. Si cada flor cuesta $2 000, ¿cuántas flores le puede comprar a su mamá si ahorra lo que 
+gana en tres semanas?
+
+10. Hay cinco tipos de granos de arena: gruesos, muy gruesos, medianos, finos y muy finos. Un grano 
+de arena fina puede tener un diámetro de 0,125 milímetros. ¿Qué número es menor que 0,125?
+
+a. 0,5
+
+b. 0,2
+
+c. 0,13
+
+d. 0,12
+
+## REDONDEO DE NÚMEROS NATURALES Y DECIMALES
+
+¿Cómo redondeas números naturales y decimales?
+
+Cuando redondeas, remplazas un número por otro que te dice más o menos cuántos o cuánto hay a las decenas, centenas, valor de mil o de millón más cercanos.
+
+Redondea 634 a la centena más cercana.
+
+*Imagen 3: 634 en la recta numérica.*
+
+Descripción imagen: Segmento de recta numérica etiquetada a su extremo izquierdo con el número 600 y a su extremo derecho con el número 700, al lado de cada uno de estos números hay una punta de flecha en la dirección de la posición del número. Entre los dos números hay 9 líneas verticales que parten el segmento de recta en partes iguales. De izquierda a derecha la línea 5 tiene un punto verde sobre ella y la palabra “mitad”, entre las líneas 3 y 4 hay un punto rojo y sobre él el número 634.
+
+Piénsalo ¿Está 634 más cerca de 600 o de 700?
+
+Paso 1:
+
+Halla el digito del lugar de redondeo.
+
+Subráyalo:
+
+634
+
+Paso 2:
+
+Mira el dígito que está a la derecha del lugar de redondeo.
+
+Si es 5 o mayor, súmale 1 al dígito de redondeo. Si el dígito es menor que 5, deja el dígito de redondeo como está.
+
+En 634,
+
+3<5
+
+Deja el 6 como está.
+
+Paso 3:
+
+Convierte en cero todos los dígitos que están a la derecha del dígito de redondeo.
+
+634 se redondea a 600.
+
+Otro ejemplo
+
+¿Cómo redondeas decimales?
+
+¿Cómo redondeas 2,36 a la décima más cercana?
+
+Piénsalo ¿Está 2,36 más cerca de 2,3 o de 2,4?
+
+*Imagen 4: 2,36 en la recta numérica*
+
+Descripción imagen: Segmento de recta numérica etiquetada a su extremo izquierdo con el número 2,3 y a su extremo derecho con el número 2,4, al lado de cada uno de estos números hay una punta de flecha en la dirección de la posición del número. Entre los dos números hay 9 líneas verticales que parten el segmento de recta en partes iguales. De izquierda a derecha en la línea 6 hay un punto negro y sobre él el número 2,36.
+
+Paso 1:
+
+Halla el lugar de redondeo. Mira el dígito situado a la derecha del lugar de redondeo.
+
+2,36
+
+Paso 2:
+
+Si el dígito es 5 o mayor, súmale 1 al dígito de redondeo. Si es menor que 5, deja el dígito de redondeo como está.
+
+Dado que 6 > 5, súmale 1 al 3.
+
+Paso 3:
+
+Elimina los dígitos a la derecha del dígito situados de redondeo.
+
+2,36 se redondea a 2,4.
+
+### Práctica lo Aprendido
+
+1. En los siguientes números, redondea cada número al lugar del dígito especificado (subrayado).
+
+a. 16, primer dígito.
+
+b. 56,1, segundo dígito
+
+c. 1,32, segundo dígito
+
+d. 427841, segundo dígito
+
+e. 1652 primer dígito
+
+f. 582062 primer dígito
+
+2. Para redondear 7458 a la centena más cercana, ¿en qué dígito debes fijarte? ¿Cuánto 
+es 7 458 redondeado a la centena más cercana?
+
+3. Una atleta corre por una pista que tiene marcas cada 10 metros. Si ha recorrido 368 
+metros, ¿está más cerca de la marca de 360 metros o de la de 370 metros?
+
+4. En los siguientes números, redondea cada número entero al lugar del dígito especificada (subrayado).
+
+a. 677, primer dígito
+
+b. 12064, tercer dígito
+
+c. 34739, segundo dígito
+
+d. 930998, tercer dígito
+
+e. 4526, tercer dígito
+
+f. 573, segundo dígito
+
+g. 59304, primer dígito
+
+h. 748397, segundo dígito
+
+5. En los siguientes números, redondea cada número al lugar del dígito especificado (subrayado).
+
+a. 75,8: segundo dígito
+
+b. 643,82: tercer dígito
+
+c. 84,732: tercer dígito
+
+d. 5,028: tercer dígito
+
+e. 0,758: tercer dígito
+
+f. 0,472: segundo dígito
+
+g. 738,29: cuarto dígito
+
+h. 23,009: cuarto dígito
+
+6. La camisa más grande del mundo mide 4,26 metros de ancho. Redondea 4,26 a la unidad y a la décima más cercana.
+
+7. En los primeros tres cuartos de un partido de baloncesto, uno de los equipos anotó 17, 25 y 13 puntos. Su puntaje final fue 75. ¿Cuántos puntos anotó en el último cuarto?
+
+8. El contorno de un cuerno del novillo africano watusi mide 95,25 cm.
+
+a. ¿Cuánto es 95,25 si lo redondeas a la décima más cercana?
+
+b. ¿A la unidad más cercana?
+
+c. ¿A la decena más cercana?
+
+9. En un año reciente, la población de Bogotá era de 7155052 habitantes. ¿Cuánto es esa población al redondearla a la centena de mil más cercana?
+
+a. 7100000
+
+b. 7000000
+
+c. 8000000
+
+d. 7200000
+
+10. La marca mundial de velocidad por tierra establecida el 15 de octubre de 1997 fue 1229,7 kilómetros por hora. ¿Cuánto es esta velocidad redondeada a la unidad más cercana?
+
+## ALGORITMO DE LA MULTIPLICACIÓN
+
+Lo entenderás: Para hallar productos, usa el valor de posición para descomponer factores.
+
+¿Cómo multiplicas números de 3 dígitos por números de 2 dígitos?
+
+El mes pasado, una panadería vendió 389 bandejas de donas. ¿Cuántas donas vendió el mes pasado?
+
+Escoge una operación
+
+Multiplica para unir grupos iguales.
+
+Paso 1:
+
+Multiplica por las unidades y descompón, si es necesario.
+
+389 x 12 = 778
+
+2x9 unidades = 18 unidades o
+
+1 decena y 8 unidades.
+
+2x8 decenas = 16 decenas.
+
+16 decenas + 1 decena = 17 decenas.
+
+17 decenas = 1 centena y 7 decenas.
+
+2x3 centenas = 6 centenas.
+
+6 centenas + 1 centena = 7 centenas.
+
+Paso 2:
+
+Multiplica por las decenas y descompón, si es necesario.
+
+369 x 1 2
+
+776 + 5690
+
+10x9 unidades = 90 unidades.
+
+10x8 decenas = 80 decenas u 8 centenas.
+
+10x3 centenas = 30 centenas o 3 mil.
+
+Paso 3:
+
+Suma los productos parciales.
+
+369 x 12 = 776 + 5690 = 4668
+
+La panadería vendió 4 468 donas el mes pasado.
+
+Otros ejemplos
+
+¿Cuáles son las propiedades de la multiplicación?
+
+- Propiedad conmutativa
+
+El orden de los factores puede cambiar, pero el producto sigue igual.
+
+7x8 = 8x7
+
+- Propiedad asociativa
+
+Puedes cambiar la agrupación de los factores y el producto sigue igual.
+
+(3 x 6) x 5 = 3 x (6 x 5)
+
+- Propiedad modulativa
+
+Al multiplicar cualquier número por 1, el producto es el mismo número.
+
+8x1 =8
+
+- Propiedad del cero o anulativa
+
+Cuando multiplicas cualquier número por 0, el producto es 0.
+
+9x0 = 0
+
+### Práctica lo Aprendido
+
+1. Halla los productos. Haz una estimación para ver si tu respuesta es razonable.
+
+a. 827 por 23
+
+b. 745 por 13
+
+c. 236 por 46
+
+d. 425 por 61
+
+2. En el paso 2 del ejemplo de arriba, ¿multiplicas 1 x 9 o 10 x 9?
+
+3. Escribir para explicar ¿Es 300 x 10 una buena estimación para el número de donas vendidas en la panadería?
+
+4. Calcula los productos. Haz una estimación para ver si tu respuesta es razonable.
+
+a. 451 x 10
+
+b. 901 x 62
+
+c. 25 x 1000
+
+d. 2896 x 26
+
+e. 20568 x 314
+
+f. 892 x 18
+
+g. 185 x 55
+
+h. 5290 x 47
+
+i. 3907 x 59
+
+j. 60214 x 147
+
+k. 655 x
+
+l. 227 x 87
+
+m. 19 x 7635
+
+n. 3500 x 515
+
+o. 40256 x 719
+
+p. 132 x 47
+
+q. 946 x 33
+
+r. 4982 x 42
+
+s. 8100 x 111
+
+t. 50189 x 6252
+
+5. Usa la tabla de datos.
+
+*Tabla 2: Ritmo cardiaco*
+
+| Animal | Ritmo Cardiaco (Latidos en un minuto) |
+| --- | --- |
+| Perro | 100 |
+| Jerbo | 360 |
+| Conejo | 212 |
+
+  5.1 ¿Cuántas veces late el corazón de un perro 15 minutos?
+
+  5.2 ¿Cuántas veces más late el corazón de un jerbo que el de un conejo en 20 minutos?
+
+  5.3 ¿Qué expresión muestra cómo hallar el número total de latidos del corazón de un perro y el de un conejo en 1 hora?
+
+a. (100x1) + (212x1)
+
+b. 60 x 100x212
+
+c. (60 x 100)+ (60x212)
+
+d. (212x100)+ 60
+
+6. La longitud del río Nilo en África mide más o menos 14 veces la longitud del lago Michigan en Estados Unidos. Aproximadamente, ¿cuántos kilómetros de longitud tiene el rio Nilo?
+
+*Imagen 5: Lago Míchigan*
+
+Descripción imagen: Dibujo del lago Míchigan en el cual se marca su longitud de 47 km.
+
+7. Los estudiantes del grado quinto vendieron 17 cajas de palomitas. Cada caja tenía 242 bolsas. ¿Cuántas bolsas de palomitas de maíz vendieron los estudiantes de grado quinto?
+
+8. Un vivero vende plantas en bandejas. Hay 6 plantas en cada caja. Cada bandeja tiene 6 cajas. El vivero vendió 18 bandejas el sábado y 21 bandejas el domingo. ¿Cuántas plantas vendió el vivero en total?
+
+9. Escribir para explicar ¿Es 3 198 un producto razonable de 727 x 44?
+
+10. El teatro de Darling Harbour, Australia, tiene 540 asientos. ¿Cuántas entradas vende el teatro en un mes de 30 días si todos los asientos están ocupados cada día?
+
+## POTENCIACIÓN Y EXPONENTES
+
+Lo entenderás: Los exponentes muestran el número de veces que se repite un factor.
+
+¿Cómo escribes un número usando exponentes?
+
+Cada posición en una tabla de valor de posición tiene un valor que es 10 veces mayor que la posición a su derecha. Usa este patrón para escribir 1000000 como una multiplicación repetida.
+
+*Imagen 6: Valor de posición*
+
+Descripción imagen: En el gráfico se presentan escritos de manera vertical los números 1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000. Sobre estos números están escritas de manera vertical las palabras: Centenas de millón, decenas de millón, unidades de millón, centenas de millar, decenas de millar, unidades de millar, centenas decenas y unidades de izquierda a derecha respectivamente. Frente a los dígitos del último número (100000000) se encuentran de arriba abajo escritas de manera horizontal las palabras uno, diez, cien, mil, diez mil, cien mil, un millón, diez millones, cien millones.
+
+El 10 se usa como factor seis veces.
+
+1000000=10x10x10x10x10x10
+
+Puedes escribir la multiplicación repetida de un número en forma exponencial.
+
+1000000 = 10 a la 6
+
+La base es el número que se repite en la multiplicación.
+
+El exponente o potencia es el número de veces que se usa la base como factor.
+
+Cada posición en la tabla de valor de posición puede escribirse usando un exponente.
+
+*Tabla 3: Forma exponencial*
+
+| Valor | Forma exponencial |
+| --- | --- |
+| 100000 | 10 a la 5 |
+| 10000 | 10 a la 4 |
+| 1 000 | 10 a la 3 |
+| 100 | 10 a la 2 |
+| 10 | 10 a la 1 |
+| 1 | 10 a la 0 |
+
+Otros ejemplos
+
+¿Cómo escribes la forma desarrollada con exponentes de un número?
+
+- Forma estándar: 562
+
+- Forma desarrollada: (5 x 100000) + (6 x 10000) + (2 x 1000) + (3 x 100) + (8 x 10) + 4
+
+- Forma desarrollada con exponentes:
+
+*Ecuación 1; Forma desarrollada*
+
+```latex
+(5x10^{5})+(6x10^{4})+(2x10^{3})+(3x10^{2})+(8x10^{1})+(4x10^{0})
+```
+
+Descripción ecuación: Abre paréntesis 5 por 10 a la 5 cierra paréntesis + Abre paréntesis 6 por 10 a la 4 cierra paréntesis + Abre paréntesis 2 por 10 a la 3 cierra paréntesis + Abre paréntesis 3 por 10 a la 2 cierra paréntesis + Abre paréntesis 8 por 10 a la 1 cierra paréntesis + Abre paréntesis 4 por 10 a la 0 cierra paréntesis
+
+Cualquier número elevado a la primera potencia siempre es igual a ese número.
+
+10 a la 1 = 1 0
+
+Cualquier número, excepto el cero, elevado a la potencia cero es igual a 1.
+
+10° = 1
+
+¿Cómo escribes un número en forma exponencial?
+
+Escribe cada número en forma exponencial.
+
+36 = 6 x 6 = 6 a la 2
+
+*Ecuación 2: Seis al cuadrado*
+
+```latex
+=6^{2}
+```
+
+Descripción ecuación: 6 a la 2.
+
+Y se lee como seis al cuadrado.
+
+*Ecuación 3: 10 al cubo*
+
+```latex
+10x10x10=10^{3}
+```
+<!-- alt: 10 al cubo -->
+
+Descripción ecuación: 10 a la 3.
+
+10 a la 3 se lee como diez al cubo.
+
+Observa estos números, que están en forma exponencial. 
+5 a la 3 = 5X5X5 = 125 3 a la 4 = 3x3x3x3 = 81
+
+### Práctica lo Aprendido
+
+1. Escribe 10000 como una multiplicación repetida.
+
+2. Escribe 7x7x7x7 en forma exponencial.
+
+3. Escribe 37169 en forma desarrollada con exponentes.
+
+4. En el ejemplo de la parte superior de la página, ¿por qué se usó el número 10 como 
+la base para escribir 1 000 000 en forma exponencial?
+
+5. ¿Cuántos ceros hay en 10 a la 7 cuando se escribe en forma estándar?
+
+6. Escribe cada número en forma exponencial. Cuenta el número de ceros que hay en cada número.
+
+a. 1000
+
+b. 1000000000
+
+c. 10x10x10x10x10
+
+7. Escribe cada número en forma desarrollada con exponentes.
+
+a. 841
+
+b. 5832
+
+c. 1874161
+
+d. 22600000
+
+8. Evalúa.
+
+a. 6 a la 2
+
+b. 12644719582 a la 0
+
+c. 4 a la 3
+
+d. 2 a la 7
+
+9. ¿Qué número elevado tanto a la potencia cero como a la primera potencia es igual a 1?
+
+10. Escribir para explicar. Explica cómo
+
+11. A Karen le pidieron escribir 80808 en forma desarrollada con exponentes. Su respuesta fue (8 x 10 a la 2) + (8 x 10 a la 1) + (8 x 10 a la 0). Explica dónde se equivocó y escribe la respuesta correcta.
+
+12. Inviertes un dólar en un fondo común de inversión. Cada 8 años, se duplica tu dinero. Si no agregas más dinero, ¿qué expresión muestra cuánto vale tu inversión después de 48 años?
+
+a. 1 a la 48
+
+b. 1x2x2x2x2x2
+
+c. 1+2 + 2 + 2 + 2 + 2 + 2
+
+d. 1x2x2x2x2x2x2
+
+13. El número 33871648 ¿cuál es la posición del dígito 7?
+
+a. Centenas
+
+b. Miles
+
+c. Decenas de miles
+
+d. Millones
+
+## RADICACIÓN Y LOGARITMACIÓN
+
+Lo entenderás: La radicación y la logaritmación son operaciones inversas a la potenciación.
+
+¿Cómo hallas la raíz cuadrada de un número?
+
+Un cuadrado perfecto es cualquier número que se pueda escribir como producto de un número natural multiplicado por sí mismo.
+
+9 es un cuadrado perfecto, porque 3x3 = 9
+
+*Imagen 7: Cuadrado de 3*
+
+Descripción imagen: Cuadrado dividido entre 3 filas y 3 columnas, delineadas de color negro, todas rellenas de color amarillo.
+
+El cuadrado de 3 es 9 y la raíz cuadrada de 9 es 3
+
+Para hallar la raíz cuadrada de un número, pregunta:
+
+¿Qué número multiplicado por sí mismo es igual al número dado?
+
+El símbolo de la raíz cuadrada es:
+
+*Ecuación 4: Raíz Cuadrada*
+
+```latex
+\sqrt{}
+```
+
+Descripción ecuación: Se observa un chulo que en su extremo superior presenta un segmento de recta de manera horizontal.
+
+Se llama signo radical.
+
+Halla la raíz cuadrada de 25 o
+
+*Ecuación 5: Raíz de 25*
+
+```latex
+\sqrt{25}
+```
+
+Descripción ecuación: Símbolo de raíz cuadrada al interior el número 25.
+
+¿Qué número multiplicado por sí mismo es igual a 25?
+
+*Imagen 8: Cuadrado de 5*
+
+Descripción imagen: Cuadrado dividido entre 5 filas y 5 columnas, delineadas de color negro, todas rellenas de color amarillo.
+
+Lo que se escribe
+
+5 x 5 = 25
+
+La raíz cuadrada de 25 es 5.
+
+*Ecuación 6: Solución raíz de 25*
+
+```latex
+\sqrt{25}=5
+```
+
+Descripción ecuación: Símbolo de raíz cuadrada al interior el número 25 igual 5.
+
+Otros ejemplos
+
+¿Cómo hallas la raíz cúbica de un número?
+
+Un cubo perfecto es cualquier número que se pueda escribir como producto de un número natural multiplicado por sí mismo como n x n x n.
+
+Hallar la raíz cúbica de un número es lo inverso de elevar un número al cubo. Halla la raíz cúbica de 125 o
+
+*Ecuación 7: Raíz Cúbica de 125*
+
+```latex
+\sqrt[3]{125}
+```
+<!-- alt: Raíz cúbica de 125 -->
+
+Descripción ecuación: Símbolo de raíz cuadrada con un 3 en el espacio del chulo al interior el número 125
+
+Lo que se pregunta:
+
+¿Qué número elevado al cubo es 125?
+
+*Imagen 9: Cubo de 5*
+
+Descripción imagen: Dibujo de un cubo en el cual se observan 3 caras de este, cada cara está repartida en 5 filas y 5 columnas delineadas de color negro, en una cara las divisiones están rellenas de color amarillo, en otra de color verde y en la otra de color rojo.
+
+Lo que se escribe:
+
+5x5x5 = 125
+
+La raíz cúbica de 125 es 5.
+
+*Ecuación 8: Solución raíz cúbica de 125*
+
+```latex
+\sqrt[3]{125}=5
+```
+<!-- alt: raíz cúbica de 125 igual 5 -->
+
+Descripción ecuación: Símbolo de raíz cúbica con un 125 al interior igual 5.
+
+¿Cómo usas las potencias de números naturales para hallar logaritmos?
+
+Hallar un logaritmo es lo inverso a elevar un número hasta obtener cierta potencia.
+
+Para hallar e logaritmo de un número, pregunta:"¿a qué exponente se eleva una base para que dé cierta potencia?"
+
+Halla el logaritmo en base 4 de 64 o
+
+*Ecuación 9: Logaritmo*
+
+```latex
+\log_{4}64
+```
+
+Descripción ecuación: Log sub 4 64.
+
+Lo que se pregunta:
+
+¿A qué exponente elevo 4 para que la potencia sea 64?
+
+4 a la x =64
+
+Lo que se escribe:
+
+4 a la 3 = 4 x 4 x 4 = 64
+
+*Ecuación 10: Solución Logaritmo*
+
+```latex
+\log_{4}64=3
+```
+
+Descripción ecuación: Log sub 4 64 igual 3.
+
+### Práctica lo Aprendido
+
+1. En los ejercicios escribe el número de cubos o cuadrados que corresponde a cada figura. Luego halla la raíz.
+
+*Imagen 10: Cubo de 3*
+
+Descripción imagen: Dibujo de un cubo en el cual se observan 3 caras de este, cada cara está repartida en 3 filas y 3 columnas delineadas de color negro, en una cara las divisiones están rellenas de color azul claro, en otra de color azul medio y en la otra de color azul oscuro.
+
+*Imagen 11: Cuadrado de 4*
+
+Descripción imagen: Cuadrado dividido entre 4 filas y 4 columnas, delineadas de color negro, todas rellenas de color azul claro.
+
+2. En raíz cúbica de 216, ¿cuál es el exponente?
+
+3. En Logaritmo en base 2 de 216,
+
+a. ¿cuál es la base?
+
+b. ¿Cuál es la potencia?
+
+4. ¿Cómo se escribe 2 a la 3 = 8 en forma de raíz y de logaritmo?
+
+5. Halla la raíz cuadrada.
+
+*Imagen 12: Cuadrado de 7*
+
+Descripción imagen: Cuadrado dividido entre 7 filas y 7 columnas, delineadas de color negro, todas rellenas de color verde claro.
+
+*Imagen 13: Cuadrado de 3*
+
+Descripción imagen: Cuadrado dividido entre 3 filas y 3 columnas, delineadas de color negro, todas rellenas de distintos colores.
+
+*Imagen 14: Cuadrado de 8*
+
+a. ’
+
+Descripción imagen: Cuadrado dividido entre 8 filas y 8 columnas, delineadas de color negro, todas rellenas de color amarillo.
+
+*Imagen 15: Cuadrado de 10*
+
+Descripción imagen: Cuadrado dividido entre 10 filas y 10 columnas, rellenas de manera alternada de color negro y blanco, tanto en filas como en columnas.
+
+6. Calcula
+
+a. Raíz cuadrada de 4
+
+b. Raíz cuadrada de 169
+
+c. Raíz cuadrada de 400
+
+d. Raíz cúbica de 1
+
+e. Raíz cúbica de 343
+
+f. Raíz cúbica de 729
+
+g. Logaritmo base 5 de 125
+
+h. Logaritmo base 2 de 32
+
+i. Logaritmo base 3 de 81
+
+j. Logaritmo base 8 de 512
+
+k. Logaritmo base 6 de 216
+
+l. Logaritmo base 7 de 2401
+
+7. Escribir para explicar: Gina dice que la raíz cuadrada de 100 es 50. Dice que es fácil hallar la raíz cuadrada de un número; todo lo que se necesita hacer es sumar dos veces el mismo número para obtener la respuesta. ¿Tiene razón? Explícalo.
+
+## FACTORES, MÚLTIPLOS Y DIVISIBILIDAD
+
+Lo entenderás: Hay reglas que se pueden usar para determinar si un número es divisible por otro número.
+
+¿Cómo se relacionan los factores y la divisibilidad?
+
+¿De cuántas maneras diferentes puede Raúl construir un corral para perros, que tenga un área de 36 metros cuadrados y cuyas medidas de los lados estén en metros enteros?
+
+Escoge una operación: Divide para hallar las medidas posibles.
+
+Un número es divisible por otro número cuando el cociente es un número natural y el residuo es 0.
+
+Los divisores y cocientes son factores de 36.
+
+- 36 dividido 1 = 36
+
+1 y 36 son factores.
+
+- 36 dividido 2=18
+
+2y18son factores.
+
+- 36 dividido 3=12
+
+3 y 12 son factores.
+
+- 36 dividido 4 = 9
+
+4 y 9 son factores.
+
+- 36 dividido 5=7 Residuo 1
+
+5 y 7 no son factores de 36.
+
+- 36 dividido 6 = 6
+
+6 es un factor.
+
+Se han hallado todos los factores. Los factores de 36 son 1, 2, 3, 4, 6, 9, 12, 18 y 36.
+
+Usa cada par de factores para hallar las medidas posibles del corral para perros.
+
+- 1 y 36
+
+- 4 y 9
+
+- 12 y 3
+
+- 2 y 18
+
+- 6 y 6
+
+- 18 y 2
+
+- 3 y 12
+
+- 9 y 4
+
+- 36 y 1
+
+Raúl puede construir el corral para perros de 9 maneras diferentes.
+
+Otro ejemplo
+
+¿Cómo usas las reglas de divisibilidad?
+
+¿Es 126 divisible por 2, 3, 4, 6, 9 ó 10?
+
+Puedes usar las reglas de divisibilidad para determinarlo.
+
+Reglas de divisibilidad
+
+1. Un número entero es divisible por:
+
+2 si el dígito de las unidades es un número par.
+
+Ejemplos:
+
+10
+
+6
+
+108
+
+¿Es 126 divisible por ese número?
+
+Sí, el dígito de las unidades es par
+
+2. Un número entero es divisible por:
+
+3 si la suma de los dígitos es divisible por 3.
+
+Ejemplos:
+
+3
+
+627
+
+891
+
+¿Es 126 divisible por ese número?
+
+Sí, 1 + 2 + 6 = 9, y 9 es divisible por 3.
+
+3. Un número entero es divisible por:
+
+4 si los dos últimos dígitos del número son divisibles por 4.
+
+Ejemplos:
+
+64
+
+5888
+
+¿Es 126 divisible por ese número?
+
+No, 26 no es divisible por 4
+
+4. Un número entero es divisible por:
+
+5 si el dígito de las unidades es 0 ó 5.
+
+Ejemplos:
+
+380
+
+9005
+
+¿Es 126 divisible por ese número?
+
+No, el dígito de las unidades es 6.
+
+5. Un número entero es divisible por:
+
+6 si el número es divisible tanto por 2 como por 3.
+
+Ejemplos:
+
+230
+
+8982
+
+¿Es 126 divisible por ese número?
+
+Sí, 126 es divisible tanto por 2 como por 3.
+
+6. Un número entero es divisible por:
+
+El 9 si la suma de los dígitos es divisible por 9.
+
+Ejemplos:
+
+189
+
+1035
+
+¿Es 126 divisible por ese número?
+
+9 Sí, 1 + 2 + 6 = 9, y 9 es divisible por 9.
+
+7. Un número entero es divisible por:
+
+10 si el dígito de las unidades es 0.
+
+Ejemplos:
+
+170
+
+1380
+
+¿Es 126 divisible por ese número?
+
+No, el dígito de las unidades no es 0.
+
+¿Qué es un múltiplo de un número?
+
+¿Es 126 un múltiplo de 7?
+
+Un múltiplo de un número dado es un producto de dicho número y un número natural.
+
+Dado que 126 dividido 7 = 18, 126 es el producto de 7 y 18.
+
+Práctica lo Aprendido, 126 es un múltiplo de 7.
+
+Otros múltiplos de 7 son 7, 14, 21, 28, 35, 42, 49 y así sucesivamente.
+
+Explícalo.
+
+¿Es 53802 un múltiplo de 9? Explica tu respuesta.
+
+### Práctica lo Aprendido
+
+      1. Indica si cada número es divisible por 2, 3, 4, 5, 6, 9 ó 10.
+
+a. 228
+
+b. 117
+
+c. 60
+
+d. 78
+
+2. En el ejemplo que está al principio de la página, ¿cómo sabes si 36 es divisible por 2?
+
+3. ¿Cómo puedes saber que 189 es divisible por 3 sin dividir?
+
+4. Usa las reglas de divisibilidad para indicar si cada número es divisible por: 2, 3,4, 5, 6, 9 ó 10.
+
+a. 63
+
+b. 225
+
+c. 399
+
+d. 4090
+
+5. Nombra al menos tres factores de cada número que sean mayores que 1
+
+a. 84
+
+b. 98
+
+c. 150
+
+d. 300
+
+e. 75
+
+f. 333
+
+g. 1200
+
+h. 70
+
+6. Lina está ayudando a su mamá a pintar el e exterior de la casa. Ella sabe que los rodillos de pintura vienen en paquetes de 3. Si su mamá necesita 20 rodillos, ¿cuántos paquetes tendrá que comprar?
+
+7. Si x es un número natural mayor que 0, ¿qué opción es siempre verdadera?
+
+a. 6x es divisible por 3.
+
+b. 6x es divisible por 4.
+
+c. 6x es divisible por 5.
+
+d. 6x es divisible por 9.
+
+## FACTORIZACIÓN PRIMA
+
+Lo entenderás: Todo número entero mayor que 1 es un número primo o un número compuesto.
+
+¿Cómo escribes la factorización prima de un número?
+
+Los números naturales mayores que 1 son números primos o números compuestos.
+
+Un número primo tiene exactamente dos factores: 1 y él mismo. Los números 2, 3 y 5 son números primos.
+
+Un número compuesto tiene más de dos factores y se puede escribir como el producto de sus factores primos. A esto se le llama factorización prima.
+
+4 es un número compuesto. Los factores de 4 son 1, 2 y 4. Su único factor primo es 2. La factorización prima de 4 es 2 x 2, ó 2 a la 2.
+
+Para hallar la factorización prima de 60, escribe sus factores empezando con el factor primo más pequeño.
+
+60 = 2 x 30
+
+2 es un factor de 60.
+
+= 2x 15
+
+2 es de nuevo un factor.
+
+=2x2x3x5
+
+3 y 5 son factores.
+
+= 2 a la 2 x 3 x 5
+
+Usa exponentes.
+
+Otro ejemplo
+
+¿Cómo usas un árbol de factores para hallar la factorización prima de un número?
+
+Una manera:
+
+Para hallar la factorización prima de 72, empieza con el factor primo más pequeño. Escribe los factores hasta que todos los factores sean números primos.
+
+72 = 2 x 36
+
+36 = 2 x 18
+
+18= 2 x 9
+
+9= 3 x 3
+
+72 = 2 x 2 x 2 x 3 x 3
+
+72 = 2 a la 3 x 3 a la 2
+
+Otra manera:
+
+Para hallar la factorización prima de 72, empieza con dos factores de 72. Escribe los factores hasta que todos los factores sean números primos.
+
+72 = 6 x 12
+
+=2 x 3 x 3 x 4
+
+=2 x 3 x 3 x 2 x 2
+
+Ordena los factores primos.
+
+72 = 2x2x2x3x3
+
+### Práctica lo Aprendido:
+
+      1. Escribe la factorización prima de cada número. Si es un número primo, escribe primo.
+
+a. 89
+
+b. 18
+
+c. 32
+
+d. 216
+
+e. 23
+
+f. 45
+
+g. 169
+
+h. 243
+
+2. ¿De qué manera muestran los dos árboles de factores de arriba que sólo hay una factorización prima de 72?
+
+3. ¿Es 1 un número primo o compuesto?
+
+4. Escribe la factorización prima de cada número. Si se trata de un número primo, escribe primo. Escoge factores fáciles. Por ejemplo, para 1 300, empieza con 1300= 13 x 100.
+
+a. 26
+
+b. 47
+
+c. 68
+
+d. 125
+
+e. 490
+
+f. 750
+
+g. 210
+
+h. 2100
+
+i. 120
+
+j. 65
+
+k. 300
+
+l. 27
+
+m. 38
+
+n. 99
+
+o. 57
+
+5. ¿Cuál de los siguientes números es un número primo?
+
+a. 37
+
+b. 33
+
+c. 35
+
+d. 39
+
+6. Escribir para explicar Raúl hace la conjetura, o generalización, de que todos los números impares mayores que 3 pueden expresarse como la suma de dos números primos. Usa el número 11 para explicar que Raúl está equivocado.
+
+7. Un famoso problema sin resolver conocido como la conjetura de Goldbach dice que todos los números pares mayores que 2 pueden escribirse como la suma de dos números primos. Por ejemplo: 4 = 2 + 2, 6 = 3 + 3, 8 = 3 + 5, y así sucesivamente. Las computadoras han demostrado que la conjetura de Goldbach es verdadera para ¡todos los números pares hasta 100000000000000!
+
+Usa la conjetura de Goldbach y muestra que cada número se puede escribir como la suma de dos números primos.
+
+  a. 18
+
+  b. 30
+
+  c. 46
+
+  d. 66
+
+# TEMA 2: NÚMEROS FRACCIONARIOS Y DECIMALES
+
+## SIGNIFICADOS DE LAS FRACCIONES
+
+Lo entenderás: Una fracción puede nombrar parte de un todo o un entero, parte de un conjunto o parte de un segmento.
+
+¿Cuál es el significado de una fracción?
+
+Una fracción describe una o más partes de una unidad que se divide en partes iguales. La unidad puede ser una región, un conjunto o un segmento.
+
+Una fracción está compuesta por la parte de arriba que es el numerador: número de partes iguales, y la parte de abajo denominador: número total de partes iguales.
+
+- Parte de un conjunto:
+
+*Imagen 16: Conjunto de Animales*
+
+Descripción imagen: Recuadro con dibujo de 8 animales organizados en dos filas de 4 cada una, en la primera se encuentran de izquierda a derecha un gato, un perro, una gata y un perro. En la segunda fila hay un perro, un pájaro, un gato y un perro.
+
+Hay 8 animales. 3 de los 8 son gatos.
+
+3 sobre 8 de los animales son gatos
+
+- Parte de un segmento:
+
+*Imagen 17: Segmento de recta*
+
+Descripción imagen: Segmento de recta partida en 4 partes iguales, la primera parte está resaltada con color naranja.
+
+El segmento tiene 4 partes.
+
+1 de las partes está coloreada, 1 sobre 4 del segmento está coloreado,
+
+Otros ejemplos
+
+¿Cómo se usan las fracciones para mostrar división?
+
+Ana, Lina, Francisco y Laura están haciendo un collage. Van a compartir 3 tiras rectangulares de color. ¿Qué fracción representa la parte de la tira entera de papel que le corresponderá a cada uno?
+
+Una manera de dividir 3 unidades en 4 partes iguales es dividir primero cada unidad en 4 iguales. Cada parte es 1 sobre 4 de la unidad.
+
+Reordena las partes de 1 sobre 4. Cada persona recibe 3 partes de 1 sobre 4. Cada una recibe 3 sobre 4.
+
+Por tanto, 3 dividido 4 = 3 sobre 4
+
+¿Cómo usas una recta numérica para representar fracciones?
+
+Una manera de hallar un punto que representa una fracción en una recta numérica es dividir un segmento de unidad (0 a 1) en partes iguales. Para hallar 4 sobre 5 divide el segmento en 5 partes iguales.
+
+*Imagen 18: 4/5 en segmento de recta.*
+
+Descripción imagen: Segmento de recta numérica que muestra de izquierda a derecha los números 0, 1, 2 y 3, cada uno de estos a la misma distancia del anterior. Entre el 0 y el 1 hay igualmente distanciadas 4 líneas verticales, sobre la cuarta hay un punto negro y bajo este el número 4/5.
+
+Luego, halla el punto que está a 4 quintos de camino entre 0 y 1.
+
+### Práctica lo aprendido:
+
+1. Escribe la fracción que representa la parte coloreada.
+
+*Imagen 19: Fracción de circunferencias rellenas.*
+
+Descripción imagen: Fila de 10 circunferencias de color rojo, las primeras 3 rellenas de color rojo.
+
+*Imagen 20: Fracción de cuadrados rellenos.*
+
+Descripción imagen: Cuadrado dividido en 4 cuadrados, 3 de ellos rellenos de color amarillo.
+
+2. Cuatro amigos quieren compartir tres panes. Un amigo sugiere que cada uno de los panes se divida en 4 partes iguales. Si cada persona recibe 3 partes, ¿qué parte de un pan entero recibe en total cada persona?
+
+3. Haz un modelo para representar las fracciones
+
+a. 8 de 9 como parte de una región.
+
+b. 6 de 7 como parte de un conjunto.
+
+c. 3 de 5 como parte de un segmento.
+
+4. Escribe cada respuesta como fracción. Luego anótala en una recta numérica.
+
+a. 1 dividido 3
+
+b. 2 dividido 3
+
+c. 3 dividido 4
+
+d. 1 dividido 2
+
+5. Las mariquitas son fáciles de identificar porque son rojas con puntos negros. ¿Qué fracción de los insectos que ves abajo son mariquitas?
+
+*Imagen 21: Conjunto de Insectos.*
+
+Descripción imagen: Recuadro que al interior contiene el dibujo de insectos organizados en 3 filas, en la primera fila: Una libélula y un escarabajo. En la segunda fila: una mariposa, un caracol y una mariposa. En la tercera fila: Una mariposa y una mariquita.
+
+6. ¿Qué fracción está más cerca de 1: 3 cuartos o 5 doceavos? Usa las rectas numéricas de abajo para justificar tu respuesta.
+
+*Imagen 22: Unidad Fraccionada en Cuartos.*
+
+Descripción imagen: Segmento de recta repartido en cuatro partes iguales, etiquetadas de izquierda a derecha con los números1/4, 2/4 y ¾.
+
+*Imagen 23: Unidad Fraccionada en Doceavos.*
+
+Descripción imagen: Segmento de recta repartido en 12 partes iguales, etiquetadas de izquierda a derecha con los números 1/12, 2/12, 3/12, 4/12, 5/12, 6/12, 7/12, 8/12, 9/12, 10/12, 11/12.
+
+## NÚMEROS MIXTOS Y FRACCIONES IMPROPIAS
+
+Lo entenderás: Las fracciones mayores o iguales a 1 se pueden representar con un número mixto.
+
+¿Qué relación hay entre números mixtos y fracciones impropias?
+
+Juan tiene 20 baldosas cuadradas. Las usa para cubrir tapas de cajas con 3 filas de 3 baldosas cuadradas. ¿Qué número representa la región total que está cubierta de baldosas?
+
+Un número mixto es un número que tiene una parte entera y una fracción.
+
+Puedes escribir 20 dividido 9 como número mixto.
+
+Sabes que 20 dividido 9 = 20 sobre 9
+
+Divide el numerador por el denominador.
+
+*Imagen 24: División de Numerador en Denominador.*
+
+Descripción imagen: Proceso de división de 20 entre 9, cociente 2 y residuo 2.
+
+Pon el residuo como fracción. Sitúa el residuo sobre el divisor.
+
+Por tanto, 20 dividido 9 = 20 sobre 9 0 2 enteros 2 novenos.
+
+Una fracción impropia es una fracción cuyo numerador es igual o mayor que su denominador.
+
+Escribe 2 enteros 2 novenos como fracción impropia.
+
+- Multiplica el denominador de la fracción por la parte entera. 9X2 = 18
+
+- Suma el numerador de la fracción. 18 + 2 = 20
+
+- Escribe usando el mismo denominador.
+
+- Por tanto, 2 enteros 2 sobre nueve = 20 sobre 9.
+
+### Práctica lo aprendido
+
+1. Escribe las fracciones impropias como números mixtos, y los números mixtos como fracciones impropias.
+
+a. 3 sobre 2
+
+b. 2 enteros 3 sobre 4
+
+c. 7 sobre 6
+
+d. 9 enteros 1 sobre 10
+
+e. 3 enteros 1 sobre 4
+
+f. 21 sobre 2
+
+2. Escribe una regla general para convertir un número mixto en una fracción impropia.
+
+3. Simona piensa que 8 sobre 4 no es una fracción impropia porque 8 dividido 4 = 2. ¿Tiene razón? Explica tu respuesta.
+
+4. Escribe una fracción impropia y un número mixto para cada modelo.
+
+*Imagen 25: Fracción Impropia en rectángulos*
+
+Descripción imagen: Dibujo de 3 rectángulos repartido cada uno de manera vertical en 10 partes iguales, de los dos primeros todas sus partes están rellanas de color verde, en el tercero las primeras 8 contadas de izquierda a derecha están rellenas de color verde.
+
+*Imagen 26: Fracción impropia en círculos.*
+
+Descripción imagen: 3 círculos repartidos en mitades, en los primeros dos sus partes están rellenas de color verde, en el tercero, solamente la primera está rellena de color verde.
+
+5. Escribe cada fracción impropia como número mixto o cada número mixto como fracción impropia.
+
+a. 4 enteros 1 sobre 2
+
+b. 3 sobre 2
+
+c. 4 enteros 9 sobre 10
+
+d. 5 enteros 3 sobre 4
+
+e. 22 sobre 3
+
+f. 5 sobre 4
+
+g. 8 enteros 2 sobre 3
+
+h. 6 enteros 1 sobre 3
+
+6. La escultura Long Term Parking en Francia tiene 60 carros incrustados en concreto. Mide 19,5 metros de altura. ¿Cuál es la altura de la escultura como número mixto y como una fracción impropia?
+
+7. ¿Qué propiedad te dice que 7X1=7?
+
+8. ¿Es 5 sobre 5 una fracción impropia? Explica tu razonamiento.
+
+9. ¿Cuál es el valor del cuarto dígito (subrayado) en 423148675?
+
+10. Abajo se da el peso en libras de 4 paquetes. Ordena los pesos de menor 
+a mayor.
+
+a. 0,9
+
+b. 0,03
+
+c. 1,8
+
+d. 0,14
+
+11. Escribe una fracción impropia y un número mixto para la parte coloreada del modelo.
+
+*Imagen 27: Número Mixto*
+
+Descripción imagen: 2 círculos repartidos cada uno en 3 partes iguales en el primero las 3 rellenas de color morado, en el segundo solo 2 de estas están rellenas de color morado.
+
+12. Una tabla mide 4 enteros 2 sobre 3 metros de largo. ¿Cómo conviertes 4 enteros 2 sobre 3 en fracción impropia?
+
+a. Suma 4 y 2 sobre 3
+
+b. Divide 4 por 2 sobre 3
+
+c. Multiplica 4 por 3. Luego, suma 2. Escribe ese número como numerador sobre 
+un denominador de 3.
+
+d. Multiplica 4 por 2 y luego suma 3. Escribe el resultado como un numerador 
+sobre un denominador de 3.
+
+## FRACCIONES EQUIVALENTES
+
+Lo entenderás: Una parte de una unidad o una parte de un conjunto se puede representar con fracciones equivalentes.
+
+¿Cómo hallas fracciones equivalentes?
+
+De un total de 12 manzanas, 8 son rojas. Por tanto, 8 doceavos de las manzanas son rojas. Claudia dice que 4 sextos de las manzanas son rojas y Samuel dice que 2 tercios son rojos.
+
+¿Quién tiene razón?
+
+Puedes multiplicar o dividir el numerador denominador por el mismo número diferente de cero para obtener fracciones equivalentes.
+
+Una manera:
+
+- Usa la multiplicación.
+
+      1. Multiplica 4 y 6 por 2
+
+*Ecuación 11: Amplificación de fracción.*
+
+```latex
+\frac{4x2}{6x2}=\frac{8}{12}
+```
+<!-- alt: 4 sextos por 2 medios = 8 doceavos -->
+
+Descripción ecuación: Fracción numerador 4 por 2, denominador 6 por 2 igual fracción numerador 8 denominador 12.
+
+      2. Las fracciones 4 sobre 6 y 8 sobre 12 son fracciones equivalentes.
+
+Otra manera:
+
+- Usa la división.
+
+      1. Divide 4 y 6 por 2
+
+*Ecuación 12: Simplificación de Fracción.*
+
+```latex
+\frac{4\div2}{6\div2}=\frac{2}{3}
+```
+<!-- alt: 4 sextos dividido 2 medios = 2 tercios. -->
+
+Descripción ecuación: Fracción numerador 4 dividido 2, denominador 6 dividido 2 igual fracción numerador 2 denominador 3.
+
+      2. Las fracciones 4 sobre 6 y 2 sobre 3 son fracciones equivalentes.
+
+Por tanto, Claudia y Samuel tenían razón ya que 8 sobre 12 es equivalente a 4 sobre 6
+
+### Práctica lo aprendido:
+
+            1. Escribe la fracción y halla dos fracciones equivalentes para cada caso.
+
+a. Un tercio
+
+b. Cinco sextos
+
+c. Dos quintos
+
+d. Tres octavos
+
+e. Nueve dieciochoavos
+
+f. Ocho décimos
+
+            2. Escribe las fracciones, la operación y el número diferente de cero que falta para que las fracciones sean equivalentes.
+
+              a. Un tercio y seis dieciochoavos
+
+              b. Diecisiete treintaicuatroavos y un medio
+
+              c. Treinta treintaicincoavos y seis séptimos
+
+              d. Nueve doceavos y treinta y seis cuarentaiochoavos
+
+      3. Escribe las fracciones y escribe el numerador que falta en la cantidad indicada para que éstas sean equivalentes.
+
+        a. Un tercio; en novenos
+
+        b. Siete novenos; en sesentaitresavos
+
+        c. Treinta cuarentavos; en octavos
+
+        d. Quince treintaicincoavos; en séptimos
+
+      4. Halla el denominador que falta para que las fracciones sean equivalentes
+
+        a. $\frac{5}{12}=\frac{10}{?}$
+
+        b. $\frac{2}{7}=\frac{10}{?}$
+
+        c. $\frac{14}{80}=\frac{7}{?}$
+
+        d. $\frac{6}{18}=\frac{3}{?}$
+
+        e. $\frac{80}{100}=\frac{20}{?}$
+
+        f. $\frac{12}{?}=\frac{3}{16}$
+
+        g. $\frac{10}{?}=\frac{2}{5}$
+
+        h. $\frac{7}{?}=\frac{21}{36}$
+
+13. Cristian dejó caer un paquete de 8 bombillas y 2 de las bombillas se rompieron. Escribe dos fracciones equivalentes para representar las bombillas que se rompieron.
+
+14. Marcos escribió 20 de 25 palabras con la ortografía apropiada. ¿Qué fracción de las palabras escribió correctamente? ¿Qué fracción de las palabras escribió incorrectamente? Escribe dos fracciones equivalentes para cada caso.
+
+15. ¡Oferta! 2 por $10500 ó 1 por $6000. ¿Cuál es la cantidad mínima que puedes gastar para comprar 7 libros?
+
+16. Un huevo duro tarda en cocinarse aproximadamente 12 minutos. ¿Qué fracción de una hora son 12 minutos?
+
+  a. Un cuarto
+
+  b. Un quinto
+
+  c. Dos quintos
+
+  d. Dos tercios
+
+17. Una tarántula Goliat devoradora de pájaros, de 2 años de edad, pesa 6 onzas o 6 dieciseisavos de libra. ¿Qué fracción es equivalente a seis dieciseisavos?
+
+  a. Un cuarto
+
+  b. Un tercio
+
+  c. Un octavo
+
+  d. Tres octavos
+
+18. Explica por qué 6 quinceavos y 3 quintos no son fracciones equivalentes.
+
+19. El viernes cayeron 1,2 centímetros de lluvia, el sábado 5,6 centímetros y el domingo 2,6 centímetros. ¿Cuánto más llovió el sábado que el viernes y el domingo combinados?
+
+20. Mauricio corrió medio kilómetro, o 500 metros, en 3 minutos y 30 segundos. ¿Cuál de las siguientes no es una fracción equivalente a la distancia recorrida?
+
+  a. 2 cuartos
+
+  b. 10 veinteavos
+
+  c. 17 treintaicuatroavos
+
+  d. 16 treintavos
+
+## COMPARACIÓN Y ORDEN DE FRACCIONES Y NÚMEROS MIXTOS
+
+Lo entenderás: Existen diferentes maneras de comparar y ordenar fracciones y números mixtos.
+
+¿Cómo comparas fracciones?
+
+Sandra y Tomás recorrieron dos caminos diferentes en el parque. Sandra caminó 5/6 de kilómetro. Tomás caminó 3/4 de kilómetro.
+
+¿Cuáles mayor, 5/6 o 3/4?
+
+Una manera:
+
+Para comparar fracciones:
+
+- Halla un común denominador escribiendo los múltiplos de cada denominador.
+
+Múltiplos de 4: 4, 8, 12, 16, 20,...
+
+Múltiplos de 6: 6, 12, 18, 24,...
+
+- Se selecciona 12 como común denominador.
+
+*Ecuación 13: Amplificación 5/6*
+
+```latex
+\frac{5}{6}\cdot\frac{2}{2}=\frac{10}{12}
+```
+<!-- alt: 5 sextos por 2 medios = 10 doceavos. -->
+
+Descripción ecuación: Fracción 5 sobre 6 por fracción 2 sobre 2 igual fracción 10/12.
+
+*Ecuación 14: Amplificación 3/4*
+
+```latex
+\frac{3}{4}\cdot\frac{3}{3}=\frac{9}{12}
+```
+<!-- alt: 3 cuartos por 3 tercios = 9 doceavos. -->
+
+Descripción ecuación: Fracción 3 sobre 4 por fracción 3 sobre 3 igual fracción 9/12.
+
+Como 10/12 > 9/12
+
+Por tanto, 5/6 > 3/4
+
+Otra manera:
+
+Puedes multiplicar los denominadores para hallar un común denominador.
+
+Compara 3/4 y 5/6
+
+- Multiplica los denominadores:
+
+4x6 =24
+
+- Usa 24 como común denominador.
+
+*Ecuación 15: Amplificación 5/6*
+
+```latex
+\frac{5}{6}\cdot\frac{4}{4}=\frac{20}{24}
+```
+<!-- alt: 5 sextos por 4 cuartos = 20 veinticuatroavos. -->
+
+Descripción ecuación: Fracción 5 sobre 6 por fracción 4 sobre 4 = fracción 20 sobre 24.
+
+*Ecuación 16: Amplificación 3/4*
+
+```latex
+\frac{3}{4}\cdot\frac{6}{6}=\frac{18}{24}
+```
+<!-- alt: 3 cuartos = 6 sextos = 18 veinticuatroavos. -->
+
+Descripción ecuación: Fracción 3 sobre 4 por fracción 6 sobre 6 = fracción 18 sobre 24.
+
+- Como 20/24 > 18/24
+
+Por tanto, 5/6 > 3/4
+
+Otro ejemplo:
+
+¿Cómo ordenas fracciones y números mixtos?
+
+Escribe 2 5/12, 11/12, 3 1/6 y 2 1/3 en orden de mayor a menor.
+
+- Sabes que 11/12 < 1 y que todos los números mixtos son mayores que 1
+
+- Por tanto, 11/12 es el número menor.
+
+- Al comparar números mixtos, observa la parte entera.
+
+- Como 3 > 2, sabes que 3 1/6 es mayor que 2 2/15
+
+- Luego, compara 2 1/3 y 2 5/12
+
+- Como la parte entera es igual, compara las fracciones.
+
+- Compara 1/3 y 5/12
+
+- Convierte 1/3 en 4/12
+
+- 4/12 < 5/12
+
+- Por tanto, 2 1/3 < 2 5/12
+
+De mayor a menor, los números son 3 1/6, 2 5/12, 2 1/3, 11/12.
+
+### Práctica lo aprendido
+
+            1. Escribe >, < o =en cada pareja.
+
+              a. 3/5 y 4/5
+
+              b. 1/4 y 2/3
+
+            2. Ordena los números de menor a mayor.
+
+              a. 2/3, 1/4, 9/10
+
+              b. 1 2/3, 2 1/4. 1 9/10
+
+            3. ¿Cómo sabes que 5 1/12 > 4 1/2 sin hallar un común denominador para las dos partes fraccionarias?
+
+            4. ¿Cómo sabes que 5/12 < 1/2?
+
+            5. Compara los números y escribe >, <, = según corresponda.
+
+              a. 3/4 y 4/5
+
+              b. 9/10 y 18/20
+
+              c. 3 6/7 y 3 13/14
+
+              d. 1 7/8 y 1 2/3
+
+            6. Ordena los números de menor a mayor
+
+              a. 1/2, 1/4, 5/6, 3/4
+
+              b. 2 1/2, 1 7/8, 2 3/4, 2 3/5
+
+            7. Las pajareras sirven de albergue a muchos tipos de aves. El tamaño del agujero determina el tipo de ave que puede usarla. Ordena los datos en la tabla de menor a mayor.
+
+*Tabla 4: Aves y Agujeros*
+
+| Tipo de Ave | Tamaño del Agujero<br>(En kilómetros) |
+| --- | --- |
+| Lechuza común | 8 |
+| Cabezón pechiamarillo | 2 9/10 |
+| Ratona común | 2 1/2 |
+| Golondrina bicolor | 3 4/5 |
+
+            8. Sara recorrió en bicicleta 2 1/2 kilómetros el jueves, 2 7/10 kilómetros el viernes y 2 5/8 kilómetros el sábado. ¿Qué día recorrió mayor distancia?
+
+            9. En la feria escolar se vendieron 157 entradas. Cada entrada costaba $3000. La meta era recaudar $300000 con la venta de las entradas. ¿En cuánto se sobrepasó la meta?
+
+              a. $71000
+
+              b. $371000
+
+              c. $171000
+
+              d. $471000
+
+## FACTORES COMUNES Y MÁXIMO COMÚN DIVISOR
+
+¿Cómo hallas el máximo común divisor?
+
+Una tienda de mascotas tiene 30 peces dorados y 20 peces ángel, y quiere ponerlos en el menor número posible de peceras de vidrio.
+
+Cada pecera debe contener el mismo número de peces y cada una debe tener sólo peces dorados o sólo peces ángel.
+
+Halla el máximo común divisor (M.C.D.) de 20 y 30 para hallar el mayor número de peces que se pueden poner en cada pecera.
+
+Si un número es factor de dos números se llama factor común.
+
+El máximo común divisor (M.C.D.) de dos números es el número mayor que es factor de ambos números.
+
+Para hallar el máximo común divisor de 20 y 30, puedes escribir todos los factores de cada número y encerrar todos los factores comunes en un círculo.
+
+*Tabla 5: Divisores de 20 y 30.*
+
+| Divisores de 20 | Divisores de 30 |
+| --- | --- |
+| 1, 2, 4, 5, 10, 20. | 1, 2, 3, 5, 6, 10, 15, 30. |
+
+Son factores comunes de 20 y 30, los números: 1, 2, 5 y 10, entre los cuales 10 es el mayor
+
+El M.C.D. de 20 y 30 es 10
+
+Por tanto, la tienda puede poner 10 peces en cada pecera.
+
+Otro ejemplo
+
+¿Cómo usas la factorización prima para hallar el M.C.D. de dos números?
+
+1. Halla los factores de cada número.
+
+2. Escribe los factores primos de cada número.
+
+24 = 2x2x2x3
+
+18 = 2x3 X3
+
+3. Encierra en un círculo los factores primos que comparten ambos números. Aquí comparten los números 2 y 3
+
+4. Multiplica los factores comunes. 2x3 = 6
+
+5. Por tanto, el M.C.D. de 18 y 24 es 6
+
+### Práctica lo aprendido
+
+1. Halla el M.C.D. de cada par de números.
+
+a. 9 y 12
+
+b. 20 y 45
+
+c. 7 y 28
+
+d. 18 y 32
+
+2. Sí dos números son primos, ¿cuál es el M.C.D.?
+
+3. En el ejemplo de arriba, ¿cómo cambiaría el M.C.D. si hubiera 40 peces dorados?
+
+4. Halla el máximo común divisor (M.C.D.) de cada número usando la factorización •a o una lista de factores.
+
+  a. 24 y 36
+
+  b. 20 y 35
+
+  c. 100 y 96
+
+  d. 16 y 18
+
+  e. 48 y 30
+
+  f. 60 y 32
+
+  g. 15 y 6
+
+  h. 90 y 81
+
+  i. 22 y 77
+
+  j. 72 y 27
+
+  k. 11 y 15
+
+  l. 14 y 21
+
+5. Rick Hansen tiene el récord del viaje más largo en silla de ruedas. Viajó en su silla por 4 continentes y 34 países. ¿Cuál es el M.C.D. de 4 y 34?
+
+        a. 1
+
+        b. 4
+
+        c. 2
+
+        d. 17
+
+6. ¿Qué lista muestra todos los factores comunes de 36 y 54?
+
+              a. 1, 2, 3, 6
+
+              b. 1, 2, 3, 6, 9
+
+              c. 1, 2, 3, 6, 9, 18
+
+              d. 1, 2, 3, 6, 9, 12, 18
+
+7. Si compras un televisor por $486 000, incluido el IVA, y lo pagas en 6 cuotas iguales, ¿de cuánto es cada cuota?
+
+8. ¿Cuántos pares de factores tiene 40? Escríbelos.
+
+9. El diagrama de Venn muestra los factores comunes y el M.C.D. de 30 y 42
+
+*Imagen 28: Diagrama de Venn*
+
+Descripción imagen: Diagrama rectangular, al interior 2 circunferencias etiquetadas con Factores de 30 y Factores de 42 respectivamente, con una región en común, la primera región está rellena de color amarillo y tiene los números 5, 10, 15 y 30. En la región común están los números 1, 2, 3 y 6. En la tercera región, rellena de color azul tiene los números 7, 14, 21 y 42.
+
+- ¿Qué muestra cada región del diagrama?
+
+10. Usa un diagrama de Venn para mostrar los factores comunes de 48 y 72. ¿Cuál es el M.C.D.?
+
+## SIMPLIFICACIÓN DE FRACCIONES
+
+Lo entenderás: Una fracción se puede cambiar a su mínima expresión al dividir el numerador y el denominador por su máximo común denominador.
+
+¿Cómo escribes una fracción en su mínima expresión?
+
+Una ventana de colores tiene 20 vidrios. De las 20 secciones, 12 son amarillas. Por tanto, 12/20 de los vidrios son amarillos. También si se simplifica la fracción se observa que 3/5 son amarillos.
+
+Una fracción se simplifica o está en su mínima expresión cuando el numerador y el denominador no tienen ningún factor común, excepto 1.
+
+Para simplificar o escribir 12/20 en su mínima expresión, halla un factor común del numerador y denominador. Dado que 12 y 20 son números pares, tienen el 2 como factor.
+
+Divide 12 y 20 por 2
+
+*Ecuación 17: Simplificación de 12/20*
+
+```latex
+\frac{12\div2}{20\div2}=\frac{6}{10}
+```
+
+Descripción Ecuación: Fracción numerador 12 dividido 2 denominador 20 dividido 2 = Fracción 6 sobre 10.
+
+Tanto 10 como 6 son pares. Divide ambos por 2
+
+*Ecuación 18: Simplificación 6/10*
+
+```latex
+\frac{6\div2}{10\div2}=\frac{3}{5}
+```
+
+Descripción Ecuación: Fracción numerador 6 dividido 2 denominador 10 dividido 2 = Fracción 3 sobre 5.
+
+Dado que 3 y 5 sólo tienen el 1 como factor común, 3/5 está en su mínima expresión,
+
+Otro ejemplo
+
+¿Cómo usas el M.C.D. para hallar la mínima expresión de una fracción?
+
+Hay 36 estudiantes en la clase de quinto grado. Veintisiete irán a la competencia de matemáticas ¿Cuál es la mínima expresión de la fracción de la clase que irá a la competencia?
+
+a. 1/9
+
+b. 2/5
+
+c. 3/4
+
+d. 7/8
+
+Factores de 27: 1, 3, 9, 27.
+
+Factores de 36: 1, 2, 3, 4, 6, 9, 18, 36
+
+El M.C.D. de 27 y 36 es 9
+
+Luego, divide el numerador y el denominador por el M.C.D.
+
+*Ecuación 19: Simplificación 27/36*
+
+```latex
+\frac{27\div9}{36\div9}=\frac{3}{4}
+```
+
+Descripción Ecuación: Fracción numerador 27 dividido 9 denominador 36 dividido 9 = Fracción 3 sobre 4.
+
+La mínima expresión de 27/36 es 3/4
+
+La opción correcta es c.
+
+### Práctica lo aprendido
+
+1. Escribe las fracciones en su mínima expresión.
+
+a. 16/32
+
+b. 16/20
+
+c. 10/14
+
+d. 33/77
+
+e. 16/20
+
+f. 30/40
+
+g. 10/15
+
+2. En el patrón de vidrios de colores del ejemplo anterior, ¿qué fracción en su mínima expresión representa los vidrios verdes?
+
+3. ¿Por qué es más fácil dividir el numerador y el denominador por el M.C.D. que por cualquier otro factor?
+
+4. Simplifica o escribe las fracciones en su mínima expresión.
+
+a. 300/400
+
+b. 55/60
+
+c. 3/6
+
+d. 75/100
+
+e. 14/21
+
+f. 4/12
+
+g. 42/48
+
+h. 63/70
+
+i. 18/21
+
+j. 22/44
+
+k. 6/42
+
+l. 15/25
+
+m. 9/81
+
+n. 12/100
+
+o. 7/21
+
+p. 16/30
+
+q. 99/121
+
+r. 122/144
+
+s. 28/42
+
+t. 32/80
+
+u. 40/80
+
+v. 11/22
+
+w. 60/80
+
+x. 8/100
+
+5. Escribe una fracción en su mínima expresión que represente la parte sombreada de la figura.
+
+*Imagen 29: Hexágono regular.*
+
+Descripción imagen: Hexágono repartida en 6 partes iguales rellenas de manera alternada 3 de estas de color verde.
+
+6. La Señora García está planeando un viaje de 600 kilómetros. Su carro tiene un tanque de gasolina con capacidad para 18 galones y recorre 29 kilómetros por galón. ¿Será suficiente un tanque lleno de gasolina para todo el viaje?
+
+7. Explica cómo sabes que 55/80 no está en su mínima expresión.
+
+8. La dueña de una tienda quiere regalar las últimas 84 muestras que le quedan de crema para las manos. Hay 26 clientes en la tienda y a cada uno le dará el mismo número de muestras gratuitas. ¿Cuántas muestras gratuitas recibirá cada cliente?
+
+9. ¿Puedes asumir que cualquier fracción está en su mínima expresión si el numerador o el denominador es un número primo?
+
+## DÉCIMAS, CENTÉSIMAS Y MILÉSIMAS
+
+Lo entenderás: Una fracción también se puede representar con un decimal.
+
+¿Cómo escribes una fracción como decimal?
+
+Una fracción como 3/10 o 9/100 se puede representar con un modelo.
+
+En palabras, 3/10 se dice tres décimas.
+
+Tres décimas se pueden mostrar en una tabla de valor de posición.
+
+*Tabla 6: Decimal solo con décimas*
+
+| Unidades | Coma | Décimas |
+| --- | --- | --- |
+| 0 | , | 3 |
+
+Por tanto, 3/10 = 0,3
+
+En palabras, 9/100 se dice nueve centésimas. Nueve centésimas se pueden mostrar en una tabla de valor de posición.
+
+*Tabla 7: Decimal hasta Centésimas*
+
+| Unidades | Coma | Décimas | Centésimas |
+| --- | --- | --- | --- |
+| 0 | , | 0 | 9 |
+
+Por tanto, 9/100 = 0,09
+
+Otros ejemplos
+
+¿Cómo usas la división para escribir una fracción como decimal?
+
+1. Escribe 3/5 como decimal
+
+```latex
+\frac{3}{5}=3\div5
+```
+
+Divide el numerador por el denominador.
+
+*Imagen 30: Fracción Propia a Decimal*
+
+Descripción imagen: Imagen del proceso de división del número 3 en 5, con cociente 0,6 y residuo 0.
+
+Pon una coma decimal después del 3 y añade los ceros necesarios.
+
+Por tanto, 3/5 = 0,6
+
+2. Escribe 1/4 como decimal
+
+```latex
+\frac{1}{4}=1\div4
+```
+
+*Imagen 31: Fracción a decimal.*
+
+Descripción imagen: Imagen del proceso de división del número 1 en 4, con cociente 0,25 y residuo 0.
+
+Pon una coma decimal después del 1 y añade los ceros necesarios.
+
+Por tanto, 1/4 = 0,25
+
+¿Cómo se relacionan las fracciones con los decimales?
+
+Una caja grande está llena de cubos. Hay 1000 cubos en total. Cada cubo se puede considerar como 1/1000 de la caja total. Piensa en sacar 3 cubos de la caja. Dado que un cubo se puede representar como 1/1000 esto significa que 3 cubos se pueden representar como 3/1000.
+
+*Imagen 32: Cubo de 10.*
+
+Descripción imagen: Cubo dividido en cada una de sus caras en 10 filas y 10 columnas, el cubo tiene bordes de color fucsia.
+
+¿Cómo usarías un decimal para representar esta fracción?
+
+En palabras, 3/1000 se dice tres milésimas. Una tabla de valor de posición de decimales te ayuda a determinar el decimal.
+
+*Tabla 8: Decimal hasta milésimas*
+
+| Unidades | Coma | Décimas | Centésimas | Milésimas |
+| --- | --- | --- | --- | --- |
+| 0 | , | 0 | 0 | 3 |
+
+Por tanto, 3/1000 se puede representar con el decimal 0,003.
+
+### Práctica lo aprendido
+
+1. Escribe los decimales como fracciones y las fracciones como decimales.
+
+a. 0,1
+
+b. 0,02
+
+c. 9/10
+
+d. 7/100
+
+2. ¿En qué se diferencian 3/10 de 3/1000 en cuanto al valor de posición?
+
+3. ¿Cómo escribirías la fracción de cubos que quedan al sacar 3 cubos de la caja en el modelo de "Otros ejemplos"?
+
+4. Escribe los decimales como fracciones o números mixtos.
+
+a. 0,23
+
+b. 0,065
+
+c. 0,81
+
+d. 3,078
+
+e. 9,75
+
+f. 0,900
+
+g. 2,43
+
+h. 5,001
+
+5. Escribe las fracciones o números mixtos como decimales.
+
+a. 9/10
+
+b. 18/100
+
+c. 873/1000
+
+d. 3 499/1000
+
+e. 4 1/10
+
+f. 6 6/100
+
+g. 990/1000
+
+h. 5 707/1000
+
+6. El Titanus giganteus es uno de los escarabajos más grandes de la Tierra mide 176, cm de largo.
+
+a. ¿Cuál es la longitud del Titanus giganteus como número mixto?
+
+b. ¿Cuál es la longitud del Titanus giganteus como fracción impropia?
+
+## FRACCIONES Y NÚMEROS DECIMALES EN LA RECTA NUMÉRICA
+
+Lo entenderás: Un punto en una recta numérica puede representar un número que tiene un nombre de fracción y de decimal.
+
+¿Cómo localizas fracciones y decimales en la misma recta numérica?
+
+Julia está jugando y escoge 3 tarjetas. Cada una tiene escrita una fracción o un decimal. Los números son 0,9, 3/20 y 0,617. Luego debe localizar un punto para cada número en una recta numérica que está dividida en 10 segmentos entre 0 y 1.
+
+Lo que piensas
+
+- Sé que 0,9 también significa 9/10. Puedo localizar 9/10 fácilmente.
+
+- Sé que 3/20 significa 3 dividido 20. Puedo dividir para hallar 3 dividido 20 = 0,15
+
+0,1 = 0,10 y 0,2 = 0,20. Por tanto, 0,15 está a mitad de camino entre 0,1 y 0,2
+
+- 0,6 = 0,600 y 0,7 = 0,700. Por tanto, 0,617 está entre 0,6 y 0,7. Está más cerca de 0,6 que de 0,7
+
+Lo que muestras
+
+*Imagen 33: Decimales en segmento de Recta.*
+
+Descripción imagen: Segmento de recta entre 0 y 1, dividido en 10 partes iguales en la mitad de la segunda división se encuentra en la parte superior la fracción 3/20 y en la inferior el decimal 0,15. En la séptima división más cerca de la línea 6 que a la 7 se encuentra en la parte inferior el número 0,617. Sobre la novena línea se encuentra un punto rojo y en la parte superior el número 9/10 y en la inferior 0,9.
+
+Otro ejemplo
+
+¿Cómo representas puntos en una recta numérica?
+
+¿Qué fracción o número mixto puede representar el punto A? ¿El punto B?
+
+¿Qué decimal puede representar el punto A? ¿El punto B?
+
+*Imagen 34: Puntos en segmento de recta*
+
+Descripción de imagen: Segmento de recta entre 0 y 2, cada unidad repartida entre 5 partes iguales. En la cuarta línea del primer segmento hay un punto roja y la letra A. En la tercera línea de la segunda unidad hay un punto rojo y la letra B.
+
+El segmento entre 0 y 1 está dividido en 5 partes iguales. Por tanto, el punto A se representa con 4/5.
+
+Podrías usar la división para convertir 4/5 en 0,8
+
+El punto B se representa con 1 3/5
+
+Dado que 3 dividido 5 = 0,6, otra manera de nombrar el punto B es 1,6.
+
+Explícalo
+
+- ¿Cuál queda más a la derecha en la recta numérica, 1/4 o 0,2? ¿Por qué?
+
+### Práctica lo aprendido
+
+1. Determina en cada conjunto de números en la misma recta numérica cuál es el orden de izquierda a derecha.
+
+a. 8/10; 0,2; 0,7
+
+b. 18/20; 0,1; 6/10
+
+c. 11/10; 0,65; 0,311
+
+2. ¿Dónde queda 9/10: a la izquierda o a la derecha del 1 en la recta numérica? Explícalo.
+
+3. ¿Estará 0,617 a la izquierda o a la derecha de 6/10 en una recta numérica?
+
+4. Explica cómo puedes hallar 0,311 en la recta numérica.
+
+5. Escribe la fracción o el número mixto y decimal que identifica cada punto.
+
+Recuerda que debes empezar a contar desde 0 en la recta numérica para hallar el número de partes de la unidad.
+
+*Imagen 35: Puntos Sobre la recta.*
+
+Descripción de imagen: Segmento de recta numérica entre 0 y 2, cada unidad repartida entre 10 partes iguales. Entre la segunda y tercera línea de la primera unidad hay un punto roja y la letra A. Sobre la tercera línea de la segunda unidad hay un punto rojo y la letra B, sobre la octava y novena línea hay puntos rojos y las letras C y D respectivamente.
+
+a. Punto A
+
+b. Punto B
+
+c. Punto C
+
+d. Punto D
+
+6. Ordena los números de menor a mayor haciendo uso de la recta numérica.
+
+a. 2/5; 0,35; 0,7
+
+b. 7/20; 0,15; 12/25
+
+7. Nadia tiene 2 1/2 libras de tomates, 2,7 libras de pollo, 2,1 libras de apio y 2 2/5 libras de cebolla. ¿Qué comida pesa más?
+
+8. De los siguientes números en una recta numérica, ¿cuál estaría más cerca de 0?
+
+a. 0,2
+
+b. 2/100
+
+c. 3/5
+
+d. 2/20
+
+9. Los tres puntajes más altos en una competencia de danza sobre hielo fueron 60,53; 59,29 y 61,07. Ordénalos de menor a mayor.
+
+10. De los siguientes números en una recta numérica, ¿cuál estaría más cerca de 0?
+
+a. 0,2
+
+b. 2/100
+
+c. 3/5
+
+d. 2/20
+
+11. Luis compró una manzana por $580 con un billete de $ 1000 y recibió $420 de cambio. ¿Cuál es el menor número de monedas de $200 que pudo recibir?
+
+a. 4
+
+b. 5
+
+c. 6
+
+d. 2
+
+# TEMA 3: OPERACIONES ENTRE FRACCIONES Y OTROS NÚMEROS
+
+## ADICIÓN Y SUSTRACCIÓN DE FRACCIONES DE IGUAL DENOMINADOR
+
+Lo entenderás: Cuando dos fracciones tienen igual denominador, su suma o diferencia también tiene el mismo denominador.
+
+¿Cómo sumas fracciones que tienen el mismo denominador?
+
+Si Miguel y Alba montan en 2 montañas rusas por la mañana y en 5 por la tarde, ¿en qué fracción de las montañas rusas del parque montarán, sabiendo que el parque tiene 8 montañas rusas?
+
+Escoge una operación: Suma para hallar el total.
+
+Lo que muestras:
+
+Como hay 8 montañas rusas, usa 2 octavos para representar las montañas de la mañana y 5 octavos para mostrar las montañas de la tarde.
+
+Todas las montañas rusas
+
+*Imagen 36: Totalidad de Montañas*
+
+Descripción imagen: Rectángulo que representa unidad como totalidad de montañas
+
+Montañas rusas en que montarán
+
+*Imagen 37: Montañas a usar.*
+
+Descripción imagen: Fracciones de las montañas rusas a usar.
+
+Lo que escribes:
+
+Las fracciones tienen igual denominador. Suma los numeradores.
+
+*Ecuación 20: Suma de Montañas a Usar*
+
+```latex
+\frac{2}{8}+\frac{5}{8}=\frac{7}{8}
+```
+
+Descripción ecuación: Suma entre la fracción de montañas a usar en la mañana con las que se utilizarán en la tarde, para obtener la fracción de las que utilizarán en todo el día.
+
+Escribe la suma sobre el común denominador.
+
+Miguel y Alba montarán en 7/8 de las montañas rusas ese día.
+
+Otro ejemplo:
+
+¿Cómo restas fracciones que tiene el mismo denominador?
+
+El pionero (montaña rusa del parque) tiene la pista más larga. Mide 9/10 de kilómetro. La pista de Fiebre del oro (montaña rusa del parque) mide sólo 3/10 de kilómetro.
+
+- ¿Cuánto más larga es la pista de El pionero?
+
+Escoge una operación: Resta para comparar dos longitudes.
+
+Lo que muestras
+
+- Un kilómetro
+
+*Imagen 38: Kilómetro*
+
+Descripción imagen: Rectángulo que representa unidad como totalidad de la unidad de medida, un kilómetro.
+
+- Longitud de la pista de El pionero
+
+*Imagen 39: Proporción pista El Pionero*
+
+Descripción imagen: Fracciones de la longitud de la pista El Pionero respecto a la unidad, que es un kilómetro.
+
+- Longitud de la pista de Fiebre del oro
+
+*Imagen 40: Proporción pista Fiebre del Oro*
+
+Diferencia
+
+*Ecuación 21: Diferencia de Proporciones*
+
+```latex
+\frac{9}{10}-\frac{3}{10}
+```
+
+Descripción ecuación: Resta de la longitud de la pista Pionero y la pista Fiebre del Oro.
+
+Lo que escribes:
+
+Las fracciones tienen el mismo denominador. Resta los numeradores.
+
+*Ecuación 22: Total de la Diferencia.*
+
+```latex
+\frac{9}{10}-\frac{3}{10}=\frac{9-3}{10}=\frac{6}{10}
+```
+
+Descripción ecuación: Total de la resta de la longitud de la pista Pionero y la pista Fiebre del Oro.
+
+Escribe la diferencia encima del común denominador.
+
+La pista de El pionero es 6/10 o 3/5, de kilómetro más larga que la pista de Fiebre del oro.
+
+Las fracciones tienen común denominador cuando sus denominadores son iguales.
+
+¿Cómo simplificas 6/10 a 3/5? Explícalo.
+
+### Práctica lo aprendido
+
+1. Halla las sumas o diferencias. Simplifica tus respuestas.
+
+a. 1/4 + 1/4
+
+b. 5/6 – 3/6
+
+c. 6/9 + 2/9
+
+2. En el ejemplo de arriba, la suma de 2/8 y 5/8 ¿por qué no es igual a 7/16?
+
+3. En el ejemplo de arriba, si Miguel y Alba pudieran montar en sólo 3 montañas rusas por la tarde, ¿en qué fracción de las montañas rusas montarían?
+
+4. Halla las sumas o diferencias. Simplifica tus respuestas.
+
+a. 3/8 + 1/8
+
+b. 6/7 - 3/7
+
+c. 5/18 + 1/18
+
+d. 8/11 – 2/11
+
+e. 1/3 + 1/3 + 1/3
+
+f. 12/20 + 5/20 + 2/20
+
+g. 5/9 – (1/9 + 1/9)
+
+h. 11/12 – 2/12 – 1/12
+
+i. 1/12 + 3/12 + 5/12
+
+j. 1/8 + (5/8 – 3/8)
+
+k. 1/2 + 1/2 + 1/2
+
+l. 13/16 – (4/16 + 3/16)
+
+m. (7/10 – 3/10) + 1/10
+
+5. En un CD de las mejores bandas de rock, 5/13 de las canciones las cantan grupos de hombres y 3/13 de las canciones las cantan grupos de mujeres. ¿Qué fracción de las canciones cantan los dos grupos?
+
+6. Tatiana tiene 8 carteles de aves y 12 carteles de reptiles para exhibir en grupos. Quiere que todos los grupos tengan el mismo número de carteles y que tengan un tipo de animal. ¿Cuál es el mayor número de carteles que puede poner en cada grupo?
+
+## MÚLTIPLOS COMUNES Y MÍNIMO COMÚN MÚLTIPLO
+
+Lo entenderás: Hacer una lista de múltiplos de dos números es útil cuando intentas determinar el mínimo común múltiplo para cada par de números.
+
+¿Cómo hallas el mínimo común múltiplo?
+
+Lorena compra filetes de pescado y panes para la cena del equipo de fútbol. Si en cada bolsa de pan vienen 8 panes y en cada caja de filetes vienen 6 filetes. ¿Cuál es el menor número de filetes de pescado y de panes que puede comprar para tener el mismo número de cada uno?
+
+Paso 1:
+
+Halla los múltiplos comunes de 6 y 8
+
+El múltiplo de un número es el producto de un número natural dado y otro número natural.
+
+Un múltiplo común es un número que es múltiplo de dos o más números.
+
+Enumera algunos de los múltiplos de 6 y 8
+
+- Múltiplos de 6: 6, 12, 18, 24, 30, 36, 42, 48, 54,...
+
+- Múltiplos de 8: 8, 16, 24, 32, 40, 48, 56,...
+
+Dos múltiplos comunes de 6 y 8 son 24 y 48.
+
+Paso 2:
+
+Halla el mínimo común múltiplo de 6 y 8
+
+Un mínimo común múltiplo (m.c.m.) es el número mínimo que es múltiplo de ambos números.
+
+Tanto 24 como 48 son múltiplos comunes de 6 y 8. Por tanto, el m.c.m. de 6 y 8 es 24
+
+Lorena debe comprar 24 filetes de pescado y 24 panes.
+
+### Práctica lo aprendido:
+
+1. Halla el m.c.m. para cada par de números.
+
+a. 2 y 4
+
+b. 3 y 4
+
+c. 3 y 7
+
+d. 8 y 15
+
+e. 12 y 9
+
+f. 6 y 18
+
+2. En el ejemplo de arriba, ¿por qué 24 es el m.c.m. de 6 y 8?
+
+3. ¿Cuántos paquetes de cada uno debe comprar Lorena para tener 24 filetes y 24 panes?
+
+4. Halla el mínimo común múltiplo (m.c.m.) de cada par de números.
+
+a. 10 y 12
+
+b. 2 y 4
+
+c. 2 y 3
+
+d. 5 y 6
+
+e. 3 y 5
+
+f. 6 y 8
+
+g. 4 y 5
+
+h. 3 y 10
+
+i. 4 y 9
+
+j. 8 y 20
+
+k. 6 y 9
+
+l. 10 y 12
+
+m. 8 y 9
+
+n. 8 y 12
+
+o. 4 y 6
+
+p. 8 y 16
+
+q. 12 y 16
+
+r. 4 y 12
+
+s. 5 y 10
+
+t. 14 y 21
+
+5. Las nueces vienen en latas de 6 oz; las almendras, en latas de 9 oz; y el maní, en latas de 12 oz. ¿Cuál es el número mínimo de onzas que puedes comprar para tener cantidades iguales de nueces, almendras y maní?
+
+6. ¿Se puede encontrar siempre el m.c.m. de dos números multiplicándolos? Explica tu respuesta.
+
+7. Los promedios de bateo de tres jugadores son 0,261; 0,267; 0,264. Escribe los promedios en orden de menor a mayor. Usa el símbolo <.
+
+8. Un plan de telefonía celular permite hablar los primeros 25 minutos a una tarifa de $220 por minuto y cada minuto adicional a $280. ¿Cuánto costaría una llamada de 47 minutos?
+
+9. Pedro reparte volantes sobre el cuidado de los perros y muestras de galletas para perros. Las galletas vienen en paquetes de 12 y los volantes, en paquetes de 20. ¿Cuál es el número más pequeño de muestras y de volantes que necesita para repartirlos sin que sobren?
+
+- ¿Cuántos paquetes de galletas para perros y cuántos paquetes de volantes necesitará Pedro?
+
+10. Camila compró comida en 5 restaurantes. Cada comida costó entre $12 000 y $24 000. ¿Cuál es un costo total razonable para las 5 comidas?
+
+a. Menos de $60 000
+
+b. Más de $150 000
+
+c. Entre $24 000 y $60 000
+
+d. Entre $60 000 y $120 000
+
+11. Nubia tomó 1 2/3 tazas de jugo de mango. Su hermano dijo que tomó 5/3 de taza. ¿Tiene razón el hermano? Explica tu respuesta.
+
+12. El silbato de una fábrica suena cada 30 minutos. El reloj de la torre suena cada 15 minutos. Si ambos suenan a la 1 p.m., ¿a qué hora volverás a oírlos?
+
+## ADICIÓN Y SUSTRACCIÓN DE FRACCIONES CON DIFERENTE DENOMINADOR
+
+Lo entenderás: Hallar un mínimo común denominador y escribir fracciones equivalentes con el mismo denominador para sumar y restar fracciones con distintos denominadores.
+
+¿Cómo sumas fracciones que tienen distinto denominador?
+
+Ana y Fabio comieron cereal en el desayuno. Ana comió 1/2 de taza de cereal y Fabio comió 1/3 taza de cereal. ¿Cuánto cereal comieron los dos juntos?
+
+Escoge una operación: Suma las fracciones.
+
+Paso 1:
+
+Halla 1/2 + 1/3
+
+Para sumar fracciones con diferente o distinto denominador, halla un denominador común.
+
+El mínimo común múltiplo (m.c.m.) de los denominadores es el mínimo común denominador (m.c.d.).
+
+- Múltiplos de 2: 2, 4, 6...
+
+- Múltiplos de 3: 3, 6...
+
+El m.c.m. es 6; por tanto, el m.c.d. es 6.
+
+Paso 2:
+
+Escribe los sumandos como fracciones equivalentes con el 6 como m.c.d.
+
+*Ecuación 23: Amplificación de 1/2*
+
+```latex
+\frac{1\cdot3}{2\cdot3}=\frac{3}{6}
+```
+
+Descripción ecuación: Amplificación de la fracción 1/2 para convertirla a sextos.
+
+*Ecuación 24: Amplificación de 1/3*
+
+```latex
+\frac{1\cdot2}{3\cdot2}=\frac{2}{6}
+```
+
+Descripción ecuación: Amplificación de la fracción 1/3 para convertirla a sextos.
+
+*Imagen 41: Relación fracciones heterogéneas y Homogéneas*
+
+Descripción Imagen: Rectángulo dividido de manera horizontal en dos partes iguales. En la parte inferior está dividido en 5 partes iguales rellenas de color azul cada una tiene centrado el número 1/6. La parte superior está repartida de manera vertical en dos partes de tal forma que la primera coincide con 3 de las de abajo y la segunda con las dos restantes. Tienen los números 1/2 y 1/3 respectivamente centrados.
+
+Paso 3:
+
+Suma. Simplifica si es posible.
+
+*Ecuación 25: Adición de fracciones homogéneas.*
+
+```latex
+\frac{3}{6}+\frac{2}{6}=\frac{5}{6}
+```
+
+Descripción ecuación: Suma de las fracciones homogéneas entre las comidas de Ana y Fabio.
+
+Ana y Fabio comieron un total de 5/6 de taza de cereal.
+
+Otro ejemplo
+
+¿Cómo restas fracciones que tienen distinto denominador?
+
+Paso 1:
+
+Para restar fracciones con distinto denominador, halla el mínimo común múltiplo (m.c.m.) de los denominadores para usarlo como el mínimo común denominador (m.c.d.).
+
+Múltiplos de 3: 3, 6, 9, 12...
+
+Múltiplos de 4: 4, 8, 12...
+
+Como el m.c.m. de 3 y 4 es 12, el m.c.d. es 12.
+
+Paso 2:
+
+Escribe las fracciones como fracciones equivalentes con el 12 como m.c.d.
+
+*Ecuación 26: Amplificación de 1/3*
+
+```latex
+\frac{1\cdot4}{3\cdot4}=\frac{4}{12}
+```
+
+Descripción ecuación: Amplificación de la fracción 1/3 a doceavos.
+
+*Ecuación 27: Amplificación de 1/4*
+
+```latex
+\frac{1\cdot3}{4\cdot3}=\frac{3}{12}
+```
+
+Descripción ecuación: Amplificación de la fracción 1/4 a doceavos.
+
+*Imagen 42: Fracciones heterogéneas y Homogéneas*
+
+Descripción Imagen: Rectángulo dividido de manera horizontal en dos partes iguales. En la parte inferior está dividido en 7 partes iguales rellenas de color lila cada una tiene centrado el número 1/12. La parte superior está repartida de manera vertical en dos partes de tal forma que la primera coincide con los primeros 4 de las de abajo y la segunda con las 3 restantes. Tienen los números 1/3 y 1/4 respectivamente centrados.
+
+Paso 3:
+
+Resta. Simplifica si es posible.
+
+*Ecuación 28: Resta de Fracciones Homogéneas*
+
+```latex
+\frac{4}{12}-\frac{3}{12}=\frac{1}{12}
+```
+
+Descripción ecuación: Diferencia de fracciones homogéneas 4/12 y 3/12.
+
+La diferencia es 1/12
+
+### Práctica lo aprendido
+
+1. Halla cada total o diferencia. Simplifica tus respuestas.
+
+a. 5/8 – 1/2
+
+b. 4/5 – 3/10
+
+c. 1/2 + 1/5
+
+d. 11/15 – 2/3
+
+2. ¿Por qué necesitas hallar un denominador común antes de poder sumar o restar fracciones con distinto denominador?
+
+3. ¿Qué fracción equivalente usarías en lugar de 2/3 para hallar 2/3 – 1/4?
+
+4. Halla cada suma o diferencia. Simplifica tus respuestas.
+
+a. 3/4 - 1/3
+
+b. 2/5 + 1/7
+
+c. 5/12 + 5/10
+
+d. 5/12 + 5/15
+
+e. 2/5 + 1/6
+
+f. 5/12 – 5/15
+
+g. 1/4 + 1/4 + 1/3
+
+h. 3/10 – 3/12 + 3/15
+
+5. Tom quiere sumar 3/10 y 4/15. ¿Cuál es el m.c.m de 10 y 15?
+
+a. 5
+
+b. 30
+
+c. 25
+
+d. 60
+
+6. Hacer una representación: Las fracciones 1/12, 1/6 y 1/4 tienen un denominador común de 12. Realiza un modelo de fracción para hallar 1/12 + 1/6 + ¼. Simplifica tu respuesta si es posible.
+
+7. Observa la siguiente tabla y responde:
+
+*Tabla 9: Recorridos por Excursionista*
+
+| Excursionista | Fracción Recorrida del sendero del lago Mirror |
+| --- | --- |
+| Andrea | 2/5 |
+| Juan | 1/2 |
+| Camilo | 5/4 |
+
+a. ¿Cuánto más del sendero caminó Juan que Andrea?
+
+b. ¿Cuánto más del sendero caminó Camilo que Juan?
+
+8. ¿Qué fracciones equivalentes usarías para hallar la suma de 3/4 y 1/3?
+
+## SUMAR NÚMEROS MIXTOS
+
+Lo entenderás: Cuando se suman o restan números mixtos, se suman o restan las partes fraccionarias y las partes enteras.
+
+¿Cómo hallas la suma de números mixtos?
+
+Los estudiantes de la clase de ciencias del señor López midieron la lluvia cada día durante dos semanas. Las cantidades de cada semana aparecen en la tabla.
+
+*Tabla 10: Lluvia por semana*
+
+| Semana | Lluvia |
+| --- | --- |
+| 1 | 2 1/2 Litros |
+| 2 | 1 9/10 Litros |
+
+¿Cuál fue la cantidad total de lluvia durante las dos semanas?
+
+Escoge una operación: Suma para hallar la cantidad total de lluvia durante las dos semanas.
+
+Paso 1:
+
+Halla el m.c.d. (mínimo común denominador) de los denominadores de las fracciones y úsalo para escribir fracciones equivalentes.
+
+2 1/2 = 2 5/10
+
+1 9/10 = 1 9/10
+
+Paso 2:
+
+Luego, suma por separado los números naturales y las fracciones.
+
+*Ecuación 29: Suma de Mixtos*
+
+```latex
+2\frac{5}{10}+1\frac{9}{10}=3\frac{14}{10}
+```
+
+Descripción ecuación: Suma de las medidas los litros de lluvia de las dos semanas.
+
+Paso 3:
+
+Expresa las fracciones impropias como números mixtos. Simplifica.
+
+*Ecuación 30: Simplificación fracción impropia.*
+
+```latex
+3\frac{14}{10}=3+\frac{14}{10}=3+1\frac{4}{10}=4\frac{4}{10}
+```
+
+Descripción ecuación: Simplificación 14/10 para adicionar a los 3 enteros.
+
+Y simplificando:
+
+*Ecuación 31: Simplificación parte fraccionaria.*
+
+```latex
+4\frac{4}{10}=4\frac{2}{5}
+```
+
+Descripción ecuación: Simplificación 4/10 por 2 para obtener 2/5.
+
+La lluvia total fue de 4 2/5 litros.
+
+Otro ejemplo
+
+¿Cómo hallas la diferencia de números mixtos?
+
+El parque Metropolitano tiene dos pistas de go-kart: la Little Indy que mide 1 3/4 millas y la Grand Prix que mide 4 1/3.
+
+¿Cuánto más larga es la Grand Prix que la Little Indy?
+
+Escoge una operación: Resta para hallar cuánto más larga es la Grand Prix.
+
+Estima: 4 - 2 = 2.
+
+Luego, halla el m.c.d. para escribir fracciones equivalentes.
+
+*Ecuación 32: Resta de Números Mixtos*
+
+```latex
+4\frac{1}{3}-1\frac{3}{4}=4\frac{4}{12}-1\frac{9}{12}
+```
+
+Descripción ecuación: Diferencia entre la longitud en millas de la Grand Prix y la Little Indy.
+
+Paso 2:
+
+Para restar, expresa de otra manera 4 4/12 para mostrar más doceavos.
+
+```latex
+4\frac{4}{12}=3+1+\frac{4}{12}
+```
+
+```latex
+=3+\frac{12}{12}+\frac{4}{12}
+```
+
+```latex
+=3+\frac{16}{12}=3\frac{16}{12}
+```
+
+Paso 3:
+
+Resta y simplifica.
+
+```latex
+3\frac{16}{12}-1\frac{9}{12}=2\frac{7}{12}
+```
+
+La pista La Grand Prix es 2 7/12 millas más larga.
+
+¿Cómo hallas la diferencia entre un número natural y un número mixto?
+
+Halla 15 – 2 1/3.
+
+Paso 1:
+
+Para restar, expresa de otra manera 15 para mostrar tercios.
+
+*Ecuación 33: Descomposición de 15 enteros.*
+
+```latex
+15=14+1=14\frac{3}{3}
+```
+
+Descripción ecuación: Escritura de 15 enteros con una parte en tercios.
+
+Paso 2:
+
+Resta y simplifica.
+
+*Ecuación 34: Resta de mixtos con parte fraccionaria homogénea.*
+
+```latex
+14\frac{3}{3}-2\frac{1}{3}=12\frac{2}{3}
+```
+
+Descripción ecuación: diferencia de números, logrando escritura de parte fraccionaria homogénea.
+
+### Práctica lo aprendido:
+
+1. Halla cada suma. Simplifica si es posible.
+
+a. 5 1/2 + 9 2/3
+
+b. 6 4/5 + 8 6/7
+
+2. ¿En qué se diferencia el problema 6 – 2 3/4 de 6 3/4 – 2?
+
+3. Halla cada suma o cada diferencia. Simplifica si es posible.
+
+a. 4 2/13 + 2 7/13
+
+b. 5 1/10 + 4 3/10
+
+c. 3 1/8 + 3 3/8
+
+d. 3 3/2 + 4 2/5
+
+e. 4 5/7 + 4 2/5
+
+f. 11 5/13 + 4 7/11
+
+g. 14 1/3 – 6 2/3
+
+h. 5 4/8 – 2 6/8
+
+i. 12 3/4 – 8 1/3
+
+j. 3 1/3 – 2 3/4
+
+k. 2 3/8 – 1 1/2
+
+l. 5 1/10 – 4 1/8
+
+4. La cantidad de lluvia que cae al lado de una montaña que da al océano es de 4 y dos quintos de pulgadas, mientras que del otro lado es sólo de tres décimas de pulgadas. ¿Cuánto más llueve en un lado que en otro?
+
+5. Durante el medio tiempo, los jugadores de fútbol tomaron 2 1/2 jarras de agua. Después del partido, tomaron 4 2/3 jarras.
+
+a. ¿Cuánta agua tomaron en total?
+
+b. ¿Cuántas jarras de agua más tomaron los jugadores después del partido que durante el medio tiempo?
+
+## MULTIPLICACIÓN DE UNA FRACCIÓN POR UN NÚMERO NATURAL
+
+Lo entenderás: Cuando se multiplica un número entero y una fracción propia, el producto es menor que el número natural.
+
+¿Cómo multiplicas una fracción y un número natural?
+
+Hay una receta para hacer 12 pretzels suaves. Si Irene espolvorea queso parmesano sobre 2/3 de los pretzels horneados, ¿cuántos pretzels con queso hará Irene?
+
+Escoge una operación: Multiplica para hallar 2/3 x 12.
+
+Puedes pensar en una fracción como si fuera una división: 2/3 = 2 dividido 3.
+
+Usa esta relación para hallar 2/3 x 12.
+
+Si el número natural es divisible por el denominador de la fracción, puedes dividir primero y luego multiplicar.
+
+12 es divisible por 3. Por tanto, divide 12 por 3.
+
+*Imagen 43: 1/3 de los 12 pretzels*
+
+Descripción imagen: 3 filas de cuatro círculos rojos cada una, la primera fila está encerrada en un rectángulo negro.
+
+Dividir 12 por 3 es lo mismo que multiplicar 1/3 y 12.
+
+12 dividido 3 = 4 y 1/3 x 12 = 4
+
+Sabes que 2/3 es 2 veces 1/3. Por tanto, multiplica por 2:
+
+*Ecuación 35: 2/3 de 12*
+
+```latex
+\frac{2}{3}\cdot12=2\left( \frac{1}{3}\cdot12 \right)
+```
+
+Descripción ecuación: Cálculo de 2 terceras partes de 12, escribiendo 2 factor de 1/3 de 12.
+
+```latex
+2\cdot4=8
+```
+
+*Imagen 44: 2/3 de los 12 pretzels.*
+
+Descripción imagen: 3 filas de cuatro círculos rojos cada una, las dos primeras filas están encerrada en un rectángulo negro.
+
+Irene hace 8 pretzels con queso.
+
+Otro ejemplo
+
+Expresar de otra manera el número natural
+
+Halla 10 por 3/4.
+
+Para hallar 1 0 por 3/4, puedes convertir 10 en 10/1 y luego multiplicar.
+
+*Ecuación 36: 3/4 de 10*
+
+```latex
+\frac{10}{1}\cdot\frac{3}{4}=\frac{30}{4}
+```
+
+Descripción ecuación: Cálculo de 3/4 de 10 unidades.
+
+Simplifica.
+
+*Ecuación 37: Simplificación fracción impropia.*
+
+```latex
+\frac{30}{4}=7\frac{2}{4}=7\frac{1}{2}
+```
+
+Descripción ecuación: Conversión de fracción impropia 30/4 a número mixto.
+
+### Práctica lo aprendido
+
+1. Halla cada producto.
+
+a. 1/8 x 4
+
+b. 1/4 x 16
+
+c. 9 x 1/6
+
+d. 3/8 x 4
+
+e. 3/4 x 16
+
+f. 9 x 5/6
+
+2. En el ejemplo que está al principio de la página, ¿cómo hallar 1/3 de 12 te ayuda a hallar 2/3 de12?
+
+3. Si se espolvoreara con queso 3/4 de 12 pretzels ¿cuántos pretzels se espolvorearían?
+
+4. Halla el producto. Puedes usar fichas como ayuda.
+
+a. 5 x 2/3
+
+b. 3/5 x 30
+
+c. 5/9 de 36
+
+d. 7/8 de 24
+
+e. 9/20 de 40
+
+f. 3/4 de 200
+
+g. 9/10 de 20
+
+h. 7/100 de 700
+
+i. 7/8 de 32
+
+j. 18 x 2/3
+
+k. 1/5 de 45
+
+l. 9/10 de 25
+
+5. Durante un paseo por la naturaleza, Julio identificó 20 especies de plantas y animales.
+
+a. Julio dijo que 1/3 de las especies que identificó eran animales. ¿Tiene razón? Explícalo.
+
+b. La receta del pan de maíz se debe triplicar para la cena de la banda. Si se requieren 2/3 de taza de azúcar y 3/4 de taza de harina de maíz para 1 receta, ¿qué expresión muestra la cantidad total de harina de maíz y azúcar que se usan para la cena?
+
+1. 3(3/4 x 2/3)
+
+2. 2/3(2 + 3/4)
+
+3. (3 x 2/3) + (3 x 3/4)
+
+4. (2/3 + 3/4) x (2/3 + 3/4)
+
+6. Si 3/5 de las especies que Julio identificó eran plantas, ¿cuántas especies eran plantas?
+
+7. Algunos clamidosaurios crecen hasta 90 cm de largo. Si 2/3 de esta longitud son la cola, ¿cuánto mide la cola?
+
+8. ¿Cómo usas el cálculo mental para hallar 250 x 3/10?
+
+## MULTIPLICACIÓN DE FRACCIONES
+
+Lo entenderás: Es posible hallar el producto de dos fracciones multiplicando los numeradores y multiplicando los denominadores.
+
+¿Cómo hallas los productos de fracciones?
+
+Paula está sembrando 3/4 de su jardín con flores y 2/3 de las flores que siembra serán campanillas. ¿Qué fracción del jardín quedará sembrada con campanillas?
+
+Escoge una operación: Multiplica para hallar qué fracción del jardín quedará sembrada con campanillas.
+
+- Este modelo representa la multiplicación de 3/4 x 2/3
+
+*Imagen 45: Gráfica de 3/4 por 2/3*
+
+Descripción imagen: Rectángulo repartido en 3 filas y cuatro columnas, de la primera y segunda fila están las tres primeras divisiones rellenas de color morado, la restante de color rosado. En la tercera fila, las primeras 3 están rellenas de color amarillo, la restante sin relleno.
+
+Seis de los 12 cuadrados tienen colores superpuestos.
+
+3/4 x 2/3 = 6/12
+
+- Para hallar el producto:
+
+1. Multiplica los numeradores.
+
+2. Multiplica los denominadores.
+
+3. Simplifica si es posible.
+
+3/4 x 2/3 = (3x2)/ (4x3)
+
+= 6/12
+
+= 1/2
+
+Paula sembrará 1/2 de su jardín con campanillas.
+
+Otro ejemplo
+
+¿Cómo simplificas antes de multiplicar?
+
+Halla 16 x 5/12
+
+Simplifica antes de multiplicar, hallando el M.C.D. de cualquier numerador y cualquier denominador.
+
+El M.C.D. de 16 y 12 es 4. Divide 16 y 12 por este M.C.D. El M.C.D. de 1 y 5 es 1.1 y 5 están simplificados.
+
+4/1 x 5/3
+
+Multiplica
+
+4/1 x 5/3 = 20/3 = 6 2/3
+
+### Práctica lo aprendido
+
+1. Escribe una multiplicación para cada dibujo.
+
+*Imagen 46: Multiplicación 1.*
+
+Descripción imagen: Cuadrado repartido en dos filas y dos columnas, de la primera fila las divisiones están rellenas la primera de color verde y la segunda de amarillo. De la segunda fila, la primera división está rellena de color rosado y la segunda sin relleno.
+
+*Imagen 47: Multiplicación 2.*
+
+Descripción imagen: Rectángulo repartido en 5 filas y 4 columnas, de la primera fila la primera división está rellena de color morado, las demás de color amarillo. De la segunda a la quinta filas la primera división está rellena de color verde, las restantes sin relleno.
+
+*Imagen 48: Multiplicación 3.*
+
+Descripción imagen: Rectángulo repartido en 4 filas y 5 columnas, de la primera fila las primeras 3 divisiones están rellena de color morado, las demás de color amarillo. De la segunda a la cuarta filas las primeras 3 divisiones están rellenas de color rosado, las restantes sin relleno.
+
+*Imagen 49: Multiplicación 4.*
+
+Descripción imagen: Rectángulo repartido en 3 filas y 8 columnas, de la primera fila las primeras 3 divisiones están rellenas de color naranja, las demás sin relleno. De la segunda y la tercera fila, las primeras 3 divisiones están rellenas de color verde, las restantes de color amarillo.
+
+2. En el ejemplo de la campanilla, observa el modelo para multiplicar fracciones menores que 1. Compara el tamaño del producto con el tamaño de cada factor.
+
+3. En Otro ejemplo, ¿de qué manera sería diferente la respuesta de 16 x 5/12 si no hubieras simplificado antes de multiplicar?
+
+4. Halla cada producto. Simplifica, si es posible.
+
+a. 54 x 5/6
+
+b. 2/9 x 72
+
+c. 3 3/5 x 15
+
+d. 4/7 x 56
+
+e. 3/4 x 1/4
+
+f. 2 1/3 x 21
+
+g. 16 x 3/8
+
+h. 5/11 x 33/35
+
+i. 5/8 x 3/10
+
+j. 5/9 x 3/5
+
+k. 18 x 7/12
+
+l. 10/12 x 3/5
+
+m. 1/2 x 3/7
+
+n. 5/8 x 26
+
+o. 18 x 3/4
+
+5. Viviana vive a 1/3 de milla de la escuela. Si va a la escuela caminando y regresa a casa caminando cada día durante 5 días, ¿qué distancia caminará?
+
+6. Una vitrina en una tienda de alimentos tiene 120 frutas. Las manzanas ocupan 3/5 de la vitrina y las naranjas ocupan 2/5 de la vitrina. Si 1/2 de las manzanas son verdes, ¿cuántas manzanas verdes hay?
+
+a. 24
+
+b. 36
+
+c. 48
+
+d. 72
+
+7. El señor Ruíz está plantando tomates en 2/5 de su jardín y 4/5 de los tomates son tomates rojos. Muestra 2/5 x 4/5.
+
+8. Escribir para explicar ¿Cuál es mayor: 3/8 x 1/3 ó 3/8 x 1/5? Explica cómo lo sabes.
+
+9. Los caballos adultos tienen aproximadamente 40 dientes permanentes. Si los seres humanos tienen 4/5 de ese número de dientes permanentes, ¿cuántos dientes permanentes tienen los seres humanos?
+
+a. 32
+
+b. 40
+
+c. 45
+
+d. 50
+
+## MULTIPLICACIÓN DE NÚMEROS MIXTOS
+
+Lo entenderás: Puedes hallar el producto de dos números mixtos al cambiar los números mixtos a fracciones impropias y luego multiplicas los numeradores y los denominadores.
+
+¿Cómo hallas el producto de números mixtos?
+
+Una lata pequeña de tomates pesa 7 1/3 onzas.
+
+- ¿Cuánto pesan 4 1/2 latas de tomates?
+
+Halla 4 1/2 por 7 1/3
+
+- Escribe cada número mixto como fracción impropia.
+
+*Ecuación 38: Producto de mixtos.*
+
+```latex
+4\frac{1}{2}\cdot7\frac{1}{3}
+```
+
+Descripción ecuación: Producto de cantidad de latas y peso de una de estas.
+
+De ahí:
+
+```latex
+\frac{9}{2}\cdot\frac{22}{3}
+```
+
+- Busca factores comunes y simplifica.
+
+```latex
+\frac{3}{1}\cdot\frac{11}{1}
+```
+
+Por tanto, 4 1/2 latas de tomates pesan 33 onzas.
+
+Otro ejemplo
+
+¿Cómo usas la propiedad distributiva para multiplicar un número entero y un número mixto?
+
+Halla 3 por 4 2/15
+
+Paso 1:
+
+Descompón el número mixto y usa la propiedad distributiva:
+
+*Ecuación 39: Descomposición número mixto*
+
+```latex
+3\cdot4\frac{2}{15}=3\cdot\left( 4+\frac{2}{15} \right)
+```
+
+Descripción ecuación: Producto de 3 con 4 2/15 equivalente a 3 por la suma entre 4 y 2/15.
+
+Paso 2:
+
+Multiplica cada parte y suma:
+
+Ecuación 40: Propiedad Distributiva
+
+```latex
+=12+\frac{6}{15}=12\frac{6}{15}
+```
+
+Descripción ecuación: Resultado de la propiedad distributiva y posterior suma.
+
+### Práctica lo aprendido
+
+1. Halla cada uno de los productos. Simplifica, si es posible.
+
+a. 3 1/12 por 6
+
+b. 5 1/4 por 1 4/7
+
+c. 2 5/6 por 9
+
+d. 6 2/3 por 4 7/8
+
+e. 5 1/6 por 3 3/4
+
+f. 5 por 7 3/16
+
+g. 1 5/8 por 3 4/5
+
+h. 4 2/9 por 2 1/3
+
+2. ¿cómo hallarías 3 por 4 2/7 sin usar la propiedad distributiva?
+
+3. Una caja de latas de tomates de 7 1/3 onzas contiene 25 latas. ¿Cuántas onzas de tomates hay en una caja?
+
+4. Halla cada uno de los productos. Simplifica, si es posible.
+
+a. 5 1/3 por 6 3/5
+
+b. 2 5/8 por 3 4/9
+
+c. 7 1/3 por 4 9/10
+
+d. 8 por 3 3/4
+
+e. 1 3/8 por 4 5/6
+
+f. 5 7/9 por 3 1/9
+
+g. 6 2/3 por 12
+
+h. 7 4/5 por 2 3/7
+
+5. Evalúa cada expresión para R = 2 ¼
+
+a. 7 1/2 por R
+
+b. 2 1/5 por R
+
+c. 3 1/3 por R
+
+d. 1 2/3 por R
+
+6. La cocina de María tiene baldosas en forma de paralelogramo en el piso. ¿Cuál es la medida del ángulo w?
+
+*Imagen 50: Paralelogramo*
+
+Descripción imagen: Paralelogramo con ángulo de w grados y 135 grados.
+
+7. El perro de Juanita pesa 2 1/2 veces lo que pesa el perro de Carlos. El perro de Carlos pesa 8 3/4 libras. Resuelve la ecuación p = 8 3/4 por 2 1/2 para hallar el peso, p, del perro de Juanita.
+
+8. En el estante de la señora Díaz hay un conjunto de 16 libros. Cada libro mide 1 3/8 decímetros de ancho. Si los libros ocupan toda la longitud del estante sin dejar ningún espacio, ¿qué longitud tiene el estante?
+
+a. 11 7/11 decímetros
+
+b. 20 decímetros
+
+c. 17 3/8 decímetros
+
+d. 22 decímetros
+
+9. Explica cómo cambiar un número mixto a fracción.
+
+10. Liliana dividió la parcela de su jardín para tener 1/8 de tomates, 1/4 de pimientos, 1/6 de hinojo, 1/6 de albahaca y el resto de flores.
+
+## NOCIONES DE DIVISIÓN DE FRACCIONES
+
+Lo entenderás: Para representar la división de fracciones se puede usar modelos y realizar la resta repetida.
+
+¿Cómo representas la división de fracciones?
+
+El Señor Roberto usa tablas de madera que tienen una longitud de 3/4 de metro para un conjunto de estantes que está haciendo.
+
+- ¿Cuántas tablas de madera puede obtener de un tablón que mide 3 metro de longitud?
+
+Una manera:
+
+- ¿Cuántos 3/4 hay en 3?
+
+- Usa una recta numérica para representar 3 metros.
+
+- Divídela en partes de 3/4 de metro.
+
+*Imagen 51: Cuartos en recta numérica*
+
+Descripción imagen: Representación en segmento de recta de 0 a 3, cada unidad está marcada con un punto amarillo y dividida en 4partes iguales, cada tercera división está unida con un segmento circular morado.
+
+- Por tanto, 3 dividido 3/4 = 4.
+
+Cuando el divisor es menor que 1, el cociente es mayor que el dividendo.
+
+Otra manera:
+
+Piensa en la división como una resta repetida. Vuelve a escribir 3 como fracción impropia, 12/4. Luego, resta 3/4 varias veces:
+
+12/4 – 3/4 = 9/4
+
+9/4 – 3/4 = 6/4
+
+6/4 – 3/4 = 3/4
+
+3/4 - 3/4 = 0
+
+El señor Roberto puede obtener 4 tablas.
+
+Otro ejemplo
+
+1. Dividir una fracción por un número natural
+
+Halla 1/2 dividido 3
+
+- Divide 1/2 en 3 partes iguales, que es 1/2 dividido 3
+
+- Cada parte contiene 1/6
+
+Por tanto, 1/2 dividido 3 = 1/6
+
+2. Dividir una fracción por una fracción
+
+Halla 3/4 dividido 1/4
+
+- Usa una recta numérica para mostrar 3/4
+
+*Imagen 52: Unidad en segmento de recta.*
+
+Descripción imagen: Una unidad dividid en 4 partes iguales la tercera resaltada de color rojo.
+
+- Divide 3/4 en partes de 1/4. Hay 3 partes.
+
+*Imagen 53: Unidad repartida en cuartos.*
+
+Descripción imagen: Segmento de recta de una unidad dividido en cuatro partes iguales, cada una de las primeras tres unida con segmentos circulares rojos.
+
+Por tanto, 3/4 dividido 1/4 = 3
+
+### Práctica lo aprendido
+
+1. Escribe una oración numérica de división para representar cada uno de los ejercicios.
+
+*Imagen 54: Cuatro Unidades en tercios*
+
+Descripción imagen: Segmento de recta de 4 unidades cada una repartida en tres partes iguales, cada dos divisiones está unida con un segmento circular azul.
+
+*Imagen 55: Octavos*
+
+Descripción imagen: Rectángulo dividido en 2 filas y cuatro columnas, de las dos filas las primeras 3 divisiones están rellenas de color verde, las tres de la segunda fila están resaltadas con un rectángulo circular rojo.
+
+2. ¿Es razonable? Cuando divides un número natural por una fracción, ¿el cociente será mayor o menor que el número natural?
+
+3. ¿Cuántas tablas obtendrías al cortar un tablón de 10 metros de longitud en tablas que miden 2/3 de metro de longitud?
+
+4. Completa cada oración numérica de división usando los modelos que se proporcionan.
+
+a. 6 dividido 1/2 =
+
+*Imagen 56: Medios*
+
+Descripción imagen: Segmento de 8 unidades cada una repartida en dos partes iguales.
+
+b. 2/3 dividido 3 =
+
+*Imagen 57: Novenos en cuadrado*
+
+Descripción imagen: Cuadrado dividido en 3 filas y 3 columnas las 3 divisiones de las primeras 2 columnas están rellenas de color amarillo. De la última fila las casillas rellenas de color amarillo están resaltadas con una elipse roja.
+
+5. Halla cada uno de los siguientes cocientes. Simplifica si es posible.
+
+a. 7/6 dividido 3/7
+
+b. 7/8 dividido 3
+
+c. 8 dividido 4/5
+
+d. 5/9 dividido 10
+
+6. Pedro dividió 3/8 de galón de leche en 5 vasos exactamente. ¿Qué fracción de galón hay en cada vaso?
+
+7. Sin resolver, explica cómo puedes comparar el cociente de 5/7 dividido 1/2 con 6/7.
+
+8. Un viaje en carro dura 6 horas. Cada 2/3 de hora, Bruno cambia la estación de radio. ¿Cuántas veces cambia Bruno la estación durante el viaje?
+
+9. Un polígono regular tiene un perímetro de 8 unidades. Si cada lado mide 4/5 de unidad, ¿cuántos lados tiene el polígono?
+
+10. Para su entrenamiento, Raúl corre varios kilómetros al día. Corre cada 1/2 kilómetro en 3 minutos.
+
+a. ¿Cuánto tiempo necesita Raúl para correr 6 kilómetros?
+
+b. ¿Cuánto tiempo necesita Raúl para correr 2 1/3 kilómetros?
+
+## DIVIDIR UN NÚMERO NATURAL POR UNA FRACCIÓN
+
+Lo entenderás: La relación inversa entre la entre la multiplicación y la división ayuda a entender como dividir por una fracción.
+
+¿Cómo hallas el cociente de un número natural y una fracción?
+
+Observa las multiplicaciones y las divisiones a continuación:
+
+- 8 dividido 4/1 = 2
+
+- 6 dividido 2/1 = 3
+
+- 5 dividido 1/2 =10
+
+- 3 dividido 3/4 = 4
+
+- 8 por 1/4 = 2
+
+- 6 por 1/2 = 3
+
+- 5 por 2/1 = 10
+
+- 3 por 4 /3 = 4
+
+¿Cuál es el patrón?
+
+Usa el patrón para hallar el cociente de 4 dividido 2/3.
+
+El patrón de la lista muestra una regla para dividir por una fracción.
+
+- Dividir por una fracción es lo mismo que multiplicar por su recíproco. Dos números cuyo producto es 1 se llaman recíprocos de cada uno. Si un número distinto de cero se representa como una fracción a/b, entonces su recíproco se puede representar como b/a.
+
+*Ecuación 41: Multiplicación por recíproco.*
+
+```latex
+\frac{2}{3}\cdot\frac{3}{2}=1
+```
+
+2/3 es el recíproco de 3/2
+
+Halla 4 dividido 2/3
+
+- Vuelve a escribir el problema como una multiplicación. Simplifica, luego multiplica.
+
+*Ecuación 42: División de 4 en 2/3*
+
+```latex
+4\div\frac{2}{3}=4\cdot\frac{3}{2}
+```
+
+```latex
+=\frac{4}{1}\cdot\frac{3}{2}=\frac{2}{1}\cdot\frac{3}{1}
+```
+
+```latex
+=\frac{6}{1}=6
+```
+
+4 dividido 2/3 = 6.
+
+### Práctica lo aprendido
+
+1. Halla el recíproco de cada fracción o número natural.
+
+a. 3/5
+
+b. 1/6
+
+c. 9
+
+d. 7/4
+
+2. Halla cada cociente. Si es posible, simplifica.
+
+a. 6 dividido 2/3
+
+b. 12 dividido 3/8
+
+3. ¿Es 4 dividido 3/2 lo mismo que 4 dividido 2/3?
+
+4. Explica cómo hallarías el recíproco de un número natural.
+
+5. En la lista de arriba, ¿cómo se compara el cociente con el dividendo cuando el divisor es una fracción menor que 1?
+
+6. Halla el recíproco de cada número.
+
+a. 3/10
+
+b. 6
+
+c. 1/15
+
+d. 3
+
+e. 7/12
+
+f. 11/5
+
+g. 12
+
+h. 22/5
+
+7. Halla cada cociente. Si es posible, simplifica.
+
+a. 4 dividido 4/7
+
+b. 2 dividido 3/8
+
+c. 5 dividido 2/3
+
+d. 9 dividido 4/5
+
+e. 36 dividido 3/4
+
+f. 7 dividido 1 3/4
+
+g. 18 dividido 2/3
+
+h. 20 dividido 1/2
+
+i. 9 dividido 3/5
+
+j. 5 dividido 2/7
+
+k. 12 dividido 1/3
+
+l. 8 dividido 3/8
+
+8. Usa esta información.
+
+- Un caracol se puede mover 13 metros en 1/4 h.
+
+- Una tortuga se puede mover 92 metros en 1/3 h.
+
+- Un perezoso se puede mover 16 metros en 1/8 h.
+
+a. ¿Qué tan lejos puede llegar cada animal en una hora?
+
+b. ¿Qué animal se movería más lejos en 3 horas viajando a su máxima velocidad?
+
+9. Un plato de sopa contiene 7 onzas. Si una cucharada contiene 1/6 de onza, ¿cuántas cucharadas hay en 3 platos de sopa? Explícalo.
+
+10. Una grabación de las condiciones climáticas actuales dura 3/4 de minuto. ¿Cuántas veces se podría reproducir la grabación en 1 hora?
+
+11. ¿Cuántas hamburguesas de 1/4 de libra se puede hacer con 12 libras de pavo?
+
+12. Representa en una recta numérica 3 dividido 1/3.
+
+13. Valeria compró una cinta de 9 metros de longitud, y quiere cortarla en pedazos de 2/3 de metro. ¿Cuántos pedazos 
+puede cortar?
+
+14. Cada libro de salud mide 3/4 de decímetro de largo. Si el estante de libros de la señora Doris mide 2 metros de largo, ¿cuántos libros puede colocar en el estante?
+
+15. En el número 589745162, ¿cuál es el valor numérico en la posición de las decenas de millón?
+
+a. 9
+
+b. 7
+
+c. 5
+
+d. 8
+
+16. Antonio está comprando 8 cuadernos por $1250 cada uno. ¿Cuánto dinero necesitará?
+
+## DIVISIÓN DE FRACCIONES
+
+Lo entenderás: Una expresión de división con fracciones se puede convertir en una expresión de multiplicación equivalente para resolverla.
+
+¿Cómo hallas el cociente de dos fracciones?
+
+Andrés tiene 3/4 de galón de limonada. Quiere verterlos en recipientes de 1/6 de galón.
+
+- ¿Cuántos recipientes puede llenar?
+
+Escoge una operación: Divide para hallar el número de recipientes.
+
+Paso 1:
+
+Halla 3/4 dividido 1/6
+
+- Para dividir por una fracción, vuelve a escribir el problema como una multiplicación usando el recíproco del divisor.
+
+6/1 es el recíproco de 1/6
+
+*Ecuación 43: Transformación de división en multiplicación.*
+
+```latex
+\frac{3}{4}\div\frac{1}{6}=\frac{3}{4}\cdot\frac{6}{1}
+```
+
+Descripción ecuación: 3/4 dividido 2/6 equivale a multiplicar 3/4 por 6 unidades.
+
+Paso 2:
+
+- Busca factores comunes para simplificar.
+
+```latex
+\frac{3}{2}\cdot\frac{3}{1}
+```
+
+- Luego multiplica.
+
+```latex
+\frac{3}{2}\cdot\frac{3}{1}=\frac{9}{2}
+```
+
+Andrés puede llenar 4 recipientes más 1/2 de un recipiente adicional.
+
+### Práctica lo aprendido
+
+1. Halla cada cociente. Si es posible, simplifica.
+
+a. 3/4 dividido 2/3
+
+b. 3/12 dividido 1/8
+
+c. 1/2 dividido 4/5
+
+d. 7/10 dividido 2/5
+
+2. En el ejemplo de arriba, ¿cambió la respuesta al simplificar antes de multiplicar?
+
+3. En el ejemplo de arriba, ¿cuántos recipientes de 1/8 de galón podría llenar Andrés?
+
+4. Halla cada cociente. Si es posible, simplifica.
+
+a. 1/2 dividido 1/2
+
+b. 1/2 dividido 1/4
+
+c. 7/8 dividido 1/8
+
+d. 2/3 dividido 3/4
+
+e. 1/9 dividido 1/5
+
+f. 2/7 dividido 1/2
+
+g. 2/9 dividido 4/5
+
+h. 1/2 dividido 2/4
+
+i. 3/8 dividido 1/9
+
+j. 2/3 dividido 1/4
+
+k. 2/5 dividido 2/8
+
+l. 5/6 dividido 22/3
+
+m. 6/7 dividido 1/3
+
+n. 7/8 dividido 1/2
+
+o. 12/14 dividido 14/12
+
+p. 5/14 dividido 4/7
+
+5. Evalúa cada expresión para x = 5/6.
+
+a. x dividido 3/9
+
+b. 10/13 dividido x
+
+c. 5/8 dividido x
+
+d. x dividido 9/10
+
+6. Tomás puso baldosas azules en 1/2 del suelo de su baño. Puso baldosas verdes en 2/3 del resto del suelo del baño. Usó baldosas blancas para lo que quedaba del baño. ¿Qué parte del baño tenía baldosas blancas? Usa la imagen como ayuda para hallar la solución.
+
+7. Luis tiene una bolsa de 8 tazas de mezcla de nueces y frutas secas para compartir. Si da a 9 amigos 2/3 de taza a cada uno, ¿cuánta mezcla de nueces y frutas secas le queda a él?
+
+8. ¿Qué fracción tiene el mayor valor?
+
+a. 7/12
+
+b. 2/3
+
+c. ¾
+
+d. 7/9
+
+9. Escribe una ecuación para cada enunciado, luego resuelve.
+
+a. Se repartió la mitad de una sandía entre 4 personas. ¿Cuánta sandía le tocó a cada persona?
+
+b. Rita corre un cuarto de kilómetro y luego camina un octavo de kilómetro. Si repite este patrón 10 veces, ¿cuánto habrá corrido?
+
+c. Una receta de galletas requiere 1/4 de taza de almendras para una porción. Si Sara tiene 1 1/2 taza de almendras, ¿cuántas porciones de galletas puede hacer?
+
+10. Hacer una tabla Un restaurante vende 9 especialidades del día por cada 6 comidas de precio completo. A esta tasa, ¿cuántas especialidades del día se habrán vendido 
+cuando se haya vendido 30 comidas de precio completo?
+
+11. Escribe una explicación a un amigo o amiga en la que le digas cómo hallar 3/4 dividido 2/3.
+
+## DIVISIÓN DE NÚMEROS MIXTOS
+
+Lo entenderás: Usa fracciones impropias y el recíproco del divisor para volver a escribir la división de números mixtos como problemas de multiplicación.
+
+¿Cómo hallas el cociente de números mixtos?
+
+Daniel tiene 37 1/2 centímetros de espacio en el tablero de su carro que quiere usar para poner calcomanías.
+
+- ¿Cuántas calcomanías cortas puede poner una junto a la otra en su tablero?
+
+*Tabla 11: Características de Calcomanías.*
+
+| Calcomanías | Tipo | Longitud |
+| --- | --- | --- |
+| ¡Maneja! | Corta | 6 1/4 cm |
+| Música | Mediana | 10 3/4 cm |
+| Basquetbol | Larga | 15 cm |
+
+Una manera:
+
+Estima usando números compatibles.
+
+*Ecuación 44: Estimación.*
+
+```latex
+37\frac{1}{2}\div6\frac{1}{4}
+```
+
+Descripción ecuación: División de la longitud del vidrio en el tamaño de las calcomanías pequeñas.
+
+```latex
+36\div6\approx6
+```
+
+Por tanto, 37 1/2 por 6 1/4 aproximadamente 6.
+
+Otra manera:
+
+Escribe cada número mixto como fracción impropia
+
+*Ecuación 45: Conversión de mixtos a Fracciones Impropias.*
+
+```latex
+37\frac{1}{2}\div6\frac{1}{4}=\frac{75}{2}\div\frac{25}{4}
+```
+
+Descripción ecuación: Equivalencia entre la división de números mixtos y sus correspondientes fracciones impropias.
+
+Usa el recíproco de 25/4 para escribir un problema de multiplicación.
+
+```latex
+\frac{75}{2}\cdot\frac{4}{25}=6
+```
+
+Daniel puede poner 6 calcomanías cortas en el parachoques de su carro.
+
+### Práctica lo aprendido
+
+1. Halla cada uno de los cocientes. Simplifica, si es posible.
+
+a. 18 dividido 3 2/3
+
+b. 4 1/3 dividido 2 4/5
+
+c. 5 dividido 6 2/5
+
+d. 6 5/9 dividido 1 7/9
+
+e. 7 2/3 dividido 5 1/9
+
+f. 7 2/3 dividido 5 1/9
+
+g. 3 3/7 dividido 5 6/7
+
+2. Cuando divides números mixtos, ¿por qué es importante estimar primero el cociente?
+
+3. ¿Cuántas calcomanías medianas cabrían en un parachoques con una longitud de centímetros?
+
+4. Halla cada uno de los cocientes. Simplifica, si es posible.
+
+a. 1 3/8 dividido 4 1/8
+
+b. 2 5/6 dividido 6 1/3
+
+c. 3 1/4 dividido 4 2/7
+
+d. 5 1/2 dividido 7 2/5
+
+e. 1 dividido 8 5/9
+
+f. 3 5/6 dividido 9 5/6
+
+g. 4 1/3 dividido 3 1/4
+
+h. 8 dividido 2 2/3
+
+i. 6 3/4 dividido 1 7/8
+
+j. 2 5/8 dividido 13
+
+k. 3 6/7 dividido 6 3/4
+
+l. 9 7/9 dividido 8 ¼
+
+5. Evalúa cada expresión para n = 2 1/5.
+
+a. 8 1/2 dividido n
+
+b. n dividido 4
+
+c. 20 4/5 dividido n
+
+d. n dividido 5/8
+
+e. 3 4/5 dividido n
+
+f. 15 dividido n
+
+g. n dividido 2 1/5
+
+h. n dividido 2 4/9
+
+6. Explica por qué 3 7/8 dividido 1/8 es mayor que 3 7/8 por 1/8.
+
+7. ¿En cuántas piezas de 3/4 de pie puedes cortar una cinta de 6 1/2 pies?
+
+8. ¿Qué número es su propio recíproco? Explícalo.
+
+9. Si 9 por x/6 = 9 dividido x/6; entonces, ¿a qué es igual x? Explícalo.
+
+10. El Autobús 26 tarda 2 3/4 horas en completar su ruta. Estima cuántas rutas puede completar en 16 horas.
+
+11. El diamante más grande que se ha encontrado hasta ahora pesó 1 1/2 libra sin cortar. Si se cortara este diamante en tres partes, ¿cuánto pesaría cada parte?
+
+12. La habitación más grande tiene el doble de longitud que la habitación más pequeña, que mide 20 ¾ pies.
+
+a. ¿Qué longitud tiene la habitación más grande?
+
+b. Si la longitud de la habitación más pequeña se dividiera en dos partes iguales, ¿qué longitud tendría cada parte?
+
+13. ¿Cuál de las expresiones usarías para hallar cuántos medios hay en 6 3/8?
+
+a. 1/2 por 6 3/8
+
+b. 6 3/8 dividido 1/2
+
+c. 1/2 dividido 6 3/8
+
+d. 6 3/8dividido 2
+
+14. Evalúa cada expresión si T=3/4.
+
+a. 1/2 por T
+
+b. 8/9 + T
+
+c. 2 dividido T
+
+# TEMA 4: RAZONES
+
+## VARIABLES Y EXPRESIONES
+
+Lo entenderás: Las variables se pueden usar para escribir expresiones algebraicas que describan situaciones de la vida diaria.
+
+¿Cómo traduces palabras en expresiones?
+
+¿Qué expresión indica el peso de las nueces mixtas después de restar el peso del frasco?
+
+Una variable es una letra o un símbolo que representa una cantidad desconocida que puede variar o cambiar.
+
+Nota: una onza (oz) equivale a cerca de 28 gramos.
+
+- Una expresión algebraica es un enunciado matemático con variables, números y operaciones.
+
+*Tabla 12: Operaciones y Expresiones Algebraicas.*
+
+| Operación | Frase en palabras | Expresión algebraica |
+| --- | --- | --- |
+| Suma | Un número más 4 un número sumado a 4 | p + 4<br>4 + p |
+| Resta | Un número menos 4 un número restado a 4 | p-4<br>4 -p |
+| Multiplicación | 4 veces un número | 4 x p o 4p |
+| División | Un número dividido por 4 | p dividido 4 o<br>p/4 |
+
+Dado que el peso de las nueces mixtas varía, sea p el peso total del frasco y las nueces mixtas.
+
+Por tanto, p — 4 es el peso de las nueces mixtas después de restar el peso del frasco.
+
+### Práctica lo aprendido
+
+1. Usa una variable para escribir una expresión algebraica que represente cada frase en palabras.
+
+a. Dos veces el número de personas.
+
+b. $7 menos que el precio actual.
+
+c. 8 bolas más de los chicles que tiene Javier.
+
+d. Un número de estudiantes repartidos en 2 equipos.
+
+2. ¿Cuál sería la expresión para el peso delas nueces mixtas si el frasco pesa 8 oz?
+
+3. ¿Por qué se usa una variable en el ejemplo de arriba?
+
+4. Escribe dos frases que se puedan traducir como 25 x p
+
+5. Traduce cada expresión algebraica en palabras.
+
+a. n + 99.
+
+b. X dividido 12
+
+c. y-4
+
+d. 8m
+
+6. Escribe cada frase como expresión algebraica.
+
+a. Réstale un número a 10.
+
+b. 6 dividido por un número.
+
+c. Un número sumado a 4
+
+d. El producto de 9 y un número.
+
+e. Súmale 6 a un número.
+
+f. Un número menos 12.
+
+g. 9 más un número
+
+h. El cociente de un número y 8
+
+i. 4 menos un número
+
+7. Piensa en el proceso Nelson tiene 6 CD menos que Ema. Si c representa el número de CD que tiene Ema, ¿qué expresión dice cuántos CD tiene Nelson?
+
+a. 6 – c
+
+b. 6 + c
+
+c. C – 6
+
+d. C + 6
+
+8. Una persona tiene que medir por lo menos 120 centímetros para montar en la montaña rusa. Julio tiene 12 años y mide más de 120 centímetros. ¿Qué expresión puede indicar la estatura de Julio?
+
+- ¿Qué representaría la variable e?
+
+a. (12 + e) – 120
+
+b. (120- 12) + e
+
+c. 120e
+
+d. 120 + e
+
+9. Tres amigos y tú van a compartir por igual un paquete de barras de granola. Escribe una expresión algebraica que represente este caso.
+
+10. En enero, Wilson tenía $1369570 en su cuenta de ahorros. En diciembre tenía 52513340 en su cuenta. ¿Cuánto dinero más tenía en diciembre que en enero?
+
+11. Jorge agregó 4/5 de taza de agua a 2/34 de taza de limonada concentrada. ¿Hay más agua o más concentrado?
+
+12. ¿En qué se diferencian las expresiones 7 - g y g – 7?
+
+13. Este dibujo de la escultura de una bola de jeans muestra una base debajo de ésta. Si la base y la escultura miden 55 decímetros, ¿qué ecuación muestra la manera de calcular la altura de la escultura?
+
+*Imagen 58: Escultura*
+
+Descripción imagen: Dibujo de una escultura de bola de jeans a su lado izquierdo se resalta con una flecha de ambas puntas la medida de su altura la cual se marca con la letra x, la altura de la base de igual manera se resalta con una flecha de ambas puntas y de medida 6 decímetros.
+
+a. 55 + x = 6
+
+b. x + 6 = 55
+
+c. x - 55 = 6
+
+d. 6 - 55 = x
+
+14. Juan está planeando comprar una pantalla de computador. Ha ahorrado $250000. Sea n la cantidad que le falta por ahorrar. Escribe la expresión algebraica que represente el costo de la pantalla.
+
+## PATRONES Y EXPRESIONES
+
+Lo entenderás: Las expresiones algebraicas se pueden evaluar luego de que la variable ha sido remplazada por el valor de un número dado.
+
+¿Cómo usas patrones para mostrar relaciones?
+
+Sonia quiere comprar entradas para ir al concierto con unos amigos, si cada entrada cuesta $40000. ¿Cuánto le cuestan todas las entradas?
+
+Sea b = número de entradas compradas.
+
+Sonia hizo una tabla.
+
+*Tabla 13: Costo de entradas.*
+
+| Número de Entradas | Costo Total (Miles de pesos) |
+| --- | --- |
+| 2 | 80 |
+| 3 | 120 |
+| 4 | 160 |
+| 5 | 200 |
+| B | 40 x b |
+
+Sonia observó un patrón: el costo total aumenta $40000 por cada entrada.
+
+Ella escribió una expresión algebraica para mostrar la relación entre el número de entradas y el costo total.
+
+El costo total de las entradas para cualquier número de amigos se puede representar mediante la expresión algebraica 40000 x b.
+
+Otros ejemplos
+
+¿Cómo evalúas una expresión algebraica?
+
+Remplazas la variable con un número y luego haces el cálculo.
+
+1. Evaluar una expresión de suma
+
+- Evalúa x + 7 cuando x = 6
+
+- Remplaza x por 6 en la expresión. x+7
+
+x + 7 = 6 + 7 = 13
+
+2. Evaluar una expresión de división
+
+- Calcula z / 3 cuando z = 9
+
+- Remplaza z por 9 en la expresión
+
+9/3 = 3
+
+¿Cómo escribes una frase en palabras como expresión algebraica?
+
+- Sea n el número.
+
+*Tabla 14: Frase y Expresión Algebraica.*
+
+| Frase en palabras | Expresión algebraica |
+| --- | --- |
+| Cinco veces un número, más dos | 5n + 2 |
+| Dos menos que cinco veces un número | 5n-2 |
+| Dos más que cinco veces un número | 5n + 2 |
+| Dos menos cinco veces un número | 2-5n |
+
+A veces, una frase en palabras se puede interpretar de diferentes maneras.
+
+La siguiente frase en palabras se puede interpretar de dos maneras. Sin embargo, al utilizar los paréntesis la expresión algebraica puede cambiar de significado.
+
+- Frase en palabras: Cinco veces un número, más 2
+
+- Expresiones algebraicas:
+
+1. (5 x n) + 2 forma correcta
+
+2. 5 x (n + 2) forma incorrecta.
+
+### Práctica lo aprendido
+
+1. Escribe una expresión algebraica para cada frase en palabras. Sea x el número.
+
+a. Tres veces un número, más 10.
+
+b. Cuatro menos que un número por 2.
+
+c. Ocho más un número por 5.
+
+2. Evalúa 3n + 18 cuando n = 2.
+
+3. Evalúa 3n + 18 cuando n = 3.
+
+4. ¿La expresión 3n + 18 tiene el mismo significado que la expresión 3 x n + 18? Explícalo.
+
+5. Evalúa cada expresión cuando n = 5 y n = 2.
+
+a. 40/n
+
+b. 50-n
+
+c. 8,6 + n
+
+d. 8 x n
+
+e. 10/n
+
+f. 3n
+
+g. 4,5+ n
+
+h. 12n
+
+i. 9n
+
+j. n x 16
+
+k. 30/n
+
+l. 36 – n
+
+m. n + 5
+
+n. 7-n
+
+o. 70/n
+
+6. Escribe una expresión algebraica para cada frase. Sea n el número.
+
+a. Nueve veces un número, menos seis.
+
+b. Cuatro más que un número, por doce.
+
+c. Siete menos que un número por tres.
+
+d. Ocho más un número por dieciséis.
+
+7. Cada DVD de la tienda de videos “Mis Películas” cuesta $60000. Tienes un cupón de descuento de $20000 sobre el total de la compra. ¿Qué expresión representa el costo total de d videos?
+
+a. 20000 – 60000d
+
+b. 60000d – 20000
+
+c. 60000 – 20000
+
+d. 60 000 - 20000d
+
+## DESIGUALDADES EN LA RECTA NUMÉRICA
+
+Lo entenderás: Se puede usar una recta numérica para representar todos los valores que hacen verdadera una desigualdad.
+
+¿Cómo representas en un gráfico una desigualdad?
+
+Una desigualdad es una expresión matemática que contiene los símbolos >, <, >= o <=. Una solución de una desigualdad es cualquier número que hace verdadera la desigualdad.
+
+Las soluciones de desigualdades como x > 3 se pueden representar en una recta numérica.
+
+*Tabla 15: Símbolos Matemáticos*
+
+| Se escribe | Se lee |
+| --- | --- |
+| >= | Se lee como "es mayor o igual que” |
+| <= | Se lee como "es menor o igual que” |
+
+¿Cómo representas en una gráfica x > 3?
+
+Paso 1:
+
+En la recta numérica, dibuja un círculo abierto en el 3. El círculo abierto muestra que el 3 no está incluido en la solución.
+
+*Imagen 59: No inclusión del 3*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el 0 y el 11, de manera equidistante, sobre el número tres hay un círculo rojo sin relleno.
+
+Paso 2:
+
+Ubica tres soluciones de x > 3 en la recta numérica. Comienza en el círculo abierto y traza una línea gruesa sobre los números. Sombrea la flecha para mostrar que las soluciones son infinitas.
+
+*Imagen 60: Mayores que 3*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el 0 y el 11, de manera equidistante, sobre el número tres hay un círculo rojo sin relleno, de allí hacía la derecha hay una línea de color rojo sobre la recta numérica.
+
+Otro ejemplo
+
+¿Cómo representas en una gráfica una desigualdad que contiene suma o resta?
+
+Representa en una gráfica y + 5 < 12.
+
+- Primero, resuelve y + 5 = 12.
+
+Piénsalo ¿Qué número más 5 es igual a 12?
+
+7 + 5 =12
+
+12 = 12
+
+Por tanto y = 7
+
+- Después, representa en una gráfica y <= 7.
+
+Dibuja un círculo cerrado en el 7 para mostrar que 7 está incluido en la solución. Luego repite el paso 2 del ejemplo de arriba.
+
+*Imagen 61: Menores o Iguales que 7*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el 0 y el 11, de manera equidistante, sobre el número 7 hay un círculo rojo relleno, de allí hacía la izquierda hay una línea de color rojo sobre la recta numérica, la cual termina en la punta izquierda de la recta negra.
+
+### Práctica lo aprendido
+
+1. Nombra tres soluciones de cada desigualdad. Luego representa cada desigualdad en una recta numérica.
+
+a. r + 8 > 9
+
+b. c < 5
+
+c. m > 12
+
+d. n – 6 <= 10
+
+2. ¿Es posible hacer una lista de todas las soluciones de x > 3? Explícalo.
+
+3. ¿En qué sería diferente el gráfico de y + 5 < 12 con respecto al gráfico de y + 5 <= 12?
+
+4. Nombra tres soluciones para cada desigualdad. Luego representa cada desigualdad en una recta numérica.
+
+a. k <= 8
+
+b. t < 14
+
+c. w > 2
+
+d. p >= 18
+
+e. d + 6 < 15
+
+f. s – 1 >= 4
+
+g. q – 3 <= 3
+
+h. z + 3 > 3
+
+5. Escribe una desigualdad de acuerdo con cada recta numérica.
+
+*Imagen 62: Desigualdad 1.*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el -3 y el 9, de manera equidistante, sobre el número 5 hay un círculo rojo sin relleno, de allí hacía la derecha hay una línea de color rojo sobre la recta numérica, la cual termina en la punta derecha de la recta negra.
+
+*Imagen 63: Desigualdad 2.*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el -3 y el 9, de manera equidistante, sobre el número 4 hay un círculo rojo sin relleno, de allí hacía la izquierda hay una línea de color rojo sobre la recta numérica, la cual termina en la punta izquierda de la recta negra.
+
+*Imagen 64: Desigualdad 3*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el -3 y el 9, de manera equidistante, sobre el número 2 hay un círculo rojo relleno, de allí hacía la derecha hay una línea de color rojo sobre la recta numérica, la cual termina en la punta derecha de la recta negra.
+
+*Imagen 65: Desigualdad 2*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el -3 y el 9, de manera equidistante, sobre el número 7 hay un círculo rojo relleno, de allí hacía la izquierda hay una línea de color rojo sobre la recta numérica, la cual termina en la punta izquierda de la recta negra.
+
+6. Lina se está entrenando para una carrera. Su meta es correr por lo menos 20 kilómetros cada semana. Sea m igual al número de kilómetros. Usa m >= 20 para representar en una recta numérica el número de kilómetros a la semana que correrá Lina.
+
+7. En una calle de la ciudad se permite manejar a 35 kilómetros por hora o menos. Usa la variable s para representar la velocidad en kilómetros por hora. Escribe una desigualdad que describa las velocidades permitidas.
+
+8. ¿Cómo sabes cuándo usar un círculo abierto o un círculo cerrado al representar en un gráfico una desigualdad?
+
+9. Samuel tiene 6 años más que su hermana Natalia. La suma de sus años es 30 años. ¿Qué edad tiene Natalia?
+
+10. La desigualdad w <= 2 describe el peso permitido en toneladas de un vehículo que está cruzando un puente. Enumera tres pesos permitidos.
+
+11. ¿Es 7 una solución de la desigualdad y + 4 <= 7? Explícalo.
+
+12. Rosa necesita 2 1/4 metros de tela para hacer una chaqueta y 1 7/8 metros de tela para hacer una falda compañera. La tela cuesta $8950 por metro. ¿Cuánto costará aproximadamente comprar la tela para la chaqueta y la falda?
+
+13. ¿Qué desigualdad está representada en la siguiente recta numérica?
+
+*Imagen 66: Representación de desigualdad.*
+
+Descripción imagen: Segmento de recta numérica que muestra los números enteros entre el 80 y el 90, de manera equidistante, sobre el número 89 hay un círculo rojo relleno, de allí hacía la izquierda hay una línea de color rojo sobre la recta numérica, la cual termina en la punta izquierda de la recta negra.
+
+a. m = 89
+
+b. m <= 89
+
+c. m < 89
+
+d. m >= 89
+
+## PATRONES Y ECUACIONES
+
+Lo entenderás: Se pueden usar reglas y tablas para mostrar cómo una cantidad se relaciona
+
+¿Cómo hallas una regla para un patrón y completas una tabla?
+
+Las siguientes figuras se dibujaron con puntos.
+
+- ¿Cuántos puntos habría en la figura número 20?
+
+- ¿Qué figura tendría 100 puntos?
+
+*Imagen 67: Figura 1.*
+
+Descripción imagen: Cuadrado formado por cuatro puntos de color morado, uno en cada vértice.
+
+*Imagen 68: Figura 2.*
+
+Descripción imagen: Cuadrado formado por 3 puntos de color morado en cada arista (lado).
+
+*Imagen 69: Figura 3.*
+
+Descripción imagen: Cuadrado formado por cuatro puntos de color morado en cada arista.
+
+*Imagen 70: Figura 4.*
+
+Descripción imagen: Cuadrado formado por cinco puntos de color morado en cada arista.
+
+*Tabla 16: Puntos en cada figura*
+
+| Número de la figura (n) | Número total de puntos (p) |
+| --- | --- |
+| 1 | 4 |
+| 2 | 8 |
+| 3 | 12 |
+| 4 | 16 |
+| 20 | ? |
+| ? | 100 |
+
+Busca un patrón en la relación entre el número de la figura y el número total de puntos en la figura.
+
+Expresa el patrón como una regla.
+
+Multiplica el número de la figura por 4.
+
+Expresa el patrón como una ecuación.
+
+d = 4n
+
+Usa la ecuación para hallar los números que faltan en la tabla.
+
+p = 4 x 20
+
+p = 80
+
+La figura 20 tiene 80 puntos.
+
+100/4 = 4 x n
+
+25 = n
+
+La figura 25 tiene 100 puntos.
+
+Otro ejemplo
+
+¿Cómo hallas una regla?
+
+¿Qué ecuación da una regla que establece la relación entre cada par de valores en la siguiente tabla?
+
+*Tabla 17: Regla*
+
+| x | y |
+| --- | --- |
+| 22 | 11 |
+| 34 | 23 |
+| 35 | 24 |
+| 40 | ? |
+| ? | 47 |
+
+a. y = x/2
+
+b. y = 2x
+
+c. y = x + 11
+
+d. y = x - 11
+
+Paso 1:
+
+Escribe la relación entre el primer par de números.
+
+y es la mitad de x o y es 11 menos que x.
+
+Paso 2:
+
+¿Qué relación es verdadera también para el segundo par de números?
+
+y es 11 menos que x.
+
+Paso 3:
+
+Comprueba que la relación también sea verdadera para otros pares de números.
+
+Paso 4:
+
+La ecuación c da una regla para la relación entre x y y en la tabla.
+
+y = x – 11
+
+### Práctica lo aprendido
+
+1. Escribe la regla para esta tabla en palabras.
+
+*Tabla 18: Descripción Regla.*
+
+| X | Y |
+| --- | --- |
+| 2 | 14 |
+| 4 | 28 |
+| 6 | 42 |
+| 8 | 56 |
+| 10 | 70 |
+
+a. Escribe una ecuación para la regla.
+
+2. En el ejemplo de arriba, ¿cómo sabes que la tabla de valores está representada por la ecuación p = 4n?
+
+3. Si el valor de n es 36, ¿cuál es el valor de p?
+
+4. Escribe y resuelve ecuaciones para hallar los números que faltan en la tabla del “Otro Ejemplo”.
+
+5. Escribe una ecuación para cada tabla y halla los valores de x y de y que faltan.
+
+*Tabla 19: Regla 1.*
+
+| x | Y |
+| --- | --- |
+| 12 | 6 |
+| 10 | 4 |
+| 8 | ? |
+| 13 | 7 |
+| ? | 13 |
+
+*Tabla 20: Regla 2.*
+
+| x | Y |
+| --- | --- |
+| 30 | 3 |
+| 80 | 8 |
+| 170 | 17 |
+| ? | 25 |
+| 320 | ? |
+
+*Tabla 21: Regla 3.*
+
+| X | y |
+| --- | --- |
+| 48 | 96 |
+| 30 | 60 |
+| 25 | 50 |
+| ? | 64 |
+| 14 | ? |
+
+*Tabla 22: Regla 4.*
+
+| X | y |
+| --- | --- |
+| 3 | 17 |
+| 7 | 21 |
+| 6 | ? |
+| 9 | 23 |
+| ? | 26 |
+
+6. En la ecuación y = 12x, si y es igual a 0, ¿cuál es el valor de x?
+
+7. Escribe una ecuación que te de la respuesta y = 3 cuando x= 7.
+
+8. En un sistema de carreteras, en la mayor parte de su trayectoria hay un límite de velocidad de 130 km/h. ¿Cuántas horas tendría que viajar un carro al límite de velocidad indicado para recorrer 520 km?
+
+9. El siguiente es un triángulo isósceles. ¿Cuál es el perímetro del triángulo?
+
+*Tabla 23: Triángulo Isósceles*
+
+Descripción imagen: Triángulo isósceles de color amarillo con base de medida 12, arista izquierda medida x y arista derecha medida 18.
+
+10. En la ecuación y = x - 6, ¿qué números positivos usarías para x si quisieras que y < 0?
+
+## RAZONES
+
+Lo entenderás: Las comparaciones entre dos cantidades se pueden expresar como razones
+
+¿Cuál es una manera matemática de comparar cantidades?
+
+El Servicio para Mascotas de Miguel proporciona cuidados a perros y gatos. Actualmente, hay más perros que gatos. Compara el número de gatos con el número de perros. Luego, compara el número de gatos con el número total de mascotas que están en el Servicio para Mascotas de Miguel.
+
+Una razón es una relación en la que por cada x unidades de una cantidad hay y unidades de otra cantidad. Una razón se puede escribir:
+
+- x a y
+
+- x:y
+
+- x/y
+
+Las cantidades x y y de una razón se llaman términos.
+
+Usa una razón para comparar el número de gatos (14) con el número de perros (17):
+
+- 14 a 17
+
+- 14:17
+
+- 14/17
+
+Esta razón compara una parte con la otra.
+
+Usa una razón para comparar el número de gatos con la cantidad total de mascotas:
+
+- 14 a 31
+
+- 14:31
+
+- 14/31
+
+Esta razón compara una parte con el todo.
+
+### Práctica lo aprendido
+
+1. Un equipo de baloncesto de sexto quinto tiene 3 centros, 5 delanteros y 6 aleros. Escribe de tres maneras diferentes la razón de cada comparación.
+
+a. Delanteros a aleros.
+
+b. Centros al total de jugadores.
+
+c. Centros a aleros.
+
+2. ¿De qué dos maneras distintas se puede usar una razón para hacer comparaciones?
+
+- ¿En qué se diferencia esto de una fracción?
+
+3. En el ejemplo de arriba, compara el número de perros con la cantidad total de mascotas.
+
+4. El grupo sanguíneo de una persona se indica con las letras A, B y O, y los símbolos + y -. El grupo sanguíneo A+ se lee como A positivo. El grupo sanguíneo B- se lee como B negativo. Usa la tabla de datos para escribir de tres maneras diferentes una razón para cada comparación.
+
+*Tabla 24: Donantes de Sangre*
+
+| GRUPO | DONANTES |
+| --- | --- |
+| A + | 45 |
+| B + | 20 |
+| AB + | 0 |
+| O + | 90 |
+| A - | 21 |
+| B - | 0 |
+| AB - | 4 |
+| O - | 9 |
+| TOTAL | 195 |
+
+a. Donantes O+ a donantes A+
+
+b. Donantes B+ a total de donantes
+
+c. Donantes B- a donantes B+
+
+d. Donantes A+ y B+ a donantes AB+
+
+e. Donantes AB- a donantes AB+
+
+f. Donantes O- a donantes A-
+
+g. Donantes O- a total de donantes
+
+h. Donantes A-y B- a donantes AB-
+
+i. ¿Qué comparación representa la razón 90/9?
+
+5. Busca patrones en la tabla. Copia y completa la tabla.
+
+*Tabla 25: Patrones estudiantes con mascotas.*
+
+| Número de estudiantes con mascotas | Número total de estudiantes |
+| --- | --- |
+| 1 | 3 |
+| 3 | 9 |
+| 9 | ? |
+| ? | 81 |
+| 81 | ? |
+
+6. La colcha de retazos de Martina tiene 6 cuadrados rojos y 18 cuadrados azules. ¿Cuál de las razones siguientes compara el número de cuadrados azules con el número total de cuadrados?
+
+a. 6:24
+
+b. 6:18
+
+c. 18:6
+
+d. 18:24
+
+7. Sobre las Cataratas del Niágara fluye un promedio de 45 000 000 de galones de agua en 60 segundos. ¿Cuánta agua fluye en las Cataratas del Niágara en un segundo?
+
+8. En la clase de Rita hay 14 niñas y 16 niños. ¿Cómo describen las razones 14:16 y 14:30 a la clase de música?
+
+9. Luis tiene $128 000 en su cuenta de ahorros. Él ahorra n pesos cada semana. Escribe una expresión para la cantidad de dinero que habrá en su cuenta de ahorros en 10 semanas.
+
+10. En clase de matemáticas se hizo una encuesta sobre las preferencias musicales de 42 estudiantes. Para las opciones a, b y c, usa la tabla de datos y escribe las razones de tres maneras diferentes.
+
+*Tabla 26: Música Favorita*
+
+| Música favorita | Número de estudiantes |
+| --- | --- |
+| Rock | 12 |
+| Rock clásico | 4 |
+| Hip-hop | 18 |
+| Punk | 2 |
+| Heavy metal | 6 |
+
+a. Estudiantes que prefieren punk a estudiantes que prefieren hip-hop.
+
+b. Estudiantes que prefieren rock clásico a número total de estudiantes encuestados.
+
+c. Estudiantes que prefieren rock o rock clásico a estudiantes que prefieren los otros tipos de música.
+
+## RAZONES EQUIVALENTES Y PROPORCIONES
+
+Lo entenderás: Se puede usar la multiplicación o la división para hallar razones iguales. Dos razones iguales forman una proporción.
+
+¿Cómo hallas razones equivalentes?
+
+La razón del número de jugadores de baloncesto al número de jugadores de béisbol en la escuela deportiva es de 16 a 48. Una manera de escribir los términos de esta razón es 16/48. Puedes usar lo que sabes sobre las fracciones para hallar las razones equivalentes y escribir una razón en su mínima expresión.
+
+1. Usa la multiplicación.
+
+Multiplica ambos términos por el mismo número distinto de cero. Por ejemplo:
+
+*Ecuación 46: Uso de la multiplicación.*
+
+```latex
+\frac{16\cdot3}{48\cdot3}=\frac{48}{144}
+```
+
+Por tanto, 16/48 y 48/144 son razones equivalentes.
+
+Un enunciado matemático que dice que dos razones son iguales es una proporción.
+
+Por tanto, 16/48 = 48/144 es una proporción.
+
+2. Usa la división.
+
+Divide ambos términos por el mismo número distinto de cero. Por ejemplo:
+
+*Ecuación 47: Uso de la división*
+
+```latex
+\frac{16\div2}{48\div2}=\frac{8}{24}
+```
+
+Puedes dividir los términos por su M.C.D. (máximo común divisor) para escribir la razón en su mínima expresión.
+
+*Ecuación 48: Mínima Expresión*
+
+```latex
+\frac{16\div16}{48\div16}=\frac{1}{3}
+```
+
+Por tanto, 16/48, 8/24 y 1/3 son todas razones equivalentes.
+
+Otro ejemplo
+
+¿Cómo determinas si dos razones forman una proporción?
+
+Sigue los pasos de abajo para determinar si cada par de razones indicadas forma una proporción.
+
+Razones que deben ser comparadas
+
+1. 7 vueltas/ 14 min; 12 vueltas/ 24 min
+
+a. Compara las unidades para ver si son las mismas arriba y abajo.
+
+Unidades de arriba: Vueltas
+
+Unidades de abajo: Minutos
+
+Las unidades son las mismas.
+
+b. Divide las razones por el M.C.D. para escribirlas en su mínima expresión.
+
+*Ecuación 49: Mínima expresión de 7/14*
+
+```latex
+\frac{7\div7}{14\div7}=\frac{1}{2}
+```
+
+*Ecuación 50: Mínima Expresión de 12/24*
+
+```latex
+\frac{12\div12}{24\div12}=\frac{1}{2}
+```
+
+c. Compara las mínimas expresiones para ver si son las mismas.
+
+Ambas son iguales a 1/2; por tanto, las razones son proporcionales.
+
+2. 16 lanzamientos/ 12 cestas; 6 lanzamientos/ 4 cestas
+
+a. Compara las unidades para ver si son las mismas arriba y abajo.
+
+Unidades de arriba: Lanzamientos
+
+Unidades de abajo: Cestas
+
+Las unidades son las mismas.
+
+b. Divide las razones por el M.C.D. para escribirlas en su mínima expresión.
+
+*Ecuación 51: Mínima Expresión de 16/12*
+
+```latex
+\frac{16\div4}{12\div4}=\frac{4}{3}
+```
+
+*Ecuación 52: Mínima Expresión de 6/4*
+
+```latex
+\frac{6\div2}{4\div2}=\frac{3}{2}
+```
+
+c. Compara las mínimas expresiones para ver si son las mismas.
+
+4/3 diferente de 3/2; por tanto, las razones no son proporcionales.
+
+### Práctica lo aprendido
+
+1. Escribe tres razones que sean iguales a la razón dada.
+
+a. 12/21
+
+b. 1:3
+
+c. 6 a 8
+
+2. ¿Cómo puedes escribir una razón en su mínima expresión?
+
+3. ¿Forman las razones16/48 y 12/32 una proporción?
+
+4. Escribe tres razones que sean iguales a la razón dada.
+
+a. 6/7
+
+b. 5 a 5
+
+c. 4/5
+
+d. 13:15
+
+e. 4 a 9
+
+f. 12:60
+
+g. 25/15
+
+h. 1 a 7
+
+5. Di si cada par de razones es proporcional.
+
+a. 9 azules / 17 rojos; 36 azules / 68 rojos
+
+b. 20 pelotas / 12 bates; 15 pelotas / 9 bates
+
+c. 14 perros / 20 gatos; 7 aves / 10 gatos
+
+6. Se puede hallar razones iguales al extender pares de filas o columnas en la tabla de multiplicar. Escribe tres razones iguales para 2/5 usando la tabla de multiplicar.
+
+*Tabla 27: Tabla de Multiplicación*
+
+| X | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 2 | 3 | 4 | 5 | ó |
+| 2 | 0 | 2 | 4 | 6 | 8 | 10 | 12 |
+| 3 | 0 | 3 | 6 | 9 | 12 | 15 | 18 |
+| 4 | 0 | 4 | 8 | 12 | 16 | 20 | 24 |
+| 5 | 0 | 5 | 10 | 15 | 20 | 25 | 30 |
+| 6 | 0 | 6 | 12 | 18 | 24 | 30 | 36 |
+
+7. La razón entre la velocidad máxima del Carro A y la velocidad máxima del Carro B es 2:3. Explica qué carro es el más veloz.
+
+8. Los encargados de la protección de la fauna quieren aumentar la población de salmón. De cada 8000 huevos sólo sobreviven 2 adultos, determina qué razón muestra cuántos huevos de salmón necesitarían para que sobrevivan 18 salmones adultos.
+
+a. 444 huevos a 9 adultos.
+
+b. 16000 huevos a 9 adultos.
+
+c. 72000 huevos a 18 adultos.
+
+d. 144000 huevos a 18 adultos.
+
+## LAS TASAS Y LAS TASAS POR UNIDAD
+
+Lo entenderás: Las tasas son tipos especiales de razones donde se comparan cantidades con diferentes unidades de medida.
+
+¿Existen tipos especiales de razones?
+
+Una tasa es un tipo especial de razón que compara cantidades con unidades de medida distintas, como 150 kilómetros / 3 horas. Si la comparación es con 1 unidad, la razón se llama tasa por unidad, como 50 kilómetros / 1 hora.
+
+Halla cuánto recorre un carro en 1 minuto, si recorre 7 km en 4 minutos.
+
+Las tasas y las tasas por unidad
+
+1. Escribe "7 kilómetros en 4 minutos" como tasa.
+
+7 km / 4min
+
+Para hallar la tasa por unidad divide el primer término por el segundo término.
+
+2. Divide 7 kilómetros por 4 minutos.
+
+*Imagen 71: División*
+
+Descripción imagen: Dibujo del proceso de división de 7 entre 4. En primera línea 700 símbolo del proceso de división y el 4. En segunda línea debajo de 7, el número -4 sobre una raya negra y debajo del 4, el número 1,75. En tercera línea, debajo del -4, el número 3, a su derecha el 0. En cuarta línea, sobre una raya negra los números -2 y 8 debajo del 3 y 0 de la línea anterior respectivamente. En quinta línea debajo del 8, el número 2 y a su derecha el 0. En quinta línea, sobre una raya negra los números -2 y 0, debajo respectivamente del 2 y 0 de la línea anterior. En la última línea hay un 0 debajo del 0 anterior.
+
+3. Para entender cómo funciona, recuerda que puedes dividir los términos de cualquier razón por el mismo número para hallar una razón equivalente.
+
+*Ecuación 53: Mínima Expresión de 7/4*
+
+```latex
+\frac{7\div4}{4\div4}=\frac{1,75}{1}
+```
+
+La tasa por unidad es 1,75 km / 1 min
+
+El carro puede recorrer 1,75 kilómetros en 1 minuto.
+
+### Práctica lo aprendido
+
+1. Escribe cada ejercicio como tasa y como tasa por unidad.
+
+a. 60 km en 12 horas.
+
+b. 26 cm en 13 segundos.
+
+c. 230 kilómetros con 10 galones.
+
+d. $12500 por 5 Ib.
+
+2. ¿En qué se diferencia la tasa por unidad de otras tasas?
+
+3. Explica la diferencia de significado entre estas dos tasas: 5 árboles / 1 chimpancé y 1 árbol / 5 chimpancés.
+
+4. Escribe cada uno como tasa y como tasa por unidad.
+
+a. 38 minutos para correr 5 vueltas.
+
+b. 252 días para 9 lunas llenas.
+
+c. 56 puntos anotados en 8 juegos.
+
+d. 125 jirafas en 50 hectáreas.
+
+e. 123 kilómetros recorridos en 3 horas.
+
+f. 250 calorías en 10 galletas.
+
+g. 36 mariposas en 12 flores.
+
+h. 18 huevos puestos en 3 días.
+
+i. 216 manzanas creciendo en 9 árboles.
+
+j. 84 mm en 4 segundos.
+
+k. 210 kilómetros en 7 horas.
+
+l. 15 países visitados en 12 días.
+
+5. Usa la gráfica de barras sobre la velocidad de diferentes animales marinos.
+
+*Imagen 72: Velocidad Máxima de Animales Marinos*
+
+Descripción imagen: Gráfico que presenta 5 barras de izquierda a derecha: una de color verde etiquetada con el nombre pez espada y altura 60 unidades; una de color azul etiquetada con el nombre Atún y altura 45 unidades; una de color naranja etiquetada con el nombre tiburón y altura 30 unidades; una de color morado etiquetada con el nombre orca y altura 25 unidades y la última de color azul claro etiquetada con el nombre delfín y altura 20 unidades
+
+a. Da tres tasas equivalentes que describan la velocidad máxima de un atún.
+
+b. A la velocidad máxima, ¿cuánto más rápido puede nadar un pez espada que una orea?
+
+c. ¿Qué animal nada a una velocidad máxima de aproximadamente 0,33 km / min? Explica cómo hallaste tu respuesta.
+
+6. El SR-71 Blackbird es el avión más rápido del mundo. Puede alcanzar una velocidad máxima de 2512 m/h. ¿Cuál es la tasa de velocidad máxima en kilómetros por minuto?
+
+7. Melisa compra 4 boletos para un partido de fútbol. El precio total sin IVA es $90000 ¿Qué ecuación usarías para determinar el precio, p, de cada boleto?
+
+a. 4p = 90000
+
+b. 4 + p = 90000
+
+c. 90000p = 4
+
+d. p + 4 = 90000
+
+8. Haz una lista de tres tasas que describan lo que haces. Por ejemplo, puedes describir a cuántas clases asistes en un día. Explica en cada ejemplo por qué es una tasa.
+
+## COMPARAR TASAS
+
+Lo entenderás: Las tasas por unidad o los precios por unidad hacen más fáciles las comparaciones
+
+¿Cómo usas las tasas por unidad para comparar?
+
+Elías nadó 11 vueltas en la piscina en 8 minutos. Agustín nadó 7 vueltas en la misma piscina en 5 minutos.
+
+¿Qué niño nadó a una mayor velocidad?
+
+Escribe sus velocidades como tasas por unidad para compararlas.
+
+- 11 vueltas / 8 minutos
+
+- 7 vueltas / 5 minutos
+
+1. Halla a qué velocidad nadó Elías.
+
+- Escríbelo como tasa por unidad.
+
+11 vueltas / 8 minutos
+
+- Divide el primer término por el segundo término.
+
+11/8 = 1 3/8 = 1,375
+
+- Elías nadó 1,375 vueltas por minuto.
+
+2. Halla a qué velocidad nadó Agustín.
+
+- Escríbelo como tasa por unidad.
+
+7 vueltas / 5 minutos
+
+- Halla el cociente de los términos.
+
+7/5 = 1 2/5 = 1,4
+
+- Agustín nadó 1,4 vueltas por minuto.
+
+1,4 > 1,375; por tanto, Agustín nadó a una mayor velocidad.
+
+Otro ejemplo
+
+¿Cómo usas el precio por unidad para comparar?
+
+¿Qué es mejor: comprar 3 galletas por $2400 o comprar 4 galletas por $3400?
+
+1. Halla el costo de una galleta para cada comparación:
+
+- Escribe cada costo como tasa.
+
+$2400 / 3 galletas
+
+$3400 / 4 galletas
+
+- Halla los cocientes de los términos.
+
+$2400 / 3 = $800
+
+$3400 / 4 = $850
+
+- Compara los precios por unidad.
+
+$800 < $850; por tanto, es mejor comprar 3 galletas por $2400.
+
+### Práctica lo aprendido
+
+1. Halla las tasas por unidad para responder a cada pregunta.
+
+a. ¿Cuál tiene el promedio de velocidad más alto: un carro que recorre 600 metros en 20 segundos o una motocicleta que recorre 300 metros en 12 segundos?
+
+- Escribe cada velocidad como tasa.
+
+- Escribe la velocidad del carro como tasa por unidad.
+
+- Escribe la velocidad de la motocicleta como tasa por unidad.
+
+- Compara las tasas por unidad.
+
+2. ¿Por qué hallar las tasas por unidad equivalentes te permite comparar dos tasas?
+
+3. ¿Por qué es el precio por unidad un tipo de tasa por unidad?
+
+4. Explica cómo decidir qué es mejor: ¿comprar un paquete de 8 lápices rebajado a $9900, o comprar un paquete de 10 lápices al precio normal de $10900"
+
+5. Halla las tasas por unidad y determina qué tasa es mayor.
+
+a. 5.217 km en 7 horas o 396 km en 12 horas.
+
+b. 12 vueltas en 8 min o 15 vueltas en 9 min.
+
+c. 45 ponches en 36 entradas o 96 ponches en 80 entradas.
+
+6. Halla el precio por unidad y determina cuál es la mejor compra.
+
+a. 2 libros por $15000 ó 6 libros por $45000.
+
+b. 2 galones por $15980 ó 1 galón por $6690.
+
+c. 6 cajas por $30900 ó 24 cajas por $160800.
+
+7. ¿Cómo puedes determinar qué recipiente sería la mejor compra?
+
+- 1 galón por $3990
+
+- 1/2 galón por $2290
+
+8. Algunos días la temperatura cambia rápidamente. El lunes la temperatura cambió 10 grados centígrados en 6 horas. El sábado cambió 14 grados centígrados en 10 horas. ¿Qué día cambió la temperatura a una tasa más rápida?
+
+9. Camila y sus amigas enviaron 270 mensajes instantáneos en un lapso de 45 minutos. ¿Cuál es la tasa por unidad de los mensajes enviados?
+
+a. 270 mensajes: 45 min.
+
+b. 60 mensajes: 1 min.
+
+c. 6 mensajes: 1 min.
+
+d. 270 mensajes: 1 min.
+
+10. El distrito escolar requiere una razón de 15:1 de estudiantes a adultos para una excursión. Aproximadamente, ¿cuántos adultos deberán ir a una excursión con 72 estudiantes?
+
+11. Álex y Ana participaron en una carrera de bicicletas. Álex recorrió 15 kilómetros en 55 minutos. Ana hizo su recorrido en 77 minutos. Las tasas por unidad de ambos fueron proporcionales. ¿Cuántos kilómetros recorrió Ana?
+
+## USAR TABLAS DE RAZONES
+
+Lo entenderás: Se puede usar tablas para representar razones iguales y resolver proporciones.
+
+¿Cómo usas tablas de razones para resolver una proporción?
+
+Por cada 7 latas de pelotas de tenis que se venden en una tienda de deportes, se venden tres raquetas de tenis. A esta tasa, ¿cuántas latas de pelotas de tenis se venderían si se vendieran 15 raquetas de tenis?
+
+1. Escribe una proporción.
+
+Usa x para el número de latas de pelotas de tenis que se venderían si se vendieran 15 raquetas.
+
+7 latas / 3 raquetas = x / 15 raquetas
+
+2. Haz una tabla de razones para resolver la proporción.
+
+Halla razones equivalentes a 7/3. Multiplica ambos términos de la razón por 2, 3, 4 y así sucesivamente hasta que halles 15 raquetas de tenis vendidas.
+
+*Tabla 28: Latas y Raquetas*
+
+| Total de latas vendidas | Total de raquetas vendidas |
+| --- | --- |
+| 7 | 3 |
+| 14 | 6 |
+| 21 | 9 |
+| 28 | 12 |
+| ? | 15 |
+
+7/3 = 35/15
+
+Si se vendieran 15 raquetas, entonces se venderían 35 latas de pelotas de tenis.
+
+### Práctica lo aprendido
+
+1. Para preparar yeso, Carlos mezcla 3 tazas de agua con 4 libras de polvo de yeso. Completa la tabla de razones. ¿Cuánta agua mezclará con 20 libras de polvo?
+
+*Tabla 29: Agua y Polvo*
+
+| Tazas de agua | Libras de polvo |
+| --- | --- |
+| 3 | 4 |
+| ? | 8 |
+| ? | 12 |
+| ? | ? |
+| ? | ? |
+
+2. Escribir para explicar ¿Cómo hallarías el número de tazas de agua que Carlos mezclaría con 40 libras de polvo?
+
+3. En el ejemplo de la parte superior, ¿qué razón equivalente usarías para calcular cuántas raquetas de tenis se venderían si se vendiera un total de 49 latas de pelotas de tenis?
+
+4. Supón que 2 de cada 3 miembros de la excursión eran niños. ¿Cuántos de los 15 miembros de la excursión eran niños? Haz una tabla de razones para mostrar como resolviste esta proporción.
+
+2 niños / 3 miembros = x niños / 15 miembros
+
+5. La estación de radio local programa 2 minutos de noticias por cada 20 minutos de música. Completa la tabla de razones, usa la tabla.
+
+*Tabla 30: Noticias y Música*
+
+| Minutos de Música | Minutos de Noticias |
+| --- | --- |
+| 20 | 2 |
+| 30 | 3 |
+| 40 | ? |
+| 50 | ? |
+| 60 | ? |
+
+a. ¿Cuál es la razón de minutos de música a minutos de noticias?
+
+b. Si sólo hubiera un minuto de noticias, ¿cuántos minutos de música habría? Escribe una proporción.
+
+c. ¿Cuántos minutos de noticias habría que tocar por cada 60 minutos de música?
+
+6. Responde a la pregunta y haz una tabla de razones para mostrar cómo resolviste cada proporción.
+
+a. $20000 / 8 horas = $500000 / ? horas
+
+b. 3 pelotas amarillas / 7 pelotas verdes = ? pelotas amarillas / 21 pelotas verdes
+
+c. 110 m / 2 h = ? m / 6 h
+
+d. 6 pies / ? s = 180 pies / 60 s
+
+e. 2 niñas / 3 niños = ? niñas / 24 niños
+
+f. $3000 / 2 lb = ? / 16lb
+
+7. Gabriela calculó que 6 carros pasaban por su casa en 5 minutos. A esta tasa, ¿cuántos carros esperarías que pasaran por su casa en 2 horas?
+
+8. Ana recorrió 4 kilómetros en su bicicleta en 20 minutos. A esta tasa, ¿cuánto tiempo tardará en recorrer 24 kilómetros?
+
+9. Laura manejó en su carro 240 kilómetros con 10 galones de gasolina. A esta tasa, ¿cuántos galones usará para recorrer 1200 kilómetros?
+
+a. 2400 galones.
+
+b. 120 galones.
+
+c. 50 galones.
+
+d. 24 galones.
+
+10. Explica la diferencia entre una tabla de datos y una tabla de razones.
+
+11. Carola necesita 1/3 de metro de cinta para cada moño que hace. Si tiene 5 1/2 metros de cinta, ¿cuántos moños completos puede hacer?
+
+12. Ramón leyó 12 páginas en 20 minutos. A esta tasa, ¿cuántas páginas puede leer en 30 
+minutos?
+
+13. Jorge quiere dividir su jardín de 10 1/2 metros por 7 1/4 metros en 3 secciones. ¿Cuál es el área de cada sección?
+
+## USAR TASAS POR UNIDAD
+
+Lo entenderás: Se puede usar tasas por unidad para resolver proporciones que incluyen tasas.
+
+¿Cómo usas una tasa por unidad para resolver una proporción?
+
+Un grupo de ciclistas recorre 320 kilómetros en 5 días. ¿Qué distancia recorrerían en 8 días si mantuvieran el mismo promedio de velocidad?
+
+- Halla una tasa por unidad para resolver
+
+Paso 1:
+
+Halla la tasa por unidad.
+
+- El grupo recorrió 320 kilómetros en 5 días. La tasa por unidad indica el promedio de kilómetros que recorren por día.
+
+- Divide 320 por 5.
+
+320 / 5 = 64
+
+La tasa por unidad es 64/1. El grupo recorre un promedio de 64 kilómetros por día.
+
+Paso 2:
+
+- Usa la tasa por unidad para calcular qué distancia podría recorrer el grupo en 8 días.
+
+1 unidad = 64 m
+
+- Multiplica 64 m por 8.
+
+8x64 = 512
+
+El grupo podría recorrer 512 kilómetros en 8 días.
+
+### Práctica lo aprendido
+
+1. Calcula la tasa por unidad.
+
+a. Otro grupo de ciclistas recorre 245 kilómetros en 5 días. ¿Cuánto recorren en 1 día, si recorrieron la misma distancia cada día?
+
+b. Un equipo de construcción puede esparcir 2 toneladas de grava en 90 minutos. ¿Cuánto tardan en esparcir 1 tonelada?
+
+2. Usa la información del ejemplo de la parte superior.
+
+a. ¿Cómo sabes que 512 kilómetros en 8 días es una respuesta razonable?
+
+b. Escribe otra proporción para representar la situación del ejemplo de la parte superior. ¿Cuál es la solución para tu nueva proporción?
+
+3. Halla la tasa por unidad.
+
+a. 320 m / 16 gal.
+
+b. 60 min / 20 llamadas
+
+c. 75 cm / 3 h
+
+d. 33 libros / 11 semanas
+
+e. 150 bocadillos / 50 estudiantes
+
+f. 1275 hormigas / 5 hormigueros
+
+g. 54 canciones / 3 h
+
+h. $60000 / 5 días
+
+4. Usa tasas por unidad para resolver las proporciones. Haz una estimación para ver si es razonable.
+
+a. 2 cm / 1 año = x / 13 años
+
+b. 8 h / 1 día = 56 h / x días
+
+c. X ventas / 1h = 45 ventas / 5h
+
+d. 39 sillas / 1 fila = x sillas / 6 filas
+
+e. 3 caminatas / 1 semana = 48 caminatas / x semanas
+
+f. 3 ponches / 1 entrada = x ponches / 3 entradas
+
+5. Los elefantes pueden embestir a velocidades de 0,7 kilómetros por minuto. Usa una proporción para calcular esta velocidad en kilómetros por hora.
+
+6. Un guepardo puede perseguir a su presa a aproximadamente 80 kilómetros por hora. Usa una proporción para calcular aproximadamente cuántos kilómetros podría correr un guepardo en 1 minuto.
+
+7. Si una máquina tarda 1 minuto en llenar 6 cajas de huevos, ¿cuánto tiempo tardará en llenar 418 cajas?
+
+8. ¿En qué se parecen y en qué se diferencian las razones 4 vueltas: 1 h y 32 vueltas: 8 h?
+
+9. Usa la tabla.
+
+*Tabla 31: Vueltas y Tiempo*
+
+| Nombre | Número de Vueltas | Tiempo |
+| --- | --- | --- |
+| Martha | 20 | 82 min |
+| Andrea | 16 | 64 min |
+
+a. ¿Cuál es la tasa por unidad de Martha?
+
+b. ¿Cuál es la tasa por unidad de Andrea?
+
+c. ¿Cuántas horas aproximadamente tardaría Martha en correr 44 vueltas?
+
+10. Imagina que la tasa por unidad de las personas que pasan por una estación del bus es 7 personas por minuto. ¿Cómo expresarías el número de personas que pasan por la estación en 5,5 minutos?
+
+a. Uso multiplicación y luego división.
+
+b. Uso multiplicación y luego redondeo.
+
+c. El problema no puede resolverse.
+
+d. Cambio la tasa por unidad para que la respuesta sea un número entero.
+
+# TEMA 5: PROPORCIONES
+
+## MANERAS DE RESOLVER PROPORCIONES
+
+Lo entenderás: Se puede usar productos cruzados de razones iguales para resolver proporciones.
+
+¿Cómo usas la multiplicación cruzada para resolver proporciones?
+
+Álex prepara granola para tomarla como refrigerio saludable en la escuela. Si sólo quiere preparar 5 tazas de granola, ¿cuántas tazas de avena deberá usar?
+
+Se necesitan 6 t de avena para preparar 9t de granola.
+
+6 tazas de avena / 9 tazas de granola = n tazas de avena / 5 tazas de granola
+
+1. Resuelve la proporción usando la multiplicación cruzada.
+
+- Los productos de la multiplicación cruzada son iguales.
+
+6/9 = n/5
+
+Multiplica en diagonal.
+
+6 x 5 = 9n
+
+Los productos de la multiplicación cruzada.
+
+n = 3 1/3
+
+Álex necesita 3 1/3 tazas de avena para preparar 5 tazas de granola.
+
+2. Para ver por qué funciona, multiplica ambos lados por 5 y 9.
+
+- 6/9 = n/5
+
+5 x 9 x 6/9 = n/5 x 5 x 9
+
+El resultado es el mismo que los productos cruzados.
+
+Otro ejemplo
+
+Cuando se multiplica un número por su recíproco o inverso multiplicativo, el producto es 1. La multiplicación cruzada es igual a multiplicar ambos lados de la ecuación por un inverso multiplicativo.
+
+- 6/9 = n/5
+
+- 6/9 (9/6) = n/5 (9/6)
+
+- 1 = 9n/30
+
+- 30 = 9n
+
+- 3 1/3 = n
+
+### Práctica lo aprendido
+
+1. Resuelve cada proporción usando la multiplicación cruzada.
+
+a. 6/8 = p/12
+
+b. 4/m = 5/36
+
+c. g/12 = 5/15
+
+d. 1,4/1,2 = n/2,6
+
+2. En el ejemplo de arriba, la razón de avena a granola es 6:9. Usa la multiplicación cruzada para mostrar que la razón 2:3 es equivalente a la razón 6:9.
+
+3. Usa la multiplicación cruzada
+
+a. 22 estudiantes / 1 bus = x estudiantes / 5 buses
+
+b. 8 puntos / 1 juego = 96 puntos / g juegos
+
+c. $34000 / 3 días = $204000 / m días
+
+d. 0,5 gal. de pintura / 1 pared = s gal. de pintura / 4 paredes
+
+e. h flores / 1 florero = 72 flores / 8 floreros
+
+f. $5999 / 2 gal.= $n / 10 gal.
+
+g. 28 páginas leídas / 2 horas = x páginas / 5 horas
+
+h. Y cm / 3 min = 56 cm / 8 min
+
+i. 8 metros / t s = 40 metros / 25 s
+
+4. Usa la gráfica.
+
+*Imagen 73: Diagrama de Barras*
+
+Descripción imagen: Diagrama de barras, de izquierda a derecha: Barra verde de altura 10 etiquetada con 32MB. Barra morada de altura 20 etiquetada con 64MB. Barra naranja de altura 40 etiquetada con 128MB. Barra rosada de altura 80 etiquetada con 256MB. Barra azul de altura 160 etiquetada con 512MB.
+
+a. De acuerdo con la gráfica, una tarjeta de 256 MB almacena 80 fotos.
+
+b. Escribe una proporción y resuélvela para hallar cuántas fotos caben en una tarjeta de 32 MB.
+
+c. ¿Cuántas fotos por megabyte (la tasa por unidad) pueden almacenarse?
+
+d. ¿Cuántas fotos pueden almacenarse en una tarjeta de 1024 MB?
+
+5. Si un carro recorre 48 kilómetros por hora, ¿aproximadamente cuántos kilómetros recorre en 5 horas?
+
+6. Fernanda puede leer 24 paginasen 30 minutos. ¿Cómo puedes calcular mentalmente el número de páginas que puede leer en 45 minutos?
+
+7. ¿Cómo puedes saber sin resolver 45/20 = n/50 que n es mayor que 100?
+
+8. El árbol vivo más alto del mundo, llamado Hiparión, mide 115,2 metros de altura. ¿Aproximadamente cuántas veces más alto es el árbol que la Estatua de la Libertad, cuya altura es 46 metros?
+
+9. ¿Por qué no puede responderse el problema siguiente?
+
+X m / h = 7 m/ gal.
+
+a. No hay variables
+
+b. No se proporcionó el valor de las millas.
+
+c. Las razones son proporcionales.
+
+d. Las unidades no son equivalentes.
+
+## FIGURAS SEMEJANTES
+
+Lo entenderás: Los lados correspondientes de figuras semejantes son proporcionales.
+
+¿Cuáles son las propiedades de las figuras semejantes?
+
+Si una caja pequeña de 2 cm de ancho y 9 cm de longitud, se agrandara de manera proporcional para que fuera un contenedor de embarque de 18 m de longitud, ¿de qué ancho sería?
+
+Las figuras semejantes tienen la misma forma pero no necesariamente el mismo tamaño. Los lados correspondientes de las figuras semejantes son proporcionales.
+
+Paso 1:
+
+Escribe una proporción para hallar el ancho del contenedor de embarque. Usa x para el ancho del contenedor de embarque.
+
+Ancho de la caja / longitud de la caja = ancho del contenedor / longitud del contenedor
+
+2cm / 9cm = x m / 18 m
+
+Paso 2:
+
+Resuelve la proporción.
+
+2/9 = x/18
+
+Usa la multiplicación cruzada:
+
+2 por 1 8 = 9x
+
+Resuelve para hallar x:
+
+36 = 9x
+
+4 = x
+
+El contenedor de embarque tendría 4 metros de ancho.
+
+Otro ejemplo
+
+¿Cómo calculas las medidas que faltan en triángulos semejantes?
+
+Los triángulos ABC y EMH son triángulos semejantes.
+
+*Imagen 74: Triángulo ABC*
+
+Descripción imagen: Triángulo de color verde con vértices ABC, la base es el lado AB con medida 2cm, el lado AC mide 4cm y el lado CB mide 5cm.
+
+*Imagen 75: Triángulo EMH*
+
+Descripción imagen: Triángulo de color azul con vértices EMH, la base es el lado EM con medida 3cm, el lado EH mide 6cm y el lado HM es desconocido.
+
+¿Cuál es la longitud de HM?
+
+Los ángulos correspondientes de las figuras semejantes son congruentes.
+
+- ángulo C congruente con ángulo H
+
+- ángulo A congruente con ángulo E
+
+- ángulo B congruente con ángulo M
+
+Los lados correspondientes de las figuras semejantes son proporcionales.
+
+- AC / EH = AB / EM = CM / HM
+
+Paso 1:
+
+Escribe una proporción.
+
+Usa lados correspondientes de triángulo ACB y triángulo EHM.
+
+Sea x = longitud de HM.
+
+AB / EM =, por tanto, 2/3 = 5/x
+
+Paso 2:
+
+Resuelve la proporción:
+
+2/3 = 5/x
+
+Usa la multiplicación cruzada y resuelve para hallar x.
+
+2x = 15
+
+x=7,5
+
+HM tiene 7,5 cm de longitud.
+
+Explícalo.
+
+- ¿Cómo sabes que HM es más largo que 5 cm?
+
+- Si falta una de las medidas de ángulo en dos triángulos semejantes, explica cómo puedes determinar la medida del ángulo.
+
+### Práctica lo aprendido
+
+1. Usa proporciones para determinar la longitud del lado que falta.
+
+*Imagen 76: Rectángulo 1.*
+
+Descripción imagen: Rectángulo de color naranja con vértices la medida del largo 7cm, el ancho mide 2cm.
+
+*Imagen 77: Rectángulo 2.*
+
+Descripción imagen: Rectángulo de color amarillo con medida del largo desconocida (x), el ancho mide 12cm.
+
+*Imagen 78: Rectángulo 3.*
+
+Descripción imagen: Rectángulo de color morado con medida del largo 49cm, el ancho medida desconocida (y).
+
+2. Un ingeniero automotriz está diseñando un carro basándose en un modelo a escala de 1:4. Si el modelo tiene 40 centímetros de longitud, ¿cuál es la longitud del carro que está diseñando el ingeniero?
+
+3. Usa la tabla.
+
+*Tabla 32: Medidas de los rectángulos.*
+
+| Rectángulo | Longitud | Ancho |
+| --- | --- | --- |
+| A | 5 cm | 19 cm |
+| B | 20 cm | 38 cm |
+| C | 15 cm | 57 cm |
+
+a. ¿Qué rectángulos son figuras semejantes? Explica por qué.
+
+b. Si un rectángulo de 25 cm de longitud es una figura semejante al Rectángulo A, ¿cuál es el ancho del rectángulo?
+
+c. Haz un diagrama de un rectángulo que sea una figura semejante al Rectángulo 6.
+
+4. Dos rectángulos son figuras semejantes. Un rectángulo mide 98,5 metros de longitud y 50 metros de ancho. Si el otro rectángulo mide 25 metros de ancho, estima su longitud.
+
+5. Tania quiere saber la altura del asta de bandera que está frente a su escuela. Supón que la sombra de la regla de 1 metro mide 2 m de longitud y la sombra del asta mide 20,2 m de longitud. ¿Cuál es la altura del asta?
+
+## MAPAS Y DIBUJOS A ESCALA
+
+Lo entenderás: Los mapas y dibujos a escala son proporcionales a lugares o cosas reales.
+
+¿Qué es un dibujo a escala?
+
+Para el anuario escolar, Milena necesita reducir una foto para que quepa en un espacio que mide2 dm de alto.
+
+¿Qué ancho debería tener la foto del anuario si la foto más pequeña tenía la misma escala que la foto original que es 10 dm de alto y 8 dm de ancho?
+
+- En un dibujo a escala, las dimensiones de un objeto están reducidas o ampliadas a la misma razón o escala.
+
+Las dimensiones del dibujo a escala y de la figura original son proporcionales. Son figuras semejantes.
+
+Para hallar la escala, compara las alturas de las figuras.
+
+La escala es 10 pulgs: 2 pulgs.
+
+- Escribe y resuelve una proporción para hallar el ancho de la foto reducida. Usa y para el ancho reducido.
+
+Altura: 10 dm / 2 dm
+
+Ancho: 8 dm / y dm
+
+De donde:
+
+10 dm / 2 dm = 8 dm / y dm
+
+Por lo tanto, 10y = 16
+
+Y= 1,6
+
+El ancho de la foto del anuario será 1,6 dm.
+
+### Práctica lo aprendido
+
+1. Determina la distancia real basándote en la escala.
+
+a. Si la escala de un mapa es 1 cm: 15 km, ¿cuántos km representan 6,5 cm?
+
+b. Si la escala de un mapa es 1 dm: 550 m, ¿cuál es la distancia real si la distancia en el 
+mapa es 7dm?
+
+2. Si la altura de un espacio en el anuario de arriba mide 4 cm, ¿qué estrategia usarías para hallar el ancho? ¿Cuál es el ancho?
+
+3. Escribe un problema de la vida diaria usando la información siguiente: un mapa tiene una 
+escala de 1 cm: 2 m.
+
+4. Usa el dibujo a escala 0,5 cm = 1 m.
+
+*Imagen 79: Distancias*
+
+Descripción imagen: Gráfico a escala de las distancias amanera de triángulo entre la casa de Andrés y el parque acuático, que es 1 cm. Entre el parque acuático y el teatro 1,5 cm y entre el teatro y la casa de Andrés que es 1,25 cm. Se observa una representación de cada uno de los lugares en cada vértice del triángulo.
+
+a. Andrés caminó de su casa al parque acuático. ¿Cuál fue la distancia real que caminó?
+
+b. Andrés tardó 30 minutos en caminar de su casa al parque acuático. Si camina al mismo ritmo, ¿cuánto tardará en caminar del parque acuático al teatro?
+
+c. Si Andrés caminó de su casa al teatro, del teatro al parque acuático y del parque acuático a su casa, ¿cuál sería la distancia total real que caminó?
+
+5. El edificio Empire State en Nueva York mide aproximadamente 381 metros de altura. Supón que usas la escala I cm = 50 m para hacer un modelo del Empire State. Usa una proporción para hallar la altura de tu modelo del Empire State.
+
+6. En un dibujo a escala de un chip de computadora, 100 mm en el dibujo representan un tamaño real de 1 mm. ¿Cuál de las expresiones siguientes proporciona la longitud real de un objeto que en el dibujo tiene 3 mm de longitud?
+
+a. 3x 100
+
+b. 3 - 100
+
+c. 3 dividido 100
+
+d. 100 dividido 3
+
+7. Los rectángulos A y B son figuras proporcionales. Halla la altura del rectángulo B.
+
+*Imagen 80: Rectángulo A*
+
+Descripción imagen: Rectángulo de color azul con medida del largo 4 mm, el ancho medida 3mm, en el centro tiene la letra A.
+
+*Imagen 81: Rectángulo B*
+
+Descripción imagen: Rectángulo de color verde con medida del largo 24 mm, el ancho medida desconocida (h), en el centro tiene la letra B.
+
+8. En un papel cuadriculado, representa un lápiz. Luego, haz un representa un lápiz proporcional que sea dos veces el tamaño del primer lápiz. Incluye una escala en tu dibujo.
+
+9. Si la distancia real entre dos ciudades es aproximadamente 200 kilómetros, ¿cuál sería la distancia en un mapa con una escala de 0,5 cm = 50 kilómetros?
+
+## PORCENTAJE, FRACCIONES Y DECIMALES
+
+Lo entenderás: Un porcentaje es un tipo especial de razón en la cual una parte se compara con una unidad, y la unidad es 100%.
+
+¿Qué significa porcentaje?
+
+El plano de un almacén por departamentos. Está dividido en 100 partes iguales.
+
+*Imagen 82: Departamentos del almacén*
+
+Descripción imagen: Cuadrado dividido en 10 filas y 10 columnas generando 100 divisiones, las cuales presentan el siguiente relleno de color: Filas 1 a 5 entre columnas 1 a 5, amarillo. Filas 6 a 9 entre columnas 1 a 5, azul. Toda la fila 10, rojo. Filas 1 a 3 entre columnas 6 a 9, naranja. Fila 4 entre columnas 6 y 7, naranja. Fila 4 entre columnas 8 y 9, morado. Filas 5 a 9 entre columnas 6 a 9, morado. Filas 1 a 9, columna 10, verde.
+
+Escribe la cantidad de espacio que ocupa cada departamento como una razón y como un porcentaje.
+
+- Cajas registradoras (Rojos)
+
+- CD y DVD (Verde)
+
+- Ropa para damas (Amarillo)
+
+- Ropa para caballeros (Azul)
+
+- Ropa para niños (Morado)
+
+- Juguetes (Naranja)
+
+Un porcentaje es una razón en que el primer término se compara con 100.
+
+Porcentaje significa por cien o por ciento.
+
+El símbolo de porcentaje es:
+
+*Imagen 83: Símbolo de porcentaje*
+
+Descripción imagen: o/o.
+
+Los juguetes ocupan 14 partes de 100, o 14%
+
+14% se lee "catorce por ciento".
+
+Escrito como una razón, 14% es 14 a 100, o 14:100, o 14/100
+
+Área del piso que ocupa cada departamento
+
+- Ropa para damas: 25 de 100 o 25%
+
+- Ropa para caballeros: 20 de 100 o 20%
+
+- Ropa para niños: 22 de 100 o 22%
+
+- Juguetes: 14 de 100 o 14%
+
+- CD y DVD: 9 de 100 o 9%
+
+- Cajas registradoras: 10 de 100 o 10%
+
+Otro ejemplo
+
+¿Cómo se relacionan los porcentajes con las fracciones y los decimales?
+
+Expresa el porcentaje 6% como una fracción y como un decimal. Porcentaje significa por cien o por ciento. Por tanto, 6% significa 6 de 100
+
+La razón 6 de 100 se puede escribir como la fracción 6/100.
+
+En su mínima expresión, 6/100 se escribe 3/50
+
+6% = 6/100 = 3/50
+
+La razón 6 de 100 se puede escribir como decimal en centésimas.
+
+6% = 6/100 = 0,06
+
+No olvides escribir ceros cuando sea necesario.
+
+### Práctica lo aprendido
+
+1. Escribe la razón y el porcentaje que están representados por la parte coloreada de cada cuadrícula de 100.
+
+*Imagen 84: Área 1*
+
+Descripción imagen: Cuadrado dividido en 10 filas y 10 columnas, las divisiones rellenas de color naranja son las comprendidas en: todas las columnas 1 a 3, de la columna 4 las que se encuentran entre las filas 1 a 7.
+
+*Imagen 85: Área 2*
+
+Descripción imagen: Cuadrado dividido en 10 filas y 10 columnas, las divisiones rellenas de color azul son las comprendidas en: todas las columnas 1 a 7, de la columna 8 las que se encuentran entre las filas 1 a 5.
+
+*Imagen 86: Área 3*
+
+Descripción imagen: Cuadrado dividido en 10 filas y 10 columnas, las divisiones rellenas de color amarillo son las comprendidas en: todas las columnas 1 a 5, de la columna 6 las que se encuentran entre las filas 1 a 6.
+
+2. Si los 100 cuadrados en una cuadrícula de 10 por 10 están coloreados, ¿qué porcentaje representa la parte coloreada?
+
+3. ¿Se podría dividir así el área del piso en el almacén: Ropa para damas, 25%; Ropa para niños 25%; Ropa para caballeros, 25%; Juguetes, 14%; CD y DVD, 9%; y cajas registradoras, 10%? Explica tu respuesta.
+
+4. Escribe la razón y el porcentaje descrito de cada cuadrícula de 100.
+
+a. 25 divisiones de 100 están rellenas de color.
+
+b. 30 divisiones de 100 están rellenas de color.
+
+c. 27 divisiones de 100 están rellenas de color.
+
+d. 85 divisiones de 100 están rellenas de color.
+
+e. 63 divisiones de 100 están rellenas de color.
+
+5. Escribe las razones como porcentajes.
+
+a. 47 de 100
+
+b. 50/100
+
+c. 76 a 100
+
+d. 9/100
+
+e. 35:100
+
+6. Escribe cada porcentaje como decimal y como fracción en su mínima expresión.
+
+a. 1 %
+
+b. 65%
+
+c. 23%
+
+d. 5%
+
+e. 72%
+
+f. 2%
+
+g. 45%
+
+h. 100%
+
+i. 125%
+
+j. 200%
+
+7. En un grupo de 100 personas, 37 personas usan lentes. ¿Qué porcentaje de las personas en el grupo usan lentes?
+
+8. Los dos triángulos siguientes tienen coloreada 50% de su área. ¿En qué caso las áreas coloreadas no muestran la misma cantidad?
+
+9. ¿Qué harías primero para ordenar los siguientes números de menor a mayor?
+
+25%; 1/3; 0,64; 7/8; 0,8
+
+a. Convertir los decimales a porcentajes.
+
+b. Ordenar los decimales.
+
+c. Convertir todos los números a decimales o fracciones.
+
+d. Ordenar las fracciones.
+
+## HALLAR EL PORCENTAJE DE UN NÚMERO NATURAL
+
+Lo entenderás: Hallar el porcentaje de un número es como hallar una parte de un todo o de una unidad.
+
+¿Cómo hallas el porcentaje de un número natural?
+
+Varias tiendas han incluido una maleta que cuesta $25000 entre sus útiles escolares con descuento. ¿Cuál es la cantidad del descuento en cada tienda?
+
+*Tabla 33: Descuentos por tienda*
+
+| Tienda | Descuento |
+| --- | --- |
+| #1 | 50% |
+| #2 | 10% |
+| #3 | 35% |
+| #4 | 20% |
+
+1. Halla 50% de 25000
+
+50% = 0,5
+
+- Multiplica 25000 por 0,5
+
+- 25000 x 0.5 = 12500
+
+- Observa que 50% de 25000 es igual que 25000 dividido 2
+
+El descuento en la tienda #1 es $12500
+
+2. Halla 10% de 25000
+
+10% = 0,1
+
+- Multiplica 25 000 por 0,1
+
+- 25 000 x 0,1 = 2500
+
+- Observa que la coma decimal se movió hacia la izquierda un lugar.
+
+El descuento en la tienda #2 es $2500
+
+3. Halla 35% de 25000
+
+35% = 0,35
+
+- Multiplica 25000 por 0,35
+
+- 25 000 x 0,35 = 8750
+
+El descuento en la tienda #3 es $8750
+
+4. Halla 20% de 25000
+
+20% = 0,2
+
+- Multiplica 25000 por 0,2
+
+- 25000 x 0.2 = 5000
+
+El descuento en la tienda #4 es $5000
+
+### Práctica lo aprendido
+
+1. Halla el porcentaje de cada número.
+
+a. 3% de 200
+
+b. 25% de 48
+
+c. 90% de 85
+
+d. 75% de 44
+
+2. ¿Cuál es una manera fácil de hallar 25% de un número?
+
+3. En el ejemplo de arriba, ¿cuál sería la cantidad del descuento si se rebaja la maleta en 40%?
+
+4. Halla el porcentaje de cada número.
+
+a. 43% de 350
+
+b. 30% de 66
+
+c. 50% de 75
+
+d. 87% de 210
+
+e. 10% de 230 16
+
+f. 12% de 100
+
+g. 5% de 46
+
+h. 20% de 400 17
+
+i. 33% de 300
+
+j. 100% de 37
+
+k. 15% de 90
+
+l. 77% de 10
+
+5. Halla 1% de 235. ¿Cuántos lugares decimales hacia la izquierda en 235 se movió la coma decimal en la respuesta?
+
+6. ¿Cuál es una manera fácil de calcular 2% de 660?
+
+7. ¿Cuál es una manera fácil de calcular 11 % de un número? Usa 11% de 70 para explicar.
+
+8. La capacidad total en el estadio El Campin, en Bogotá, es aproximadamente de 45000 espectadores. ¿Cuántos espectadores habría si el estadio estuviera ocupado en un 85%?
+
+9. Marcela cenó en un restaurante y quiere dejar una propina de 20%. Explica cómo podría calcular la propina mentalmente.
+
+10. Usa la información de la tabla para responder las siguientes preguntas.
+
+*Tabla 34: Pesos y Costos de las Carnes.*
+
+| Carne | Libras | Costo |
+| --- | --- | --- |
+| Jamón | 14 | $12000 |
+| Mortadela | 11 | $5300 |
+| Cábano | 5 | $7300 |
+| Tocineta | 8 | $6500 |
+
+a. ¿Cuál es el costo de 2 libras de mortadela?
+
+b. ¿Cuál cuesta más por libras, la tocineta o el cábano?
+
+c. ¿Cuál es el costo total de 14 libras de jamón y 5 libras de cábano?
+
+11. Jaime compró una chaqueta de $35 000 y un par de zapatos de $40000 con 25% de descuento. Escribe una ecuación para hallar la cantidad total de descuento en los artículos. Resuelve la ecuación.
+
+12. Escribe estos números en orden de menor a mayor.
+
+60%; 1/4; 0,75; 28%; 1/2; 0,55
+
+13. El precio de un computador es $ 1450000 y un monitor cuesta $350000. El IVA sobre la venta es 16%. ¿Cuál es la cantidad total del IVA para los dos artículos?
+
+14. De los 20 edificios más altos del mundo, 20% se encuentran en EE. UU. ¿Cuántos de los 20 edificios más altos del mundo están en EE. UU.?
+
+15. El precio de una bicicleta nueva es $90 000. La tienda anuncia un descuento de 30% y el IVA sobre la venta es 16%. Explica cómo hallar el costo de la bicicleta.
+
+## COMPRENSIÓN DE LOS NÚMEROS ENTEROS
+
+Lo entenderás: Una recta numérica puede usarse para identificar y representar enteros.
+
+¿Qué son tos enteros y qué representan?
+
+El punto más alto de América del Sur es el cerro Aconcagua, que tiene una altura de 6962 metros sobre el nivel del mar. El punto más bajo es la Laguna del Carbón, en Argentina; está 105 metros abajo del nivel del mar.
+
+- ¿Cómo se escriben esos puntos con enteros?
+
+La distancia sobre el nivel del mar es mayor que cero y se representa con un entero positivo. +6962
+
+La distancia bajo el nivel del mar es menor que cero y se representa con un entero negativo. -105
+
+Los enteros indican magnitud (distancia) y dirección desde cero.
+
+*Imagen 87: -105 y +6962 en recta numérica.*
+
+Descripción imagen: Recta numérico con el 0 en el centro, en sus dos extremos punta de flecha. A la izquierda del cero un poco distanciado se encuentra el número -105. A la derecha del 0 a una distancia superior a la del -105 se encuentra ubicado el +6962.
+
+- La magnitud de +6962 es 6962. La dirección es positiva.
+
+- La magnitud de -105 es 105. La dirección es negativa.
+
+Los enteros son los números enteros y sus opuestos.
+
+Los números opuestos entre sí tienen la misma magnitud (distancia a partir de 0). -5 y +5 están a la misma distancia de 0.
+
+- Los enteros negativos están a la izquierda de cero.
+
+- Los enteros positivos están a la derecha de cero.
+
+### Práctica lo aprendido
+
+1. Escribe un número entero para cada descripción en palabras.
+
+a. Diez grados bajo cero.
+
+b. Setenta grados sobre cero.
+
+c. Doscientos treinta metros sobre el nivel del mar.
+
+d. Cincuenta y dos metros bajo el nivel del mar.
+
+2. ¿cuál es el opuesto de la elevación del cerro Aconcagua escrito como número entero?
+
+3. ¿A qué distancia del nivel del mar se encuentran 512 metros bajo el nivel del mar?
+
+4. ¿Cómo muestras el nivel del mar con un número entero?
+
+5. Identificar el número entero en cada punto.
+
+*Imagen 88: Enteros sobre la recta numérica*
+
+Descripción imagen: Recta numérica entre -7 y +8, sobre los números -5, -4, -1, 3, 4 se encuentran respectivamente las letras W, Z, , X, T y puntos rojos.
+
+a. T
+
+b. w
+
+c. x
+
+d. y
+
+e. z
+
+6. Escribe un número entero para cada descripción en palabras.
+
+a. Una disminución de 2 grados de temperatura.
+
+b. 6 pasos hacia adelante.
+
+c. 10 segundos antes del despegue.
+
+d. Un retiro de $20000.
+
+e. Una pérdida de 7 libras.
+
+f. Un depósito de cien mil pesos.
+
+g. Un aumento de tres centímetros.
+
+h. Un descenso de seis metros.
+
+## PAREJAS ORDENADAS Y DISTANCIAS
+
+Lo entenderás: Un par ordenado de números se usa para ubicar un punto en una gráfica de coordenadas.
+
+¿Cómo localizas puntos en un gráfico de coordenadas?
+
+Los gráficos de coordenadas facilitan la localización de puntos en los mapas. Empieza en 0. Avanza 3 cuadras al este y luego 2 cuadras al norte. Estarás en el banco. Un par ordenado identifica un punto en un gráfico de coordenadas. El banco está en (3,2).
+
+*Imagen 89: Coordenadas del Banco*
+
+Descripción imagen: Plano cartesiano en el primer cuadrante (x positivo, y positivo), punto de color rojo etiquetado con la palabra Banco en la coordenada 3 en el eje x y la coordenada 2 en el eje y.
+
+Un plano de coordenadas se extiende de tal manera que incluye tanto números positivos como negativos.
+
+Tiene un eje de las x horizontal y un eje de las y, vertical. El punto de intersección, del eje de las x con el eje de las y se llama origen.
+
+El primer número de un par ordenado, la coordenada x, representa la distancia hacia la derecha o hacia la izquierda del origen, a lo largo del eje de las x. El segundo número, la coordenada y, representa la distancia hacia arriba o hacia abajo a lo largo del eje de las y.
+
+*Imagen 90: (-2, 3) en el plano.*
+
+Descripción imagen: Plano cartesiano con puntos rojos sobre las coordenadas (0, 0) y (-2, 3).
+
+El par ordenado del punto A es (-2, 3).
+
+Otros ejemplos
+
+¿Cómo ubicas un punto en un plano de coordenadas?
+
+Ya sabes que los gráficos representan datos. Ahora verás cómo los pares ordenados de números representan puntos en un plano de coordenadas.
+
+Gráfica el punto R en (-4, -5)
+
+Paso 1
+
+Dibuja y rotula el eje de las x y el eje de las y en papel cuadriculado.
+
+Paso 2
+
+Avanza 4 unidades hacia la izquierda del origen. Luego, avanza 5 unidades hacia abajo.
+
+Paso 3
+
+Marca el punto y rotúlalo R.
+
+*Imagen 91: Punto R en el plano.*
+
+Descripción imagen: Ubicación del punto R sobre el plano cartesiano. Sobre el eje negativo y hay un segmento de color morado entre el 0 y el -4. Sobre la vertical del -4 desde el eje x hasta el punto R en dirección sur hay un segmento azul con medida de 5 unidades.
+
+¿Cómo hallas una distancia en el plano de coordenadas?
+
+Halla la distancia entre los puntos representados por (-2,+5) y (-2,+2).
+
+1. Representa los puntos en el plano de coordenadas.
+
+2. Si dos puntos se encuentran en la misma recta de la cuadrícula, se puede hallar la distancia entre ellos contando las unidades de la cuadrícula.
+
+3. La distancia entre los puntos representados por (-2, +5) y (-2, +2) es 3 unidades.
+
+*Imagen 92: Distancia sobre el plano.*
+
+Descripción imagen: Puntos (-2, 5) y (-2, 2) sobre el plano, se resalta la distancia recta entre estos que es 3 unidades.
+
+### Práctica lo aprendido
+
+1. Halla la distancia entre cada par de enteros de una recta numérica
+
+a. -4, +3
+
+b. -5, -1
+
+c. +4, +7
+
+2. Describe cómo marcar el par ordenado (-3, +4).
+
+3. ¿Qué par ordenado representa el origen de cualquier plano de coordenadas?
+
+4. Gráfica y rotula cada punto. Luego halla la distancia entre los puntos representados por cada conjunto de pares ordenados en el plano de coordenadas
+
+a. (-5, -5), (-2, -5)
+
+b. (+2, -4), (+2, -5)
+
+c. (-4, +3), (+1, +3)
+
+d. (-1, +4), (-1, -3)
+
+e. (+4, -2), (+4, 0)
+
+f. (0, +1), (0, -5)
+
+5. Usa el plano de coordenadas que se muestra abajo.
+
+*Imagen 93: Diferentes puntos sobre el plano.*
+
+Descripción imagen: Plano cartesiano con los siguientes puntos: Etiquetados con las letra D, H, K se encuentran sobre el eje y = 1 los puntos en las coordenadas x = -1, 2 y 5 respectivamente. Etiquetados con las letra A, C, E se encuentran sobre el eje y = 2 los puntos en las coordenadas x = -5, -3 y 0 respectivamente. Etiquetados con las letra B, F, G, J se encuentran sobre el eje y = 4 los puntos en las coordenadas x = -3, 0, 2 y 5 respectivamente. Etiquetados con las letra N, L, M se encuentran sobre el eje y = -2 los puntos en las coordenadas x = -3, 2 y 4 respectivamente. Etiquetado con la letra P se encuentra sobre el eje y = -4 el punto en las coordenadas x = -3.
+
+a. ¿Qué punto está exactamente a 7 unidades del punto N?
+
+b. ¿Cuál es mayor: la distancia del punto B al punto N, o la distancia del punto A al punto E?
+
+7. Enumera todos los puntos que están exactamente a 3 unidades del punto H.
+
+8. Un equipo de fútbol americano empezó en la línea de las 20 yardas. En las primeras dos jugadas, perdieron 4 yardas y ganaron 4. ¿Dónde quedaron?
+
+9. La fosa de las Marianas se localiza en el suelo submarino del océano Pacífico del Norte. Está a 10924 metros bajo el nivel del mar. Expresa esta profundidad como entero.
+
+10. Andrés tiene 1 1/2 metros de alambre de aluminio, 1,29 metros de alambre de cobre y 1 5/8 metros de alambre de acero. ¿De qué tipo de alambre tiene más?
+
+11. Una empresa de cine informó que una de sus películas perdió veinte millones ochocientos cincuenta y siete mil novecientos pesos. Escribe ese número como entero.
+
+12. A medianoche, la temperatura era de 8 grados. Después bajó 5 grados y subió 3 grados, y luego bajó 2 grados. ¿Cuál fue la última temperatura? Muestra tu respuesta en una recta numérica.
+
+13. Pedro ganó $168750 en una feria de artesanías. Vendió 75 de las 125 cubiertas para libros que había hecho. ¿Qué expresión puedes usar para hallar el precio que cobró por cada cubierta?
+
+a. $168750 dividido 75
+
+b. $168 750 dividido (125+ 75)
+
+c. $168750 dividido 125
+
+d. $168750 dividido (125-75)
+
+14. Describe cómo se calcula el área total del prisma rectangular que se muestra abajo. Luego, calcula el área total.
+
+*Imagen 94: Prisma Rectangular*
+
+Descripción imagen: Prisma rectangular con medidas 5cm de largo, 4,5 cm de profundidad y 3,5 cm de altura. El prisma es de color verde.
+
+15. Juliana necesita un entero que sea 2 menos que -11. ¿Qué número debe escoger? ¿Cómo hallaste ese número?
+
+## GRÁFICO DE ECUACIONES
+
+Lo entenderás: Los pares ordenados se pueden usar para graficar ecuaciones en un plano de coordenadas.
+
+¿Cómo representas una ecuación en un gráfico de coordenadas?
+
+Ana camina 3 kilómetros en una hora. ¿Qué distancia recorrerá a esa velocidad en 7 horas?
+
+Una ecuación cuyo gráfico es una línea recta se llama ecuación lineal.
+
+Paso 1:
+
+Escribe una ecuación
+
+- Ana camina 3 kilómetros.
+
+- Kilómetros = 3 por horas
+
+Sea y el número de kilómetros y x el número de horas.
+
+y= 3x
+
+Paso 2:
+
+Haz una tabla de valores para x, que muestre cómo se relaciona x.
+
+y = 3x
+
+*Tabla 35: Relación x a y*
+
+| x | y |
+| --- | --- |
+| 1 | 3 |
+| 3 | 9 |
+| 5 | 15 |
+
+Paso 3:
+
+Rotula los ejes de un gráfico de coordenadas. Marca los pares ordenados y une los puntos para hacer un gráfico de la ecuación.
+
+*Imagen 95: Horas versus Kilómetros.*
+
+Descripción imagen: Cuadrante positivo del plano cartesiano con eje x (Horas caminadas) y eje y (Kilómetros caminados) sobre él hay una línea recta con puntos de color rojo en las coordenadas (1, 3), (3, 9) y (5, 15). La línea recta une los puntos.
+
+Prolonga el eje de las y. Cuando x = 7, el valor de y indica que Ana caminó 21 kilómetros.
+
+Otro ejemplo
+
+¿Cómo haces el gráfico de una ecuación lineal?
+
+Carlos tiene 4 años más que Tomás. ¿Cómo puedes representar gráficamente esta situación?
+
+Paso 1:
+
+Escribe una ecuación
+
+Carlos tiene 4 años más que Tomás.
+
+Edad de Carlos = edad de Tomás + 4
+
+y = x + 4
+
+Nota: Cuando hagas una tabla de valores para una ecuación lineal, usa al menos 3 valores para x.
+
+Paso 2:
+
+Haz una tabla de valores
+
+*Tabla 36: Edades de Tomás y Carlos.*
+
+| Tomás x (años) | Carlos y (años) |
+| --- | --- |
+| 2 | 6 |
+| 4 | 8 |
+| 6 | 10 |
+
+Paso 3:
+
+Sitúa los pares ordenados y conecta los puntos
+
+*Imagen 96: Gráfico Lineal Edades.*
+
+Descripción imagen: Cuadrante positivo del plano cartesiano con eje x etiquetada como Edad de Tomás (años) y eje y etiquetado como Edad de Carlos (años) sobre él hay una línea recta con puntos de color rojo en las coordenadas (2, 6), (4, 8) y (6, 10). La línea recta une los puntos.
+
+### Práctica lo aprendido
+
+1. Halla los valores de y cuando x = 2, 4 y 6. Luego representa los pares ordenados.
+
+a. y = x + 3
+
+b. y = x – 1
+
+c. y = 2x
+
+d. y = 4x
+
+2. Haz un gráfico de la ecuación: y = x + 4
+
+3. ¿La recta para y = x – 4 incluye el punto (4,0)?
+
+4. Un león es cuatro veces más veloz que una ardilla. ¿Qué ecuación representa esa relación? Traza el gráfico.
+
+5. identifica los pares ordenados para cada valor de x, Si x = 0, 2 y 4.
+
+a. y = 6x
+
+b. y = x + 3
+
+c. y = x + 7
+
+d. y = x – 0
+
+6. Haz una tabla de valores y el gráfico de cada ecuación. Sea x = 1, 2 y 3.
+
+a. y = x – 1
+
+b. y = 2x
+
+c. y = x + 1
+
+d. y = x
+
+7. Al representar los puntos (1, 3), (1, 7), (1, 12) y (1, 25) en un gráfico, formarán una recta vertical. ¿Crees que la ecuación para esta recta podría ser x = 1 o y = 1? Explícalo.
+
+8. ¿Por qué sabes que el punto (4,8) estará en los gráficos de las ecuaciones y = 2x y y = x + 4?
+
+9. Completa la tabla de valores para la ecuación: y = x - 6.
+
+*Tabla 37: Valores de la ecuación.*
+
+| x | y |
+| --- | --- |
+| 6 | 0 |
+| 7 | ? |
+| ? | 2 |
+| 11 | ? |
+
+10. ¿Estará incluido el punto (5,10) en un gráfico para la ecuación y = 2x? Explica tu respuesta.
+
+11. ¿Qué par ordenado queda incluido en el gráfico de y = 3 + x?
+
+a. (1, 3)
+
+b. (9, 3)
+
+c. (13, 16)
+
+d. (9, 6)
+
+12. ¿En qué punto la recta y= -8x + 7 cruza el eje de las y?
+
+a. (0, -7)
+
+b. (0, 7)
+
+c. (-8, 7)
+
+d. (15, 0)
+
+# BIBLIOGRAFÍA
+
+1. Portilla, A. (2013). Desafíos Quinto Grado. Recuperado de http://libroosgratis.blogspot.com/2012/04/textos-escolares-2012-ensenanza-basica.html
+
+2. Randall, C. [et al.]. (2010). Matemática Visual. Bogotá D.C.: Pearson.
+
+3. Salazar, C. (2009). Navegantes Matemáticas 5. Bogotá D.C.: Grupo Editorial Norma.

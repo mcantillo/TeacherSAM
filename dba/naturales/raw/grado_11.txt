@@ -1,0 +1,168 @@
+%% page 37
+[[DBA 1]]
+Comprende la naturaleza de la propagación del
+sonido y de la luz como fenómenos ondulatorios
+(ondas mecánicas y electromagnéticas,
+respectivamente).
+
+Evidencias de aprendizaje
+
+* Clasifica las ondas de luz y sonido según el medio
+de propagación (mecánicas y electromagnéticas)
+y la dirección de la oscilación (longitudinales y
+transversales).
+* Aplica las leyes y principios del movimiento
+ondulatorio (ley de reflexión, de refracción
+y principio de Huygens) para predecir el
+comportamiento de una onda y los hace visibles
+en casos prácticos, al incluir cambio de medio
+de propagación.
+* Explica los fenómenos ondulatorios de sonido
+y luz en casos prácticos (reflexión, refracción,
+interferencia, difracción, polarización).
+* Explica las cualidades del sonido (tono, intensidad,
+audibilidad) y de la luz (color y visibilidad) a partir
+de las características del fenómeno ondulatorio
+(longitud de onda, frecuencia, amplitud).
+
+Ejemplo
+
+Dadas las situaciones que se presentan en las fotos,
+explica, a partir de principios y leyes, lo que observa.
+
+[[FIG g11_p37_1]]
+
+[[DBA 2]]
+Comprende que la interacción de las cargas
+en reposo genera fuerzas eléctricas y que
+cuando las cargas están en movimiento
+genera fuerzas magnéticas.
+
+Evidencias de aprendizaje
+
+* Identifica el tipo de carga eléctrica (positiva o
+negativa) que adquiere un material cuando se
+somete a procedimientos de fricción o contacto.
+* Reconoce que las fuerzas eléctricas y magnéticas
+pueden ser de atracción y repulsión, mientras
+que las gravitacionales solo generan efectos de
+atracción.
+* Construye y explica el funcionamiento de un
+electroimán.
+
+Ejemplo
+
+[[FIG g11_p37_2]]
+
+%% page 38
+[[DBA 3]]
+Comprende las relaciones entre corriente y
+voltaje en circuitos resistivos sencillos en serie,
+en paralelo y mixtos.
+
+Evidencias de aprendizaje
+
+* Determina las corrientes y los voltajes en elementos
+resistivos de un circuito eléctrico utilizando la ley
+de Ohm.
+* Identifica configuraciones en serie, en paralelo
+y mixtas en diferentes circuitos representados en
+esquemas.
+* Identifica características de circuitos en serie y
+paralelo a partir de la construcción de circuitos
+con resistencias.
+* Predice los cambios de iluminación en bombillos
+resistivos en un circuito al alterarlo (eliminar o
+agregar componentes en diferentes lugares).
+
+Ejemplo
+
+Dado el siguiente circuito:
+
+[[FIG g11_p38_1]]
+
+Identifica los cambios de iluminación en los
+bombillos restantes si el bombillo (X) se elimina.
+
+[[DBA 4]]
+Comprende que los diferentes mecanismos
+de reacción química (oxido-reducción,
+homólisis, heterólisis y pericíclicas) posibilitan
+la formación de distintos tipos de compuestos
+orgánicos.
+
+Evidencias de aprendizaje
+
+* Representa las reacciones químicas entre
+compuestos orgánicos utilizando fórmulas
+y ecuaciones químicas y la nomenclatura
+propuesta por la Unión Internacional de Química
+Pura y Aplicada (IUPAC).
+* Clasifica compuestos orgánicos y moléculas de
+interés biológico (alcoholes, fenoles, cetonas,
+aldehídos, carbohidratos, lípidos, proteínas) a
+partir de la aplicación de pruebas químicas.
+* Explica el comportamiento exotérmico o
+endotérmico en una reacción química debido
+a la naturaleza de los reactivos, la variación de
+la temperatura, la presencia de catalizadores y
+los mecanismos propios de un grupo orgánico
+específico.
+
+Ejemplo
+
+Realiza actividades prácticas individuales o en
+equipo en las que busca clasificar compuestos
+orgánicos utilizando diferentes reactivos químicos
+(Benedict, Fehling, Bicarbonato de Sodio, Tollens),
+durante el proceso puede identificar algunos factores
+que influyen en que una reacción sea positiva o
+negativa para un grupo funcional analizado y un
+reactivo utilizado. Comunica detalladamente el
+proceso de indagación y de resultados con el uso
+de gráficos, tablas y ecuaciones. Adicionalmente,
+determina si una reacción es endotérmica o
+exotérmica según las evidencias y datos obtenidos.
+
+%% page 39
+[[DBA 5]]
+Analiza cuestiones ambientales actuales, como
+el calentamiento global, contaminación,
+tala de bosques y minería, desde una visión
+sistémica (económico, social, ambiental y
+cultural).
+
+Evidencias de aprendizaje
+
+* Explica el fenómeno del calentamiento global,
+identificando sus causas y proponiendo acciones
+locales y globales para controlarlo.
+* Identifica las implicaciones que tiene para
+Colombia, en los ámbitos social, ambiental y
+cultural el hecho de ser “un país mega diverso”.
+* Argumenta con base en evidencias sobre los
+efectos que tienen algunas actividades humanas
+(contaminación, minería, ganadería, agricultura,
+la construcción de carreteras y ciudades, tala
+de bosques) en la biodiversidad del país.
+* Diseña y propone investigaciones, en las que
+plantea acciones individuales y colectivas que
+promuevan el reconocimiento de las especies de
+su entorno para evitar su tala (plantas), captura
+y maltrato (animales) con fines de consumo o
+tráfico ilegal.
+
+Ejemplo
+
+A partir de la siguiente gráfica:
+
+Relaciona la información anterior con los siguientes
+datos:
+
+IDEAM, 2009 citado por Roca, M. (22 de septiembre de
+2010). Explorando los Andes. Obtenido de Explorando los
+Andes: http://www.nevados.org/index.php/es/home/46articulos-tematicos/calentamiento-global/270-avanzael-cambio-climatico-y-el-deshielo-de-los-glaciares-encolombia.html
+
+Grafica la información de la tabla y analiza el
+impacto que puede tener el derretimiento de los
+nevados para la biodiversidad de Colombia.

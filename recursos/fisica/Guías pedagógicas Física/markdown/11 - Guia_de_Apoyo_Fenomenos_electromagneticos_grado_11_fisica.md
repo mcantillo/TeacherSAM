@@ -1,0 +1,2846 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Fenómenos Electromagnéticos grado 11º
+
+de educación media
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+En la siguiente guía de apoyo de ciencias naturales para grado undécimo encontrará ecuaciones e imágenes que tendrán una descripción inmediatamente después de encontrarla.
+
+Al final de cada capítulo encontrará una serie de actividades y problemas de todas las secciones leídas. A lo largo de la lectura de esta guía encontrarás números en notación científica, alfabeto griego y notación algebraica, así que se sugiere estudiar o repasar el tema para mejor comprensión.
+
+Los laboratorios sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Contenido
+
+# Índice de imágenes
+
+Imagen 1. Composición eléctrica 12
+
+Imagen 2. Composición eléctrica 19
+
+Imagen 3. Líneas de fuerza eléctrica 29
+
+Imagen 4. Líneas de fuerza eléctrica entre dos cargas 30
+
+Imagen 5. Campo de una carga esférica 36
+
+Imagen 6. Potencial eléctrico en diferentes puntos 39
+
+# Índice de tablas
+
+Tabla 1. Valores de constante dieléctrica para materiales 25
+
+Tabla 2. Resistividad y coeficientes de temperatura 70
+
+# Capítulo 1: electrostática
+
+¿Alguna vez has notado que cuando te quitas el saco sientes un suave ruido y si te encuentras en un cuarto oscuro, observas que ese ruido proviene de las chispas que salen de tu ropa? ¿O que al acercarte a un objeto metálico sientes una ligera sacudida que atraviesa tu cuerpo? Así como esto ocurre en pequeña escala en tu vida diaria, en la naturaleza otros fenómenos similares se dan con mayor ímpetu, por ejemplo, las descargas eléctricas que observamos durante una tormenta. Estos fenómenos electrostáticos tienen un origen a nivel microscópico, a partir de la estructura atómica de la materia, cuyas partículas no se pueden ver, pero sí se hacen sentir. En esta unidad analizaremos el comportamiento de la carga en los diferentes materiales, las leyes que rigen su acumulación y las que rigen la interacción entre las mismas, los conceptos de diferencia de potencial, energía potencial eléctrica y los condensadores.
+
+## La carga eléctrica
+
+Empezaremos hablando acerca de la electricidad con un poco de historia. En la Grecia clásica se estudió un fenómeno especial: la propiedad que tenían ciertos cuerpos de atraer objetos livianos después de haber sido frotados con un tejido, inicialmente se creía que el ámbar (resina fósil) era el único material que presentaba esta propiedad. Tales de Mileto, realizó experimentos en los cuales demostró que el ámbar, después de ser frotado con la piel de un animal, atraía ciertas semillas. Tales, creía que el ámbar tenía una propiedad vital.
+
+Pero en el siglo XVI, el físico inglés William Gilbert descubrió que otras sustancias también podían adquirir la propiedad reseñada. A estas sustancias las denominó sustancias eléctricas y a la propiedad la denominó electricidad, palabra que deriva del griego elektron (ámbar).
+
+Gilbert descubrió que existían dos tipos de carga: un tipo era la que adquiría el vidrio, electricidad vítrea, y otra la correspondiente al ámbar y otros cuerpos semejantes a la que denominó electricidad resinosa.
+
+Posteriormente, en 1733, el físico francés Charles du Fay, estudió las interacciones repulsivas de la electricidad, y encontró que materiales electrizados del mismo tipo se repelían. Un ejemplo de materiales que se repelen son dos varillas de plástico frotadas con piel de animal, contrario a una varilla de vidrio frotada con seda y una varilla de plástico frotada con piel de animal, ya que en este caso las varillas se atraen.
+
+## La electrización
+
+En muchas ocasiones habrás sentido la electrización en el momento en que al peinarte, tu cabello se levanta como si existiera una atracción hacia él. También habrás sentido un leve “corrientazo” cuando al bajarte de un auto tocas una de sus manijas. Pues bien este fenómeno se denomina electrización y consiste en el poder de atracción que adquieren los objetos después de ser frotados.
+
+El comportamiento eléctrico de los cuerpos está íntimamente relacionado con la estructura de la materia. Los cuerpos están formados por entidades llamadas átomos. En los átomos existen partículas que poseen carga positiva (protones), carga negativa (electrones) y otras partículas cuya carga es neutra (neutrones).
+
+En general, los átomos poseen igual número de protones que de electrones, por lo cual la carga positiva de los primeros se compensa con la negativa de los segundos. Así mismo, el átomo en conjunto, no tiene carga eléctrica neta, por lo tanto, es eléctricamente neutro.
+
+Al someter un cuerpo a ciertas manipulaciones, como la frotación con una barra de vidrio o de plástico electrizador, ese cuerpo puede ganar electrones o perderlos. Esto se debe a que las barras de vidrio o de plástico se electrizan al frotarlas, respectivamente, con seda o con lana. Al frotar la barra de plástico gana electrones de la lana (aumentando carga negativa), y la barra de vidrio cede electrones a la seda (aumentando carga positiva). Es decir, el tipo de carga eléctrica que un cuerpo tiene está en función de que ese cuerpo tenga más o menos electrones que protones.
+
+En la siguiente imagen 1, se representa la composición eléctrica de un cuerpo neutro y un cuerpo cargado.
+
+*Imagen 1. Composición eléctrica*
+
+Descripción de la Imagen 1. Composición eléctrica. Cuerpo neutro, 3 cargas positivas y 3 cargas negativas representadas dentro de una región circular. Cuerpo con carga positiva, 6 cargas positivas dentro de una región circular. Cuerpo con carga negativa, 6 cargas negativas dentro de una región circular.
+
+Se puede apreciar que:
+
+- Si un cuerpo tiene carga negativa es porque ha ganado electrones de otros cuerpos y, por tanto, posee más electrones que protones.
+
+- Si un cuerpo tiene carga positiva es porque ha cedido electrones a otros cuerpos y, por tanto, posee menos electrones que protones.
+
+## Cargas eléctricas
+
+El norteamericano Benjamín Franklin, quien realizó distintos descubrimientos en el campo de la electricidad, sugirió la existencia de un único tipo de carga o fluido eléctrico. Cuando la cantidad de la misma en un cuerpo era superior a lo normal, este presentaba electricidad positiva (+), la adquirida por el vidrio; y cuando la misma era inferior a lo normal, el cuerpo tenía electricidad negativa (−), la adquirida por el ámbar.
+
+La magnitud física que nos indica la cantidad de esa propiedad de la materia se denomina carga eléctrica o, simplemente, carga.
+
+La unidad de la carga eléctrica en el S.I. se denomina coulomb o culombio su símbolo es C (C mayúscula).
+
+Franklin propuso que las fuerzas ejercidas entre cuerpos electrizados eran acciones a distancia, unas de tracción y otras de repulsión, cuya ocurrencia dependía del tipo de electrización de dichos cuerpos.
+
+En la actualidad, existen dos tipos de carga a las que por convenio, se les denomina cargas positivas (+) y cargas negativas (−), y por convenio, se considera como carga eléctrica negativa la que tiene el electrón, mientras la carga del protón se considera como positiva.
+
+Como ya sabes, todos los cuerpos están formados por átomos. En los átomos existen protones, que poseen carga positiva y electrones, con carga negativa. Los protones y los neutrones (partículas sin carga eléctrica) se encuentran en el núcleo, mientras que los electrones se encuentran en el exterior del núcleo. Cada protón (todos iguales) tienen la misma cantidad de carga eléctrica que un electrón (también iguales entre sí), aunque de diferente signo.
+
+Los átomos poseen el mismo número de protones que de electrones, por lo que la carga positiva de los primeros se compensa con la carga negativa de los segundos. Por este motivo, un átomo en conjunto, no posee carga eléctrica neta y se dice que es eléctricamente neutro.
+
+La transferencia y la interacción entre las cargas producen los fenómenos eléctricos. Esta interacción responde a la ley de signos; según la cual, los cuerpos que tienen carga eléctrica del mismo signo se repelen y los cuerpos que tienen cargas de diferente signo se atraen.
+
+Se puede observar que entre las cargas eléctricas surgen fuerzas de atracción o de repulsión y el que surja una u otra clase de fuerzas se debe a la característica propia (positiva o negativa) de las cargas que interactúan.
+
+La existencia de la carga eléctrica en un cuerpo se pone de manifiesto mediante un electroscopio, dispositivo que consiste en un objeto que se carga al ponerlo en contacto con un cuerpo cargado, de manera que se observa la repulsión entre cuerpos cargados con el mismo tipo de electricidad.
+
+Cuando se acerca un cuerpo cargado eléctricamente, las cargas eléctricas dentro de la varilla se redistribuyen y se observa que las laminillas se separan. El efecto es el mismo cuando se le acerca un cuerpo cargado positivamente que cuando se le acerca un cuerpo cargado negativamente. Por tal razón, el electroscopio permite detectar si un cuerpo está cargado eléctricamente, aunque no permite detectar el tipo de carga eléctrica que posee.
+
+## Conservación de carga
+
+Cuando la fuerza eléctrica que mantiene unidos los electrones al núcleo disminuye, la distancia entre estos y el núcleo aumenta, por lo tanto aquellos electrones que se encuentran débilmente unidos a los átomos, en algunos materiales, pueden ser liberados o transferidos a otros cuerpos. Es decir, que si un cuerpo tiene carga positiva o carga negativa es porque se ha redistribuido su carga eléctrica.
+
+En estas redistribuciones se cumple el principio de conservación de la carga. Este principio indica que la cantidad de carga eléctrica en un sistema aislado es constante, es decir, se conserva, ya que puede presentarse un intercambio o movimiento de carga de un cuerpo a otro, pero no se crea ni se destruye.
+
+Por otra parte, la carga eléctrica está cuantizada. Es decir, existe una cantidad mínima de carga y la carga existente en cualquier cuerpo es un múltiplo de esta cantidad.
+
+La carga mínima o carga elemental es la carga del electrón representada por la letra e (e minúscula). Cualquier otra carga eléctrica, ya sea positiva o negativa, será igual a la carga de un número entero de electrones. Como la unidad de carga en el S.I. es el culombio (C) su equivalencia con la carga del electrón es:
+
+```latex
+1 C=6,25 \times{10}^{18}e
+```
+
+La ecuación se lee, 1 C = 6,25 × 10 a la 18 e.
+
+```latex
+1 e=\frac{1}{6,25 \times{10}^{18}}=1,6 \times{10}^{-19}C
+```
+
+La ecuación se lee, 1 e = 1/ (,25 × 10 a la 18) = 1,6 × 10 a la −19.
+
+## Conductores y aislantes
+
+En los fenómenos eléctricos se observa que el comportamiento de la materia respecto a la transmisión de electricidad es muy diverso. Existen medios materiales en los que las cargas eléctricas no se transmiten, estas sustancias son denominadas aislantes o dieléctricos. Entre ellos se encuentran la seda, el vidrio, la madera, la porcelana, etc.
+
+Por el contrario, hay otros materiales en los que las cargas eléctricas se transmiten con facilidad. En este caso se dice que los medios son conductores. Los medios conductores más característicos son los metales.
+
+Algunos elementos como el silicio o el germanio presentan una oposición intermedia entre los aislantes y los conductores, pero distinta. A estos elementos se les denomina semiconductores. El aire y la mayoría de los gases, normalmente son malos conductores, ya que solo conducen electricidad en ocasiones especiales.
+
+Los semiconductores se utilizan en la construcción de transistores y son de gran importancia en la electrónica.
+
+Desde un punto de vista atómico, en un conductor los electrones se encuentran ligados con menor firmeza, por lo cual pueden moverse con mayor libertad dentro del material. En el interior de un material aislante los electrones se encuentran ligados muy firmemente a los núcleos, por tanto no existen electrones libres. Mientras en un semiconductor la existencia de electrones libres es mínima.
+
+En 1911, el físico holandés Keike Kamerling Onnes descubrió que algunos materiales, al ser expuestos a temperaturas muy bajas aproximadamente al cero absoluto, cerca de -273°C, mejoraban su conductividad notablemente, y ofrecían una resistencia casi nula al movimiento de las cargas eléctricas. Este fenómeno se denominó superconductividad. Posteriormente, en 1987, se descubrió la superconductividad a temperaturas más altas (temperaturas mayores a 100 K, es decir, -173 °C).
+
+### Carga por contacto y carga por inducción
+
+Hasta el momento, hemos estudiado aquellos objetos cargados por frotamiento, también es posible cargar un cuerpo por contacto y por inducción.
+
+- Carga por contacto: al poner en contacto un cuerpo electrizado con otro sin carga eléctrica, se genera un paso de electrones entre el primer cuerpo y el segundo, produciéndose la electrización de este último. Por ejemplo, cuando frotas un esfero plástico y lo acercas a algunos trozos de papel, estos se adhieren al esfero, pero al cabo de unos segundos, se desprenden. Esto se debe a la transferencia de electrones libres desde el cuerpo que los tiene en mayor cantidad hacia el cuerpo que los tiene en menor proporción, manteniéndose este flujo hasta que la magnitud de la carga sea la misma en ambos cuerpos.
+
+- Carga por inducción: al aproximar un cuerpo cargado a otro cuerpo, preferiblemente conductor, que no está cargado, este cuerpo se polariza, es decir, una de sus partes se carga positivamente y la otra, negativamente.
+
+El fenómeno se debe a que el cuerpo cargado atrae las cargas de distinto signo y repele a las del mismo signo.
+
+Ahora, si se toca con un dedo el conductor polarizado la porción de carga negativa se desplazará a través de nuestro cuerpo, y de esta manera, la carga positiva se redistribuirá quedando el cuerpo cargado eléctricamente.
+
+Este procedimiento de cargar objetos eléctricamente se denomina carga por inducción.
+
+Un electroscopio es un ejemplo de cómo cargar eléctricamente por inducción.
+
+Durante una tormenta se producen efectos de carga por inducción. La parte inferior de las nubes, de carga negativa, induce carga positiva en la superficie de la Tierra. Los gases, en general, son buenos aislantes, pero si la carga negativa de un objeto se aumenta suficientemente, los electrones pueden ser enviados al gas circundante produciendo lo que conocemos como una chispa. Cuando los electrones saltan de la nube a la Tierra se produce el relámpago.
+
+### Polarización de la carga
+
+En el ejemplo de la carga por inducción se ilustró el proceso de polarización para el caso de los materiales conductores. En el cual se pudo concluir que, cuando un cuerpo neutro reorganiza sus cargas por acción o por influencia de un cuerpo cargado, se dice que el cuerpo está polarizado.
+
+Ahora, veamos lo que sucede en el caso de los aislantes. Considera un aislante, no electrizado cuyas moléculas se encuentran distribuidas al azar.
+
+Al acercar un objeto electrizado (por ejemplo con carga positiva) al material aislante, la carga de este actúa sobre las moléculas del aislante haciendo que se orienten y se ordenen de tal forma que sus cargas negativas se ubiquen lo más cerca posible del objeto cargado positivamente. El efecto de este proceso se denomina polarización y se representa en la siguiente Imagen 2.
+
+*Imagen 2. Composición eléctrica*
+
+Descripción de la Imagen 2. Composición eléctrica. Un cuerpo rectangular cargado positivamente a uno de sus lados y negativo al otro lado opuesto. A l lado positivo, se coloca un aislante que no está electrizado, evidenciado en que sus dipolos internos no muestran organización. Al lado negativo, un aislante está electrizado ya que las cargas positivas de su interior tienen a organizarse al extremo junto al negativo del cuerpo rectangular.
+
+## Fuerza entre cargas
+
+Los cuerpos cargados experimentan una cierta interacción de atracción o de repulsión entre ellos. La fuerza que caracteriza esta interacción depende de las distancias entre los cuerpos y de la cantidad de carga eléctrica.
+
+## La ley de Coulomb
+
+El físico francés Charles Coulomb, utilizando una balanza de torsión, estudió las fuerzas con las que se atraían o repelían los cuerpos cargados. Estas fueron sus conclusiones:
+
+- Las fuerzas eléctricas aparecen sobre cada una de las dos cargas que interactúan, y son de igual magnitud e igual línea de acción, pero de sentidos opuestos.
+
+- Las fuerzas eléctricas dependen de los valores de las cargas. Cuanto mayor sean esos valores, mayor será la fuerza con la que se atraen o repelen.
+
+- Las fuerzas eléctricas dependen de la distancia que separa las cargas: cuanto mayor sea esa distancia, menor será la fuerza entre ellas.
+
+- Las fuerzas eléctricas dependen del medio en el que están situadas las cargas. No es igual la fuerza entre dos cargas cuando están en el vacío que cuando están en otro medio material, como el aceite o el agua.
+
+El método para medir la carga se estableció ocho décadas después de las investigaciones de Coulomb y se definió en términos de la corriente eléctrica. La unidad natural de la carga eléctrica es la unidad de la cantidad de carga que tiene un electrón; pero, al ser una cantidad muy pequeña, el S.I. define como unidad de carga eléctrica el culombio (C). El cual, es la carga eléctrica que, situada a 1 metro de otra de igual magnitud y signo, la repele con una fuerza de 9×10 9 N (9×10 a la 9).
+
+Una carga de un culombio equivale a 6,25×10 18 N (6,25×10 a la 18) veces la carga de un electrón. Como es muy grande, con frecuencia se utiliza un submúltiplo de ella, el microculombio, que se representa con μC (letra griega mu seguido de C mayúscula), que equivale a la millonésima parte del coulomb.
+
+Estos factores se resumen en la ley de Coulomb, que permite calcular la intensidad de fuerza de atracción o repulsión de dos cargas puntuales.
+
+Definición:
+
+Ley de Coulomb. Las fuerzas eléctricas de atracción o de repulsión entre dos cargas puntuales, q1 y q2, es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa.
+
+Esta ley se expresa como:
+
+```latex
+F=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F = K ∙ (q1 ∙ q2) / r2.
+
+La constante K es la constante electrostática, se expresa en N∙m²/C² y su valor depende del medio material en cual se encuentran las cargas. En el vacío la constante electrostática tiene un valor de K=9×10 9 N∙ m²/C². El enorme valor de la constante electrostática nos indica que las fuerzas eléctricas son intensas. Si la fuerza tiene signo menos, indica una fuerza de atracción entre las dos cargas y si es de signo positivo indica una fuerza de repulsión.
+
+#### Ejemplo
+
+Dos cargas puntuales se encuentran cargadas con −3 μC (mu C) y −4 μC (mu C). Si se acercan a una distancia de 1 cm, ¿cuál es la fuerza de atracción entre ellas?
+
+#### Solución
+
+Como las unidades de K están en el SI, entonces:
+
+Al convertir al S.I.:
+
+```latex
+q_{1}=3 \times{10}^{-6} C
+```
+
+La ecuación se lee, q1 = 3 × 10 a la −6 C.
+
+```latex
+q_{2}=-4 \times{10}^{-6} C
+```
+
+La ecuación se lee, q2 = −4 × 10 a la −6 C.
+
+r= 0,01 m
+
+A partir de la ley de Coulomb,
+
+```latex
+F=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F = K ∙ (q1 ∙ q2) / r2.
+
+Al remplazar:
+
+```latex
+F=9 \times{10}^{9} N\cdot m^{2}/c² \frac{( 3\times{10}^{-6}C)(-4 \times{10}^{-6}C)}{{(0,01m)}^{2}}
+```
+
+La ecuación se lee, F = (9×10 9 N∙ m²/C²)∙(3 × 10 a la −6 C)∙( −4 × 10 a la −6 C)/(0,01 m)2.
+
+Al calcular se tiene:
+
+F = −1.080 N
+
+La fuerza de atracción entre las dos cargas es de 1.080 N.
+
+#### Ejemplo
+
+Dos cargas puntuales positivas de 3 μC (mu C) y 4 μC (mu C) se encuentran en el aire separadas 2 cm. Calcular la fuerza resultante que las cargas ejercen sobre otra también positiva de 2 μC (mu C) situada en el punto medio de la línea que une las dos primeras.
+
+#### Solución
+
+Como las tres cargas tienen el mismo signo, las dos primeras ejercen una fuerza de repulsión sobre la tercera, por lo que esta está sujeta a dos fuerzas de sentidos contrarios. Al ser esta fuerza una magnitud vectorial, la norma de la resultante es la diferencia entre las normas de las fuerzas aplicadas.
+
+Por tanto:
+
+```latex
+F=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F = K ∙ (q1 ∙ q2) / r2.
+
+Al reemplazar y calcular:
+
+```latex
+F_{1}=9 \times{10}^{9} N\cdot m^{2}/c² \frac{( 3\times{10}^{-6}C)(2 \times{10}^{-6}C)}{{(0,01m)}^{2}}=540 N
+```
+
+La ecuación se lee, F1 = (9×10 9 N∙ m²/C²)∙(3 × 10 a la −6 C)∙(2 × 10 a la −6 C)/(0,01 m)2.
+
+Al reemplazar y calcular
+
+```latex
+F_{2}=9 \times{10}^{9} N\cdot m^{2}/c² \frac{\left( 2\times{10}^{-6}C \right)\left( 4 \times{10}^{-6}C \right)}{{\left( 0,01m \right)}^{2}}=720 N
+```
+
+La ecuación se lee, F2 = (9×10 9 N∙ m²/C²)∙(2 × 10 a la −6 C)∙(4 × 10 a la −6 C)/(0,01 m)2.
+
+Entonces:
+
+```latex
+F_{total}= F_{1}-F_{2}
+```
+
+La ecuación se lee, F total = F1 menos F2.
+
+Al remplazar y calcular
+
+F total = 720 N −540 N = 180 N
+
+La fuerza resultante tiene una norma de 180 N y tiene el mismo sentido que F2.
+
+### La fuerza eléctrica en otros materiales
+
+La fuerza eléctrica depende de la constante electrostática K, la cual se definió para el vacío y que, en términos prácticos, es la misma para el aire. Si el medio es otro, esta constante presenta variaciones notables de tal forma que la fuerza electrostática entre los cuerpos cargados presenta variaciones. Según el medio, la constante electrostática K, se expresa como:
+
+```latex
+K= \frac{9 \times{10}^{9} N\cdot m^{2}/c²}{k_{d}}
+```
+
+La ecuación se lee, K = 9×10 9 N∙ m²/C² / kd.
+
+La constante kd es la constante dieléctrica del medio material y no tiene unidades. En la tabla 1 se muestran algunos valores para la constante dieléctrica.
+
+*Tabla 1. Valores de constante dieléctrica para materiales*
+
+| Medio material | Constante dieléctrica kd |
+| --- | --- |
+| Vacío | 1 |
+| Aire | 1 |
+| Vidrio | 4,5 |
+| Aceite | 4,6 |
+| Mica | 5,4 |
+| Agua | 81 |
+
+#### Ejemplo
+
+Calcular la fuerza entre dos cargas cuyos valores son −1 μC (mu C) y 2 μC (mu C), que se encuentran en el agua, separadas una distancia de 1 cm.
+
+#### Solución
+
+De acuerdo con la tabla 1, calculamos la kd del agua, entonces:
+
+```latex
+K= \frac{9 \times{10}^{9} N\cdot m^{2}/c²}{k_{d}}
+```
+
+La ecuación se lee, La ecuación se lee, K = 9×10 9 N∙ m²/C² / kd.
+
+Al remplazar
+
+```latex
+K= \frac{9 \times{10}^{9} N\cdot m^{2}/c²}{81}
+```
+
+La ecuación se lee, K = 9×10 9 N∙ m²/C² / 81.
+
+Al calcular
+
+```latex
+K= 1,1\times{10}^{8} N\cdot m^{2}/c²
+```
+
+La ecuación se lee, K = 1,1×10 8 N∙ m²/C².
+
+Por tanto, la fuerza eléctrica es:
+
+```latex
+F=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F = K ∙ (q1 ∙ q2) / r2.
+
+```latex
+F=1,1 \times{10}^{8} N\cdot m^{2}/c² \frac{( 2\times{10}^{-6}C)(-1 \times{10}^{-6}C)}{{(0,01m)}^{2}}
+```
+
+La ecuación se lee, F = (1,1×10 8 N∙ m²/C²)∙(2 × 10 a la −6 C)∙(−1 × 10 a la −6 C)/(0,01 m)2.
+
+F= −2,2 N
+
+En el agua, las dos esferas se atraen con una fuerza de -2,2 N.
+
+#### Ejemplo
+
+Una carga puntual positiva de 2 μC (mu C) se encuentra separada 50 cm de otra carga negativa de 5 μC (mu C). Determinar la fuerza con la que interactúan cuando se encuentran en el aire y cuando se encuentran en el aceite.
+
+#### Solución
+
+Ya que las cargas son de distinto signo, aparecen entre ellas fuerzas de atracción. La norma de la fuerza que actúa en cualquiera de las cargas se calcula mediante la ley de Coulomb.
+
+Como las unidades de K están en el S.I., entonces al convertir:
+
+q1 = 2 × 10 −6 C
+
+q2 = −5 × 10 −6 C
+
+r=0,5 m
+
+A partir de la ley de Coulomb,
+
+```latex
+F_{aire}=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F aire = K ∙ (q1 ∙ q2) / r2.
+
+Al reemplazar y calcular:
+
+```latex
+F_{aire}=9 \times{10}^{9} N\cdot m^{2}/c² \cdot\frac{\left( 2\times{10}^{-6}C \right)\left( -5 \times{10}^{-6}C \right)}{{\left( 0,5m \right)}^{2}}=-0,36 N
+```
+
+La ecuación se lee, F aire = (9×10 9 N∙ m²/C²)∙(2 × 10 a la −6 C)∙(−5 × 10 a la −6 C)/(0,5 m)2 = −0,36 N.
+
+```latex
+F_{Aceite}=\frac{K}{k_{d}}\cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F aceite = (K/kd) ∙ (q1 ∙ q2) / r2.
+
+```latex
+F_{Aceite}=\frac{9 \times{10}^{9} }{4,6}N\cdot m^{2}/c² \cdot\frac{\left( 2\times{10}^{-6}C \right)\left( -5 \times{10}^{-6}C \right)}{{\left( 0,5m \right)}^{2}}=-0,08 N
+```
+
+La ecuación se lee, F aceite = [(9×10 9 N∙ m²/C²)/(4,6)]∙(2 × 10 a la −6 C)∙(−5 × 10 a la −6 C)/(0,5 m)2 = −0,08 N.
+
+En el aire interactúan con una fuerza de −0,36 N y en el aceite con una fuerza de −0,08 N
+
+## Campo eléctrico y potencial eléctrico
+
+Definiremos ahora el campo eléctrico y el potencial eléctrico. Sabemos que la fuerza eléctrica es una fuerza a distancia y que los objetos cargados se consideran como cargas puntuales, cuya norma está determinada por la ley de Coulomb.
+
+## Campo eléctrico
+
+Todo lo anterior se ha presentado bajo el punto de vista newtoniano. Por ello, cuando se habla de campo, pasamos a otra forma de concebir el fenómeno eléctrico, ya que no consideramos fuerzas a distancia sino que, en presencia de una carga, el espacio se modifica, de tal manera que si colocamos pequeñas cargas (llamadas cargas de prueba y por convención son positivas) siguen una dirección determinada.
+
+Esta deformación o alteración del espacio se denomina campo eléctrico. La carga crea una tensión en el campo que obliga a las pequeñas cargas a moverse hacia ella o a alejarse de ella. En donde, a mayor carga mayor es la deformación o alteración del espacio que rodea el objeto eléctricamente cargado. Es como la deformación de una superficie elástica causada al colocar un objeto pesado, la cual se hunde y todo objeto liviano que cae sobre él describe una trayectoria determinada.
+
+Michael Faraday fue quien introdujo el término de campo eléctrico para referirse a la influencia que ejerce un objeto cargado eléctricamente sobre el espacio que lo rodea.
+
+### Las líneas de fuerza
+
+Las líneas de fuerza son las líneas que se utilizan para representar gráficamente un campo eléctrico, las cuales son tangentes, en cada punto, a la intensidad del campo.
+
+De la observación de un campo electrostático podemos apreciar el valor de su intensidad en una zona o un punto determinado por la densidad de líneas. En las zonas de mayor intensidad, la densidad de líneas es mayor (las líneas están más cercanas) que en las zonas de menor intensidad (las líneas están más separadas).
+
+En la siguiente Imagen 3, se representan las líneas de fuerza del campo creado por una carga puntual (+) y por una carga puntual negativa (-).
+
+*Imagen 3. Líneas de fuerza eléctrica*
+
+Descripción de la Imagen 3. Líneas de fuerza eléctrica. Una carga positiva tiene sus líneas de fuerza saliendo radialmente de ella. Una carga negativa tiene sus líneas de fuerza radialmente entrando hacia ella.
+
+Se puede apreciar que, en los puntos más cercanos al objeto cargado, las líneas están más cerca unas a otras, debido a que en las regiones donde hay más concentración de líneas de fuerza, es mayor la fuerza sobre la carga de prueba.
+
+De igual manera, podemos decir que en las regiones donde hay menor concentración de líneas de fuerza, menor es la fuerza que experimenta la carga de prueba.
+
+Las líneas de fuerza de un campo eléctrico se pueden materializar, al producir campos eléctricos intensos. La siguiente Imagen 4 muestra el campo producido por dos cargas:
+
+*Imagen 4. Líneas de fuerza eléctrica entre dos cargas*
+
+Descripción de la Imagen 4. Líneas de fuerza eléctrica entre dos cargas. Dos cuerpos con cargas positivas cercanas, sus líneas de campo salen de ellas pero presentan un comportamiento asintótico cuando se tratan de encontrar las líneas de campo del otro cuerpo. Dos cuerpos con diferentes cargas, sus líneas de campo se juntan yendo las líneas de campo de la carga positiva hacia la negativa.
+
+Considerando la Imagen anterior, podemos deducir una importante característica de las líneas de fuerza, que consiste en que ninguna de estas líneas podrá cruzarse, ya que en cada punto existe una única dirección para el campo eléctrico y, en consecuencia, por cada punto pasa una única línea de fuerza.
+
+### Intensidad del campo eléctrico
+
+Toda carga (llamada fuente) da lugar a fuerzas sobre cargas ubicadas en su proximidad. Por lo tanto, es válido suponer que el espacio que rodea a cualquier carga fuente se caracteriza por el hecho de que cualquier carga puesta próxima a ella estará sometida a una fuerza eléctrica.
+
+Para identificar un campo eléctrico se utiliza una magnitud física denominada intensidad del campo eléctrico.
+
+Definición:
+
+La intensidad del campo eléctrico E (E mayúscula) en un punto dado es el cociente entre la fuerza F (F mayúscula) que el campo ejerce sobre una carga de prueba situada en ese punto y el valor q (q minúscula) de dicha carga.
+
+La intensidad del campo eléctrico se expresa como:
+
+```latex
+E= \frac{F}{q}
+```
+
+La ecuación se lee, E = F/q.
+
+La unidad del campo eléctrico en el S.I. es el newton sobre culombio (N/C). Como la fuerza es un vector, el campo eléctrico también lo es. Por tanto, el valor del vector campo eléctrico es igual a la fuerza que en dicho punto experimenta una carga eléctrica positiva, es decir:
+
+```latex
+\vec{E}=\frac{\vec{F}}{q}
+```
+
+La ecuación se lee, E vector = F vector/q.
+
+La dirección y el sentido del vector campo eléctrico coinciden con la dirección y el sentido de la fuerza que actúa sobre la carga prueba colocada en dicho punto.
+
+La dirección de estos vectores es igual a la dirección de la fuerza eléctrica y sus normas dependen de la distancia a la carga.
+
+#### Ejemplo
+
+Calcular la norma y la dirección de la fuerza que experimenta una carga negativa de 6×10 −9 C, si se encuentra dentro de un campo eléctrico de intensidad 4 N/C.
+
+#### Solución
+
+Para hallar la dirección y la norma de la fuerza que experimenta la carga, tenemos que:
+
+```latex
+\vec{E}= \frac{\vec{F}}{q}
+```
+
+La ecuación se lee, E vector = F vector/q.
+
+Despejando F vector:
+
+```latex
+\vec{F}=\vec{E}\cdot q
+```
+
+La ecuación se lee, F vector = E vector ∙ q.
+
+Reemplazando, y calculando la magnitud de F:
+
+F = (4 N/C) ∙ (6×10 −9 C)
+
+F = −24×10 −9 C
+
+La magnitud de la fuerza es de −24×10 −9 C, el signo negativo indica que la dirección es opuesta a la del campo por tratarse de una carga negativa.
+
+## Campo eléctrico originado por cargas puntuales
+
+El valor de la intensidad del campo en cada punto depende del valor y de la posición del punto de la carga o las cargas que crean el campo eléctrico. Para ello, analizaremos el campo producido por una carga puntual, el campo producido por varias cargas puntuales y el campo producido por una carga esférica.
+
+### Campo eléctrico producido por una carga puntual
+
+Para calcular la intensidad del campo eléctrico producido por una carga puntual Q en un punto P situado a una distancia r de Q, considera una carga prueba q ubicada en P. Al ubicar la carga prueba en dicho punto, quedará sujeta a una fuerza eléctrica (F), cuyo valor está determinado por la ley de Coulomb, así:
+
+```latex
+F=K \cdot\frac{q_{1}\cdot q_{2}}{r^{2}}
+```
+
+La ecuación se lee, F = K ∙ (q1 ∙ q2) / r2.
+
+Como, E= F/q, entonces el campo eléctrico es:
+
+```latex
+E=\frac{F}{q}=K\cdot\frac{\frac{q\cdot Q}{r^{2}}}{q}
+```
+
+La ecuación se lee, E = F/q = K ∙ (q ∙ Q mayúscula) / r2 / q.
+
+Es decir:
+
+```latex
+E=K\frac{Q}{r^{2}}
+```
+
+La ecuación se lee, E = K∙Q/ r2.
+
+Por tanto, el campo eléctrico creado por una carga puntual Q (Q mayúscula) en un punto P ubicado a una distancia r de la misma, es directamente proporcional al valor de la carga Q (Q mayúscula) e inversamente proporcional al cuadrado de la distancia al punto considerado.
+
+Al representar el vector E, en algunos puntos del espacio que rodea a Q, se obtiene una distribución de vectores con la propiedad de tener igual valor en todos los puntos que equidistan de la carga. El valor del campo disminuye cuando la distancia a la carga Q (Q mayúscula) aumenta.
+
+### Campo eléctrico producido por varias cargas puntuales
+
+Si el campo eléctrico está formado por varias cargas, para calcular la intensidad del campo en un punto P, se determina la intensidad del campo creado por cada carga mediante la ecuación:
+
+```latex
+E=K\frac{Q}{r^{2}}
+```
+
+La ecuación se lee, E = K∙Q/ r2.
+
+Entonces el campo eléctrico E existente en el punto P (entre varias cargas), estará dado por la resultante de los campos E1, E2, E3, producidos individualmente por la cargas Q1, Q2, Q3, es decir,
+
+```latex
+\vec{E_{r}}= \vec{E_{1}}+\vec{E_{2}}+\vec{E_{3}}
+```
+
+La ecuación se lee E sub r vector = E1 vector + E2 vector + E3 vector.
+
+Por tanto, la intensidad del campo en el punto P, es la suma vectorial del campo creado por cada carga.
+
+### Campo eléctrico producido por una carga esférica
+
+El campo eléctrico de una esfera con carga Q (Q mayúscula), distribuida uniformemente, es igual al campo eléctrico producido por una carga puntual (Q’) ubicada en el centro de la esfera, es decir:
+
+```latex
+E=K\frac{Q}{r^{2}}
+```
+
+La ecuación se lee, E = K∙Q/ r2.
+
+Donde r, es la distancia del punto P al centro de la esfera. En la Imagen, se representa el vector del campo eléctrico creado por una carga esférica, en un punto P.
+
+*Imagen 5. Campo de una carga esférica*
+
+Descripción de la Imagen 5. Campo de una carga esférica. Una esfera presenta una distribución de carga positiva en la superficie de su interior. Un punto p es representado desde el centro como r. radialmente al punto p, hay un vector E saliendo.
+
+## Energía potencial eléctrica
+
+Un objeto puede almacenar energía debido a su posición con respecto a algún otro objeto. A esta energía se le llama energía potencial porque en su estado almacenado tiene el potencial de realizar un trabajo. En el campo gravitacional, por ejemplo, entre más alto se encuentre un objeto, mayor es la energía potencial que tiene, pues hay mayor distancia con respecto al suelo. Al dejar el objeto en libertad, este cae hacia el suelo y disminuye su energía potencial pero aumenta su energía cinética. La energía cinética desarrollada será mayor cuanto más lejos esté del suelo y, en consecuencia, el campo gravitacional haya hecho un mayor trabajo.
+
+En los campos eléctricos sucede lo mismo. Imagina que hay un campo eléctrico debido a una carga negativa. Al poner una carga de prueba (recuerda que estas son positivas y su carga es muy pequeña) esta se moverá hacia la carga negativa, y aumentará su energía cinética, pero disminuirá su energía potencial eléctrica. Cuanto más lejos se ubiquen la carga de prueba con respecto a la carga negativa, mayor capacidad tiene el campo eléctrico de realizar trabajo. Por tanto, mayor será la capacidad de la carga para desarrollar energía cinética.
+
+Ahora, si consideramos que el campo es generado por una carga positiva, la carga de prueba desarrollará menor energía cinética entre más cerca se encuentre de la carga, es decir que, a menor distancia con respecto a la carga, mayor energía potencial tiene. Así mismo, el campo eléctrico puede realizar más trabajo sobre la carga de prueba a medida que esta se encuentre cerca de la carga que genera el campo. En este caso, la energía potencial es cero si la carga de prueba se encuentra muy lejos, en el infinito.
+
+## Potencial eléctrico
+
+Cuando se trabaja con partículas cargadas en campos eléctricos, es más conveniente considerar la energía potencial por unidad de carga, a este concepto se le llama potencial eléctrico V (V mayúscula).
+
+Definición:
+
+El potencial en un punto del campo eléctrico es la energía potencial de la unidad de carga positiva en ese punto.
+
+El potencial eléctrico se expresa como:
+
+```latex
+V=\frac{E_{p}}{q}
+```
+
+La ecuación se lee, V = E p / q.
+
+La unidad del potencial eléctrico en el S.I. es el voltio (V), que equivale a un julio sobre culombio (J/C). Un voltio representa el potencial que existe en un punto en el que, al colocar una carga de un culombio, adquiere una energía potencial de un julio.
+
+El potencial eléctrico es una magnitud escalar, cuyo valor depende de la posición del punto considerado. Por lo tanto, si consideramos dos puntos A y B en un campo eléctrico, sus respectivos potenciales serán:
+
+```latex
+V_{A}=\frac{E_{p_{A}}}{q}
+```
+
+La ecuación se lee, V A = E p A / q.
+
+Y
+
+```latex
+V_{B}=\frac{E_{p_{B}}}{q}
+```
+
+La ecuación se lee, V B = E p B / q.
+
+La diferencia de potencial entre los puntos A y B cuyo potencial en cada punto es V A y V B respectivamente, se expresa como:
+
+```latex
+\Delta V=V_{B}-V_{A}
+```
+
+La ecuación se lee, delta V = VB menos V A.
+
+Si una carga positiva se mueve en la dirección del campo eléctrico, quiere decir que la carga pierde energía potencial y siempre se desplaza de un punto de mayor potencial a uno de menor potencial, por lo tanto, se dice que hay una caída o diferencia de potencial. Si una carga se desplaza en dirección opuesta a la del campo eléctrico, significa que la carga se desplaza de un punto de menor potencial a un punto de mayor potencial.
+
+Cuando una misma carga q se desplaza de un potencial a otro, la diferencia de potencial también se puede expresar en términos de la diferencia de la energía potencial delta Ep, como:
+
+```latex
+\Delta V=\frac{\Delta E_{p}}{q}
+```
+
+La ecuación se lee, delta V = delta Ep / q.
+
+Si en un campo eléctrico se unen todos los puntos que se encuentran al mismo potencial, se obtienen superficies equipotenciales. En el campo generado por una sola carga las superficies son esféricas con centro en la carga. En general, las superficies equipotenciales son superficies normales a las líneas de fuerzas.
+
+#### Ejemplo
+
+Dos cuerpos A y B de dimensiones muy pequeñas tienen cargas eléctricas de 3,0×10 −9 C y 6,0×10 −9 C respectivamente.
+
+Si A y B se encuentran fijos como se muestra en la Imagen 6, determinar el potencial eléctrico creado en el punto p y en q por las cargas.
+
+*Imagen 6. Potencial eléctrico en diferentes puntos*
+
+Descripción de la Imagen 6. Potencial eléctrico en diferentes puntos. Una carga negativa A está a una distancia de 1 cm de un punto p, y a 12 cm de un punto q. una carga positiva B está a una distancia de 9 cm del punto p en la misma línea que A, y a 6 cm de un punto q formando un triángulo.
+
+#### Solución
+
+El potencial generado en un punto por la acción simultánea de varias cargas es:
+
+- Para el punto p es:
+
+```latex
+V_{p}=V_{p,A}+V_{p,B}=K\frac{Q_{A}}{r_{A,p}}+K\frac{Q_{B}}{r_{B,p}}
+```
+
+La ecuación se lee, Vp = V p,A + V p,B = K ∙ Q A / r A,p + K ∙ Q B / r B,p.
+
+```latex
+V_{p}=9 \times{10}^{9} N\cdot\frac{m^{2}}{C^{2}}\cdot\frac{\left( 3,0 \times{10}^{-9} C \right)}{1,0\times{10}^{-2} m}+9 \times{10}^{9} N\cdot\frac{m^{2}}{c^{2}}\cdot\frac{\left( 6,0 \times{10}^{-9} C \right)}{9,0\times{10}^{-2} m}=3300 V
+```
+
+La ecuación se lee, Vp = (9×10 a la 9 N∙m2/C2)∙(3,0×10 a la −9 C)/( 1,0×10 a la −2 m) + (9×10 a la 9 N∙m2/C2)∙(6,0×10 a la −9 C)/( 9,0×10 a la −2 m) = 3300 V.
+
+- Para el punto q es:
+
+```latex
+V_{q}=V_{q,A}+V_{q,B}=K\frac{Q_{A}}{r_{A,q}}+K\frac{Q_{B}}{r_{B,q}}
+```
+
+La ecuación se lee, Vq = V q,A + V q,B = K ∙ Q A / r A,q + K ∙ Q B / r B,q.
+
+```latex
+V_{q}=9 \times{10}^{9} N\cdot\frac{m^{2}}{c^{2}}\cdot\frac{\left( 3,0 \times{10}^{-9} C \right)}{12\times{10}^{-2} m}+9 \times{10}^{9} N\cdot\frac{m^{2}}{c^{2}}\cdot\frac{\left( 6,0 \times{10}^{-9} C \right)}{6,0\times{10}^{-2} m}=1125 V
+```
+
+La ecuación se lee, Vq = (9×10 a la 9 N∙m2/C2)∙(3,0×10 a la −9 C)/( 12×10 a la −2 m) + (9×10 a la 9 N∙m2/C2)∙(6,0×10 a la −9 C)/( 6,0×10 a la −2 m) = 1125 V.
+
+El potencial eléctrico generado en el punto p es 3.300 V y en el punto q es 1.125 V.
+
+## Campo eléctrico uniforme
+
+Considera dos placas planas paralelas, separadas entre sí una distancia d, las cuales se encuentran electrizadas uniformemente con cargas de la misma norma pero de signos contrarios. Si se pone una carga de prueba en un punto situado entre las placas, dicha carga quedará sujeta a la atracción de la fuerza F, debido al campo eléctrico originado por las placas en el espacio que existe entre ellas. De tal manera que la carga se desplazará perpendicularmente a la superficie de las placas alejándose de la placa positiva y acercándose a la placa negativa. Por tanto, concluimos que, el campo eléctrico existente entre estas placas, tiene el mismo valor, la misma dirección y el mismo sentido, en toda la región comprendida entre las placas.
+
+Definición:
+
+Un campo eléctrico es uniforme si en cualquier punto del campo su dirección e intensidad es la misma.
+
+El campo eléctrico entre dos placas es uniforme excepto en los extremos de las placas, debido a que en dichos extremos las líneas de fuerza se curvan.
+
+La diferencia de potencial entre las placas se relaciona con la variación de la energía potencial eléctrica y con la carga mediante la expresión:
+
+```latex
+\Delta V=\frac{\Delta E_{p}}{q}
+```
+
+La ecuación se lee, delta V = delta Ep / q.
+
+Como la variación de la energía potencial eléctrica es igual al trabajo realizado para llevar la carga q desde la placa negativa hasta la placa positiva, es decir:
+
+```latex
+W=F_{e}\cdot d
+```
+
+La ecuación se lee, W = F e ∙ d.
+
+En donde la fuerza (F e) es igual a:
+
+```latex
+F_{e}=q\cdot E
+```
+
+La ecuación se lee, F e = q ∙ E.
+
+Por tanto,
+
+```latex
+\Delta V=\frac{W}{q}
+```
+
+La ecuación se lee, delta V = W/q.
+
+```latex
+\Delta V=\frac{F_{e}\cdot d}{q}
+```
+
+La ecuación se lee, delta V = (F e ∙ d)/q.
+
+```latex
+\Delta V=\frac{q\cdot E\cdot d}{q}
+```
+
+La ecuación se lee, delta V = (q ∙ E ∙ d)/q.
+
+```latex
+\Delta V=E\cdot d
+```
+
+La ecuación se lee, delta V = E ∙d.
+
+De donde,
+
+```latex
+E=\frac{\Delta V}{d}
+```
+
+La ecuación se lee, E = delta V / d.
+
+Como la diferencia de potencial se mide en voltios y la distancia en metros, la unidad para la intensidad del campo eléctrico es voltio sobre metro (V/m).
+
+#### Ejemplo
+
+El campo eléctrico generado por dos placas paralelas es E=2,0*10^4 N/C, y la distancia entre ellas es d= 5,0 mm. Si un electrón se deja libre y en reposo, cerca de la placa negativa, determinar:
+
+a. La norma, la dirección y el sentido de la fuerza eléctrica que actúa sobre el electrón, si su valor es qe = 1,6*10^-19 C.
+
+b. La diferencia de potencial entre las placas.
+
+#### Solución
+
+a. Como el electrón tiene carga negativa, la fuerza que actúa sobre él tiene la misma dirección, pero sentido contrario al del campo eléctrico, es decir, la fuerza está dirigida de la placa negativa hacia la positiva.
+
+El valor de la fuerza del electrón es:
+
+```latex
+F_{e}=q\cdot E
+```
+
+La ecuación se lee, F e = q ∙ E.
+
+```latex
+F_{e}=\left( 1,6\times{10}^{-19}C \right)\left( 2,0\times{10}^{4 }\frac{N}{C} \right)= 3,2\times{10}^{-15}N
+```
+
+La ecuación se lee, F e = (1,6×10 −19 C)∙( 2,0×10 4 N/C) = 3,2×10 −15 N.
+
+La fuerza eléctrica que actúa sobre el electrón es 3,2×10 −15 N.
+
+b. La diferencia de potencial entre las placas es:
+
+```latex
+\Delta V=E\cdot d
+```
+
+La ecuación se lee, delta V = E ∙ d.
+
+```latex
+\Delta V=(2,0\times{10}^{4}N/C)\cdot(5\times{10}^{-3}m)
+```
+
+La ecuación se lee, delta V = (2,0×10 4 N/C) ∙ (5×10 −3 m).
+
+La calcular se obtiene:
+
+```latex
+\Delta V=1,0\times{10}^{2}V
+```
+
+La ecuación se lee, delta V = 1,0×10 2 V.
+
+La diferencia de potencial entre las placas es 100 V.
+
+## Algunas aplicaciones electrostáticas
+
+### Blindaje electrostático
+
+Cuando un conductor electrizado se encuentra en equilibrio electrostático, el campo eléctrico es nulo en todos los puntos internos. Si dicho conductor presenta una cavidad interna, las cargas eléctricas se reorganizan rápidamente en la superficie externa del conductor, con el fin de anular el campo eléctrico en todos los puntos internos. De esta manera, en la cavidad del conductor los efectos electrostáticos no se encuentran presentes, debido a la nulidad del campo eléctrico y a la distribución de las cargas eléctricas en la superficie externa del conductor.
+
+Los conductores huecos se emplean para proteger artefactos de los efectos eléctricos; para ello, se encierran dentro de una cubierta metálica, de modo que se produce un blindaje electrostático. Experimentalmente, este fenómeno se puede comprobar por medio de la jaula de Faraday.
+
+### El generador de Van der Graff
+
+El generador es una máquina electrostática creada por el físico norteamericano Robert Van der Graff en 1930. Este aparato consiste en una banda de caucho que pasa por dos poleas, una de las cuales se encuentra impulsada por un motor que le imprime rotación. La otra polea se encuentra ubicada en el interior de una esfera metálica grande y hueca, sostenida por un soporte aislante y cilíndrico. Al moverse, la banda de caucho es electrizada por un conjunto de agujas metálicas parecidas a las de un cepillo, las cuales mantienen un potencial negativo con relación a la tierra. La descarga a través de las puntas suministra continuamente electrones sobre la banda, los cuales se depositan en la esfera. Como la esfera es un conductor hueco, las cargas se distribuyen sobre la superficie exterior de la misma, y se van acumulando hasta alcanzar el valor de la rigidez dieléctrica del aire. El generador de Van der Graff es empleado para acelerar partículas subatómicas en los laboratorios de investigación.
+
+### El experimento de Millikan
+
+Robert Millikan, en uno de los experimentos más importantes de la física, calculó la carga del electrón al analizar su movimiento dentro de un campo eléctrico constante. Millikan observó, a través de un microscopio, el comportamiento de finas gotas de aceite, introducidas por medio de un atomizador entre un par de placas paralelas. Al salir del atomizador, las gotas se cargaban eléctricamente con la boquilla y alcanzaban una velocidad, cuya medida permitía determinar la masa de cada una de las gotas. Cuando cargó las placas encontró que algunas gotas quedaban suspendidas, lo cual mostraba que estas estaban cargadas negativamente. Con base en estas mediciones, determinó que la carga de cada gota era múltiplo entero del número 1,6×10 −19 C, valor correspondiente a la carga de un electrón.
+
+## Capacitancia de un conductor: condensadores
+
+Cuando a un conductor se le proporciona una carga, este adquiere un potencial que es constante en toda su superficie. Al cambiar el valor de su carga, el valor del potencial también varía, lo cual se expresa como:
+
+q = C ∙ V
+
+Donde C (C mayúscula) es la constante de proporcionalidad del conductor denominada capacitancia eléctrica del conductor, siendo sus unidades en el S.I. el culombio sobre voltio (C/V). Esta unidad se denomina faradio F (F mayúscula) y es usual expresar la capacitancia eléctrica en microfaradios μF (mu F mayúscula).
+
+Se puede afirmar que, la capacidad eléctrica de un conductor corresponde a la cantidad de carga que puede almacenar por cada voltio de diferencia de potencial al que se someta.
+
+En 1746, el científico holandés Petrus Van Musschenbroeck logró almacenar carga eléctrica en una botella. Para ello, llenó una vasija con trocitos de cobre, la tapó con un corcho perforado por una aguja que la ponía en contacto con dichos trozos, y tocó una y otra vez la aguja con un vidrio que la electrizaba tras cada toque.
+
+Así logró construir el primer condensador de carga eléctrica al que llamó botella de Leyden. Un condensador es un sistema de dos conductores muy próximos que pueden adquirir cargas iguales y de signo contrario.
+
+Todo condensador tiene dos terminales, los cuales, al ser conectados a una diferencia de potencial, se hallan con capacidad para almacenar carga eléctrica.
+
+Así que el cociente entre la carga q, que es almacenada por el condensador, y la diferencia de potencial V es constante, se expresa como:
+
+C=q/V
+
+En las telecomunicaciones, los condensadores son usados para la generación y captación de ondas de radio.
+
+## Desarrolla tus competencias
+
+Marca la respuesta correcta en las preguntas 1 a 4.
+
+1. La propiedad que poseen algunos cuerpos de atraer a otros cuerpos después de ser frotados se denomina:
+
+a. Inducción eléctrica.
+
+b. Carga eléctrica.
+
+c. Fuerza eléctrica.
+
+d. Magnetismo.
+
+2. Un electroscopio es un dispositivo para:
+
+a. Transferir constantemente corriente.
+
+b. Distribuir electricidad sobre cualquier objeto.
+
+c. Evidenciar la presencia de cargas eléctricas.
+
+d. Generar carga eléctrica.
+
+3. En la ley de Coulomb se cumple que:
+
+a. La fuerza eléctrica es inversamente proporcional a las cargas eléctricas.
+
+b. La fuerza eléctrica es directamente proporcional a la distancia entre las cargas.
+
+c. Cuanto más grandes sean los objetos cargados, mayor es la fuerza eléctrica que se ejerce sobre ellos.
+
+d. La fuerza eléctrica es inversamente proporcional al cuadrado de la distancia entre las cargas.
+
+4. La constante dieléctrica kd:
+
+a. Caracteriza si la fuerza es de atracción o repulsión.
+
+b. Determina la energía por unidad de carga que tiene el sistema.
+
+c. Caracteriza el medio material donde se encuentra el campo.
+
+d. Representa el espacio donde hay presencia de cargas eléctricas.
+
+5. Responde. ¿Qué tipo de carga eléctrica posee un cuerpo que tiene más electrones que protones? ¿Por qué?
+
+6. Si al frotar con lana un globo inflado, el globo gana dos millones de electrones, ¿de qué signo es la carga adquirida por la lana y por el globo?
+
+7. Responde. ¿Por qué se plantea que la fuerza electrostática que existe entre dos cargas es directamente proporcional al producto de las cargas que interactúan?
+
+8. Responde. ¿Habrá alguna disposición de cargas que logren crear superficies equipotenciales que se crucen? Propón una solución a la situación planteada.
+
+9. Cuando una persona toca a otra persona que estaba cargada de electricidad estática, es posible que esta se descargue hacia el suelo a través de la persona, produciéndole una molesta sensación de contacto eléctrico. Esto no causa gran daño a las personas en pequeñas cantidades.
+
+  a. ¿Por qué es importante evitar la concentración de electricidad estática?
+
+  b. ¿En qué tipos de ambientes la electricidad estática constituye un grave peligro?
+
+  c. ¿Qué recomendaciones darías para prevenir daños por transferencia de cargas estáticas?
+
+## Actividades
+
+1. Escribe V, si la afirmación es verdadera o F, si es falsa. Justifica tu respuesta.
+
+a. La electrización consiste en hacer que un objeto pueda atraer a otros después de ser frotados.
+
+b. Un cuerpo está cargado positivamente cuando tiene un exceso de electrones.
+
+c. Cuando se encuentran dos cargas de diferente signo, una cerca a la otra, se dice que hay una interacción de atracción.
+
+d. En un sistema aislado, la carga eléctrica no se crea ni se destruye, solo se transfiere de un cuerpo a otro.
+
+e. Un material aislante es aquel que permite el paso de electrones sobre él.
+
+f. Las fuerzas eléctricas aparecen sobre cada una de las cargas que interactúan y son de igual magnitud e igual línea de acción, pero en sentidos opuestos.
+
+g. La constante electrostática K no varía en ningún medio donde hay presencia de cargas eléctricas.
+
+2. Escribe una lista indicando algunos fenómenos relacionados con las cargas eléctricas.
+
+3. Clasifica los materiales como conductores o aislantes.
+
+  a. Agua.
+
+  b. Aire.
+
+  c. Plástico.
+
+  d. Aluminio.
+
+  e. Cobre
+
+  f. Plata.
+
+  g. Vidrio.
+
+  h. Cartón.
+
+  i. Mármol.
+
+  j. Oro
+
+Selecciona la opción correcta en los ejercicios 4 a 7.
+
+4. Un cuerpo se carga positivamente:
+
+a. Al agregarle protones.
+
+b. Al quitarle protones.
+
+c. Al agregarle electrones.
+
+d. Al quitarle electrones.
+
+5. Responde. ¿Cuál de las partículas que componen el átomo tiene menor masa?
+
+  a. El electrón.
+
+  b. El neutrón.
+
+  c. El protón.
+
+  d. El núcleo.
+
+6. El científico que inventó la balanza de torsión es:
+
+  a. Michael Faraday.
+
+  b. Charles Coulomb.
+
+  c. Charles du Fay.
+
+  d. William Gilbert.
+
+7. Una carga eléctrica positiva se obtiene al frotar:
+
+  a. Vidrio y vidrio.
+
+  b. Vidrio y seda.
+
+  c. Vidrio y metal.
+
+  d. Seda y metal.
+
+8. Escribe V, si la afirmación es verdadera o F, si es falsa. Justifica tu respuesta.
+
+a. La dirección del campo eléctrico coincide con la fuerza que actúa sobre la carga de prueba.
+
+b. La unidad de intensidad del campo eléctrico es V/C.
+
+c. Por un punto del espacio el vector campo eléctrico es tangente a la línea de fuerza que pasa por ahí.
+
+d. Cuando es menor la carga eléctrica, mayor es la energía potencial asociada a esa carga.
+
+e. Una superficie equipotencial contiene un conjunto de puntos al mismo potencial.
+
+f. El campo eléctrico en el interior de un conductor es igual al que hay en la superficie.
+
+g. El campo eléctrico en el interior de un conductor es igual a cero.
+
+9. El trabajo requerido para mover una carga de un lugar a otro dividido entre el valor de la carga se llama:
+
+  a. Campo eléctrico.
+
+  b. Fuerza eléctrica.
+
+  c. Potencial eléctrico.
+
+  d. Carga eléctrica.
+
+10. En algunas recomendaciones del uso adecuado de los electrodomésticos se indica que no se deben colocar juntos varios aparatos eléctricos porque pueden generar un mal funcionamiento en un futuro. Esto se debe a que se generan campos eléctricos que pueden afectar estos artículos.
+
+11. Explica cómo puedes verificar si alrededor de un televisor hay un campo eléctrico.
+
+12. Si una carga puntual produce, a una cierta distancia r, un potencial eléctrico de 10 V y un campo eléctrico de módulo E, ¿cuánto vale el potencial eléctrico en otro punto donde el campo eléctrico es E/4?
+
+13. En una región del espacio el campo eléctrico es nulo. ¿Debe ser nulo también el potencial eléctrico en dicha región? Explica tu respuesta.
+
+## Problemas
+
+1. Dos esferas se atraen con una fuerza determinada.
+
+a. ¿Cómo se ve afectado el valor de la fuerza si triplicamos el valor de la carga de cada esfera?
+
+b. ¿Qué sucede si se reduce a la tercera parte?
+
+2. Calcula la carga supuesta que deberían tener la Tierra y la Luna para que la fuerza de repulsión eléctrica entre ellas igualara la fuerza gravitatoria.
+
+Datos: MT = 6×10 24 kg; ML = 7,4 × 10 22 kg; d T,L = 384.400 km.
+
+3. Calcula las fuerzas que ejercen una carga de 5 μC (mu C) sobre otras dos cargas de 2 C y 1 C situadas a 3 m.
+
+4. Un cuerpo de masa 0,5 kg y de carga 0,5 C se encuentran a 2 m de otro cuerpo de masa 1,5 kg y carga 1,5 C. Determina si se atraen o se repelen y calcula la fuerza electrostática.
+
+5. Una barra de vidrio A inicialmente neutra es frotada con seda y pierde 10 × 10 12 electrones; otra barra de vidrio idéntica B, también es frotada y pierde 30 × 10 12 electrones. Si ambas barras se ponen en contacto y después de la transferencia de electrones quedan cargadas con igual cantidad de carga, ¿cuál es el déficit de electrones después del contacto en cada barra?
+
+6. Un electroscopio está cargado negativamente con un exceso de 20×10 12 electrones; otro electroscopio idéntico ha sido cargado positivamente y tiene un déficit de 12 ×10 12 electrones. Si los electroscopios se ponen en contacto, ¿cuántos electrones se transfieren?
+
+7. Responde. ¿Cuál de las siguientes cargas electrostáticas no concuerdan con la realidad? Considera q1 = 2,4 × 10 −19 C y q2 = 11,2 × 10 −19 C.
+
+8. Dos cargas de 40 mC se repelen con fuerzas de 360 N. Calcula la distancia que las separa.
+
+9. Se tienen dos cargas de 2 C y 8 C separadas por una distancia de 10 cm. Calcula la fuerza en N que existe entre ellas.
+
+10. Responde. ¿Cuál de las siguientes situaciones da como resultado una mayor fuerza? ¿Por qué?
+
+  a. La fuerza de repulsión que ejerce una carga de 100 C sobre una de 1 C.
+
+  b. La fuerza de repulsión que ejerce una carga de 1 C sobre una carga de 100 C.
+
+11. Calcula la fuerza que experimenta una carga de −5 μC (mu C) en un campo eléctrico de 200 N/C.
+
+12. Dos cargas q1 = 6 × 10 −6 C y q2 = 28 × 10 −6 C están separadas 6 m. Halla la intensidad del campo eléctrico.
+
+13. Determina el campo eléctrico generado por una carga de 1 × 10 −6 C a 80 cm de ella.
+
+14. Calcula el módulo, la dirección y el sentido del campo eléctrico en los puntos P1 y P2 generado por la partícula de carga q = 9 × 10 −6 C.
+
+15. En los vértices de un cuadrado cuya diagonal es 2d, se colocan cuatro cargas positivas q. ¿Cuál es la intensidad del campo eléctrico en N/C en el centro del cuadrado?
+
+16. El potencial eléctrico a cierta distancia de una carga puntual es de 1.600 V y el valor de la intensidad del campo eléctrico es 800 N/C. ¿Cuál es la distancia a la carga puntual?
+
+17. Determina el potencial eléctrico si se tienen dos cargas iguales de 2 × 10 −6 C y si la fuerza electrostática entre ellas es de 0,4 N.
+
+18. Calcula la diferencia de potencial (V1 − V2) entre los puntos 1 y 2 del campo eléctrico homogéneo de intensidad E = 9 N/C.
+
+19. Dos esferas conductoras aisladas de 12 y 20 cm de radio, se encuentran en una zona del espacio vacío y con sus centros separados 10 m, y están cargadas cada una con una carga de 25 × 10 −9 C. Las cargas se ponen en contacto mediante un hilo conductor y alcanza una situación de equilibrio. Calcula el potencial al que se encuentra cada una de las esferas antes de ponerlas en contacto.
+
+20. Investiga acerca del El desfibrilador cardioversor implantable (D.C.I.) como una aplicación a lo visto en todo el capítulo de electrostática.
+
+# Capítulo 2: cargas eléctricas en movimiento
+
+¿Te has imaginado alguna vez cómo sería la vida si no existiera la electricidad? Lo más seguro es que en la mañana no tendrías agua caliente al ducharte, te desplazarías al colegio caminando, en bicicleta o en vehículos de tracción animal. No existiría la luz, la televisión, los computadores y ni idea de los videojuegos ni de los sistemas portátiles de audio. Es decir, que nuestro diario vivir retrocedería en más de 200 años. La energía eléctrica es una pieza clave en este mundo actual, cuyo desarrollo depende de la tecnología, y esta no sería posible sin la electricidad que forma parte activa de nuestra vida y de nuestra historia. Por tal razón, en esta unidad estudiaremos las características de las cargas en movimiento y el comportamiento de estas en los circuitos eléctricos.
+
+## La corriente eléctrica
+
+Durante muchos siglos, el hombre utilizó el fuego con el propósito de lograr iluminación durante las noches. Comparados con ellos, en la actualidad, vivimos en un nuevo mundo prácticamente mágico, en donde con sólo oprimir un botón cambia por completo nuestro modo de vida y la manera de percibir los objetos que se encuentran a nuestro alrededor.
+
+Diversos experimentos han demostrado que la electricidad puede transferirse de un cuerpo a otro. El más famoso de estos experimentos fue el realizado por el holandés Musschenbroek, en la ciudad de Leyden, y que se conoce con el nombre de “botella de Leyden”. Musschenbroek introdujo en el interior de una botella metálica, una aguja cuyo extremo superior terminaba en una esfera, y comenzó a electrizarla por frotamiento. Tras este proceso, tocó con su mano la esfera y sintió una enorme descarga.
+
+Por otra parte, en la Antigüedad se pensaba que la electricidad era el resultado de dos fluidos distintos, uno positivo y otro negativo. Sin embargo, Benjamín Franklin propuso la teoría de la electricidad basada en un solo fluido, tenue y sin peso; el cual al presentarse en un cuerpo con cierto exceso generaba una electricidad positiva y al existir un déficit de este generaba una electricidad negativa. Por tal razón, se creía que lo que se movía eran las cargas positivas, aunque en la actualidad se conoce que son las cargas negativas, los electrones, las que se desplazan a través de un conductor dando lugar a determinado flujo, denominado corriente eléctrica.
+
+Definición
+
+La corriente eléctrica es el movimiento continuo y ordenado de cargas eléctricas de un lugar a otro.
+
+Pero ¿cómo es que llega la electricidad a nuestros aparatos eléctricos? En el interior de un conductor eléctrico, por ejemplo un cable, se encuentran millones de átomos con electrones libres vibrando. Si este cable se encuentra conectado a las terminales de una fuente, como una pila, sus electrones libres reciben la energía almacenada de la pila y empiezan a moverse de una manera ordenada a través del conductor. El sentido correspondiente al flujo de los electrones obedece a la ley de los signos, ya que son repelidos por el terminal negativo de la pila y atraídos por el terminal positivo.
+
+De esta manera, la corriente eléctrica que circula por los cables no es más que un movimiento de cargas eléctricas (en este caso los electrones del metal que forma el interior del cable) desde el enchufe hasta el aparato eléctrico.
+
+En los conductores sólidos, como los metales, son los electrones externos al átomo los que se mueven con libertad, pero en los conductores líquidos iónicos o gases iónicos (agua salada, ion de oxígeno), se pueden mover tanto iones positivos como iones negativos. Los materiales que no son conductores, no permiten el flujo de la corriente eléctrica y se denominan aislantes o dieléctricos.
+
+## Efectos que produce la corriente eléctrica
+
+La corriente eléctrica produce efectos en los materiales por los cuales circula la carga y en el entorno del cuerpo por el cual fluye. Entre los efectos más relevantes que produce la corriente eléctrica se encuentran:
+
+- Generación de calor, por ejemplo, una plancha eléctrica.
+
+- Efectos químicos, por ejemplo, la electrólisis.
+
+- Magnetismo, por ejemplo, los electroimanes.
+
+Desde un punto de vista energético, se pueden interpretar los efectos que la corriente eléctrica produce, ya que el movimiento de cargas implica transporte de energía hacia algún lugar en el cual ocurrirá la transformación de la energía hacia otras formas de energía, como la mecánica, la cinética, la calórica, etc.
+
+## Intensidad de corriente eléctrica
+
+Para determinar la intensidad de la corriente imagina que te encuentras observando una competencia atlética, por ejemplo una maratón, sería posible calcular la intensidad de la corriente atlética si contamos el número de atletas que pasan por la línea visual durante un intervalo de tiempo. Si comparamos esta competencia con un conductor, en donde los atletas son los electrones libres, entonces podríamos definir la intensidad de corriente eléctrica.
+
+Definición
+
+La intensidad de la corriente eléctrica (i) es la cantidad de carga neta (q) que circula por una sección transversal de un conductor en un intervalo de tiempo (t).
+
+La intensidad de corriente eléctrica se puede escribir como:
+
+i=q/t
+
+La unidad de la intensidad de corriente es el ampere o amperio, que se simboliza con la letra A (A mayúscula). Un amperio corresponde al paso de la carga de un culombio a través de la sección transversal de un conductor durante un segundo. Para muchos casos el amperio resulta ser una unidad muy grande, por lo cual es habitual usar el microamperio μA (mu A mayúscula).
+
+#### Ejemplo
+
+Calcular la cantidad de electrones que atraviesan la sección transversal de un conductor en un minuto, si la intensidad de corriente es de 4 A.
+
+#### Solución
+
+Para calcular la cantidad de electrones es necesario determinar la carga que circula por la sección transversal. Por tanto, tenemos que:
+
+i=q/t
+
+Despejando q:
+
+q=i∙t
+
+q=4 A∙60 s
+
+q=240 C
+
+Como la carga de un electrón es 1,6×10 −19 C, tenemos que la cantidad de electrones existentes en una carga de 240 C es igual a 1,5×10 21 C.
+
+### Fuentes de voltaje
+
+Para mantener constante una corriente eléctrica, es necesaria una “bomba eléctrica” que mantenga la diferencia de potencial, así como una bomba de agua mantiene la diferencia de nivel para que el agua fluya. Todo dispositivo que genera una diferencia de potencial se conoce como fuente de voltaje.
+
+Antiguamente, la corriente se producía por medio de las máquinas electrostáticas. Posteriormente, se generaba por almacenamiento, como en el caso de la botella de Leyden. Pero solo hasta el siglo XIX Alessandro Volta inventó la batería eléctrica, que permitía suministrar, por primera vez, corriente eléctrica sin interrupción. La pila voltaica estaba compuesta por pequeños discos de plata, cinc y cartón impregnado de una solución salina, intercalados en orden .
+
+### Sentido de la corriente
+
+Cuando las dos terminales de una pila se conectan directamente a un conductor, como un alambre, la corriente eléctrica supone el desplazamiento de los electrones desde los puntos de menor potencial hasta los de mayor potencial. En el caso de una pila, los llamados polos negativo (−) y positivo (+) representan puntos de menor y mayor potencial, respectivamente; por lo cual el sentido del movimiento de los electrones en el conductor se encuentra dado desde el polo negativo hacia el polo positivo.
+
+Durante muchos años, se planteó la idea de que las cargas eléctricas que se movían en los conductores eran las de tipo positivo (+) y, en consecuencia, el sentido de la corriente sería el correspondiente al de las cargas positivas. Este convenio se ha mantenido y por tanto el sentido convencional de la corriente eléctrica es desde los puntos de mayor potencial a los puntos de menor potencial.
+
+### Fuerza electromotriz
+
+Para poder establecer y mantener una corriente eléctrica en un conductor, es necesaria la intervención de un dispositivo denominado generador eléctrico.
+
+Este generador eléctrico no carga sino que separa continuamente cargas positivas y negativas ya existentes, que se acumulan en sus terminales. Esto produce una diferencia de potencial eléctrico entre ellos, que se conoce como voltaje, tensión o fuerza electromotriz (fem).
+
+Definición:
+
+La fuerza electromotriz ε (letra griega épsilon) de un generador es la energía E (E mayúscula) que suministra el dispositivo por cada unidad de carga eléctrica Q (Q mayúscula) que recorre el circuito.
+
+La fuerza electromotriz se expresa como:
+
+```latex
+\epsilon=\frac{E}{Q}
+```
+
+La ecuación se lee, épsilon = E/Q.
+
+La unidad de fuerza electromotriz en el S.I. es el julio sobre culombio (J/C), es decir, el voltio (V).
+
+De la ecuación podemos obtener la energía (E) que produce un generador eléctrico y puesto que esta energía coincide con el trabajo total (WT) realizado por el generador, tenemos que:
+
+```latex
+W_{T}=\epsilon\cdot Q
+```
+
+La ecuación se lee, WT = épsilon ∙ Q.
+
+### Generadores eléctricos
+
+La función de un generador es la de suministrar energía a los electrones libres de un conductor de tal modo que puedan recorrer la conexión eléctrica.
+
+Los generadores como las pilas y las baterías producen un voltaje debido a reacciones químicas que ocurren en el interior. Todas las pilas, baterías o acumuladores, tienen los mismos componentes básicos: dos electrodos, uno positivo y otro negativo y, un electrolito en el que se transfieren cargas iónicas entre los electrodos.
+
+Las pilas actuales de 1,5 V son pilas secas, en las cuales el electrodo positivo es una barra de carbono, el electrodo negativo es un cilindro de cinc y el electrolito una pasta de cloruro de cinc, cloruro de amoniaco y dióxido de manganeso.
+
+Las pilas, que encontramos en las calculadoras o relojes conocidas normalmente como baterías de mercurio de 1,4 V, están compuestas por un electrodo negativo de cinc, un electrodo positivo de óxido de mercurio y un electrolito de una disolución de hidróxido de potasio.
+
+En 1842 Gastón Planté construyó las baterías que hoy se usan en autos y aviones llamadas baterías secundarias, las cuales pueden recargarse al invertir la reacción química del electrolito. Su ventaja principal es que puede producir una corriente eléctrica suficiente para arrancar un motor, sin embargo, se agota rápidamente. El electrolito es una disolución diluida de ácido sulfúrico, el electrodo negativo es de plomo y el electrodo positivo de dióxido de plomo. Otro tipo de pilas, muy ecológicas, son las pilas solares que generan electricidad por una conversión fotoeléctrica.
+
+En ocasiones resulta muy útil realizar conexiones entre varios generadores iguales. Esta conexión puede realizarse de dos maneras y depende exclusivamente de la necesidad que se tenga:
+
+- Si se desea aumentar el voltaje del circuito, se hace una conexión de dos o más generadores del mismo voltaje. Esta conexión consiste en unir el polo positivo de un generador con el polo negativo del otro, realizando de esta manera una conexión denominada en serie, en donde el voltaje resultante es la suma del voltaje de cada generador.
+
+- Si se desea aumentar el tiempo de duración del voltaje en el circuito, se hace una conexión de generadores del mismo voltaje en paralelo, en donde se conectan los polos de igual signo de cada pila entre sí. Aunque en esta conexión se mantiene el voltaje, cada pila aporta una parte de su corriente.
+
+## Medida de la corriente y el voltaje
+
+Para medir la intensidad de corriente que circula por una conexión, se utiliza un instrumento denominado amperímetro. Este artefacto se conecta intercalado al inicio o al final de la conexión, de tal manera que la corriente pase a través de él. Todo instrumento que puede indicar la presencia de corriente en una conexión se denomina galvanómetro. De acuerdo con su calibración este instrumento puede medir intensidades de varios cientos de amperios, es decir, se pueden realizar mediciones en amperios, miliamperios o microamperios.
+
+La diferencia de potencial o voltaje se mide con un voltímetro. Para medir el voltaje al que se encuentra conectado una bombilla, se conecta cada terminal del voltímetro de la bombilla sin intercalar el instrumento en la conexión.
+
+Existen instrumentos de medida que permiten realizar medidas del voltaje o de la corriente de una conexión, estos aparatos denominados multímetros son muy habituales y se encuentran con mayor facilidad en el mercado que los amperímetros y voltímetros.
+
+## Resistencia eléctrica
+
+Las planchas, las bombillas y los fogones de las estufas eléctricas, así como algunos elementos de ciertos aparatos eléctricos suelen ser llamados resistencias, debido a que presentan una tendencia a evitar que una corriente eléctrica fluya a través de ellos. Esta característica se conoce con el nombre de resistencia eléctrica R (R mayúscula).
+
+Cuando un voltaje (V) se aplica a los extremos de un conductor eléctrico, fluye en el conductor una corriente eléctrica i. De esta manera la resistencia del conductor se expresa como:
+
+R=V/i
+
+Esta expresión permite demostrar que a medida que aumenta la resistencia generada por el conductor, disminuye la intensidad de corriente que pasa por él.
+
+En el S.I. la resistencia eléctrica se expresa en ohmios (V), en memoria del físico alemán George S. Ohm.
+
+El origen de la resistencia eléctrica se encuentra a nivel microscópico, en la estructura atómica del resistor. Por ejemplo, en los sólidos los átomos se encuentran distribuidos de tal manera que forman redes a una distancia que varía de un material a otro. Cuando se establece una corriente eléctrica a través del material, se producen miles de choques entre los átomos de la red y los electrones.
+
+## Resistividad de un material
+
+Desde un punto de vista macroscópico, es posible determinar que la resistencia de un conductor eléctrico depende de su forma. La resistencia de cualquier material, con un área transversal uniforme A (A mayúscula) depende de cuatro aspectos: longitud, área de la sección transversal, clase del material y temperatura.
+
+Consideremos dos situaciones con corrientes en materiales con sección transversal. La resistencia de un conductor eléctrico depende de su longitud y de su área transversal. a) Si el área de la superficie transversal del conductor es constante, la resistencia es directamente proporcional a su longitud. b) Si la longitud del conductor es constante, la resistencia es inversamente proporcional al área de su superficie transversal.
+
+Si consideramos diferentes conductores, como los que se describen en la situación a), es posible calcular que cuando se presenta una mayor longitud, existe una gran probabilidad de choques entre las cargas, por lo cual se ofrece una mayor oposición al paso de la corriente, aumentando así la resistencia del material. Experimentalmente se encuentra que la resistencia R y la longitud l son dos magnitudes directamente proporcionales.
+
+Si la superficie transversal presenta una mayor área (situación b), existe un mayor flujo eléctrico, así como ocurre con el flujo de agua en un tubo de gran diámetro en comparación con uno más angosto. Si este flujo es mayor, la resistencia que ofrece el conductor es menor, por lo cual, se presenta una relación inversamente proporcional:
+
+Sin embargo, también influye la resistividad eléctrica ρ (letra griega rho) propia de cada material. Por tanto, la resistencia eléctrica de un conductor queda definida por la expresión:
+
+```latex
+R=\rho\cdot\frac{l}{A}
+```
+
+La ecuación se lee, R = rho ∙ l/A.
+
+Así, para cada material, la medida de la resistencia de un conductor de largo 1 m y de área 1 m² se conoce como resistividad y se mide en ohmios por metro (Ω∙m, se lee, Omega mayúscula∙m).
+
+La resistividad de un material y, por tanto, la resistencia dependen de la temperatura, ya que al elevar la temperatura T (T mayúscula) de un conductor aumenta la rapidez del movimiento aleatorio de las cargas, por lo cual disminuye el orden de su arreglo lo cual influye en el flujo de electrones.
+
+Cuando el cambio de temperatura T es despreciable, la resistencia de los metales aumenta casi linealmente, es decir:
+
+```latex
+\rho_{T}=\rho_{0}(1+\alpha\cdot\Delta T)
+```
+
+La ecuación se lee, rho T = rho 0 ∙ (1 + alfa ∙ delta T).
+
+Donde ρ0 (rho 0) es la resistividad a determinada temperatura inicial, que por lo general es de 20 °C o 0 °C. Por otra parte, ρT (rho T) es la resistividad a una temperatura ∆T (delta T mayúscula) mayor o menor que la inicial y a es el coeficiente térmico de la resistividad.
+
+El coeficiente α (alfa) tiene unidades °C −1 (°C a la −1). En la tabla 2 se indican los coeficientes de temperatura y la resistividad de algunos materiales a 20 °C.
+
+*Tabla 2. Resistividad y coeficientes de temperatura*
+
+| Material | Resistividad (Ω∙m) | α (alfa) °C −1 |
+| --- | --- | --- |
+| Plata | 1,6 × 10 −8 | 6,8 × 10 −3 |
+| Cobre | 1,7 × 10 −8 | 6,8 × 10 −3 |
+| Aluminio | 2,6 × 10 −8 | 4,2 × 10 −3 |
+| Hierro | 9,7 × 10 −8 | 6,5 × 10 −3 |
+| Germanio | 4,2 × 10 −8 | 250 × 10 −3 |
+
+#### Ejemplo
+
+Considerar dos alambres, uno de plata y el otro de cobre cuyos diámetros son de 0,25 cm. Determinar:
+
+a. ¿Cuál debe ser la longitud del alambre de plata para igualar la resistencia de uno de cobre cuya longitud es de 10 m, a una temperatura de 20 °C?
+
+b. ¿En cuánto aumenta la resistencia del alambre de cobre, si se calienta hasta alcanzar una temperatura de 100 °C?
+
+#### Solución
+
+a. Antes de hallar la longitud del alambre de plata (Ag), hallemos la resistencia del alambre de cobre (Cu). Para ello usamos los datos de la tabla 2 y calculamos el área de la sección de alambre:
+
+```latex
+A=\pi\cdot r^{2}
+```
+
+La ecuación se lee, A = pi ∙ r al cuadrado.
+
+A=3,14∙(0,00125 m)2 = 4,91 ×10 -6 m 2
+
+Al reemplazar y calcular R (R mayúscula):
+
+```latex
+R=\rho\cdot\frac{l}{A}=1,7 \times{10}^{-8}\Omega\cdot m\cdot\frac{10 m}{4,91 \times{10}^{-6}m^{2}}={3,46\times10}^{-2}\Omega
+```
+
+La ecuación se lee = R = rho ∙ l/A = (1,7×10 −8 ohm∙m)∙(10 m)/(4,91 ×10 −6 m2) = 3,46 ×10 −2 Ω (ohm).
+
+Al remplazar en la ecuación de la resistencia, los valores para la plata tenemos que:
+
+```latex
+{3,46\times10}^{-2}\Omega={1,6\times10}^{-8}\Omega\cdot m\cdot\frac{l}{4,91 \times{10}^{-6}m^{2}}
+```
+
+La ecuación se lee, 3,46×10 −2 ohm = (1,6×10 −8 ohm∙m)∙ (l)/(4,91 ×10 −6 m2).
+
+Despejando el y calculando:
+
+l=10,6 m
+
+Por tanto, 10 m de alambre de cobre tiene la misma resistencia de 0,035Ω que 10,6 m de alambre de plata. Pese a esto sale más económico usar cobre y no plata.
+
+b. Para hallar el aumento de la resistencia del alambre de cobre al elevar la temperatura a 100 °C, tenemos:
+
+```latex
+\rho_{T}=\rho_{0}(1+\alpha\cdot\Delta T)
+```
+
+La ecuación se lee, rho T = rho 0 ∙ (1 + alfa ∙ delta T).
+
+```latex
+\rho_{100 ^{\circ}C}=\left( 1,7 \times{10}^{-8}\Omega\cdot m \right)( 1+6,8 \times{10}^{-3} {^{\circ}C}^{-1}\cdot80 ^{\circ}C)
+```
+
+La ecuación se lee, rho 100 °C = (1,7×10 −8 ohm∙m)∙(1+ 6,8×10 −3 °C a la −1 ∙ 80 °C).
+
+Calculando:
+
+```latex
+\rho_{100^{\circ}c}=2,62 \times{10}^{-8}\Omega\cdot m
+```
+
+La ecuación se lee, rho 100 °C = 2,62×10 −8 ohm∙m.
+
+Ahora se calcula R:
+
+```latex
+R_{100^{\circ}c}=2,62 \times{10}^{-8} \Omega\cdot m\cdot\frac{10 m}{4,91 \times{10}^{-6}m^{2}}=5,34 \times{10}^{-2 }\Omega
+```
+
+La ecuación se lee, , R 100 °C = (2,62×10 −8 ohm∙m)∙(10 m)/ (4,91 ×10 −6 m2) = 5,64×10 −2 ohm.
+
+La resistencia aumenta de 0,035 Ω (ohm) a 0,053 Ω (ohm), al aumentar la temperatura de 20 °C a 100 °C, aun así sigue siendo mejor conductor que cualquier otro metal. Compara la resistividad en la tabla 2.
+
+## La ley de Ohm
+
+El físico alemán Georg Simon Ohm encontró que para muchos conductores, especialmente los metales, la intensidad de corriente i que fluye a través de ellos es directamente proporcional a la diferencia de potencial o voltaje V, es decir:
+
+V/i = constante
+
+La constante de proporcionalidad se denomina resistencia eléctrica R, que corresponde a una medida de la oposición que presenta un elemento del circuito al flujo de la corriente.
+
+Esta relación le permitió concluir que en un conductor existe una proporcionalidad directa entre la diferencia de potencial y la intensidad de corriente que lo recorre. Dicha conclusión se conoce como ley de Ohm, la cual se expresa como:
+
+R=V/i
+
+O bien como,
+
+V=i∙R
+
+Si se hace una gráfica a partir de la relación entre el voltaje y la corriente, se encuentra que para cada par de valores, el cociente entre estas magnitudes es igual, por tanto la gráfica es una línea recta.
+
+## Asociación de resistencias
+
+En los circuitos eléctricos se utilizan conductores que se caracterizan por su resistencia. Estos conductores utilizados para unir el resto de los elementos de un circuito tienen una resistencia despreciable y solamente las llamadas resistencias eléctricas tienen un valor significativo de esta magnitud. En un circuito pueden usarse varias resistencias. En esta situación se define la resistencia equivalente (R eq) de un conjunto de resistencias, como el valor de una resistencia hipotética por la cual al aplicarle la misma diferencia de potencial que al conjunto, circula la misma intensidad de corriente eléctrica que en el conjunto.
+
+### Resistencias en serie
+
+Dos o más resistencias se encuentran asociadas en serie cuando están conectadas unas a continuación de otras, de tal forma que cada una de ellas hace parte del circuito.
+
+Un Circuito en serie, es el cual en el que las resistencias están conectadas una a continuación de la otra, debido a esto la intensidad de la corriente que fluye por cada una es la misma.
+
+En este caso, todas las cargas que circulan por la primera resistencia pasan por la segunda y las que circulan por la segunda resistencia pasan por la tercera y así sucesivamente. Por tanto, la intensidad de corriente que fluye por cada resistencia siempre es la misma, es decir:
+
+i = i1+i2+i3
+
+En una asociación en serie la diferencia de potencial en cada resistencia depende del valor de resistencia de cada una. Sin embargo, el voltaje proporcionado por la fuente será igual a la suma de la diferencia de potencial de cada resistencia, por tanto:
+
+V=V1+V2+V3
+
+Como cada voltaje corresponde a la ley de Ohm, entonces:
+
+V1=i∙R1
+
+V2=i∙R2
+
+V3=i∙R3
+
+En donde V1, V2 y V3 corresponden a las diferencias de potencial existentes en los tres extremos de cada una de las resistencias. Aplicando la ley de Ohm al conjunto de las tres resistencias tenemos que:
+
+V=i∙R eq
+
+Donde V es la diferencia de potencial entre los extremos del conjunto y R eq la resistencia equivalente. Entonces según la ley de Ohm:
+
+i∙R eq = i∙R1 + i∙R2 + i∙R3
+
+Así al simplificar, la resistencia equivalente cuando existe una asociación de resistencias en serie es:
+
+R eq = R1+R2+R3
+
+Definición:
+
+La resistencia equivalente a varias resistencias asociadas en serie es igual a la suma de todas las resistencias conectadas.
+
+#### Ejemplo
+
+Tres resistencias se encuentran asociadas en serie. Determinar:
+
+a. La resistencia equivalente.
+
+b. La intensidad de corriente que circula por cada una de ellas, si el voltaje de la fuente es de 12 V.
+
+#### Solución
+
+a. Para calcular la resistencia equivalente se tiene que:
+
+R eq = R1+R2+R3
+
+R eq = 2 Ω (ohm) +4 Ω (ohm) +6 Ω (ohm) = 12 Ω (ohm)
+
+La resistencia equivalente del circuito es 12 Ω.
+
+b. Como la intensidad de corriente es igual, la calculamos en el circuito equivalente:
+
+V=i∙R
+
+Reemplazando:
+
+12 V = i∙12 Ω (ohm)
+
+Despejando i:
+
+i = (12 V)/(12 Ω) = 1 A
+
+La corriente que pasa por cada resistencia es de 1 A.
+
+### Resistencias en paralelo
+
+En el caso de las resistencias asociadas en paralelo, estas se encuentran unidas de sus extremos, es decir, que cada una de ellas forma parte de una rama diferente que divide el circuito.
+
+Como las resistencias no se encuentran distribuidas de la misma manera, las cargas que llegan al punto A se reparten:
+
+- Por la rama en la cual se encuentra la resistencia R1.
+
+- Por la rama en la cual se encuentra la resistencia R2.
+
+- Por la rama en la cual se encuentra la resistencia R3.
+
+Por tanto, la intensidad de corriente “se divide” por cada una de las ramas. Como la carga eléctrica se conserva, el número de cargas que circulan por las tres ramas corresponden al número de carga que ingresó en el punto A y que posteriormente saldrá por el punto B, es decir:
+
+i=i1+i2+i3
+
+Las cargas eléctricas no se reparten por las diferentes ramas de forma aleatoria, estas se desplazan hacia la rama del circuito en la cual la resistencia es menor. De esta manera, la intensidad es menor por la rama del circuito en la que la resistencia es mayor. En una asociación en paralelo la diferencia de potencial en cada resistencia es la misma, ya que cada resistencia se encuentra conectada al mismo punto, que en este caso corresponde al punto A. Así que:
+
+V1 = V2 = V3 = V4
+
+Si aplicamos la ley de Ohm a cada una de las resistencias tenemos que:
+
+i1=V/R1
+
+i2=V/R2
+
+i3=V/R3
+
+Por lo cual, la corriente en el conjunto es:
+
+I=V/R eq
+
+Entonces,
+
+V/R eq =V/R1 +V/R2 +V/R3
+
+Por tanto al simplificar, la resistencia equivalente cuando se presenta una asociación de resistencias en paralelo es:
+
+1/R eq =1/R1 +1/R2 +1/R3
+
+Definición:
+
+El inverso de la resistencia equivalente de varias resistencias asociadas en paralelo es igual a la suma de los inversos de las resistencias que se asocien.
+
+Ejemplo
+
+Calcular la resistencia del circuito.
+
+Solución:
+
+Para hallar la resistencia equivalente tenemos que:
+
+1/R eq =1/R1 +1/R2 +1/R3
+
+Reemplazando:
+
+1/R eq =1/(2 Ω ohm) +1/(4 Ω ohm) +1/(6 Ω ohm)
+
+Calculando
+
+R eq = 1,1 Ω (ohm)
+
+La resistencia equivalente es 1,1 Ω ohm.
+
+Al conectar resistencias en paralelo, la resistencia equivalente disminuye y, por lo tanto, la corriente en el circuito aumenta. Por eso, debes ser cuidadoso al conectar muchos aparatos a una misma toma, puedes ocasionar un corto circuito que es una sobrecarga.
+
+## Corriente continua y corriente alterna
+
+Los generadores como las pilas y las baterías generan un voltaje debido a reacciones químicas que ocurren en su interior. Este voltaje se presenta de una manera continua, por lo cual fluye una corriente continua que siempre recorre el circuito en el mismo sentido.
+
+Sin embargo, la corriente para el funcionamiento de máquinas industriales y electrodomésticos no es continua sino que cambia a medida que transcurre el tiempo, por esto se llama corriente alterna. Para producir este tipo de corriente se requiere un generador eléctrico cuya diferencia de potencial se invierte alternadamente, es decir, produce un voltaje alterno.
+
+Algunos aparatos eléctricos, como las grabadoras funcionan bien sean con pilas, es decir, con corriente continua, o al conectarla en una toma de la casa, es decir, con corriente alterna. Este efecto se hace posible gracias a ciertos elementos que se encuentran en su interior, como transformadores y rectificadores, que regulan el voltaje y permiten que la corriente pase en un solo sentido.
+
+## El circuito eléctrico
+
+Para hacer funcionar un artefacto eléctrico es necesario lograr que los electrones libres recorran varias veces el interior de los conductores. Así cada vez que enciendes el televisor, el equipo de sonido o una linterna, haces fluir una corriente de electrones en un circuito eléctrico.
+
+Un circuito eléctrico es un conjunto de conductores unidos a uno o varios generadores de corriente eléctrica, que mantienen el flujo de electrones constante en el tiempo. Además de los generadores existen otros elementos que forman parte de un circuito: los interruptores, los conectores y los aparatos eléctricos.
+
+- Los interruptores son dispositivos que permiten interrumpir a voluntad el paso de la corriente por un circuito.
+
+- Los conectores son cables y demás conexiones que unen los distintos elementos que forman el circuito. En general, son fabricados a partir de los metales y, como tales, constituyen puntos de igual potencial cada uno.
+
+- Los aparatos eléctricos son los instrumentos o los dispositivos que funcionan cuando circula una corriente a través de ellos.
+
+Todos los elementos de los circuitos eléctricos suelen ser representados por medio de símbolos, que son reconocidos mundialmente y que permiten simplificar el proceso de diagramación de un circuito.
+
+Para que un circuito funcione es necesario crear un camino por el cual los electrones puedan circular. Cuando esto ocurre se dice que el circuito está cerrado. Si se desconecta el interruptor o alguno de los cables la corriente deja de fluir y se dice que el circuito está abierto
+
+Cuando las dos terminales de una pila se conectan directamente con un alambre, la corriente eléctrica circula por este pero no llega a la bombilla y por tanto, no enciende. Esta conexión se denomina corto circuito, y en ella el alambre se calienta tanto que puede producir un incendio.
+
+Cuando por error se provoca un corto circuito en casa, se observa un chispazo, se presenta un olor a cable quemado y, muy posiblemente, se bajan los tacos o se funden los fusibles.
+
+## Energía en los circuitos
+
+Un circuito eléctrico está formado por un generador, que es el elemento encargado de producir y mantener la corriente, y por los receptores (bombillas, motores y resistencias) que reciben la energía de la corriente eléctrica y la transforman en otros tipos de energía.
+
+Cuando se conecta una bombilla a un generador, la energía produce un movimiento vibratorio de los electrones del filamento de la bombilla. De esta energía, la mayor parte se transforman en calor y la otra en luz.
+
+Si una resistencia es sometida a una diferencia de potencial DV, la energía potencial de la carga q que fluye a través de la resistencia, disminuye y, por tanto se presenta una caída de potencial.
+
+La variación de la energía y la diferencia de potencial se relacionan mediante la expresión:
+
+```latex
+\Delta V=\frac{\Delta E_{p}}{q}
+```
+
+La ecuación se lee, delta V = delta Ep / q.
+
+Es decir,
+
+```latex
+\Delta E_{p}=\Delta V\cdot q
+```
+
+La ecuación se lee, delta Ep = delta V ∙ q.
+
+A partir de la definición de la intensidad de corriente, obtenemos que la cantidad de carga que circula por la resistencia en función del tiempo es: q=i∙t, por tanto:
+
+```latex
+\Delta E_{p}=\Delta V\cdot i\cdot t
+```
+
+La ecuación se lee, delta Ep = delta V ∙ i ∙ t.
+
+Esta energía es aportada por el generador y consumida por la bombilla de resistencia R. Como la ley de Ohm afirma que delta V = i ∙ R, entonces la energía es:
+
+```latex
+\Delta E_{p}=i^{2}\cdot R\cdot t
+```
+
+La ecuación se lee, delta Ep = i2 ∙ R ∙ t.
+
+Siendo el julio (J) su unidad de medida en el S.I.
+
+Potencia eléctrica
+
+La potencia eléctrica es la rapidez con la cual se realiza un trabajo. En el caso de la potencia eléctrica, corresponde al trabajo realizado por el campo eléctrico durante cierto tiempo t.
+
+Este trabajo que realiza el campo eléctrico sobre los electrones de una resistencia resulta ser la variación de la energía potencial, delta EP. Por tanto, la potencia eléctrica P (P mayúscula), se encuentra dada por la expresión:
+
+```latex
+P=\frac{\Delta E_{p}}{t}
+```
+
+La ecuación se lee, P = delta Ep / t.
+
+Como
+
+```latex
+\Delta E_{p}=\Delta V\cdot i\cdot t
+```
+
+La ecuación se lee, delta Ep = delta V ∙ i ∙ t.
+
+Entonces:
+
+```latex
+P=\frac{\Delta V\cdot i\cdot t}{t}
+```
+
+La ecuación se lee, P = (delta V ∙ i ∙ t) / t.
+
+Es decir, que la potencia eléctrica es:
+
+```latex
+P=\Delta V\cdot i
+```
+
+La ecuación se lee, P = delta V ∙ i.
+
+La unidad de potencia es el vatio (W), que se define como 1 J/s. Otra unidad muy conocida de la potencia es el kilovatio (kW) equivalente a 1.000 vatios.
+
+Cuando por una resistencia circula una corriente y el potencial en uno de sus extremos es cero y en el otro es V, la potencia que consume la resistencia está dada por la expresión:
+
+P = i2 ∙ R
+
+Pero, como la ley de Ohm afirma que
+
+i=V/R
+
+Entonces:
+
+P=V2/R
+
+#### Ejemplo
+
+En el ámbito industrial y doméstico la energía eléctrica se mide en kilovatios-hora (kWh), que es la energía que consume un aparato eléctrico de 1 kW de potencia durante una hora. Si los artefactos funcionan a un voltaje de 120 V y 1 kWh cuesta $35,18, calcular cuánto dinero cuesta la energía que consumen en un mes (30 días):
+
+- una nevera, de potencia 200 W, que permanece conectada.
+
+- una plancha, de potencia 800 W, que usan 18 horas durante el mes.
+
+- un televisor, de potencia 200 W, que se usa 8 horas durante el día.
+
+#### Solución
+
+Para calcular el dinero que cuesta la energía consumida por los electrodomésticos despejamos E de la ecuación de potencia eléctrica:
+
+E=p∙t
+
+Si En es la energía consumida por la nevera, Ep la energía consumida por la plancha y Et la energía consumida por el televisor, entonces:
+
+E n= 0,2 kW∙720 h = 144 kWh
+
+E p =0,8 kW∙18 h = 14,4 kWh
+
+E t= 0,2 kW ∙ 240 h = 48 kWh
+
+Por tanto la energía total es:
+
+E T = E n + E p +E t =144 kWh + 14,4 kWh + 48 kWh
+
+E T = 206,4 kWh
+
+Como 1 kWh cuesta $35,18, entonces:
+
+Precio de la energía=206,4 kWh ∙ $35,18
+
+Precio de la energía = $ 7.261,15
+
+El consumo de energía por el concepto de estos electrodomésticos es $7.216,15.
+
+## El efecto Joule
+
+Cuando por un conductor circula corriente eléctrica, parte de la energía se transforma en calor. Esto se debe a que los electrones en su movimiento chocan con las partículas del conductor, les transmiten parte de su energía y el conductor se calienta.
+
+Esta energía se encuentra dada por la expresión:
+
+```latex
+\Delta E_{p}=i^{2}\cdot R\cdot t
+```
+
+La ecuación se lee, delta Ep = i2 ∙ R ∙ t.
+
+Este fenómeno, que recibe el nombre de efecto Joule, es el fundamento de los fusibles, los cuales son dispositivos de seguridad utilizados para proteger un circuito de un exceso de corriente.
+
+Si la corriente del circuito excede un valor predeterminado, el calor generado en la lámina metálica, provista en el interior del fusible, se funde y así genera un circuito abierto.
+
+### La resistencia interna de las fuentes de voltaje
+
+En un circuito eléctrico la resistencia de los conectores es despreciable debido a que esta es ocasionada por los demás componentes. Hasta el momento no habíamos considerado la resistencia generada por la fuente de voltaje, sin embargo, realmente toda fuente tiene una resistencia interna debida a los choques entre los iones del electrolito.
+
+Cuando un circuito se cierra, el voltaje V entre los polos positivo y negativo de la fuente resulta ser menor que el de la fem, pero cuando el circuito se abre, el voltaje V se iguala al de la fem. La caída de potencial cuando circula corriente se debe a la resistencia interna de la fuente r y a la resistencia R. Si llamamos Vr a la caída de potencial debido a r, entonces:
+
+```latex
+\epsilon= Vr+ V
+```
+
+La ecuación se lee, épsilon = Vr + V.
+
+La fem es una característica de la fuente, mientras que la diferencia de potencial entre sus polos depende de su resistencia interna. Como por las dos resistencias pasa la misma intensidad de corriente i, al aplicar la ley de Ohm se obtiene que:
+
+```latex
+\epsilon= i\cdot r+ i\cdot R
+```
+
+La ecuación se lee, épsilon = i ∙ r + i ∙ R mayúscula.
+
+Es decir,
+
+```latex
+i=\frac{\epsilon}{r+R}
+```
+
+La ecuación se lee, I = épsilon / (r + R mayúscula)
+
+#### Ejemplo
+
+Calcular la lectura de cada aparato en un circuito, si la fem de la fuente es de 9 V, la resistencia interna de 0,5 V, R1=5 Ω, y en paralelo R2 =8 Ω, R3 =10 Ω. Se colocan amperímetros A1 después de V2. A2 y A3 para R2 y R3 respectivamente.
+
+#### Solución
+
+Para hallar la lectura de A1, primero hallamos la resistencia equivalente entre R2 y R3:
+
+1/R eq 2,3 = 1/R2 +1/R3 = 1/10+1/8=40/9 = 4,44 V
+
+Como R eq 2,3 está en serie con R1 y r, hallamos la R equivalente del circuito:
+
+R eq = R r + R1 + R eq 2,3
+
++ R eq 2,3 =4,44 Ω (ohm) + 5 Ω (ohm) + 0,5 Ω (ohm) = 9,9 Ω (ohm)
+
+Por tanto,
+
+V=i∙R
+
+I = V/R = 9V/9,9 Ω (ohm) = 0,91 A
+
+La lectura de A1, es 0,91 A.
+
+Para realizar la lectura de V2, hallamos primero la caída de potencial en r:
+
+V = 0,91 A ∙ 0,5 Ω =0,45 V
+
+Como E = Vr + V2, entonces
+
+V2=E − Vr = 9 V − 0,45 V = 8,55 V
+
+La lectura de V2 es 8,55 V.
+
+La lectura de V1 es:
+
+V1= 5 Ω ∙0,91 A= 4,55 V
+
+La lectura de V3 es:
+
+V3= V2 − V1= 8,55 V- 4,55 V= 4 V
+
+Como V es igual en R2 y R3, la lectura de A2 y A3 es:
+
+i2=4V/(8 Ω ohm)=0,5 A
+
+i3=4V/(10 Ω ohm)=0,4 A
+
+La lectura de A2 es: 0,5 A y la de A3 es 0,4 A.
+
+## La electricidad en casa
+
+En las centrales eléctricas, la electricidad que se genera es alterna, y la tensión se eleva antes de ser transportada a grandes distancias por los tendidos eléctricos. Luego, en el camino se van poniendo sucesivos transformadores hasta reducir esta tensión a la necesaria en cada caso (desde 10.000 V de tensión, en algunas industrias, hasta 110 V, en las viviendas).
+
+Cuando la energía eléctrica llega a las viviendas, a la entrada de estas es necesaria la instalación de una serie de elementos de seguridad y control.
+
+- El contador: este aparato mide la energía consumida. Su lectura suele realizarse cada mes por la compañía eléctrica. Normalmente está situado fuera de la vivienda.
+
+- Interruptor de control de potencia: este artefacto limita la entrada de potencia a la vivienda.
+
+- Interruptor diferencial: es un aparato de protección, el cual corta el suministro de energía cuando detecta fugas o derivaciones.
+
+- Interruptores parciales: sirven para proteger los aparatos de sobrecargas. En la siguiente figura, se muestra el esquema de una instalación eléctrica de una vivienda.
+
+La instalación eléctrica en una vivienda consta de tres elementos fundamentales:
+
+- La fase: es el conductor por el cual ingresa la corriente a la casa.
+
+- El neutro: es el conductor por el cual sale la corriente eléctrica de la vivienda después de ser usada.
+
+- El polo a tierra: es un conductor de protección, que envía las descargas eléctricas a tierra.
+
+## Desarrolla tus competencias
+
+1. Un fusible es un dispositivo que consiste en un hilo de cobre o plomo. Cuando por algún motivo se produce un aumento en la corriente que pasa a través de él, se funde e interrumpe el flujo de carga. Explica el funcionamiento en términos del efecto Joule.
+
+2. Lee y luego contesta:
+
+3. Las tormentas eléctricas cargan negativamente las nubes y, a su vez, provocan fuertes cargas eléctricas positivas en la Tierra. Los campos eléctricos producen iones y electrones libres en el aire, por lo que el aire se convierte en conductor de electricidad. Esto permite que el rayo se desplace de un lado a otro.
+
+4. El pararrayos está formado por una antena metálica, ubicada en la parte más alta de una edificación, que termina en punta, con una bola de cobre o platino cargada positivamente. La barra se conecta a tierra por un cable conductor, que lleva la descarga hacia el suelo y así evita danos a las personas que habitan un recinto cerrado.
+
+  a. ¿En Colombia hay hogares que no cuentan con pararrayos? Investiga.
+
+  b. ¿Por qué en la punta de los pararrayos aparecen fuertes cargas positivas?
+
+  c. ¿Por qué crees que el rayo va hacia la punta del pararrayos?
+
+  d. El lugar donde cae un rayo no se puede predecir. ¿Cómo explicarías a una persona que está parada en una azotea de un edificio que existe la posibilidad de que caiga un rayo?
+
+5. En las sierras y en las selvas son frecuentes las tormentas eléctricas. ¿Qué tipo de campana realizarías para proteger la vida de los pobladores y de sus animales?
+
+6. El mal uso de la electricidad causa muertes y lesiones graves. Escribe tres medios de prevención para evitar electrocutarse en la cocina y en la ducha.
+
+7. Los recursos naturales escasean cada vez más debido al mal uso que les da el hombre. La energía eléctrica que llega a nuestro hogar es producida por fuentes de energía no renovables, como los combustibles fósiles, o usando recursos como el agua. Nuestra obligación es evitar el desperdicio de energía en nuestros hogares. Plantea recomendaciones que permitan ahorrar energía en los hogares.
+
+## Actividades
+
+1. Escribe V, si la afirmación es verdadera o F, si es falsa. Justifica tu respuesta.
+
+a. La corriente eléctrica es un concepto asociado al movimiento de cargas.
+
+b. Uno de los efectos producidos por la corriente eléctrica es el desprendimiento de calor cuando hay flujo de electrones.
+
+c. Cuando hay flujo de electrones por un circuito, estos se mueven del polo positivo hacia el polo negativo.
+
+d. La función de un generador es suministrar energía a los electrones libres de un conductor de tal forma que puedan moverse por la conexión eléctrica.
+
+e. La resistencia de un material es inversamente proporcional a su área transversal.
+
+f. La ley de Ohm relaciona el voltaje con el calor generado cuando hay una diferencia de potencial en un circuito.
+
+g. La resistencia eléctrica en un circuito óhmico es el cociente entre la corriente y el voltaje.
+
+2. Escribe las diferencias que hay entre los siguientes conceptos:
+
+  a. Corriente eléctrica e intensidad de corriente eléctrica.
+
+  b. Resistencia eléctrica y resistividad de un material.
+
+  c. Resistencias en serie y resistencias en paralelo.
+
+  d. Corriente alterna y corriente continua.
+
+3. Cuando se lava el petróleo con chorros de agua a gran presión hay que ser especialmente cuidadosos para que no se produzca una explosión de los vapores del combustible. Basándose en partículas cargadas por fricción explica por qué se puede producir la explosión.
+
+4. Enumera algunos efectos producidos por la corriente eléctrica que conozcas y comenta alguna aplicación de los mismos.
+
+5. Si se conectan a una pila de 12 V, tres resistencias en paralelo de 2 Ω (ohm), 3 Ω (ohm) y 4 Ω (ohm), respectivamente.
+
+a. Halla: ¿Por cuál de ellas la intensidad de corriente es mayor?
+
+b. Intenta hacer un dibujo del circuito.
+
+6. 8 Responde. ¿Por qué en los metales los electrones se mueven y los protones, no?
+
+7. Responde. ¿Cómo se tienen que asociar tres resistencias de 6 Ω (ohm) cada una, de manera que la resistencia equivalente del conjunto sea 9 Ω (ohm)?
+
+8. 10 Responde. ¿Que medirá un voltímetro si en vez de colocarlo en paralelo lo colocamos en serie?
+
+9. Si aumenta la resistencia en el circuito, ¿la intensidad de corriente aumenta o disminuye? Explica tu respuesta.
+
+10. ¿Qué representan los símbolos I, V y R mayúsculas y en qué unidades se miden?
+
+11. Escribe V, si la afirmación es verdadera o F, si es falsa. Justifica tu respuesta.
+
+a. Los focos de mayor potencia tienen mayor resistencia eléctrica.
+
+b. La potencia consumida por una resistencia se mide en kilovatios-hora.
+
+c. Un conductor sometido a una diferencia de potencial se calienta.
+
+d. La resistencia eléctrica origina caídas de potencial o de tensión eléctrica.
+
+e. La energía eléctrica no se puede transformar en energía calorífica.
+
+f. La diferencia de potencial utilizada en los hogares es normalmente 110 V.
+
+g. El ohmímetro es un instrumento que se utiliza para medir resistencias.
+
+h. Los semiconductores son aquellos materiales que tienen una resistividad con valor intermedio entre los conductores y los aislantes.
+
+12. Explica para qué sirve la solapa metálica de algunos enchufes y el tercer agujero en el tomacorriente.
+
+## Problemas
+
+1. Una fuente fem realiza un trabajo de 3 J para llevar una carga de 2 C de un extremo a otro. Calcula la diferencia de potencial.
+
+2. Por un conductor de aluminio de 1 mm de diámetro y 10 m de largo, circula una corriente de 2 mA en 1 minuto. Calcula:
+
+a. La carga eléctrica que pasa por el conductor.
+
+b. El número de electrones que pasan por la sección.
+
+c. La resistencia del conductor.
+
+3. Una aleación de resistencia inicial de 0,08 Ω (ohm) varía su resistencia en 0,01 _ cuando la temperatura aumenta en 10°. ¿Cuál es el valor de su coeficiente de dilatación lineal?
+
+4. Dos resistencias de 100 kΩ (k ohm) y 400 kΩ (ohm) son conectadas en paralelo y, a su vez, se conectan en serie a una resistencia de 40 kΩ (k ohm). Todo el sistema es conectado a una batería ideal de 12 V. ¿Cuál es la intensidad de corriente que sale de la fuente?
+
+5. En una feria se proyecta colocar 100 focos de igual resistencia, R = 50 Ω (ohm), en paralelo. Si los focos deben trabajar durante 5 horas continuas a una diferencia de potencial de 12 voltios, ¿cuantas baterías de 12 V y capacidad de 40 Ah como mínimo deben comprarse?
+
+6. Por una batería pasa una corriente de 3 mA y la diferencia de potencial entre sus terminales es de 9 V.
+
+a. ¿Cuál es la potencia cedida por la batería?
+
+b. ¿En cuánto aumenta la energía de cada culombio de carga que la atraviesa?
+
+c. ¿Qué energía recibe cada electrón que la atraviesa?
+
+7. Por un alambre metálico circula una corriente de 2 A.
+
+a. ¿Qué cantidad de carga atraviesa una sección transversal en 1 minuto?
+
+b. ¿Cuántos electrones pasan en ese intervalo de tiempo?
+
+8. Por una bombilla conectada a 230 V pasa una intensidad de corriente de 0,1 A. Halla:
+
+a. La resistencia que tiene la bombilla.
+
+b. La carga eléctrica que circula por la bombilla en 30 minutos.
+
+# Capítulo 3: electromagnetismo
+
+Seguramente te resultan más familiares los fenómenos eléctricos que los magnéticos, ya que en algunas ocasiones has observado la electrización de tu cabello, los chasquidos que sientes al acercar tu mano a una pantalla de televisión encendida o los leves corrientazos al tocar ciertos objetos metálicos. Sin embargo, también estás familiarizado con algunas manifestaciones magnéticas, como la atracción de un objeto metálico por parte de un imán. Sin embargo, estos fenómenos que inicialmente fueron estudiados por separado, han permitido determinar que la electricidad genera efectos magnéticos y que el magnetismo puede producir, a su vez, corrientes eléctricas; descubrimientos que en la actualidad han permitido un amplio desarrollo tecnológico de la sociedad. En esta unidad estudiaremos las influencias mutuas de los fenómenos eléctricos y magnéticos, además de sus diferentes aplicaciones en el desarrollo de la sociedad.
+
+## Magnetismo natural: los imanes
+
+Los fenómenos magnéticos, como los eléctricos, se conocen desde la Antigüedad, sin embargo solo hasta el siglo XIX pudieron explicarse. No se sabe en qué momento se percibió por primera vez la existencia de los fenómenos magnéticos, aunque existe una referencia de hace 2.000 años sobre ciertas piedras que atraían metales. El nombre de magnetismo, proviene de Magnesia, una ciudad de la antigua Grecia en la que abundaba un mineral con propiedades magnéticas, material que en la actualidad se conoce con el nombre de magnetita.
+
+Un imán natural es un mineral metálico que tiene la propiedad de atraer a otros metales y se encuentra formado por elementos como el hierro, el cobalto y el níquel.
+
+Todo imán tiene dos polos magnéticos: el polo norte y el polo sur, cuya interacción produce dos tipos de fuerza: fuerzas de repulsión y fuerzas de atracción.
+
+- Las fuerzas de repulsión, se producen al interactuar polos del mismo tipo (sur y sur; norte y norte).
+
+- Las fuerzas de atracción, se generan cuando interactúan polos de distinto tipo (sur y norte). En la siguiente figura se puede observar el comportamiento de los polos del imán.
+
+Si se aprecia el comportamiento de los polos de un imán, hay una semejanza entre las líneas de fuerza de un dipolo eléctrico y el comportamiento de cargas eléctricas con los polos de un imán. Una gran diferencia entre ellos es que se puede obtener un solo tipo de carga aislada: positiva o negativa, pero jamás podrá obtener un solo polo, es decir, no existen los monopolos magnéticos.
+
+La comparación con las cargas eléctricas puede extenderse a la intensidad de la fuerza y su dependencia con la distancia, siendo la fuerza de repulsión o atracción entre dos polos magnéticos inversamente proporcional al cuadrado de la distancia existente entre ellos.
+
+## Magnetismo artificial: la imantación
+
+En la exploración magnética, no todos los materiales son atraídos por un imán. Esta atracción suele presentarse con mayor fuerza en el hierro, el níquel y el cobalto, por lo cual a estos materiales se les conoce con el nombre de ferromagnéticos, palabra proveniente del latín ferrum que significa hierro.
+
+Así mismo existen otros materiales, denominados diamagnéticos, como el plástico, la madera, el aluminio, el plomo y el cobre en los cuales la atracción magnética no es significativa.
+
+Pero ¿qué tienen en especial los materiales ferromagnéticos para ser atraídos fuertemente por un imán? Las propiedades magnéticas están relacionadas con su estructura atómica. El movimiento de los electrones permite que cada átomo se comporte como un imán, de esta manera todos los átomos se alinean paralelamente entre sí distribuyéndose en grupos con la misma orientación, denominados dominios magnéticos.
+
+Los objetos de material ferromagnético pueden transformarse en imanes bajo un proceso denominado imantación, el cual consiste en dejar durante cierto tiempo el material en contacto con un imán y así producir un imán artificial. Esta imantación puede ser temporal o permanente.
+
+- Por ejemplo, si frotamos un clip metálico o un clavo con un imán, el clip se convertirá en un imán temporal y podrá atraer otros objetos de hierro. Sin embargo, después de cierto tiempo este “magnetismo” desaparece.
+
+- En las industrias se emplean otros métodos más complicados para fabricar los imanes permanentes, cuya capacidad de atraer el hierro se conserva y no se reduce al pasar el tiempo. Estos imanes suelen ser utilizados en los laboratorios.
+
+## Campo magnético
+
+Hemos mencionado que la fuerza con la cual se atraen o se repelen dos imanes disminuye al aumentar la distancia entre ellos, y que lo mismo sucede con la fuerza que un imán ejerce sobre un objeto de material ferromagnético. Sin embargo, si el imán y el objeto se encuentran a una distancia relativamente grande, el objeto no experimenta ningún tipo de atracción. En este caso, se dice que el objeto está fuera del campo magnético generado por el imán.
+
+Definición:
+
+Se denomina campo magnético B (B mayúscula) a la región del espacio en la cual se manifiestan las fuerzas magnéticas producidas por el imán.
+
+La intensidad del campo magnético se mide en una unidad llamada tesla T (T mayúscula), en honor de Nikola Tesla, científico que realizó trabajos relacionados con la electricidad y el magnetismo. Aunque también realizó una experiencia en la cual suele emplearse otra unidad denominada gauss G (G mayúscula).
+
+Para poder visualizar el campo magnético, Michael Faraday (1791-1887) esparció limaduras de hierro sobre un papel ubicado encima de un imán. Faraday observó que las limaduras se situaban en líneas cerradas, es decir, líneas que parten de un polo del imán y que llegan al otro polo y determinó que dichas líneas no se cortan.
+
+En un imán, estas líneas se denominan líneas de campo y por convenio, se dice que salen del polo norte e ingresan al polo sur.
+
+Estas líneas de campo presentan ciertas características.
+
+- En el exterior del imán, cada línea se orienta desde el polo norte al polo sur.
+
+- Las líneas son cerradas, es decir, no se interrumpen en la superficie del imán.
+
+- El vector de campo magnético en cada punto del espacio es tangente a la línea de campo que pasa por ese punto.
+
+- La cantidad de líneas por unidad de área en la vecindad de un punto es proporcional a la intensidad del campo en dicho punto.
+
+- Las líneas nunca se intersecan ni se cruzan en ningún punto del espacio.
+
+## Fuerza magnética sobre una carga eléctrica
+
+Cuando una carga eléctrica se encuentra en un campo magnético y se desplaza dentro de él, experimenta una fuerza debida a la acción del campo. Esta fuerza magnética que experimenta una carga cuando se encuentra en un campo magnético es:
+
+- Directamente proporcional al valor de la carga q, cuanto mayor sea esta, mayor será la fuerza que actuará sobre la carga.
+
+- Directamente proporcional a la velocidad v de la carga, de tal forma que si la carga está en reposo el campo no actúa sobre ella.
+
+- Directamente proporcional al valor del campo magnético en el cual se encuentra inmersa la carga.
+
+- Directamente proporcional al seno del ángulo a que se forma entre la dirección del campo magnético y la dirección de la velocidad. Si el ángulo es de 0° o de 180° el campo no actúa sobre la carga, ya que este sólo actúa sobre la componente perpendicular de la velocidad con relación a la dirección del campo magnético.
+
+De esta manera la fuerza queda expresada como:
+
+```latex
+F=q\cdot v\cdot B\cdot sen \alpha
+```
+
+La ecuación se lee, F = q ∙ v ∙ B ∙ sen alfa.
+
+Para determinar la dirección de la fuerza se debe tener en cuenta que:
+
+- La dirección de la fuerza siempre es perpendicular al plano que forman los vectores de la velocidad v y el campo magnético B.
+
+- La dirección de la fuerza se puede hallar por medio de la regla de la mano derecha. De acuerdo con esta regla, para obtener el sentido de la fuerza magnética que actúa sobre una carga eléctrica positiva en movimiento.
+
+Ubica la mano derecha bien abierta, con el dedo pulgar dirigido hacia el vector v y los demás dedos orientados según el campo magnético B.
+
+El sentido del vector F será aquel hacia donde quede rotada la palma de la mano, es decir, el sentido del movimiento que debería ser hecho para dar una palmada o un golpe con esta parte de la mano. Si la carga es negativa, se invierte el sentido de la fuerza.
+
+#### Ejemplo
+
+Un ion negativo viaja a 1×10 5 m/s y entra en una región donde hay un campo magnético B de 0,02 T, cuya fuerza F es de 0,23×10 −15 N vertical y hacia abajo (270° con respecto a la horizontal). Si la dirección de B es perpendicular al plano y entrando en él, determinar:
+
+  a. La dirección de v
+
+  b. El valor de la carga.
+
+#### Solución
+
+  a. Hallemos la dirección de la velocidad. Para ello, debemos ubicar la palma de la mano hacia abajo y los dedos dirigidos perpendicularmente al plano. Por lo tanto, el pulgar se dirige hacia la izquierda y como es un ion negativo, entonces se dirige a la derecha. Como B y v son perpendiculares la trayectoria del ion es circular.
+
+  b. El valor de la carga se define a partir de la ecuación de fuerza magnética sobre una carga eléctrica, por lo tanto:
+
+```latex
+F= q \cdot v \cdot B \cdot sen \alpha
+```
+
+La ecuación se lee, F = q ∙ v ∙ B ∙ sen alfa.
+
+```latex
+0,23\times{10}^{-15}N=q \cdot1\times{10}^{5}m/s \cdot0,02 T \cdot sen 90^{\circ}
+```
+
+La ecuación se lee, 0,23×10 a la −15 N = q ∙ (1×10 a la 5 m/s) ∙ (0,02 T) ∙ sen 90°.
+
+Despejando y calculando q:
+
+```latex
+q=1,15\times{10}^{-19} C
+```
+
+La ecuación se lee, q = 1,15×10 a la −19 C.
+
+## Espectrógrafo de masas
+
+El espectrógrafo de masas es un dispositivo que se utiliza para separar los diferentes isótopos que contiene un elemento químico en su forma natural, ya que no es posible separarlos con procedimientos químicos. Mediante un campo eléctrico, se produce un chorro de isótopos ionizados que ingresan con igual velocidad en un campo magnético uniforme.
+
+Como tienen diferentes masas y diferentes cargas, los iones describen trayectorias de radio diferente y al chocar contra una placa fotográfica se puede establecer el porcentaje de isótopos en la mezcla inicial.
+
+El Espectrógrafo de masas, funciona mediante un campo eléctrico que genera la misma velocidad en todos los isótopos ionizados, los que por tener diferentes masas, al entrar en el campo magnético, describen trayectorias de radios diferentes.
+
+Como la fuerza siempre es perpendicular a v no realiza trabajo sobre los iones, sino que se les proporciona una aceleración centrípeta (a c), necesaria para mantener la trayectoria circular, así que:
+
+Definición de ac:
+
+a c = v2/r
+
+Segunda ley de Newton
+
+F= m ∙a c
+
+Al remplazar a c:
+
+F= m ∙ v2/r
+
+Como
+
+```latex
+F= q \cdot v \cdot B \cdot sen \alpha
+```
+
+La ecuación se lee, F = q ∙ v ∙ B ∙ sen alfa.
+
+Entonces al igualar las dos ecuaciones:
+
+m ∙v2/r = q ∙ v ∙ B ∙ 1
+
+Por tanto,
+
+r=(m∙v2)/(q∙v∙B)
+
+Al simplificar la ecuación, obtenemos una expresión para el radio de la circunferencia que describe una partícula cuya velocidad v es perpendicular al campo B:
+
+r=(m∙v)/(q∙B)
+
+## Fuerzas sobre corrientes
+
+El campo magnético formado por el enfrentamiento de los polos de un imán de herradura, se considera un campo magnético constante. Si colocamos en este campo B, un alambre por el cual circula una corriente i, este experimenta una fuerza magnética perpendicular al plano que forman el campo magnético y el alambre.
+
+Para hallar la expresión de esta fuerza, consideremos que el conductor por el cual fluye corriente es de longitud l, cuyas cargas lo recorren en un tiempo t. Por lo cual, su velocidad es:
+
+v=l/t
+
+Al remplazar l en la ecuación de fuerza magnética
+
+```latex
+F=\frac{q\cdot l\cdot B\cdot Sen \alpha}{t}
+```
+
+La ecuación se lee, F = (q ∙ l ∙ B ∙ sen alfa) / t.
+
+Definición de corriente eléctrica:
+
+i=q/t
+
+Por tanto, la fuerza magnética que experimenta un conductor por el cual fluye corriente eléctrica y se encuentra en un campo magnético B es:
+
+```latex
+F=i\cdot l\cdot B\cdot Sen \alpha
+```
+
+La ecuación se lee, La ecuación se lee, F = i ∙ l ∙ B ∙ sen alfa.
+
+La dirección se obtiene con la regla de la mano derecha, haciendo coincidir la dirección convencional de la corriente con la del pulgar, los demás dedos con la dirección del campo magnético y la palma de la mano con la dirección de la fuerza.
+
+#### Ejemplo
+
+Un alambre recto de 0,1 m de largo conduce una corriente de 2 A. El alambre se introduce en un campo magnético B de 0,01 T, y la dirección del campo es horizontal y positiva (hacia la derecha). Hallar la fuerza y su dirección si:
+
+a. El alambre y el campo forman un ángulo de 90°.
+
+b. El alambre y el campo son paralelos.
+
+c. El alambre y el campo forman un ángulo de 30°.
+
+#### Solución
+
+a. A partir de la fuerza magnética relacionada con la corriente eléctrica tenemos que:
+
+```latex
+F=i\cdot l\cdot B\cdot Sen \alpha
+```
+
+La ecuación se lee, La ecuación se lee, F = i ∙ l ∙ B ∙ sen alfa.
+
+Al reemplazar
+
+F = 2 A∙0,1 m∙0,01 T∙Sen 90°
+
+Al calcular
+
+F = 0,002 N
+
+La dirección se halla al direccionar los dedos hacia la derecha, el pulgar hacia arriba y la palma señala la dirección de la fuerza como perpendicular al plano e ingresando a este y con un valor igual a 0,002 N.
+
+b. Si i y B son paralelos, el ángulo formado entre ellos es 0° o 180°. Como el seno en ambos casos es cero, la fuerza magnética es cero.
+
+c. Si i y B forma un ángulo de 30°, entonces:
+
+Al remplazar
+
+F=2 A∙0,1 m∙0,01 T∙Sen 30°
+
+Al calcular
+
+F=0,001 N
+
+Como el campo actúa sobre la componente perpendicular de i con respecto al campo entonces, la fuerza es perpendicular al plano e ingresa a esta con un valor de 0,001 N. En la siguiente figura se muestran los vectores para los numerales a y c.
+
+### Acción de un campo magnético sobre un circuito
+
+Un circuito rectangular como el que se muestra en la siguiente figura consiste en un conductor, denominado espira, que puede girar libremente alrededor del eje e, si se encuentra en el campo magnético generado por los dos imanes.
+
+La corriente que fluye desde A hasta D genera una fuerza magnética perpendicular al plano y que sobresale de él. Por otra parte, la corriente que fluye de D hacia C no genera fuerza y la corriente que fluye desde C hasta B provoca una fuerza perpendicular al plano e ingresa en él. Por tanto, las fuerzas forman una dupla y generan un giro alrededor de e en sentido positivo.
+
+### El motor eléctrico
+
+Una de las aplicaciones más útiles de la fuerza experimentada por un conductor eléctrico en presencia de un campo magnético perpendicular a él es el motor eléctrico. El funcionamiento del motor eléctrico se basa en la rotación de una serie de espiras conductoras por las cuales circula una corriente, cuando se encuentran al interior del campo magnético creado por un imán. Un motor necesita de una fuente de poder, que puede ser una pila, la cual produce una corriente que siempre tiene el mismo sentido.
+
+Una variación de este tipo de motor es aquel en el que el movimiento rotatorio de la espira se produce a través de una fuerza externa. En este caso se genera una corriente de intensidad variable, pero cuyo sentido siempre es el mismo.
+
+Al pasar la corriente por la espira, como esta se encuentra ubicada en un campo magnético (el creado por los imanes fijos), comienza a girar produciendo así su movimiento a partir de dicha corriente eléctrica.
+
+### Efecto Hall
+
+Cuando un alambre conductor por el cual fluye corriente se encuentra en un campo magnético, el campo ejerce una fuerza lateral sobre las cargas en movimiento. Si observamos la figura 2a y aplicamos la regla de la mano derecha, podemos concluir que los electrones experimentan una fuerza magnética hacia abajo que los acerca hacia la superficie G y los aleja de la C, creándose una diferencia de potencial que crece hasta que el campo eléctrico (E), ejerce una fuerza igual sobre las cargas en movimiento y opuesta a la ejercida por el campo magnético B.
+
+A este efecto se le denomina Efecto Hall ya que fue Edwin Herbert Hall quien lo descubrió. La figura 2b ilustra el efecto Hall para una carga positiva. Con este experimento se comprobó que en los metales las cargas en movimiento son los electrones. Actualmente se usa para determinar el tipo de carga que se mueve en los semiconductores.
+
+## Fuentes de campos magnéticos
+
+### El campo magnético terrestre
+
+La primera aplicación práctica del magnetismo la constituyó un imán empleado en la navegación. Las referencias de la utilización de imanes en la navegación marítima se remontan al siglo XII, cuando se observó que uno de los polos de un imán se orientaba siempre hacia el norte geográfico. Por tal razón, a partir de allí se comenzó a emplear imanes para la orientación geográfica.
+
+El físico y médico inglés William Gilbert, basándose en sus estudios de magnetismo, fue la primera persona en sugerir que la Tierra actuaba como un gran imán, cuyo campo terrestre es tal que las líneas de campo salen aproximadamente del polo sur y circundan la Tierra siguiendo los meridianos hasta entrar por el polo norte. Por esta razón, es que una brújula señala aproximadamente el norte, debido a la acción del campo magnético terrestre.
+
+Un fenómeno sorprendente que ocurre en el campo magnético de la Tierra es que sus polos magnéticos se han invertido varias veces durante el transcurso de la existencia del planeta. Este fenómeno de inversión de los polos se ha presentado a intervalos de miles de años. En la actualidad, el polo norte magnético se encuentra próximo al polo sur geográfico y el polo sur magnético se ubica cerca al polo norte geográfico.
+
+Una de las propiedades que permite orientarse a las aves migratorias, es la capacidad que tienen para detectar la intensidad y la dirección del campo magnético terrestre. Dicha capacidad se explicaría por dos mecanismos complementarios. Uno está relacionado con la acción de la luz. Las moléculas de rodopsina que se encuentran en las células de la retina del ojo, absorben fotones y se convierten en pequeños imanes transitorios, alineándose en la dirección del campo. Este mecanismo se complementaría con el efecto producido por los cristales de magnetita presentes en el cráneo de las aves.
+
+### La experiencia de Oersted
+
+En 1819, Cristian Oersted comprobó que la aguja de una brújula se desviaba en las proximidades de un hilo conductor por el que circulaba corriente eléctrica.
+
+Oersted comprobó que al colocar la aguja de una brújula cerca de un cable conductor giraba bruscamente cuando se hacía pasar corriente a través del alambre al observar que la aguja se orientaba en dirección perpendicular al cable. Posteriormente comprobó que al invertir el sentido de la corriente la aguja giraba 180° y se colocaba otra vez en dirección perpendicular al cable, pero en sentido contrario al anterior.
+
+Las experiencias de Oersted demuestran que las cargas eléctricas en movimiento generan un campo magnético, que es el causante de la desviación de la brújula; es decir, que una corriente eléctrica crea a su alrededor un campo magnético.
+
+### Campo magnético creado por un conductor rectilíneo
+
+Toda corriente genera un campo magnético, efecto que se pone en manifiesto al observar la disposición que toma un conjunto de limaduras de hierro espolvoreadas sobre un papel perforado por un cable conductor.
+
+Si por este conductor rectilíneo circula una intensidad de corriente i, la intensidad del campo magnético producido sobre el punto P situado a una distancia r del conductor viene dada por la ley de Biot-Savart.
+
+Definición:
+
+La intensidad del campo magnético que una corriente rectilínea genera en un punto es directamente proporcional a la intensidad de esa corriente e inversamente proporcional a la distancia que separa el punto del conductor.
+
+Esta ley se expresa como:
+
+```latex
+B=\frac{\mu_{0}}{2\pi}\cdot\frac{i}{r}
+```
+
+La ecuación se lee, B = (mu 0 / 2 pi)∙ (i/r).
+
+Donde μ0 (mu 0) es la permeabilidad magnética del vacío, equivalente a:
+
+```latex
+4\pi\times{10}^{-7} T\cdot m/A
+```
+
+La ecuación se lee, 4 pi × 10 a la −7 T∙ m/A.
+
+La dirección del campo magnético se puede determinar aplicando la regla de la mano derecha, en donde, el dedo pulgar indica la dirección de la corriente eléctrica convencional y los demás dedos que envuelven al conductor indican la dirección del vector campo magnético.
+
+Ejemplo
+
+Hallar el valor cuantitativo en un punto P de un campo magnético B (B mayúscula), inducido por un alambre muy largo por el cual circula una corriente de 40 A. El punto P está ubicado a 5 cm del alambre.
+
+Solución
+
+En el punto P el valor del campo magnético es:
+
+```latex
+B=\frac{\mu_{0}}{2\pi}\cdot\frac{i}{r}
+```
+
+La ecuación se lee, B = (mu 0 / 2 pi)∙ (i/r).
+
+Al remplazar:
+
+```latex
+B=\frac{4\pi\times{10}^{-7}T \cdot m/A}{2\pi}\cdot\frac{40 A}{0,05 m}
+```
+
+La ecuación se lee, B = (4 pi × 10 a la −7 T∙ m/A / 2 pi)∙ (40 A/ 0,05 m).
+
+Al calcular
+
+B= 1,6×10 −4 T
+
+A 5 cm del alambre el campo magnético B tiene un valor de 1,6×10 −4 T.
+
+### Campo magnético creado por un solenoide
+
+Al observar el interior de un timbre eléctrico, de un transformador o de un motor eléctrico, es posible encontrar un alambre enrollado con un gran número de vueltas dispuestas una a continuación de otra y estrechamente unidas. Este conductor largo enrollado en forma de hélice se denomina solenoide o bobina.
+
+Un solenoide tiene una particular característica, ya que cuando circula por él una corriente eléctrica, se produce en su interior un campo magnético cuya intensidad permanece constante y cuyas líneas de fuerza son paralelas, es decir, forman un campo magnético uniforme.
+
+El valor de la intensidad del campo magnético producido por un solenoide de N espiras, cuya longitud es l, y por el cual circula una intensidad de corriente i, está dado por la expresión:
+
+```latex
+B=\mu\cdot i\cdot n
+```
+
+La ecuación se lee, B = mu ∙ i ∙ n.
+
+Siendo
+
+```latex
+n=\frac{N}{l}
+```
+
+La ecuación se lee, n = N mayúscula / l.
+
+Por otra parte, el campo magnético en el centro de una espira del solenoide es inversamente proporcional al radio de la misma y directamente proporcional a la corriente que circula por ella . El valor del campo magnético en el centro de una espira de radio r por la que circula una corriente i se expresa como:
+
+```latex
+B=\frac{\mu_{0}\cdot i}{2\cdot r}
+```
+
+La ecuación se lee, B = (mu 0 / i)∙ (2/r).
+
+#### Ejemplo
+
+Una bobina de 600 vueltas, 6 cm de longitud y 2 cm de diámetro, crea en su interior un campo magnético cuando se hace pasar por ella una corriente. Si el campo magnético es de 5,26×10 −3 T, su dirección es horizontal positiva, hallar:
+
+a. La intensidad de corriente que circula por la bobina y su dirección.
+
+b. La variación del campo magnético al duplicar el número de espiras y mantener las otras variables constantes.
+
+Solución
+
+a. Antes de hallar la intensidad de corriente, hallemos el valor de n.
+
+n=(600 vueltas)/0,06m=10000 v/m
+
+para hallar el cambo B tenemos:
+
+```latex
+B=\mu\cdot i\cdot n
+```
+
+La ecuación se lee, B = mu ∙ i ∙ n.
+
+```latex
+5,26 \times{10}^{-3} T =4\pi\times{10}^{-7} T\cdot m/A \cdot i \cdot10.000 v/m
+```
+
+Al remplazar se despeja i
+
+```latex
+i= 0,42 A
+```
+
+La intensidad de corriente que pasa por la bobina es de 0,42 A y su dirección se ilustra en la siguiente gráfica.
+
+b. Al duplicar el número de espiras, tenemos:
+
+```latex
+n=\frac{1.200 vueltas}{0,06m}=20.000v/m
+```
+
+Al remplazar en la ecuación del campo magnético:
+
+$B$ =4π×10 −7 T∙ m/A∙0,42 A×20.000v/m
+
+Al calcular:
+
+B= 10,52 × 10 −3 T
+
+Al duplicar el número de espiras en la bobina se duplica el campo magnético formado dentro de ella a un valor de 10,52 × 10 −3 T.
+
+### Fuerza magnética entre dos conductores rectos
+
+Si dos conductores eléctricos, próximos entre sí, portan corriente, experimentan una fuerza de atracción o repulsión debida a la interacción entre los campos magnéticos generados por las corrientes que circulan por ellos.
+
+Cuando las corrientes recorren los conductores en el mismo sentido estos se atraen, mientras se repelen si las corrientes tienen sentidos opuestos.
+
+El campo magnético B1, creado por un conductor largo y recto, de longitud l que portan una corriente i1 a una distancia r de él, estará dado por la expresión:
+
+```latex
+B= \frac{\mu_{0}}{2\pi} \cdot\frac{i}{r}
+```
+
+La ecuación se lee, B = (mu 0 / 2 pi)∙ (i/r).
+
+Si un segundo conductor de la misma longitud, que porta una corriente i2, es colocado a una distancia r y paralelo al conductor anterior, experimentará una fuerza magnética F dada por:
+
+F= i2 ∙ l ∙ B1
+
+O equivalente a:
+
+```latex
+F=\frac{\mu_{0}{\cdot i}_{1}\cdot i_{2}\cdot l}{2\pi\cdot r}
+```
+
+La ecuación se lee, F = (mu 0 ∙ i1 ∙ i2 ∙ l)/(2 pi ∙ r).
+
+Cuyos sentidos del campo magnético se identifican a través de la regla de la mano derecha.
+
+## Algunas aplicaciones
+
+### El electroimán
+
+Es muy habitual encontrar en algunos aparatos el empleo de los electroimanes. Por ejemplo, en los timbres, en los frenos, en los interruptores, en los aceleradores de partículas, en los teléfonos, los transformadores, para trasladar objetos de hierro pesados, etc.
+
+Un electroimán es una bobina (solenoide) larga cuyo núcleo se encuentra formado de hierro el cual produce un campo magnético cuando pasa cierta corriente por las espiras de la bobina.
+
+Cuando al solenoide se le introduce en su interior un bloque de hierro llamado núcleo, el campo magnético se hace cientos y hasta miles de veces mayor. La explicación se debe a que los dominios magnéticos del hierro, se alinean en la dirección del campo magnético del solenoide y en consecuencia el hierro actúa como un imán potente que se adiciona al campo magnético del solenoide.
+
+Al dejar de pasar corriente por el solenoide el campo magnético disminuye notablemente y el hierro va perdiendo sus facultades de imán.
+
+### El parlante
+
+El parlante se encarga de transformar en sonido las señales eléctricas que llegan del amplificador de un equipo de sonido. La mayoría de los parlantes tienen cinco partes básicas:
+
+  1. Bobina móvil cilíndrica, de material liviano y alambre de cobre.
+
+  2. Imán permanente anular, generalmente cerámico ferromagnético.
+
+  3. Disco posterior magnético blando, generalmente metálico y ferromagnético.
+
+  4. Cilindro concéntrico magnético blando, generalmente metálico y ferromagnético.
+
+  5. Cono o diafragma cónico de cartón o plástico, adherido a la bobina.
+
+Al moverse la membrana de forma oscilante, produce ondas sonoras de la misma forma que la membrana de un bombo o las cuerdas de una guitarra. El movimiento de la membrana lo produce una bobina sujeta a aquella, a la que llegan las señales eléctricas del amplificador.
+
+La bobina está situada sobre un vástago y rodeada por un imán circular. Al pasar la corriente por la bobina, esta se convierte en un imán que interactúa con él que la rodea, creando movimientos de vaivén que se transmiten a la membrana. Cuando la tensión de la bobina es más fuerte, su movimiento es mayor y la membrana emite sonidos más fuertes.
+
+## Inducción electromagnética
+
+### Los experimento de Faraday y Henry
+
+Después del hallazgo de Oersted en 1820, con relación al campo magnético inducido por una corriente eléctrica, los físicos empezaron a realizar experimentos para hallar el proceso contrario, es decir que a partir de un campo magnético se produzca una corriente eléctrica.
+
+Esta época de esfuerzo culminó con éxito en el año 1831, en el cual Joseph Henry en Estados Unidos y, de manera independiente, Michael Faraday en Inglaterra pusieron en manifiesto que un campo magnético variable en el tiempo era capaz de generar electricidad.
+
+Los trabajos realizados por los investigadores se resumen en un experimento, por medio del cual es posible crear corriente eléctrica en un circuito a partir de fenómenos magnéticos.
+
+Este experimento consiste en un circuito eléctrico formado por una espira conectada a un galvanómetro, y un imán de barra colocado perpendicular a la espira. Cuando se acerca e introduce el imán a la espira, se observa que el galvanómetro indica el paso de una corriente por ella , corriente que se interrumpe cuando el imán se detiene.
+
+Si ahora se saca el imán de la espira, se vuelve a observar el paso de la corriente mientras el imán está en movimiento, pero esta vez en sentido contrario al de la situación anterior.
+
+Faraday concluyó respecto a este fenómeno que: la corriente eléctrica aparece porque al acercarse o alejarse el imán a la espira, se produce un cambio en el número de líneas de campo magnético que atraviesan la espira, tal como se observa en la siguiente figura.
+
+## Flujo del campo magnético
+
+Para determinar el número de líneas que atraviesan la espira, Faraday introdujo la noción de flujo magnético, Ф (letra griega fi mayúscula), que lo definió como el producto escalar del vector intensidad del campo magnético por el área de la espira, es decir:
+
+```latex
+Ф=\vec{B}\cdot\vec{A}
+```
+
+La ecuación se lee, fi mayúscula = B vector ∙ A vector.
+
+Sin embargo, al igual que ocurre en el caso del campo gravitatorio o el campo electrostático, esta relación solo sirve cuando el campo magnético es uniforme y perpendicular al mismo; ya que si no se presentan estas condiciones, se debe utilizar la proyección perpendicular, con lo cual el flujo resulta ser igual al producto escalar del vector campo por el vector representativo de área de la espira.
+
+Para este caso, la expresión que permite determinar el flujo magnético es:
+
+```latex
+Ф=\vec{B}\cdot\vec{A}=B\cdot A\cdot cos\theta
+```
+
+La ecuación se lee, fi mayúscula = B vector ∙ A vector = B ∙ A ∙ cos theta.
+
+La unidad de flujo magnético en el SI es el weber (Wb), en honor al físico alemán W. Edward Weber y es equivalente a un tesla sobre metro cuadrado.
+
+Si las líneas del campo magnético son paralelas a la superficie (y perpendiculares a N mayúscula), entonces el flujo es nulo. El valor del flujo aumenta a medida que el ángulo θ (theta) decrece, alcanzando su máximo valor cuando el campo es perpendicular a la superficie.
+
+## Ley de Gauss
+
+El matemático y físico Karl Friedrich Gauss (1777-1855), dedujo una relación importante para la electricidad relacionando la carga eléctrica con el campo eléctrico. La ley de Gauss involucra el flujo total a través de una superficie cerrada.
+
+El flujo eléctrico es igual a la carga neta encerrada en la superficie (Q) sobre la constante de permisividad en el espacio vacío ε0 (épsilon 0).
+
+Al extenderla al campo magnético, las distribuciones de fuentes magnéticas son siempre neutras en el sentido de que posee un polo norte y un polo sur, por lo que su flujo a través de cualquier superficie cerrada es nulo.
+
+La ley de Gauss aplicada al campo magnético corrobora la inexistencia de monopolos magnéticos.
+
+## Inducción electromagnética
+
+Faraday y Henry establecieron que era posible generar corriente eléctrica a través de un alambre con el simple hecho de ingresar y sacar un imán de una bobina. Demostrando que no era indispensable la utilización de algún generador eléctrico, solo con el movimiento relativo entre el alambre y un campo magnético era factible inducir un voltaje.
+
+Sin embargo, la magnitud de este voltaje inducido depende de la rapidez con la cual el alambre recorre las líneas de campo magnético, ya que si este movimiento es muy lento, el valor del voltaje es muy pequeño, mientras si el movimiento se realiza con cierta rapidez el voltaje inducido presenta un valor mayor.
+
+Así mismo, la cantidad de espiras también permite obtener diferentes valores para el voltaje inducido, ya que cuanto mayor es el número de espiras de alambre que se desplazan en el campo magnético, mayores son el voltaje inducido y la corriente en el alambre.
+
+En conclusión, no importa que acción sea la que induce el voltaje, ya que este se genera debido al movimiento relativo entre la bobina y el campo magnético. Por lo cual es posible afirmar que toda variación en el flujo del campo magnético a través del área limitada por un circuito genera corriente eléctrica en él. Este fenómeno de inducir voltaje alternando el campo magnético en torno a un conductor se denomina inducción electromagnética.
+
+Las corrientes generadas por la inducción electromagnética se conocen como corrientes inducidas, como lo son las corrientes que se generan al momento de cerrar o abrir un circuito.
+
+### Fuerza electromotriz inducida: la ley de Faraday
+
+Faraday, durante sus observaciones, estableció que cuánto más rápido cambia el flujo magnético mayor es la corriente inducida en la bobina. En el momento de introducir o retirar el imán en la bobina, el galvanómetro registra una corriente en ella. Pero este valor del galvanómetro aumenta a medida que aumenta la rapidez en la introducción o el retiro del imán.
+
+La ley de inducción de Faraday enuncia que el valor de la fuerza electromotriz (fem) inducida en el conductor que limita la superficie atravesada por el flujo magnético, depende de la rapidez de la variación del flujo magnético.
+
+Estas experiencias se traducen en la ley de Faraday.
+
+Definición:
+
+La fuerza electromotriz ε (épsilon) inducida en un circuito es igual a la variación con respecto al tiempo (t) del flujo Ф (fi mayúscula) que atraviesa dicho circuito.
+
+Esta ley se expresa como:
+
+```latex
+\epsilon=-\frac{\DeltaФ}{\Delta t}
+```
+
+La ecuación se lee, épsilon = menos delta fi mayúscula / delta t.
+
+Siendo ∆Ф = Ф2 − Ф1 (delta fi = fi 2 menos fi 1), la variación del flujo magnético y ∆t = t2 − t1 (delta t = t 2 menos t 1), la variación del tiempo. Después de analizar esta consecuencia de los trabajos de Faraday, Maxwell imaginó que tal vez este fenómeno inverso fuera verdadero, es decir, que un campo eléctrico variable debería inducir un campo magnético.
+
+## Ley de Lenz
+
+Cuando se acerca un imán a una bobina, el flujo magnético que la atraviesa aumenta y la corriente que se induce produce un campo magnético de sentido contrario al del imán, por lo que dicha corriente se opone al aumento del flujo.
+
+Si en vez de acercarse el imán se aleja, el flujo magnético que atraviesa la bobina disminuye y esta corriente inducida produce también un campo magnético de sentido contrario al del imán, por lo que la corriente se opone a la disminución del flujo.
+
+Luego, en ambos casos, el sentido de la corriente se opone a las variaciones de flujo magnético que se producen. Este resultado se conoce como la ley de Lenz
+
+Definición:
+
+El sentido de la corriente inducida es tal que el campo magnético que dicha corriente produce se opone a la variación del flujo que la causó.
+
+Esta oposición al cambio de flujo es la razón por la cual se utiliza el signo negativo en el segundo miembro de la ecuación de la ley de Faraday:
+
+```latex
+\epsilon=\frac{\DeltaФ}{\Delta t}
+```
+
+La ecuación se lee, épsilon = menos delta fi mayúscula / delta t.
+
+Para una bobina de N espiras la ley de Faraday se expresa:
+
+```latex
+\epsilon=-N\cdot\frac{\DeltaФ}{\Delta t}
+```
+
+La ecuación se lee, épsilon = menos N mayúscula ∙ (delta fi mayúscula / delta t).
+
+#### Ejemplo
+
+Por una bobina, de 100 espiras y área transversal de 4 cm², se hace pasar un campo magnético, cuyas líneas de campo son perpendiculares al área transversal de la bobina, de tal forma que el flujo magnético varía uniformemente desde 0 T hasta 0,4 T durante 0,02 s. Calcular la fem inducida en la bobina.
+
+#### Solución
+
+Para calcular la fem hallemos la variación del flujo magnético.
+
+```latex
+Ф=B\cdot A\cdot cos\theta
+```
+
+La ecuación se lee, fi mayúscula = B ∙ A ∙ cos theta.
+
+Flujo inicial en la bobina:
+
+```latex
+Ф_{i}=0 T\cdot A\cdot cos\theta=0 Wb
+```
+
+La ecuación se lee, fi mayúscula i = 0 T ∙ A ∙ cos theta = 0 Wb.
+
+Flujo final:
+
+```latex
+Ф_{f}=0,4 T\cdot4\times{10}^{-4} m^{2}\cdot\cos0^{\circ}=1,6\times{10}^{-4} Wb
+```
+
+La ecuación se lee, fi mayúscula f = 0,4 T ∙ (4×10 a la −4 m2) ∙ cos 0° = 1,6×10 a la −4 Wb.
+
+Ecuación de la fuerza electromotriz:
+
+```latex
+\epsilon=-N\cdot\frac{\DeltaФ}{\Delta t}
+```
+
+La ecuación se lee, épsilon = menos N mayúscula ∙ (delta fi mayúscula / delta t).
+
+Reemplazando y calculando:
+
+```latex
+\epsilon=-100\cdot\frac{1,6\times{10}^{-4} Wb}{0,02 s}=-8\times{10}^{-1} V
+```
+
+La ecuación se lee, épsilon = −100 ∙ (1,6×10 a la −4 Wb / 0,02 s) = −8×10 a la −1 V.
+
+La fem inducida es de 0,8 V.
+
+#### Ejemplo
+
+Una espira de sección circular está en un campo magnético de intensidad variable, formando el vector asociado a la superficie un ángulo de 30° con el vector inducción. Si el flujo magnético a través de la espira cambia de 4*10^-5 Wb a 10*10^-5 Wb en 0,01 s, ¿cuál es el valor medio de la fem inducida?
+
+#### Solución
+
+Aplicando la ecuación de la fuerza electromotriz, tenemos que:
+
+```latex
+\epsilon=-\frac{\DeltaФ}{\Delta t}=\frac{-(Ф_{2}-Ф_{1})}{t_{2}-t_{1}}
+```
+
+La ecuación se lee, épsilon = menos ∙ (delta fi mayúscula / delta t) = menos (fi 2 menos fi 1) / (t2 menos t1).
+
+Reemplazando y calculando:
+
+```latex
+\epsilon=\frac{-(10\times{10}^{-5}\mathrm{Wb}-4\times{10}^{-5}\mathrm{Wb})}{0,01 s}=-6\times{10}^{-3} V
+```
+
+La ecuación se lee, épsilon = −(10×10 a la −5 Wb −4×10 a la −5)/(0,01 s) = −6×10 a la −3 V.
+
+## Algunas aplicaciones
+
+### Generadores electromagnéticos
+
+Aunque las baterías y las pilas generan electricidad, estas presentan ciertas limitaciones, ya que no sirven para aparatos eléctricos con un gran consumo energético, como la mayor parte de los electrodomésticos. En este caso, es necesario implementar el uso de alternadores y dinamos, cuya estructura se encuentra formada por un imán fijo y una bobina que gira en el campo magnético creado por el imán.
+
+- El alternador: cuando la bobina se encuentra en reposo, no es posible generar corriente. Pero, a medida que la bobina gira, se origina una variación de campo magnético y se genera una corriente eléctrica que cambia periódicamente de sentido.
+
+La corriente eléctrica generada se envía al exterior a través de un colector conectado a la bobina y unido a dos escobillas o contactos de salida.
+
+El alternador es un generador de corriente alterna. Los generadores de las centrales eléctricas, por ejemplo, son alternadores.
+
+- La dinamo: el funcionamiento de una dinamo es similar al del alternador.
+
+El colector está formado por un único anillo y, mediante un sistema mecánico sencillo se consigue que los extremos de la bobina hagan contacto alternativamente con las escobillas, de tal manera que una sea siempre positiva y la otra, negativa. De este modo, la corriente alterna generada se transforma en corriente continua.
+
+Una de las aplicaciones más corrientes de la dinamo ha sido la de generar energía eléctrica para el funcionamiento de un automóvil. Sin embargo, su utilización disminuyó debido a que presentaba problemas al suministrar corriente cuando el motor estaba en pleno rendimiento.
+
+### Producción de corriente alterna
+
+La producción de corriente alterna es muy sencilla, por tal razón es la más utilizada tanto a nivel doméstico como a nivel industrial. Su producción se encuentra relacionada con la variación en el flujo magnético que atraviesa un conductor, es decir, al giro a gran velocidad entre los polos de un electroimán (inductor) de una bobina (inducido) en un campo magnético.
+
+Al producirse el giro, el flujo magnético que el inductor genera sobre el inducido experimenta una variación continua, por lo cual se produce una corriente alterna en el inducido que, es transportada, por medio de cables, hasta los lugares donde posteriormente será utilizada.
+
+Cuando al inducido se le genera una velocidad angular, ω (omega), constante, estando en el interior del inductor (se crea un campo magnético uniforme B), se induce una corriente debido a que el movimiento hace variar el flujo magnético sobre el inducido. La fuerza electromotriz inducida que se genera en cada espira cambia de manera sinusoidal y se expresa como:
+
+```latex
+\epsilon=B\cdot A\cdot\omega\cdot sen\left( \omega\cdot t \right)=\epsilon_{max}\cdot sen\left( \omega\cdot t \right)
+```
+
+La ecuación se lee, épsilon = B ∙ A ∙ omega ∙ sen (omega ∙ t) = épsilon máx. ∙ sen (omega ∙ t).
+
+Como la función seno toma como máximo valor la unidad, εmáx (épsilon máx.) es:
+
+```latex
+\epsilon_{max}=B\cdot A\cdot\omega
+```
+
+La ecuación se lee, épsilon máx. = B ∙ A ∙ omega.
+
+Para el caso de que el inducido conste de N (N mayúscula) espiras iguales, el valor de la fem máxima generada por el inducido es:
+
+```latex
+\epsilon_{max}=N\cdot B\cdot A\cdot\omega
+```
+
+La ecuación se lee, épsilon máx. = N ∙ B ∙ A ∙ omega.
+
+Si se unen los extremos del inducido a una resistencia R, y consideramos despreciable la resistencia propia del inducido, circulará una corriente I (I mayúscula), que en aplicación de la ley de Ohm es igual a:
+
+```latex
+I=\frac{\epsilon}{R}=\frac{\epsilon_{max}}{R}\cdot Sen(\omega\cdot t)
+```
+
+La ecuación se lee, I = épsilon / R = (épsilon máx. / R) ∙ sen (omega ∙ t).
+
+De acuerdo con el valor máximo del seno, entonces:
+
+```latex
+I=\frac{\epsilon_{max}}{R}
+```
+
+La ecuación se lee, I = épsilon máx. / R.
+
+#### Ejemplo
+
+Una bobina formada por 500 espiras circulares de radio 5 cm gira a 300 r.p.m. en el interior de un campo magnético de 5×10 −3 T. Si la bobina se conecta a un foco cuya resistencia es de 300 V, ¿cuál es la máxima intensidad de corriente que pasa por ella?
+
+Solución
+
+Para calcular el valor máximo de la fem, debemos determinar el área:
+
+A = π∙r2=π∙(5×10 −2)2 = 7,9×10 −3 m
+
+La velocidad angular es:
+
+ω = 300.r.p.m∙2π/60 = 31,4 rad/s
+
+Aplicando la ecuación para hallar la fem máxima para una bobina de N espiras, tenemos que épsilon máximo es:
+
+ε máx= (500)(5×10 −3 T)∙(7,9×10 −3 m²)∙(31,4 rad/s)
+
+Al calcular
+
+ε máx = 0,6 V
+
+Aplicando la ecuación de la ley de Ohm, tenemos:
+
+I = ε máx /R = 0,6V/300 Ω (ohm) = 2×10 −3 A
+
+La máxima intensidad de corriente generada es 2×10 −3 A.
+
+### El transformador
+
+Al observar las indicaciones técnicas de muchos aparatos eléctricos utilizados a diario, es posible encontrar que se especifica el voltaje al cual puede someterse para que funcione, es decir, el voltaje que tiene el generador del circuito.
+
+Los aparatos eléctricos que se conectan a la red eléctrica, reciben un voltaje residencial de 110 V suministrado por la compañía de energía eléctrica en nuestro país. Así mismo, ciertos aparatos que funcionan con un voltaje menor y una corriente continua, suministrada por las pilas, pueden conectarse a la red eléctrica y funcionar sin llegar a ocasionar algún daño en el aparato.
+
+Para tal efecto, emplean la ayuda de un elemento denominado transformador, que modifica y rectifica la corriente eléctrica. El transformador convierte la corriente de la red eléctrica en una corriente con menor diferencia de potencial y el rectificador, convierte la corriente alterna en continua.
+
+Un transformador está compuesto de dos partes: el devanado primario (primera bobina) y el devanado secundario (segunda bobina), tal como se representa en la siguiente figura.
+
+Cuando circula corriente alterna por el primario, se induce una corriente alterna al secundario. Si el transformador es un reductor de voltaje, la cantidad de espiras en el primario será mayor que en el secundario, por lo cual la corriente inducida presentará un menor voltaje que el inicial. Pero, si el transformador es un elevador de voltaje, el secundario tendrá mayor cantidad de espiras y por tanto, un mayor voltaje.
+
+La relación entre el voltaje proporcionado por el generador a la bobina primaria (V1) y el voltaje obtenido de salida (V2) es:
+
+V2=N2/N1 ∙V1
+
+Según la ley de Faraday, la relación entre la fuerza electromotriz inducida y el número de espiras es:
+
+```latex
+\frac{\epsilon_{2}}{\epsilon_{1}}=\frac{N_{2}}{N_{1}}
+```
+
+La ecuación se lee, épsilon 2 / épsilon 1 = N2 mayúscula / N1 mayúscula.
+
+Si suponemos que la resistencia del conductor es despreciable y por lo tanto, el efecto Joule no se percibe, seguramente la potencia suministrada a la bobina primaria debe ser igual a la potencia suministrada a la bobina secundaria. Como la potencia eléctrica es P = i ∙ V, obtenemos:
+
+i1 ∙ V1 = i2 ∙ V2
+
+#### Ejemplo
+
+Se quiere construir un transformador reductor de voltaje a 12 V. Si la bobina primaria tiene 100 espiras y se alimenta con un voltaje de 120 V, calcular:
+
+a. El número de espiras en la bobina secundaria.
+
+b. La intensidad de corriente que pasa por la bobina secundaria si por la primaria pasan 0,2 A.
+
+Solución
+
+a. Si no hay efecto Joule en las bobinas, el número de espiras en la bobina secundaria está dado por la expresión:
+
+V2=N2/N1 ∙V1
+
+Remplazando:
+
+(120 V)/(12 V) = (100 espiras)/N2
+
+Despejando N2 y calculando:
+
+N2 = 10 espiras
+
+El número de espiras en la bobina secundaria es 10.
+
+b. Para hallar la intensidad de corriente en cada bobina, tenemos:
+
+i1 ∙ V1 = i2 ∙ V2
+
+Al remplazar y calcular
+
+0,2 A∙120 V = i2∙12 V
+
+i2 = 2 A
+
+Por la bobina secundaria pasa una corriente de 2 A.
+
+## La síntesis de Maxwell
+
+A finales del siglo XVIII y durante el siglo XIX, los fenómenos eléctricos y magnéticos fueron el quehacer diario de los físicos de la época. El uso del concepto de campo magnético y eléctrico solo se difundió hasta cuando James Clerk Maxwell demostró que todos los fenómenos eléctricos y magnéticos podían describirse y sintetizarse en tan solo cuatro ecuaciones:
+
+- La primera ecuación relaciona la carga y la distribución del campo magnético. Incluye la ley de Coulomb pero es más general, ya que abarca cargas en movimiento. Esta ecuación es la ley de Gauss en la que el flujo eléctrico es igual a la carga neta encerrada en la superficie (Q) sobre la constante de permisividad en el espacio vacío ε0 (épsilon 0).
+
+- La segunda ecuación es la aplicación de la ley de Gauss al campo magnético que corrobora la inexistencia de monopolos magnéticos y establece que las distribuciones de fuentes magnéticas son siempre neutras en el sentido de que posee un polo norte y un polo sur, por lo que su flujo a través de cualquier superficie cerrada es nulo.
+
+- La tercera ecuación corresponde a la ley de Faraday, en donde un campo eléctrico es producido por un campo magnético fluctuante.
+
+- La cuarta ecuación es la ley de Faraday aplicada al campo magnético, que determina que un campo magnético es producido por un campo eléctrico fluctuante.
+
+A partir de las dos últimas ecuaciones, Maxwell concluyó que el resultado neto de estos dos campos variantes, eléctricos y magnéticos, es la producción de una onda electromagnética que se propaga por el espacio, definiendo de esta manera la composición electromagnética de luz. En general, las ondas electromagnéticas se originan en cargas eléctricas aceleradas y de acuerdo con su frecuencia pueden ser de radio, ultravioleta, infrarroja, etc.
+
+## Desarrolla tus competencias
+
+1. Habitualmente los imanes tienen pintado el polo norte con un color y el polo sur con otro. Si se rompe un imán justo por la zona que separa los colores, ¿habremos separado el polo norte del polo sur del imán? Justifica tu respuesta.
+
+2. Si frotamos una aguja de hierro contra un imán siempre en el mismo sentido, la aguja adquiere propiedades magnéticas. Esas propiedades desaparecen con el tiempo y muy rápidamente si ponemos la aguja en una llama. Explica estos fenómenos.
+
+3. A partir de la forma en que se orienta la aguja de una brújula dentro de un campo magnético explica por qué se puede concluir que el polo sur magnético de la Tierra se encuentra cerca del polo norte geográfico.
+
+4. Un circuito formado por una espira circular de 10 cm de radio, se encuentra en el interior de un campo magnético de 8×10 −4 T y es perpendicular a él. Si en una centésima de segundo el campo magnético disminuye a 8×10 −4 T, calcula la fuerza electromotriz inducida.
+
+5. Algunos experimentos llevados a cabo con pájaros parecen indicar que ellos poseen la capacidad de orientarse con respecto a un campo magnético. En estos experimentos se capturaron aves migratorias y fueron colocadas en jaulas. Estando en las jaulas, todavía tendían a orientarse en la dirección de su vuelo migratorio, pero cuando se les colocaron grandes bobinas a cada lado de la jaula para cambiar la dirección del campo magnético terrestre, las aves cambiaron su orientación.
+
+  a. ¿Vale la pena el uso de animales para realizar experimentos?
+
+  b. ¿Qué beneficios obtiene el hombre de saber que las aves se orientan con el campo magnético?
+
+  c. Averigua qué otros animales son sensibles al campo magnético de la Tierra.
+
+6. Responde. ¿Crees que el descubrimiento de que es posible generar campos magnéticos usando corriente eléctrica es un gran adelanto?
+
+7. Dos conductores paralelos transportan corriente en la misma dirección, ¿será que se atraen o se repelen?
+
+8. Si no existiera el campo magnético terrestre muchas cosas no funcionarían. Explica cómo crees que sería la vida en la Tierra sin campo magnético.
+
+9. Responde. ¿Crees que los campos magnéticos producidos por los celulares, computadores o televisores son dañinos para el hombre? Consulta sobre el tema.
+
+10. Los aceleradores de partículas funcionan gracias a campos magnéticos que son los encargados de mover las partículas a velocidades cercanas a la de la luz. Al hacer chocar las partículas a grandes velocidades se obtienen sub-partículas, pero se cree que su funcionamiento es de gran riesgo para la Tierra. Consulta sobre el tema y realiza un debate con tus compañeros de clase.
+
+## Actividades
+
+1. Escribe V, si la afirmación es verdadera o F, si es falsa. Justifica tu respuesta.
+
+a. La temperatura a la cual los imanes pierden sus propiedades magnéticas se llama temperatura de Curie.
+
+b. El polo norte de un imán apunta al sur magnético de la Tierra.
+
+c. Las líneas de campo de un imán se dirigen de sur a norte en el interior del imán.
+
+d. La fuerza magnética es paralela al campo magnético.
+
+e. En el espectrógrafo de masas, la masa depende de la trayectoria que describe la partícula cuando actúa sobre ella un campo magnético.
+
+f. La intensidad del campo magnético no depende de la intensidad de corriente generada sobre un material conductor.
+
+g. La fuerza magnética es directamente proporcional al campo magnético generado sobre un conductor.
+
+h. Entre cargas eléctricas actúan siempre fuerzas magnéticas.
+
+2. Tienes cuatro imanes de barra, ¿cómo los ordenarías para formar un cuadrado estable?
+
+3. Los televisores de pantalla de vidrio utilizan campos magnéticos para mostrar imágenes, ¿cuántos campos magnéticos utilizan? Responde. ¿Por qué las bobinas de los transformadores están enrolladas en un núcleo de hierro?
+
+4. Un imán se acerca a una espira enfrentando su polo sur. Realiza un esquema indicando cómo son las líneas de campo del imán.
+
+5. Responde. ¿Por qué se utiliza limaduras de hierro para visualizar el campo magnético? ¿Se podría usar las de cualquier otro metal?
+
+6. Además de los imanes, las cargas eléctricas también producen campos magnéticos. ¿En qué condiciones sucede esto?
+
+7. Responde. ¿Es posible que una partícula cargada sometida a la acción de un campo electrostático tenga movimiento uniforme? ¿Y si la partícula está sometida a la acción de un campo magnético?
+
+8. Una partícula con carga q, penetra en una región en la que existe un campo magnético perpendicular a la dirección del movimiento. Analiza el trabajo realizado por la fuerza magnética y la variación de energía cinética de la partícula.
+
+9. Define qué es una corriente eléctrica inducida y explica en qué se diferencia de una corriente convencional.
+
+10. Una corriente eléctrica consiste en un movimiento de cargas a través de un conductor. Para que se produzca es necesario que un generador suministre energía a las cargas. Acercando un imán a un hilo de corriente cerrado se puede inducir una corriente sin que exista un generador. ¿Es un ejemplo de generación espontánea de energía?
+
+11. Escribe V, si el enunciado es verdadero o F, si es falso. Justifica tu respuesta.
+
+a. Todo campo magnético genera una corriente eléctrica.
+
+b. Faraday concluyó que al acercar y alejar el imán del conductor no hay cambio en las líneas de campo magnético que atraviesa la espira.
+
+c. La fuerza electromotriz inducida depende de la variación del campo magnético que atraviesa a un circuito.
+
+d. El transformador convierte la corriente de la red eléctrica en una corriente con menor diferencia de potencial.
+
+e. Para que un motor de corriente continua funcione es necesario alimentarlo con corriente mediante colectores.
+
+12. Responde. ¿Qué sucede cuando circula la corriente eléctrica por un conductor situado en el interior de un imán de herradura?
+
+13. Responde. ¿Qué diferencia hay entre el inductor y el inducido de un motor eléctrico?
+
+## Problemas
+
+1. Una partícula cargada con q = 20 μC (mu C) ingresa perpendicularmente a un campo uniforme de 1 T, con una velocidad de 2 × 10 6 m/s. Calcula la intensidad de la fuerza magnética que actúa sobre la carga.
+
+2. Una espira de alambre de 50 cm de radio y que transporta una corriente de 2 A, está en un campo magnético uniforme de 0,4 T. Determina el torque máximo que actúa sobre la espira.
+
+3. Calcula la dirección y la intensidad del campo magnético generado en el punto P que se encuentra formando un ángulo de 37° con la normal al extremo inferior de una barra conductora que lleva una corriente de 3 A hacia abajo.
+
+4. Responde. ¿A qué distancia de un alambre conductor por el cual circula una corriente de 95 A, actúa un campo magnético de 1,2 × 10 −4 T?
+
+5. Calcula la intensidad de un campo magnético en el centro de una espira de radio 10 cm que transporta una corriente de 5 A.
+
+6. Sobre un alambre de 50 cm de longitud actúa un campo magnético de 0,0005 T en dirección horizontal. Si por el conductor circula una corriente de 0,2 A, ¿cuál es el valor de la fuerza que experimenta el conductor?
+
+7. En el interior de un campo magnético constante de 0,8 T se encuentra un conjunto de 10 espiras rectangulares de área 0,01 m2. Calcula entre qué valores oscilará la fuerza electromotriz inducida cuando la espira se haga girar con una velocidad angular en rad/s.
+
+8. En el interior de un generador tenemos 200 espiras de área máxima 0,01 m2 expuestas al campo magnético de 2 T. Calcula entre qué valores oscilará la fuerza electromotriz inducida cuando la espira se haga girar con una velocidad angular de 6π rad/s.
+
+# Bibliografía
+
+blogspot, A. d. (s.f.). elblogdeangeldejesus.blogspot.com . Recuperado el 1 de Diciembre de 2015, de upload.wikimedia.org/wikipedia: upload.wikimedia.org/wikipedia/commons/4/40/Cargas3.PNG
+
+Nacional, M. d. (2004). Estándares básicos de competencias en Ciencias Sociales y Ciencias Naturales. Bogotá: Ministerio de Educación Nacional MEN.
+
+Pires de Camargo, E., Nardi, R., & Rodriges de Viveros, E. (2012). Análisis del proceso inclusivo del alumno ciego en clases de física moderna. Góndola, 6-31.
+
+Romero Medina, O. L., & Bautista Ballén, M. (2011). Hipertexto Físca 2. Bogotá, Colombia: Santillana.
+
+www.sc.ehu.es. (s.f.). www.sc.ehu.es/sbweb/fisica/elecmagnet/electrico/Celec_1.gif . Recuperado el 2 de Diciembre de 2015, de mind42.com/mindmap: http://mind42.com/mindmap/7c386977-d39e-43af-bafc-ad5b6bbc4861?rel=pmb

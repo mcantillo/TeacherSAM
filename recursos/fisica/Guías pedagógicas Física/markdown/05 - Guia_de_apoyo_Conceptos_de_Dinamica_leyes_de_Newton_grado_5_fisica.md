@@ -1,0 +1,2546 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Conceptos de dinámica leyes de Newton grado 5º
+
+de educación básica primaria
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+# Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+Las ecuaciones se encuentran de tal manera que el estudiante se familiarice con los exponentes y las igualdades. El grado de dificultad de las ecuaciones no pasa de una multiplicación o una división y además contiene una explicación extra de lectura.
+
+En cada capítulo encontrará las secciones “Examínate” que consiste en preguntas o ejercicios para responder junto con la lectura. A continuación encontrará la respuesta que se sugiere para comparar y comprobar los avances de la lectura.
+
+Al final de cada capítulo encontrará una serie de problemas y ejercicios de todas las secciones leídas. A lo largo de la lectura de esta guía encontrarás números en notación científica, así que se sugiere estudiar o repasar el tema para mejor comprensión.
+
+Los laboratorios sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Contenido
+
+# Tabla de Ilustraciones
+
+Imagen 1. Una mano empujando la mano de otra persona 11
+
+Imagen 2. Una persona apoyándose contra una pared 12
+
+Imagen 3. Boxeador golpeando a un saco de arena 13
+
+Imagen 4. Un camión y un automóvil estrechados 14
+
+Imagen 5. Automóvil y cohete moviéndose 15
+
+Imagen 6. Una naranja está sobre un carrito 16
+
+Imagen 7. Manzana jalando a la naranja 17
+
+Imagen 8. Manzana jalando a la naranja un sistema 18
+
+Imagen 9. Manzana jalando a la naranja dentro de línea punteada 18
+
+Imagen 10. Pié patea balón de futbol americano 19
+
+Imagen 11. Pies patean balón de futbol americano 20
+
+Imagen 12. Un cañón a punto de disparar 23
+
+Imagen 13. Un globo desinflándose 24
+
+Imagen 14. Gansos volando en formación de u Ve 26
+
+Imagen 15. Grupo de niñas y niños jalan cuerda 28
+
+Imagen 16. Dos vectores puestos perpendicularmente 30
+
+Imagen 17. Vista superior de dos fuerzas horizontales 31
+
+Imagen 18. Nelly cuelga de una cuerda 32
+
+Imagen 19. Descomposición de vectores 35
+
+Imagen 20. Un boxeador recibiendo un golpe 52
+
+Imagen 21. Rueda Pelton 55
+
+Imagen 22. Choques elásticos entre bolas 60
+
+Imagen 23. Un preso empuja la pared 78
+
+Imagen 24. Energía Potencial 85
+
+Imagen 25. Transiciones de la energía en un péndulo 89
+
+Imagen 26. Acróbata en la cúspide 95
+
+Imagen 27. La palanca 97
+
+Imagen 28. Garrucha 99
+
+Imagen 29. Energía geotérmica 105
+
+Imagen 30. Orbitas Sol, Luna y Tierra 123
+
+Imagen 31. Imagen 31. Isaac Newton debajo de árbol de manzanas 126
+
+Imagen 32. Método de Jolly para medir G 128
+
+Imagen 33. Esfera una altura sobre la cabeza de persona 135
+
+Imagen 34. La Tierra girando alrededor de su eje 137
+
+Imagen 35. Espacio-tiempo deformado 140
+
+Imagen 36. Componentes vertical y horizontal de la velocidad 154
+
+Imagen 37. Un cañón dispara una bala horizontal 156
+
+Imagen 38. Un cañón dispara un proyectil 158
+
+Imagen 39. Método sencillo para trazar una elipse 169
+
+# CAPÍTULO 1: Tercera ley de Newton del movimiento
+
+¡Para pensar! Paula jala con un dedo y Alberto jala con ambas manos. La pregunta que ellos hacen en su clase de física es “¿quién ejerce más fuerza sobre la báscula que están jalando al tiempo?”
+
+Deja caer una hoja de pañuelo desechable frente al campeón mundial de boxeo de peso completo y rétalo a que la golpee cuando está en el aire, aunque sea con una fuerza de 50 libras (222 Newtons o 222 N). Discúlpalo, el campeón no lo podrá hacer. De hecho, ni siquiera su mejor golpe podría acercarse a esa cantidad. ¿Por qué? En este capítulo veremos que el pañuelo desechable no tiene la inercia suficiente como para tener una interacción de 50 libras con el puño del campeón.
+
+## Fuerzas e interacciones
+
+Hasta aquí hemos estudiado la fuerza en su sentido más sencillo: como un empuje o un tirón. Sin embargo, ni el empuje ni el tirón ocurren aislados. Cada fuerza es parte de una interacción entre una cosa y otra. Si empujas una pared con los dedos sucede algo más que eso. Estás interactuando con la pared, la cual también te empuja. Esto se nota cuando tus dedos se flexionan, como en la Imagen 1.
+
+*Imagen 1. Una mano empujando la mano de otra persona*
+
+Descripción de la Imagen 1. Una mano empujando la mano de otra persona con las palmas, y otra mano que empuja a una pared con su palma. Puedes sentir que tus dedos son empujados por los dedos de tu amigo. También sientes la misma cantidad de fuerza cuando empujas una pared y ésta te empuja. Entonces no puedes empujar la pared, ¡a menos que ésta también te empuje a ti!
+
+De manera que interviene un par de fuerzas: tu empuje sobre el muro y el empuje que te devuelve el muro. Estas fuerzas son de igual magnitud (tienen el mismo valor) y dirección contraria, y forman una interacción simple. De hecho no puedes empujar la pared a menos que ésta te regrese el empujón.
+
+Considera a un boxeador que golpea un saco de arena. Su puño golpea el saco de arena (y lo deforma), y al mismo tiempo el saco pega contra el puño (y detiene su movimiento). Al golpear el saco de arena interviene un par de fuerzas. El par de fuerzas puede ser muy grande. Pero, ¿y si quiere golpear una hoja de pañuelo desechable, como se dijo antes? El puño del boxeador sólo ejercería una fuerza sobre el papel que iguale la fuerza que el papel ejerce sobre el puño. Es decir, el puño no puede ejercer fuerza alguna, a menos que aquello a lo que pegue le devuelva la misma cantidad de fuerza. Una interacción requiere de un par de fuerzas que actúen sobre dos objetos distintos.
+
+Otros ejemplos: Tiras de un carrito y éste acelera. Pero al hacerlo el carrito tira de ti, como quizá lo puedas sentir si te envuelves la mano con la cuerda tensada. Un martillo le pega a una estaca y la mete en el suelo.
+
+*Imagen 2. Una persona apoyándose contra una pared*
+
+Descripción de la Imagen 2. Una persona apoyándose con su brazo extendido contra una pared. Cuando te recargas contra una pared, ejerces sobre ella una fuerza. Al mismo tiempo, la pared ejerce una fuerza igual y opuesta sobre ti. Por ello no te caes.
+
+Al hacerlo, la estaca ejerce una cantidad igual de fuerza sobre el martillo, lo cual hace que éste se pare de manera repentina. Una cosa interacciona con la otra: tú con el carrito o el martillo con la estaca. ¿Qué ejerce la fuerza y qué la recibe? La respuesta de Isaac Newton fue que ninguna de las fuerzas necesita identificar como “lo que ejerce” o “lo que recibe”, y llegó a la conclusión de que ambos objetos deben considerarse por igual. Por ejemplo, cuando tiras del carrito, al mismo tiempo el carrito tira de ti. Este par de fuerzas, tu tirón al carrito y el tirón del carrito sobre ti, forman una interacción simple entre tú y el carrito. En la interacción entre el martillo y la estaca, el martillo ejerce una fuerza contra la estaca, pero se detiene en el proceso. Estas observaciones guiaron a Newton a formular su tercera ley del movimiento.
+
+*Imagen 3. Boxeador golpeando a un saco de arena*
+
+Descripción de la Imagen 3. Boxeador golpeando a un saco de arena, y al lado el mismo boxeador golpeando una hoja. El boxeador puede golpear el saco de arena con gran fuerza, pero con el mismo golpe sólo puede ejercer una fuerza diminuta sobre el pañuelo desechable en el aire.
+
+## Tercera ley de Newton del movimiento
+
+La tercera ley de Newton establece:
+
+Siempre que un objeto ejerce una fuerza sobre un segundo objeto, el segundo objeto ejerce una fuerza de igual magnitud y dirección opuesta sobre el primero.
+
+Entonces podemos identificar una fuerza de acción y una fuerza de reacción, y expresar la tercera ley de Newton como sigue:
+
+A cada acción siempre se opone una reacción igual.
+
+No importa cuál fuerza sea la de acción y cuál la de reacción. Lo que interesa es que constituyen una sola interacción y que ninguna fuerza existe sin la otra.
+
+Dato curioso: Presiona tus dedos entre sí y notarás que, conforme presionas más fuerte, ambos pierden color con igual intensidad. ¡Ajá, ambos experimentan una fuerza de igual magnitud! ¡Eureka!
+
+Tú interactúas con el piso al caminar sobre él. Tu empuje contra el piso se acopla al empuje del piso contra ti. El par de fuerzas se forma al mismo tiempo (son simultáneas). De igual manera, los neumáticos y el asfalto se empujan entre sí. Al nadar interaccionas con el agua, la cual empujas hacia atrás, mientras que el agua te empuja hacia delante al mismo tiempo; y tú y el agua se empujan entre sí. En estos casos, las fuerzas de reacción son las que causan el movimiento. Esas fuerzas dependen de la fricción: una persona o un automóvil en el hielo, por ejemplo, podrían no llegar a ejercer la fuerza de acción que produzca la fuerza de reacción necesaria. Ninguna fuerza existe sin la otra.
+
+*Imagen 4. Un camión y un automóvil estrechados*
+
+Descripción de la Imagen 4. Un camión y un automóvil están estrechados frontalmente. En la interacción entre el automóvil y el camión, ¿la fuerza de impacto es la misma en cada uno?
+
+Fuerzas de acción y reacción. Observa a continuación que cuando la acción es “A ejerce fuerza sobre B”, la reacción es simplemente “B ejerce fuerza sobre A”.
+
+*Imagen 5. Automóvil y cohete moviéndose*
+
+Descripción de la Imagen 5. Automóvil y cohete moviéndose. Una flecha que se proyecta desde una llanta apunta en la dirección del movimiento del automóvil y otra igual en sentido contrario. Del propulsor del cohete hay una flecha que se proyecta en el sentido del movimiento, y otra en sentido contrario.
+
+Acción: el neumático empuja el pavimento Reacción: el pavimento empuja el neumático. Acción: el cohete empuja los gases. Reacción: los gases empujan el cohete.
+
+Otros ejemplos: acción: el hombre tira de un resorte. Reacción: el resorte tira del hombre. Acción: la Tierra tira de la pelota. Reacción: la pelota tira de la Tierra
+
+#### Examínate
+
+¿Un misil en movimiento posee fuerza?
+
+#### Comprueba tu respuesta
+
+No, una fuerza no es algo que un objeto tenga, como masa; pero es parte de una interacción entre dos objetos. Un misil en movimiento tiene la capacidad de ejercer una fuerza sobre otro objeto, cuando sucede la interacción, pero no posee fuerza en sí mismo. Como veremos en los siguientes capítulos, un misil en movimiento tiene cantidad de movimiento y energía cinética.
+
+### Definición de tu sistema
+
+Con frecuencia surge una interesante pregunta: si las fuerzas de acción y de reacción son iguales en magnitud y opuestas en dirección, ¿por qué no se anulan? Para contestarla debemos definir el sistema que interviene.
+
+*Imagen 6. Una naranja está sobre un carrito*
+
+Descripción de la Imagen 6. Una naranja está sobre un carrito, y se proyecta una flecha hacia la derecha desde el frente del carrito. El sistema está encerrado en un cuadro con líneas punteadas. Una fuerza actúa sobre la naranja, y la naranja acelera hacia la derecha.
+
+Considera, por ejemplo, un sistema que consiste de una sola naranja, como el de la Imagen 6. La línea punteada que rodea la naranja encierra y define el sistema. El vector que apunta hacia fuera de la línea punteada representa una fuerza externa al sistema. El sistema acelera de acuerdo con la segunda ley de Newton. En la Imagen 7 vemos que esta fuerza es proporcionada por una manzana, la cual no altera nuestro análisis. La manzana es externa al sistema. El hecho de que la naranja ejerza al mismo tiempo una fuerza sobre la manzana, que es externa al otro sistema, puede afectar a la manzana (el otro sistema), pero no a la naranja. La fuerza sobre la naranja no se anula con la fuerza sobre la manzana. Así que, en este caso, las fuerzas de acción y de reacción no se anulan.
+
+*Imagen 7. Manzana jalando a la naranja*
+
+Descripción de la Imagen 7. La misma naranja anterior, pero ahora fuera del recuadro con línea punteada aparece una manzana jalando a la naranja. Una flecha hacia la izquierda se proyecta desde las manos de la manzana hasta encontrarse con la flecha de la naranja que apunta a la derecha. La fuerza sobre la naranja, la proporciona la manzana, ésta no se anula por la fuerza de reacción sobre la manzana; así que la naranja acelera.
+
+Consideremos ahora un sistema más grande, que abarque tanto a la naranja como a la manzana. Observamos que el sistema está rodeado por una línea punteada de la Imagen 8. Note que el par de fuerzas es interno al sistema naranja-manzana. Entonces, las fuerzas sí se anulan entre sí. No juegan ningún papel en la aceleración del sistema. Se requiere una fuerza externa al sistema para lograr aceleración. Es donde se presenta la fricción con el piso (Imagen 9). Cuando la manzana empuja contra el piso, éste simultáneamente empuja contra la manzana: una fuerza externa al sistema. Entonces, el sistema acelera hacia la derecha.
+
+*Imagen 8. Manzana jalando a la naranja un sistema*
+
+Descripción de la Imagen 8. La misma manzana jalando a la naranja de antes. Pero ahora el borde con línea punteada encierra a la naranja y a la manzana. En el sistema más grande de naranja + manzana, las fuerzas de acción y de reacción son internas y se anulan. Como éstas son sólo las fuerzas horizontales, sin fuerza externa, no hay aceleración del sistema.
+
+*Imagen 9. Manzana jalando a la naranja dentro de línea punteada*
+
+Descripción de la Imagen 9. La misma manzana jalando a la naranja de antes dentro del borde con línea punteada. Afuera de la línea punteada hay una flecha hacia la derecha. Una fuerza horizontal externa ocurre cuando el piso empuja sobre la manzana (la reacción al empuje de la manzana sobre el piso). El sistema naranja-manzana acelera.
+
+Dentro de un balón de fútbol americano hay billones y billones de fuerzas interatómicas en juego, que lo mantienen unido; pero no son responsables de acelerarlo. Aunque cada una de las fuerzas interatómicas forma parte de un par acción-reacción dentro del balón, al combinarse dan cero, sin importar cuántas sean. Se necesita una fuerza externa al balón, como una patada, para acelerarlo. En la Imagen 10 se observa una sola interacción entre el pie y el balón.
+
+*Imagen 10. Pié patea balón de futbol americano*
+
+Descripción de la Imagen 10. Pié “A” patea balón de futbol americano “B”. A actúa sobre B, y B acelera.
+
+Sin embargo, el balón de la Imagen 11 no acelera. En este caso, tienen lugar dos interacciones, es decir, dos fuerzas que actúan sobre el balón. Si son simultáneas, iguales y opuestas, entonces la fuerza neta será cero.
+
+*Imagen 11. Pies patean balón de futbol americano*
+
+Descripción de la Imagen 11. Pié “A” patea hacia la derecha a un balón de futbol americano “B”, y a la vez el pié “C” patea el balón hacia la izquierda. Tanto A como C actúan sobre B. Es posible que se anule entre sí, de manera que B no acelere.
+
+¿Las patadas opuestas constituyen un par acción-reacción? No, porque actúan sobre el mismo objeto, no sobre diferentes objetos. Tal vez sean iguales y opuestas, pero, a menos que actúen sobre diferentes objetos, no constituyen un par acción-reacción. ¿Lo comprendes?
+
+Si esto resulta confuso, sería pertinente destacar que el mismo Newton tuvo dificultades con su tercera ley.
+
+Dato curioso: No puedes empujar o jalar algo a menos que ese algo, simultáneamente, empuje sobre ti o te jale. ¡Ésa es la tercera ley! ¡Eureka!
+
+#### Examínate
+
+1. En un día frío y lluvioso el acumulador (batería) de tu automóvil está “muerto”, y debes empujar el vehículo para que arranque. ¿Por qué no puedes empujar cómodamente sentado en el interior y empujando contra el tablero?
+
+2. ¿Por qué un libro que descansa sobre una mesa nunca acelera “espontáneamente” como respuesta a los billones de fuerza interatómicas que actúan dentro de él?
+
+3. Sabemos que la Tierra tira de la Luna. ¿Quiere decir que en consecuencia la Luna también tirará de la Tierra?
+
+4. ¿Puedes identificar las fuerzas de acción y de reacción en el caso de un objeto que cae en el vacío?
+
+#### Comprueba tus respuestas
+
+1. En este caso, el sistema que se debe acelerar es el automóvil. Si te quedas en el interior y empujas el tablero, el par de fuerzas que produces son de acción y reacción dentro del sistema. Estas fuerzas se anulan en lo que concierne al movimiento del vehículo. Para acelerarlo debe haber una interacción entre él y algo externo a él; por ejemplo, que lo empujes desde fuera impulsándote sobre el piso de la calle.
+
+2. Cada una de esas fuerzas interatómicas forma parte de un par acción-reacción dentro del libro. Estas fuerzas se suman y dan cero, independientemente de lo numerosas que sean. Es lo que hace que la primera ley de Newton se aplique al libro. El libro tiene aceleración cero, a menos que una fuerza externa actúe sobre él.
+
+3. Sí, ambas fuerzas forman un par de fuerzas acción-reacción, asociado con la interacción gravitacional entre la Tierra y la Luna. Se puede decir que 1. la Tierra tira de la Luna, y 2. la Luna tira también de la Tierra; pero es mejor imaginar que sólo se trata de una sola interacción: que la Tierra y la Luna tiran simultáneamente entre sí, cada una con la misma cantidad de fuerza.
+
+4. Para identificar en cualquier caso un par de fuerzas de acción-reacción, primero se identifica el par de los objetos que interactúan: el cuerpo A y el cuerpo B. El cuerpo A, el objeto que cae, interactúa (gravitacionalmente) con el cuerpo B, que es toda la Tierra. Entonces, La Tierra tira hacia abajo del objeto (lo llamaremos acción), mientras que el objeto tira hacia arriba de la Tierra (reacción).
+
+### Acción y reacción sobre masas distintas
+
+Por extraño que te parezca, un objeto que cae tira de la Tierra hacia arriba, tanto como la Tierra tira de él hacia abajo. La aceleración resultante del objeto que cae es evidente; en tanto que la aceleración de la Tierra hacia arriba es demasiado pequeña para detectarse. Estrictamente hablando, cuando te bajas de la acera a la calle, ésta siempre se eleva para encontrarse contigo.
+
+El papel de las masas distintas es evidente al disparar un cañón. Al hacerlo hay una interacción entre el cañón y la bala (Imagen 12). Un par de fuerzas actúa tanto en el cañón como en la bala. La fuerza que se ejerce sobre la bala es tan grande como la fuerza de reacción que se ejerce sobre el cañón; por eso éste da un culatazo (retrocede). Como las fuerzas son de igual magnitud, ¿por qué el cañón no retrocede con la misma rapidez con que la bala sale disparada? Al analizar los cambios de movimiento, recordamos que la segunda ley de Newton nos dice que también hay que tener en cuenta las masas que intervienen. Supongamos que F representa el valor de las fuerzas de acción y reacción, m la masa de la bala y m la masa del cañón, que es mayor. Las aceleraciones de la bala y del cañón se calculan con la relación de fuerza entre masa. Las aceleraciones son:
+
+Para la bala: F ÷ m (m pequeña) = a (a grande)
+
+Para el cañón: F ÷ m (m grande) = a (a pequeña)
+
+Esto muestra por qué el cambio en la velocidad de la bala es tan grande en comparación con el cambio de velocidad del cañón. Una fuerza dada ejercida sobre una masa pequeña produce una aceleración grande; en tanto que la misma fuerza ejercida en una masa grande produce una aceleración pequeña.
+
+*Imagen 12. Un cañón a punto de disparar*
+
+Descripción de la Imagen 12. Un cañón a punto de disparar una bala hacia la derecha. Una flecha se proyecta desde la bala hacia la derecha. Una flecha del mismo tamaño apunta hacia la izquierda proyectándose desde el otro extremo del cañón. La fuerza que se ejerce contra el cañón que dispara y que lo hace retroceder es exactamente igual en magnitud que la fuerza que impulsa la bala. ¿Por qué, entonces, la bala acelera más que el cañón?
+
+Como en el ejemplo del objeto que cae, si usáramos símbolos igualmente exagerados para representar la aceleración de la Tierra como reacción a un objeto que cae, el símbolo m de la Tierra tendría un tamaño astronómico. La fuerza F, que es el peso del objeto que cae, dividida entre esta gran masa produciría una a microscópica que representaría la aceleración de la Tierra hacia el objeto que cae.
+
+*Imagen 13. Un globo desinflándose*
+
+Descripción de la Imagen 13. Un globo desinflándose expulsando aire por su abertura se eleva hacia arriba. Cuando se le deja salir el aire el globo retrocede y se eleva.
+
+Si ampliamos la idea del retroceso o culatazo del rifle por la bala que dispara, entenderemos la propulsión en los cohetes. Imagínate un globo inflado que retrocede cuando expulsa el aire (Imagen 13). Si el aire se expulsa hacia abajo, el globo acelera hacia arriba. El mismo principio se aplica a un cohete, el cual continuamente “recibe culatazos” a causa del gas que expulsa. Cada molécula del gas del escape es como una bala diminuta que dispara el cohete.
+
+Una idea errónea común es que el impulso del cohete se debe al impacto de los gases de escape contra la atmósfera. De hecho, antes de la aparición de los cohetes, mucha gente pensaba que era imposible mandar un cohete a la Luna. ¿Por qué? Por la ausencia de una atmósfera contra la que se impulsara el cohete. Pero es como decir que un cañón no puede tener retroceso porque las balas no tienen contra qué empujar. ¡No es verdad! Tanto el cohete como el cañón aceleran por las fuerzas de reacción debidas al material que disparan, no porque empujen sobre el aire. De hecho, un cohete funciona mejor arriba de la atmósfera, donde no hay resistencia de aire que se oponga a su movimiento.
+
+Si aplicamos la tercera ley de Newton entenderemos cómo un helicóptero obtiene su fuerza de sustentación. Las aspas de la hélice tienen una forma tal que empujan las partículas de aire hacia abajo (acción), y el aire empuja a las aspas hacia arriba (reacción). Esta fuerza de reacción hacia arriba se llama sustentación. Cuando ésta es igual al peso del vehículo, el helicóptero se suspende en el aire. Cuando la sustentación es mayor, el helicóptero asciende por el aire.
+
+Esto sucede con las aves y los aeroplanos. Las aves empujan el aire hacia abajo. A su vez, el aire las empuja hacia arriba. Cuando el ave asciende, las alas presentan una forma tal que el movimiento de las partículas de aire se desvía hacia abajo. Las alas de un aeroplano, con una inclinación ligera que desvía hacia bajo el aire que les llega, producen la sustentación del avión. El aire impulsado hacia abajo es el que mantiene la sustentación en forma constante. El abastecimiento de aire se obtiene con el movimiento del avión hacia adelante, debido a que las hélices o los cohetes empujan el aire hacia atrás. Cuando las hélices o los cohetes empujan el aire hacia atrás, el aire a su vez empuja a las hélices o a los cohetes hacia adelante. En otros cursos más avanzados verás que la superficie curva de un ala es aerodinámica, lo cual aumenta la fuerza de sustentación.
+
+Vemos que la tercera ley de Newton se aplica en cualquier parte. Un pez empuja el agua hacia atrás con las aletas, y el agua empuja al pez hacia adelante. El viento empuja contra las ramas de un árbol, y las ramas le regresan el empuje al viento, produciendo silbidos. Las fuerzas son interacciones entre cosas distintas. Todo contacto requiere cuando menos una paridad: No hay forma de que un objeto ejerza una fuerza sobre nada. Las fuerzas, sean grandes empellones o leves codazos, siempre se dan en pares, y cada una de ellas es opuesta a la otra. De manera que no podemos tocar sin ser tocados.
+
+*Imagen 14. Gansos volando en formación de u Ve*
+
+Descripción de la Imagen 14. Gansos volando en formación de “V”. Los gansos vuelan en formación “V”, porque el aire que empujan hacia abajo con las puntas de sus alas se regresa, y al subir crea una corriente de aire hacia arriba que tiene más intensidad fuera del costado del ave. Un ave retrasada tiene mayor sustentación si se coloca en esta corriente ascendente, empuja el aire hacia abajo y crea otra corriente ascendente para el siguiente ganso, y así sucesivamente. El resultado es un vuelo en bandada con formación V (letra V mayúscula).
+
+#### Examínate
+
+1. Un automóvil acelera por una carretera. Identifica la fuerza que lo mueve.
+
+2. Un autobús muy veloz y un inocente insecto chocan de frente. La fuerza del impacto aplasta al pobre insecto contra el parabrisas. ¿La fuerza correspondiente que ejerce el insecto sobre el parabrisas es mayor, menor o igual al que ejerce el parabrisas sobre él? ¿La desaceleración del autobús es mayor, menor o igual que la del insecto?
+
+#### Comprueba tus respuestas
+
+1. El asfalto (la carretera) es lo que impulsa al automóvil. ¡De veras! Aparte de la resistencia del aire, sólo el asfalto proporciona la fuerza horizontal al automóvil. ¿Cómo lo hace? Los neumáticos que giran impulsan la carretera hacia atrás (la acción). Al mismo tiempo, la carretera impulsa los neumáticos hacia adelante (reacción). ¿Qué te parece?
+
+2. Las magnitudes de ambas fuerzas son iguales, porque forman un par de fuerzas de acción-reacción que constituye la interacción entre el autobús y el insecto. Sin embargo, las aceleraciones son muy distintas, porque las masas que intervienen son distintas. El insecto sufre una desaceleración enorme y letal; en tanto que el autobús sufre una desaceleración muy diminuta, tan diminuta que los pasajeros no la perciben. Pero si el insecto tuviera más masa, por ejemplo la masa de otro autobús, ¡esa desaceleración por desgracia sería muy evidente! (¿Puedes ver la maravilla de la física aquí? Aunque son muy diferentes el insecto y el autobús, la cantidad de fuerza que cada uno encuentra es la misma. ¡Sorprendente!)
+
+#### Práctica de Física
+
+Juego de tirar la cuerda: jueguen a tirar de la cuerda entre chicos y chicas, sobre un piso pulido que esté algo resbaloso. Los chicos deberán usar sólo calcetines, y las chicas, zapatos con suela de goma. ¿Quiénes ganarán con seguridad y por qué? (Sugerencia: ¿quiénes ganan en el juego de tirar de la cuerda? ¿Los que tiran de ella más fuerte o quienes empujan con más fuerza contra el piso?)
+
+*Imagen 15. Grupo de niñas y niños jalan cuerda*
+
+Descripción de la Imagen 15. Grupo de niñas contra grupo de niños jalan la misma cuerda cada grupo en un extremo.
+
+## Resumen de las tres leyes de Newton
+
+La primera ley de Newton es la ley de la inercia: Un objeto en reposo tiende a permanecer en reposo; un objeto en movimiento tiende a permanecer en movimiento con rapidez constante y con trayectoria rectilínea. A esta propiedad de los objetos para resistir cambios de movimiento se le llama inercia. La masa es una medida de la inercia. Los objetos sufren cambios de movimiento sólo en presencia de una fuerza neta.
+
+La segunda ley de Newton es la ley de la aceleración: Cuando una fuerza neta actúa sobre un objeto, el objeto acelera. La aceleración es directamente proporcional a la fuerza neta, e inversamente proporcional a la masa. En símbolos, a = F ÷ m. La aceleración siempre tiene la dirección de la fuerza neta. Cuando los objetos caen en el vacío, la fuerza neta no es más que el peso, y la aceleración es g (el símbolo g representa que la aceleración sólo se debe a la gravedad). Cuando los objetos caen en el aire, la fuerza neta no es más que el peso menos la fuerza de resistencia del aire, y la aceleración es menor que g. Cuando la resistencia del aire es igual al peso de un objeto que cae, la aceleración termina y el objeto cae con rapidez constante (que se llama rapidez terminal).
+
+La tercera ley de Newton es la ley de acción-reacción: Siempre que un objeto ejerce una fuerza sobre un segundo objeto, el segundo objeto ejerce una fuerza de igual magnitud y dirección opuesta sobre el primero. Las fuerzas se presentan en pares, una es la acción y la otra la reacción, y ambas forman la interacción entre un objeto y el otro. La acción y la reacción siempre ocurren simultáneamente y actúan sobre objetos distintos. Ninguna fuerza existe sin la otra.
+
+Las tres leyes de Isaac Newton del movimiento son las reglas de la naturaleza que nos permiten maravillarnos por la manera en que muchas cosas se conectan entre sí. Vemos estas reglas en acción en nuestro ambiente cotidiano.
+
+## Vectores
+
+Hemos aprendido que cualquier cantidad que requiera tanto magnitud como dirección para su descripción completa es una cantidad vectorial. Entre los ejemplos de cantidades vectoriales están la fuerza, la velocidad y la aceleración. En cambio, una cantidad que se describe sólo con su magnitud, y no implica dirección, se llama cantidad escalar. La masa, el volumen y la rapidez son cantidades escalares.
+
+Una cantidad vectorial se representa con una flecha. Cuando la longitud (a escala) de la flecha representa la magnitud de la cantidad, y la dirección indica la dirección de la cantidad, se dice que la flecha es un vector.
+
+La suma de vectores con direcciones paralelas es sencilla: Si tienen la misma dirección, se suman; si tienen direcciones opuestas, se restan. La suma de dos o más vectores se denomina la resultante. Para determinar la resultante de dos vectores que no tienen exactamente la misma dirección o la opuesta, se usa la regla del paralelogramo. Se traza un paralelogramo donde los dos vectores sean lados adyacentes, y la diagonal del paralelogramo representa la resultante. En la Imagen 16 los paralelogramos son rectángulos.
+
+*Imagen 16. Dos vectores puestos perpendicularmente*
+
+Descripción de la Imagen 16. Dos vectores son puestos perpendicularmente de manera que el inicio de cada uno coincide. A estos dos vectores, se les completa con líneas punteadas de tal manera que formen un rectángulo. El par de vectores que forman un ángulo recto también forma dos lados de un rectángulo. La diagonal del rectángulo es su resultante.
+
+En el caso especial en que los dos vectores son de igual magnitud y perpendiculares entre sí, el paralelogramo es un cuadrado. Ya que para todo cuadrado la longitud de una diagonal es igual a √2, o 1,41, por uno de los lados, la resultante es igual a √2 veces uno de los vectores. Por ejemplo, la resultante de dos vectores iguales con magnitud 100 que forman entre sí un ángulo recto es 141.
+
+### Vectores fuerza
+
+*Imagen 17. Vista superior de dos fuerzas horizontales*
+
+Descripción de la Imagen 17. En la Imagen se muestra la vista superior de dos fuerzas horizontales perpendiculares que actúan sobre una caja. Una es de 30 newtons, y la otra es de 40 newtons. Sólo con medir se demuestra que la resultante de este par de fuerzas es 50 newtons.
+
+La Imagen 18, presenta a Nelly Newton colgando en reposo de una cuerda. Se aprecia que ésta actúa como un par de cuerdas que forman distintos ángulos con la vertical. ¿Cuál lado tiene la mayor tensión? Al examinar el sistema se ve que sobre Nelly actúan tres fuerzas: su peso, una tensión en el lado izquierdo de la cuerda y una tensión en el lado derecho de la cuerda. Como tienen distintos ángulos, las tensiones son distintas de cada lado de la cuerda.
+
+*Imagen 18. Nelly cuelga de una cuerda*
+
+Descripción de la Imagen 18. Nelly cuelga de una cuerda amarrada con cada extremo al techo. El punto del cual se agarra para colgar es un vértice de lo que parece formar un triángulo rectángulo. El peso de Nelly se representa con el vector vertical hacia abajo. Para que haya equilibrio se necesita un vector igual y opuesto, que en este caso es opuesto al peso. Este vector de es la diagonal de un paralelogramo definido también por las líneas punteadas de las tensiones de cada pedazo de cuerda. La tensión es mayor en la cuerda de la derecha, que será la que se rompa con más probabilidad.
+
+La Imagen 18 muestra Como Nelly cuelga en equilibrio, su peso debe estar soportado por dos tensiones en la cuerda, que se deben sumar vectorialmente para igualar su peso. Al aplicar la regla del paralelogramo se demuestra que la tensión en el lado derecho de la cuerda es mayor que la del izquierdo. Si mides los vectores verás que la tensión en el lado derecho de la cuerda es más o menos el doble que la tensión en el izquierdo. Ambas tensiones se combinan para soportar su peso.
+
+Chiste matemático: El vector enamorado dice: “Yo sólo era un escalar hasta que llegaste y me diste dirección.”
+
+### Vectores velocidad
+
+Recuerda que la diferencia entre rapidez y velocidad es:
+
+La rapidez es una medida de “qué tan rápido”; la velocidad es una medida de qué tan rápido y también “en qué dirección”.
+
+Si el velocímetro del automóvil indica 100 kilómetros por hora, conoces tu rapidez. Si en el automóvil también hay una brújula en el tablero, que indique que el vehículo se mueve hacia el norte, por ejemplo, entonces sabrías que tu velocidad es de 100 kilómetros por hora hacia el norte. Si sabes tu rapidez y tu dirección, conoces tu velocidad.
+
+Imagina que una avioneta vuela hacia el norte a 80 kilómetros por hora en relación con el aire que la rodea. Supón que la atrapa un viento cruzado (viento que sopla perpendicular a la dirección de la avioneta) de 60 kilómetros por hora, que la empuja desviándola del curso trazado. Entonces, la velocidad de la avioneta de 80 kilómetros por hora se representa con el vector de 4 centímetros; y la del viento cruzado de 60 kilómetros por hora, con el vector de 3 centímetros. La diagonal del paralelogramo que se traza (en este caso es un rectángulo) mide 5 cm, y representa 100 km/h. Entonces, en relación con el suelo, la avioneta se mueve a 100 km/h en una dirección intermedia entre el norte y el noreste.
+
+#### Examínate
+
+Una lancha de motor, que normalmente viaja a 10 km/h en aguas tranquilas, cruza un río y pone la proa perpendicular a la otra orilla. Si el río corre también a 10 km/h, ¿cuál será la velocidad de la lancha con respecto a la orilla?
+
+#### Comprueba tu respuesta
+
+Cuando la lancha pone la proa directamente hacia la orilla (perpendicular, o en ángulo recto, a la corriente del río), su velocidad es 14.1 km/h, a 45 grados aguas abajo.
+
+#### Práctica de física
+
+Éstas son vistas superiores de tres lanchas de motor que cruzan un río. Todas tienen la misma rapidez con respecto al agua, y todas están en la misma corriente de agua. Traza los vectores resultantes que indiquen la rapidez y la dirección de las lanchas. A continuación contesta lo siguiente:
+
+a) ¿Cuál lancha sigue la trayectoria más corta para llegar a la orilla opuesta?
+
+b) ¿Cuál lancha llega primero a la orilla opuesta?
+
+c) ¿Cuál lancha tiene la mayor rapidez?
+
+#### Componentes de vectores
+
+Así como se pueden combinar dos vectores perpendiculares en un vector resultante, también, a la inversa, cualquier vector se puede “descomponer” en dos vectores componentes perpendiculares entre sí. A estos dos vectores se les llama componentes del vector que reemplazan. El proceso de determinar los componentes de un vector se llama descomposición. Cualquier vector trazado en un papel se puede descomponer en un componente vertical y otro horizontal.
+
+*Imagen 19. Descomposición de vectores*
+
+Descripción de la Imagen 19. Descomposición de un vector. Se dibuja un vector cualquiera. Se ubican los ejes x e y en la cola del vector. Se trazan rectas desde la cabeza a cada eje para formar un rectángulo. La distancia de los lados del rectángulo se dibuja como flechas a lo largo de los ejes. Las colas del vector y sus descomposiciones coinciden. Se nombra cada descomposición como X (x mayúscula en negrita) y como Y (y mayúscula en negrita).
+
+En la Imagen 19 se ilustra la descomposición de un vector V, que se traza con la dirección correcta para representar una cantidad vectorial. Entonces, las líneas (los ejes) vertical y horizontal se trazan en la cola del vector. Luego se traza un rectángulo que tenga V como diagonal. Los lados de este rectángulo son los componentes deseados, los vectores X y Y. Al revés, observa que la suma vectorial de X y Y es igual a V.
+
+## Resumen de términos
+
+Cantidad escalar. Cantidad que tiene magnitud, pero no dirección. Como ejemplos están la masa, el volumen y la rapidez.
+
+Cantidad vectorial. Cantidad que tiene tanto magnitud como dirección. Como ejemplos están la fuerza, la velocidad y la aceleración.
+
+Tercera ley de Newton. Siempre que un objeto ejerce una fuerza sobre un segundo objeto, el segundo objeto ejerce una fuerza de igual magnitud y dirección opuesta sobre el primero.
+
+Resultante. Resultado neto de una suma de dos o más vectores.
+
+Vector. Flecha que se traza a escala para representar una cantidad vectorial.
+
+## Preguntas de repaso
+
+#### Fuerzas e interacciones
+
+1. Cuando empujas los dedos contra un muro se doblan porque están sometidos a una fuerza. Identifica esa fuerza.
+
+2. Un boxeador puede golpear con gran fuerza un saco de arena. ¿Por qué no puede golpear un trozo de pañuelo desechable en el aire con la misma fuerza?
+
+3. ¿Cuántas fuerzas se requieren en una interacción?
+
+#### Tercera ley de Newton del movimiento
+
+4. Enuncia la tercera ley de Newton del movimiento.
+
+5. Un bate golpea a una pelota de béisbol. Si llamamos fuerza de acción a la del bate contra la bola, identifica la fuerza de reacción.
+
+6. Acerca de la manzana y la naranja de la Imagen 7, si se considera que el sistema sólo es la naranja, ¿hay una fuerza neta sobre el sistema cuando la manzana jala?
+
+7. Si se considera que el sistema abarca tanto a la manzana como a la naranja (Imagen 8), ¿hay una fuerza neta sobre el sistema cuando la manzana jala (ignora la fricción con el piso)?
+
+8. Para producir una fuerza neta sobre un sistema, ¿debe haber una fuerza externa aplicada?
+
+9. Considera el sistema de un balón de fútbol. Si lo pateas, ¿hay una fuerza neta que acelere el sistema? Si un amigo lo patea al mismo tiempo y con una fuerza igual y en dirección opuesta, ¿hay una fuerza neta que acelere el sistema?
+
+#### Acción y reacción sobre masas distintas
+
+10. La Tierra tira de ti hacia abajo, con una fuerza gravitacional que es tu peso. ¿Tiras de la Tierra con la misma fuerza?
+
+11. Si las fuerzas que actúan sobre una bala y el cañón en retroceso que la dispara tienen igual magnitud, ¿por qué la bala y el arma tienen aceleraciones tan distintas?
+
+12. Describe la fuerza que impulsa un cohete.
+
+13. ¿Un helicóptero de dónde obtiene su fuerza de sustentación?
+
+14. ¿Puedes tocar físicamente a otra persona, sin que esa persona te toque con una fuerza de igual magnitud?
+
+#### Resumen de las tres leyes de Newton
+
+15. Contesta:
+
+a) Con frecuencia, ¿cómo se le dice a la primera ley de Newton?
+
+b) ¿cómo se le dice a la segunda ley de Newton?
+
+c) ¿cómo se le dice a la tercera ley de Newton?
+
+16. ¿En cuál de las tres leyes se define el concepto de interacción de fuerzas?
+
+#### Vectores
+
+17. Menciona tres ejemplos de cantidad vectorial y tres ejemplos de cantidad escalar.
+
+18. ¿Por qué a la rapidez se le considera escalar y a la velocidad se le considera vector?
+
+19. Según la regla del paralelogramo, ¿qué cantidad representa la diagonal de un paralelogramo?
+
+20. Nelly cuelga en reposo en la Imagen 18. Si las cuerdas fueran verticales, paralelas, ¿cuál sería la tensión en cada una?
+
+21. Cuando las cuerdas de Nelly forman un ángulo, ¿qué cantidad debe ser igual y opuesta a su peso?
+
+22. Cuando un par de vectores forman ángulo recto, ¿la resultante es siempre mayor que cualquiera de los dos vectores por separado?
+
+## Proyecto
+
+Con precaución saca la mano estando dentro de un automóvil en movimiento y colócala como si fuera un ala horizontal. A continuación inclina un poco hacia arriba el lado delantero, y siente el efecto de sustentación. ¿Sientes cómo se aplican las leyes de Newton en este caso?
+
+## Cálculos de un paso
+
+1. Encuentra la resultante del siguiente par de velocidades: 100 km/h hacia el norte y 75 km/h hacia el sur. Calcula la resultante si ambas velocidades se dirigen hacia el norte.
+
+Resultante de dos vectores en ángulo recto entre sí;
+
+R = √(X2 + Y2),
+
+Que se lee: r = raíz cuadrada de (x al cuadrado + y al cuadrado)
+
+2. Calcula la magnitud de la resultante de un par de vectores de velocidad de 100 km/h que están en ángulo recto uno entre sí.
+
+3. Calcula la resultante de un vector horizontal con una magnitud de 4 unidades y un vector vertical con una magnitud de 3 unidades.
+
+4. Calcula la velocidad resultante de un avión que normalmente vuela a 200 km/h, si enfrenta un viento de 50 km/h que le llega por un lado (formando un ángulo recto con el avión).
+
+## Ejercicios
+
+1. Concilia el hecho de que la fricción actúa en una dirección opuesta al movimiento, aun cuando tu confías en que la fricción te impulsa hacia delante cuando caminas.
+
+2. Cuando frotas tus manos, ¿puedes empujar más fuerte sobre una de ellas?
+
+3. En cada una de las siguientes interacciones, define cuáles son las fuerzas de acción y de reacción.
+
+a) Un martillo golpea un clavo.
+
+b) La gravedad de la Tierra tira hacia abajo un libro.
+
+c) Un aspa de helicóptero impulsa el aire hacia abajo.
+
+4. Sujeta una manzana sobre tu cabeza.
+
+a) Identifica todas las fuerzas que actúan sobre la manzana, con sus fuerzas de reacción.
+
+b) Cuando la dejas caer, identifica todas las fuerzas que actúan sobre ella en su caída, y las fuerzas de reacción correspondientes.
+
+No tengas en cuenta la resistencia del aire.
+
+5. Identifica los pares de acción-reacción de las fuerzas en los siguientes casos:
+
+a) Bajas de una acera.
+
+b) Das golpecitos en la espalda de un amigo.
+
+c) Una ola golpea una costa rocosa.
+
+6. Un jugador de béisbol golpea una pelota.
+
+a) Describe los pares de acción-reacción al golpear la bola.
+
+b) Y cuando la bola está en el aire.
+
+7. ¿Qué física está implicada para un pasajero que se siente empujado hacia atrás, es decir, hacia el respaldo de su asiento en un avión, cuando éste acelera por la pista para despegar?
+
+8. Cuando dejas caer al piso una pelota de goma, rebota casi hasta su altura original. ¿Qué fuerza hace que la bola rebote?
+
+9. Cuando pateas un balón de fútbol, ¿qué fuerzas de acción y de reacción intervienen? ¿Qué fuerza, si hubiera alguna, sería mayor?
+
+10. Cuando un libro descansa sobre una mesa, en su interior hay miles de millones de fuerzas que empujan y tiran de todas las moléculas. ¿Por qué esas fuerzas nunca, ni por casualidad, se suman y producen una fuerza neta en una dirección, haciendo que el libro se mueva “espontáneamente” por toda la mesa?
+
+11. Cuando un atleta levanta pesas sobre su cabeza, la fuerza de reacción es el peso de la barra sobre la mano. ¿Cómo varía esta fuerza cuando las pesas se aceleran hacia arriba? ¿Y cuándo se aceleran hacia abajo?
+
+12. Sobre una persona parada e inmóvil actúan dos fuerzas que son el tirón hacia abajo de la gravedad, y la que hace el piso sobre él hacia arriba. ¿Son iguales y opuestas esas fuerzas? Forman un par de acción-reacción” ¿Por qué?
+
+13. ¿Por qué puedes ejercer mayor fuerza sobre los pedales de una bicicleta si te aferras al manubrio?
+
+14. Cuando el bate golpea la pelota ¿aquél se desacelera? Sustenta tu respuesta.
+
+15. ¿Por qué un escalador tira hacia abajo de la cuerda para subir?
+
+16. Estás empujando un automóvil pesado. A su vez, éste te regresa el empuje con una fuerza igual y opuesta. ¿No significa esto que las fuerzas se anulan entre sí, haciendo imposible la aceleración? ¿Por qué o por qué no?
+
+17. Un campesino arrea a su caballo para que tire de una carreta. El caballo se rehúsa, diciendo que sería inútil, porque violaría la tercera ley de Newton. Llega a la conclusión de que no puede ejercer una fuerza mayor sobre la carreta, que la que la carreta ejerce sobre él, y en consecuencia no podrá acelerar la carreta. ¿Qué le explicarías para convencerlo de que comience a tirar?
+
+18. Supón que hay dos carritos, uno con el doble de masa que el otro, salen despedidos cuando se suelta el resorte comprimido que hay entre ellos. ¿Con qué rapidez rueda el carrito más pesado, en comparación con el más ligero?
+
+19. Si ejerces una fuerza horizontal de 200 N para hacer deslizar una caja por el piso de una fábrica, a velocidad constante, ¿cuánta fricción ejerce el piso sobre la caja? ¿Es la fuerza de fricción igual y con dirección opuesta a tu empuje de 200 N? Si la fuerza de fricción no es la fuerza de reacción a tu empuje, ¿cuál es?
+
+20. Ken y Joanne son astronautas que flotan a cierta distancia en el espacio. Los une una cuerda de seguridad, cuyos extremos están atados sus cinturas. Si Ken comienza a jalar la cuerda, ¿Joanne será jalada hacia él, o él será jalado hacia Joanne, o se moverán los dos astronautas? Explica por qué.
+
+21. ¿Cuál equipo gana un desafío de tirar de la cuerda: El que tira más fuerte de ella, o el que empuja con más fuerza sobre el suelo? Explica cómo.
+
+22. En un juego de tirar de la cuerda entre Sam y Maddy, cada uno tira de ella con 250 N de fuerza. ¿Cuál es la tensión en la cuerda? Si los dos no se mueven, ¿qué fuerza horizontal se ejerce contra el suelo?
+
+23. En un juego de tirar de la cuerda sobre un piso liso, entre hombres que usan calcetines y mujeres que usan zapatos con suela de goma (caucho), ¿por qué ganan las chicas?
+
+24. Dos personas con igual masa juegan a tirar de una cuerda de 12 m, parados sobre un hielo sin fricción. Cuando tiran de la cuerda cada uno se desliza hacia el otro. ¿Cómo se comparan sus aceleraciones y hasta dónde se desliza cada uno antes de detenerse?
+
+25. ¿Cuáles de las siguientes cantidades son escalares, cuáles vectoriales y cuáles no son ni unas ni otras?
+
+a) Velocidad
+
+b) edad
+
+c) rapidez
+
+d) aceleración
+
+e) temperatura
+
+26. ¿Qué puedes afirmar correctamente acerca de dos vectores que se suman para dar cero?
+
+27. ¿Es posible que un par de vectores con diferentes magnitudes sumen cero? ¿Tres vectores diferentes pueden sumar cero? Sustenta tus respuestas.
+
+28. ¿Cuándo un vector diferente de cero puede tener un componente horizontal de cero?
+
+29. ¿Cuándo, si es el caso, una cantidad vectorial se puede sumar a una cantidad escalar?
+
+30. ¿Qué se rompe con mayor probabilidad, una hamaca tirante entre dos árboles, o una que cuelga entre ellos, cuando alguien la usa?
+
+31. ¿Cuándo una ave pesada se posa sobre un tendedero, la tensión sobre éste será mayor si la cuerda se comba mucho o si se comba sólo un poco?
+
+32. Un globo flota inmóvil en el aire. Una persona comienza a trepar por el cable de soporte. ¿En qué dirección se mueve el globo conforme la persona trepa? Sustenta tu respuesta.
+
+33. Al dibujar un diagrama de fuerzas que actúan sobre un corredor, ¿cuáles de las siguientes no deberían dibujarse? El peso, mg; la fuerza que ejerce el corredor sobre el suelo; la tensión en las pantorrillas del corredor.
+
+## Problemas
+
+1. Un boxeador golpea una hoja de papel en el aire, y la pasa del reposo a una rapidez de 25 m/s en 0.05 s. ¿Si la masa del papel es 0.003 kg qué fuerza ejerce el boxeador sobre ella?
+
+2. Si te paras junto a un muro, sobre una patineta sin fricción, y empujas al muro con 30 N de fuerza, ¿qué empuje tiene la pared sobre ti? Si tu masa es de 80 kg, ¿cuál será tu aceleración?
+
+3. Si las gotas de lluvia caen verticalmente con una rapidez de 3 m/s, y corres a 4 m/s, ¿con qué rapidez golpearán tu cara?
+
+4. Sobre un bloque con 2.0 kg de masa actúan fuerzas de 3.0 N y 4.0 N, las cuales forman ángulo recto. ¿Cuánta aceleración producen?
+
+5. Un avión cuya rapidez normal es 100 km/h, pasa por un viento cruzado del oeste hacia el este de 100 km/h. Calcula su velocidad con respecto al suelo, cuando su proa apunta al norte, dentro del viento cruzado.
+
+# CAPÍTULO 2: Cantidad de movimiento
+
+Primero que todo debes recordar el concepto de la inercia de Galileo, y cómo se incorpora a la primera ley de Newton del movimiento para los cuerpos. Se describe a la inercia en términos de objetos en reposo y de objetos en movimiento. En este capítulo sólo nos ocuparemos de la inercia de los objetos en movimiento. Cuando se combinan las ideas de inercia y de movimiento se maneja la cantidad de movimiento. La cantidad de movimiento es una propiedad de las cosas que se mueven.
+
+## Cantidad de movimiento
+
+Todos sabemos que es más difícil detener a un camión pesado que a un automóvil ligero que se mueven con la misma rapidez. Expresamos lo anterior diciendo que el camión tiene mayor cantidad de movimiento que el automóvil. Por cantidad de movimiento se indica la inercia en movimiento. En forma más específica, la cantidad de movimiento se define como el producto de la masa de un objeto por su velocidad, es decir
+
+Cantidad de movimiento = masa × velocidad
+
+O bien, en notación compacta,
+
+Cantidad de movimiento = m × v
+
+Cuando no importa la dirección, se puede decir que
+
+Cantidad de movimiento = masa × rapidez,
+
+Que también se abrevia como m×v.
+
+De la definición se observa que un objeto en movimiento puede tener una gran cantidad de movimiento, si su masa o su velocidad son grandes, o si tanto su masa como su velocidad son grandes. El camión tiene más cantidad de movimiento que el automóvil que se mueve con la misma rapidez, porque la masa del primero es mayor. Se aprecia que un buque gigantesco que se mueva a una rapidez pequeña tiene una gran cantidad de movimiento, así como una bala pequeña que se mueva a gran rapidez. También, naturalmente, un objeto gigantesco que se mueva a gran rapidez, como sería un camión masivo que baja por una pendiente pronunciada, sin frenos, y tiene una cantidad de movimiento gigantesca; en tanto que el mismo camión en reposo no tiene ninguna cantidad de movimiento porque la parte v de m×v es cero.
+
+## Impulso
+
+Si la cantidad de movimiento de un objeto cambia, entonces pueden cambiar su masa, su velocidad, o ambas cuestiones. Si la masa permanece igual, como es el caso más frecuente, entonces la velocidad cambia y se presenta una aceleración. Y, ¿qué produce una aceleración? La respuesta es una fuerza. Cuanto mayor sea la fuerza que actúa sobre un objeto, mayor será el cambio de la velocidad y, en consecuencia, mayor será el cambio en la cantidad de movimiento.
+
+Pero hay algo más que importa cuando cambia la cantidad de movimiento: el tiempo, es decir, durante cuánto tiempo actúa la fuerza. Aplica una fuerza durante un corto tiempo a un automóvil parado y producirás un cambio pequeño de su cantidad de movimiento. Aplica la misma fuerza durante largo tiempo y resultará un mayor cambio de su cantidad de movimiento. Una fuerza sostenida durante largo tiempo produce más cambio de cantidad de movimiento, que la misma fuerza cuando se aplica durante un breve lapso. Así, para cambiar la cantidad de movimiento de un objeto importan tanto la magnitud de la fuerza como el tiempo durante el cual actúa la fuerza.
+
+El producto de la fuerza × el intervalo de tiempo se llama impulso. O bien, en notación compacta,
+
+Impulso = F × t
+
+Dato curioso: el tiempo es especialmente importante al cambiar la cantidad de movimiento. ¡Eureka!
+
+#### Examínate
+
+1. ¿Qué tiene más cantidad de movimiento, un automóvil de 1 tonelada que avance a 100 km/h o un camión de 2 toneladas que avance a 50 km/h?
+
+2. ¿Tiene impulso un objeto en movimiento?
+
+3. ¿Tiene cantidad de movimiento un objeto en movimiento?
+
+4. Para la misma fuerza, qué cañón ejerce mayor impulso a la bala: uno largo o uno corto.
+
+#### Comprueba tus respuestas
+
+1. Ambos tienen la misma cantidad de movimiento (1 ton × 100 km/h = 2 ton × 50 km/h).
+
+2. No, el impulso no es algo que tenga un objeto. Es lo que puede suministrar o puede sentir un objeto cuando interactúa con otro objeto. Un objeto no puede tener impulso, al igual que no puede tener fuerza.
+
+3. Sí, pero como velocidad en sentido relativo, esto es, con respecto a un marco de referencia que con frecuencia se toma como la superficie de la Tierra. La cantidad de movimiento que posee un objeto en movimiento, con respecto a un punto estacionario sobre la Tierra puede ser muy distinta de la que posee con respecto a otro objeto en movimiento.
+
+4. El cañón largo ejercerá mayor impulso porque la fuerza actúa durante un periodo más largo. (Un impulso más grande producirá un cambio mayor en la cantidad de movimiento, de manera que un cañón grande ejercerá mayor rapidez a una bala que un cañón corto.)
+
+## El impulso cambia la cantidad de movimiento
+
+Cuanto mayor sea el impulso que se ejerce sobre algo, mayor será el cambio en la cantidad de movimiento. La relación exacta es
+
+Impulso = cambio en la cantidad de movimiento
+
+Podemos expresar todos los términos de esta relación en notación compacta, introduciendo el símbolo delta, Δ (una letra del alfabeto griego que se usa para indicar “cambio de” o “diferencia de”):
+
+F × t = Δ(m × v)
+
+Que se lee, F × t = delta de (m × v)
+
+La relación entre impulso y cantidad de movimiento ayuda a analizar muchos ejemplos en los que las fuerzas actúan y cambia el movimiento. A veces se puede considerar que el impulso es la causa de un cambio de movimiento. En algunas otras se puede considerar que un cambio de cantidad de movimiento es la causa de un impulso. No importa la forma en que uno se lo imagine. Lo importante es que el impulso y la cantidad de movimiento siempre vienen relacionados. Aquí describiremos algunos ejemplos ordinarios, en los cuales el impulso se relaciona con:
+
+1) un aumento de cantidad de movimiento
+
+2) una disminución de cantidad de movimiento durante largo tiempo
+
+3) una disminución de la cantidad de movimiento durante un corto tiempo.
+
+### Caso 1: aumento de la cantidad de movimiento
+
+Si quieres aumentar la cantidad de movimiento de algo, deberás aplicar toda la fuerza que puedas durante el mayor tiempo posible. Un golfista que da el golpe inicial y un jugador de béisbol que intenta dar un home run hacen ambas cosas, cuando abanican tan fuerte como sea posible, y acompañan el golpe en sus intentos. Así aumentan el tiempo de contacto.
+
+La fuerza que interviene en los impulsos por lo general varía de un instante a otro. Por ejemplo, un palo de golf que golpea una pelota ejerce cero fuerza sobre ésta hasta que entran en contacto; entonces, la fuerza aumenta con rapidez conforme la pelota se deforma. Cuando en este capítulo se habla de fuerzas de impacto, se indican las fuerzas promedio.
+
+### Caso 2: disminución de la cantidad de movimiento
+
+Imagina que estás en un automóvil sin ningún control, y puedes optar por chocarlo contra un muro de concreto o contra un montón de paja. No necesitas saber mucha física para optar por lo mejor; pero ciertos conocimientos de esta ciencia te ayudarán a comprender por qué pegar contra algo suave es muy distinto a pegar contra algo duro. En el caso de chocar contra el muro o contra un pajar para detenerte requiere el mismo impulso, para disminuir tu cantidad de movimiento a cero. El mismo impulso significa igual producto de fuerza y tiempo, no la misma fuerza ni el mismo tiempo. Puedes elegir. Si chocas contra el montón de paja en vez de contra el muro, ampliarás el tiempo durante el cual tu cantidad de movimiento baja a cero. Un intervalo de tiempo mayor reduce la fuerza y disminuye la aceleración que resulta. Por ejemplo, si prolongas 100 veces el tiempo del impacto, reduces 100 veces la fuerza del impacto. Siempre que queramos que la fuerza sea pequeña, aumentaremos el tiempo de contacto. Es por esto que se utilizan tableros acojinados y bolsas de aire en los automóviles.
+
+Cuando alguien que salta desde una posición elevada hasta el suelo, ¿qué sucede si mantiene sus piernas estiradas y rígidas? ¡Ouch! En vez de ello, dobla las rodillas cuando sus pies hacen contacto con el suelo, aumentando así el tiempo durante el cual la cantidad de movimiento se reduce, 10 o 20 veces, en comparación con el tiempo de contacto con suelo con las piernas rígidas. La fuerza resultante sobre los huesos se reduce de 10 a 20 veces. Un luchador que se avienta al piso intenta ampliar su tiempo de impacto con la lona del cuadrilátero relajando sus músculos y ampliando el impacto a más partes de su cuerpo: pie, rodilla, cadera, costillas y hombros que sucesivamente golpean contra la lona. Desde luego, caer sobre la lona es preferible a estrellarse contra un piso sólido porque aquélla también incrementa el tiempo durante el cual las fuerzas actúan.
+
+La red de seguridad que utilizan los acróbatas del circo es un buen ejemplo de cómo alcanzar el impulso necesario para una caída segura. La red de seguridad reduce la fuerza que experimenta un acróbata que cae, aumentando sustancialmente el intervalo de tiempo durante el cual actúa la fuerza.
+
+Si estás jugando béisbol y vas a atrapar una bola rápida a mano limpia, pones la mano hacia adelante para tener mucho espacio para que retroceda, después de hacer contacto con la bola. Así, prolongas el tiempo de impacto y en consecuencia reduces la fuerza del impacto. De igual modo, un boxeador se flexiona o cabecea el golpe, para reducir la fuerza del impacto.
+
+### Caso 3: disminución de la cantidad de movimiento durante corto tiempo
+
+Si estás boxeando y avanzas al encuentro de un golpe en vez de alejarte de éste, te meterás en problemas. Lo mismo sucede, si atrapas una bola rápida moviendo la mano hacia ella, en vez de retrocederla, para tener el contacto. O cuando en un automóvil sin control lo chocas contra un muro de concreto, en vez de hacerlo contra un montón de paja. En esos casos de tiempos de impacto cortos, las fuerzas de impacto son grandes. Recuerda que para que un objeto se detenga hasta el reposo, el impulso es igual, sin importar cómo se detuvo. Pero si el tiempo es corto, la fuerza será grande.
+
+*Imagen 20. Un boxeador recibiendo un golpe*
+
+Descripción de la Imagen 20. Un boxeador recibiendo un golpe en dos casos. En ambos casos la quijada del boxeador proporciona un impulso que reduce la cantidad de movimiento del golpe. a) Cuando el boxeador se aleja (viaja con el golpe), extiende el tiempo y disminuye la fuerza. F × t grande= cambio de movimiento. b) Si el boxeador sale al encuentro del guante, disminuye el tiempo de contacto y debe enfrentar una fuerza mayor. F grande × t = cambio de movimiento.
+
+La idea del tiempo corto de contacto explica cómo una experta en karate puede romper una pila de ladrillos con el golpe de su mano desnuda. Lleva el brazo y la mano rápidamente contra los ladrillos, con una cantidad de movimiento apreciable. Esta cantidad de movimiento se reduce con rapidez al trasladar un impulso a los ladrillos. El impulso es la fuerza de la mano contra los ladrillos, multiplicada por el tiempo que hace contacto con ellos. Si la ejecución es rápida, hace que el tiempo de contacto sea muy breve y, en consecuencia, la fuerza de impacto es enorme. Si ella hace que la mano rebote en el impacto, la fuerza será todavía mayor.
+
+#### Examínate
+
+1. Si el boxeador de la Imagen 20 puede prolongar tres veces la duración del impacto cabeceando el golpe, ¿en cuánto se reducirá esa fuerza de impacto?
+
+2. Si en vez de ello el boxeador busca encontrarse con el golpe para disminuir la duración del impacto a la mitad, ¿en cuánto aumentará la fuerza de impacto?
+
+3. Un boxeador es alcanzado por un golpe, y lo cabecea para aumentar el tiempo y alcanzar los mejores resultados; en tanto que un experto en karate entrega su fuerza durante un intervalo corto, para obtener mejores resultados. ¿No hay una contradicción aquí?
+
+4. ¿En qué caso el impulso es igual a la cantidad de movimiento?
+
+#### Comprueba tus respuestas
+
+1. La fuerza del impacto será tres veces menor que si no retrocediera.
+
+2. La fuerza del impacto será dos veces mayor que si mantuviera su cabeza inmóvil. Los impactos de este tipo son causa frecuente de nocauts.
+
+3. No hay contradicción, porque los mejores resultados de cada caso son muy distintos. El mejor resultado para el boxeador es que la fuerza se reduzca, lo cual se logra maximizando el tiempo. El mejor resultado para la karateca es que la fuerza sea grande, y se dé en el tiempo mínimo.
+
+4. En general, el impulso es igual al cambio de cantidad de movimiento. Si la cantidad de movimiento inicial de un objeto es cero al aplicar el impulso, entonces el impulso = cantidad de movimiento final. Y si un objeto se lleva al reposo, entonces impulso = cantidad de movimiento inicial.
+
+## Rebote
+
+Sabes muy bien que si un florero cae de un armario hasta tu cabeza, tendrás problemas. Y si rebota en tu cabeza el problema será más grave. ¿Por qué? Por qué los impulsos son mayores cuando un objeto rebota. El impulso necesario para hacer que un objeto se detenga para luego, de hecho, “devolver el golpe”, es mayor que el necesario tan sólo para detenerlo. Por ejemplo, supón que atrapas el florero con las manos. En ese caso, proporcionas un impulso para reducir su cantidad de movimiento a cero. Pero si después tuvieras que lanzar el florero hacia arriba, deberías proporcionarle un impulso adicional. Este incremento en la cantidad de impulso es la misma que tu cabeza suministra cuando el florero rebota en ella.
+
+Imagina aun profesor de física lanzando un dardo contra un bloque de madera. Cuando el dardo tiene la punta afilada como un clavo, se inserta en el bloque de madera al detenerse, y el bloque permanece vertical. Cuando al dardo se le retira la punta afilada y se le coloca una de goma achatada, el bloque se viene abajo. La fuerza contra el bloque es mayor cuando ocurre un rebote.
+
+*Imagen 21. Rueda Pelton*
+
+Descripción de la Imagen 21.La rueda de Pelton. Las aspas curvadas hacen que el agua rebote y haga una vuelta en U, lo cual produce mayor impulso para hacer girar la rueda.
+
+El hecho de que los impulsos sean mayores cuando hay rebotes se usó con mucho éxito en California en los días de la fiebre del oro. Las ruedas hidráulicas que se usaban en minería para la extracción del oro no eran eficaces. Un hombre llamado Lester A. Pelton observó que el problema eran las aspas planas de las ruedas. Entonces diseñó unas aspas curvas que hacían que el agua que llegaba hiciera una vuelta en U al impacto con ellas, es decir, que “rebotara”. De este modo, el impulso ejercido sobre la rueda aumentó bastante. Pelton patentó su idea, la rueda de Pelton, y probablemente hizo más dinero con ella que la mayoría de los mineros con el oro que extrajeron. La física puede enriquecer tu vida en muchas formas.
+
+### Lectura sugerida: Leyes de conservación
+
+Una ley de la conservación especifica que en un sistema ciertas cantidades permanecen exactamente constantes, a menos de que puedan ocurrir cambios dentro del sistema. Es una ley de conservación durante el cambio. En este capítulo vemos que la cantidad de movimiento permanece sin cambio durante los choques. Decimos que se conserva la cantidad de movimiento. En el siguiente capítulo aprenderemos que la energía se conserva cuando se transforma: la cantidad de energía de la luz, por ejemplo, se transforma por completo en energía térmica cuando se absorbe la luz.
+
+#### Examínate
+
+1. Cassy imparte un gran impulso a los ladrillos gol un golpe de karate, durante un tiempo corto, y produce una fuerza considerable. ¿cómo se compara la fuerza que ejerce la persona sobre los ladrillos con la fuerza que se ejerce en su mano?
+
+2. ¿Cómo variará el impulso resultante del impacto, si la mano rebotara al golpear los tabiques?
+
+Comprueba tus respuestas
+
+1. Según la tercera ley de Newton, las fuerzas serán iguales. Sólo la elasticidad de la mano y el adiestramiento que ha adquirido para fortalecer su mano le permiten realizar esta hazaña sin que se le fracturen los huesos.
+
+2. El impulso será mayor si la mano rebotara en los ladrillos al golpearlos. Si no aumenta en forma proporcional el tiempo del impacto, se ejerce entonces una fuerza mayor sobre los ladrillos (¡y sobre la mano!).
+
+## Conservación de la cantidad de movimiento
+
+De la segunda ley de Newton sabemos que si deseamos acelerar un objeto, debemos aplicarle una fuerza neta. En este capítulo hemos dicho casi lo mismo, aunque con otras palabras. Para cambiar la cantidad de movimiento de un objeto debemos aplicarle un impulso.
+
+Únicamente un impulso externo a un sistema puede cambiar la cantidad de movimiento del sistema. Las fuerzas y los impulsos internos no lo harán. Por ejemplo, las fuerzas moleculares en el interior de una pelota de béisbol no tienen efecto alguno sobre la cantidad de movimiento de ella, así como una persona que está sentada dentro de un automóvil, y que empuja el tablero de instrumentos, no afecta la cantidad de movimiento del vehículo. Las fuerzas moleculares dentro de la pelota de béisbol y un impulso al tablero son fuerzas internas. Ocurren en pares en equilibrio que se anulan. Se requiere una fuerza externa que actúe sobre la pelota o el automóvil. Si no hay fuerza externa alguna, no hay impulso externo y no es posible cambiar la cantidad de movimiento.
+
+Como ejemplo piensa en un cañón que dispara. La fuerza sobre la bala dentro del cañón es igual y opuesta a la fuerza que causa que el cañón dé un culatazo. Puesto que estas fuerzas actúan al mismo tiempo, los impulsos también son iguales y opuestos. Recuerda la tercera ley de Newton sobre las fuerzas de acción y de reacción. También se aplica al impulso. Los impulsos son internos al sistema que abarca la bala y el cañón, de manera que no cambian la cantidad de movimiento del sistema bala-cañón. Antes del disparo la cantidad de movimiento neta o total era cero. Después del disparo, la cantidad de movimiento neta sigue siendo cero. No se ganó ni se perdió cantidad de movimiento.
+
+La cantidad de movimiento, al igual que las cantidades de velocidad y de fuerza, tiene tanto dirección como magnitud. Es una cantidad vectorial. Al igual que la velocidad y la fuerza, la cantidad de movimiento puede anularse. Así, aunque la bala del cañón en el ejemplo anterior gana cantidad de movimiento cuando sale disparada, y el cañón que retrocede gana cantidad de movimiento en la dirección opuesta, no hay ganancia en el sistema cañón-bala. Las cantidades de movimiento de la bala y del cañón son iguales en magnitud y opuestas en dirección. Por lo tanto, estas cantidades de movimiento se anulan para dar cero en el sistema como un todo. Puesto que ninguna fuerza externa neta actúa sobre el sistema, no hay impulso neto sobre éste y no hay cambio neto en la cantidad de movimiento. Como podrás ver, si ninguna fuerza neta o ningún impulso neto actúan sobre un sistema, no cambia la cantidad de movimiento de ese sistema.
+
+Cuando no cambia la cantidad de movimiento (o cualquier cantidad en física), entonces decimos que se conserva. La idea de que la cantidad de movimiento se conserva cuando no actúan fuerzas externas constituye una ley fundamental de la mecánica, llamada la ley de la conservación de la cantidad de movimiento, que establece que:
+
+“En ausencia de una fuerza externa, la cantidad de movimiento de un sistema permanece sin cambio.”
+
+Si en un sistema donde todas las fuerzas son internas —como por ejemplo, vehículos que chocan, núcleos atómicos que experimentan decaimiento radiactivo o estrellas que estallan—, la cantidad de movimiento neta del sistema es la misma antes y después del evento.
+
+#### Examínate
+
+1. La segunda ley de Newton establece que, si no se ejerce ninguna fuerza neta sobre un sistema, no ocurre aceleración. ¿De esto se desprende que tampoco ocurre cambio en la cantidad de movimiento?
+
+2. La tercera ley de Newton establece que la fuerza que ejerce un cañón sobre la bala es igual y opuesta a la fuerza que la bala ejerce sobre el cañón. ¿De esto se desprende que el impulso que ejerce el cañón sobre la bala es igual y opuesto al impulso que la bala ejerce sobre el cañón?
+
+Comprueba tus respuestas
+
+1. Sí, porque el hecho de que no haya aceleración significa que no ocurre ningún cambio en la velocidad o en la cantidad de movimiento (masa × velocidad). Otra vertiente de razonamiento concluye simplemente que el hecho de que no haya fuerza neta significa que no hay impulso neto ni, por lo tanto, cambio en la cantidad de movimiento.
+
+2. Sí, porque la interacción entre ambos ocurre durante el mismo intervalo de tiempo. Puesto que el tiempo es el mismo y las fuerzas son iguales y opuestas, los impulsos (F×t) también son iguales y opuestos. El impulso es una cantidad vectorial y puede anularse.
+
+## Choques
+
+La cantidad de movimiento se conserva en los choques, es decir, la cantidad de movimiento neta de un sistema de objetos que chocan no cambia antes, durante ni después de la colisión. Esto se debe a que las fuerzas que actúan durante el choque son fuerzas internas, que actúan y reaccionan dentro del sistema mismo. Sólo hay una redistribución o partición de la cantidad de movimiento que haya antes de la colisión.
+
+En cualquier choque se puede decir que
+
+Cantidad de movimiento neta antes del choque = cantidad de movimiento neta después del choque
+
+*Imagen 22. Choques elásticos entre bolas*
+
+Descripción de la Imagen 22. Choques elásticos entre bolas de igual masa, antes durante y después. a) Una bola oscura choca contra una bola clara que está en reposo. La bola oscura queda detenida y la bola blanca se mueve. b) Un choque de frente. Las bolas se mueven en sentido contrario después del choque. c) Un choque entre bolas que se mueven y que tienen la misma dirección. En todos los casos se transfiere cantidad de movimiento de una bola a otra.
+
+Esto es cierto, independientemente de la forma en que se muevan los objetos antes de chocar. Cuando una bola de billar rueda y choca de frente contra otra que está en reposo, la que rodaba se detiene y la otra bola avanza con la rapidez que tenía la bola que la chocó. A esto se le llama choque elástico; en el caso ideal, los objetos que chocan rebotan sin tener deformación permanente, y sin generar calor (Imagen 22). Pero la cantidad de movimiento se conserva hasta cuando los objetos que chocan se enredan entre sí durante el choque. A esto se le llama choque inelástico, y se caracteriza por la deformación permanente o la generación de calor, o por ambas cuestiones. En un choque perfectamente inelástico, ambos objetos se adhieren.
+
+Por ejemplo, imagina el caso de un furgón que se mueve por una vía y choca contra otro furgón que está en reposo. Si los dos furgones tienen igual masa y se acoplan en el choque, ¿se puede calcular la velocidad de los carros enganchados después del impacto?
+
+Supongamos que el primer furgón se mueve a 10 metros por segundo, y que la masa de cada furgón es m. Entonces, de acuerdo con la conservación de la cantidad de movimiento, Con operaciones algebraicas sencillas, V = 5 m/s. Esto tiene sentido, porque después del choque se mueve el doble de masa, y la velocidad debe ser la mitad de la que había antes de la colisión. En consecuencia, ambos lados de la ecuación son iguales.
+
+Observa la importancia de la dirección en estos casos. Como en el caso de cualquier par de vectores, las cantidades de movimiento en la misma dirección tan sólo se suman. Si dos objetos se están acercando, se considera que una de las cantidades de movimiento es negativa y las dos se combinan por sustracción o resta. Se aplica el mismo principio a las naves espaciales que se acoplan suavemente, donde la fricción está ausente por completo. Su cantidad de movimiento justo antes del acoplamiento se conserva como cantidad de movimiento justo después del acoplamiento.
+
+Como un ejemplo numérico de la conservación de la cantidad de movimiento, imagínate un pez que nada hacia otro más pequeño, que está en reposo, y se lo almuerza. Si el pez mayor tiene 5 kg de masa y nada a 1 m/s hacia el otro, cuya masa es de 1 kg, ¿cuál será la velocidad del pez mayor inmediatamente después de su bocado? No tendremos en cuenta los efectos de la resistencia del agua.
+
+Cantidad de movimiento neta antes del bocado = cantidad de movimiento neta después del bocado,
+
+(5 kg) (1 m/s) × (1 kg) (0 m/s) = (5 kg + 1 kg) × v
+
+Luego, 5 kg × m/s = (6 kg) × v
+
+Finalmente, v = 5/6 m/s, (cinco sextos metros sobre segundo)
+
+Se ve aquí que el pez pequeño no tiene cantidad de movimiento antes de que se lo coman, porque su velocidad es cero. Después del bocado, la masa combinada de los dos peces se mueve a una velocidad v que, de acuerdo con operaciones algebraicas sencillas, resulta 5/6 m/s. Esta velocidad tiene la misma dirección que la que tenía el pez más grande.
+
+Ahora supón que el pez pequeño en el ejemplo anterior no está en reposo, sino que nada hacia la izquierda con una velocidad de 4 m/s. Nada en dirección contraria a la del pez mayor; su dirección es negativa, si se considera que la dirección del pez mayor es positiva. En este caso,
+
+Cantidad de movimiento neta antes del bocado = cantidad de movimiento neta después del bocado
+
+(5 kg) × (1 m/s) + (1 kg) × (−4 m/s) = (5 kg + 1 kg) × v
+
+5 kg×m/s −4 kg×m/s = (6 kg) × v
+
+1 kg×m/s = 6 kg × v
+
+Finalmente, v = 1/6 m/s (un sexto metros sobre segundo)
+
+Observa que la cantidad de movimiento negativa del pez más pequeño, antes del bocado, tiene más eficacia para frenar al pez mayor, después del bocado. Si el pez menor se moviera con el doble de velocidad, entonces,
+
+Cantidad de movimiento neta antes del bocado = cantidad de movimiento neta después del bocado
+
+(5 kg) × (1 m/s) + (1 kg) × (−8 m/s) = (5 kg + 1 kg) × v
+
+5 kg×m/s − 8 kg×m/s = (6 kg) × v
+
+−3 kg×m/s = 6 kg × v
+
+Finalmente, v = −1/2 m/s (un medio negativo metros sobre segundo)
+
+En este caso vemos que la velocidad final es −1/2 m/s. ¿Qué significa el signo menos? Quiere decir que la velocidad final es contraria a la velocidad inicial del pez más grande. Después del bocado, el sistema de los dos peces se mueve hacia la izquierda. Dejaremos como problema de final de capítulo calcular la velocidad inicial que debe tener el pez menor para detener al mayor.
+
+## Resumen de términos
+
+Cantidad de movimiento. Producto de la masa de un objeto por su velocidad.
+
+Choque elástico. Colisión o impacto donde los objetos que chocan rebotan sin tener deformación permanente ni generar calor.
+
+Choque inelástico. Colisión o impacto donde los objetos que chocan se deforman, generan calor y posiblemente quedan pegados.
+
+Ley de la conservación de la cantidad de movimiento. Cuando no actúa fuerza externa alguna sobre un objeto o sistema de objetos, no hay cambio de cantidad de movimiento. Por consiguiente, la cantidad de movimiento antes de un evento donde sólo intervengan fuerzas internas, es igual a la cantidad de movimiento después del evento:
+
+m×v (antes del evento) = m×v (después del evento)
+
+Impulso. Producto de la fuerza que actúa sobre un objeto por el tiempo durante el cual actúa.
+
+Relación entre el impulso y la cantidad de movimiento. El impulso es igual al cambio en la cantidad de movimiento del objeto sobre el cual actúa. En notación simbólica
+
+F × t = Δ (m × v)
+
+Que se lee: F × t = delta de (m × v)
+
+## Preguntas de repaso
+
+#### Cantidad de movimiento
+
+1. ¿Qué tiene mayor cantidad de movimiento, un pesado camión parado o una patineta en movimiento?
+
+#### Impulso
+
+2. ¿En qué se diferencian impulso y fuerza?
+
+3. ¿Cuáles son las dos formas de aumentar el impulso?
+
+4. Para la misma fuerza, ¿por qué un cañón largo imprime mayor rapidez a una bala que un cañón corto?
+
+#### El impulso cambia la cantidad de movimiento
+
+5. ¿Tiene algo que ver la relación entre impulso y cantidad de movimiento con la segunda ley de Newton?
+
+6. Para impartir la máxima cantidad de movimiento a un objeto, ¿deberías ejercer la máxima fuerza posible, prolongar esa fuerza hasta donde puedas, o ambas cuestiones? Explica por qué.
+
+7. Cuando estás en el camino de un objeto en movimiento y tu destino es sufrir una fuerza de impacto, ¿es mejor que disminuyas la cantidad de movimiento de esa cosa, durante corto tiempo o durante largo tiempo? Explica por qué.
+
+8. ¿Por qué se aconseja extender tu mano hacia adelante cuando te preparas a cachar una bola rápida de béisbol a mano limpia?
+
+9. ¿Por qué no sería buena idea recargar el dorso de tu mano en la barda del jardín del parque de béisbol para atrapar un batazo muy largo?
+
+10. En el karate, ¿por qué es mejor que la fuerza se aplique durante un tiempo corto?
+
+11. En el boxeo, ¿por qué es mejor girar con el golpe?
+
+#### Rebote
+
+12. ¿Qué sufre el cambio mayor en cantidad de movimiento?
+
+a) una bola de béisbol al ser atrapada
+
+b) una bola de béisbol que es lanzada
+
+c) una bola de béisbol que es atrapada y a continuación lanzada de regreso
+
+En todos los casos las bolas tienen la misma rapidez justo antes de ser atrapadas e inmediatamente después de ser lanzadas.
+
+13. En la pregunta anterior, ¿en qué caso se requiere el mayor impulso?
+
+#### Conservación de la cantidad de movimiento
+
+14. ¿Puedes producir un impulso neto en un automóvil si te sientas dentro de él y empujas hacia adelante el tablero de instrumentos? ¿Pueden las fuerzas internas en un balón de fútbol producir un impulso que cambie la cantidad de movimiento del balón?
+
+15. ¿Es correcto decir que si no se ejerce impulso neto sobre un sistema, entonces no habrá cambio alguno de la cantidad de movimiento del sistema?
+
+16. ¿Qué significa decir que la cantidad de movimiento (o que cualquier otra cantidad) se conserva?
+
+17. Cuando se dispara una bala se conserva la cantidad de movimiento para el sistema bala-cañón. ¿Se conservaría la cantidad de movimiento del sistema, si la cantidad de movimiento no fuera una cantidad vectorial? Explica.
+
+#### Choques
+
+18. Describe la diferencia entre choque elástico y choque inelástico. ¿En cuál clase de choque se conserva la cantidad de movimiento?
+
+19. El carro de ferrocarril A rueda con determinada rapidez, y tiene un choque perfectamente elástico con el carro B, de la misma masa. Después del choque se observa que el carro A queda en reposo. ¿Cómo se compara la rapidez del carro B con la rapidez inicial del carro A?
+
+20. Si los carros de igual masa de la pregunta anterior quedan pegados después de chocar inelásticamente, ¿cómo se compara su rapidez después del choque con la rapidez inicial del carro A?
+
+## Cálculos de un paso
+
+Cantidad de movimiento = m × v
+
+1. ¿Cuál es la cantidad de movimiento de una bola de bolos de 8 kg que rueda a 2 m/s?
+
+2. ¿Cuál es la cantidad de movimiento de una caja de cartón de 50 kg que se desliza a 4 m/s por una superficie cubierta de hielo?
+
+Impulso = F × t
+
+3. ¿Qué impulso ocurre cuando una fuerza promedio de 10 N se ejerce sobre una carreta durante 2.5 segundos?
+
+4. ¿Qué impulso ocurre cuando la misma fuerza de 10 N actúa sobre la carretilla durante el doble de tiempo?
+
+Impulso = cambio en la cantidad de movimiento; F×t = delta (m×v)
+
+5. ¿Cuál es el impulso sobre una bola de 8 kg que rueda a 2 m/s cuando choca contra una almohada y se detiene?
+
+6. ¿Cuánto impulso detiene una caja de cartón de 50 kg que se desliza a 4 m/s cuando encuentra una superficie rugosa?
+
+Conservación de la cantidad de movimiento:
+
+m×v antes = m×v después
+
+7. Una bola de mastique de 2 kg que se mueve 3 m/s choca contra otra bola de mastique de 2 kg en reposo. Calcula la rapidez de las dos bolas unidas inmediatamente después del choque.
+
+8. Calcula la rapidez de las dos bolas de mastique si la que está en reposo es de 4 kg.
+
+## Proyecto
+
+Cuando estés muy adelantado en tus estudios, en una tarde libre, entra a un billar cercano y nota la conservación de la cantidad de movimiento. Observa que sin importar lo complicado de los choques entre las bolas, la cantidad de movimiento a lo largo de la línea de acción de la bola blanca es igual a la cantidad de movimiento combinada de todas las demás bolas, en la misma dirección anterior, después del impacto; y que los componentes de las cantidades de movimiento perpendiculares a esta línea de acción se anulan a cero después del impacto, es decir, tiene el mismo valor que antes del impacto en esta dirección. Apreciarás con más claridad tanto la naturaleza vectorial de la cantidad de movimiento como su conservación, cuando no se imparten efectos de giro a la bola blanca. Cuando se imparten tales efectos golpeando la bola fuera de su centro, también se conserva la cantidad de movimiento de rotación, lo cual complica algo el análisis. Pero independientemente de cómo se golpee la bola blanca, en ausencia de fuerzas externas, siempre se conservan tanto la cantidad de movimiento lineal como la de rotación. El pool o la carambola son una demostración de primera línea de la conservación de la cantidad de movimiento en acción.
+
+## Ejercicios
+
+  1. Para detener un súper tanque petrolero, se suelen parar sus motores más o menos a 25 km del puerto. ¿Por qué es tan difícil detener o virar un súper tanque?
+
+  2. En términos de impulso y cantidad de movimiento, ¿por qué los tableros de instrumentos acojinados hacen que los automóviles sean más seguros?
+
+  3. En términos de impulso y de cantidad de movimiento, ¿por qué las bolsas de aire de los automóviles reducen las probabilidades de lesiones en los accidentes?
+
+  4. ¿Por qué los gimnastas colocan cojines muy gruesos en el piso?
+
+  5. En términos de impulso y cantidad de movimiento, ¿por qué los escaladores prefieren las cuerdas de nailon, que se estiran bastante bajo tensión?
+
+  6. ¿Por qué es una locura para un practicante del salto en bungee utilizar un cable de acero en lugar de una cuerda elástica?
+
+  7. Cuando se salta desde una altura considerable, ¿por qué es conveniente caer con las rodillas algo flexionadas?
+
+  8. Una persona puede sobrevivir a un impacto de pie, con una rapidez aproximada de 12 m/s (27 mi/h) sobre concreto; a15 m/s (34 mi/h) sobre tierra y a 34 m/s (76 mi/h) sobre agua. ¿Por qué los valores son diferentes en las superficies diferentes?
+
+  9. Cuando en el béisbol se atrapa un foul, ¿por qué es importante extender los brazos a mano limpia hacia arriba de manera que las manos se puedan mover hacia abajo al atrapar la pelota?
+
+  10. Anteriormente, los automóviles se fabricaban para hacerlos tan rígidos como fuera posible; mientras que en la actualidad los automóviles se diseñan para abollarse con los golpes. ¿Por qué?
+
+  11. En términos de impulso y cantidad de movimiento, ¿por qué es importante que las aspas de un helicóptero desvíen al aire hacia abajo?
+
+  12. Un vehículo lunar se prueba en la Tierra, con una rapidez de 10 km/h. Cuando viaje a esa velocidad sobre la Luna, su cantidad de movimiento será ¿mayor, menor o igual?
+
+  13. En general es mucho más difícil detener un camión pesado que una patineta, cuando se mueven con la misma rapidez. Describe un caso en el que la patineta pueda necesitar más fuerza de frenado (considera tiempos relativos).
+
+  14. Si lanzas un huevo crudo contra una pared lo romperás; pero si lo lanzas con la misma rapidez contra una sábana colgante no se romperá. Explica esto usando los conceptos estudiados en este capítulo.
+
+  15. ¿Por qué es difícil para un bombero sujetar una manguera que lanza grandes chorros de agua con alta rapidez?
+
+  16. ¿Tendrías inconveniente en disparar un arma de fuego cuyas balas fueran 10 veces más masivas que el arma? Explica por qué.
+
+  17. ¿Por qué los impulsos que ejercen los objetos que chocan entre sí son iguales y opuestos?
+
+  18. Si se lanza una pelota hacia arriba, desde el piso, con una cantidad de movimiento de 10 kg m/s, ¿cuál es la cantidad de movimiento del retroceso del mundo? ¿Por qué no la sentimos?
+
+  19. Cuando una manzana cae de un árbol y golpea el piso sin rebotar, ¿qué destino tuvo su cantidad de movimiento?
+
+  20. ¿Por qué un golpe es más intenso cuando se da con el puño limpio que con un guante de boxeo?
+
+  21. ¿Por qué se golpea más fuerte con guantes de boxeo de 6 onzas que con guantes de 16 onzas?
+
+  22. Un boxeador puede golpear un costal pesado durante más de una hora sin cansarse, pero se cansa con rapidez, en unos minutos, al boxear contra un oponente. ¿Por qué? (Sugerencia: cuando el puño del boxeador se apunta al costal, ¿qué suministra el impulso para detener los golpes? Cuando su puño se dirige al oponente, ¿qué o quién suministra el impulso para detener los golpes antes de que conecten?)
+
+  23. Los carros del ferrocarril se enganchan con holgura, para que haya una demora apreciable desde que la locomotora mueve al primero hasta que mueve al último. Describe la ventaja de este enganche holgado y la flojedad entre los carros, desde el punto de vista del impulso y de la cantidad de movimiento.
+
+  24. Si sólo una fuerza externa puede cambiar la velocidad de un cuerpo, ¿por qué la fuerza interna de los frenos pueden detener un automóvil?
+
+  25. Estás en la proa de una canoa que flota cerca de un muelle. Saltas, esperando que caerás fácilmente en el puente, pero en lugar de ello caes al agua. Explica por qué.
+
+  26. Explica cómo un enjambre de insectos voladores puede tener una cantidad de movimiento neta igual a cero.
+
+  27. Una persona totalmente vestida está en reposo en la mitad de un estanque, sobre hielo perfectamente sin fricción, y debe llegar a la orilla. ¿Cómo lo podría hacer?
+
+  28. Si lanzas una pelota horizontalmente estando parado sobre patines, rodarás hacia atrás con una cantidad de movimiento que coincide con la de la pelota. ¿Rodarás hacia atrás si haces los movimientos de lanzamiento, pero no lanzas la bola? Explica por qué.
+
+  29. Se pueden explicar los ejemplos de los dos ejercicios anteriores en términos de conservación de la cantidad de movimiento y en términos de la tercera ley de Newton. Supongamos que los hayas contestado en términos de la conservación de la cantidad de movimiento, contéstalos en términos de la tercera ley de Newton (o al revés, si los contestaste en términos de la tercera ley de Newton).
+
+  30. Explica cómo la conservación de la cantidad de movimiento es una consecuencia de la tercera ley de Newton.
+
+  31. Tu amigo dice que se infringe la ley de la conservación de la cantidad de movimiento cuando una pelota rueda cuesta abajo y gana cantidad de movimiento. ¿Qué le contestas?
+
+  32. Coloca una caja en un plano inclinado, y aumentará su cantidad de movimiento conforme se desliza hacia abajo. ¿Qué es lo que provoca este cambio de cantidad de movimiento?
+
+  33. ¿Qué se entiende por sistema y cómo se relaciona con la conservación de la cantidad de movimiento?
+
+  34. Si lanzas una pelota hacia arriba, ¿se conserva la cantidad de movimiento de la pelota? ¿Se conserva la cantidad de movimiento del sistema pelota Tierra? Explica tus respuestas.
+
+  35. La cantidad de movimiento de una manzana que cae al suelo no se conserva porque la fuerza externa de la gravedad actúa sobre ella. Pero la cantidad de movimiento se conserva en un sistema más grande. Explica por qué.
+
+  36. Deja caer una piedra desde el borde de un barranco profundo. Identifica el sistema en el que la cantidad neta de movimiento es cero cuando cae la piedra.
+
+  37. Un automóvil se desbarranca y choca contra el fondo del cañón. Identifica el sistema en el que la cantidad de movimiento neta sea cero durante el choque.
+
+  38. Bronco se lanza desde un helicóptero suspendido en el aire y ve que aumenta su cantidad de movimiento. ¿Infringe esto la conservación de la cantidad de movimiento? Explica por qué.
+
+  39. ¿Cambiaría tu respuesta en el ejercicio anterior, si el aire llegara a la vela y se detuviera sin rebotar?
+
+  40. Señala la ventaja de simplemente quitar la vela en los ejercicios anteriores.
+
+  41. ¿Qué ejerce más impulso sobre una placa de acero: balas de ametralladora que rebotan contra ella, o las mismas balas que se aplastan y se pegan a ella?
+
+  42. Conforme lanzas una pelota hacia arriba, ¿hay un cambio en la fuerza normal sobre tus pies? ¿Hay algún cambio cuando atrapas la pelota? (Piensa en hacer esto mientras estás de pie sobre una báscula.)
+
+  43. Cuando viajas en tu automóvil a cierta rapidez por una carretera, de repente la cantidad de movimiento de un insecto cambia, al estrellarse en tu parabrisas. En comparación con el cambio de la cantidad de movimiento del insecto, ¿en cuánto cambia la cantidad de movimiento de tu automóvil?
+
+  44. Si una pelota de tenis y una bola de bolos chocan en el aire, cada una experimenta la misma magnitud de cambio en la cantidad de movimiento. Sustenta tu respuesta.
+
+  45. ¿Un choque de frente entre dos automóviles sería más perjudicial para los ocupantes, si los vehículos se quedaran unidos o si rebotaran por el impacto?
+
+  46. Una carretilla de 0,5 kg en una pista de aire se mueve a 1,0 m/s a la derecha, dirigiéndose hacia una carretilla de 0,8 kg que se mueve a la izquierda a 1,2 m/s. ¿Cuál es la dirección de la cantidad de movimiento del sistema constituido por las dos carretillas?
+
+  47. Cuando un chorro de arena que cae verticalmente llega a una carretilla que se mueve horizontalmente, ésta desacelera. Ignorando la fricción entre la carretilla y la pista, describe dos razones de esto, una en términos de una fuerza horizontal que actúe sobre la carretilla, y otra en términos de la conservación de la cantidad de movimiento.
+
+  48. En una película, el héroe salta en línea recta hacia abajo desde un puente hacia un pequeño bote que continúa moviéndose sin cambiar su velocidad. ¿Qué principio de física se está infringiendo aquí?
+
+  49. Supón que hay tres astronautas fuera de una nave espacial, y que van a jugar a las atrapadas. Todos ellos pesan igual en la Tierra, y tienen iguales fuerzas. El primero lanza al segundo hacia el tercero, y comienza el juego. Describe el movimiento de los astronautas conforme avanza el juego. ¿Cuánto tiempo durará el juego?
+
+  50. ¿Para lanzar una pelota ejerces algún impulso sobre ella? ¿Ejerces un impulso para atraparla a la misma velocidad? ¿Más o menos qué impulso ejerces, en comparación, si la atrapas y de inmediato la regresas? (Imagínate sobre una patineta.)
+
+  51. Cuando un núcleo estacionario de uranio sufre la fisión, se rompe y forma dos partes desiguales, que salen despedidas. ¿Qué puedes decir acerca de las cantidades de movimiento de las partes? ¿Qué puedes decir acerca de las rapideces de las partes?
+
+  52. Una bola de billar se detiene cuando choca de frente contra una bola en reposo. Sin embargo la bola no puede detenerse por completo si el choque no es exactamente de frente; esto es, si la segunda bola se mueve formando un ángulo con la trayectoria de la primera. ¿Sabes por qué? (Sugerencia: ten en cuenta la cantidad de movimiento antes y después del choque, en la dirección inicial de la primera bola y también en la dirección perpendicular a la dirección inicial.)
+
+## Problemas
+
+1. Determina la fuerza o fricción que actúa sobre una caja de cartón de 50 kg que se desliza a 4 m/s si se detiene en 3 s.
+
+2. Determina:
+
+a) la cantidad de fuerza ejercida sobre una bola de 8 kg que rueda a 2 m/s cuando choca contra una almohada y se detiene en 0.5 s.
+
+b) ¿Cuánta fuerza ejerce la almohada sobre la bola?
+
+3. Un automóvil choca contra un muro a 25 m/s, y se detiene en 0,1 s. Calcula la fuerza promedio ejercida por un cinturón de seguridad sobre un maniquí de prueba de 75 kg.
+
+4. Una grúa deja caer por accidente un automóvil de 1.000 kg, y se estrella contra suelo a 30 m/s, deteniéndose en forma abrupta. Se presentan las preguntas a y b. ¿Cuál se puede contestar con estos datos? Explica por qué.
+
+a) ¿Qué impulso actúa sobre el automóvil cuando choca?
+
+b) ¿Cuál es la fuerza de impacto sobre el automóvil?
+
+5. En un juego de béisbol, una pelota de masa m = 0,15 kg cae directamente hacia abajo con una rapidez de v = 40 m/s, en las manos de un aficionado. ¿Qué impulso F×t debe suministrarse para que se detenga la bola? Si la bola se detiene en 0,03 s, ¿cuál es la fuerza promedio en la mano de quien la atrapa?
+
+6. Judith (40 kg de masa) se para sobre hielo resbaladizo y atrapa a su perro (15 kg de masa) saltarín, Atti, que se mueve horizontalmente a 3.0 m/s. ¿Cuál es la rapidez de Judith y su perro después de atraparlo?
+
+7. Una locomotora diesel pesa cuatro veces más que un furgón de carga. Si la locomotora rueda a 5 km/h y choca contra un furgón que inicialmente está en reposo, ¿con qué rapidez siguen rodando los dos después de acoplarse?
+
+8. Un pez de 5 kg nada a 1 m/s cuando se traga a un distraído pez de 1 kg que a su vez nada en sentido contrario, a una velocidad que hace que los dos peces queden parados inmediatamente después del bocado. ¿Cuál es la velocidad v del pez pequeño antes de que se lo traguen?
+
+9. Superman llega a un asteroide en el espacio exterior y lo lanza a 800 m/s, tan rápido como una bala. El asteroide es 1.000 veces más masivo que Superman. En los dibujos animados, se ve que Superman queda inmóvil después del lanzamiento. Si entra la física en este caso, ¿cuál sería su velocidad de retroceso?
+
+# CAPÍTULO 3: Energía
+
+*Imagen 23. Un preso empuja la pared*
+
+Descripción de la Imagen 23. Un preso empuja desesperadamente la pared. Puede gastar energía al empujar el muro, pero si no lo mueve, no se efectúa trabajo sobre el muro.
+
+Quizás el concepto más importante de toda la ciencia sea la energía. La combinación de energía y materia forma el Universo: la materia es sustancia, en tanto que la energía es lo que mueve la sustancia. Es fácil de entender la idea de materia. La materia es lo que podemos ver, oler y sentir. Tiene masa y ocupa espacio. En cambio, la energía es abstracta; no la vemos, ni la olemos, ni la sentimos la mayoría de las veces. Es sorprendente que Isaac Newton no conociera la idea de energía, y que todavía se debatiera su existencia en la década de 1850. Aunque la energía nos es muy familiar, resulta difícil definirla, porque no sólo es una “cosa”, sino que es una cosa y un proceso a la vez, algo así como si fuera a la vez un sustantivo y un verbo. Las personas, los lugares y las cosas tienen energía, aunque normalmente observamos la energía sólo cuando se transfiere o se transforma. Nos llega en forma de ondas electromagnéticas del Sol, y la sentimos como energía térmica; es captada por las plantas y une las moléculas de la materia; está en el alimento que comemos y la recibimos a través de la digestión. Incluso la materia misma es energía condensada y embotellada, como se estableció en la célebre fórmula de Einstein, E = mc2 (que se lee, E =m × c al cuadrado), a la cual verás acabando tus estudios. Por ahora comenzaremos nuestro estudio de la energía analizando un concepto relacionado: el trabajo.
+
+## Trabajo
+
+En el capítulo anterior explicamos que los cambios en el movimiento de un objeto dependen tanto de la fuerza como de “cuánto tiempo” actúa la fuerza. A la cantidad “fuerza × tiempo” la llamamos impulso. Sin embargo, no siempre “cuánto tiempo” equivale a tiempo. También puede significar distancia. Cuando se considera la expresión fuerza × distancia se habla de una cantidad totalmente distinta: el trabajo.
+
+Cuando levantamos una carga contra la gravedad terrestre, hacemos trabajo. Cuanto más pesada sea la carga, o cuanto más alto la levantemos, realizaremos mayor trabajo. Siempre que se efectúa trabajo vienen a colación dos cuestiones:
+
+    1) la aplicación de una fuerza y
+
+    2) el movimiento de algo debido a esa fuerza.
+
+Para el caso más sencillo, cuando la fuerza es constante y el movimiento es en línea recta y en dirección de la fuerza, el trabajo efectuado por una fuerza aplicada sobre un objeto se define como el producto de la fuerza por la distancia que se mueve el objeto. En forma abreviada:
+
+Trabajo = Fuerza × distancia
+
+T = F × d
+
+Que se lee, T mayúscula = F mayúscula × d minúscula
+
+Si subimos un piso con dos cargas, hacemos el doble de trabajo que si lo subimos sólo con una, porque la fuerza necesaria para subir el doble de peso es del doble también. Asimismo, si subimos dos pisos con una carga, en vez de un piso, hacemos el doble de trabajo porque la distancia es del doble.
+
+Vemos que en la definición de trabajo intervienen tanto una fuerza como una distancia. Un atleta que sujeta sobre su cabeza unas pesas de 1,000 N no hace trabajo sobre las pesas. Se puede cansar de hacerlo, pero si las pesas no se mueven por la fuerza que él haga, no hace trabajo sobre las pesas. Se puede hacer trabajo sobre los músculos, los cuales se estiran y se contraen, y ese trabajo es la fuerza por la distancia, en una escala biológica; pero ese trabajo no se hace sobre las pesas. Sin embargo, el levantar las pesas es distinto. Cuando el atleta sube las pesas desde el piso, sí efectúa trabajo.
+
+Por lo general, el trabajo cae en dos categorías. Una de éstas es el trabajo que se realiza contra otra fuerza. Cuando un arquero estira la cuerda del arco, realiza trabajo contra las fuerzas elásticas de este último. De manera similar, cuando se eleva el pilón de un martinete, se requiere trabajo para levantar el pilón contra la fuerza de gravedad. Cuando alguien hace “lagartijas”, realiza trabajo contra su propio peso. Se efectúa trabajo sobre algo cuando se le hace moverse contra la influencia de una fuerza que se opone, la cual a menudo es la fricción.
+
+La otra categoría de trabajo es el que se efectúa para cambiar la rapidez de un objeto. Esta clase de trabajo se hace al acelerar o al desacelerar un automóvil. En ambas categorías, el trabajo implica una transferencia de energía.
+
+En la unidad de medición del trabajo se combinan una unidad de fuerza (N) con una unidad de distancia (m); la unidad de trabajo es el newton-metro (N×m), que también se llama joule o julio (J). Se efectúa un julio de trabajo cuando se ejerce una fuerza de 1 newton durante una distancia de 1 metro, como cuando levantas una manzana sobre tu cabeza. Para los valores grandes se habla de kilojulios (kJ, miles de julios) o de megajulios (MJ, millones de julios). Un levantador de pesas por ejemplo efectúa kilojulios de trabajo. Detener un camión de carga que viaja a 100 km/h requiere megajulios de trabajo.
+
+Potencia
+
+En la definición de trabajo no se dice cuánto tiempo se emplea para realizar el trabajo. Se efectúa la misma cantidad de trabajo al subir una carga por un tramo de escaleras si se camina o si se corre. Entonces, ¿por qué nos cansamos más al subir las escaleras apresuradamente, en unos cuantos segundos, que al subirlas durante algunos minutos? Para entender tal diferencia necesitamos hablar de una medida de qué tan rápido se hace el trabajo; es la potencia. La potencia es igual a la cantidad de trabajo efectuado entre el tiempo en el que se efectúa:
+
+Potencia = trabajo efectuado ÷ intervalo de tiempo
+
+Un motor de gran potencia puede efectuar trabajo con rapidez. Un motor de automóvil que tenga el doble de potencia que otro no necesariamente produce el doble de trabajo ni hace que el automóvil avance al doble de velocidad que un motor con menos potencia. El doble de potencia quiere decir que podemos hacer la misma cantidad de trabajo en la mitad del tiempo, o el doble de trabajo en el mismo tiempo. Un motor más potente acelera un automóvil hasta determinada rapidez en menor tiempo que un motor menos potente.
+
+Veamos otra forma de considerar la potencia: un litro (L) de combustible puede efectuar cierta cantidad de trabajo, pero la potencia que se produce cuando lo quemamos tomaría cualquier valor, que depende de lo rápido que se queme. Puede hacer trabajar una podadora de césped durante media hora, o un motor de reacción durante medio segundo.
+
+La unidad de la potencia es el joule o julio por segundo (J/s), que también se llama watt (en honor de James Watt, el ingeniero que desarrolló la máquina de vapor en el siglo XVIII). Un watt (W) de potencia se ejerce cuando se realiza un trabajo de 1 julio en 1 segundo. Un kilowatt (kW) es igual a 1,000 watts. Un megawatt (MW) equivale a 1 millón de watts. En Estados Unidos se acostumbra evaluar los motores de combustión en caballos de fuerza; y los aparatos eléctricos, en kilowatts. No obstante se puede usar cualquiera de las dos unidades. En el sistema métrico, los automóviles se clasifican en kilowatts. (Un caballo de fuerza equivale a las tres cuartas partes de un kilowatt, por lo que un motor de 134 caballos de fuerza es de 100 kW.)
+
+Dato curioso: Los tres motores principales de un trasbordador espacial pueden desarrollar 33,000 MW de potencia, al quemar combustible a la formidable tasa de 3,400 kg/s. Es como vaciar una alberca mediana en 20 s.
+
+#### Examínate
+
+Cuando un montacargas se reemplaza por uno nuevo que tiene el doble de potencia, ¿cuánta mayor carga podrá levantar en el mismo periodo de tiempo? Si levanta la misma carga, ¿qué tanto más rápido opera?
+
+#### Comprueba tu respuesta
+
+El montacargas que tiene el doble de potencia levantará el doble de la carga en el mismo tiempo o la misma carga en la mitad del tiempo. De cualquier forma, el dueño del nuevo montacargas estará muy contento.
+
+## Energía mecánica
+
+Cuando un arquero efectúa trabajo al tensar un arco, el arco tensado tiene la capacidad de realizar trabajo sobre la flecha. Cuando se hace trabajo para levantar el pesado pilón de un martinete, el pilón tiene la capacidad de efectuar trabajo sobre el objeto que golpea cuando cae. Cuando se efectúa trabajo al hacer girar un mecanismo de cuerda, la cuerda adquiere la capacidad de efectuar trabajo sobre los engranajes que impulsan un reloj, haciendo sonar una campana o una alarma.
+
+En cada caso se ha adquirido algo que permite al objeto efectuar trabajo. Ese “algo” podría ser una compresión de átomos en el material de un objeto, una separación física de objetos que se atraen o un reacomodo de cargas eléctricas en las moléculas de una sustancia. Este “algo” que permite a un objeto efectuar trabajo es la energía. Al igual que el trabajo, la energía se expresa en julios. Aparece en muchas formas, las cuales describiremos en los siguientes capítulos. Por ahora nos enfocaremos en las formas más comunes de energía mecánica, que es la forma de energía debida a la posición o el movimiento de algo. La energía mecánica puede estar en forma de energía potencial, de energía cinética o de la suma de ambas.
+
+Energía potencial
+
+Un objeto puede almacenar energía gracias a su posición. A la energía que se almacena y está lista para utilizarse se le llama energía potencial (EP), ya que en su estado almacenado tiene el potencial de efectuar trabajo. Por ejemplo, un resorte estirado o comprimido tiene el potencial de hacer trabajo. Cuando se tensa un arco, éste almacena energía. Una banda de goma estirada tiene energía potencial debido a su posición relativa con respecto a las partes, porque si es parte de una resortera, es capaz de efectuar trabajo.
+
+La energía química de los combustibles también es energía potencial, ya que en realidad es energía de posición en el nivel microscópico. Está disponible cuando se alteran las posiciones de las cargas eléctricas dentro y entre las moléculas; esto es, cuando se produce un cambio químico. Cualquier sustancia que pueda efectuar trabajo por medio de acciones químicas posee energía potencial. Esta energía caracteriza los combustibles fósiles, los acumuladores eléctricos y el alimento que ingerimos.
+
+*Imagen 24. Energía Potencial*
+
+Descripción de la Imagen 24. Se presentan 3 casos, a, b y c. La energía potencial de la esfera de 10 N es igual (30 J) en los tres casos, porque el trabajo que se efectúa para subirla 3 m es el mismo. a) Una base de altura 3 m. Se eleva con 10 N de fuerza, b) Un plano inclinado con 5 metros de recorrido pero 3 m de altura. Se empuja hacia arriba con una fuerza de 6 N por el plano inclinado de 5 m. c) Una escalera para llegar a una altura de 3 m. si se sube con 10 N por escalones de 1 m. No se efectúa trabajo para moverla horizontalmente (sin tomar en cuenta la fricción).
+
+Se requiere trabajo para elevar objetos en contra de la gravedad terrestre. La energía potencial de un cuerpo a causa de su posición elevada se llama energía potencial gravitacional. El agua de una presa y el pilón de un martinete tienen energía potencial gravitacional. Siempre que se realice trabajo, cambia la energía.
+
+La cantidad de energía potencial gravitacional que tiene un objeto elevado es igual al trabajo realizado para elevarlo en contra de la gravedad. El trabajo efectuado es igual a la fuerza necesaria para moverlo hacia arriba, por la distancia vertical que sube (recuerda que T = F×d). Una vez que comienza el movimiento hacia arriba, la fuerza hacia arriba para mantenerlo en movimiento a velocidad constante es igual al peso, m×g, del objeto. Entonces, el trabajo efectuado para subirlo a una altura h es el producto m×g×h.
+
+Energía potencial gravitacional = peso × altura
+
+EP = m×g×h
+
+Observa que la altura es la distancia arriba de un nivel de referencia elegido, por ejemplo el suelo o el piso de un edificio. La energía potencial gravitacional, m×g×h, es relativa a ese nivel, y sólo depende de m×g y de h. En la Imagen 24 puedes ver que la energía potencial de la esfera elevada no depende de la trayectoria que siguió para subir.
+
+La energía potencial, sea gravitacional o cualquiera otra, tiene importancia sólo cuando cambia, es decir, cuando efectúa trabajo o se transforma en energía de alguna otra forma. Por ejemplo, si la esfera de la Imagen 24 cae desde su posición elevada y efectúa 20 julios de trabajo al llegar abajo, entonces perdió 20 julios de energía potencial. No importa la energía potencial total que tenga la esfera cuando se elevó, respecto a algún nivel de referencia. Lo que interesa es la cantidad de energía potencial que se convierte en alguna otra forma. Sólo tienen significado los cambios de energía potencial. Una de las formas de energía en que se puede transformar la energía potencial es energía de movimiento, o energía cinética.
+
+Dato curioso: Peso = m×g, así que un bloque de hielo de 10 kg pesa 10 Newtons. ¡Eureka!
+
+#### Examínate
+
+1. ¿Cuánto trabajo se efectúa al levantar el bloque de hielo de 100 N una distancia vertical de 2 m, como se muestra en la Imagen 7.6?
+
+2. ¿Cuánto trabajo se efectúa al empujar hacia arriba el mismo bloque de hielo por la rampa de 4 m de longitud? (La fuerza necesaria es de tan sólo 50 N, que es la razón por la cual se utilizan las rampas.)
+
+3. ¿Cuál es el aumento en la energía potencial gravitacional del bloque en cada caso?
+
+#### Comprueba tus respuestas
+
+1. T = F×d = 100 N × 2 m = 200 J.
+
+2. T = F×d = 50 N × 4 m = 200 J.
+
+3. En cualquier caso la energía potencial del bloque se incrementa en 200 J. La rampa tan sólo hace que el trabajo sea más fácil de realizar.
+
+### Energía cinética
+
+Si empujamos un objeto lo podemos mover. Si un objeto se mueve, entonces, es capaz de efectuar trabajo. Tiene energía de movimiento y decimos que tiene energía cinética (EC). La energía cinética de un objeto depende de su masa y de su rapidez. Es igual a la mitad de la masa multiplicada por el cuadrado de la rapidez.
+
+Energía cinética = ½ × masa × rapidez2
+
+Que se lee, Energía cinética = un medio de la masa por la rapidez al cuadrado
+
+EC = ½ ×m×v2
+
+Que se lee, EC = un medio de la masa por la rapidez al cuadrado
+
+Cuando lanzas una pelota, realizas trabajo sobre ella para darle rapidez cuando sale de tu mano. Entonces, la pelota en movimiento podrá golpear algo y empujarlo, haciendo trabajo sobre eso que golpea. La energía cinética de un objeto en movimiento es igual al trabajo requerido para llevarlo desde el reposo hasta esa rapidez, o al trabajo que el objeto puede realizar mientras llega al reposo:
+
+Fuerza neta × distancia = energía cinética
+
+O, en forma de ecuación,
+
+F×d = ½ × m ×v2
+
+Que se lee, F mayúscula por d = un medio por m por v al cuadrado.
+
+Observa que la rapidez está al cuadrado, de manera que si la rapidez de un objeto se duplica, su energía cinética se cuadruplica (dos elevado a la dos es = 4). En consecuencia, para duplicar la rapidez, habrá que multiplicar el trabajo por 4. Siempre que se realiza trabajo, la energía cambia.
+
+*Imagen 25. Transiciones de la energía en un péndulo*
+
+Descripción de la Imagen 25. Transiciones de la energía en un péndulo. La EP es en relación con el punto más bajo del péndulo, cuando está vertical. Cuando el péndulo está en el punto más alto hay energía potencial y un poco más abajo energía potencial + cinética. En su punto más sólo energía cinética y así sucesivamente.
+
+### Teorema del trabajo y la energía
+
+Cuando un automóvil acelera, su aumento de energía cinética se debe al trabajo que se efectúa sobre él. También, cuando desacelera, se efectúa trabajo para reducir su energía cinética. Entonces, se puede decir que
+
+Trabajo = cambio de energía cinética
+
+En forma de ecuación,
+
+T = ΔEC
+
+Que se lee, T mayúscula = delta de EC.
+
+El trabajo es igual al cambio de energía cinética. Éste es el teorema del trabajo y la energía. En esta ecuación el trabajo es el trabajo neto, es decir, el trabajo basado en la fuerza neta. Por ejemplo, si empujas un objeto y también la fricción actúa sobre el objeto, el cambio de energía cinética es igual al trabajo efectuado por la fuerza neta, que es tu empuje menos la fricción. En este caso, sólo parte del trabajo total que haces cambia la energía cinética del objeto. El resto se transforma en calor gracias a la fricción. Si la fuerza de fricción es igual y opuesta a tu empuje, la fuerza neta sobre el objeto es cero, y no se hace trabajo neto. Entonces, el cambio de la energía cinética del objeto es cero.
+
+El teorema del trabajo y la energía también se aplica cuando disminuye la rapidez. Cuando oprimes el pedal del freno en un automóvil y lo haces patinar, es porque el asfalto hace trabajo sobre el vehículo. El trabajo es la fuerza de fricción multiplicada por la distancia durante la cual actúa esa fuerza de fricción.
+
+Es interesante que la fuerza de fricción entre un neumático que derrapa y el asfalto sea igual cuando el automóvil se mueve despacio o aprisa. En un frenado de emergencia con frenos antibloqueo, la única forma de que los frenos hagan más trabajo es que actúen en una distancia mayor. Un automóvil que avanza con el doble de rapidez que otro requiere cuatro veces (dos elevado a la dos = 4) más trabajo para detenerse. Puesto que la fuerza de fricción es casi la misma para ambos vehículos, el que avanza más rápido necesita cuatro veces más distancia para detenerse. La misma regla se aplica a los frenos de modelo más antiguo que pueden bloquear las llantas. La fuerza de fricción en el neumático que se patina es también casi independiente de la rapidez. En las investigaciones de los accidentes se tiene muy en cuenta que un automóvil que viaja a 100 kilómetros por hora, con una energía cinética cuatro veces mayor que si fuera a 50 kilómetros por hora, patinará cuatro veces más lejos, en una frenada de emergencia. La energía cinética depende de la rapidez al cuadrado.
+
+Los frenos de un automóvil convierten la energía cinética en calor. Los conductores profesionales están familiarizados con otra forma de frenar un vehículo: cambiar la palanca de velocidades a una velocidad más baja y dejar que el motor frene. Los automóviles híbridos actuales hacen lo mismo y desvían la energía de frenado a la batería eléctrica de almacenamiento, donde se utiliza para complementar la energía generada por la combustión de la gasolina. ¡Bravo por los automóviles híbridos!
+
+Dato curioso: La “caída” cuesta debajo de la montaña rusa produce una rapidez vertiginosa, y esta energía cinética la utiliza el carro para subir por la empinada pista que conduce a la siguiente joroba.
+
+El teorema del trabajo y la energía se aplica más allá de los cambios en la energía cinética. El trabajo puede cambiar la energía potencial de un dispositivo mecánico, la energía térmica de un sistema térmico, o la energía eléctrica en un aparato eléctrico. El trabajo no es una forma de energía, sino una forma de transferir energía de un lugar a otro, o de una forma a otra.
+
+La energía cinética y la energía potencial son dos entre muchas otras formas de energía, y son la base de algunas como la energía química, la energía nuclear, el sonido y la luz. La energía cinética promedio del movimiento molecular aleatorio se relaciona con la temperatura; la energía potencial de las cargas eléctricas con el voltaje; y las energías, cinética y potencial, del aire en vibración definen la intensidad del sonido. Hasta la luz se origina en el movimiento de los electrones dentro de los átomos. Toda forma de energía puede transformarse en cualquier otra forma.
+
+#### Examínate
+
+1. Cuando estás conduciendo un automóvil a 90 km/h, ¿qué tanta distancia necesitarías para detenerte comparada con la necesaria si fueras conduciendo a 30 km/h?
+
+2. ¿Puede tener energía un objeto?
+
+3. ¿Puede tener trabajo un objeto?
+
+#### Comprueba tus respuestas
+
+1. Nueve veces más lejos. El vehículo tiene nueve veces más energía cinética cuando se desplaza tres veces más aprisa = ½ × m × (3×v)2 (que se lee = ½ de la masa por (3 por v) al cuadrado). La fuerza de fricción comúnmente será la misma en ambos casos; por consiguiente, para hacer nueve veces el trabajo se requiere nueves veces esa distancia. = 9 × ½ × m × v2
+
+2. Sí, pero en un sentido relativo. Por ejemplo, un objeto elevado podría tener EP relativa al suelo, pero no relativa a un punto a la misma elevación. De manera similar, la EC que tiene un objeto es con respecto a un marco de referencia, usualmente la superficie terrestre. (Veremos que los objetos materiales tienen energía de ser, E = m×c2 (se lee, E mayúscula = m por c elevado al cuadrado), la energía congelada que forma su masa.) ¡Investiga más!
+
+3. No, a diferencia de la cantidad de movimiento o de la energía, el trabajo no es algo que tenga un objeto. El trabajo es algo que hace un objeto a otro objeto. Un objeto puede hacer trabajo sólo si tiene energía.
+
+## Conservación de la energía
+
+Más importante que saber qué es la energía es entender cómo se comporta: cómo se transforma. Comprenderemos mejor los procesos y los cambios que suceden en la naturaleza si los analizamos en términos de cambios de energía, es decir, transformaciones de una a otra forma, o de transferencias de energía de un lugar a otro. La energía es la forma que tiene la naturaleza de llevar la cuenta.
+
+Examinemos los cambios de energía cuando trabaja un martinete. El trabajo efectuado para subir el pilón y darle energía potencial se transforma en energía cinética cuando se suelta el pilón. Esta energía se transfiere al pilote que está abajo de él. La distancia que se sume al pilote en el terreno, multiplicada por la fuerza promedio del impacto, es casi igual a la energía potencial inicial del pilón. Decimos casi, porque algo de la energía se emplea en calentar el terreno y el pilón durante la penetración. Si se tiene en cuenta la energía térmica, se ve que la energía se transforma sin pérdida ni ganancia neta. ¡Notable!
+
+El estudio de las diversas formas de energía y sus transformaciones entre sí ha conducido a una de las grandes generalizaciones de la física: la ley de la conservación de la energía:
+
+La energía no se puede crear ni destruir; se puede transformar de una forma a otra, pero la cantidad total de energía nunca cambia.
+
+Cuando examinamos cualquier sistema en su totalidad, sea tan sencillo como un péndulo que oscila o tan complejo como una supernova que explota, hay una cantidad que no se crea ni se destruye: la energía. Puede cambiar de forma, o tan sólo se puede transferir de un lugar a otro; pero hasta donde sabemos, la cuenta total de la energía permanece igual. Esta cuenta de energía considera el hecho de que los átomos que forman la materia son en sí mismos paquetes de energía concentrada. Cuando los núcleos de los átomos se reacomodan son capaces de liberar grandes cantidades de energía. El Sol brilla porque algo de su energía nuclear se transforma en energía radiante.
+
+La compresión enorme debida a la gravedad, y las temperaturas extremadamente altas en lo más profundo del Sol funden los núcleos de los átomos de hidrógeno y forman núcleos de helio. Se trata de la fusión termonuclear, proceso que libera energía radiante, y una pequeña parte de ella llega a la Tierra. Parte de la energía que llega a la Tierra la absorben las plantas (y otros organismos fotosintéticos) y, a la vez, parte de ella se almacena en el carbón. Otro tanto sostiene la vida en la cadena alimenticia que comienza con las plantas (y otros organismos fotosintetizadores), y parte de esta energía se almacena después en forma de petróleo. Algo de la energía solar se consume al evaporar agua de los mares, y parte de esa energía regresa a la Tierra en forma de lluvia que puede regularse en una presa. En virtud de su posición elevada, el agua detrás de la presa tiene energía que sirve para impulsar una planta generadora abajo de la presa, donde se transformará en energía eléctrica. Esta energía viaja por líneas de transmisión hasta los hogares, donde se usa para el alumbrado, la calefacción, la cocina y para hacer funcionar diversos aparatos electrodomésticos. ¡Qué maravilla es que la energía se transforme de una a otra forma!
+
+*Imagen 26. Acróbata en la cúspide*
+
+Descripción de la Imagen 26. En el circo un acróbata en la cúspide de un poste tiene una energía potencial de 10.000 J. Al lanzarse su energía potencial se convierte en energía cinética. La energía del acróbata que en las posiciones sucesivas a la cuarta parte EP=7.500 y EC=2.500. A la mitad EP=5.000 y EC=5.000, a los tres cuartos EP=2.500 y EC=7.500 y la bajada completa EP=0 y EC=10.000. Nota que la energía total es constante.
+
+### Lectura sugerida: Energía y tecnología
+
+Trata de imaginar cómo sería la vida antes de que los seres humanos controlaran la energía. Imagínate la vida doméstica sin luz eléctrica, refrigeradores, sistemas de calefacción y de aire acondicionado, teléfonos, radios y TV, por no mencionar el automóvil de la familia. Quizá pensemos que una vida así sería romántica y mejor sin estas cosas; pero sólo cuando no tenemos en cuenta las horas del día que llevaría lavar la ropa, cocinar y calentar el hogar. También habría que no tener en cuenta lo difícil que era conseguir un doctor en una emergencia antes de que llegara el teléfono. Y en aquellos días el doctor casi no contaba más que con su maletín con laxantes, aspirinas y píldoras dulces; las muertes de niños eran impactantes.
+
+Estamos tan acostumbrados a las ventajas de la tecnología que sólo apenas percibimos nuestra dependencia de presas, plantas eléctricas, transporte masivo, electrificación, medicina y agricultura modernas, tan sólo para existir. Cuando nos deleitamos con un platillo exquisito casi no pensamos en la tecnología que se empleó en el crecimiento, cosecha y abastecimiento de sus ingredientes para tenerlo en nuestra mesa. Cuando encendemos una lámpara reparamos poco en la red eléctrica con control centralizado que enlaza a centrales generadoras mediante largas líneas de transmisión. Estos cables proporcionan electricidad: la fuerza vital de la industria, el transporte y la miríada de comodidades de nuestra sociedad. Quien piense que la ciencia y la tecnología son “inhumanas” no capta cabalmente las formas en las cuales nos ayudan para desarrollar nuestro potencial humano.
+
+#### Preguntas de desafío
+
+1. ¿Un automóvil consume más combustible cuando se enciende su aire acondicionado? ¿Cuándo se encienden los faros? ¿Cuándo estando estacionado se enciende la radio?
+
+2. En diversos lugares ventosos se ven filas de generadores accionados por el viento producir energía eléctrica. ¿La electricidad que generan afecta la rapidez del viento? Es decir, ¿atrás de los “molinos de viento” habría más viento si no estuvieran allí?
+
+#### Comprueba tus respuestas
+
+1. La respuesta a las tres preguntas es sí, porque en última instancia la energía que consumen proviene del combustible. Aun la energía que suministra el acumulador se le debe regresar a través del alternador, al cual hace girar el motor que trabaja con la energía del combustible. ¡No hay comidas gratis!
+
+2. Los molinos de viento generan potencia tomando EC del viento, por lo que el viento se desacelera en su interacción con las aspas del molino. De manera que sí; detrás de los molinos habría más viento si no estuvieran allí.
+
+## Máquinas
+
+*Imagen 27. La palanca*
+
+Descripción de la Imagen 27. La palanca. Imagina una base de apoyo que sostiene una larga tabla (como un sube y baja) pero no se ubica en la mitad de la tabla. El extremo de la parte más larga queda en el suelo. Entonces si se aplica una pequeña fuerza por la distancia grande que recorre debe ser igual a una mayor fuerza por una menor distancia en el otro extremo. Es decir, F pequeña ×d grande = F grande × d pequeña.
+
+Una máquina es un dispositivo para multiplicar fuerzas o, simplemente, para cambiar la dirección de éstas. El principio básico de cualquier máquina es el concepto de conservación de la energía. Veamos el caso de la más sencilla de las máquinas: la palanca (Imagen 27). Al mismo tiempo que efectuamos trabajo en un extremo de la palanca, el otro extremo efectúa trabajo sobre la carga. Se ve que cambia la dirección de la fuerza, porque si empujamos hacia abajo, la carga sube. Si el calentamiento debido a las fuerzas de fricción es tan pequeño que se ignora, el trabajo de entrada será igual al trabajo de salida.
+
+Trabajo de entrada = trabajo de salida
+
+Como el trabajo es igual a la fuerza por la distancia, fuerza de entrada × distancia de entrada = fuerza de salida × distancia de salida.
+
+(Fuerza × distancia) entrada = (fuerza × distancia) salida
+
+El punto de apoyo respecto al cual gira una palanca se llama simplemente apoyo o fulcro. Cuando el punto de apoyo de una palanca está relativamente cerca de la carga, una fuerza de entrada pequeña producirá una fuerza de salida grande. Esto se debe a que la fuerza de entrada se ejerce en una distancia grande, y la carga se mueve sólo una distancia corta. Entonces una palanca puede ser un multiplicador de fuerza. ¡Pero ninguna máquina puede multiplicar ni el trabajo ni la energía! ¡Esto último es una negación absoluta debida a la conservación de la energía!
+
+Arquímedes, el famoso científico griego del siglo III A. C., entendió muy bien el principio de la palanca. Dijo que podría mover el mundo si tuviera un punto de apoyo adecuado.
+
+En la actualidad un niño puede aplicar el principio de la palanca para levantar el frente de un automóvil usando un gato: ejerciendo una fuerza pequeña durante una distancia grande es capaz de producir una gran fuerza que actúe durante una distancia pequeña. Cada vez que se baja 25 cm la manija del gato, el automóvil sube sólo la centésima parte; pero con una fuerza 100 veces mayor.
+
+Otra máquina simple es la polea. ¿Puedes notar que es una “palanca disfrazada”? Imagina una niña que usa una polea para levantar una caja, únicamente cambia la dirección de la fuerza. Como en cualquier máquina, pueden cambiar las fuerzas, aunque el trabajo que entra y el que sale no cambian.
+
+*Imagen 28. Garrucha*
+
+Descripción de la Imagen 28. Garrucha. Fuerza aplicada × distancia aplicada = fuerza producida× distancia producida. Un hombre usa una garrucha para levantar un bloque de peso 500 N.
+
+Un aparejo o garrucha es un sistema de poleas que multiplica la fuerza más de lo que puede hacer una sola polea. Con el sistema ideal de poleas de la Imagen 28, el hombre tira 7 metros de una cuerda con una fuerza de 50 newton, y sube 500 newton una distancia vertical de 0.7 metros. La energía que gasta el hombre en tirar de la cuerda es numéricamente igual a la mayor energía potencial del bloque de 500 newtons. La energía se transfiere del hombre a la carga.
+
+Toda máquina que multiplique una fuerza lo hace a expensas de la distancia. Asimismo, toda máquina que multiplica la distancia, como en el caso de tu antebrazo y el codo, lo hace a expensas de la fuerza. Ninguna máquina o mecanismo puede dar más energía que la que le entra. Ninguna máquina puede crear energía; sólo la transfiere o la transforma de una forma a otra.
+
+Dato curioso. Una máquina multiplica la fuerza, pero nunca la energía; ¡no hay modo de lograr esto último! ¡Eureka!
+
+## Eficiencia
+
+En los tres ejemplos anteriores se describieron máquinas ideales; el 100% del trabajo que les entra apareció a la salida. Una máquina ideal trabajaría con 100% de eficiencia. Eso no sucede en la práctica, y nunca se puede esperar que suceda. En cualquier transformación se disipa algo de energía en forma de energía cinética molecular, que es la energía térmica. Esta última calienta un poco la máquina y sus alrededores.
+
+Hasta una palanca que gire en su punto de apoyo convierte una pequeña fracción de la energía de entrada en energía térmica. Podremos efectuar en ella 100 julios de trabajo, y obtener de ella 98 julios de trabajo. En ese caso, la palanca es eficiente en 98%, y sólo se degradan 2 julios de trabajo en forma de energía térmica. Si una niña está usando un gato para levantar un coche efectúa 100 julios de trabajo y aumenta la energía potencial del coche en 60 julios, el gato tiene una eficiencia de 60%; 40 julios de los que se le aplicaron se gastaron en la fricción, y aparecieron como energía térmica.
+
+En un sistema de poleas una fracción considerable de la energía de entrada suele convertirse en energía térmica. Si se efectúan sobre él 100 julios de trabajo, las fuerzas de fricción actúan en las distancias de giro de las poleas, ya que las cuerdas se frotan contra sus ejes; y pueden disipar 60 julios de energía en forma de energía térmica. En ese caso, la producción de trabajo sólo es de 40 julios, y el sistema de poleas tiene una eficiencia de 40%. Cuanto menor sea la eficiencia de una máquina, será mayor el porcentaje de energía que se degrada a energía térmica.
+
+Se presentan ineficiencias siempre que se transforma la energía de una forma a otra en el mundo que nos rodea. La eficiencia o rendimiento se puede expresar con la relación
+
+Eficiencia = energía útil producida ÷ energía total alimentada
+
+Un motor de automóvil es una máquina que transforma la energía química almacenada en el combustible, en energía mecánica. Los enlaces entre las moléculas del hidrocarburo se rompen cuando se quema el combustible. Los átomos de carbono del mismo se combinan con el oxígeno del aire, para formar dióxido de carbono, y los átomos de hidrógeno del combustible se combinan con el oxígeno para formar agua, y así se desprende energía. Sería estupendo que toda esta energía se pudiera convertir en energía mecánica útil, esto es, nos gustaría un motor que fuera 100% eficiente. Eso, sin embargo, es imposible porque gran parte de la energía se transforma en energía térmica, y de ella se usa un poco para mantener calientes a los pasajeros durante el invierno, aunque la mayoría se desperdicia. Algo de ella sale en los gases de escape y algo se disipa al aire a través del sistema de enfriamiento, o directamente desde las partes calientes del motor.
+
+Considera la ineficiencia que acompaña a la transformación de energía de esta manera: En cualquier transformación hay una dilución de la energía útil disponible. La cantidad de energía utilizable disminuye con cada transformación hasta que ya no queda nada, sino sólo la energía térmica a temperatura ordinaria. Cuando estudiemos termodinámica, veremos que la energía térmica es inútil para realizar trabajo, a menos que se transforme a una temperatura más baja. Una vez que llega a la temperatura práctica más baja, es decir, la del ambiente, no puede usarse. Nuestro entorno es el cementerio de la energía útil.
+
+#### Pregunta de desafío
+
+Imagínate un automóvil maravilloso que tiene un motor con 100% de eficiencia, y que quema un combustible cuyo contenido de energía es 40 megajulios por litro. Si la resistencia del aire y las fuerzas totales de fricción sobre el vehículo, cuando viaja en carretera a rapidez constante, son 500 N, ¿cuál será la distancia máxima por litro que puede alcanzar el coche a esa rapidez?
+
+Comprueba tu respuesta
+
+A partir de la definición trabajo = fuerza × distancia, simplemente se obtiene distancia = trabajo ÷ fuerza. Si todos los 40 millones de J de energía que hay en 1 L se usaran para efectuar el trabajo de vencer la resistencia del aire y las fuerzas de fricción, la distancia sería:
+
+Distancia = trabajo ÷ fuerza
+
+Distancia = 40.000.000 J/L ÷ 500 N
+
+Distancia = 80.000 m/L = 80 Km/L (80 kilómetros por litro)
+
+Lo importante aquí es que aun con un motor hipotético perfecto, hay un límite superior del rendimiento de combustible, que es el que establece la conservación de la energía.
+
+## Energía para la vida
+
+Tú organismo es una máquina; una máquina extraordinariamente maravillosa. Está formada por máquinas más pequeñas, que son las células. Como cualquier máquina, las células vivas necesitan una fuente de energía. En el reino animal, al cual perteneces, las células se alimentan de diversos compuestos hidrocarbonados que liberan energía al reaccionar con el oxígeno. Al igual que la gasolina que se quema en un motor de automóvil, hay más energía potencial en las moléculas del alimento que en los productos de reacción después de haber metabolizado el alimento. La diferencia de energías es lo que sostiene la vida.
+
+Vemos la ineficiencia en trabajo en la cadena alimenticia. Las criaturas mayores se alimentan de otras más pequeñas, las cuales, a la vez, comen criaturas más pequeñas, y así sucesivamente hasta llegar a las plantas y al plancton marino que se nutren con el Sol. Al subir cada escalón de la cadena alimenticia interviene más ineficiencia. En la planicie africana, 10 kilogramos de pastizal producen 1 kilogramo de gacela. Sin embargo, se necesitan 10 kilogramos de gacela para sostener a 1 kilogramo de león. Se ve que cada transformación de energía a lo largo de la cadena alimenticia contribuye a la ineficiencia general. Es interesante que algunas de las mayores criaturas del planeta, el elefante y la ballena azul, se alimenten mucho más abajo en la cadena alimenticia. Cada vez hay más seres humanos que están teniendo en cuenta organismos tan diminutos como el krill y las levaduras como fuentes nutritivas eficientes.
+
+Dato curioso. La energía es la forma en que la naturaleza lleva el marcador. ¡Eureka!
+
+## Fuentes de energía
+
+Inventores, ¡presten atención!: Cuando presenten una nueva idea, primero asegúrense de que está en el contexto de lo que se conoce en ese momento. Por ejemplo, debe ser congruente con la conservación de la energía. ¡Eureka!
+
+A excepción de la energía nuclear y la geotérmica, la fuente de prácticamente toda nuestra energía es el Sol. La luz solar evapora agua, que después cae como lluvia, la lluvia corre por los ríos y hace girar las norias, o los modernos turbogeneradores hidráulicos, y luego regresa al mar. En una escala de tiempo mayor, la energía del Sol produce madera; y luego petróleo, carbón y gas natural. Estos materiales son el resultado de la fotosíntesis, un proceso biológico que incorpora la energía radiante del Sol al tejido de las plantas. En el mundo actual el abasto de energía de origen fósil se habrá agotado en un parpadeo (unos cuantos cientos de años) en comparación con el tiempo que requirió producirlo (millones de años). En tanto que el petróleo y el carbón fueron el principal combustible de las industrias del siglo xx, su importancia disminuirá durante el nuevo siglo. Veamos algunas fuentes alternativas de energía.
+
+*Imagen 29. Energía geotérmica*
+
+Descripción de la Imagen 29. Energía geotérmica. Energía geotérmica de estratos secos. Se perfora un agujero de varios kilómetros hasta llegar a granito seco. Se bombea agua en el agujero, a gran presión, que rompe la roca que la rodea y forma una cavidad con una mayor área en su superficie. Se perfora un segundo agujero que llegue a la cavidad. Se hace circular agua que baja por un agujero y pasa por la cavidad, donde se sobrecalienta antes de subir por el segundo agujero. Después de impulsar una turbina se vuelve a circular a la cavidad caliente, formando un ciclo cerrado.
+
+La luz solar también se puede transformar en forma directa en electricidad mediante celdas fotovoltaicas, como en las calculadoras solares y, más recientemente, en celdas solares flexibles que se colocan en el techo de los edificios. La tecnología de la energía solar hace pensar en un futuro promisorio, ya que las celdas fotovoltaicas pueden generar grandes cantidades de energía para los países que tengan suficiente luz solar y área terrestre. Para cubrir sus necesidades de energía mediante celdas fotovoltaicas, un país como Estados Unidos requeriría un área tan grande como el estado de Massachusetts. Sin embargo, no se espera que las fuentes fotovoltaicas por sí solas suministren la electricidad que necesitaremos en el futuro.
+
+Hasta el viento, producido por calentamientos desiguales de la superficie terrestre, es una forma de energía solar. Se puede usar la energía del viento (energía eólica) para mover turbogeneradores en molinos de viento especiales. Como la energía eólica no se puede apagar y encender a voluntad, en la actualidad tan sólo complementa la producción de energía en gran escala proveniente de combustibles fósiles o nucleares. Controlar el viento es más práctico cuando la energía que produce se almacena para su uso en el futuro, como ocurre con el hidrógeno.
+
+La forma más concentrada de energía útil está en el uranio, un combustible nuclear que podría ofrecer grandes cantidades de energía durante varias décadas. La tecnología de fisión avanzada que implica reactores de alimentación y el uso del torio podría extender esa línea del tiempo varios cientos de años. Las plantas de energía nuclear no requieren de grandes extensiones de terreno y dependen del lugar sólo en la medida en que necesiten agua de enfriamiento. Las plantas actuales utilizan la fisión nuclear, pero es probable que la fusión nuclear predomine en el futuro. La fusión nuclear controlada aún es una fuente alternativa de energía fascinante de vasta magnitud. En la actualidad el temor público hacia todo lo que suene a nuclear evita el crecimiento de la energía nuclear. Es interesante destacar que el interior de la Tierra se mantiene caliente gracias a una forma de energía nuclear, que es el decaimiento o desintegración radiactivo, que nos ha acompañado desde el origen de los tiempos.
+
+Un subproducto de la desintegración radiactiva en el interior de la Tierra es la energía geotérmica, calor que se puede encontrar debajo de la superficie de la tierra. La energía geotérmica se suele encontrar en zonas de actividad volcánica, como Islandia, Nueva Zelanda, Japón y Hawái, donde el agua calentada cerca de la superficie terrestre se controla para generar vapor y hacer funcionar turbogeneradores. En lugares donde el calor debido a la actividad volcánica está cerca de la superficie del terreno, y no hay agua freática, otro método prometedor para obtener electricidad en forma económica y amigable al ambiente es la energía geotérmica en terreno seco, donde se forman cavidades en rocas profundas y secas, y se introduce agua a las cavidades. Cuando el agua se transforma en vapor, se conduce a una turbina en la superficie. Después se regresa como agua a la cavidad, para volver a usarse.
+
+La energía geotérmica, como la solar, la eólica y la hidráulica, es amigable con el ambiente. Otros métodos de obtención de energía tienen consecuencias graves para el ambiente. Aunque la energía nuclear no contamina la atmósfera, es muy problemática por los desechos nucleares que genera. Por otra parte, la combustión de materiales fósiles causa mayores concentraciones atmosféricas de dióxido de carbono, dióxido de azufre y otros contaminantes, así como exceso de calentamiento en la atmósfera.
+
+Los vehículos impulsados por hidrógeno están captando la atención en la actualidad, como parte de una potencial economía del futuro basada en el hidrógeno. Debe destacarse que el hidrógeno no es una fuente de energía. Al igual que la electricidad, el hidrógeno es un portador o almacén de energía que requiere una fuente de energía. Sólo parte del trabajo requerido para separar el hidrógeno del agua o de los hidrocarburos es la energía disponible para utilizarse. De nuevo, hay que resaltar, el hidrógeno no es una fuente de energía.
+
+A medida que aumenta la población mundial, también se incrementan nuestras necesidades de energía, sobre todo considerando que también está aumentando la demanda per cápita. Con las reglas de la física que los guían, los tecnólogos están investigando en la actualidad formas nuevas y más limpias de desarrollar fuentes de energía. Sin embargo, compiten en una carrera para ir delante del crecimiento poblacional y la mayor demanda en el mundo altamente desarrollado. Por desgracia, así como el control de la población es política y religiosamente incorrecto, la miseria humana se convierte en indicio de la explosión demográfica incontrolable. Gorge Orwell escribió una vez (en The Outline of History), “la historia de la humanidad se vuelve cada vez más una carrera entre la educación y el desastre”
+
+Dato curioso: Tarde o temprano, toda la luz solar que llegue a la Tierra será irradiada de regreso al espacio. La energía en cualquier ecosistema siempre está de paso: Podemos rentarla, aunque no poseerla. ¡Eureka!
+
+## Resumen de términos
+
+Conservación de la energía. La energía no se puede crear ni destruir; se puede transformar de una de sus formas a otra, pero la cantidad total de energía nunca cambia.
+
+Conservación de la energía en las máquinas. El trabajo que sale de cualquier máquina no puede ser mayor al trabajo que entra. En una máquina ideal, donde no se transforme energía en energía térmica,
+
+Trabajo entrada = trabajo salida
+
+Y (F×d) entrada = (F×d) salida.
+
+Eficiencia (o rendimiento). El porcentaje del trabajo que entra a una máquina, que se convierte en trabajo útil que sale. (Con más generalidad, la energía útil que sale dividida entre la energía total que entra.)
+
+Energía. Propiedad de un sistema que le permite efectuar trabajo.
+
+Energía cinética. Energía de movimiento, cuantificada por la ecuación
+
+Energía cinética = ½ × m × v2
+
+Que se lee, energía cinética = un medio por m por v al cuadrado.
+
+Energía potencial. Energía que posee un cuerpo debido a su posición.
+
+Máquina. Dispositivo como una palanca o polea, que aumenta o disminuye una fuerza, o que tan sólo cambia la dirección de ésta.
+
+Palanca. Máquina simple que consiste en una varilla rígida que gira sobre un punto fijo llamado fulcro.
+
+Potencia Rapidez con que se efectúa trabajo:
+
+Potencia = Trabajo ÷ tiempo
+
+(Con más generalidad, la rapidez a la que se expande la energía.)
+
+Teorema del trabajo y la energía. El trabajo efectuado sobre un objeto es igual al cambio de energía cinética en el objeto.
+
+Trabajo = ΔEC
+
+Que se lee, Trabajo = delta de EC, Trabajo = Cambio de la energía cinética.
+
+Trabajo. Producto de la fuerza por la distancia a lo largo de la cual la fuerza obra sobre un cuerpo:
+
+T = F×d
+
+(Con más generalidad, es el componente de la fuerza en la dirección del movimiento por la distancia recorrida.)
+
+## Preguntas de repaso
+
+  1. ¿Cuándo es más evidente la energía?
+
+#### Trabajo
+
+  2. Una fuerza cambia el movimiento a un objeto. Cuando se multiplica la fuerza por el tiempo durante el que se aplica, a esa cantidad se le llama impulso, el cual cambia la cantidad de movimiento de ese objeto. ¿Cuál es el nombre de la cantidad fuerza × distancia?
+
+  3. Describe un ejemplo en el que una fuerza se ejerza sobre un objeto sin hacer trabajo sobre ese objeto.
+
+  4. ¿Qué requiere más trabajo: subir un saco de 50 kg una distancia vertical de 2 m, o subir un saco de 25 kg una distancia vertical de 4 m?
+
+#### Potencia
+
+  5. Si en el problema anterior los dos sacos suben sus respectivas distancias en el mismo tiempo, ¿cómo se compara la potencia requerida en cada caso? ¿Y en el caso en el que el saco más ligero suba su distancia en la mitad del tiempo?
+
+#### Energía mecánica
+
+  6. ¿Qué es exactamente lo que permite a un objeto efectuar trabajo?
+
+#### Energía potencial
+
+  7. Un automóvil es levantado a cierta distancia en una rampa de la estación de servicio y entonces tiene una energía potencial relativa al piso. Si se levantara el doble de la distancia, ¿cuánta energía potencial tendría?
+
+  8. Dos automóviles son levantados a la misma altura en las rampas de la estación de servicio. Si uno de ellos tiene el doble de masa que el otro, ¿cómo se comparan sus energías potenciales?
+
+  9. ¿Cuándo la energía potencial de algo es importante?
+
+#### Energía cinética
+
+  10. Un automóvil en movimiento tiene cierta energía cinética. Si su rapidez aumenta cuatro veces mayor. ¿Cuánta energía cinética tiene ahora, en comparación con la anterior?
+
+#### Teorema del trabajo y la energía
+
+  11. En comparación con alguna rapidez inicial, ¿cuánto trabajo deben efectuar los frenos de un automóvil para detenerlo si va cuatro veces más rápido? ¿Cómo se comparan las distancias de frenado?
+
+  12. Si empujas horizontalmente una caja con 100 N, atravesando 10 m del piso de una fábrica, y la fuerza de fricción entre la caja y el piso es de 70 N constante, ¿cuánta EC gana la caja?
+
+  13. ¿Cómo afecta la rapidez a la fricción entre el pavimento y un neumático que se patina?
+
+#### Conservación de la energía
+
+  14. ¿Cuál será la energía cinética del pilón de un martinete cuando baja 10 kJ su energía potencial?
+
+  15. Una manzana que cuelga de una rama tiene energía potencial, debida a su altura. Si cae, ¿qué le sucede a esta energía justo antes de llegar al suelo? ¿Y cuando llega al suelo?
+
+  16. ¿Cuál es la fuente de la energía de los rayos solares?
+
+#### Máquinas
+
+  17. ¿Una máquina puede multiplicar la fuerza que se le suministra? ¿La distancia en su entrada? ¿Y la energía de entrada? (Si tus tres respuestas son iguales, busca ayuda, ya que la última pregunta es especialmente importante.)
+
+  18. Si una máquina multiplica una fuerza por cuatro, ¿qué otra cantidad disminuye y cuánto?
+
+  19. Se aplica una fuerza de 50 N al extremo de una palanca, y ésta se mueve cierta distancia. Si el otro extremo de la palanca de mueve la tercera parte, ¿cuánta fuerza puede ejercer?
+
+#### Eficiencia
+
+  20. ¿Cuál es la eficiencia de una máquina que milagrosamente convierte en energía útil toda la energía que se le suministra?
+
+  21. Acerca de la pregunta anterior, si la carga levantada es de 500 N, ¿cuál será la eficiencia del sistema de poleas?
+
+  22. ¿Qué le sucede al porcentaje de energía útil cuando se pasa de una forma de energía a otra?
+
+Energía para la vida
+
+  23. ¿En qué sentido nuestros cuerpos son máquinas?
+
+Fuentes de energía
+
+  24. ¿Cuál es la fuente primordial de las energías obtenidas al quemar combustibles fósiles, en las presas o en los molinos de viento?
+
+  25. ¿Cuál es la fuente primordial de la energía geotérmica?
+
+  26. ¿Es correcto decir que el hidrógeno es una nueva fuente de energía? ¿Por qué?
+
+## Cálculos de un paso
+
+Trabajo = fuerza × distancia: T =F×d
+
+1. Calcula el trabajo realizado cuando una fuerza de 1 N mueve un libro 2 metros.
+
+2. Calcula el trabajo realizado cuando una fuerza de 20 N empuja un carrito 3,5 m.
+
+3. Calcula el trabajo realizado al levantar una barra de pesas de 500 N, 2.2 metros por encima del piso. (¿Cuál es la energía potencial de la barra de pesas cuando es levantada a esta altura?)
+
+Potencia = trabajo ÷ tiempo: P = T ÷ t,
+
+Que se lee, P = T mayúscula (trabajo) ÷ t minúscula (tiempo)
+
+4. Calcula los watts de potencia que se gastan cuando una fuerza de 1 N mueve un libro 2 m en un intervalo de tiempo de 1 s.
+
+5. Calcula la potencia que se gasta cuando una fuerza de 20 N empuja un carrito 3,5 m en un tiempo de 2 segundos.
+
+6. Calcula la potencia que se gasta cuando una barra de pesas de 500 N es levantada 2,2 m en 2 s.
+
+Energía potencial gravitacional = peso × altura:
+
+EP = m×g×h
+
+7. ¿Cuántos julios de energía potencial gana un libro de 1 kg cuando es elevado a una altura de 4 m? ¿Y cuando se le eleva 8 m?
+
+8. Calcula el incremento en energía potencial cuando un bloque de hielo de 20 kg es levantado una distancia vertical de 2 m.
+
+9. Calcula el cambio en energía potencial de 8 millones de kg de agua que caen 50 m en las Cataratas del Niágara.
+
+Energía cinética = ½ ×masa × rapidez2:
+
+EC = ½ × m × v2
+
+Que se lee, EC = un medio por m por v al cuadrado.
+
+10. Calcula el número de julios de energía cinética que tiene un libro de 1 kg cuando es lanzado a través de un cuarto con una rapidez de 2 m/s.
+
+11. Calcula la energía cinética de un carrito de juguete de 3 kg que se mueve a 4 m/s.
+
+12. Calcula la energía cinética del mismo carrito que se mueve con el doble de rapidez.
+
+Teorema del trabajo y la energía: Trabajo = ΔEC
+
+Que se lee, Trabajo = delta de EC, o Trabajo = cambio de EC
+
+13. ¿Cuánto trabajo se requiere para aumentar la energía cinética de un automóvil en 5.000 J?
+
+14. ¿Qué cambio en la energía cinética experimenta un avión en el despegue, si en una distancia de 500 m se aplica una fuerza neta continua de 5.000 N?
+
+## Ejercicios
+
+1. ¿Qué es más fácil detener: un camión ligero o uno pesado, si los dos tienen la misma rapidez?
+
+2. ¿Qué requiere más trabajo para detenerse: un camión ligero o uno pesado que tenga la misma cantidad de movimiento?
+
+3. ¿Cuánto trabajo realizas sobre una mochila de 25 kg cuando caminas una distancia horizontal de 100 m?
+
+4. Si tu amigo empuja una podadora de césped cuatro veces más lejos que tú mientras ejerce sólo la mitad de la fuerza, ¿quién de ustedes realiza más trabajo? ¿Cuánto más?
+
+5. ¿Por qué uno se cansa cuando empuja sobre una pared que permanece inmóvil cuando en realidad no se realiza ningún trabajo sobre ésta?
+
+6. ¿Qué requiere más trabajo: estirar un resorte fuerte una cierta distancia o estirar un resorte débil la misma distancia? Sustenta tu respuesta.
+
+7. Dos personas que pesan lo mismo suben un tramo de las escaleras. La primera persona sube en 30 s, mientras que la segunda sube en 40 s. ¿Cuál de las dos realiza más trabajo? ¿Cuál utiliza más potencia?
+
+8. ¿Se requiere más trabajo para llevar un camión cargado por completo a una determinada rapidez, que llevar ese mismo camión pero con una carga ligera a esa rapidez? Sustenta tu respuesta.
+
+9. Un carrito gana energía conforme desciende por una colina. ¿Cuál es la fuerza que hace el trabajo? (No sólo respondas que la gravedad.)
+
+10. Cuando se dispara un rifle con cañón largo, la fuerza de los gases en expansión actúa sobre la bala durante mayor distancia. ¿Qué efecto tiene lo anterior sobre la velocidad con la que sale la bala? (¿Ves por qué la artillería de gran alcance tiene cañones largos?)
+
+11. Ves a tu amigo despegar en un avión a chorro, y comentas sobre la energía cinética que ha adquirido. Pero tu amigo dice que no ha aumentado su energía cinética. ¿Quién está en lo correcto?
+
+12. Cuando aterriza un jumbo jet hay un decremento tanto en su energía cinética como en su potencial. ¿A dónde se va dicha energía?
+
+13. Una pelota de béisbol y otra de golf tienen la misma cantidad de movimiento. ¿Cuál de ellas tienen la mayor energía cinética?
+
+14. Puedes elegir entre atrapar una pelota de béisbol o una de bolos, ambas con la misma EC. ¿Cuál es más segura?
+
+15. ¿En qué punto de su movimiento es máxima la EC de la lenteja de un péndulo? ¿En qué punto su EP es máxima? Cuando la EC tiene la mitad de su valor máximo, ¿cuánta EP posee?
+
+16. ¿La Estación Espacial Internacional tiene energía potencial gravitacional? ¿Y energía cinética? Explica tus respuestas.
+
+17. ¿Qué dice el teorema del trabajo y la energía acerca de la rapidez de un satélite que está en órbita circular?
+
+18. Un martillo en movimiento golpea un clavo y lo sume en la pared. Si el martillo golpea el clavo con el doble de rapidez, ¿cuánto más profundamente se hundirá el clavo? ¿Y si lo golpea con el triple de rapidez?
+
+19. ¿Por qué la fuerza de gravedad no hace trabajo sobre una bola de bolos que rueda por la pista y sobre un satélite en órbita circular en torno a la Tierra?
+
+20. ¿Por qué la fuerza de gravedad sí hace trabajo sobre un automóvil que baja por una cuesta, pero no efectúa trabajo cuando el automóvil va por una carretera plana?
+
+21. Se tira de una caja por un piso horizontal con una cuerda. Al mismo tiempo, la caja tira hacia atrás de la cuerda, de acuerdo con la tercera ley de Newton. ¿Se iguala a cero el trabajo efectuado por la cuerda sobre la caja? Explica por qué.
+
+22. Alguien te quiere vender una “súper pelota” y te dice que rebota a mayor altura que aquella desde la que la dejaron caer. ¿Puede suceder esto?
+
+23. ¿Por qué una súper pelota que se deja caer desde el reposo no puede regresar a su altura original cuando rebota sobre un piso rígido?
+
+24. Considera una pelota que se lanza al aire directo hacia arriba. ¿En qué posición es máxima su energía cinética? ¿Dónde es máxima su energía potencial gravitacional?
+
+25. Supón que tú y dos de tus compañeros discuten sobre el diseño de una montaña rusa. Uno dice que cada cumbre debe ser más baja que la anterior. El otro dice que eso es una tontería, porque mientras que la primera sea la más alta, no importa qué altura tengan las demás. ¿Qué dices tú?
+
+26. ¿Un automóvil quema más gasolina cuando enciende sus luces? ¿Su consumo total de gasolina depende de si el motor trabaja mientras las luces están encendidas? Sustenta tu respuesta.
+
+27. Al encender el aire acondicionado en un automóvil suele aumentar el consumo de combustible. Sin embargo, a ciertas rapideces un automóvil con las ventanillas abiertas y con el aire acondicionado apagado puede consumir más combustible. Explica por qué.
+
+28. Dices a un amigo que ninguna máquina puede generar más energía que la que se introdujo en ella, y tu amigo te contesta que un reactor nuclear produce más energía que la que consume. ¿Qué le dirías entonces a tu amigo? ¿Qué ecuación famosa describe la relación que hay entre la masa y la energía?
+
+29. Cuando no hay resistencia del aire, una pelota que se lanza verticalmente hacia arriba con determinada EC inicial regresará a su nivel original con la misma EC. Cuando la resistencia del aire afecta la pelota, ¿regresará ésta a su nivel original con la misma EC, o con más o con menos? ¿Tu respuesta contradice la ley de la conservación de la energía?
+
+30. Estás en una azotea y lanzas una pelota hacia abajo y otra hacia arriba. La segunda pelota, después de subir, cae y también llega al piso. Si no se tiene en cuenta la resistencia del aire, y las rapideces iniciales hacia arriba y hacia abajo son iguales, ¿cómo se compararán las rapideces de las pelotas al llegar al suelo? (Usa el concepto de la conservación de la energía para llegar a tu respuesta.)
+
+31. Cuando un conductor aplica los frenos para mantener el vehículo cuesta abajo con una rapidez constante y con una energía cinética constante, la energía potencial del automóvil disminuye. ¿A dónde se va esta energía? ¿A dónde se va la mayor parte de ella con un vehículo híbrido?
+
+32. ¿La EC de un automóvil cambia más cuando pasa de 10 a 20 km/h, o cuando pasa de 20 a 30 km/h?
+
+33. ¿Es posible que algo tenga energía sin tener cantidad de movimiento? Explica tu respuesta.
+
+34. ¿Es posible que algo tenga cantidad de movimiento sin tener energía? Sustenta tu respuesta.
+
+35. Cuando la masa de un objeto en movimiento se duplica sin cambio en la rapidez, ¿por qué factor cambia su cantidad de movimiento? ¿Por qué factor cambia su energía cinética? Cuando la velocidad de un objeto se duplica, ¿por qué factor cambia su cantidad de movimiento? ¿Por qué factor cambia su energía cinética?
+
+36. ¿Qué tiene la mayor cantidad de movimiento, si es el caso: una pelota de 1 kg que se mueve a 2 m/s o una pelota de 2 kg que se mueve a 1 m/s? ¿Cuál tiene la mayor energía cinética?
+
+37. Un automóvil tiene la misma energía cinética cuando viaja hacia el norte que cuando da la media vuelta y viaja hacia el sur. ¿La cantidad de movimiento del automóvil es la misma en ambos casos?
+
+38. Si la EC de un objeto es cero, ¿cuál será su cantidad de movimiento?
+
+39. Si tu cantidad de movimiento es cero, ¿tu energía cinética necesariamente será cero también?
+
+40. Si dos objetos tienen igual energía cinética, ¿necesariamente tienen la misma cantidad de movimiento? Sustenta tu respuesta.
+
+41. Dos terrones de arcilla con cantidades de movimiento iguales y opuestas chocan de frente y quedan en reposo. ¿Se conserva su cantidad de movimiento? ¿Se conserva su energía cinética? ¿Por qué tus respuestas son iguales o distintas?
+
+42. Puedes optar entre dos choques de frente contra chicos que van sobre una patineta. Una es con uno ligero que se mueve con bastante rapidez, y la otra es con uno que pesa el doble y que se mueve con la mitad de rapidez. Si sólo se tienen en cuenta la masa y la rapidez, ¿qué choque preferirías?
+
+43. Las tijeras para cortar papel tienen cuchillas grandes y mangos cortos, mientras que las tijeras para cortar metal tienen mangos largos y cuchillas cortas. Las tijeras para cortar pernos tienen manijas muy largas y cuchillas muy cortas. ¿Por qué son así?
+
+44. Se dice que una máquina ineficiente “desperdicia energía”. Ello significa que en realidad se pierde la energía. ¿Por qué?
+
+45. Si un automóvil tuviera un motor con 100% de eficiencia en transformar toda la energía del combustible en trabajo, ¿se calentaría dicho motor? ¿Arrojaría calor por el escape? ¿Haría ruido? ¿Vibraría? ¿Algo de su combustible no se usaría?
+
+46. Para combatir los hábitos de desperdicio, con frecuencia se habla de “conservar la energía” apagando las luces y el calentador de agua cuando no se utilicen, así como manteniendo los termostatos en un valor moderado. En este capítulo también hablamos de la “conservación de la energía”. Describe la diferencia entre estas dos acepciones.
+
+47. Cuando una empresa eléctrica no puede satisfacer la demanda de electricidad por parte de sus clientes, por ejemplo en algún día caluroso de verano, ¿el problema sería por “crisis de energía” o por “crisis de potencia”? Explica por qué.
+
+48. La energía que necesitamos para vivir proviene de la energía potencial química almacenada en el alimento, que se convierte en otras formas de energía durante el proceso del metabolismo. ¿Qué sucede a una persona cuya producción combinada de trabajo y calor es menor que la energía que consume? ¿Qué sucede cuando el trabajo y el calor producido por la persona es mayor que la energía que consume? ¿Una persona desnutrida puede efectuar trabajo adicional sin alimento adicional? Sustenta tus respuestas.
+
+49. Una vez utilizada, ¿la energía puede regenerarse? ¿Tu respuesta es consistente con el término común de “energía renovable”?
+
+50. ¿Qué relación tienen la paz, la cooperación y la seguridad internacionales con las necesidades energéticas del mundo?
+
+## Problemas
+
+1. El segundo piso de una casa está 6 m por arriba del nivel de la calle. ¿Cuánto trabajo se requiere para subir un refrigerador de 300 kg al nivel del segundo piso?
+
+2. Berny el Panzazos se lanza un clavado desde lo alto de un asta, hacia una alberca que se encuentra debajo. Cuando está en lo alto su energía potencial es de 10.000 J. ¿Cuál será su energía cinética cuando su energía potencial se reduzca a 2.000 J?
+
+3. ¿Qué produce el mayor cambio de energía cinética: ejercer una fuerza de 10 N durante una distancia de 5 m o ejercer una fuerza de 20 N durante una distancia de 2 m? (Supón que todo el trabajo se transforma en EC.)
+
+4. Esta pregunta es característica de algunos exámenes de manejo: Un automóvil que va a 50 km/h se derrapa 15 m con los frenos bloqueados. ¿Cuánto se derraparía con los frenos bloqueados a 150 km/h?
+
+5. Se utiliza una palanca para subir una carga pesada. Cuando una fuerza de 50 N empuja uno de los extremos de la palanca 4 m hacia abajo, la carga sube 1 m. Calcula el peso de la carga.
+
+6. Al subir un piano de 5.000 N con un sistema de poleas, los trabajadores notan que, por cada 2 m de cuerda que jalan hacia abajo, el piano sube 1 m. De manera ideal, ¿cuánta fuerza se requeriría para subir el piano?
+
+7. En la máquina hidráulica de la Imagen se ve que cuando el pistón pequeño baja 10 cm, el pistón grande sube 1 cm. Si el pistón pequeño se oprime con una fuerza de 100 N, ¿cuál será la máxima fuerza que el pistón grande puede ejercer?
+
+8. Una paracaidista de 60 kg se mueve con rapidez terminal y cae 50 m en 1 s. ¿Qué potencia disipa en el aire?
+
+9. ¿Cuántos kilómetros por litro rendirá un automóvil si su motor tiene 25% de eficiencia y avanza, en carretera con rapidez constante, contra una fuerza promedio de resistencia de 500 N? Supón que el contenido de energía de la gasolina es 40.000.000 J/litro.
+
+10. La energía que obtenemos del metabolismo puede efectuar trabajo y generar calor. Responde:
+
+a) ¿Cuál es la eficiencia mecánica de una persona relativamente inactiva que gasta 100 W de potencia para producir aproximadamente 1 W de potencia en forma de trabajo, mientras genera más o menos 99 W de calor?
+
+b) ¿Cuál es la eficiencia mecánica de un ciclista que, en una ráfaga de esfuerzo produce 100 W de potencia mecánica con 1,000 W de potencia metabólica?
+
+# CAPÍTULO 4: Gravedad
+
+*Imagen 30. Orbitas Sol, Luna y Tierra*
+
+Descripción de la Imagen 30. Orbitas Sol, Luna y Tierra. Para explicar las mareas vivas y las mareas muertas, se usa un modelo del Sol, la Luna y la Tierra. Una explicación gracias al concepto de Gravedad.
+
+Newton no descubrió la gravedad, pues ese descubrimiento se remonta hasta los orígenes de la humanidad, cuando los primeros pobladores constataron las consecuencias de tropezarse y luego caer. Lo que Newton descubrió fue que la gravedad es universal y que no es un fenómeno exclusivo de la Tierra, como lo habían considerado sus predecesores.
+
+Desde tiempos de Aristóteles se veía como natural el movimiento circular de los cuerpos celestes. Los pensadores de la Antigüedad creían que las estrellas, los planetas y la Luna se mueven en círculos divinos, libres de cualquier fuerza impulsora. En lo que a ellos concierne, el movimiento circular no requería explicación. Sin embargo, Isaac Newton reconoció que sobre los planetas debe actuar una fuerza de cierto tipo; sabía que sus órbitas eran elipses, o de lo contrario serían líneas rectas. Otras personas de su tiempo, influidas por Aristóteles, suponían que cualquier fuerza sobre un planeta debería estar dirigida a lo largo de una trayectoria. Sin embargo, Newton se dio cuenta de que la fuerza sobre cada planeta estaría dirigida hacia un punto central fijo: hacia el Sol. Ésta, la fuerza de gravedad, era la misma que tira una manzana de un árbol. El golpe de inspiración de Newton, que la fuerza entre la Tierra y una manzana es la misma fuerza que tira de las lunas, de los planetas y de todo lo que hay en el Universo, fue una ruptura revolucionaria con la noción prevaleciente de que había dos conjuntos de leyes naturales: una para los objetos en la Tierra y otra, muy distinta, para el movimiento en los cielos. A esta unión de leyes terrestres y leyes cósmicas se le llama síntesis newtoniana.
+
+## La ley universal de la gravedad
+
+Según una leyenda popular, Newton estaba sentado bajo un manzano cuando concibió la idea de que la gravedad se propaga más allá de la Tierra. Quizá levantó la vista por entre las ramas del árbol, hasta observar la caída de una manzana y vio la Luna. En cualquier caso, tuvo la perspicacia de apreciar que la fuerza entre la Tierra y una manzana que cae es la misma que tira de la Luna y la obliga a describir una trayectoria orbital en torno a la Tierra; dicha trayectoria es parecida a la de un planeta que gira alrededor del Sol.
+
+Para probar esta hipótesis, Newton comparó la caída de una manzana con la “caída” de la Luna. Se dio cuenta de que la Luna cae en el sentido de que se aleja de la línea recta que hubiera seguido de no haber una fuerza que actuara sobre ella. A causa de su velocidad tangencial, “cae alrededor” de la Tierra redonda. A partir de consideraciones geométricas sencillas, podía comparar la distancia que la Luna cae en un segundo con la distancia que una manzana, o cualquier objeto que estuviera a esa distancia, y debería caer en un segundo. Los cálculos de Newton no coincidieron. Algo afligido, pero convencido de que el hecho evidente debe ser más convincente que la hipótesis más bella, guardó sus papeles en un cajón, donde permanecieron durante casi 20 años. Durante ese periodo, fundó y desarrolló el campo de la óptica geométrica, que fue con lo que primero se hizo famoso.
+
+El interés de Newton por la mecánica fue reavivado por la llegada de un espectacular cometa en 1680 y otro visto dos años después. Retornó al problema de la Luna, a instancias de Edmund Halley, su amigo astrónomo, en honor del cual el segundo cometa recibió su nombre. Newton hizo correcciones de los datos experimentales que usó en su primer método y obtuvo excelentes resultados. Sólo entonces publicó lo que es una de las generalizaciones más trascendentes de la inteligencia humana: la ley de la gravitación universal.
+
+Todo atrae a lo demás en una forma bella y simple, donde sólo intervienen masa y distancia. Según Newton, todo cuerpo atrae a todos los demás cuerpos con una fuerza que, para dos cuerpos cualesquiera, es directamente proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que los separa. Lo anterior se expresa como
+
+Fuerza proporcional a: (masa 1 × masa 2) ÷ distancia2
+
+Que se lee, Fuerza proporcional a: (masa 1 × masa 2) ÷ distancia elevado al cuadrado
+
+O en forma simbólica
+
+F proporcional a: (m1× m2) ÷ d2
+
+Que se lee, F proporcional a: (m 1 por m 2) ÷ d al cuadrado
+
+Donde m1 y m2 son las masas de los cuerpos y d es la distancia entre sus centros. Así, cuantos mayores sean las masas m1 y m2, será mayor la fuerza de atracción entre ellas. Cuanto mayor sea la distancia de separación d, la fuerza de atracción será más débil, en proporción inversa al cuadrado de la distancia entre sus centros de masa.
+
+*Imagen 31. Imagen 31. Isaac Newton debajo de árbol de manzanas*
+
+Descripción de la Imagen 31. Isaac Newton debajo de un árbol de manzanas. Una manzana a punto de caer sobre su cabeza. Un vector hacia abajo desde la luna y otro desde la manzana. ¿Podría llegar hasta la Luna la atracción para jalar una manzana?
+
+Dato curioso: Así como la partitura guía al músico para interpretar, las ecuaciones guían al estudiante de física para entender cómo se relacionan los conceptos. ¡Eureka!
+
+## La constante G de la gravitación universal
+
+La forma de proporcionalidad de la ley de la gravitación universal se puede expresar como igualdad, cuando se introduce la constante de proporcionalidad G, que se llama constante universal de la gravitación. Entonces la ecuación es
+
+F = G × (m1 × m2) ÷ d2
+
+Que se lee, F = G mayúscula por (m 1 × m2) ÷ d elevado al cuadrado
+
+En palabras, la fuerza de la gravedad entre dos objetos se calcula multiplicando sus masas y dividiendo el producto entre el cuadrado de la distancia entre sus centros, y luego multiplicando este resultado por la constante G. La magnitud de G es igual a la magnitud de la fuerza entre dos masas de 1 kilogramo que están a 1 metro de distancia entre sí: es 0.0000000000667 N, que es una fuerza extremadamente débil. En unidades estándar y en notación científica,
+
+G = 6,67 × 10-11 N×m2/Kg2
+
+Que se lee, G mayúscula = 6,67 por diez a la menos 11 N× metro cuadrado sobre Kilogramo al cuadrado.
+
+Henry Cavendish, físico inglés, midió G por primera vez, en el siglo XVIII, mucho después de los días de Newton. Lo hizo midiendo la diminuta fuerza entre masas de plomo, con una balanza de torsión extremadamente sensible. Después, Philipp von Jolly desarrolló un método más sencillo, al fijar un frasco esférico con mercurio a un brazo de una balanza sensible (Imagen 32). Después de poner en equilibrio la balanza, rodó una esfera de plomo de 6 toneladas bajo el frasco de mercurio. La fuerza gravitacional entre las dos masas era igual al peso que se había colocado en el platillo opuesto de la balanza para restaurar el equilibrio. Se conocían todas las cantidades m1, m2, F y d, y con ellas se calculó la cantidad G.
+
+*Imagen 32. Método de Jolly para medir G*
+
+Descripción de la Imagen 32. Método que usó Jolly para medir G. En una balanza de brazos se pone una esfera m1 y al otro lado unas masas F que igualen la cantidad. Debajo una masa m2 mucho más grande en reposo debajo de la esfera m1. Las esferas de masa m1 y m2 se atraen entre sí con una fuerza F igual a los pesos necesarios para restaurar el equilibrio. Se mide la distancia de los centros de cada esfera con la letra d.
+
+El valor de G nos indica que la fuerza de gravedad es muy débil. Es la más débil de las cuatro fuerzas fundamentales que se conocen hasta ahora. (Las otras tres son la fuerza electromagnética y dos clases de fuerzas nucleares.) Sentimos la gravitación sólo cuando intervienen masas gigantescas, como la de la Tierra. La fuerza de atracción entre tú y un trasatlántico, junto al cual te pares, es demasiado débil para realizar una medición ordinaria. Sin embargo, sí se puede medir la fuerza de atracción entre tú y la Tierra. Es tu peso.
+
+Tu peso depende no sólo de tu masa sino también de tu distancia al centro de la tierra. En la cúspide de una montaña, tu masa es la misma que en cualquier otro lugar, aunque tu peso sería ligeramente menor que a nivel del suelo. Es así porque tu distancia al centro de la Tierra es mayor.
+
+Una vez conocido el valor de G se calculó con facilidad la masa de la Tierra. La fuerza que ejerce la Tierra sobre una masa de 1 kilogramo en su superficie es de 9.8 Newton. La distancia entre los centros de masa del cuerpo de 1 kilogramo y la Tierra es el radio de la Tierra, 6.4 × 106 (6,4 por 10 a la 6) metros, es decir 6.400.000 metros. En consecuencia, a partir de F = G(m1×m2÷d2), donde m1 es la masa de la Tierra, m1 = 6 × 1024 (6 por 10 a la 24) kilogramos, es decir 6 y 24 ceros después de kilogramos.
+
+En el siglo XVIII, la gente de todo el mundo se emocionó cuando se midió G por primera vez. Los periódicos anunciaron el experimento como el que logró medir la masa del planeta Tierra. La estupenda fórmula de Newton da la masa de todo el planeta, incluyendo océanos, montañas y partes del subsuelo aún por descubrirse. G y la masa de la Tierra se midieron cuando una gran proporción de la superficie de la tierra era aún desconocida.
+
+#### Examínate
+
+Si hay fuerza de atracción entre todos los objetos, ¿por qué no nos sentimos gravitando hacia los edificios masivos de las cercanías?
+
+Comprueba tu respuesta
+
+La gravedad sí tira de nosotros hacia los edificios masivos, y hacia todo lo demás que hay en el Universo. Paul A. M. Dirac, físico ganador del Premio Nobel en 1933, lo expresó de la siguiente forma: “¡Corta una flor en la Tierra y moverás la estrella más lejana!” El grado de influencia que tienen los edificios sobre nosotros, o cuánta interacción hay entre las flores y las estrellas ya es otra historia. Las fuerzas entre nosotros y los edificios son extremadamente pequeñas, porque sus masas son muy pequeñas en comparación con la masa de la Tierra. Las fuerzas debidas a las estrellas son pequeñas debido a sus grandes distancias. Estas fuerzas diminutas escapan a nuestra percepción porque son ocultadas por la inmensa atracción hacia la Tierra.
+
+## Peso e ingravidez
+
+Cuando te paras sobre una báscula, comprimes un resorte que hay en su interior. Cuando se detiene la aguja, la fuerza elástica del resorte deformado equilibra la atracción gravitacional entre tú y la Tierra; nada se mueve porque tú y la báscula están en equilibrio estático. La aguja se calibra para indicar tu peso. Si te subes a una báscula dentro de un elevador en movimiento, verás que tu peso varía. Si el elevador acelera hacia arriba, los resortes dentro de la báscula se comprimen más, y la indicación de tu peso será mayor. Si el elevador acelera hacia abajo, los resortes del interior de la báscula se comprimen menos y la indicación de tu peso disminuirá. Si el cable del elevador se rompe, y éste cae libremente, la indicación de la báscula baja a cero. Según lo que indica la báscula no tendrías peso (ingravidez) ¿Realmente no tendrías peso? Podemos contestar esta pregunta sólo si nos ponemos de acuerdo en el significado de la palabra peso.
+
+Definimos el peso de un objeto como la fuerza debida a la gravedad sobre dicho objeto. Cuando está en equilibrio sobre una superficie sólida, el peso se manifiesta con la presencia de la fuerza de soporte o, cuando está suspendido, con la tensión de una cuerda de soporte. En cualquier caso, sin aceleración el peso equivale a mg. Así que una definición más amplia del peso de algo es la fuerza que ejerce contra el piso sobre el que se encuentra o sobre una báscula. De acuerdo con esta definición, eres tan pesado como te sientes; así, en un elevador que acelera hacia abajo, la fuerza de apoyo del piso es menor y tú pesas menos. Si el elevador estuviera en caída libre, tu peso sería cero. Sin embargo, aun en esta condición de no tener peso, sigue habiendo una fuerza gravitacional que obra sobre ti y causa tu aceleración hacia abajo. Pero ahora la gravedad no se siente como peso, porque no hay fuerza de soporte.
+
+Un astronauta en órbita no tiene peso porque no lo sostiene algo. En ocasiones los astronautas sufren el “mal del espacio”, hasta que se acostumbran al estado de ingravidez continua. Cuando están en órbita experimentan un estado de caída libre continua.
+
+La Estación Espacial Internacional, por ejemplo, proporciona un ambiente sin peso. Ésta y los astronautas aceleran por igual hacia la Tierra, a algo menos que 1 g, debido a su altitud. Esta aceleración para nada se siente; con respecto a la estación, los astronautas sienten cero g.
+
+Por largos periodos, esto ocasiona pérdida de la fuerza muscular y otros cambios nocivos para el cuerpo. Sin embargo, los futuros viajeros del espacio necesitan no estar sometidos a condiciones de ingravidez. Como se mencionó en el capítulo anterior, es probable que enormes ruedas giratorias o cápsulas en los extremos de un cable tomen el lugar de las estaciones espaciales actuales que no giran. Efectivamente la rotación suministra una fuerza de soporte y un peso.
+
+#### Examínate
+
+¿En qué se parece andar a la deriva en el espacio alejado de todos los cuerpos celestes, a caerse de una escalera de tijera?
+
+#### Comprueba tu respuesta
+
+En ambos casos sientes ingravidez. Al estar flotando en el espacio conservas la ingravidez, porque no hay fuerza que actúe sobre ti. Si te caes de la escalera tendrías ingravidez momentánea, por la falta momentánea de una fuerza de soporte.
+
+## Mareas
+
+Los marinos siempre supieron que hay una relación entre las mareas y la Luna; sin embargo, nadie pudo ofrecer una teoría satisfactoria que explicara las dos pleamares diarias. Newton demostró que las mareas son causadas por diferencias en los tirones gravitacionales entre la Luna y la Tierra, en los lados opuestos de la Tierra. La fuerza gravitacional entre la Luna y la Tierra es mayor en la cara de la Tierra más cercana a la Luna, y es menor en la cara de la Tierra alejada de la Luna. Tan sólo se debe a que la fuerza gravitacional es más débil cuando la distancia es mayor.
+
+Para entender por qué la diferencia en los tirones gravitacionales de la Luna en los lados opuestos de la Tierra es lo que produce las mareas, imagina que tienes una gran pelota de gelatina. Si ejerces la misma fuerza en cada parte de ella, permanecerá esférica cuando acelere. Pero si tiras más de un lado que de otro, habría una diferencia en las aceleraciones y la pelota se alargaría. Es lo que le sucede a esta gran pelota sobre la que vivimos. El lado más cercano a la Luna es tirado con mayor fuerza, y tiene mayor aceleración hacia la Luna, que el lado lejano, por lo que la Tierra adquiere una forma parecida a un balón de fútbol americano. Pero, ¿la Tierra acelera hacia la Luna? Sí, debe hacerlo, porque sobre ella actúa una fuerza, y donde hay una fuerza neta hay aceleración. Se trata de una aceleración centrípeta, porque la Tierra describe círculos en torno al centro de masa del sistema Tierra-Luna (un punto en el interior de la Tierra, más o menos a las tres cuartas partes desde el centro hasta la superficie). Tanto la Tierra como la Luna sufren una aceleración centrípeta cuando describen su órbita en torno al centro de masa de la Tierra y la Luna. Esto hace que tanto la Tierra como la Luna se alarguen un poco. El alargamiento de la Tierra se ve principalmente en los océanos, que se abultan por igual en ambos lados.
+
+En promedio mundial, los abultamientos del mar son casi de 1 metro sobre su nivel normal. La Tierra gira una vez cada día, por lo que un punto fijo en la Tierra pasa bajo los dos abultamientos una vez al día. Eso produce dos conjuntos de mareas por día. Cualquier parte de la Tierra que pase bajo uno de los abultamientos tiene marea alta, o pleamar. Cuando la Tierra ha dado un cuarto de vuelta, 6 horas después, el nivel del agua en la misma parte del océano está casi a 1 m abajo del nivel promedio del mar. A esto se le llama marea baja o bajamar. El agua que “no está” está bajo los abultamientos que forma las pleamares. Cuando la Tierra da otro cuarto de vuelta se produce un segundo abultamiento de marea. Es así que tenemos dos pleamares y dos bajamares cada día. Sucede que mientras gira la Tierra, la Luna avanza en su órbita y aparece en la misma posición del cielo cada 24 horas y 50 minutos, por lo que el ciclo de dos pleamares en realidad es en intervalos de 24 horas y 50 minutos. Es la causa de que las mareas no se produzcan a la misma hora todos los días.
+
+También el Sol contribuye con las mareas, aunque con menos de la mitad de la eficacia que la Luna, aun cuando su tirón sobre la Tierra es 180 veces mayor que el de la Luna. ¿Por qué el Sol no causa mareas 180 veces mayores que las de la luna? La respuesta tiene que ver con una palabra clave: diferencia. Debido a la gran distancia al Sol, la diferencia de sus tirones gravitacionales en las caras opuestas de la Tierra es muy pequeña. El porcentaje de diferencia de los tirones solares sólo es aproximadamente 0,017%, en comparación con el 6,7% debido a la Luna. Sólo porque el tirón del Sol es 180 veces mayor que el de la Luna, las mareas solares tienen casi la mitad de la altura (180 × 0,017% = 3%, casi la mitad del 6,7 %).
+
+Newton dedujo que la diferencia entre los tirones disminuye de acuerdo con el cubo de la distancia entre los centros de los cuerpos. Sólo las distancias relativamente cortas producen mareas apreciables, por lo que nuestra cercana Luna le gana al Sol, mucho más masivo pero más alejado. La cantidad de marea también depende del tamaño del cuerpo que tienen las mareas. Aunque la Luna produce una marea considerable en los océanos de la Tierra, que están a miles de kilómetros de distancia, casi no produce nada en un lago. Eso se debe a que ninguna parte del lago está apreciablemente más cercana a la Luna, que cualquier otra parte del mismo lago, y así no hay diferencia apreciable entre los tirones de la Luna sobre el lago. Igual sucede con los fluidos de tu cuerpo. Todas las mareas causadas por la Luna en los fluidos de tu cuerpo son ínfimas. No tenemos estatura suficiente para tener mareas. ¡Qué micro mareas puede producir la Luna en tu organismo, si sólo son más o menos cinco milésimas de las mareas que produce un melón de 1 kilogramo puesta a 1 metro sobre tu cabeza!
+
+*Imagen 33. Esfera una altura sobre la cabeza de persona*
+
+Descripción de la Imagen 33. Una esfera de 1 Kg a una altura de 1 metro sobre la cabeza de una persona. La diferencia entre fuerzas de marea debidas a un cuerpo de 1 kg a una altura de 1 m sobre la cabeza de una persona promedio es de cerca de unas 60 billonésimas de N/kg. Cuando la Luna está arriba de uno, es aproximadamente 0.3 billonésimas de N/kg. En consecuencia, ¡un melón arriba de tu cabeza produce unas 200 veces más mareas en tu cuerpo que la Luna!
+
+Cuando se alinean el Sol, la Tierra y la Luna, las mareas causadas por el Sol y la Luna coinciden. Entonces tenemos pleamares más altas que lo normal, y bajamares más bajas que lo normal. A éstas las llamamos mareas vivas o mareas de primavera (aunque no tienen nada que ver con la estación primaveral). Puedes afirmar que están alineados el Sol, la Tierra y la Luna, cuando es Luna llena o en la Luna nueva. Cuando es Luna llena, la Tierra está entre el Sol y la Luna (si los tres estuvieran alineados exactamente habría un eclipse lunar, porque la Luna llena estaría dentro de la sombra de la Tierra). Una Luna nueva sucede cuando la Luna está entre el Sol y la Tierra, y el lado oscuro de la Luna ve hacia la Tierra. (Cuando este alineamiento es perfecto, la Luna tapa al Sol y se tiene un eclipse solar.) Las mareas vivas se presentan cuando hay Luna llena o Luna nueva.
+
+No todas las mareas vivas tienen igual altura, porque varían tanto la distancia entre la Tierra y la Luna como entre la Tierra y el Sol; las órbitas de la Tierra y de la Luna en realidad no son circulares, sino elípticas.
+
+La distancia de la Tierra a la Luna varía más o menos 10%, y el efecto sobre el nivel de las mareas varía en aproximadamente 30%. Las mareas vivas más altas suceden cuando la Luna y el Sol están más próximos a la Tierra.
+
+Cuando la Luna está a mitad del camino entre una Luna nueva y una Luna llena, en cualquier dirección, las mareas debidas al Sol y a la Luna se anulan parcialmente entre sí. Entonces, las mareas altas son más bajas que el promedio, y las mareas bajas no son tan bajas como el promedio de mareas bajas. Se trata de las mareas muertas.
+
+*Imagen 34. La Tierra girando alrededor de su eje*
+
+Descripción de la Imagen 34. La Tierra girando alrededor de su eje pero un poco inclinada. Desigualdad de dos mareas vivas en un día. Por la inclinación de la Tierra, una persona en el hemisferio norte podrá decir que la marea más cercana a la Luna es mucho más baja (o más alta), que la que ocurre medio día después. Las desigualdades de las mareas varían de acuerdo con las posiciones de la Luna y el Sol.
+
+Otro factor que afecta a las mareas es la inclinación del eje terrestre (Imagen 34). Aunque los abultamientos opuestos de las mareas son iguales, la inclinación de la Tierra causa que las dos mareas altas diarias que ocurren en la mayoría del océano sean desiguales la mayor parte del tiempo.
+
+Nuestra explicación de las mareas aparece aquí bastante simplificada. Por ejemplo, las masas de los continentes y la fricción con el fondo del mar complican los movimientos en las mareas. En muchos lugares, las mareas se dividen en “cuencas de circulación” más pequeñas, donde una elevación de marea se mueve como una onda que circula por una pequeña cuenca con la inclinación adecuada. Por tal razón, la pleamar puede ocurrir a varias horas de distancia de la Luna en el cenit. A la mitad del océano, la variación en el nivel del agua, el intervalo de marea, suele ser de más o menos 1 metro. Este intervalo varía en distintas partes del mundo. Es máximo en algunos fiordos de Alaska, y es muy favorable en la cuenca de la Bahía de Fundy, entre New Brunswick y Nueva Escocia, en el este de Canadá, donde a veces las diferencias de niveles son mayores de 15 metros. Esto se debe principalmente al fondo del mar, que forma una especie de embudo dirigido hacia la costa. Con frecuencia, la marea llega con mayor velocidad de la que puede tener una persona al correr. ¡No busques caracoles cerca de la costa con marea baja en la Bahía de Fundy!
+
+### Mareas en la Tierra y en la atmósfera
+
+La Tierra no es un sólido rígido sino, en su mayor parte, es un líquido cubierto por una costra delgada, sólida y flexible. En consecuencia, las fuerzas de marea debidas a la Luna y al Sol provocan mareas en tierra, al igual que en el océano. Dos veces por día ¡la superficie sólida terrestre sube y baja 25 centímetros! En consecuencia, los terremotos y las erupciones volcánicas tienen una probabilidad un poco mayor de suceder, cuando la Tierra está en una marea viva terrestre; esto es, cerca de una Luna nueva o de una Luna llena.
+
+Vivimos en el fondo de un océano de aire que también sufre mareas. Como estamos en el fondo de la atmósfera no las notamos (al igual que un pez de las profundidades no se da cuenta de las mareas en los océanos). En la parte alta de la atmósfera está la ionosfera, que se llama así porque contiene muchos iones, átomos con carga eléctrica debidos a la luz ultravioleta y al intenso bombardeo de los rayos cósmicos. Los efectos de la marea en la ionosfera generan corrientes eléctricas que modifican el campo magnético que envuelve la Tierra. Son las mareas magnéticas. A la vez, esas mareas regulan el nivel de penetración de los rayos cósmicos en la atmósfera inferior. La penetración de los rayos cósmicos se evidencia en cambios sutiles en los comportamientos de los entes vivientes. Las altas y bajas de las mareas magnéticas son máximas cuando la atmósfera tiene mareas vivas, de nuevo, cerca de la Luna nueva y la Luna llena. ¿Has notado que alguno de tus amigos parece un poco extraño en época de una Luna llena?
+
+### Mareas en la Luna
+
+Hay dos abultamientos de marea en la Luna, por la misma razón que hay dos abultamientos de marea en la Tierra; las caras cercana y lejana de cada cuerpo sienten un tirón distinto. Así, la Luna es estirada respecto a la forma esférica y queda un poco ovalada, con su eje largo apuntando hacia la Tierra. Sin embargo, a diferencia de las mareas terrestre, las lunares quedan en lugares fijos, sin subidas ni bajadas “diarias” de la Luna. Como la Luna tarda 27,3 días en dar una sola vuelta respecto a su propio eje (y también en torno al eje del sistema Tierra-Luna), siempre es la misma cara de la Luna la que ve hacia la Tierra. Esto se debe a que el centro de gravedad de la Luna alargada se desplaza un poco de su centro de masa, por lo que siempre que el eje largo de la Luna no está alineado hacia la Tierra, la Tierra ejerce un momento de torsión ligero sobre la Luna, lo cual tiende a girar a la Luna para que se alinee con el campo gravitacional de la Tierra, como el momento de torsión que alinea la aguja de una brújula con el campo magnético. ¡Es la causa de que la Luna siempre nos muestre una misma cara!
+
+Es interesante que este “seguro de marea” también funcione para la Tierra. Nuestros días se van alargando a una tasa de 2 milisegundos por siglo. En unos cuantos miles de millones de años, nuestro día durará un mes, y la Tierra siempre mostrará la misma cara a la Luna. ¿Qué te parece?
+
+## Teoría de Einstein sobre la gravitación
+
+*Imagen 35. Espacio-tiempo deformado*
+
+Descripción de la Imagen 35. Espacio-tiempo deformado. Cerca de una estrella o planeta, el espacio-tiempo es curvo en cuatro dimensiones, en forma parecida a como se deforma la superficie bidimensional de una cama de agua cuando descansa sobre ella una pelota pesada.
+
+A principios del siglo xx Einstein, en su teoría general de la relatividad, presentó un modelo de la gravedad bastante distinto del de Newton. Einstein concibió al campo gravitacional como una deformación geométrica de espacio y tiempo tetradimensional. Se dio cuenta de que los cuerpos provocan deformaciones en el espacio y el tiempo, de manera parecida a como una pelota masiva colocada a la mitad de una cama de agua grande comba la superficie bidimensional (Imagen 35). Cuanto más masiva sea la pelota, será mayor la deformación. Si rodamos una canica cruzando la cama, muy lejos de la pelota, la canica rodará en trayectoria rectilínea. Pero si la rodamos cerca de la pelota desviará su trayectoria al rodar por la superficie deformada de la cama. Si la curva se cierra en sí misma, la canica quedará en órbita en torno a la pelota, describiendo una trayectoria ovalada o circular. Si te pones tus anteojos de Newton, para ver la pelota y la canica, pero no la cama, podrías llegar a la conclusión que la canica se desvía porque es atraída hacia la pelota. Si te pones tus anteojos de Einstein, para ver la canica y la cama deformada, pero no la pelota “lejana”, es probable que llegues a la conclusión de que la canica se desvía porque la superficie sobre la cual se mueve es curva, en dos dimensiones en el caso de la cama, y en cuatro dimensiones en el caso del espacio y del tiempo.
+
+## Agujeros negros
+
+Supón que fueras indestructible, y que pudieras viajar en una nave espacial hasta la superficie de una estrella. Tu peso dependería de tu masa y de la masa de la estrella, así como de la distancia entre el centro de la estrella y tu ombligo. Si la estrella se quemara y se colapsara hasta la mitad de su radio sin cambiar su masa, tu peso en la superficie, calculado con la ley del cuadrado inverso, aumentaría cuatro veces. Si la estrella se encogiera hasta una décima de su radio, tu peso en su superficie sería 100 veces mayor. Si la estrella se siguiera reduciendo, el campo gravitacional en su superficie sería más intenso. Cada vez sería más difícil despegar la nave espacial. La velocidad necesaria para escapar, que es la velocidad de escape, aumentaría. Si una estrella como nuestro Sol se comprimiera hasta que su radio fuera menor de 3 kilómetros, la velocidad de escape de su superficie sería mayor que la velocidad de la luz y ¡nada podría escapar, ni siquiera la luz! El Sol sería invisible. Sería un agujero negro.
+
+En realidad, el Sol tiene muy poca masa para colapsarse de esa manera, pero cuando algunas estrellas con mayor masa (que ahora se calcula como mínimo 1,5 masas solares) agotan sus reservas nucleares, se colapsan. A menos que su rotación sea suficientemente alta, la contracción continúa hasta que sus densidades se vuelven infinitas. Cerca de esas estrellas encogidas, la gravitación es tan enorme que ni la luz puede escapar en su cercanía. Se han aplastado a sí mismas y han salido de la existencia visible. Los resultados son los agujeros negros, que son totalmente invisibles.
+
+Un agujero negro no es más masivo que la estrella que lo formó, por lo que el campo gravitacional en regiones, en o cerca, del radio original de esa estrella no es distinto después que antes del colapso. Pero a menores distancias, cerca de un agujero negro, el campo gravitacional puede ser enorme; es un torcimiento de los alrededores hacia el cual es succionado todo lo que pase demasiado cerca: luz, polvo o nave espacial. Los astronautas podrían entrar a la orilla de esta deformación, y escapar todavía con una poderosa nave espacial. Sin embargo, más cerca que determinada distancia, no podrían hacerlo, y desaparecerían del Universo observable. Todo objeto que cayera en un agujero negro sería despedazado. Ninguna de sus propiedades sobreviviría, excepto su masa, su cantidad de movimiento angular (si lo tuviera) y su carga eléctrica (si fuera el caso).
+
+Pero ¿cómo se puede detectar un agujero negro si literalmente no hay forma de “verlo”? Se hace sentir por su influencia gravitacional sobre las estrellas vecinas. Ahora contamos con buenas evidencias de que algunos sistemas de estrellas binarias están formados por una estrella luminosa y una compañera invisible, con propiedades de agujero negro, y se mueven en órbitas recíprocas. Hay pruebas todavía más convincentes de que hay agujeros negros más masivos en los centros de muchas galaxias. En una galaxia joven se observa como un “cuasar”, en el centro de un agujero negro, succiona materia que emite grandes cantidades de radiación al sumergirse en el olvido. En una galaxia más vieja se observa que las estrellas describen círculos en torno a un intenso campo gravitacional que rodea a un centro aparentemente vacío. Estos agujeros negros galácticos tienen masas que van de millones a más de mil millones de veces la masa de nuestro Sol. El centro de nuestra propia galaxia, aunque no es tan fácil de ver como los de otras, casi con seguridad alberga un agujero negro. Los descubrimientos se hacen ya con más frecuencia que lo que puede presentar los libros de texto. Ve a tu sitio Web favorito de astronomía para que conozcas lo más reciente del tema.
+
+Dato curioso: al contrario de lo que narran las historias acerca de los agujeros negros, éstos no son agresivos ni tampoco atrapan inocentes a la distancia para engullírselos. Sus campos gravitacionales no son más fuertes que los campos originales que había alrededor de las estrellas antes de que colapsaran, excepto a distancias menores que el radio original de cada una. A excepción de cuando están demasiado cerca, los agujeros negros no deberían preocupar a los futuros astronautas. ¡Eureka!
+
+## Resumen de términos
+
+Agujero negro. Concentración de masa debida a un colapso gravitacional, cerca del cual la gravedad es tan intensa que ni siquiera la luz puede escapar a él.
+
+Campo gravitacional. Influencia que ejerce un cuerpo masivo en el espacio que lo rodea, produciendo una fuerza sobre otro cuerpo masivo. Se mide en newtons por kilogramo (N/kg).
+
+Ingravidez. Condición que se encuentra en la caída libre, donde falta una fuerza de soporte.
+
+Ley de la gravitación universal. Todo cuerpo en el Universo atrae a los demás cuerpos, y la fuerza entre dos cuerpos es proporcional al producto de sus masas, e inversamente proporcional al cuadrado de la distancia que las separa:
+
+F = G × (m1 × m2) ÷ d2
+
+Que se lee, F = G mayúscula por (m 1 × m2) ÷ d elevado al cuadrado
+
+Ley del inverso del cuadrado. Es una ley que relaciona la intensidad de un efecto con el inverso del cuadrado de la distancia hasta la causa:
+
+Intensidad proporcional a 1÷ distancia al cuadrado
+
+La gravedad sigue una ley del inverso del cuadrado, así como los efectos de los fenómenos eléctricos, magnéticos, luminosos, sonoros y radiantes.
+
+Mareas muertas. Marea que sucede cuando la Luna está a mediados de la Luna nueva y la Luna llena, o viceversa. Las mareas producidas por el Sol y la Luna se anulan en parte, haciendo que las pleamares sean más bajas que el promedio, y las bajamares sean más altas que el promedio.
+
+Mareas vivas. Marea alta o baja que sucede cuando el Sol, la Tierra y la Luna están alineados, de manera que coincidan las mareas debidas al Sol y a la Luna, y hagan que las pleamares sean más altas y las bajamares sean más bajas que el promedio.
+
+Peso. Fuerza que un objeto ejerce sobre una superficie de soporte (o, cuando está suspendido, sobre una cuerda de soporte), la cual a menudo, aunque no siempre, se debe a la fuerza de gravedad.
+
+## Preguntas de repaso
+
+  1. ¿Qué descubrió Newton acerca de la gravedad?
+
+  2. ¿Cuál es la síntesis newtoniana?
+
+#### La ley universal de la gravedad
+
+  3. ¿En qué sentido “se cae” la Luna?
+
+  4. En palabras enuncia la ley de Newton de la gravitación universal. A continuación enúnciala con una ecuación.
+
+#### La constante G de la gravitación universal
+
+  5. ¿Cuál es la magnitud de la fuerza gravitacional entre dos cuerpos de 1 kilogramo que están separados 1 metro?
+
+  6. ¿Cuál es la magnitud de la fuerza gravitacional entre la Tierra y un cuerpo de 1 kilogramo?
+
+  7. ¿Cómo le llamamos a la fuerza gravitacional entre la Tierra y tu cuerpo?
+
+  8. Cuando Henry Cavendish midió el valor de G, los periódicos de la época anunciaron la noticia como el “experimento para pesar el mundo”. ¿Por qué?
+
+Peso e ingravidez
+
+  9. ¿Los resortes del interior de una báscula de baño se comprimirían más o menos, si te pesaras en un elevador que acelerara hacia arriba? ¿Y si acelerara hacia abajo?
+
+  10. ¿Los resortes del interior de una báscula de baño se comprimirían más o menos, si te pesaras en un elevador que subiera con velocidad constante? ¿Y si bajara con velocidad constante?
+
+  11. ¿Cuándo tu peso es igual a mg?
+
+  12. Menciona un ejemplo de cuando tu peso es mayor que mg. Describe un ejemplo de cuando tu peso es cero.
+
+#### Mareas
+
+  13. ¿Las mareas dependen más de la intensidad del tirón gravitacional o de la diferencia de intensidades? Explica por qué.
+
+  14. ¿Por qué el Sol y la Luna ejercen una fuerza gravitacional mayor en un lado de la Tierra que en el otro?
+
+  15. Distingue entre marea viva y marea muerta.
+
+#### Mareas en la Tierra y en la atmósfera
+
+  16. ¿Se producen mareas en el interior fundido de la Tierra por la misma razón que se producen en los océanos?
+
+  17. ¿Por qué todas las mareas son máximas cuando hay Luna llena o Luna nueva?
+
+#### Mareas en la Luna
+
+  18. ¿El hecho de que una misma cara de la Luna vea siempre hacia la Tierra significa que la Luna gira en torno a su eje (como un trompo) o que no gira en torno a su eje?
+
+  19. ¿Por qué hay un momento de torsión en el centro de masa de la Luna, cuando el eje largo de su rotación no está alineado con el campo gravitacional terrestre?
+
+  20. ¿Existe un momento de torsión en el centro de masa de la Luna cuando su eje largo está alineado con el campo gravitacional terrestre? Explica cómo esto se compara con una brújula.
+
+#### Teoría de Einstein de la gravitación
+
+  21. Newton consideró que la trayectoria de un planeta se desvía debido a que sobre él actúa una fuerza. ¿Cómo consideró Einstein la desviación de un planeta?
+
+#### Agujeros negros
+
+  22. Si la Tierra se contrajera sin cambiar de masa, ¿qué debería suceder con tu peso en la superficie?
+
+  23. ¿Qué sucede a la intensidad del campo gravitacional en la superficie de una estrella que se contrae?
+
+  24. ¿Por qué un agujero negro es invisible?
+
+## Cálculos de un paso
+
+F = G × (m1 × m2) ÷ d2
+
+Que se lee, F = G mayúscula por (m 1 × m2) ÷ d elevado al cuadrado
+
+1. Calcula la fuerza de gravedad sobre una masa de 1 kg en la superficie de la Tierra. La masa de la Tierra es de 6 × 1024 (6 por 10 a la 24) kg, y su radio es de 6.4 × 106 (6,4 por 10 a la 6) metros.
+
+## Ejercicios
+
+1. La fuerza gravitacional actúa sobre todos los cuerpos en proporción con sus masas. Entonces, ¿por qué un cuerpo celeste pesado no cae con más rapidez que uno ligero?
+
+2. ¿Cómo sería el camino a la Luna, si de alguna forma todas las fuerzas gravitacionales se redujeran a cero?
+
+3. ¿La fuerza de gravedad es mayor sobre un trozo de hierro que sobre un trozo de madera, si ambos tienen la misma masa? Sustenta tu respuesta.
+
+4. ¿La fuerza de gravedad es mayor sobre una bola de papel en comparación con el mismo papel sin arrugar? Sustenta tu respuesta.
+
+5. ¿Cuál es la relación entre fuerza y la distancia en una ley del cuadrado inverso?
+
+6. ¿Por qué Newton no pudo determinar la magnitud de G con su ecuación?
+
+7. Un amigo te dice que como la gravedad de la Tierra es mucho mayor que la de la Luna, las rocas de la Luna podrían caer a la Tierra. ¿Qué de impreciso tiene tal aseveración?
+
+8. Otro amigo te dice que la gravedad de la Luna evitaría que las rocas que se caen en la Luna lleguen a la Tierra, pero que si de alguna forma la gravedad de la Luna desapareciera, entonces las rocas de la Luna sí caerían sobre la Tierra. ¿Qué tiene de incorrecta esta hipótesis?
+
+9. Un amigo te dice que los astronautas en órbita no tienen peso, porque están más allá del tirón gravitacional de la Tierra. Corrige la apreciación de tu amigo.
+
+10. En algún lugar entre la Tierra y la Luna, la gravedad de estos dos cuerpos sobre una nave espacial se debe anular. ¿Tal lugar está más cerca de la Tierra o de la Luna?
+
+11. La Tierra y la Luna se atraen entre sí debido a la fuerza gravitacional. ¿La Tierra, que es más masiva, atrae a la Luna, que es menos masiva, con una fuerza mayor, menor o igual a la fuerza con la que la Luna atrae a la Tierra? (Con una banda elástica tensionada entre tu pulgar y tu índice, ¿de cuál dedo tira más la banda, de tu pulgar o de tu índice?)
+
+12. Si la Luna tira de la Tierra con igual fuerza que la Tierra tira de la Luna, ¿por qué la Tierra no gira en torno a la Luna, o por qué ambos cuerpos no giran en torno a un punto a la mitad de su distancia?
+
+13. ¿La aceleración de la gravedad es mayor o menor en la cima del Monte Everest que a nivel del mar? Sustenta tu respuesta.
+
+14. Un astronauta desciende en un planeta que tiene el doble de masa de la Tierra y el doble del diámetro. ¿Cómo difiere el peso del astronauta del que tendría en la Tierra?
+
+15. Si en alguna forma la Tierra se expandiera y su radio fuera mayor, pero sin cambiar su masa, ¿cómo cambiaría tu peso? ¿Cómo se afectaría si la Tierra se contrajera? (Sugerencia: deja que la ecuación de la fuerza gravitacional guíe tus razonamientos.)
+
+16. Júpiter es más de 300 veces más masivo que la Tierra; entonces parecería que un cuerpo sobre la superficie de Júpiter pesaría 300 veces más que en la Tierra. Pero no es así, porque un cuerpo apenas pesaría tres veces más en la superficie de Júpiter, que en la superficie de la Tierra. ¿Puedes dar una explicación de por qué sucede así? (Sugerencia: deja que los términos de la ecuación de la fuerza gravitacional guíen tu pensamiento.)
+
+17. ¿Por qué los pasajeros de un avión a gran altura tienen la sensación de que pesan, mientras que los pasajeros de un vehículo espacial en órbita, por ejemplo los del trasbordador espacial, sienten que no pesan?
+
+18. ¿Por qué una persona en caída libre no tiene peso, mientras que una persona que caiga a su velocidad terminal sí?
+
+19. Si estuvieras en un coche que se desbarrancara, ¿por qué momentáneamente no tendrías peso? ¿La gravedad seguiría actuando sobre ti?
+
+20. ¿Una fuerza gravitacional actúa sobre una persona que se desbarranca? ¿Y sobre un astronauta dentro del trasbordador espacial en órbita?
+
+21. ¿Cuáles son las dos fuerzas que actúan sobre ti mientras vas en un elevador? ¿Cuándo son iguales en magnitud estas dos fuerzas y cuándo no los son?
+
+22. Si estuvieras en un elevador en caída libre y dejaras caer un lápiz, se quedaría suspendido frente a ti. ¿Hay alguna fuerza de gravedad sobre el lápiz? Sustenta tu respuesta.
+
+23. Un amigo te dice que la razón primordial por la que los astronautas que están en órbita experimentan ingravidez es que están más allá del tirón que ejerce la gravedad de la Tierra. ¿Estás de acuerdo o en desacuerdo?
+
+24. ¿Cuándo será mayor la fuerza gravitacional entre ti y el Sol: hoy al mediodía o mañana a medianoche? Sustenta tu respuesta.
+
+25. Si la masa de la Tierra aumentara, tu peso aumentaría en consecuencia. Pero si la masa del Sol aumentara, tu peso no se afectaría. ¿Por qué?
+
+26. En la actualidad, la mayoría de las personas saben que las mareas se deben principalmente a la influencia gravitacional de la Luna. En consecuencia, la mayoría de las personas creen que el tirón gravitacional de la Luna sobre la Tierra es mayor que el tirón gravitacional del Sol sobre la Tierra. ¿Qué opinas?
+
+27. Si alguien te arrastrara de la manga de tu camisa, es probable que se rasgue. Pero si tiraran por igual de todas las partes de tu camisa, no habría rasgaduras. ¿Cómo se relaciona esto con las fuerzas de marea?
+
+28. Con respecto a las mareas vivas y muertas, ¿cuándo hay mareas más bajas? Esto es, ¿cuándo es mejor buscar ostras?
+
+29. Siempre que la marea sube en forma extraordinaria, ¿irá seguida de una bajada extraordinaria? Sustenta tu respuesta en términos de “conservación del agua”. (Si agitas el agua en una tina para que en un extremo tenga más profundidad, ¿el otro extremo tendrá menos profundidad?)
+
+30. El cuerpo humano está formado principalmente por agua. ¿Por qué cuando la Luna pasa arriba causa mareas biológicas bastante menores en ti, que en un melón de 1 kg que esté sobre tu cabeza?
+
+31. Si no existiera la Luna, ¿seguiría habiendo mareas? En caso afirmativo, ¿con qué frecuencia?
+
+32. Exactamente por qué suceden las mareas en la corteza terrestre y en la atmósfera terrestre?
+
+33. El valor de g (g minúscula) en la superficie de la Tierra es aproximadamente 9,8 m/s2 (metros sobre segundo al cuadrado). ¿Cuál será el valor de g a una distancia igual a dos veces el radio de la Tierra?
+
+34. ¿Qué necesita más combustible, un cohete que va de la Tierra a la Luna, o uno que regresa de la Luna a la Tierra? ¿Por qué?
+
+35. Si de alguna forma pudieras hacer un túnel en el interior de una estrella, ¿tu peso aumentaría o disminuiría en su interior? Si en vez de eso estuvieras de pie en la superficie de una estrella que se contrae, ¿tu peso aumentaría o disminuiría? ¿Por qué tus respuestas son diferentes?
+
+36. Si nuestro Sol contrajera su tamaño y se transformara en un agujero negro, demuestra, con la ecuación de la fuerza gravitacional, que la órbita de la Tierra no se afectaría.
+
+37. Algunas personas rechazan la validez de las teorías científicas diciendo que “sólo” son teorías. La ley de la gravitación universal es una teoría. ¿Quiere decir eso que los científicos dudan todavía de su validez? Explica por qué.
+
+38. Estrictamente hablando, pesas un poco menos cuando estás en el vestíbulo de un rascacielos masivo que cuando estás en tu casa. ¿Por qué?
+
+39. Una persona que cayera en un agujero negro probablemente moriría a causa de las fuerzas de marea antes ser tragado por el agujero. Explica cómo.
+
+40. Una nave espacial cerca de una estrella que se encoge ve cómo ésta colapsa, hasta convertirse en un agujero negro. ¿Habría cambio en el campo gravitacional en la posición de la nave. Sustenta tu respuesta.
+
+# CAPÍTULO 5: Movimiento de proyectiles y de satélites
+
+Desde la cima del Mauna Kea, un volcán dormido en Hawái (o desde cualquier punto de observación elevado, desde donde se vea el lejano horizonte del mar con nitidez y claridad), podrás ver la curvatura de la Tierra. Debes sostener una regla frente a tus ojos en la línea donde se encuentran el cielo y el mar. De otro modo no podrías decir si lo que ves es tan sólo una ilusión. Alinea tu visual de tal manera que la unión entre el cielo y el mar apenas toque la parte media del filo inferior de tu regla; y apreciarás que hay un espacio entre el cielo y el mar en los extremos. Estás viendo la curvatura de la Tierra. Ahora, arroja una piedra horizontalmente, hacia el horizonte. Caerá con rapidez al suelo, frente a ti después de algunos metros. Su movimiento se curva al caer. Notarás que mientras lances la piedra con más rapidez, la curva que describe será más amplia. Ahora imagina lo rápido que debería lanzarla Superman para que llegara más allá del horizonte. Y lo rápido que debe arrojarla para que su trayectoria curva coincida con la curvatura de la Tierra. Porque si lo pudiera hacer, y de alguna forma se eliminara la resistencia del aire, la piedra seguiría una trayectoria curva alrededor de la Tierra y se transformaría en un satélite de ésta. Después de todo, un satélite no es más que un proyectil que se mueve con la rapidez suficiente como para ir a parar en forma continua, más allá del horizonte en su caída.
+
+## Movimiento de proyectiles
+
+Si no hubiera gravedad podrías lanzar una roca hacia el cielo, y seguiría una trayectoria recta. Sin embargo, debido a la gravedad, la trayectoria describe una curva. Una roca que se arroja, una bala de cañón o cualquier objeto que se lanza por cualquier método y continúa moviéndose por su propia inercia se llama proyectil. A los artilleros de la Antigüedad, las trayectorias curvas de los proyectiles les parecían muy complicadas. Hoy sabemos que esas trayectorias son sorprendentemente sencillas, cuando examinamos por separado los componentes horizontal y vertical de la velocidad.
+
+El componente horizontal de la velocidad para un proyectil no es más complicado que la velocidad horizontal de una bola de bolos que rueda libremente por una pista horizontal. Si se pudiera ignorar el efecto retardante de la fricción, no habría fuerza horizontal sobre la bola y su velocidad sería constante. Rueda por su propia inercia y recorre distancias iguales en intervalos de tiempo iguales. El componente horizontal del movimiento de un proyectil es justo como el movimiento de la bola de bolos en la pista.
+
+El componente vertical es exactamente igual a la de un objeto que cae libre hacia abajo. Cuanto más rápidamente caiga el objeto, será mayor la distancia recorrida en cada segundo sucesivo. O bien, si lo lanzamos hacia arriba, las distancias verticales del recorrido disminuyen al avanzar el tiempo de ascenso.
+
+*Imagen 36. Componentes vertical y horizontal de la velocidad*
+
+Descripción de la Imagen 36. Componentes vertical y horizontal de la velocidad de una piedra. Imagina que le lanzas una pelota a un amigo con todas tus fuerzas para que pase por encima de un muro. Apenas la pelota salga de tu mano se va a elevar pero también va a ir moviéndose en una dirección al tiempo (componentes de la velocidad). Esto hace que en algún momento llegue a una altura máxima y empiece a caer. El movimiento que describe es similar a que pasaras tu mano desde una oreja hasta la otra oreja pasando por lo más alto de tu cabeza, es decir una parábola.
+
+La trayectoria curva de un proyectil es una combinación de sus movimientos horizontal y vertical. El componente horizontal de la velocidad para un proyectil es completamente independiente de la componente vertical de la velocidad, cuando la resistencia del aire es tan pequeña que se ignora. Entonces, al componente horizontal constante de la velocidad no le afecta la fuerza de gravedad vertical. Cada componente es independiente. Sus efectos combinados producen la trayectoria de los proyectiles.
+
+### Proyectiles disparados horizontalmente
+
+El movimiento de un proyectil, o movimiento balístico, se analiza notando dos cuestiones importantes. La primera es que el componente horizontal de la velocidad de la pelota no cambia conforme avanza la pelota que cae. Esa pelota recorre la misma distancia horizontal en intervalos de tiempo iguales entre cada destello. Esto se debe a que no hay componente de la fuerza gravitacional que actúe en dirección horizontal. La gravedad actúa sólo hacia abajo, por lo que la única aceleración de la pelota es hacia abajo. Lo segundo que se debe notar es que las posiciones verticales se alejan entre sí al transcurrir el tiempo. Las distancias verticales recorridas son las mismas que si tan sólo se dejara caer la pelota. Te das cuenta que la curvatura de la trayectoria de la pelota es la combinación del movimiento horizontal, que permanece constante, y el movimiento vertical, que tiene la aceleración debida a la gravedad.
+
+La trayectoria de un proyectil que acelera sólo en dirección vertical y que al mismo tiempo se mueve en dirección horizontal con velocidad constante es una parábola. Cuando la resistencia del aire es lo suficientemente pequeña como para no tenerla en cuenta, como en el caso de un objeto pesado que no adquiere gran rapidez, la trayectoria es parabólica.
+
+*Imagen 37. Un cañón dispara una bala horizontal*
+
+Descripción de la Imagen 37. Un cañón dispara una bala desde lo alto de un acantilado en dirección horizontal. El movimiento que describe es similar a que pasaras tu mano desde lo más alto de tu cabeza hasta una de tus orejas, es decir una semi parábola.
+
+#### Examínate
+
+En el momento en que se dispara un cañón apuntado horizontalmente en medio de una llanura horizontal, se suelta otra bala junto al cañón y cae al suelo. ¿Cuál bala, la disparada o la que se dejó caer desde el reposo, llegará primero al suelo?
+
+Comprueba tu respuesta
+
+Las dos balas llegan al suelo al mismo tiempo, pues ambas caen la misma distancia vertical. Podemos deducirlo preguntando cuál bala llegaría primero al suelo si el cañón se apuntara en un ángulo hacia arriba. En este caso, la bala que sólo se deja caer llegaría al suelo primero, mientras la que se dispara aún estaría en el aire. Ahora imagina que el cañón se apunta hacia abajo. En este caso, la bala disparada llegaría al suelo primero. Debe haber algún ángulo en el cual haya un empate, cuando ambas llegan al suelo al mismo tiempo. ¿Te das cuenta que sería cuando el cañón se apunta horizontalmente?
+
+### Proyectiles lanzados en ángulo
+
+*Imagen 38. Un cañón dispara un proyectil*
+
+Descripción de la Imagen 38. Un cañón dispara un proyectil. Siguiendo la dirección de salida del cañón una línea recta punteada. Y otra línea continua representa lo que pasa describiendo una parábola. Si no hubiera gravedad, el proyectil seguiría una trayectoria rectilínea (línea punteada). Sin embargo, debido a la gravedad, el proyectil cae bajo esa línea la misma distancia vertical que caería si se dejara caer desde el reposo. (Con g = 9,8 m/s2 (m sobre s al cuadrado).
+
+La Imagen muestra las distancias verticales específicas para una bala de cañón disparada con un ángulo hacia arriba. Si no hubiera gravedad, la bala seguiría la trayectoria rectilínea que indica la línea punteada. Pero sí hay gravedad y no sucede lo anterior. Lo que ocurre en realidad es que la bala cae en forma continua, abajo de la línea imaginaria, hasta que acaba llegando al suelo. Observa que la distancia vertical que cae por debajo de cualquier punto de la línea punteada es la misma distancia vertical que caería si partiera del reposo y cayera en el mismo lapso de tiempo.
+
+Esto se puede plantear de otro modo: Dispara un proyectil hacia el cielo, con cierta inclinación e imagina que no hay gravedad. Después de t segundos debería estar en determinado punto a lo largo de la trayectoria rectilínea. Pero debido a la gravedad no está ahí. ¿Dónde está? La respuesta es que está directamente abajo de ese punto. ¿Qué tan abajo? La respuesta en metros es 5×t2 (5 por t elevado al cuadrado). ¿Qué te parece?
+
+Quizá notes otra cosa: La bala recorre distancias horizontales iguales en intervalos de tiempo iguales. Eso se debe a que no hay aceleración horizontal. La única aceleración es vertical, con la dirección de la gravedad terrestre.
+
+Ahora imagina que tienes un cañón que dispara siempre con la misma velocidad pero puedes moverlo para inclinarlo hacia arriba o hacia abajo como quieras. Notarías que las trayectorias de varios proyectiles, todos con la misma rapidez inicial, pero con diferentes ángulos de tiro. Acá no se tienen en cuenta los efectos de la resistencia del aire, de manera que todas las trayectorias describen parábolas. Los proyectiles alcanzan distintas alturas sobre el piso. También tienen distintos alcances horizontales, o distancias recorridas horizontalmente. Lo notable que se nota es que ¡se obtiene el mismo alcance desde dos ángulos de disparo distintos, cuando esos ángulos suman 90 grados! Por ejemplo, un objeto que se lanza al aire en un ángulo de 60 grados tiene el mismo alcance que si se lanzara con la misma rapidez en un ángulo de 30 grados. Desde luego, cuando el ángulo es menor, el objeto estará en el aire un menor tiempo. La distancia máxima se obtiene cuando el ángulo de tiro es 45°, y cuando la resistencia del aire es despreciable.
+
+Sin la resistencia del aire, una pelota de béisbol tendría un alcance máximo cuando fuera bateada a 45° sobre la horizontal. Sin embargo, debido a la resistencia del aire y al ascenso debido al giro de la pelota, el máximo alcance se obtiene cuando perceptiblemente se batea a ángulos menores de 45°. La resistencia del aire y el giro son más apreciables en las pelotas de golf, donde un ángulo menor de 38 grados daría como resultado el alcance máximo. Para los proyectiles pesados, como las jabalinas y la bala, la resistencia del aire tiene menos efecto sobre el alcance. Como una jabalina es pesada y presenta un corte transversal pequeño al aire que corta, describe una parábola casi perfecta cuando se lanza. También una bala. Para esos proyectiles el alcance máximo a igual rapidez de lanzamiento se obtiene con un ángulo de lanzamiento aproximado de 45° (un poco menor, porque la altura de lanzamiento queda arriba del nivel de terreno). ¡Ajá!, pero las rapideces de lanzamiento no son iguales en esos proyectiles disparados con distintos ángulos. Al lanzar una jabalina o al disparar una bala, una parte apreciable de la fuerza de lanzamiento se ocupa de combatir la gravedad: cuanto mayor sea el ángulo, menor rapidez tendrá al salir de la mano de quien la lanza. Entonces, la gravedad juega su papel antes y después del lanzamiento. Puedes hacer la prueba: lanza horizontalmente una piedra pesada, y después verticalmente; notarás que el lanzamiento horizontal es bastante más rápido que el vertical. Así, el alcance máximo con proyectiles pesados lanzados por seres humanos se alcanza con un ángulo menor de 45 grados; pero no es por la resistencia del aire.
+
+Cuando la resistencia del aire es suficientemente pequeña como para no tenerla en cuenta, un proyectil subirá hasta la altura máxima en el mismo tiempo que tarda en caer desde esa altura hasta su nivel inicial. Esto se debe a que la desaceleración debida a la gravedad es igual cuando sube que la aceleración debida a la gravedad cuando baja. La rapidez que pierde al subir es, en consecuencia, igual que la rapidez que gana al bajar. Así, el proyectil llega al piso con la misma rapidez que tenía al ser disparado.
+
+#### Examínate
+
+  1. Una pelota de béisbol es bateada con cierto ángulo. Una vez en el aire, y despreciando la resistencia del aire, ¿cuál será la aceleración vertical de la bola? ¿La aceleración horizontal?
+
+  2. ¿En qué parte de su trayectoria la pelota de béisbol tiene una rapidez mínima?
+
+  3. Una bola de béisbol es bateada y sigue una trayectoria parabólica, un día en que el Sol está directamente arriba. ¿Cómo se compara la rapidez de la sombra de la bola sobre el campo con el componente horizontal de su velocidad?
+
+#### Comprueba tus respuestas
+
+1. La aceleración vertical es g, porque la fuerza de la gravedad es vertical. La aceleración horizontal es cero, porque no hay fuerza horizontal que actúe sobre la pelota.
+
+2. La rapidez mínima de una pelota se presenta en la cúspide de su trayectoria. Si se lanza verticalmente, su rapidez en la cúspide será cero. Si se lanza inclinada, el componente vertical de la velocidad será cero en la cumbre y sólo quedará el componente horizontal. Así, la rapidez en la cumbre es igual al componente horizontal de la velocidad de la pelota en cualquier punto. ¿No te parece estupendo?
+
+3. ¡Son iguales!
+
+## Proyectiles con movimiento rápido: satélites
+
+Para comenzar investiga acerca de: movimiento circular y velocidad tangencial. Te puede ayudar a comprender mejor lo que sigue.
+
+Imagina a un jugador de beisbol lanzando desde lo alto de una torre una pelota horizontalmente. Si no actuara la gravedad sobre la pelota, ésta seguiría una trayectoria rectilínea. Pero sí hay gravedad, así que la pelota cae por debajo de esta trayectoria rectilínea. De hecho, unos segundos después de que la bola sale de la mano del jugador habrá caído cinco veces el tiempo en metros de altura, sea cual fuere la rapidez del lanzamiento. Es importante entender esto, porque es el fundamento del movimiento de los satélites.
+
+Un satélite terrestre es simplemente un proyectil que cae alrededor de la Tierra, en vez de caer hacia ella. La rapidez del satélite debe ser la suficiente como para asegurar que su distancia de caída coincida con la curvatura terrestre. Un hecho geométrico respecto a la curvatura de la Tierra es que su superficie baja 5 metros cada 8.000 metros tangentes a la superficie. Si se pudiera lanzar una bola de béisbol tan rápido como para que recorriera una distancia horizontal de 8 kilómetros durante el segundo que tarda en caer 5 metros, entonces seguiría la curvatura de la Tierra. Es decir, tendría una rapidez de 8 kilómetros por segundo. Si te parece que no es una rapidez como para sorprenderse, conviértela a kilómetros por hora: son unos impresionantes ¡29.000 kilómetros por hora!
+
+Con esta rapidez, la fricción de la atmósfera quemaría la pelota de béisbol, y hasta un trozo de hierro. Es el destino de los trozos de roca y demás meteoritos que entran a la atmósfera terrestre y se queman, viéndose como “estrellas fugaces”. Es la razón por la que los satélites o los transbordadores espaciales se lanzan a altitudes de 150 kilómetros o más, para estar arriba de casi toda la atmósfera, para que casi no tengan resistencia del aire. Una idea equivocada común es que los satélites que giran a grandes altitudes están libres de la gravedad. Nada puede ser más erróneo. La fuerza de la gravedad sobre un satélite a 200 kilómetros sobre la superficie terrestre es casi tanta como al nivel del mar. La gran altitud es para que el satélite salga de la atmósfera terrestre, donde la resistencia del aire casi no existe; pero no para colocarlo más allá de la gravedad terrestre.
+
+Isaac Newton comprendió el movimiento de los satélites, y dedujo que la Luna no es más que un proyectil que describe círculos en torno a la Tierra bajo la atracción de la gravedad. Newton comparó el movimiento de la Luna con una bala de cañón disparada desde la cumbre de una alta montaña. Imaginó que esa cumbre estuviera sobre la atmósfera terrestre, para que la resistencia del aire no impidiera el movimiento de la bala. Si ésta se disparara con una rapidez horizontal baja, seguiría una trayectoria curva y caería pronto al suelo.
+
+Si se disparara con mayor rapidez, su trayectoria sería menos curva y caería al suelo más lejos. Si se disparara con la rapidez suficiente, Newton dedujo que la trayectoria curva se transformaría en un círculo y la bala describiría círculos en torno a la Tierra en forma indefinida. Estaría en órbita.
+
+Tanto la bala de cañón como la Luna tienen velocidad tangencial (paralela a la superficie terrestre) suficiente como para asegurar que su movimiento sea alrededor de la Tierra, y no hacia la Tierra. Si no hay resistencia que reduzca su rapidez, la Luna, o cualquier satélite terrestre “cae” girando alrededor de la Tierra en forma indefinida. Asimismo, los planetas caen continuamente alrededor del Sol, en trayectorias cerradas. ¿Por qué los planetas no chocan contra el Sol? No lo hacen porque tienen velocidades tangenciales. ¿Qué sucedería si sus velocidades tangenciales se redujeran a cero? La respuesta es bastante sencilla: Caerían directo hacia el Sol y, entonces sí, desde hace mucho habrían chocado contra él. Lo que queda es la armonía que observamos.
+
+#### Examínate
+
+Una de las cosas bellas que tiene la física es que en general hay distintas formas de considerar y explicar determinado fenómeno. ¿Es válida la siguiente explicación? Los satélites permanecen en órbita en vez de caer a la Tierra porque están más allá de la principal atracción de la gravedad de la Tierra.
+
+#### Comprueba tu respuesta
+
+No, no, ¡mil veces no! Si algún objeto en movimiento estuviera más allá de la atracción gravitatoria se movería en una línea recta y no se curvaría en torno a la Tierra. Los satélites permanecen en órbita porque están siendo atraídos por la gravedad, no porque estén fuera de su alcance. Para las altitudes de la mayoría de los satélites terrestres, el campo gravitacional de la Tierra es tan sólo escasos puntos porcentuales menores que en la superficie terrestre.
+
+## Órbitas circulares de satélites
+
+Una bala de cañón disparada horizontalmente desde la montaña de Newton, a 8 kilómetros por segundo, seguiría la curvatura de la Tierra y describiría indefinidamente una trayectoria circular en torno a la Tierra (siempre y cuando el artillero y el cañón se apartaran para no estorbar). Si se dispara con menos rapidez, la bala llegaría a la superficie terrestre; si se disparara más rápido, se pasaría de la órbita circular, como describiremos un poco más adelante. Newton calculó la rapidez para tener órbita circular, y como era claramente imposible alcanzar esa velocidad inicial, no previó que los seres humanos lanzaran satélites (y también porque es probable que no concibiera cohetes de varias etapas).
+
+Observa que en órbita circular, la rapidez de un satélite no varía debido a la gravedad: Sólo cambia la dirección. Esto se puede entender comparando un satélite en órbita circular con una bola que rueda en una pista (o mesa) de bolos. ¿Por qué la gravedad que actúa sobre la bola no cambia su rapidez? La respuesta es que la gravedad tira directamente hacia abajo, y no tiene componente de fuerza que actúe hacia adelante ni hacia atrás.
+
+Imagina una mesa de bolos que rodee por completo a la Tierra, con una altura suficiente como para estar arriba de la atmósfera y de la resistencia del aire. La bola rodará con rapidez constante sobre la pista. Si se corta y se quita una parte de la pista, la bola caerá por su extremo y llegará al suelo. Una bola más rápida que encuentre el hueco llegará al suelo más lejos, más adelante del hueco. ¿Hay alguna rapidez con la cual la bola salvaría el hueco (como un motociclista que sube por una rampa y salva una distancia para llegar a una rampa del otro lado). La respuesta es sí: a 8 kilómetros por segundo salvará ese hueco, y cualquier hueco, aunque sea de 360°. Estaría en órbita circular.
+
+Ten en cuenta que un satélite en órbita circular se mueve siempre en dirección perpendicular a la fuerza de la gravedad que actúa sobre él. El satélite no se mueve en dirección de la fuerza, lo cual aumentaría su rapidez; ni se mueve en dirección contraria a la fuerza, lo cual disminuiría su rapidez. En vez de ello, se mueve en ángulo recto con la fuerza de gravitación que actúa sobre él. No hay cambio de rapidez; sólo hay cambio de dirección. Vemos así por qué un satélite en órbita circular viaja paralelo a la superficie de la Tierra con rapidez constante; es una forma muy especial de la caída libre.
+
+Para un satélite cercano a la Tierra, su periodo (el tiempo de una órbita completa alrededor de la Tierra) es de unos 90 minutos. Cuando la altura es mayor, la rapidez orbital es menor, la longitud de la órbita es mayor y el periodo también es mayor. Por ejemplo, los satélites de comunicaciones que están en órbita, a 5.5 radios terrestres sobre la superficie de la Tierra, tienen periodos de 24 horas. Este periodo coincide con el periodo de la rotación diaria de la Tierra. Si su órbita es alrededor del ecuador, esos satélites permanecen sobre el mismo punto del suelo. La Luna está todavía más lejos, y su periodo es de 27.3 días.
+
+Cuanto más alto esté la órbita de un satélite, su rapidez será menor, su trayectoria mayor y su periodo también mayor.
+
+Para poner en órbita una carga se requiere controlar la rapidez y la dirección del cohete que la lleve arriba de la atmósfera. Un cohete lanzado verticalmente, después se inclina en forma intencional para apartarlo de su curso vertical. Entonces, una vez que está sobre la resistencia de la atmósfera, se apunta horizontalmente, y se le da a la carga un empuje final para que alcance su rapidez orbital. Con la velocidad tangencial adecuada cae alrededor de la Tierra, y no hacia ella, y se transforma en un satélite de la Tierra.
+
+Dato curioso: El ascenso vertical inicial hace que un cohete atraviese rápidamente la parte más densa de la atmósfera. Al final, el cohete debe adquirir suficiente rapidez tangencial para permanecer en órbita sin propulsión, así que debe inclinarse hasta que su trayectoria sea paralela a la superficie terrestre.
+
+#### Examínate
+
+  1. ¿Cierto o falso? El transbordador espacial describe órbitas a altitudes mayores de 150 kilómetros, para estar arriba tanto de la gravedad como de la atmósfera terrestre.
+
+  2. Los satélites en órbita circular cercana caen unos 5 metros cada segundo en su órbita. ¿Por qué no se acumula esta distancia y los satélites caen a la superficie terrestre?
+
+#### Comprueba tus respuestas
+
+1. Falso. Lo que salvan los satélites allá arriba es la atmósfera y la resistencia del aire. ¡No la gravedad! Es importante notar que la gravedad de la Tierra se extiende por todo el Universo, de acuerdo con la ley del cuadrado inverso.
+
+2. En cada segundo, el satélite cae unos 5 metros abajo de la tangente que seguiría si no hubiera gravedad. También la superficie terrestre se curva 5 metros abajo de una recta tangente de 8 kilómetros de longitud. El proceso de caer con la curvatura de la Tierra continúa de una tangente a la siguiente, por lo que la trayectoria curva del satélite y la curva de la superficie terrestre quedan “empatadas” en todo el derredor de la Tierra. De hecho, los satélites caen de vez en cuando sobre la superficie terrestre, cuando se encuentran con resistencia del aire en la alta atmósfera, que hace disminuir su rapidez orbital.
+
+## Órbitas elípticas
+
+Si un proyectil se encuentra por arriba de la resistencia de la atmósfera y se le comunica una rapidez horizontal un poco mayor que 8 kilómetros por segundo, se pasará de la trayectoria circular y describirá un óvalo, llamado elipse.
+
+Una elipse es una curva específica: es la trayectoria cerrada que adquiere un punto que se mueve en tal forma que la suma de sus distancias a dos puntos fijos (llamados focos) es constante. Para un satélite en órbita en torno a un planeta, un foco está en el centro del planeta y el otro podría estar en el interior o fuera del planeta. Se puede trazar con facilidad una elipse clavando un par de tachuelas (una en cada foco) y con un cordón y un lápiz. Cuanto más cercanos estén los focos entre sí, la elipse se acercará más a un círculo. Cuando ambos focos están juntos, la elipse es un círculo. Notamos entonces que un círculo es un caso especial de una elipse.
+
+*Imagen 39. Método sencillo para trazar una elipse*
+
+Descripción de la Imagen 39. Método sencillo para trazar una elipse. Clava un par de tachuelas separadas y únelas con una cuerda y con ayuda de un lápiz o marcador trata de describir una Imagen circular. El resultado es una elipse.
+
+Si bien la rapidez de un satélite es constante en una órbita circular, varía en una órbita elíptica. Cuando la rapidez inicial es mayor que 8 kilómetros por segundo, el satélite se pasa de una trayectoria circular y se aleja de la Tierra, en contra la fuerza de gravedad. De este modo pierde rapidez. La rapidez que pierde al alejarse la vuelve a ganar al caer de regreso hacia la Tierra, y al final se reúne con su trayectoria original, con la misma rapidez que tenía al principio. Este procedimiento se repite una y otra vez, y en cada ciclo se describe una elipse.
+
+## Leyes de Kepler del movimiento planetario
+
+A la ley de la gravitación universal de Newton antecedieron tres descubrimientos importantes acerca del movimiento planetario. Fueron de Johannes Kepler, astrónomo alemán, que se iniciaba como joven asistente de Tycho Brahe, danés, entonces de gran fama. Brahe dirigía el primer gran observatorio en el mundo, en Dinamarca, justo antes de la llegada del telescopio. Usando gigantescos instrumentos semejantes a transportadores, llamados cuadrantes, Brahe midió las posiciones de los planetas durante 20 años con tanta exactitud que sus resultados aún son válidos en la actualidad. Brahe confió a Kepler sus datos, y después de morir Brahe, Kepler convirtió las mediciones de Brahe a valores que obtendría un observador estacionario fuera del sistema solar. Después de años de esfuerzos la expectativa de Kepler, de que los planetas se moverían describiendo círculos perfectos en torno al Sol, quedó hecha añicos. Encontró que las trayectorias son elipses. La primera ley de Kepler del movimiento planetario es la siguiente:
+
+La trayectoria de cada planeta alrededor del Sol es una elipse y el Sol se encuentra en uno de sus focos.
+
+Kepler también encontró que los planetas no giran en torno al Sol con rapidez uniforme, sino que se mueven con mayor rapidez cuando están más cerca del Sol, y con menor rapidez cuando están más alejados de éste. Lo hacen de modo que una recta o un rayo imaginario, que una al Sol con el planeta, barre áreas iguales de espacio en intervalos iguales de tiempo. El área triangular recorrida durante un mes, cuando un planeta está en órbita alejado del Sol es igual al área triangular que barre el planeta durante un mes, cuando el planeta en órbita está cercano al Sol. Ésta es la segunda ley de Kepler:
+
+La línea del Sol a cualquier planeta barre áreas iguales de espacio en intervalos de tiempo iguales.
+
+Kepler fue quien primero acuñó la palabra satélite. No tenía ideas claras acerca de por qué los planetas se movían como él descubrió. Carecía de un modelo conceptual. No vio que un satélite no es más que un proyectil bajo la influencia de una fuerza gravitacional dirigida hacia el cuerpo alrededor del cual gira el satélite. Tú sabes que si lanzas una piedra hacia arriba, desacelera a medida que sube, porque va contra la gravedad. Y sabes que cuando regresa va con la gravedad, y su rapidez aumenta. Kepler no percibió que un satélite se comporta igual. Al alejarse del Sol, desacelera. Al acercarse al Sol, acelera. Un satélite, sea de un planeta o del Sol, o uno de los actuales que se mueven alrededor de la Tierra, se mueve con más lentitud contra el campo gravitacional y más rápidamente en dirección de tal campo. Kepler no vio esta simplicidad y en cambio fabricó sistemas complicados de Imágenes geométricas que le dieran sentido a sus descubrimientos. Esos sistemas resultaron insustanciales.
+
+Diez años después de investigar mediante el ensayo y el error, buscando una relación entre el tiempo que tarda un planeta en dar una órbita en torno al Sol y la distancia respecto de éste, Kepler descubrió una tercera ley. Con los datos de Brahe, Kepler encontró que el cuadrado de un periodo (T mayúscula) es directamente proporcional al cubo de su radio orbital promedio (r minúscula). La tercera ley es:
+
+El cuadrado del periodo orbital de un planeta es directamente proporcional al cubo de su distancia promedio al Sol.
+
+Así, si se conoce el periodo de un planeta, se calcula con facilidad el promedio de su distancia radial orbital (o viceversa) Es interesante destacar que Kepler conocía las ideas de Galileo, acerca de la inercia y del movimiento acelerado, pero no las aplicó a sus propios trabajos. Al igual que Aristóteles, pensaba que la fuerza sobre un cuerpo en movimiento debería tener la misma dirección que la del movimiento del cuerpo. Nunca apreció el concepto de la inercia. Por otro lado, Galileo nunca apreció el trabajo de Kepler, y mantuvo su convicción de que los planetas se mueven en círculos. Para entender más el movimiento planetario se necesitaba alguien que pudiera integrar los resultados de esos dos grandes científicos. El resto es historia conocida, porque esta tarea quedó a cargo de Isaac Newton.
+
+## Rapidez de escape
+
+Sabemos que una bala de cañón disparada horizontalmente a 8 kilómetros por segundo, desde la montaña de Newton, se pondría en órbita. Pero, ¿qué sucedería si en vez de eso el cañón se disparara verticalmente con la misma rapidez? La bala subiría hasta una altura máxima, invertiría su dirección y caería de regreso a la Tierra. Sería válido el viejo dicho de “lo que sube debe bajar”, con tanta seguridad como que una piedra lanzada hacia el cielo será regresada por la gravedad (a menos que, como veremos, su rapidez sea suficientemente grande).
+
+En la época actual de los viajes espaciales es más correcto decir “lo que sube puede bajar”, porque hay una rapidez crítica inicial que permite que un proyectil venza a la gravedad y escape de la Tierra. A esta rapidez crítica se le llama rapidez de escape, o bien, si interviene su dirección, velocidad de escape. Desde la superficie de la Tierra, la rapidez de escape es 11.2 kilómetros por segundo. Si se lanza un proyectil a cualquier velocidad mayor que ésta, dejará la Tierra, viajando cada vez más lento, pero nunca se detendrá a causa de la gravedad de la Tierra.4 Podemos darnos una idea de la magnitud de esta rapidez desde el punto de vista de la energía.
+
+Si damos a una carga cualquier energía mayor que 62 millones de julios por kilogramo en la superficie de la Tierra o, lo que es igual, cualquier rapidez mayor que 11,2 kilómetros por segundo, entonces, sin tener en cuenta la resistencia del aire, la carga escapará de la Tierra y nunca regresará. Al continuar alejándose aumenta su EP y disminuye su EC. Su rapidez disminuye cada vez más, pero nunca se reduce a cero. La carga deja atrás la gravedad de la Tierra y se escapa.
+
+A continuación presentamos las rapideces de escape de varios cuerpos del sistema solar. Observa que la rapidez de escape de la superficie del Sol es 620 kilómetros por segundo. Aun a la distancia de 150.000.000 km que hay de la Tierra al Sol, la rapidez de escape para liberarse de la influencia del Sol es 42.5 kilómetros por segundo, bastante mayor que la rapidez de escape de la Tierra. Un objeto lanzado de la Tierra con una rapidez mayor que 11.2 kilómetros por segundo, pero menor que 42.5 kilómetros por segundo, se escapará de la Tierra, pero no del Sol. En vez de alejarse por siempre, tomará una órbita alrededor del Sol.
+
+Rapideces en kilómetros por segundo (Km/s) de escape en superficies de los cuerpos del sistema solar:
+
+Sol 620 Km/s. Sol (a la distancia de la órbita de la Tierra) 42.2. Júpiter 60.2. Saturno 36 Km/s. Neptuno 24.9 Km/s. Urano 22.3 Km/s. Tierra 11.2 Km/s. Venus 10.4 Km/s. Marte 5.0 Km/s. Mercurio 4.3 Km/s. Luna 2.4 Km/s.
+
+Dato curioso: Si se lanzara un dulce a la Tierra desde una distancia tan lejana como a la que se encuentra Plutón, ¿su rapidez de impacto sería de 11.2 km/s? ¡Eureka!
+
+La primera sonda en escapar del sistema solar fue la Pioneer 10, y salió de la Tierra en 1972, con una rapidez de sólo 15 kilómetros por segundo. El escape se logró dirigiéndola hacia la trayectoria de Júpiter, que se acercaba. El gran campo gravitacional de Júpiter la impulsó y en el proceso aceleró, de forma parecida a como una pelota de béisbol acelera al encontrarse con un bate. Su rapidez al alejarse de Júpiter aumentó lo bastante como para superar la rapidez de escape del Sol, a la distancia de Júpiter. La Pioneer 10 pasó por la órbita de Plutón en 1984. A menos que choque con algún otro cuerpo, seguirá errante en forma indefinida por el espacio interestelar. Como una botella lanzada al mar con un mensaje en su interior, la Pioneer 10 contiene información sobre la Tierra que pudiera interesar a formas de vida extraterrestre, esperando que algún día llegue a “encallar en alguna distante playa”.
+
+Es importante destacar que la rapidez de escape de un cuerpo es la rapidez inicial impartida por un breve empuje, después de lo cual ya no hay fuerza que ayude al movimiento. Se podría escapar de la Tierra con cualquier rapidez constante mayor que cero, si el tiempo es el suficiente. Por ejemplo, supón que se dispara un cohete hacia un destino como la Luna. Si se agota el combustible cuando todavía está cerca de la Tierra, necesita una rapidez mínima de 11.2 kilómetros por segundo. Pero si pueden durar encendidos los motores durante tiempos prolongados, el cohete podría llegar a la Luna sin haber alcanzado nunca los 11.2 kilómetros por segundo.
+
+Dato curiosos: así como los planetas giran alrededor del Sol, las estrellas giran alrededor de los centros de las galaxias. Aquellas con rapidez tangencial insuficiente son jaladas hacia el núcleo galáctico, por lo general, un agujero negro. ¡Eureka!
+
+Es importante notar que la exactitud con la cual un cohete no tripulado llega a su destino no se logra conservándolo en una trayectoria planeada con anterioridad, ni devolviéndolo a esa trayectoria, si se sale de la ruta. No se intenta regresar al cohete a su trayectoria original. En vez de ello, lo que pregunta el centro de control es:
+
+“¿Dónde está ahora y cuál es su velocidad? ¿Cuál es la mejor forma de hacer que llegue a su destino, dada su situación actual?” Con ayuda de computadoras de alta velocidad, se usan las respuestas a estas preguntas para trazar una nueva trayectoria. Los reactores correctivos ponen al cohete en esta nueva trayectoria. Tal proceso se repite una y otra vez, durante todo el camino hasta la meta.
+
+## Resumen de términos
+
+Elipse. La trayectoria ovalada que sigue un satélite. La suma de las distancias de cualquier punto en ella a dos puntos llamados focos es constante. Cuando los focos están juntos en un lugar, la elipse es un círculo. A medida que los focos se alejan, la elipse se vuelve más “excéntrica”.
+
+Leyes de Kepler. Ley 1: La trayectoria de cada planeta alrededor del Sol es una elipse y el Sol se encuentra en uno de sus focos. Ley 2: La recta que va del Sol a cualquier planeta recorre áreas del espacio iguales en intervalos de tiempo iguales. Ley 3: El cuadrado del periodo orbital de un planeta es directamente proporcional al cubo de la distancia promedio de ese planeta al Sol.
+
+Parábola. La trayectoria curva que sigue un proyectil cerca de la Tierra, bajo la sola influencia de la gravedad.
+
+Proyectil. Cualquier objeto que se mueve por el aire o por el espacio, bajo la influencia de la gravedad.
+
+Rapidez de escape. La rapidez que debe tener un proyectil, sonda espacial u objeto similar para escapar de la influencia gravitacional de la Tierra o del cuerpo celeste al cual se atraiga ese objeto.
+
+Satélite. Un proyectil o cuerpo celeste pequeño que gira en órbita en torno a un cuerpo celeste mayor.
+
+## Preguntas de repaso
+
+  1. ¿Por qué un proyectil que se mueve horizontalmente con una gran rapidez puede volverse un satélite de la Tierra?
+
+#### Movimiento de proyectiles
+
+  2. ¿Qué es exactamente un proyectil?
+
+#### Proyectiles disparados horizontalmente
+
+  3. ¿Por qué con el tiempo cambia el componente vertical de la velocidad de un proyectil, mientras que el componente horizontal no cambia?
+
+#### Proyectiles disparados hacia arriba
+
+  4. Se lanza una piedra hacia arriba con cierto ángulo. ¿Qué sucede con el componente horizontal de su velocidad conforme sube? ¿Y cuando baja?
+
+  5. Se lanza una piedra hacia arriba con cierto ángulo. ¿Qué sucede con el componente vertical de su velocidad conforme sube? ¿Y cuando baja?
+
+  6. Un proyectil cae debajo de la trayectoria rectilínea que tomaría si no hubiera gravedad. ¿Cuántos metros cae bajo esta línea si hubiera estado moviéndose 1 s? ¿Y con 2 s?
+
+  7. ¿Tu respuesta a la pregunta anterior depende del ángulo con el que se lanzó el proyectil?
+
+  8. Un proyectil se dispara hacia arriba, a 75° de la horizontal, y llega al suelo a cierta distancia. ¿Para qué otro ángulo de disparo a la misma rapidez caería este proyectil a la misma distancia?
+
+  9. Un proyectil se dispara hacia arriba, a 100 m/s. Si se pudiera despreciar la resistencia del aire, ¿con qué rapidez regresaría a su altura inicial?
+
+#### Proyectiles con movimiento rápido: satélites
+
+  10. ¿Cómo puede un proyectil “caer alrededor de la Tierra”?
+
+  11. ¿Por qué un proyectil que avanza horizontalmente a 8 km/s sigue una curva que coincide con la curvatura terrestre?
+
+  12. ¿Por qué es importante que el proyectil de la pregunta anterior esté arriba de la atmósfera terrestre?
+
+#### Órbitas circulares de satélites
+
+  13. ¿Por qué la fuerza de gravedad no cambia la rapidez de un satélite en órbita circular?}
+
+  14. ¿Cuánto tiempo tarda un satélite en órbita circular en torno a la Tierra en dar una vuelta?
+
+  15. Para las órbitas a mayor altitud, ¿el periodo es mayor o menor?
+
+#### Órbitas elípticas
+
+  16. ¿Por qué la fuerza de gravedad cambia la rapidez de un satélite en órbita elíptica?
+
+  17. ¿En qué parte de una órbita elíptica un satélite tiene la máxima rapidez? ¿Y la mínima rapidez?
+
+#### Leyes de Kepler del movimiento planetario
+
+  18. ¿Quién reunió los datos que indicaban que los planetas describen órbitas elípticas alrededor del Sol? ¿Quién descubrió este hecho? ¿Quién lo explicó?
+
+  19. ¿Qué descubrió Kepler acerca de la rapidez de los planetas y su distancia al Sol? ¿Consideraba Kepler que los planetas son proyectiles que se mueven bajo la influencia del Sol?
+
+  20. En la imaginación de Kepler, ¿cuál es la dirección de la fuerza sobre un planeta? ¿De acuerdo con Newton, ¿cuál es la dirección de esa fuerza?
+
+Rapidez de escape
+
+  21. ¿Cuál es la rapidez mínima para moverse en una órbita cercana a la Tierra? ¿Y la rapidez máxima? ¿Qué sucede por arriba de esta rapidez?
+
+  22. Se dice que 11.2 km/s es la rapidez de escape de la Tierra. ¿Será posible escapar de la Tierra a la mitad de esta rapidez? ¿Y a la cuarta parte de esta rapidez? ¿Cómo?
+
+## Ejercicios
+
+1. En los clavados sincronizados, los atletas permanecen en el aire durante el mismo tiempo. ¿Esto es posible si tienen pesos diferentes? Argumenta tu respuesta.
+
+2. Supón que haces rodar una pelota sobre una mesa para que caiga al suelo. ¿El tiempo que tarda en golpear el suelo depende de la rapidez de la pelota? (¿Una pelota rápida tardará más en golpear el suelo?) Argumenta tu respuesta.
+
+3. Supón que haces rodar una pelota sobre una mesa para que caiga al suelo. En comparación con un rodamiento lento, una pelota que se mueve rápidamente golpea el suelo con una rapidez mayor? Argumenta tu respuesta.
+
+4. Si lanzas una pelota verticalmente hacia arriba, en un tren que se mueve de manera uniforme, ésta regresará al punto de partida. ¿Sucederá lo mismo si el tren va acelerando? Explica tu respuesta.
+
+5. Por accidente, una caja pesada se cae de un avión que vuela alto, en el mismo momento en que pasa sobre un reluciente Porsche rojo, estacionado en un lote de automóviles. En relación con el Porsche, ¿dónde caerá la caja?
+
+6. Supón que dejas caer un objeto desde un avión que vuela a velocidad constante, y además imagina que la resistencia del aire no afecta al objeto que cae. ¿Cuál será su trayectoria de caída, vista por alguien en reposo en el suelo, no directamente abajo, sino a un lado, donde se pueda tener una buena perspectiva? ¿Cuál será la trayectoria de caída que tú ves desde el avión? ¿Dónde llegará al suelo el objeto, en relación con tu avión? ¿Dónde llegará, en el caso más real en el que la resistencia del aire sí afecte a la caída?
+
+7. Los fragmentos de fuegos artificiales iluminan bellamente el cielo nocturno.
+
+a) ¿Qué trayectoria específica traza cada fragmento?
+
+b) ¿Qué trayectorias trazarían los fragmentos en una región sin gravedad?
+
+8. En ausencia de la resistencia del aire, ¿por qué no cambia el componente horizontal del movimiento de un proyectil, en tanto que sí cambia el componente vertical?
+
+9. ¿En qué punto de su trayectoria una pelota de béisbol bateada tiene su rapidez mínima? Si se pudiera despreciar la resistencia del aire, ¿cómo se compara esta rapidez con el componente horizontal de su velocidad en otros puntos de su trayectoria?
+
+10. Para tener alcance máximo, un balón de fútbol americano se debe patear más o menos a 45° de la horizontal; un poco menos, quizá debido a la resistencia del aire. Pero con frecuencia las patadas se hacen con ángulos mayores que 45°. ¿Te puedes imaginar alguna razón para hacerlo así?
+
+11. Dos golfistas golpean una pelota con la misma rapidez, pero uno a 60° de la horizontal y el otro a 30°. ¿Cuál pelota llegará más lejos? ¿Cuál llega primero al suelo? (No tengas en cuenta la resistencia del aire.)
+
+12. Cuando un rifle se apunta hacia un blanco lejano, ¿por qué su cañón no se alinea de manera que apunte exactamente a ese blanco?
+
+13. Un guardabosque dispara un dardo tranquilizante a un mono que se cuelga de una rama. Apunta directamente al mono, sin darse cuenta de que el dardo seguirá una trayectoria parabólica y, por consiguiente, dará abajo del mono. Sin embargo, el mono ve el dardo que sale del arma y se suelta de la rama, para evitar que lo alcance. ¿De cualquier manera hará blanco en el mono? ¿La velocidad del dardo influye sobre tu respuesta, suponiendo que es la suficiente para recorrer la distancia horizontal al árbol antes de que llegue al suelo? Defiende tu respuesta. supón que se dispara hacia arriba, a 45°. ¿Cuál sería su rapidez en la cúspide de su trayectoria?
+
+14. Cuando saltas hacia arriba, tu tiempo en el aire es el que tus pies están despegados del piso. Este tiempo en el aire, ¿depende del componente vertical de la velocidad al saltar, del componente horizontal de la velocidad, o de ambos? Defiende tu respuesta.
+
+15. Si la Luna es atraída gravitacionalmente hacia la Tierra, ¿por qué simplemente no choca contra ésta?
+
+16. Cuando el trasbordador espacial sigue una órbita circular a rapidez constante en torno a la Tierra, ¿está acelerando? En caso afirmativo, ¿en qué dirección? En caso negativo, ¿por qué?
+
+17. ¿Qué planetas tienen un periodo mayor que 1 año terrestre, los que están más cerca del Sol que la Tierra, o los que están más lejos?
+
+18. ¿La rapidez de un objeto que cae depende de su masa? ¿La rapidez de un satélite en órbita depende de su masa? Defiende tus respuestas.
+
+19. ¿De qué no depende la rapidez de un satélite en órbita? De la masa del satélite, de la masa de la Tierra o de la distancia del satélite a la Tierra.
+
+20. Si alguna vez has visto el lanzamiento de un satélite desde la Tierra, habrás notado que el cohete comienza verticalmente hacia arriba, y a continuación se aparta de la ruta vertical y continúa su subida formando un ángulo. ¿Por qué arranca verticalmente? ¿Por qué no continúa verticalmente?
+
+21. Si una bala de cañón se dispara desde una montaña alta, la gravedad cambia su rapidez en toda su trayectoria. Pero si se dispara con la rapidez suficiente para entrar en órbita circular, su rapidez no cambia en absoluto. Explica por qué.
+
+22. Un satélite puede describir una órbita a 5 km sobre la Luna, pero no a 5 km sobre la Tierra. ¿Por qué?
+
+23. Durante los años 2000 y 2001, la nave espacial NEAR estuvo en órbita en torno al asteroide Eros, de 20 millas de longitud. ¿La rapidez orbital de esta nave espacial era mayor o menor que 8 km/s? ¿Por qué?
+
+24. La rapidez de un satélite en órbita circular cercana en torno a Júpiter, ¿sería mayor, igual o menor que 8 km/s?
+
+25. ¿Por qué los satélites se suelen poner en órbita disparándolos hacia el oriente, que es la dirección en la cual gira la Tierra?
+
+26. Cuando desacelera un satélite en órbita circular, quizá porque haya disparado un “retrocohete”, después adquiere mayor rapidez que antes. ¿Por qué?
+
+27. La Tierra está más cerca del Sol en diciembre que en junio. ¿En cuál de estos dos meses la Tierra se mueve más rápido alrededor del Sol?
+
+28. Hay dos planetas que nunca se ven a media noche. ¿Cuáles son y por qué?
+
+29. Por qué un satélite arde al descender a la atmósfera, pero no arde cuando asciende por la atmósfera?
+
+30. Sin considerar la resistencia del aire, ¿se podría poner un satélite en órbita en un túnel que le diera la vuelta a la Tierra, abajo del suelo? Comenta este ejercicio.
+
+31. ¿Cómo es que un astronauta en un trasbordador espacial podría “dejar caer” verticalmente un objeto hacia la Tierra?
+
+32. Una nave espacial en una órbita a gran altura avanza a 7 km/s con respecto a la Tierra. Supón que lanza hacia atrás una cápsula, a 7 km/s con respecto a la nave. Describe la trayectoria de la cápsula con respecto a la Tierra.
+
+33. Si detuvieras un satélite terrestre hasta inmovilizarlo en su órbita, simplemente se estrellaría contra la Tierra. Entonces, ¿por qué los satélites de comunicaciones que están “suspendidos” sobre el mismo lugar de la Tierra no se estrellan contra ésta?
+
+34. En una explosión accidental, un satélite se rompe a la mitad al estar en órbita circular en torno a la Tierra. Una de las mitades se detiene por completo, momentáneamente. ¿Cuál será el destino de esa mitad? ¿Qué le sucederá a la otra mitad?
+
+35. ¿Qué ventaja existe en lanzar vehículos espaciales desde naves que vuelan a gran altura, en vez de lanzarlos desde el suelo?
+
+36. La rapidez de escape de la superficie terrestre es de 11.2 km/s, pero un vehículo espacial podría escapar de la Tierra a la mitad de esta rapidez, o incluso menos. Explica cómo.
+
+37. ¿Cuál es la máxima rapidez de impacto posible en la superficie de la Tierra, de un cuerpo lejano inicialmente en reposo que cae a la Tierra debido tan sólo a la gravedad terrestre?
+
+38. ¿En qué punto de su órbita elíptica alrededor del Sol la aceleración de la Tierra hacia el Sol es máxima? ¿En qué punto es la mínima? Argumenta tus respuestas.
+
+## Problemas
+
+1. Se lanza una pelota horizontalmente desde el borde de un barranco, con una rapidez de 10 m/s. ¿Cuál será su rapidez un segundo después? Recuerda que acelera uniformemente con el valor de la aceleración de la gravedad.
+
+2. Un avión vuela horizontalmente con una rapidez de 1.000 km/h (280 m/s), cuando se le cae un motor. Sin tener en cuenta la resistencia del aire, el motor tarda 30 s en llegar al suelo.
+
+a) ¿A qué altitud vuela el avión?
+
+b) ¿Qué distancia horizontal recorre el motor mientras cae?
+
+c) Si el avión siguiera volando como si nada hubiera pasado, ¿dónde estaría el motor, en relación con el avión, cuando llega al suelo?
+
+3. Se dispara una bala de cañón con una velocidad inicial de 141 m/s a un ángulo de 45°. Describe una trayectoria parabólica que hace blanco en un globo, en la cúspide de su trayectoria. Sin tener en cuenta la resistencia del aire, ¿qué rapidez tiene la bala al dar en el globo?
+
+# Pruebas Saber grado 5° de Ciencias Naturales
+
+1. El río que atraviesa un municipio mantiene una población de peces que varía de acuerdo con la temporada del año, como se muestra en la gráfica.
+
+Descripción de la gráfica. En el eje horizontal se indican los 12 meses del año de enero a diciembre. En el eje vertical los números de 100 en 100 desde 0 hasta 800 que es la cantidad de peces. Enero tiene un valor entre 300 y 400. Febrero 400. Marzo entre 500 y 600. Abril 700. Mayo 600. Junio 300. Julio entre 0 y 100. Agosto entre 100 y 200. Septiembre entre 200 y 300. Octubre 200. Noviembre entre 200 y 300. Y Diciembre muy cercano a los 300.
+
+De acuerdo con la gráfica, la mejor temporada para pescar es entre
+
+  A. enero y febrero.
+
+  B. abril y mayo.
+
+  C. julio y agosto.
+
+  D. septiembre y octubre.
+
+2. La lluvia afecta el nivel de agua en un embalse, el cual se mide en metros de profundidad. La siguiente gráfica muestra el nivel de agua de los embalses X y Y (X mayúscula, y Y mayúscula) en enero.
+
+Descripción de la gráfica. En el eje horizontal se indican los embalses X y Y. En el eje vertical se indica de 5 en 5 la profundidad (metros) desde 0 hasta 30. El embalse X presenta una barra que se eleva hasta 20. El embalse Y presenta una barra que se eleva hasta 20.
+
+Si durante el año llueve constantemente sobre el embalse X y no llueve sobre el embalse Y, la gráfica que mejor representa los niveles de agua en los embalses en diciembre es:
+
+  A. La gráfica muestra la barra del embalse X elevada hasta 20 y el embalse Y hasta 20 profundidad (metros).
+
+  B. La gráfica muestra la barra del embalse X elevada hasta 20 y el embalse Y hasta 25 profundidad (metros).
+
+  C. La gráfica muestra la barra del embalse X elevada hasta 25 y el embalse Y hasta 15 profundidad (metros).
+
+  D. La gráfica muestra la barra del embalse X elevada hasta 15 y el embalse Y hasta 15 profundidad (metros).
+
+3. Se sabe que cuando el polo Norte terrestre está iluminado directamente por el Sol el polo Sur no. Esta afirmación demuestra que cuando en el Hemisferio Norte es verano en el Hemisferio Sur es:
+
+  A. primavera.
+
+  B. verano.
+
+  C. otoño.
+
+  D. invierno.
+
+4. Nuestra profesora quiere saber, ¿quién es el estudiante más fuerte?. Para ello, pide a cinco estudiantes que empujen cajas y registra el tiempo que cada uno tarda en recorrer 5 metros. El resultado del experimento lo organizó en la siguiente tabla que muestra el tiempo empleado por cada niño a medida que aumenta el número de cajas:
+
+| Estudiante | Tiempo empleado en mover 2 cajas (seg.) | Tiempo empleado en mover 3 cajas (seg.) | Tiempo empleado en mover 4 cajas (seg.) |
+| --- | --- | --- | --- |
+| Lucho | 20 | 25 | 30 |
+| Daniel | 25 | 30 | 35 |
+| Manuel | 28 | 33 | 38 |
+| José | 30 | 35 | 38 |
+| Miguel | 30 | 35 | 40 |
+
+Luego, la profesora les pide que empujen cinco cajas. De acuerdo con lo anterior, se puede esperar que el tiempo empleado por el grupo de niños para mover las cajas esté entre:
+
+  A. 40 y 50 segundos.
+
+  B. 35 y 45 segundos.
+
+  C. 20 y 40 segundos.
+
+  D. 25 y 35 segundos.
+
+5. Pedro realiza un experimento para representar un eclipse de luna, sabiendo que es un fenómeno natural, donde la Tierra se interpone directamente entre el Sol y la Luna. El procedimiento que realiza se encuentra en la siguiente imagen:
+
+Descripción de la imagen. Pedro ilumina con una linterna (punto 1) a una pelota enfrente de él (punto 2) y la proyección de la luz se ve obstaculizada en llegar a una pelota de menor tamaño (punto 3). Los 3 objetos se encuentran en la misma línea.
+
+Los objetos que representan 1, 2 y 3 en orden son:
+
+  A. Tierra, Sol y Luna.
+
+  B. Sol, Tierra y Luna.
+
+  C. Tierra, Luna y Sol.
+
+  D. Sol, Luna y Tierra.
+
+6. El siguiente dibujo representa un circuito eléctrico sencillo.
+
+Descripción de la imagen. El circuito está conformado por una batería la cual tiene una conexión a un bombillo y otra a un interruptor. Una de las conexiones del bombillo va hacia el interruptor para cerrar el circuito.
+
+Si en el circuito anterior, cambias el interruptor por otro material, es de esperar que el bombillo encienda cuando coloques un trozo delgado de:
+
+  A. madera.
+
+  B. plástico.
+
+  C. cobre.
+
+  D. vidrio.
+
+7. La corriente eléctrica es una de las formas de energía que más utiliza el ser humano para llevar a cabo sus actividades cotidianas. Una de las situaciones en la que se usa la energía eléctrica es:
+
+A. la comunicación por internet.
+
+B. el transporte en bicicleta.
+
+C. la digestión de alimentos.
+
+D. la fotosíntesis de la planta.
+
+8. Observa las siguientes figuras:
+
+Descripción de la Figura. Situación 1, una persona jugando en una playa y la imagen de un ventilador al lado. Situación 2, Una casa de 2 pisos y la imagen de una estufa al lado. Situación 3, dos niños jugando en la nieve armando un muñeco y al lado la imagen de un aparato de calefacción. Situación 4, Una habitación con una cama y por la ventana se aprecia que es de noche y al lado la imagen de un bombillo.
+
+Las situaciones en las que el clima es un factor importante para el uso de los aparatos eléctricos están representadas en
+
+  A. 1 y 3
+
+  B. 2 y 4
+
+  C. 3 y 2
+
+  D. 4 y 1
+
+9. Juan usa una carretilla para mover una piedra como se muestra en la siguiente imagen:
+
+Descripción de la imagen. Una carretilla inclinada cargando una gran piedra. En el centro de las ruedas que sostienen las carretillas se desprende un aviso que dice “Apoyo” y del otro extremo donde se coge la carretilla dice “Fuerza”.
+
+Esta máquina es útil porque
+
+A. Juan ejerce menos fuerza.
+
+B. la piedra está sobre el apoyo.
+
+C. el apoyo está en un extremo.
+
+D. disminuye el peso de la piedra.
+
+10. s Juan conecta un bombillo a una batería A y observa que al cabo de 10 minutos el bombillo se apaga. Al conectar el mismo bombillo a otra batería B encuentra que el bombillo dura 20 minutos encendido. Con este experimento se puede saber que:
+
+A. la batería B es más grande que la batería A.
+
+B. la batería B tiene mayor cantidad de energía.
+
+C. a los 10 minutos el bombillo se funde.
+
+D. a los 10 minutos se desconectan las baterías.
+
+11. d En un experimento, se les pide a cuatro niños que empujen diferente número de cajas y se registra el tiempo que cada uno tarda en recorrer 5 metros. El resultado del experimento se organizó en la siguiente tabla, que muestra el tiempo empleado por cada niño a medida que aumenta el número de cajas.
+
+| Estudiante | Tiempo empleado en mover 2 cajas (seg) | Tiempo empleado en mover 4 cajas (seg) |
+| --- | --- | --- |
+| Lucho | 20 | 31 |
+| Manuela | 28 | 38 |
+| José | 30 | 38 |
+| Miguel | 32 | 41 |
+
+De acuerdo con los resultados que se observan en la tabla, puede concluirse que
+
+  A. el estudiante más fuerte emplea el mismo tiempo sin importar la masa.
+
+  B. todos los niños aplican más fuerza siempre que empujan dos cajas.
+
+  C. el estudiante más fuerte de todos siempre emplea menos tiempo.
+
+  D. todos los niños siempre aplican la misma fuerza sobre las cajas.
+
+RESPONDE LAS PREGUNTAS 12 Y 13 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN
+
+Tu profesora realiza un experimento en el que coloca tres cubos de igual volumen en una balanza, como se muestra en la siguiente imagen.
+
+Descripción de la imagen. Pesaje 1, una balanza se desequilibra mostrando al cubo 1 más algo que el cubo 2. Pesaje 2, una balanza se desequilibra más que antes mostrando al cubo 3 más alto y al cubo 1 más bajo.
+
+12. De acuerdo con lo que observas en la imagen anterior, es correcto afirmar que la masa:
+
+  A. de los cubos 1 y 2 es igual.
+
+  B. del cubo 1 es mayor que la masa del cubo 2.
+
+  C. de los cubos 2 y 3 es igual.
+
+  D. del cubo 3 es menor que la masa del cubo 2.
+
+13. Pedro mete los cubos 1 y 2 en un recipiente con agua. Si Pedro sabe que el cubo 1 es más liviano que el agua, el dibujo que representa correctamente la posición de los cubos 1 y 2 en el agua es:
+
+  A. La figura muestra al cubo 1 flotando y al cubo 2 sumergido totalmente en el recipiente.
+
+  B. La figura muestra al cubo 1 sumergido parcialmente y al cubo 2 flotando en el recipiente.
+
+  C. La figura muestra al cubo 1 y 2 sumergidos parcialmente en el recipiente.
+
+  D. La figura muestra al cubo 1 y 2 totalmente sumergidos en el recipiente.
+
+# Bibliografía
+
+Hewitt, P. (2007). Física Conceptual. En P. Hewitt, Física Conceptual (Décima ed., págs. 74 - 209). México, México: Pearson Educación.
+
+icfes.gov.co. (2012). www.icfes.gov.co/examenes/pruebas-sabe. Recuperado el 22 de Junio de 2015, de http://www.icfes.gov.co/examenes/pruebas-saber/guias-y-ejemplos-de-preguntas

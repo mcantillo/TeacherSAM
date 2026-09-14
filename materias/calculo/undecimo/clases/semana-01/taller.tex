@@ -1,0 +1,91 @@
+% =====================================================================
+% Taller 1 -- Cálculo 11° -- Trimestre I -- Semana 01 (sesión 001, lun 3 ago.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Taller}
+\asignatura{Cálculo}
+\titulo{Taller 1: números naturales y enteros}
+\grado{11°}
+\periodo{I}
+\tiempo{30 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencia: describe propiedades de los números y las operaciones que son comunes y
+%      diferentes en los distintos sistemas numéricos.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. En esta guía usamos $\N = \{0, 1, 2, 3, \ldots\}$ (el 0 es natural).
+Justifica tus respuestas.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta[1] Marca con una X los conjuntos a los que pertenece cada número.
+\begin{center}
+{\renewcommand{\arraystretch}{1.6}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+  \hline
+  & $7$ & $-3$ & $0$ & $-12$ & $25$ & $\frac{1}{2}$\\\hline
+  $\N$ & & & & & & \\\hline
+  $\Z$ & & & & & & \\\hline
+\end{tabular}}
+\end{center}
+\begin{solucion}
+$7$, $0$ y $25$: en $\N$ y en $\Z$. $-3$ y $-12$: solo en $\Z$. $\frac{1}{2}$: en ninguno.
+\end{solucion}
+
+\pregunta[1] Si operas dos números naturales, ¿el resultado es siempre un número natural? Para
+cada operación responde sí o no, y cuando sea no, da un ejemplo que lo muestre.
+\begin{opciones*}(4)
+  \item Suma
+  \item Resta
+  \item Multiplicación
+  \item División
+\end{opciones*}
+\begin{solucion}[2.5cm]
+Suma: sí. Resta: no ($3 - 5 = -2$). Multiplicación: sí. División: no ($3 \div 5$ no es natural).
+\end{solucion}
+
+\pregunta[1] Ubica en la recta $-4$, $-1$, $0$, $3$ y $5$ y escríbelos de menor a mayor.
+¿Qué número está a la misma distancia de $-4$ y de $5$? ¿Es un número entero?
+\begin{center}
+\begin{tikzpicture}[scale=0.75]
+  \draw[->] (-6.5,0) -- (6.5,0);
+  \foreach \x in {-6,...,6} \draw (\x,0.12) -- (\x,-0.12);
+  \node[below] at (0,-0.15) {$0$};
+  \node[below] at (1,-0.15) {$1$};
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[2cm]
+$-4 < -1 < 0 < 3 < 5$. El punto medio es $\frac{-4 + 5}{2} = 0{,}5$, que no es entero.
+\end{solucion}
+
+\pregunta[1] Resuelve con operaciones entre enteros:
+\begin{opciones}
+  \item En el nevado del Ruiz, la temperatura pasó de $3$ °C a $-9$ °C en la noche. ¿Cuántos grados bajó?
+  \item Una cuenta tiene un saldo de $-\$20\,000$ y se consignan $\$55\,000$. ¿Cuál es el nuevo saldo?
+\end{opciones}
+\begin{solucion}[3cm]
+a) $3 - (-9) = 12$ grados. b) $-20\,000 + 55\,000 = \$35\,000$.
+\end{solucion}
+
+\pregunta[1] Juan dice: «Como $5 - 8$ no da un número natural, esa resta no se puede hacer».
+¿Tiene razón? Explica qué conjunto de números hace falta y por qué fue necesario inventarlo.
+\renglones{3}
+\begin{solucion}
+En $\N$ no se puede, pero en $\Z$ sí: $5 - 8 = -3$. Los enteros aparecen para que la resta
+tenga siempre respuesta (deudas, temperaturas bajo cero, alturas bajo el nivel del mar).
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

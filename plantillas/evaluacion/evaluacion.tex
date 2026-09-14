@@ -1,0 +1,118 @@
+% =====================================================================
+% PLANTILLA: Evaluación -- Área de Matemáticas
+% María Mercedes Cantillo · Colegio San Alberto Magno
+% ---------------------------------------------------------------------
+% 1. Copia este archivo con otro nombre (p. ej. eval-cinematica.tex) en
+%    esta misma carpeta (el estilo y el logo se toman de ../estilo/).
+% 2. Cambia los datos de la sección "DATOS DE LA EVALUACIÓN".
+% 3. Compila con:  latexmk -pdf eval-cinematica.tex
+%    Clave de respuestas (sin editar nada):
+%    pdflatex -jobname=eval-cinematica-clave "\def\clave{}\input{eval-cinematica}"
+% =====================================================================
+\documentclass[11pt]{article}
+% El estilo y el logo viven en la carpeta compartida plantillas/estilo/
+\makeatletter\def\input@path{{../estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% ======================= DATOS DE LA EVALUACIÓN =======================
+\tipodocumento{Evaluación}
+\asignatura{Física}           % Cálculo, Física, Trigonometría, ...
+\titulo{Cinemática en una dimensión}
+\grado{10°}
+\periodo{III}
+\tiempo{50 min}
+% \anio{2026}                 % por defecto: el año actual
+% \mostrarsoluciones          % descomenta para imprimir la clave
+% ======================================================================
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Lee con atención cada enunciado. En la selección múltiple marca una sola
+opción. En los problemas de desarrollo escribe las ecuaciones que usas y
+las unidades de cada resultado. Toma $g = \qty{9,8}{m/s^2}$.
+\end{instrucciones}
+
+% ---------------------------------------------------------------------
+\seccion{Selección múltiple}
+% ---------------------------------------------------------------------
+\begin{preguntas}
+
+\pregunta[1] Un automóvil pasa de $\qty{0}{m/s}$ a $\qty{20}{m/s}$ en
+$\qty{5}{s}$. Su aceleración media es:
+\begin{opciones*}(4)
+  \item $\qty{2}{m/s^2}$
+  \item $\qty{4}{m/s^2}$
+  \item $\qty{25}{m/s^2}$
+  \item $\qty{100}{m/s^2}$
+\end{opciones*}
+\begin{solucion}
+b) $a = \Delta v / \Delta t = 20/5 = \qty{4}{m/s^2}$.
+\end{solucion}
+
+\pregunta[1] ¿Cuál de las siguientes afirmaciones sobre la caída libre es
+verdadera (sin resistencia del aire)?
+\begin{opciones}
+  \item Los cuerpos más pesados caen con mayor aceleración.
+  \item Todos los cuerpos caen con la misma aceleración.
+  \item La velocidad del cuerpo permanece constante.
+  \item La aceleración es cero en el punto más alto.
+\end{opciones}
+\begin{solucion}
+b) La aceleración es $g$ para todos los cuerpos.
+\end{solucion}
+
+\end{preguntas}
+
+% ---------------------------------------------------------------------
+\seccion{Problemas de desarrollo}
+% ---------------------------------------------------------------------
+\begin{preguntas}
+
+\pregunta[3] La gráfica muestra la velocidad de un ciclista en función
+del tiempo. Calcula la distancia total recorrida entre $t=0$ y
+$t=\qty{10}{s}$ (el área bajo la curva).
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=0, xmax=11, ymin=0, ymax=7,
+             xlabel={$t$ (\unit{s})}, ylabel={$v$ (\unit{m/s})},
+             xtick={0,2,...,10}, ytick={0,2,4,6}]
+  \addplot+[name path=v, sharp plot] coordinates {(0,0) (4,6) (8,6) (10,0)};
+  \path[name path=eje] (axis cs:0,0) -- (axis cs:10,0);
+  \addplot[pattern=north east lines, pattern color=black!45]
+    fill between[of=v and eje];
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[4cm]
+$d = \tfrac12(4)(6) + (4)(6) + \tfrac12(2)(6) = 12 + 24 + 6 = \qty{42}{m}$.
+\end{solucion}
+
+\pregunta[3] Se lanza una pelota verticalmente hacia arriba con velocidad
+inicial $v_0 = \qty{14,7}{m/s}$.
+\begin{enumerate}[label=\alph*)]
+  \item ¿Cuánto tiempo tarda en alcanzar la altura máxima?
+  \item ¿Cuál es la altura máxima?
+\end{enumerate}
+\begin{solucion}[5cm]
+a) $t = v_0/g = 14{,}7/9{,}8 = \qty{1,5}{s}$.\quad
+b) $h = \dfrac{v_0^2}{2g} = \dfrac{(14{,}7)^2}{2(9{,}8)} \approx \qty{11,0}{m}$.
+\end{solucion}
+
+\pregunta[2] Demuestra, derivando $x(t) = x_0 + v_0 t + \tfrac12 a t^2$,
+que la aceleración es constante.
+\begin{solucion}[3cm]
+$\dv{x}{t} = v_0 + a t$, \quad $\dv{^2x}{t^2} = a$, que no depende de $t$.
+\end{solucion}
+
+\end{preguntas}
+
+\vfill
+\begin{center}
+  \small\itshape\color{mmcGris}— ¡Éxitos! —
+\end{center}
+
+\end{document}

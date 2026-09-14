@@ -1,0 +1,74 @@
+% =====================================================================
+% Tarea 2 -- Cálculo 11° -- Trimestre I -- Semana 02
+% Se asigna el vie 14 ago. (sesión 005); se revisa el jue 20 ago. (sesión 006; el lun 17 es festivo)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Tarea}
+\asignatura{Cálculo}
+\titulo{Tarea 2: representaciones de los conjuntos numéricos}
+\grado{11°}
+\periodo{I}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencia: construye representaciones de los conjuntos numéricos y establece relaciones
+%      acordes con sus propiedades.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: jueves 20 de agosto (el lunes 17 es festivo). Consulta la \refguia{tema:sistemas}.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta Dibuja un diagrama de Venn con $\N \subset \Z \subset \Q$ y ubica en él:
+$-5$, \ $0$, \ $\frac{3}{7}$, \ $12$, \ $-2{,}5$, \ $0{,}\overline{3}$.
+\espacio{4cm}
+\begin{solucion}
+En $\N$: $0$ y $12$. En $\Z$ pero no en $\N$: $-5$. En $\Q$ pero no en $\Z$: $\frac{3}{7}$,
+$-2{,}5$ y $0{,}\overline{3}$.
+\end{solucion}
+
+\pregunta Escribe cada conjunto por extensión (listando sus elementos) y por comprensión
+(con una condición). Si no se puede por extensión, explica por qué.
+\begin{opciones}
+  \item Los números enteros mayores que $-3$ y menores que $2$.
+  \item Los números naturales pares menores que $10$.
+  \item Los números racionales mayores que $0$ y menores que $1$.
+\end{opciones}
+\begin{solucion}[4cm]
+a) $\{-2, -1, 0, 1\} = \{x \in \Z : -3 < x < 2\}$. b) $\{0, 2, 4, 6, 8\} =
+\{x \in \N : x \text{ es par y } x < 10\}$. c) $\{x \in \Q : 0 < x < 1\}$; no se puede
+listar: son infinitos y entre dos cualesquiera siempre hay otro.
+\end{solucion}
+
+\pregunta Representa de tres maneras distintas (extensión, comprensión y recta numérica) el
+conjunto de los números enteros mayores que $-2$ y menores o iguales que $3$.
+\espacio{3.5cm}
+\begin{solucion}
+$\{-1, 0, 1, 2, 3\}$; $\{x \in \Z : -2 < x \le 3\}$; en la recta, cinco puntos rellenos en
+$-1$, $0$, $1$, $2$ y $3$ (no un segmento continuo, porque solo son enteros).
+\end{solucion}
+
+\pregunta Para la próxima clase: calcula $\left(\frac{7}{5}\right)^2$,
+$\left(\frac{17}{12}\right)^2$ y $\left(\frac{41}{29}\right)^2$ y compáralos con 2. ¿Crees que
+existe una fracción cuyo cuadrado sea \emph{exactamente} 2? Lo discutiremos con la historia de
+Hipaso (\refguia{tema:irracionales}).
+\renglones{3}
+\begin{solucion}
+$\frac{49}{25} = 1{,}96$; $\frac{289}{144} \approx 2{,}0069$; $\frac{1681}{841} \approx
+1{,}9988$. Se acercan cada vez más a 2, pero ninguna fracción lo logra exactamente: $\sqrt{2}$
+es irracional (Tema 2).
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

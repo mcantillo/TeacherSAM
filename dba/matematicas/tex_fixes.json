@@ -1,0 +1,27 @@
+{
+  "drop_lines": {
+    "1": ["Mariposa Pingüino", "Gato", "Sapo", "de"],
+    "2": ["1\t\t\t 2", "de de", "Candidato 1", "Candidato 2", "Candidato 3", "Candidato 4", "Cada Equivale a 5 votos"],
+    "3": ["Posición Número de puntos Descripción del proceso", "Primera 1 Se dibuja un punto", "Segunda 3 Al punto anterior se le", "Dulces Dulces", "30 31"],
+    "6": ["1 2 3 4 5 6 7 3", "Empresa A Empresa B Empresa C"],
+    "9": ["Figura 1"],
+    "10": ["círculo (m ) (seg) (m /s)", "de llantas de las llantas de las llantas"],
+    "11": ["Revista CA CIENTIFÕ gos y los ant ro pÛlo usan la s ìLos ntÛlo gos hue sos p a le o des d e los el lon g it u os c o m o s larg ro pa ra fÛsile el h˙me del fÈmu r y laesta tu ra calcu la r est u dioî. 9 id uo en indiv", "8"]
+  },
+  "9": [
+    ["en el D tablero:dd =√5=2\\.23 d Ella",
+     "en el tablero: $\\frac{D}{d}=\\sqrt{5}=2.23$. Ella"],
+    ["Fernando escribió d en su cuaderno =√5 \\. En caso de existir un D error",
+     "Fernando escribió en su cuaderno $\\frac{d}{D}=\\sqrt{5}$. En caso de existir un error"],
+    ["el volumen de 4 π d 3 una esfera es 4 π\\(d\\) 3 quiere decir que V= 3 3 2 2 cuando",
+     "el volumen de una esfera es $V=\\frac{4}{3}\\pi\\left(\\frac{d}{2}\\right)^3$ quiere decir que cuando"]
+  ],
+  "10": [
+    ["Conjunto 1: 1, 1 , 1 10 100 1000 Conjunto 2: \\[0, 0\\.5\\) Conjunto 3: \\[5,∞\\) Conjunto 4: \\[-1\\.5, -0\\.5\\] ",
+     "Conjunto 1: $\\left\\{\\frac{1}{10}, \\frac{1}{100}, \\frac{1}{1000}\\right\\}$; Conjunto 2: $[0,\\ 0.5)$; Conjunto 3: $[5,\\ \\infty)$; Conjunto 4: $[-1.5,\\ -0.5]$.\n\n"]
+  ],
+  "11": [
+    ["y= ax 3 \\+bx 2 \\+ cx \\+d, donde.*?\\[1\\] Tomado de",
+     "$y=ax^3+bx^2+cx+d$, donde $y(-L)=H$, $y(0)=0$. Encuentra el valor de $\\frac{dy}{dx}$ en $x=0$ y el valor de $\\frac{dy}{dx}$ en $x=-L$. Utiliza los valores de $\\frac{dy}{dx}$ en $x=0$ y en $x=-L$ junto con $y(0)=0$ y $y(-L)=H$ para mostrar que $y(x)=H\\left[2\\left(\\frac{x}{L}\\right)^3+3\\left(\\frac{x}{L}\\right)^2\\right]$.\n\n[1] Tomado de"]
+  ]
+}

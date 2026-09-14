@@ -1,0 +1,80 @@
+% Derechos Básicos de Aprendizaje (DBA) V.2 -- Matemáticas, grados 1 a 11.
+% Versión ligera en LaTeX del documento del MEN (2016), pensada para agentes.
+%
+% Estructura:
+%   intro.tex              resumen de qué son los DBA y cómo leerlos
+%   grados/gradoNN.tex     un archivo por grado; cada DBA = enunciado + evidencias + ejemplo
+%   figs/                  imágenes PNG (archivos externos)
+%   figures.csv            índice de figuras: archivo, página, grado, DBA, tipo, descripción
+%
+% Las figuras van en su lugar, como en el original: \fig{nombre}{descripción}.
+% Para compilar sin imágenes (solo los pies): cambiar \showfigstrue por \showfigsfalse.
+
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\newif\ifshowfigs
+\showfigstrue
+
+% Símbolos Unicode que aparecen en el texto extraído.
+\DeclareUnicodeCharacter{221A}{\ensuremath{\surd}}      % √
+\DeclareUnicodeCharacter{03C0}{\ensuremath{\pi}}        % π
+\DeclareUnicodeCharacter{2206}{\ensuremath{\Delta}}     % ∆
+\DeclareUnicodeCharacter{0394}{\ensuremath{\Delta}}     % Δ
+\DeclareUnicodeCharacter{221E}{\ensuremath{\infty}}     % ∞
+\DeclareUnicodeCharacter{2248}{\ensuremath{\approx}}    % ≈
+\DeclareUnicodeCharacter{2264}{\ensuremath{\leq}}       % ≤
+\DeclareUnicodeCharacter{2265}{\ensuremath{\geq}}       % ≥
+\DeclareUnicodeCharacter{2260}{\ensuremath{\neq}}       % ≠
+\DeclareUnicodeCharacter{00F7}{\ensuremath{\div}}       % ÷
+\DeclareUnicodeCharacter{2212}{\ensuremath{-}}          % −
+\DeclareUnicodeCharacter{2192}{\ensuremath{\to}}        % →
+\DeclareUnicodeCharacter{25A1}{\ensuremath{\square}}    % □
+\DeclareUnicodeCharacter{25B3}{\ensuremath{\triangle}}  % △
+
+% Un DBA: número y enunciado.
+\newcommand{\dba}[2]{%
+  \subsection*{DBA #1}\addcontentsline{toc}{subsection}{DBA #1}%
+  \noindent\textbf{#2}\par}
+\newcommand{\evidencias}{\paragraph{Evidencias de aprendizaje}}
+\newcommand{\ejemplo}{\paragraph{Ejemplo}}
+
+% Figura en su lugar: \fig{nombre}{descripción} incluye figs/nombre.png (archivo externo,
+% nunca embebido en el .tex) con la descripción como pie.
+\newcounter{figura}
+\newcommand{\fig}[2]{%
+  \par\smallskip\begin{center}\refstepcounter{figura}\label{fig:#1}%
+  \ifshowfigs\includegraphics[max width=0.75\linewidth,max height=6.5cm]{figs/#1.png}\\[3pt]\fi
+  \parbox{0.9\linewidth}{\small\textbf{Figura~\thefigura.} #2}\end{center}}
+
+\title{Derechos Básicos de Aprendizaje V.2\\Matemáticas, grados 1 a 11}
+\author{Ministerio de Educación Nacional de Colombia, 2016\\\small Versión ligera en \LaTeX}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\input{intro}
+\input{grados/grado01}
+\input{grados/grado02}
+\input{grados/grado03}
+\input{grados/grado04}
+\input{grados/grado05}
+\input{grados/grado06}
+\input{grados/grado07}
+\input{grados/grado08}
+\input{grados/grado09}
+\input{grados/grado10}
+\input{grados/grado11}
+
+\end{document}

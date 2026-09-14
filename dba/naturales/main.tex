@@ -1,0 +1,79 @@
+% Derechos Básicos de Aprendizaje (DBA) V.1 -- Ciencias Naturales: solo FÍSICA, grados 9 a 11.
+% Versión ligera en LaTeX del documento del MEN (2016), pensada para agentes.
+%
+% Selección (dba_select.json): grado 9 DBA 1; grado 10 DBA 1-2; grado 11 DBA 1-3.
+% Se conserva la numeración original de cada DBA. El resto del documento (química,
+% biología y grados 1 a 8) no se pasa a LaTeX, pero su texto completo está en raw/.
+%
+% Estructura:
+%   intro.tex              qué contiene esta versión y cómo leerla
+%   grados/gradoNN.tex     un archivo por grado con sus DBA de física
+%   figs/                  imágenes PNG (archivos externos)
+%   figures.csv            índice de figuras: archivo, página, grado, DBA, tipo, descripción
+%   raw/                   texto extraído COMPLETO de todos los grados (referencia);
+%                          [[FIG nombre]] marca dónde va cada figura
+%
+% Las figuras van en su lugar, como en el original: \fig{nombre}{descripción}.
+% Para compilar sin imágenes (solo los pies): cambiar \showfigstrue por \showfigsfalse.
+
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\newif\ifshowfigs
+\showfigstrue
+
+% Símbolos Unicode que aparecen en el texto extraído.
+\DeclareUnicodeCharacter{221A}{\ensuremath{\surd}}      % √
+\DeclareUnicodeCharacter{03C0}{\ensuremath{\pi}}        % π
+\DeclareUnicodeCharacter{2206}{\ensuremath{\Delta}}     % ∆
+\DeclareUnicodeCharacter{0394}{\ensuremath{\Delta}}     % Δ
+\DeclareUnicodeCharacter{221E}{\ensuremath{\infty}}     % ∞
+\DeclareUnicodeCharacter{2248}{\ensuremath{\approx}}    % ≈
+\DeclareUnicodeCharacter{2264}{\ensuremath{\leq}}       % ≤
+\DeclareUnicodeCharacter{2265}{\ensuremath{\geq}}       % ≥
+\DeclareUnicodeCharacter{2260}{\ensuremath{\neq}}       % ≠
+\DeclareUnicodeCharacter{00F7}{\ensuremath{\div}}       % ÷
+\DeclareUnicodeCharacter{2212}{\ensuremath{-}}          % −
+\DeclareUnicodeCharacter{2192}{\ensuremath{\to}}        % →
+\DeclareUnicodeCharacter{03B8}{\ensuremath{\theta}}     % θ
+\DeclareUnicodeCharacter{03BB}{\ensuremath{\lambda}}    % λ
+\DeclareUnicodeCharacter{03A9}{\ensuremath{\Omega}}     % Ω
+
+% Un DBA: número y enunciado.
+\newcommand{\dba}[2]{%
+  \subsection*{DBA #1}\addcontentsline{toc}{subsection}{DBA #1}%
+  \noindent\textbf{#2}\par}
+\newcommand{\evidencias}{\paragraph{Evidencias de aprendizaje}}
+\newcommand{\ejemplo}{\paragraph{Ejemplo}}
+
+% Figura en su lugar: \fig{nombre}{descripción} incluye figs/nombre.png (archivo externo,
+% nunca embebido en el .tex) con la descripción como pie.
+\newcounter{figura}
+\newcommand{\fig}[2]{%
+  \par\smallskip\begin{center}\refstepcounter{figura}\label{fig:#1}%
+  \ifshowfigs\includegraphics[max width=0.75\linewidth,max height=6.5cm]{figs/#1.png}\\[3pt]\fi
+  \parbox{0.9\linewidth}{\small\textbf{Figura~\thefigura.} #2}\end{center}}
+
+\title{Derechos Básicos de Aprendizaje V.1\\Ciencias Naturales: Física, grados 9 a 11}
+\author{Ministerio de Educación Nacional de Colombia, 2016\\\small Versión ligera en \LaTeX}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\input{intro}
+\input{grados/grado09}
+\input{grados/grado10}
+\input{grados/grado11}
+
+\end{document}

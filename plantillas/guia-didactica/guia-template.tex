@@ -1,0 +1,190 @@
+% =====================================================================
+% PLANTILLA: Guía Didáctica de Aprendizaje - Colegio San Alberto Magno
+% =====================================================================
+% CÓMO USAR ESTA PLANTILLA
+% 1. Copia este archivo con un nombre nuevo, p. ej. guia-07-fracciones.tex
+% 2. Deja guia-didactica.sty y logo-colegio.png en la misma carpeta
+%    (o en una carpeta compartida referenciada con \graphicspath).
+% 3. Completa los datos de la sección "DATOS DE LA GUÍA" más abajo.
+% 4. Compila con:  pdflatex guia-07-fracciones.tex
+% =====================================================================
+\documentclass[11pt]{article}
+\usepackage{guia-didactica}
+
+% =====================================================================
+% DATOS DE LA GUÍA  (edita solo esta sección para una guía nueva)
+% =====================================================================
+\newcommand{\NumeroGuia}{1}
+\newcommand{\Area}{Matemáticas}
+\newcommand{\Asignatura}{Matemáticas}
+\newcommand{\Grado}{7°}
+\newcommand{\Periodo}{III}
+\newcommand{\Docente}{Nombre del Docente}
+\newcommand{\Estudiante}{\hrulefill}
+\newcommand{\FechaInicio}{}
+\newcommand{\FechaEntrega}{}
+
+% Proyectos transversales articulados: cambia 'x' por vacío para des-marcar
+\newcommand{\MarcaEDPC}{}
+\newcommand{\MarcaPEEF}{}
+\newcommand{\MarcaEVS}{}
+\newcommand{\MarcaPRAE}{}
+\newcommand{\MarcaCOLOM}{}
+\newcommand{\MarcaNOCEST}{}
+\newcommand{\MarcaOTRO}{}
+
+\begin{document}
+
+\GuiaTitulo{\NumeroGuia}
+
+% Renglón de proyectos transversales del título (como en el original)
+\begin{center}
+\small
+Educación para la Democracia, Paz y Convivencia (EDPC) \hspace{1cm}
+P. Ambiental Escolar (PRAE)\\
+Educación Económica y Financiera (PEEF) \hspace{1cm}
+Estilos de Vida Saludable (EVS)
+\end{center}
+
+% ---------------------------------------------------------------------
+% Datos básicos
+% ---------------------------------------------------------------------
+\begin{gdDatos}
+\textbf{Área:} & \Area & \textbf{Grado:} & \Grado \\
+\textbf{Asignatura:} & \Asignatura & \textbf{Período:} & \Periodo \\
+\textbf{Docente:} & \Docente & \textbf{Fecha de inicio:} & \FechaInicio \\
+\textbf{Estudiante:} & \Estudiante & \textbf{Fecha de entrega:} & \FechaEntrega \\
+\end{gdDatos}
+
+% ---------------------------------------------------------------------
+% 1. Identificación y Propósito de Aprendizaje
+% ---------------------------------------------------------------------
+\gdSeccion{Identificación y Propósito de Aprendizaje}
+
+\gdCampo{Eje Temático:}{}
+\gdRenglones{1}
+
+\gdCampo{DBA:}{}
+\gdRenglones{2}
+
+\gdSubseccion{Proyecto Transversal Articulado}
+\noindent
+\gdCasilla{EDPC}{\MarcaEDPC}\hfill
+\gdCasilla{PEEF}{\MarcaPEEF}\hfill
+\gdCasilla{EVS}{\MarcaEVS}\hfill
+\gdCasilla{PRAE}{\MarcaPRAE}\hfill
+\gdCasilla{COLOM}{\MarcaCOLOM}\hfill
+\gdCasilla{NOCEST}{\MarcaNOCEST}\hfill
+\gdCasilla{OTRO}{\MarcaOTRO}
+
+\vspace{2mm}
+\gdCampo{Pregunta Problematizadora del contexto:}{}
+\gdRenglones{2}
+
+\gdCampo{Propósito Holístico de la Guía:}{}
+\gdRenglones{2}
+
+% ---------------------------------------------------------------------
+% 2. Ruta de Aprendizaje y Secuencia Didáctica
+% ---------------------------------------------------------------------
+\gdSeccion{Ruta de Aprendizaje y Secuencia Didáctica}
+
+\gdSubseccion{Momento No. 1 -- Exploración}
+\gdCampo{Activación de saberes y conexión emocional:}{}
+\gdRenglones{1}
+\gdCampo{¿Qué sabemos del tema?:}{}
+\gdRenglones{1}
+\gdCampo{Reto de apertura:}{}
+\gdRenglones{1}
+\gdCampo{Diálogo de valores:}{}
+\gdRenglones{1}
+\gdCampo{Adaptación DUA / PIAR para la Exploración:}{}
+\gdRenglones{1}
+
+\gdSubseccion{Momento No. 2 -- Estructuración (Construyo mi conocimiento)}
+\gdCampo{Etapa Concreta (Saber con las manos):}{}
+\gdRenglones{1}
+\gdCampo{Etapa Pictórica (Saber con imágenes):}{}
+\gdRenglones{1}
+\gdCampo{Etapa Abstracta (Saber con símbolos):}{}
+\gdRenglones{1}
+\gdCampo{Ajuste Razonable (PIAR):}{}
+\gdRenglones{1}
+
+\gdSubseccion{Momento No. 3 -- Práctica y Transferencia (Aplico y transformo mi entorno)}
+\gdCampo{Trabajo Colaborativo / Tutoría de Pares:}{}
+\gdRenglones{1}
+\gdCampo{Misión Transversal (PRAE -- ABP):}{}
+\gdRenglones{1}
+\gdCampo{Demostración de lo aprendido:}{}
+\gdRenglones{1}
+
+\gdSubseccion{Momento No. 4 -- Valoración y Cierre (Reflexiono sobre mi proceso)}
+\gdCampo{El error como aprendizaje:}{}
+\gdRenglones{1}
+\gdCampo{Aportes a mi comunidad:}{}
+\gdRenglones{1}
+
+% ---------------------------------------------------------------------
+% 3. Matriz de Evaluación Formativa y Cualitativa
+% ---------------------------------------------------------------------
+\gdSeccion{Matriz de Evaluación Formativa y Cualitativa}
+
+\begin{gdMatrizEvaluacion}
+Cognitiva (Saber) & & $\square$ & $\square$ & $\square$ \\
+Procedimental (Hacer) & & $\square$ & $\square$ & $\square$ \\
+Socioafectiva (Ser) & & $\square$ & $\square$ & $\square$ \\
+Trascendente (Convivir) & & $\square$ & $\square$ & $\square$ \\
+\end{gdMatrizEvaluacion}
+
+% ---------------------------------------------------------------------
+% 4. Autoevaluación y Reflexión Metacognitiva
+% ---------------------------------------------------------------------
+\gdSeccion{Autoevaluación y Reflexión Metacognitiva}
+
+\gdCampo{Lo que más me gustó de esta guía fue:}{}
+\gdRenglones{1}
+\gdCampo{La mayor dificultad que tuve y cómo la superé:}{}
+\gdRenglones{1}
+\gdCampo{Mi compromiso para la próxima guía es:}{}
+\gdRenglones{1}
+
+\vspace{4mm}
+\noindent\textbf{Firma del Estudiante:} \hrulefill \hspace{1cm}
+\textbf{Firma Docente:} \hrulefill
+
+% ---------------------------------------------------------------------
+% 5. Seguimiento y Apoyos (Diligenciado por el docente)
+% ---------------------------------------------------------------------
+\gdSeccion{Seguimiento y Apoyos (Diligenciado por el docente)}
+
+\noindent\textbf{Nivel de desempeño alcanzado:}\quad
+$\square$ Inicial \quad $\square$ En Proceso \quad $\square$ Consolidado
+
+\vspace{2mm}
+\gdCampo{Ajustes DUA/PIAR aplicados en la guía:}{}
+\gdRenglones{2}
+
+\gdCampo{Observaciones y recomendaciones pedagógicas:}{}
+\gdRenglones{3}
+
+% ---------------------------------------------------------------------
+% 6. Seguimiento Académico (Diario de Campo)
+% ---------------------------------------------------------------------
+\gdSeccion{Seguimiento Académico (Diario de Campo)}
+
+\noindent\begin{tabularx}{\linewidth}{|X|X|l|X|}
+\hline
+\textbf{Semana No.} & & \textbf{Fecha:} & \\
+\hline
+\textbf{No. de estudiantes:} & & \textbf{No. de estudiantes ausentes:} & \\
+\hline
+\multicolumn{4}{|l|}{\textbf{Faltan:}\vphantom{Ay}} \\
+\hline
+\multicolumn{4}{|l|}{\textbf{Tema:}\vphantom{Ay}} \\
+\hline
+\multicolumn{4}{|l|}{\textbf{Observación:}\vphantom{Ay}} \\
+\hline
+\end{tabularx}
+
+\end{document}

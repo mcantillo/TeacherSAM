@@ -1,0 +1,4 @@
+# Dependencias de Python del proyecto (verificación de ejercicios).
+# En cualquier entorno (Claude Code o Cowork):  python3 -m pip install -r tools/requirements.txt
+# En el Mac de la docente ya existe .venv/ con esto instalado; tools/ejercicios.py lo usa solo.
+sympy>=1.14

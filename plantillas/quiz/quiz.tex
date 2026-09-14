@@ -1,0 +1,72 @@
+% =====================================================================
+% PLANTILLA: Quiz -- Área de Matemáticas
+% María Mercedes Cantillo · Colegio San Alberto Magno
+% ---------------------------------------------------------------------
+% 1. Copia este archivo con otro nombre (p. ej. quiz-derivadas.tex) en
+%    esta misma carpeta (el estilo y el logo se toman de ../estilo/).
+% 2. Cambia los datos de la sección "DATOS DEL QUIZ".
+% 3. Compila con:  latexmk -pdf quiz-derivadas.tex
+%    (o pdflatex dos veces: así aparecen el total de puntos y de páginas).
+% =====================================================================
+\documentclass[11pt]{article}
+% El estilo y el logo viven en la carpeta compartida plantillas/estilo/
+\makeatletter\def\input@path{{../estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% =========================== DATOS DEL QUIZ ===========================
+\tipodocumento{Quiz}
+\asignatura{Cálculo}          % Cálculo, Física, Trigonometría, ...
+\titulo{Derivadas: reglas básicas}
+\grado{11°}
+\periodo{III}
+\tiempo{20 min}
+% \anio{2026}                 % por defecto: el año actual
+% \mostrarsoluciones          % descomenta para imprimir la clave
+% ======================================================================
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Responde en el espacio indicado. Muestra el procedimiento completo;
+las respuestas sin justificación no tienen puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta[2] Calcula la derivada de $f(x) = 3x^4 - 5x^2 + 7x - 1$.
+\begin{solucion}[3cm]
+$f'(x) = 12x^3 - 10x + 7$.
+\end{solucion}
+
+\pregunta[1] Si $g(x) = \sen x \cdot e^{x}$, entonces $g'(x)$ es:
+\begin{opciones*}(2)
+  \item $\cos x \cdot e^{x}$
+  \item $e^{x}(\sen x + \cos x)$
+  \item $e^{x}(\cos x - \sen x)$
+  \item $-\cos x \cdot e^{x}$
+\end{opciones*}
+\begin{solucion}
+b), por la regla del producto.
+\end{solucion}
+
+\pregunta[2] Usa la gráfica de $f(x) = x^3 - 3x$ para estimar los puntos
+donde la recta tangente es horizontal. Verifica tu respuesta con $f'(x)=0$.
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=-2.5, xmax=2.5, ymin=-3, ymax=3,
+             xtick={-2,-1,...,2}, ytick={-2,0,2}]
+  \addplot+[domain=-2.3:2.3] {x^3 - 3*x};
+  \addplot[only marks, mark=*, black, mark size=2pt] coordinates {(-1,2) (1,-2)};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[3cm]
+$f'(x) = 3x^2 - 3 = 0 \iff x = \pm 1$. Puntos: $(-1,\,2)$ y $(1,\,-2)$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

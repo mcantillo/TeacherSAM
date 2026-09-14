@@ -1,0 +1,6639 @@
+
+
+
+
+
+
+
+
+
+
+
+
+MODULO DE MATEMÁTICAS: SÉPTIMO GRADOMODULO DE MATEMÁTICAS: SÉPTIMO GRADO
+
+
+
+
+TABLA DE CONTENIDO
+	MÓDULO MATEMÁTICAS: SÉPTIMO GRADO	1
+	TEMA 1: NÚMEROS ENTEROS	4
+	CONEXIÓN CON LA HISTORIA	4
+		1.1	NÚMEROS ENTEROS POSITIVOS	6
+	Practica lo aprendido	9
+		1.2	NÚMEROS ENTEROS NEGATIVOS	12
+	Practica lo aprendido	15
+		1.3	ORDEN DE LOS NÚMEROS NATURALES	17
+	Practica lo aprendido	20
+		1.4	VALOR ABSOLUTO	22
+	Practica lo aprendido	24
+		1.5	ADICIÓN DE ENTEROS	27
+	Practica lo aprendido	32
+		1.6	INVERSO ADITIVO. ADICIÓN DE ENTEROS	34
+	Practica lo aprendido	37
+		1.7	SUSTRACCIÓN DE ENTEROS	40
+	Practica lo aprendido:	42
+		1.8	SUSTRACCIÓN DE ENTEROS	45
+	Practica lo aprendido	48
+		1.9	PROPIEDADES DE LA ADICIÓN Y SUSTRACCIÓN DE ENTEROS	50
+	Practica lo aprendido	53
+		1.10	MULTIPLICACIÓN DE ENTEROS	54
+	Practica lo aprendido	57
+		1.11	MULTIPLICACIÓN Y MÚLTIPLOS DE ENTEROS	60
+	Practica lo aprendido	62
+		1.12	DIVISIÓN DE ENTEROS. DIVISORES DE UN ENTERO	64
+	Practica lo aprendido	66
+		1.13	PROPIEDADES DE LA MULTIPLICACIÓN Y LA DIVISIÓN DE ENTEROS	69
+	Practica lo aprendido	71
+		1.14	POTENCIACIÓN DE ENTEROS	73
+	Practica lo aprendido	76
+		1.15	PROPIEDADES DE LA POTENCIACIÓN DE ENTEROS	79
+	Practica lo aprendido	81
+		1.16	RADICACIÓN DE ENTEROS	83
+	Practica lo aprendido	86
+	PROBLEMAS	88
+	PREPAREMONOS PARA EL ICFES	91
+	TEMA 2: ECUACIONES	95
+		2.1	ECUACIONES LINEALES	95
+	Practica lo aprendido	100
+		2.2	GRÁFICA DE FUNCIONES	105
+	Practica lo aprendido	116
+		2.3	PROPIEDADES DE LA RELACIÓN DE EQUIVALENCIA	119
+	Practica lo aprendido	124
+		2.4	PROPIEDADES DE LA IGUALDAD	127
+	Practica lo aprendido	133
+		2.5	ECUACIONES EQUIVALENTES	135
+	Practica lo aprendido	138
+		2.6	RESOLUCIÓN DE ECUACIONES	142
+	Practica lo aprendido	150
+		2.7	FÓRMULAS	153
+	Práctica lo aprendido	155
+		2.8	PLANTEAMIENTO DE ECUACIONES	157
+	Practica lo aprendido	161
+		2.9	ECUACIONES CON RACIONALES	164
+	Practica lo aprendido	166
+		2.10	ECUACIONES DEL TIPO  [ecuación] 	168
+	Practica lo aprendido	169
+		2.11	ECUACIONES CON LA INCOGNITA EN AMBOS MIEMBROS	171
+	Practica lo aprendido	177
+		2.12	PASOS PARA RESOLVER UNA ECUACIÓN	179
+	Practica lo aprendido	180
+	PREPÁRATE PARA EL ICFES	183
+	TEMA 3: PROPORCIONALIDAD	186
+		3.1	RAZÓN	187
+	Practica lo aprendido	190
+		3.2	PROPORCIÓN	192
+	Practica lo aprendido	195
+		3.3	PROPIEDADES DE LA PROPORCIÓN	198
+	Practica lo aprendido	201
+		3.4	PROPORCIONALIDAD DIRECTA	202
+	Practica lo aprendido	205
+		3.5	PROPORCIONALIDAD INVERSA	209
+	Practica lo aprendido	211
+		3.6	REGLA DE TRES	216
+	Practica lo aprendido	219
+		3.7	REGLA DE TRES INVERSA	221
+	Practica lo aprendido	223
+		3.8	REGLA DE TRES COMPUESTA	225
+	Practica lo aprendido	227
+		3.9	REPARTO PROPORCIONAL DIRECTO	228
+	Practica lo aprendido	230
+		3.10	REPARTO PROPORCIONAL INVERSO	232
+	Practica lo aprendido	234
+		3.11	PORCENTAJE	235
+	Practica lo aprendido	237
+		3.12	INTERÉS	239
+	Practica lo aprendido	242
+	SOLUCIÓN DE PROBLEMAS	243
+	PREPARÉMONOS PARA EL ICFES	247
+
+TABLA DE IMÁGENES
+
+	Imagen 1: Enteros Positivos	6
+	Imagen 2: Acción operador +a	7
+	Imagen 3: Operador +a sobre la recta.	8
+	Imagen 4: Enteros Positivos.	9
+	Imagen 5: Ejercicio a.	10
+	Imagen 6: Ejercicio b	10
+	Imagen 7: Restas sobre la recta positiva	12
+	Imagen 8: Acción Operador menos	14
+	Imagen 9: Operador -a sobre la recta.	15
+	Imagen 10: Ejercicio a	15
+	Imagen 11: Ejercicio B	16
+	Imagen 12: Recta Numérica	18
+	Imagen 13: Mayor que...	19
+	Imagen 14: Menor que...	20
+	Imagen 15: Distancias en kilómetros.	22
+	Imagen 16: Operadores +3 y +4	27
+	Imagen 17: Operador +7	28
+	Imagen 18: Operadores -6 y -2	28
+	Imagen 19: Operadores -3 y +6	29
+	Imagen 20: Operador +3	30
+	Imagen 21: Operadores +3 y -8	30
+	Imagen 22: Operador -5	31
+	Imagen 23: Inversos aditivos de 2 y 3.	34
+	Imagen 24: Unión de operadores sobre la recta real.	41
+	Imagen 25: Operadores -8 y -9	47
+	Imagen 26: Producto entre -3 y -4	55
+	Imagen 27: Producto entre 3 y -5	56
+	Imagen 28: Elementos de una potenciación.	74
+	Imagen 29: Representación de la potenciación.	74
+	Imagen 30: Elementos de la radicación.	84
+	Imagen 1: Periódico	96
+	Imagen 2: Gráfica de f(x)= 5x + 3	97
+	Imagen 3: Línea recta.	98
+	Imagen 4: Gráfica de f(x)=2x	99
+	Imagen 5: Gráfica de f(x)=x al cuadrado.	99
+	Imagen 6: Gráfica de la función 2 a la x	100
+	Imagen 7: Gráfica de y = 3x - 5	106
+	Imagen 8: Gráfica de y = 2x	106
+	Imagen 9: Gráfica de la función y =  [ecuación] c + 32	107
+	Imagen 10: Gráfica de y = x al cuadrado.	108
+	Imagen 11: Gráfica de y = 3x + 8	109
+	Imagen 12: Gráfica de y = 4x + 3	110
+	Imagen 13: Rectas intersectadas en el plano.	113
+	Imagen 14: Intersección de rectas en el plano.	115
+	Imagen 15: Grupo de personas.	122
+	Imagen 16: Balanza equilibrada.	130
+	Imagen 1: Operador 3/4 aplicado a 8.	188
+	Imagen 2: Gráfica de x al cubo.	204
+	Imagen 3: Gráfica de 1/2x	205
+	Imagen 4: Proporcionalidad Inversa.	210
+
+
+TABLA DE TABLAS
+
+
+	Tabla 1: Multiplicación de Fibonacci	7
+	Tabla 2: Valor absoluto y relativo.	27
+	Tabla 3: Ejercicio a.	40
+	Tabla 4: Ejercicio b.	40
+	Tabla 5: Ejercicio a.	46
+	Tabla 6: Ejercicio b.	46
+	Tabla 7: Partes en una resta.	49
+	Tabla 8: Relación mes del año y valor	52
+	Tabla 9: Propiedades de la adición.	55
+	Tabla 10: Ejercicio a.	61
+	Tabla 11: Ejercicio b.	61
+	Tabla 12: Ejercicio a.	69
+	Tabla 13: Propiedades de la multiplicación.	74
+	Tabla 14: Elementos de una potenciación.	77
+	Tabla 15: Ejercicio a.	80
+	Tabla 16: Ejercicio a.	89
+	Tabla 17: Días y temperaturas.	90
+	Tabla 18: Día con valor de crédito o débito.	91
+	Tabla 1: Tabulación de f(x)=5x+3	99
+	Tabla 2: Datos de y = 2x - 8	103
+	Tabla 3: Datos y = 5x	103
+	Tabla 4: Datos de y = 2x + 5	104
+	Tabla 5: Datos de y = 3x	104
+	Tabla 6: Datos de y = 3x al cuadrado.	105
+	Tabla 7: Datos de y = 3x al cuadrado + 3x + 3	105
+	Tabla 8: Datos de y = 3x + 8.	110
+	Tabla 9: Datos de y = 4x + 3	111
+	Tabla 10: Datos de y = 2x + 5	114
+	Tabla 11: Datos de y = 3x + 1	114
+	Tabla 12: Datos de y = 2x - 15.	116
+	Tabla 13: Datos de y = 2x + 3	116
+	Tabla 14: Datos de y = 3x.	118
+	Tabla 15: Datos de y = 4x - 3.	118
+	Tabla 16: Datos de y = -3x + 1/2	119
+	Tabla 17: Datos de y = -2x - 5	119
+	Tabla 18: Datos de y = -2x + 1	120
+	Tabla 19: Indicaciones del acertijo.	141
+	Tabla 20: Relación de los valores de la función.	186
+	Tabla 1: Relación Distancia - Tiempo	194
+	Tabla 2: Cable y Precio	196
+	Tabla 3: Precio - Cantidad	198
+	Tabla 4: Docenas - Unidades	198
+	Tabla 5: X - Y	199
+	Tabla 6: z - h	199
+	Tabla 7: X - x al cubo	204
+	Tabla 8: x - y	205
+	Tabla 9: Relación x - x al cuadrado	207
+	Tabla 10: Relación x - y	208
+	Tabla 11: Relación v- t	208
+	Tabla 12: Relación x - y	208
+	Tabla 13: Ejercicio a.	209
+	Tabla 14: Ejercicio b.	209
+	Tabla 15: Ejercicio c.	210
+	Tabla 16: Ejercicio d.	210
+	Tabla 17: Faltantes a.	211
+	Tabla 18: Faltantes b.	211
+	Tabla 19: Relación Velocidad - Tiempo.	212
+	Tabla 20: Completar a.	214
+	Tabla 21: Completar b.	214
+	Tabla 22: Completar c.	215
+	Tabla 23: Completar d.	215
+	Tabla 24: Identificar a.	216
+	Tabla 25: Identificar b.	216
+	Tabla 26: Identificar c.	216
+	Tabla 27: Identificar d.	217
+	Tabla 28: Términos faltantes a.	217
+	Tabla 29: Términos faltantes b.	218
+	Tabla 30: Relación Naranja Precio	219
+	Tabla 31: Relación Bombillos - Días	220
+	Tabla 32: Relación Peso - Persona.	222
+	Tabla 33: Relación Días - Recorrido	222
+	Tabla 34: Relación Precio - Cantidad.	222
+	Tabla 35: Relación Obreros - Días	223
+	Tabla 36: Relación Km/h y horas.	224
+	Tabla 37: Relación Hombres - Días.	226
+	Tabla 38: Valores Cuadernos.	227
+	Tabla 39: Obreros y trabajo.	228
+	Tabla 40: Valores de productos sin IVA.	240
+	Tabla 41: Valor del artículo sin descuento.	240
+	Tabla 42: Porcentaje de votación por partido en cada año.	240
+	Tabla 43: Relación de precios con artículo.	241
+	Tabla 44: Relación del valor de otras monedas con pesos	247
+	Tabla 45: Relación de gasolina por kilómetros.	248
+	Tabla 46: Relación Distancia Precio	249
+
+
+TEMA 1: NÚMEROS ENTEROS
+
+
+CONEXIÓN CON LA HISTORIA
+
+
+Alrededor del año 825, en Bagdad, Muhammad Ibón Musa, también llamado Al Khwarzmi, le reveló al mundo ilustrado el contenido de los tratados indios de aritmética, en los que los números se representaban con nueve cifras y el cero. Las operaciones fundamentales se realizaban sobre unas tablillas cubiertas de arena, polvo o tiza y los números se escribían y se borraban fácilmente con los dedos.
+
+En 1202, Leonardo de Pisa (Fibonacci) publicó su Libro de ábaco en el que describía unos métodos de cálculo orientados especialmente para multiplicar; pero hubo que esperar casi tres siglos para que, en 1494, Lúea Pacioli diera a conocer varios procedimientos para realizar operaciones de exponenciación y multiplicación; el más conocido fue el que denominó método de la crucecita (crocetta) que es precisamente el que emplean en la actualidad los escolares. La cruz (x) que se utiliza en el producto la escogió porque simboliza la cruz de San Andrés.
+
+Observa cómo multiplicaba Fibonacci 257  [ecuación]  346.
+
+Tabla 1: Multiplicación de Fibonacci
+Pasos
+Cantidad
+Cantidad que se lleva
+Cantidad que se escribe
+Primero
+6  [ecuación]  7 = 42
+4
+2
+Segundo
+6  [ecuación]  5 = 30
+7  [ecuación]  4 = 28
+30 + 28 + 4 = 62
+6
+2
+Tercero
+6  [ecuación]  2 = 12
+7  [ecuación]  3 = 21
+4  [ecuación]  5 = 20
+12 + 21 + 20 + 6 = 59
+5
+9
+Cuarto
+4  [ecuación]  2 = 8
+5  [ecuación]  3 = 15
+8 + 15 + 5 = 28
+2
+8
+Quinto
+2  [ecuación]  3 = 6
+6 + 2 = 8
+
+
+
+Por tanto, 257  [ecuación]  346 = 88.922.
+
+Empleando el método de Fibonacci, efectúa las siguientes multiplicaciones:
+
+•	356  [ecuación]  415
+•	243  [ecuación]  243
+•	2.345  [ecuación] 546
+•	786  [ecuación]  987
+
+
+•	NÚMEROS ENTEROS POSITIVOS
+
+En la semirrecta numérica podemos representar por medio de una flecha la acción que realizan algunos operadores:
+
+
+Imagen 1: Enteros Positivos
+
+Descripción imagen: Segmento de recta de los enteros positivos, entre el 0 y el 12. Sobre la recta, curvas que unen el 0 y el 4, sobre ésta está escrito +4, otra curva que une el 3 y el 5, sobre ésta está escrito +5, la última curva que une el 9 y el 11, sobre ésta está escrito +2. Estos son desplazamientos positivos sobre la recta real.
+
+•	+4 lugares a la derecha del cero da como resultado 4.
+•	+5 lugares a la derecha del 3 da como resultado 8.
+•	+2 lugares a la derecha del 9 da como resultado 11.
+
+Observemos cómo al aplicar un operador de la forma +a (como +1, +2, +3,...) el resultado aparece en la semirrecta a la derecha del número al que se le aplicó el operador.
+
+La acción de un operador +a también puede representarse como se observa en la gráfica de la izquierda.
+
+Imagen 2: Acción operador +a
+
+Descripción Imagen: Dos columnas de 6 elementos cada una, unidas por segmentos curvos. En la primera 6 ceros, en la segunda a, 1, 2, 3, 158, 2527. Sobre los segmentos curvos que los unen están escritos: +a, +1, +2, +3, +158, +2527, de manera progresiva. Entre la curva que une el 0 y el 3 y el +158 hay puntos suspensivos en columna, al igual que entre la curva que une al 0 con 158 y el +2527, lo que indica los números que hay entre estos. El gráfico muestra la operación para pasar de 0 a cada número.
+
+Ejemplo:
+
+•	Encontremos el conjunto que resulta de aplicar cualquier operador de la forma +a al número 0.
+
+Solución:
+
+Observemos como a través de la recta numérica podemos identificar el conjunto solución:
+
+Imagen 3: Operador +a sobre la recta.
+
+Descripción Imagen: Segmento de recta de enteros positivos entre el 0 y el 7. Hay segmentos curvos entre el 0 y los números del 1 al 6, sobre el segmento curvo están escritos de manera progresiva +1, +2, +3, +4, +5, +6. El operador + para llegar de 0 los número de 1 a 6.
+
+
+Al aplicar cualquier operador de la forma +a al cero, obtenemos los números 1, 2, 3,4, 5, 6, 7, 8, 9,..., 158,..., 2 527,..., los cuales están representados en la recta numérica a la derecha del cero y se llaman números enteros positivos.
+
+El conjunto formado por los números enteros positivos se representa como  [ecuación] 
+
+Una forma de representar cada entero positivo consiste en anteponer un signo + a cada uno de ellos.
+
+•	5 = +5
+•	28 = +28
+•	325 = +325
+
+Y en la semirrecta:
+
+Imagen 4: Enteros Positivos.
+
+Descripción Imagen: Segmento de recta de enteros positivos entre 0 y 12, del 1 en adelantado a cada número le precede el signo +.
+
+En conjuntos,  [ecuación]  = {+1, +2, +3, +4, +5,...}
+
+
+Practica lo aprendido
+
+
+•	Completa los espacios en blanco con el número correspondiente:
+
+Imagen 5: Ejercicio a.
+•	
+
+Descripción Imagen: Segmento de recta entre el 0 y el 12, así: 0, 1, 2, blanco, 4, 5, 6, 7, blanco, 9, blanco, 11 y 12. 
+
+Imagen 6: Ejercicio b
+•	
+
+Descripción Imagen: Segmento de recta entre el 0 y blanco, así: 0, 10, 20, blanco, blanco, blanco, blanco, blanco, blanco, 90, 100, blanco, blanco.
+
+
+•	Escribe el operador adecuado para obtener el resultado.
+
+•	De 2 a 6
+•	De 5 a 10
+•	De 1 a 4
+•	De 4 a 8
+•	De 8 a 10
+•	De 0 a 3
+•	De 3 a 7
+•	De 7 a 11
+
+•	Identifica el operador o el valor del resultado correspondiente.
+
+•	De 3 a 12
+•	6 + 9 =
+•	De 7 a 18
+•	De 9 a 37
+•	23 + 15 =
+•	18 + 18 =
+•	1500 + 7 =
+•	De x mediante + 7 a 27
+•	De x mediante + 12 a 19
+
+•	Aplica operadores de la forma +a, para obtener de tres maneras los números indicados:
+
+•	22
+•	16
+•	49
+•	37
+•	123
+•	53
+
+•	Se formarán grupos de dos estudiantes y escribirán, en los casos que sea posible, los siguientes conjuntos:
+
+•	Los diez primeros enteros positivos.
+•	Los diez primeros enteros positivos pares.
+•	Los enteros positivos entre 27 y 39.
+•	El último entero positivo.
+•	Los enteros positivos menores que 7.
+
+
+•	NÚMEROS ENTEROS NEGATIVOS
+
+
+En la semirrecta numérica puede representarse por medio de una flecha la acción de los operadores de la forma  [ecuación] a.
+
+Imagen 7: Restas sobre la recta positiva
+
+Descripción imagen: Segmento de recta de los enteros positivos, entre el 0 y el 12. Sobre la recta, curvas que unen el 5 y el 0, sobre ésta está escrito -5, otra curva que une el 9 y el 3, sobre ésta está escrito -6, la última curva que une el 11 y el 8, sobre ésta está escrito -3. Estos son desplazamientos negativos sobre la recta real.
+
+•	-5: cinco lugares a la izquierda del cinco da 0. 
+•	-6: seis lugares a la izquierda del nueve da 3. 
+•	-3: tres lugares a la izquierda del once da 8.
+
+Observemos cómo al aplicar un operador de la forma -a (como -1, -2, -3,...) el resultado aparece en la semirrecta a la izquierda del número al que se le aplicó el operador.
+
+La acción de un operador -a también puede representarse como aparece a nuestra izquierda.
+
+Ejemplo:
+
+•	Completemos el espacio en blanco y representemos la  operación en la semirrecta.
+5 – 7 =
+
+Solución:
+
+A pesar de que no existe un número natural que resuelva la operación, podemos prolongar hacia la izquierda la semirrecta para reconocer el efecto que produce el operador -7 sobre el número 5.
+
+El resultado es un número que está 2 lugares a la izquierda del 0 y lo escribimos como -2.
+
+Veamos el conjunto que resulta de aplicar cualquier operador de la forma -a al número 0.
+
+Imagen 8: Acción Operador menos
+
+
+Descripción Imagen: Dos columnas de 6 elementos cada una, unidas por segmentos curvos. En la primera 6 ceros, en la segunda -a, -1, -2, -3, -50, -2524. Sobre los segmentos curvos que los unen están escritos: -a, -1, -2, -3, -50, -2524, de manera progresiva. Entre la curva que une el 0 y el -3 y el -50 hay puntos suspensivos en columna, al igual que entre la curva que une al 0 con -50 y el -2524, lo que indica los números que hay entre estos. El gráfico muestra la operación para pasar de 0 a cada número negativo.
+
+
+Al aplicar cualquier operador de la forma -a al cero, obtenemos los números-1, -2, -3,... -50... -2.524...; esos números están representados a la izquierda del cero y se llaman enteros negativos.
+
+Imagen 9: Operador -a sobre la recta.
+
+Descripción Imagen: Segmento de recta de enteros negativos entre el 0 y el -9. Hay segmentos curvos entre el 0 y los números del 1 al -5, sobre el segmento curvo están escritos de derecha a izquierda -1, -2, -3, -4, -5. El operador - para llegar de 0 a los números de -1 a -5.
+
+
+El conjunto formado por los números enteros negativos se representa como  [ecuación] 
+
+Z   = {-l,-2,-3,-4,-5,-ó...}
+
+Los números enteros negativos pueden obtenerse al aplicar un operador de la forma -a al cero.
+
+
+Practica lo aprendido
+
+•	Completa los espacios en blanco con el número correspondiente.
+
+Imagen 10: Ejercicio a
+•	
+Descripción Imagen: Segmento de recta entre el -10 y el 3, así: -10, blanco, blanco, -7, -6, -5, blanco, -3, -2, -1, 0, 1, 2, 3.
+ 
+Imagen 11: Ejercicio B
+•	
+Descripción Imagen: Segmento de recta entre el -100 y 10, así: -100, -90, -80, blanco, blanco, blanco, blanco, -30, -20, -10, 0, 10.
+
+
+•	Escribe el operador necesario para obtener el resultado:
+
+•	De -1 a -5
+•	De -4 a -9
+•	De -3 a -6
+•	De -5 a -10
+•	De -13 a -22
+•	De -34 a -37
+•	De -38 a -40
+•	De -39 a -43
+
+•	Completa con el operador que corresponde en cada caso.
+
+•	De 8 a -2
+•	De 7 a -4
+•	De 3 a -3
+•	De 6 a 0
+•	De -3 a -6
+•	De -8 a -11
+•	De -9 a -14
+•	De -10 a -17
+•	De -3 a -20
+•	De -5 a -18
+•	De -7 a -12
+•	De -11 a -19
+
+•	Con ayuda de la recta numérica, indica la operación a el resultado:
+
+•	De 7 a -1
+•	-4 y se llega a -2
+•	-3 desde -4
+•	De -2 a -3
+•	-5 y se llega a -9
+•	De 0 a -5
+
+•	Se formarán grupos de dos estudiantes y determinarán los elementos de los siguientes conjuntos, cuando sea posible:
+•	Los enteros negativos entre -9 y -18.
+•	Los diez primeros enteros negativos.
+•	Los enteros negativos pares entre -20 y -40.
+•	El primer entero negativo.
+•	El último entero negativo.
+
+•	ORDEN DE LOS NÚMEROS NATURALES
+
+
+La unión del conjunto de los números enteros positivos con el conjunto de los números enteros negativos y con el conjunto cuyo único elemento es el 0 forma el conjunto de los números enteros, que se simboliza como Z.
+
+ [ecuación] 
+
+Z = {… -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6…}
+
+Z = { 0, +1, -1, +2, -2, +3, -3, +4, -4, +5, -5…}
+
+Imagen 12: Recta Numérica
+
+Descripción Imagen: Recta numérica entre el -9 y el 10, con todos los enteros entre estos números se encuentra de manera equidistante.
+
+
+Ejemplo:
+
+•	Obtengamos el entero 8 aplicando operadores de las formas +a o -a a los números naturales 3, 1 0 y 1 2. 
+
+Solución:
+
+Observemos cómo podría obtenerse el número 8 de varias maneras.
+
+•	3 + 5 = 8
+•	10 – 2 = 8
+•	12 -4 = 8
+
+
+•	Del mismo modo podríamos intentarlo con otros números enteros. Hagamos lo mismo con un entero negativo, por ejemplo, -4.
+
+Solución:
+
+•	2 – 6 = -4
+•	0 – 4 = -4
+•	4 – 8 = -4
+
+
+El conjunto de los números enteros puede obtenerse a partir de la aplicación de operadores de la forma +a o -a al número 0.
+
+Las relaciones "... es mayor que"  y  "... es menor que..." pueden analizarse en la recta numérica para los enteros a y b, así:
+
+Imagen 13: Mayor que...
+
+
+Descripción Imagen: Segmento de recta entre con dos puntos sobre ellas identificados con las letras b y a, b a la izquierda de a, hay una distancia entre ellas. Se muestra la relación a > b, dado que b está a la izquierda de a.
+
+a > b: a es mayor que b significa que a está representado a la derecha de b.
+
+Imagen 14: Menor que...
+
+Descripción Imagen: Segmento de recta entre con dos puntos sobre ellas identificados con las letras a y b, a a la izquierda de b, hay una distancia entre ellas. Se muestra la relación a < b, dado que a está a la izquierda de b.
+
+a < b: a es menor que b significa que a está representado a la izquierda de b.
+ 
+Practica lo aprendido
+
+
+•	Obtén el número dado a partir de la aplicación de operadores de la forma +a o –a a un número natural que escojas en cada caso:
+•	-7
+•	-3
+•	4
+•	-15
+•	13
+•	-8
+•	-9
+•	-5
+•	10
+•	-20
+•	-17
+•	-11
+•	
+
+Observa que hay infinitas maneras de obtener el entero negativo -7 a partir de la aplicación de operadores de la forma +a o –a:
+•	-10 + 3 = -7
+•	+3 – 10 = -7
+•	-4 – 3 = -7
+•	0 – 7 = -7
+
+•	Reúnete con un compañero y discute cuáles de los siguientes enunciados son verdaderos y cuáles son falsos:
+
+•	El conjunto de los números enteros es infinito.
+•	El conjunto de los números enteros tiene primero y último elementos.
+•	En el conjunto de los números enteros por cada entero positivo hay un entero negativo.
+
+•	Localiza sobre la recta numérica cada par de números y escribe el signo mayor que o menor que, según corresponda:
+•	3 y 5
+•	-5 y 4
+•	-18 y -16
+•	17 y 15
+•	-7 y -9
+•	-21 y -24
+•	0 y 8
+•	-15 y -3
+•	-6 y -12
+
+•	Ordena en forma descendente (de mayor a menor) los siguientes números:
+
+•	-7, 3, 9, -4, -13, -18	
+•	-8, -24, 32, -17, -6, -9
+•	-3, 0, 9, -7, 12, -6
+•	-10, 11, -18, -27, -30, -4
+
+•	Ordena en forma ascendente (de menor a mayor) los siguientes números:
+•	-37, 90, -18, -45, 3, -6
+•	-3, -8, 49, -19, 27, 32
+•	0, -9, -7, 63, -181, 14
+•	6, -3, 8, -14, -11, 10, -120
+
+
+•	VALOR ABSOLUTO
+
+
+
+El señor Morales sube al metro de Medellín en el punto A.
+
+Imagen 15: Distancias en kilómetros.
+
+Descripción Imagen: Recta numérica entre -5 km hasta 5km con todos los valores de enteros entre estos en escala de kilómetros, estos equidistantes.
+
+¿Qué distancia le falta por recorrer al metro para llegar a su destino en el punto B?
+
+Observemos cómo a través de la gráfica podemos determinar la distancia entre los puntos A y B.
+
+La distancia entre los puntos A y B es 5 km.
+
+Si el señor Morales viaja posteriormente hasta la estación D, ¿qué distancia debe recorrer desde B?
+
+A partir de la misma gráfica podemos conocer la distancia entre los puntos B y D.
+
+Observemos cómo la distancia desde cualquier punto X de la recta numérica hasta 0 da un valor positivo o cero. Ese valor se llama valor absoluto de X.
+
+El valor que le corresponde a cada número entero X como distancia que lo separa del origen se llama valor absoluto de X.
+
+Para indicar que se va a hallar el valor absoluto de un número, éste se encierra en barras verticales, así:
+
+•	|-3| = 3, y se lee: valor absoluto de -3 es igual a 3.
+•	|18| =18, y se lee: valor absoluto de 18 es igual a 18.
+•	|0| = 0, y se lee: valor absoluto de 0 es igual a 0.
+
+Cuando se habla de la posición que ocupa un número en la recta numérica a la derecha o a la izquierda del cero, se habla de valor relativo.
+
+Observemos la diferencia entre el valor absoluto y el valor relativo de los siguientes números:
+
+•	-3 
+•	Valor absoluto: |-3| = 3 (distancia de -3 a 0).
+•	Valor relativo: -3
+
+•	+8
+•	Valor absoluto: |+8| = 8 (distancia de+8 a 0).
+•	Valor relativo: +8
+
+
+Practica lo aprendido
+
+•	Localiza en la recta numérica y halla la distancia de los siguientes números a 0:
+
+•	-6
+•	0
+•	-4
+•	7
+•	9
+•	3
+•	-3
+•	-8
+•	5
+
+•	Halla el valor absoluto de los siguientes números:
+
+•	|-15|
+•	|19|	
+•	|49|
+•	|7|
+•	|-28|
+•	|-33|
+•	|0|
+•	|36|
+•	|-276|
+
+•	Compara los valores absolutos de las siguientes parejas de números y concluye:
+
+•	|-5| y |5|
+•	|-13| y |13|
+•	|-9| y -9
+•	|18| y |-18|
+
+•	Completa la siguiente tabla:
+
+Tabla 2: Valor absoluto y relativo.
+Número
+Valor Relativo
+Valor Absoluto
+Compara el valor absoluto con el valor relativo
+-5
+-5
+5
+5 > -5
+3
+
+
+
+-8
+
+
+
+4
+
+
+
+9
+
+
+
+8
+
+
+
+-7
+
+
+
+13
+
+
+
+
+•	¿Qué puedes concluir del valor relativo de un número con respecto a su valor absoluto?
+
+•	Compara los valores absolutos de las siguientes parejas y represéntalos en la recta numérica:
+
+•	|7| y |-3|
+•	|-8| y |2|
+•	|1| y |-3|
+•	|4| y |-6|
+
+•	¿Qué concluyes?
+
+•	Justifica la verdad o la falsedad de las siguientes desigualdades:
+
+•	|3| > -2
+•	|-4| < 9	
+•	|-4| > 6	
+•	|-5| < |-6|
+
+
+•	ADICIÓN DE ENTEROS
+
+Veamos qué pasa al aplicarle al cero sucesivamente operadores de la forma +a o -a.
+
+•	Cuando ambos operadores son de la forma +a.
+•	Cuando ambos operadores son de la forma -a.
+•	Cuando un operador es de la forma +a y el otro es de la forma -a.
+
+•	Apliquémosle a cero sucesivamente los operadores +3 y +4.
+
+Imagen 16: Operadores +3 y +4
+
+Descripción imagen: Segmento de recta de los enteros positivos, entre el 0 y el 10. Sobre la recta, curvas que unen el 0 y el 3, sobre ésta está escrito +3, otra curva que une el 3 y el 7, sobre ésta está escrito +4. Estos son dos desplazamientos sucesivos sobre el segmento de recta real.
+
+
+Imagen 17: Operador +7
+
+Descripción imagen: Segmento de recta de los enteros positivos, entre el 0 y el 10. Sobre la recta, una curva que une el 0 y el 7, sobre ésta está escrito +7. Este es un desplazamiento positivo sobre el segmento de recta real.
+
+El resultado de aplicarle a cero sucesivamente el operador +3 y luego +4 es igual que aplicarle a cero el operador +7.
+
+El resultado de aplicarle a cero sucesivamente operadores de la forma +a está a la derecha de cero.
+
+
+•	Apliquémosle a cero sucesivamente los operadores -2 y -6.
+
+Imagen 18: Operadores -6 y -2
+
+Descripción imagen: Segmento de recta de los enteros negativos, entre el -9 y el 0. Sobre la recta, curvas que unen el 0 y el -2, sobre ésta está escrito -2, otra curva que une el -2 y el -8, sobre ésta está escrito -6. Estos son dos desplazamientos negativos sucesivos sobre el segmento de recta real.
+
+
+
+Descripción imagen: Segmento de recta de los enteros negativos, entre el -9 y el 0. Sobre la recta, una curva que une el 0 y el -8, sobre ésta está escrito -8. Este es un desplazamiento negativo sobre el segmento de recta real.
+
+
+El resultado de aplicarle a cero sucesivamente el operador -2 y luego -6 es igual que aplicarle a cero el operador -8.
+
+El resultado de aplicarle a cero sucesivamente operadores de la forma -a está a la izquierda de cero.
+
+•	Apliquémosle a cero sucesivamente los operadores -3 y +6.
+
+Imagen 19: Operadores -3 y +6
+
+Descripción imagen: Recta numérica con los enteros entre -5 y 5. Sobre la recta, segmentos curvos que unen el 0 y el -3, sobre ésta está escrito -3, otra curva que une el -3 y el 3, sobre ésta está escrito +6. Estos son dos desplazamientos sucesivos sobre la recta real, uno negativo y uno positivo.
+
+
+Imagen 20: Operador +3
+
+Descripción imagen: Recta numérica con los enteros entre -5 y 5. Sobre la recta, segmento curvo que une el 0 y el 3, sobre ésta está escrito +3. Este es un solo desplazamiento sobre la recta real, positivo.
+
+
+El resultado de aplicarle a cero sucesivamente el operador -3 y luego +6 es igual que aplicarle a cero el operador +3.
+•	Apliquémosle a cero sucesivamente los operadores +3 y -8.
+
+Imagen 21: Operadores +3 y -8
+
+Descripción imagen: Recta numérica con los enteros entre -5 y 5. Sobre la recta, segmentos curvos que unen el 0 y el 3, sobre ésta está escrito +3, otra curva que une el 3 y el -8, sobre ésta está escrito -8. Estos son dos desplazamientos sucesivos sobre la recta real, uno positivo y uno negativo.
+
+
+Imagen 22: Operador -5
+
+Descripción imagen: Recta numérica con los enteros entre -5 y 5. Sobre la recta, segmento curvo que une el 0 y el -5, sobre ésta está escrito -5. Este es un solo desplazamiento sobre la recta real, negativo.
+
+
+El resultado de aplicarle a cero sucesivamente el operador +3 y luego -8 es igual que aplicarle a cero el operador -5.
+
+El resultado de aplicarle a cero sucesivamente operadores de la forma +a y -a, o viceversa, puede estar a la izquierda o a la derecha de cero.
+
+El resultado de aplicarle a cero sucesivamente operadores de la forma +a y -a corresponde a la adición o suma de enteros.
+
+¿Qué sucede si aplicamos a cero sucesivamente los operadores +a o -a?
+
+
+Practica lo aprendido
+
+
+•	Escribe en los dos operadores que generen los resultados dados, luego escriba un solo operador para obtener el resultado:
+
+•	De 0 a +5, de +5 a +8
+•	De 0 a -4, de -4 a -9
+•	De 0 a +7, de +7 a -6
+•	De 0 a +4, de +4 a -6
+•	De 0 a -9, de -9 a 4
+•	De 0 a -6, de -6 a -9
+
+•	Escribe los resultados de z y x al aplicar los siguientes operadores:
+
+•	0 + 7 = x
+x + 8 = z
+
+•	0 – 7 = x
+x + 8 = z
+
+•	0 + 10 = x
+x – 3 = z
+
+•	0 + 1 = x
+X – 8 = z
+
+•	0 – 4 = x
+X + 9 = z
+
+•	0 – 12 = x
+X + 7 = z
+
+•	0 – 13 = x
+X + 21 = z
+
+•	0 + 10 = x
+X -11 =12
+
+•	0 – 8 = x
+X – 13 = z
+
+•	0 – 7 = x
+X + 3 = z
+ 
+•	Escribe el operador necesario en cada caso.
+
+•	De 0 a 3, de 3 a 11
+•	De 0 a -4, de -4 a -7
+•	De 0 a -3, de -11 a 3
+•	De 0 a 19, de 19 a -2
+•	De 0 a 24, de 24 a 12
+•	De 0 a -7, de -7 a -9
+•	De 0 a -13, de -13 a -2, de -2 a 3
+•	De 0 a -7, de -7 a 8, de 8 a 4
+•	De 0 a 3, de 3 a -11, de -11 a -6
+•	De 0 a -2, de -2 a -6, de -6 a -9
+•	De 0 a -8, de -8 a 3, de 3 a -2
+•	De 0 a -4, de -4 a -6, de -6 a 7
+
+
+•	INVERSO ADITIVO. ADICIÓN DE ENTEROS
+
+
+
+Observemos la correspondencia que se señala en la recta numérica entre elementos de  [ecuación]  y  [ecuación] 
+
+Imagen 23: Inversos aditivos de 2 y 3.
+
+Descripción imagen: Recta numérica con los enteros entre -3 y 3. Sobre la parte superior de la recta, segmento curvo que une el 2 y con el -2, sobre éste está escrito “El inverso aditivo de 2 es -2”. Sobre la parte inferior de la recta, segmento curvo que une el 3 con el -3, sobre éste está escrito “El inverso aditivo de 2 es -2”. El gráfico relaciona dos enteros con el entero que es su inverso aditivo.
+
+
+Esta correspondencia tiene la particularidad de que al sumar los números relacionados, el resultado siempre es igual a 0.
+
+•	(-1) + 1 = 0
+•	(-2) + 2 = 0
+•	(-3) + 3 = 0
+•	(-4) + 4 = 0...
+
+Todo número entero tiene un opuesto o inverso aditivo tal que su suma siempre es igual a 0.
+
+•	a + (-a) = 0
+•	(-a) + a = 0
+
+El inverso aditivo de un número entero +a es el número entero -a, y viceversa.
+
+
+Ejemplo
+
+Observemos cómo a partir de la aplicación sucesiva de operadores de la forma +a o -a a cero puede formularse un algoritmo para la adición de enteros.
+
+•	Sumemos: 
+
+•	2 y 4
+•	-4 y -3
+•	5 y -7.
+
+Algoritmo para la adición de enteros:
+
+•	2 + 4 = 6
+
+Para sumar los enteros positivos 2 y 4 se aplica el operador +2 a cero y luego el operador +4 al número 2.
+
+•	(-4) + (-3) = -7
+
+Para sumar los enteros negativos -4 y -3 se aplica el operador -4 a cero y luego el operador -3 al número -4.
+
+•	5 + (-7) = -2
+
+Para sumar el entero positivo 5 y el entero negativo -7 se aplica el operador +5 a cero y luego se aplica el operador -7 a 5
+
+•	Sumemos: -5, 6, -3; 2 y -4.
+
+•	Se suman los enteros positivos 6 + 2 = 8.
+•	Se suman los enteros negativos (-5) + (-3) + (-4) = -12.
+•	Se suman los resultados de a y b: 8 + (-12) = -4. 
+
+Conclusión:
+
+Al sumar dos números enteros, el resultado es un número entero.
+
+Si a y b  [ecuación]  Z, a + b  [ecuación]  Z.
+
+
+Practica lo aprendido
+
+•	Escribe en términos matemáticos y resuelve:
+
+•	Inverso aditivo de -9 más inverso aditivo de 7.
+•	Inverso aditivo de 16 más 24
+•	Inverso aditivo de la suma de 8 y 9.
+•	Valor absoluto del inverso de -27.
+•	Inverso aditivo del valor absoluto de 8.
+
+•	Efectúa la suma y represéntala en la recta numérica:
+
+•	3 + 6
+•	(-5) + 3
+•	(-6) + 8
+•	7 + (-3)
+•	(-8) + (-2)
+•	9 + (-3)
+•	8+ (-4)
+•	(-7) + (-l)
+•	10+ (-11)
+
+•	Halla el resultado de cada una de las siguientes adiciones:
+
+•	(-5) + 8 + (-7) + 3
+•	5 + 3 + 2 + 7 + (-5)
+•	10 + (-3) + 8 + (-6)	
+•	6 + 8 + (-3) + (-7)
+•	(-11) + (-7) + 6 + 8	
+•	(-4) + (-3) + 9 + (-3)
+•	7 + 9 + 6 + (-3) + (-4)
+•	(-11) + (-10) + (-9) + (-7)
+•	(-11) + (-7) + (-8) + (-3)
+•	(-7) + (-8) + 8 + 10 + 9
+•	(-9) + (-3) + (-8) + 3	
+•	(-3) + 6 + (-3 ) + 7 + (-1)
+•	(-3) + 3 + (-7) + 7
+•	(-2) + (-3) + 9 + (-2) + 1
+
+•	Completa las tablas sumando filas y columnas:
+
+Tabla 3: Ejercicio a.
++
+7
+-3
+4
+-8
+-9
+-6
+
+
+
+
+
+8
+
+
+
+
+
+-5
+
+
+
+
+
+3
+
+
+
+
+
+-2
+
+
+
+
+
+
+Tabla 4: Ejercicio b.
++
+1
+5
+-1
+2
+-10
+-7
+
+
+
+
+
+-4
+
+
+
+
+
+9
+
+
+
+
+
+11
+
+
+
+
+
+6
+
+
+
+
+
+
+
+•	Halla los sumandos que faltan en cada caso para hacer verdadera la igualdad:
+•	X + 5 = -8
+•	X + 3 = 8
+•	6 + x = -3
+•	(-4) + x = -6
+•	6 + x = -2
+•	(-6) + x = 9
+•	x + 8 = 2
+•	x + (-3) = -4
+•	x + y = -3
+
+•	Lilia camina 1 1 pasos a la izquierda de un punto A, luego 1 5 pasos a la derecha y posteriormente 4 a la izquierda. ¿A dónde llega? Representa en la recta numérica el problema si el punto A coincide con 0 y cada paso mide una unidad.
+
+•	El primer jugador, o jugadora, lanzará los dados y sumará los enteros de la cara superior; su compañero z compañera efectuará la misma operación y comparará cuál de es resultados es el número mayor. Ganará punto quien obtenga el número mayor. Ganará el jugador o lo jugadora que obtenga los diez primeros puntos. Jugarán varias veces.
+
+•	Formarán grupos de dos estudiantes y elaborarán dos dados de cartulina, con los cuales jugarán de la siguiente manera:
+
+•	Marcarán en cada cara de un dado números enteros positivos de una cifra, y en cada cara del otro dado, números enteros negativos de una cifra.
+•	El primer turno le corresponderá al jugador o la jugadora que obtenga el mayor número al lanzar su dado. 
+(Sigue el juego)
+
+
+•	SUSTRACCIÓN DE ENTEROS
+
+
+Antes de aprender el algoritmo para la sustracción de los números enteros es importante tener claro el concepto del inverso aditivo.
+
+Ejemplo:
+
+Apliquemos el inverso aditivo en cada uno de los siguientes casos:
+
+•	- ( -5 )
+•	– ( - ( -5 ) )
+•	–(-(-(-5)))
+
+Solución
+
+•	- (-5) es equivalente a hablar del opuesto de -5, así que -(-5) = 5
+•	-(-(-5)) = -(5) = -5, ya que -(-5) = 5
+•	-(-(-(-5))) = -(-(5)) = 5, ya que -(-5) = 5
+
+Observemos con atención la manera como se efectúa la sustracción en los números enteros:
+
+•	3- 7: Identificamos el minuendo (3) y el sustraendo (7)
+•	3 + (-7) Sumamos al minuendo (3) el opuesto del sustraendo (-7)
+•	Efectuamos la adición de los enteros y escribimos el resultado
+
+Gráficamente sería:
+Imagen 24: Unión de operadores sobre la recta real.
+
+
+Descripción imagen: Dos rectas numéricas una debajo de la otra. La primera con los enteros entre -9 y 10. Sobre la recta, segmentos curvos que unen el 0 y el 3, otra curva que une el 3 y el -4. Estos son dos desplazamientos sucesivos sobre la recta real, uno positivo y uno negativo. La otra recta con los enteros entre -9 y 10. Sobre la recta, segmento curvo que une el 0 y el -4. Este es un desplazamiento negativo que resulta de la unión de los dos considerados en la primera recta.
+
+La resta a - b es igual a sumar a con el opuesto de b: 
+
+a – b = a + (-b)
+
+Efectuemos las siguientes restas:
+
+•	(-7) – 4
+•	8 – 11
+•	(-11) - (-3)
+•	4 - (-9)
+•	15 - 7 
+•	(-3) – 18
+
+Solución:
+
+•	(-7) - 4 = (-7) + (-4) = -11
+•	8 – 11 = 8 + (- 11) = -3
+•	15 - 7 = 15 + (-7) = 8
+•	(-11)-(-3) = (-11)+ (-(-3)) = (-11) + 3 = -8
+•	4 - (-9) = 4 + (-(-9)) = 4 + 9 = 13
+•	(-3)-18 = (-3) +(-18) = -21
+
+
+Practica lo aprendido:
+
+
+•	Escribe el inverso aditivo de:
+•	3	
+•	8	
+•	-9	
+•	|-5|
+•	|-8 x 2|
+•	6 + 9
+•	(-3) + 8	
+•	-15
+•	|3+7|
+•	1227
+
+•	Halla el valor de X que hace verdadera cada igualdad
+•	X = - (- 5)
+•	– [-( -3)] = x
+•	-{-[-(-12)]} =  X 
+•	-[-(-2)] = -X
+•	– x = 5
+•	–[-(-11)] = x
+•	– x = - (- 4)
+•	–{-[-(-5)]}
+•	X =-[-(32)]
+
+•	Efectúa las siguientes sustracciones y represéntalas gráficamente:
+•	– 3 - 8
+•	7 - 8	
+•	6 - 2
+•	– 7 - 3
+•	9 - 3
+•	4 - 7
+
+•	Escribe en términos de adición y resuelve las siguientes sustracciones:
+•	– 7 - 4
+•	– 7 – 11
+•	8 – 11
+•	8 – 5
+•	– 9 – 13
+•	9 – 13
+•	9 – 11
+•	18 – 16
+•	– 7 -  11
+•	18 – 6
+•	12 – 9
+•	13 – 14
+•	– 6 – 8
+•	4 – 3
+•	– 9 - 7
+
+•	Completa las siguientes tablas con los resultados de efectuar la sustracción
+entre los números de las columnas y los números de las filas:
+
+Tabla 5: Ejercicio a.
+Minuendo
+Sustraendo
+-8
+-7
+-4
+9
+-3
+2
+
+
+
+
+
+3
+
+
+
+
+
+-6
+
+
+
+
+
+
+Ejemplo: -8 – (2) = -10
+
+Tabla 6: Ejercicio b.
+Minuendo
+Sustraendo
+-7
+3
+-3
+9
+6
+8
+
+
+
+
+
+-4
+
+
+
+
+
+5
+
+
+
+
+
+
+
+•	Se formarán grupos de dos estudiantes y con los dados elaborados, según las instrucciones de la práctica anterior, seguirán jugando por parejas.
+
+•	Le corresponderá el primer turno a quien obtenga el número mayor al lanzar un dado.
+•	El juego consistirá en hallar la diferencia entre el número del primer lanzamiento y el del segundo lanzamiento. Obtendrá punto quien diga primero el número.
+•	Ganará el juego quien obtenga los diez primeros puntos.
+•	Jugarán varias veces.
+
+
+•	SUSTRACCIÓN DE ENTEROS
+
+
+•	Hallemos el resultado de - 8 + 7 - 3 + 4 - 9 + 3 - 12. 
+
+Observemos una manera práctica de resolver el ejemplo:
+
+Solución:
+
+•	- 8 + 7 - 3 + 4 - 9 + 3 – 12: Escribimos el ejemplo que se va a resolver.
+
+•	(7 + 4 + 3) + (-8 - 3 - 9 - 12): Agrupamos los términos positivos y los negativos.
+
+•	14 + (-32): Adicionamos aparte los enteros positivos y aparte los negativos.
+
+•	-18: Escribimos el resultado de la suma.
+
+
+•	Realicemos las operaciones indicadas en los paréntesis y luego hallemos el resultado de:
+
+•	(-103) - [7+ 9 - 11 + 18 – 3 - 9]: Escribimos el ejemplo que se va a resolver.
+
+•	(-103) + [(7 + 9 + 18) + (-11 – 3 – 9)]: Agrupamos dentro del paréntesis los enteros positivos y los negativos.
+
+•	(-103) - [34 + (-23)]: Adicionamos aparte los positivos de los negativos.
+
+•	(-103) - (11): Calculamos el resultado del segundo paréntesis.
+
+•	(-103) + (-11): Escribimos la sustracción en términos de adición.
+
+•	-114: Escribimos el resultado de la suma.
+
+•	Planteemos la siguiente ecuación y resolvámosla:
+
+¿Qué número debe restarse a -8 para que la diferencia sea -17? 
+
+Utilizamos la recta numérica para encontrar la solución del problema:
+
+Imagen 25: Operadores -8 y -9
+
+Descripción imagen: Recta numérica con los enteros entre -18 y 0. Sobre la recta, segmentos curvos que unen el 0 y el -8, sobre ésta está escrito -8, otra curva que une el -8 y el -17, sobre ésta está escrito -9. Estos son dos desplazamientos negativos sucesivos sobre la recta real.
+
+(-8) – 9 = (-8) + (-9)
+= -17
+
+Es importante tener claros los términos de la sustracción y saber a cuáles de corresponden -8 y-17 para poder representarlos gráficamente, así:
+
+Tabla 7: Partes en una resta.
+Minuendo
+Sustraendo
+Diferencia
+-8
+-?
+-17
+
+Luego debe restársele 9 a -8 para obtener -17.
+
+
+Practica lo aprendido
+
+
+•	Efectúa las siguientes operaciones.
+•	- 8 + 7 - 9 + 3 – 2
+•	– 11 + 8 - 7 + 9 – 3
+•	4 - 5 + 7 – 9 – 11
+•	- 11 – 13 - 10 + 9 + 7 
+•	8 – 11 + 6 - 4 + 3
+•	– 6 + 3 - 8 + 9 – 7
+•	4 – 7 + 11 – 6 + 10
+•	-10 + 8 - 7 + 3 – 2
+•	9 - 7 + 8 – 6 - 3 
+•	– 4 – 5 – 6 – 7 – 8
+
+•	Efectúa primero las operaciones indicadas en los paréntesis y luego halla el resultado
+
+•	(18 – 3 + 6) - (4 + 15 - 20)
+•	6 - (3 + 9 + 12 - 15 + 8)
+•	(11 + 5) - (13 + 22 - 18)
+•	62 - (3 + 7 – 9 + 12)
+•	0 - (6 + 7 – 9 + 18)
+•	(-15 - 3) - (4 + 12 - 7 + 9)
+•	(6 + 3 - 9) - (8 - 7)
+•	(-3 – 8 - 7) - (6 – 9 – 12 - 15)
+•	(-5 - 3) - (6 + 12 + 7 + 9)
+•	(4 + 3) - (5 – 8 – 4 + 7)
+
+•	Encuentra el término que falta en las siguientes sustracciones:
+Sugerencia: Utiliza la recta numérica para encontrar la solución.
+
+•	x - 8 = -3
+•	7 - x = -3
+•	X - 6 = 2
+•	-8 - x = 3 
+•	X - 6 = 4
+•	11 – x = 7 
+•	X – 6 = -2
+•	8 - x = 4 
+•	X - 2 = -5 
+•	10 – x = 7
+•	X - 11 = -3
+•	2 - x = -8 
+•	X - 7 = 4
+•	9 – x = 11
+•	X – 6 = 12
+
+•	Plantea los siguientes problemas y resuélvelos:
+•	¿Qué número debe restarse a -10 para que la diferencia sea 8?
+•	¿Cuál es el minuendo, si el sustraendo es -8 y la diferencia es 6?
+•	¿Cuál es el sustraendo, si el minuendo es -5 y la diferencia es 4?
+•	Si le restas 4 a un número obtienes -ó. ¿Qué número tenías?
+
+•	Resuelve el siguiente problema: La empresa de viajes Economon vende tiquetes
+de avión para vuelos nacionales e internacionales. Averigua con base en la tabla los valores en miles de pesos e investiga el significado de esta expresión: 
+•	Ganancias del año.
+•	Pérdidas del año.
+•	¿Cuánto ganó o cuánto perdió la empresa en el año?
+
+Tabla 8: Relación mes del año y valor
+Mes
+Valor
+Enero
+8.200
+Febrero
+-5.400
+Marzo
+7.500
+Abril
+-1.000
+Mayo
+8.900
+Junio
+10.400
+Julio
+11.200
+Agosto
+-1.000
+Septiembre
+-2.000
+Octubre
+3.000
+Noviembre
+12.000
+Diciembre
+15.000
+
+
+•	PROPIEDADES DE LA ADICIÓN Y SUSTRACCIÓN DE ENTEROS
+
+•	Resolvamos los siguientes ejemplos y concluyamos:
+
+•	3 + (-5) y (-5) + 3
+•	(-4) + (-2) y (-2) + (-4)
+
+Solución:
+
+•	3 + (-5) - -2 
+(-5) + 3 = -2
+
+•	(-4) + (-2) = -6
+(-2) + (-4) = -6
+
+Para la adición en Z, el orden de los sumandos no altera el resultado. Si a y b  [ecuación]  Z, a + b = b + a (propiedad conmutativa).
+
+•	Tomemos tres enteros al azar, agrupémoslos en diferente forma, sumémoslos, comparemos las respuestas y concluyamos.
+
+•	(-8 + 3) + (-6)
+(-5) + (-6)
+-11
+
+•	(-8) + [3 + (-6)]
+(-8) + [3 + (-6)]
+(-8) + (-3)
+-11
+
+Para la adición en Z, la forma en que se agrupan los números enteros para sumarlos no altera la suma.
+Si a, b y c  [ecuación]  Z, (a + b) + c = a + (b + c) (propiedad asociativa).
+
+•	Tomemos cualquier entero al azar y sumémoslo con 0. Repitamos el procedimiento varias veces y concluyamos.
+
+•	(-8) + 0 = -8
+•	4 + 0 = 4
+•	1.325 + 0 = 1.325
+•	(-48) + 0 = -48
+•	0 + (-39) = -39
+
+Al sumar cualquier entero a con cero da como resultado el mismo entero a. Si a  [ecuación]  Z, a + 0 = a y 0 + a = a (propiedad modulativa).
+
+•	Sumemos cinco enteros con sus respectivos opuestos y hallemos los resultados. 
+
+•	(-3) + 3 – 0
+•	9 + (-9) – 0
+•	17 + (-17) – 0
+•	8 + (-8) – 0
+•	25 + (-25) = 0
+
+Al sumar un entero con su opuesto el resultado es cero. Si a  [ecuación]  Z, a + (-a) = 0 (propiedad inventiva).
+
+Verifiquemos las siguientes afirmaciones:
+
+•	(-3) - 8  [ecuación]  8 - (-3): No se cumple la propiedad conmutativa para la resta en Z.
+•	(8 - 3) – 2  [ecuación]  8- (3 - 2): No se cumple la propiedad asociativa para la resta en Z.
+•	0 - 7  [ecuación]  7 – 0: No se cumple la propiedad modulativa para la resta en Z.
+•	9 - (-9)  [ecuación]  0: No se cumple la propiedad invertiva para la resta en Z.
+
+
+Practica lo aprendido
+
+
+•	A partir de la siguiente tabla escribe ejemplos que cumplan las propiedades conmutativa, asociativa, modulativa o invertiva para la adición en los números enteros:
+
+Tabla 9: Propiedades de la adición.
+Conmutativa
+Asociativa
+Modulativa
+Invertiva
+(-7) + 8
+[(-3) + 2] + 7
+14 + 0
+17 + (-17)
+(-3) + (-8)
+[(-8) + (-3)] + 9
+[(-7) + 7] + 9
+8 + (-8)
+9 + 1-7)
+6 + [(-2) + 4]
+-3 + 0
+(-9) + 9
+18 + (-4)
+3 + [(-4) + (-8)]
+19 + [5 + (-5)]
+(-3) + 3
+(-15) + (-3)
+(-5) + [(-2) + 7]
+4 + 0
+48 + (-48)
+
+•	Escribe los números para x, z que hacen verdadera la igualdad y la propiedad utilizada:
+•	(-7) + 11 = x + (-7)
+•	18 + x = 0
+•	[(-3) + x] + 4 = (-3) + [5 + x]
+•	33 + x = 33
+•	[(-27) + 18] + x = y +[18 + (-4)]
+•	(-13)+ (-7) = x + (-13)
+•	(-97) + x = (-97)
+•	(-25) + x = 0
+•	[(-6) + x] + (-3) = (-6) + [8 + z]
+•	1099+ x = 0
+
+•	Calcula mentalmente el resultado utilizando las propiedades de la adición en los enteros:
+
+•	(-3) + (-7) + 3 + 7 + 9
+•	(-4) + (-15) + 4 + 16 + 4 + (-5)
+•	9 + 18 + 0 + (-9) + 2
+•	17 + (-18) + 5 + 3 + (-12) + 15
+•	(-9) + 13 + 0 + (-11) + 27
+•	(-12) + 27 + (-8) + 3
+•	49 + (-13) + (-7) + 1 + 10
+•	(-10) + (-7) + (-30) + (-13)
+•	(-25) + 14 + (-5) + 16
+•	4 + (-11) + 16 + (-19) + 20
+
+•	Resuelve el siguiente problema: Un submarino desciende 894 metros respecto a un punto A de la playa y luego asciende 337 metros. Encuentra la distancia del submarino respecto al punto inicial. (Considera que la distancia en dirección descendente es negativa.)
+
+
+•	MULTIPLICACIÓN DE ENTEROS
+
+
+En la multiplicación de enteros puede darse el caso de que ambos factores sean positivos, que sean negativos o que tengan signos diferentes. Veamos cada caso.
+
+•	Representemos en la recta numérica el producto de 3 y 4 y resolvámoslo.
+
+3 x 4 = 
+3 + 3 + 3 + 3 (4 veces)
+= 12
+
+El producto de dos enteros positivos se halla de la misma manera que en los números naturales. El producto de dos enteros positivos es un entero positivo.
+
+•	Representemos en la recta numérica el producto de (-3) y (-4) y resolvámoslo.
+
+Imagen 26: Producto entre -3 y -4
+
+Descripción imagen: Recta numérica con los enteros entre 0 y 16. Sobre la recta, segmentos curvos que unen el 0 y el 4, otra curva que une el 4 y el 8, otra curva que une el 8 y el 12. Sobre estas tres un segmento curvo que une el 0 con el 12, sobre éste está escrito (-3) X (-4). Este es el producto de -4 con -3.
+
+
+(-3) x (-4) 
+=-(3) x (-4) ya que (-3)= -(3) 
+= -[3 x (-4)] 
+= -(-12) 
+= 12
+
+Observemos la gráfica de (-3) x (-4) = -[3 x (-4)]; representamos el opuesto de 3 veces -4, es decir, -[3 x (-4)].
+
+El producto de dos enteros negativos es un entero positivo
+
+•	Representemos en la recta numérica el producto de 3 y (-5) y resolvámoslo.
+
+Imagen 27: Producto entre 3 y -5
+
+Descripción imagen: Recta numérica con los enteros entre -16 y 0. Sobre la recta, segmentos curvos que unen el 0 y el -5, otra curva que une el -5 y el -10, otra curva que une el -10 y el -15. Sobre cada uno de estos segmentos está escrito -5. Sobre estas tres un segmento curvo que une el 0 con el -15, sobre éste está escrito -15. Este es el producto de -5 con 3.
+
+3 x (-5) 
+= -(-5) + (-5) + (-5) (3 veces)
+= -15
+
+El producto de dos enteros de diferente signo es un entero negativo.
+
+La multiplicación de enteros es una operación en la que a cada pareja de números se le asigna un resultado llamado producto.
+
+Si la multiplicación se lleva a cabo entre enteros de igual signo el resultado es positivo; si los signos son diferentes, el resultado es negativo.
+
+
+Practica lo aprendido
+
+
+•	Escribe el signo de cada producto:
+
+•	(-3) x 7
+•	15 x (-3)
+•	7 x (-16)
+•	(-13) x (-11)
+•	(-18) x 9
+•	21 x (-18)
+•	(-12) x (-18)
+•	45 x (-6)
+•	(-9) x (-7)
+•	6 x 5
+
+•	Encuentra el producto:
+
+•	4 x (-3)
+•	(-8) x 5
+•	6 x (-9)
+•	(-6) x (-2)
+•	(-3) x 6
+•	(-4) x 7
+•	6 x (-3)
+•	0 x (-7)
+•	9 x (-7)
+•	(-7) x 10
+•	(-8) x (-3)
+•	(-5) x (5)
+•	3 x 12
+•	9 x (-4)
+
+•	Completa el valor de r, s para hacer verdaderas las siguientes igualdades:
+
+•	R x 7 = -63
+•	8 x r = -64
+•	r x (-3) = 12
+•	5 x r = -15
+•	R x 1 = -7 
+•	8 x r = -72
+•	R x 7 = -49
+•	(-3) x r = 9
+•	R x (-7) = 14 
+•	6 x r = 42
+•	R x (-8) = -48
+
+•	Halla el producto (efectúa primero los paréntesis):
+•	[(-3) + 7] x 6
+•	[(-8) - 3] x [7 - (-3)]
+•	[9 + 3] x [(-3) x 1 ]
+•	(6 + 9) x [(-2) + (-7)]
+•	[(-7) x 1 ] x [(-2) +2]	
+•	[3 + (-1 )] x [(-2) + 6]
+
+•	Completa las siguientes tablas:
+
+Tabla 10: Ejercicio a.
+X
+-3
+4
+-7
+9
+-8
+6
+-5
+
+
+
+
+
+
+-1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+-6
+
+
+
+
+
+
+
+
+Tabla 11: Ejercicio b.
+X
+7
+-4
+8
+-3
+10
+-2
+-9
+
+
+
+
+
+
+5
+
+
+
+
+
+
+-4
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+•	Se formarán grupos de dos estudiantes y continuarán jugando con los dados elaborados a partir de las instrucciones de la práctica anterior.
+
+El juego consistirá en hallar el producto del lanzamiento de los 2 fiados por parte de cada jugador o jugadora (lanza primero los dados quien mayor producto obtenga con el lanzamiento de los dados).
+
+Ganará punto quien diga primero el producto.
+
+
+•	MULTIPLICACIÓN Y MÚLTIPLOS DE ENTEROS
+
+
+
+•	Observemos cómo el signo del producto depende de los signos de los factores:
+
+•	(-7) x (3) x (-4) = 84
+•	(-6) x (-3) x (4) x (9) x (-8) = -5.184 
+•	( -12) x (5) x (-2) x (-1) x (-5) x (3) = 1.800
+•	(-3) x (1) x (-2) x (-4) x (-6) x (2) x (-9) = -2.592
+
+El signo del producto depende del número de factores negativos que se multiplican.
+
+En una multiplicación, si el número de factores negativos es par, el producto es positivo y si el número de factores negativos es impar, el producto es negativo.
+
+En (-1) x (-2) x (-1) x (-2) x (1) x (-2) x (1) x (-1) = 8, el resultado es positivo porque hay 6 factores negativos.
+
+•	Planteemos la siguiente ecuación y resolvámosla:
+
+El producto de dos números es -80. Si uno de ellos es 4, ¿cuál es el otro número?
+
+Sabemos que 4 por X = -80
+
+Es decir, 4 multiplicado por un número desconocido es igual a -80.
+
+La ecuación puede plantearse así:
+
+•	4 x X = -80
+Despejando la ecuación, 
+ [ecuación] 
+Entonces: x = -20
+
+•	Observemos la manera de hallar los múltiplos de un número entero a partir de los siguientes ejemplos:
+
+•	Múltiplos de -4
+
+M(-4) = {..., -16, -12, -8, -4, 0, 4, 8, 12, 16,...}
+
+•	Múltiplos de 7
+
+M(7) = {..., -49, -42, -35, -28, -21, -14, -7, 0,7, 14, 21, 28,...}
+
+•	Múltiplos de -5
+
+M(-5) = {..., -50, -45, -40, -35, -30, -25, -20, -15, -10, -5, 0, 5, 10, 15, 20, ...}
+
+Los múltiplos de un número entero se obtienen a partir de la multiplicación de éste por todos los números enteros. Todo entero tiene infinitos múltiplos, con excepción del cero que tiene un único múltiplo, el cero.
+
+
+Practica lo aprendido
+
+
+•	Escribe el signo de cada producto:
+
+•	(-3) x (-4) x 5 x (-7)
+•	6 x (-3) x (-7) x (-3) x (-7) x 4
+•	8 x (-9) x (-3) x 6 x 7 x (-4) x (-2)
+•	(-4) x (-1) x (-3) x 5 x 4 x 8 x (-2) x (-1)
+•	(-3) x (-2) x 7 x 3 x (-1) x 8 x (-3) x 2
+•	6 x 7 x 6 x 4 x 5 x (-3) x 2 x 1 x 8
+•	(-121) x (-128) x (-136) x 5 x (-2 076) x (-8)
+•	(1249) x (-37) x (-18) x (-33) x 6 x 116
+•	4927 x (-1) x (-1) x (-1) x 5 x (-7)
+•	(-116) x 18 x 132 x (-8) x 9 x (-7) x (-7)
+
+•	Encuentra el producto:
+
+•	(-3) x 4 x (-2)
+•	(-6) x (-2) x 7
+•	9 x (-1) x (-2)
+•	6 x (-1) x (-3)
+•	8 x (-2) x 2
+•	4 x (-4) x 2 x (-3)
+•	3 x 7 x (-2) x 4
+•	(-5) x (-1) x (-2) x 3
+•	4 x (-5) x 6 x (-7)
+•	(-2) x (-2) x 2 x (-2) x 2
+
+•	Plantea las siguientes ecuaciones y resuélvelas:
+
+•	El producto de dos números es -50. Si uno de ellos es -5, ¿cuál es el otro número?
+•	¿Cuánto es cinco veces -45?
+•	En una multiplicación, el doble de 12 es un factor. ¿Cuál es el otro factor para que el producto sea -216?
+
+•	La temperatura de una nevera baja 3°C cada hora. Cuando ésta se conecta tiene una temperatura de 16°C. ¿Qué temperatura tendrá después de 9 horas de conectada? Representa gráficamente la pérdida de temperatura.
+
+•	Halla los múltiplos de los siguientes números:
+
+•	-7
+•	-3
+•	6	
+•	4	
+•	-5
+•	2
+
+•	Halla el conjunto de números que cumplan las siguientes condiciones:
+
+•	Múltiplos de -8 mayores que -20 y menores que 10.
+•	Múltiplos de -3 mayores que 11.
+•	Múltiplos de -6 e impares.
+•	Múltiplos de -4 menores que 0.
+
+
+•	DIVISIÓN DE ENTEROS. DIVISORES DE UN ENTERO
+
+
+En la división de enteros puede darse el caso de que ambos números sean positivos, que ambos sean negativos o que tengan signos diferentes.
+
+•	Resolvamos: 18  [ecuación]  3 y 15  [ecuación]  5 
+
+18  [ecuación]  3 = 6, porque 6 x 3 = 18 
+
+15  [ecuación]  5 = 3, porque 5 x 3 = 15
+
+Observemos que el cociente entre dos enteros positivos se halla de la misma manera que en los números naturales.
+
+El cociente de dos enteros positivos es un entero positivo.
+
+•	Resolvamos: (-15)  [ecuación]  (-3) y (-27)  [ecuación]  (-9)
+
+(-15)  [ecuación]  (-3) = 5, porque 5 x (-3) = -15 
+
+(-27)  [ecuación]  (-9) = 3, porque 3 x (-9) = -27
+
+El cociente de dos enteros negativos es un entero positivo.
+
+•	Resolvamos: (-24  [ecuación]  6) y 14  [ecuación]  (-7) 
+
+(-24  [ecuación]  6) = -4, porque (-4) x 6 = -24 
+
+14  [ecuación]  (-7) = -2, porque (-2) x (-7) = 14
+
+El cociente de dos enteros de diferente signo es negativo.
+
+La división entre dos números enteros no siempre es un número entero; por ejemplo, 15  [ecuación]  (-4) no tiene un resultado en los enteros porque no existe un entero que multiplicado por -4 dé como resultado 15.
+
+Observemos el conjunto de divisores del número -10 y luego los del número 8.
+
+•	Divisores de -10
+D(-10) = {-10, -5, -2, -1, 1, 2, 5, 10}
+
+•	Divisores de 8
+D(8)= {-8, -4, -2, -1, 1, 2, 4, 8}
+
+El conjunto de los divisores de un número entero diferente de cero está formado por todos sus factores. Este conjunto es finito.
+
+
+•	Escribamos el conjunto de divisores de -15 y mostremos por qué son divisores de ese número.
+
+D(-15) = {-15, -5, -3, -1, 1, 3, 5, 15}. Estos números son divisores de -15 porque: 
+
+•	(-15) x 1 =-15
+•	(-3) x 5= -15
+•	(-5) x 3= -15
+•	(-1) x 15= -15
+
+
+Practica lo aprendido
+
+
+•	Halla el cociente en los siguientes ejercicios:
+
+•	12  [ecuación]  (-2)
+•	21  [ecuación]  (-3)
+•	(-18)  [ecuación]  3
+•	(-36)  [ecuación]  (-6)
+•	24  [ecuación]  (-4)
+•	45  [ecuación]  (-9)
+•	(-25)  [ecuación]  (-5)
+•	(-7)  [ecuación]  (-7)
+•	7  [ecuación]  (-7)
+•	(-72)  [ecuación]  9
+
+•	Completa los valores para hacer verdaderas las siguientes igualdades:
+
+•	X  [ecuación]  (-6) = 9
+•	X  [ecuación]  z = 2
+•	x  [ecuación]  z = -3
+•	x  [ecuación]  z = 4
+•	x  [ecuación]  z = -5
+•	15  [ecuación]  x = -5
+•	X  [ecuación]  2 = -2
+•	30  [ecuación]  x = -3
+•	x  [ecuación]  4 = 4
+•	27  [ecuación]  x = -9
+•	X  [ecuación]  (-3) = -7
+•	14  [ecuación]  x = -7
+•	X  [ecuación]  6 = 6
+•	49  [ecuación]  x = -7
+•	x  [ecuación]  (-9) = -9
+
+•	Completa el siguiente cuadro, siempre que la división sea exacta:
+
+Tabla 12: Ejercicio a.
+Dividendo
+-30
+-60
+24
+-48
+-27
+12
+-36
+45
+-15
+18
+-20
+2
+-15
+
+
+
+
+
+
+
+
+
+
+-3
+
+
+
+
+
+
+12
+
+
+
+
+-5
+
+
+
+
+
+
+
+
+
+
+
+
+Ejemplos:
+•	-30  [ecuación]  2 = -15 
+•	-36  [ecuación]  -3 = 12
+
+•	Halla el cociente (efectúa primero los paréntesis):
+
+•	[(-24) + 12]  [ecuación]  [(-2) + 8]
+•	(36 +13)  [ecuación]  [(-8) + 1 ]
+•	36  [ecuación]  [(-3) + (-3)]
+•	[(-6) + (-24)]  [ecuación]  [8 + (-3)]
+•	[8x (-8)]  [ecuación]  (-8)	
+•	[(-20) - 10]  [ecuación]  [(-18) + 16]
+
+•	Halla el conjunto de divisores de los siguientes números:
+
+•	-18
+•	-9
+•	36
+•	-12
+•	13
+•	-17
+
+•	Halla el conjunto de números que cumplan las siguientes condiciones simultáneamente:
+
+•	Divisores de 18 y divisores de -18
+•	Divisores de -24 mayores que 6.
+•	Divisores de -30 menores que 7.
+
+
+•	PROPIEDADES DE LA MULTIPLICACIÓN Y LA DIVISIÓN DE ENTEROS
+
+
+•	Tomemos varios pares de números enteros a y b y efectuemos los productos a x b y b x a.
+
+•	(-3 )x 4 = -12 y 4 x (-3) = -12
+•	8 x (-7) = -56 y (-7) x 8 = -56
+•	(-3) x (-4) = 12 y (-4) x (-3) = 12
+•	6 x 7 = 42 y	 7 x 6 = 42
+
+La propiedad conmutativa se cumple para la multiplicación en Z; es decir, el orden de los factores no altera el producto. 
+
+Si a y b  [ecuación] Z, a x b= b x a
+
+
+•	Verifiquemos si se cumple la propiedad asociativa para los enteros. Tomemos al azar tres enteros, agrupémoslos en diferente forma para efectuar la multiplicación y comparemos las respuestas.
+
+•	[(-3) x 7] x (-2)
+(-21) x (-2)
+42
+
+•	(-3) x [7 x (-2)]
+(-3) x (-14)
+42
+
+Al comparar las respuestas, el resultado es el mismo luego de agrupar los factores en diferente orden.
+
+La forma en que se agrupan los factores no altera el producto en los números enteros. Por tanto, la propiedad asociativa se cumple para la multiplicación en Z. Si a, b y c  [ecuación]  Z, (a x b) x c = a x (b x c).
+
+•	Tomemos cinco enteros, multipliquemos cada uno por 1 y concluyamos.
+
+•	(-3) x 1 = -3
+•	1 x (-8) = -8
+•	17 x 1 = 17
+•	(-25) x 1 = -25
+•	1 x (-49) = -49
+
+La multiplicación en Z cumple la propiedad modulativa, ya que al multiplicar cualquier entero a con 1, el producto es el mismo entero a. Si a  [ecuación]  Z, a x 1 = a y 1 x a = a.
+
+•	Verifiquemos con un ejemplo si para a, b, c  [ecuación]  Z, a x (b + c) = (a x b) + (a x c).
+
+•	(-4) x [(-7) + 8]
+-4 x 1
+-4
+
+•	[(-4) x (-7)] + [(-4) x 8] 
+28 + (-32)
+-4
+
+En los enteros se cumple la propiedad distributiva de la multiplicación con respecto a la suma. Si a, b y c   [ecuación]  Z, a x (b + c) = (a x b) + (a x c).
+
+•	Verifiquemos las siguientes afirmaciones a partir de los ejemplos:
+•	15  [ecuación]  (-3)  [ecuación]  (-3)  [ecuación]  15
+•	(16  [ecuación]  8)  [ecuación]  (-2)  [ecuación]  16  [ecuación]  [8  [ecuación]  (-2)]
+•	(18  [ecuación]  10)  [ecuación]  (1  [ecuación]  8)
+•	12  [ecuación]  ( 4 + 2 )  [ecuación]  (12  [ecuación]  4) + (12  [ecuación]  2)
+
+•	No se cumple la propiedad conmutativa para la división en Z.
+•	No se cumple la propiedad asociativa para la división en Z.
+•	No se cumple la propiedad modulativa para la división en Z.
+•	No se cumple la propiedad distributiva de la división con respecto a la suma en Z.
+
+
+Practica lo aprendido
+
+
+•	A partir de la siguiente tabla, escribe ejemplos que cumplan las propiedades conmutativa, asociativa o modulativa para el producto de los enteros, así como la distributiva del producto respecto a la suma.
+
+Tabla 13: Propiedades de la multiplicación.
+Conmutativa
+Asociativa
+Modulativa
+Distributiva del producto respecto a la suma
+(-7) x 3
+[6 x (-3)] x 2
+-4 x 1
+3 x [(-6) + 9]
+8 x (-2)
+[7 x 2] x (-4)
+-16 x 1
+|-8)x[(-7) + 8]
+9 x (-6)
+[(-6) x 9] x (-3)
+8 x 1
+4 x [(-3) + (-7)]
+(-3) x (-2)
+7 x [(-2) x (-4)]
+1  x -15
+(-5) x [4 + (-2)]
+(-4) x (-7)
+(-8) x [(-1) x 3]
+1 x 1020
+7x [(-8) + 9]
+
+•	Escribe en el espacio en n y m el número que hace verdaderas la igualdad y la propiedad utilizada:
+
+•	(-8) x 3 = n x (-8)
+•	[3 x 2] x (-6) = 3 x [n x m]
+•	-18 x 1 = 1 x n
+•	(-9) x (-3) = (-3) x n
+•	(-4) x [(-1) + 7] = [ n x (-1)] + [m + 7]
+•	(-1) x [8 + (-7)] = [(-1) x n] + [(-1) x m]
+•	1 x n = -9 x 1
+•	7 x (-6) = n x 7
+•	[n x (-3)] x 2 = 4 x [(-3) x 2]
+•	(-6) x 1 =1 x (-6)
+
+•	Calcula mentalmente el producto utilizando las propiedades de la multiplicación de enteros:
+
+•	(-5) x 6 x 2
+•	(-4) x 10 x 5
+•	(-2) x (-2) x (-2) x (-5) x (-5) x (-5)
+•	-3 x 8 x 10
+•	(-6) x 3 x 5
+•	2 x 9 x (-5)
+•	(-7) x 2 x 3
+•	(-3) x 3 x 20
+•	75 x 2 x (-3)
+•	(-3) x 2 x 3 x (-2)
+
+•	Pedro está a dieta y puede consumir sólo 400 calorías en cada comida. Ordenó un perro caliente y papas a la francesa. Si la salchicha y el pan contienen un total de 260 calorías y cada papa a la francesa contiene 20 calorías, ¿cuántas papas a la francesa puede comer?
+
+
+•	POTENCIACIÓN DE ENTEROS
+
+
+En la potenciación de números enteros, los términos son los mismos que en la potenciación de números naturales, y se cumplen las mismas propiedades si a  [ecuación]  Z y n  [ecuación]  N.
+
+
+Imagen 28: Elementos de una potenciación.
+
+
+Descripción Imagen: Imagen de 5 a la 2, el 5 tiene una flecha que lo identifica como la base, el 2 tiene una flecha que lo identifica como el exponente, = 25, el cual tiene una flecha que lo identifica como potencia. Debajo está escrito 5 a la 2 = 5 por 5 = 25.
+
+Imagen 29: Representación de la potenciación.
+
+Descripción Imagen: Imagen de a a la n = b. Es la fórmula generalizada de la potenciación.
+
+•	Base (a) es el factor que se multiplica por sí mismo n veces.
+•	Exponente (n) es el número de veces que se multiplica la base por sí misma.
+•	Potencia (b) es el resultado de a a la n.
+
+Resolvamos
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+Solución:
+
+•	 [ecuación] = (-3) x (-3) x (-3) x (-3) = 81
+•	 [ecuación]  = 7 x 7 = 49
+•	 [ecuación]  = (-1) x (-1) x (-1) x (-1) x (-1) x (-1) x (-1) x (-1) x (-1) x(-1) x (-1) = 1
+
+Verifiquemos la conclusión a partir de los resultados del siguiente cuadro:
+
+Tabla 14: Elementos de una potenciación.
+Efectuamos
+Procedimiento
+Base
+Exponente
+Potencia
+Signo de la base
+Exponente (par o impar)
+Signo de la potencia
+1-3)5
+(-3)x(-3)x(-3)x(-3)x(-3)
+-3
+5
+-243
+-
+impar
+-
+(-4)3
+(-4) x (-4) x (-4)
+-4
+3
+-64
+-
+impar
+-
+(-2)4
+(-2) x (-2) x (-2) x (-2)
+-2
+4
+16
+-
+par
++
+(-4)2
+(-4) x (-4)
+-4
+2
+16
+-
+par
++
+(3)2
+3x3
+3
+2
+9
++
+par
++
+(3)4
+3x3x3x3
+3
+4
+81
++
+par
++
+(2)5
+2x2x2x2x2
+2
+5
+32
++
+impar
++
+(5)3
+5x5x5
+5
+3
+125
++
+impar
++
+
+La potencia de un número entero es negativa cuando la base es negativa y el exponente es impar.
+
+Todo número entero diferente de cero elevado al exponente cero es igual a 1
+
+
+Practica lo aprendido
+
+
+•	Escribe el signo de cada potencia:
+•	3 a la 4	
+•	(-3) a la 8
+•	(-92) a la 4
+•	(-2) a la 7	
+•	9 a la 6
+•	(-35) a la 5
+•	(-1024) a la 6
+•	(-40) a la 2
+•	63 a la 2
+•	3304 a la 9	
+•	(-95) a la 3
+•	65 a la 3
+•	(-2) a la 7
+•	37 a la 6
+•	(-22) a la 7
+
+•	Escribe en términos de potencia y resuelve:
+
+•	(-4) x (-4) x (-4)
+•	(-2) x (-2)
+•	5 x 5 x 5
+•	(-2) x (-2) x (-2)
+•	(-1) x (-1) x (-1)
+•	(-5) x (-5) x (-5) x (-5) x (-5)
+•	6 x 6 x 6
+•	(-9) x (-9) x (-9)
+•	(-3) x (-3) x (-5) x (-5)
+•	(-6) x (-6) x (-6) x (-2) x (-2)
+
+•	Halla la potencia: 
+
+•	(-2) a la 4
+•	3 a la 5
+•	(-2) a la 7
+•	(-3) a la 3
+•	(-9) a la 4
+•	(-5) a la 4
+•	6 a la 4
+•	(-8) a la 2
+•	(-4) a la 3
+
+•	Completa los valores de x y/o n para hacer verdaderas las siguientes igualdades:
+•	3 a la n = 27
+•	X a la 3 = -8
+•	3 a la n = 81
+•	X a la 4 = 256
+•	(-9) a la n = -729
+•	X a la 5 = -1024
+•	X a la n = 729
+•	X a la n = 64
+•	X a la n = -1024
+•	X a la n = -343
+
+•	Completa la siguiente tabla:
+
+Tabla 15: Ejercicio a.
+Potenciación
+3
+4
+5
+-3
+
+
+
+-4
+
+
+
+-5
+-125
+
+
+
+Ejemplo: (-5) a la 3 = -125
+
+•	Sigue las instrucciones para cada uno de los siguientes números y escribe la respuesta:
+
+•	4	
+•	-2
+•	6	
+•	-8	
+•	0
+
+•	Suma el número con -6
+•	Multiplica el resultado por -2.
+•	Eleva al cubo el resultado.
+
+
+•	PROPIEDADES DE LA POTENCIACIÓN DE ENTEROS
+
+
+•	Resolvamos:  [ecuación] 
+
+ [ecuación] 
+
+Observemos que  [ecuación] 
+
+Para multiplicar potencias de igual base se deja la misma base y se suman los exponentes. Si a  [ecuación]  Z y n y m  [ecuación]  N, 
+
+ [ecuación] 
+
+•	Resolvamos:  [ecuación] 
+
+ [ecuación] 
+
+Observamos que:
+
+ [ecuación] 
+
+Para hallar el cociente de potencias con la misma base se deja la misma base y se escribe como exponente la diferencia entre el exponente del dividendo y el exponente del divisor.
+
+Si a  [ecuación]  Z y n y m  [ecuación]  N,
+
+ [ecuación]  
+
+•	Resolvamos:  [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+Observamos que:
+
+ [ecuación] 
+
+Para hallar la potencia de una potencia se deja la misma base y se multiplican los exponentes. 
+
+Si a  [ecuación]  Z y n y m  [ecuación]  N,
+
+ [ecuación]  
+
+•	Resolvamos:  [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+Observemos que  [ecuación] 
+
+Si el producto de dos enteros está elevado a un exponente, la potencia puede hallarse como el producto de los enteros, cada uno elevado al exponente común.
+
+Si a, b  [ecuación]  Z y n  [ecuación]  N,
+
+ [ecuación]  
+
+Practica lo aprendido
+
+
+•	Teniendo en cuenta la siguiente propiedad de la potenciación de enteros diseña un ejemplo:
+
+•	Si el cociente de dos enteros se eleva a un exponente, la potencia puede hallarse como el cociente de los enteros, cada uno elevado al exponente, común.
+
+Si a, b  [ecuación]  Z y n  [ecuación]  N,
+
+ [ecuación]  
+
+•	Aplica las propiedades de la potenciación y resuelve:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Escribe y encuentra el valor de x, y para hacer verdadera cada expresión:
+
+•	(-4) a la x por (-4) a la y = (-4) a la 18
+•	(-3) a la x sobre (-3) a la y = (-3) a la 4
+•	[(-3) a la 2 por (-3)] a la x = (-3) a la 8 por (-3) a la y
+•	[(-5) a la 3] a la x = (-5) a la 27
+•	[(-2) a la 4 sobre (-6) a la 5] a la x = (-2) a la 12 sobre (-6) a la y
+•	(-8) a la x sobre (-8) a la 3 = (-8) a la 5
+•	(-2) a la x por (-2) a la 4 = (-2) a la 12
+•	[(-6) a la x sobre (-8) a la y] = (-6) a la 20 sobre (-8) a la 15
+
+•	Efectúa las operaciones propuestas y concluye:
+•	(3 + 4) a la 4 y 3 a la 4 + 4 a la 4
+•	[(-2) + 7] a la 3 y (-2) a la 3 + 7 a la 3
+
+•	Aplica las propiedades de la potenciación para determinar cuáles de las siguientes igualdades son verdaderas y cuáles son falsas (justifica tu respuesta):
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+
+•	RADICACIÓN DE ENTEROS
+
+
+En la radicación de números enteros los términos son los mismos que en los números naturales. Observa cómo se define la radicación como operación inversa de la potenciación a partir de sus términos.
+
+Si a, b  [ecuación]  Z y n  [ecuación]  N.
+
+Imagen 30: Elementos de la radicación.
+
+Descripción Imagen: Imagen de 5 a la 2, el 7 tiene una flecha que lo identifica como la base, el 2 tiene una flecha que lo identifica como el exponente, = 49, el cual tiene una flecha que lo identifica como potencia. A la izquierda la el símbolo de raíz, el cual es un chulo el cual se alarga de manera horizontal en su extremo derecho, en el espacio del chulo, está escrito el número 2, el cual tiene una flecha que lo identifica como el índice radical, debajo de la línea horizontal está el 49 la cual está identificada con la cantidad subradical = 7 el cual tiene una flecha que lo identifica como raíz. Existen flechas que unen el 2, 7 y 49 de ambas representaciones.
+
+
+•	Resolvamos: 
+•	 [ecuación] 
+3 porque 3 a la 4 =81
+-3 porque (-3) a la 4 = 81
+
+•	 [ecuación]  porque 4 a la 3 = 64
+
+Para obtener raíces pares de un número positivo se presentan dos opciones: una positiva y una negativa. 
+
+Para obtener raíces impares de un número positivo se presenta una sola opción, que es positiva.
+
+•	Resolvamos:  [ecuación] 
+
+En los enteros  [ecuación]  no tiene solución porque no existe un número que multiplicado por sí mismo dé un número negativo.
+
+
+En los números enteros no existe raíz de un entero negativo cuando el índice es par.
+
+
+•	Resolvamos:  [ecuación]  y  [ecuación] 
+
+ [ecuación]  = -2 porque (-2) a la 3 = -8, 
+
+ [ecuación] = -3 porque (-3) a la 5 = -243
+
+
+Una raíz impar de un número negativo es un entero negativo.
+
+El resultado de la radicación en los enteros no siempre pertenece a los números enteros; por ejemplo, para  [ecuación]  no existe un entero que multiplicado por sí mismo dé 6.
+
+Las raíces pares de un número entero positivo se representan anteponiendo al entero los signos más y menos, como se muestra en el ejemplo:  [ecuación] 
+
+
+Practica lo aprendido
+
+
+•	Escribe la raíz  el signo o signos de la raíz, cuando exista la raíz:
+
+•	Raíz quinta (4.125)
+•	Raíz cúbica (-1400)
+•	Raíz cuarta (1296)
+•	Raíz cuarta (-64)
+•	Raíz (729)
+•	Raíz cúbica (-2197)
+•	Raíz (324)
+•	Raíz octava (-1)
+•	Raíz cúbica (-1728)
+
+•	Escribe y halla la raíz cuando sea posible:
+•	Raíz cuarta (-16)
+•	Raíz cúbica (1.331)
+•	Raíz cuarta (10.000)
+•	Raíz cúbica (-27)
+•	Raíz cuadrada (144)
+•	Raíz quinta (-32)
+•	Raíz cuarta (81)
+•	Raíz (-25)
+•	Raíz (49)
+•	Raíz cúbica (-64)
+•	Raíz sexta (64)
+•	Raíz cuarta (625)
+•	Raíz cúbica (-216)
+•	Raíz (64)
+•	Raíz quinta (243)
+
+•	Completa los espacios en blanco para hacer verdaderas las siguientes igualdades:
+
+Tabla 16: Ejercicio a.
+Datos
+2
+3
+4
+5
+64
+
+
+
+
+-100.000
+
+
+
+-10
+81
+
+
+
+
+
+Ejemplo: Raíz quinta (-100.000) = -10
+
+
+PROBLEMAS
+
+•	A partir de la tabla que se muestra a continuación, averiguar:
+
+Tabla 17: Días y temperaturas.
+Día
+Temp. 5 a. m.
+Temp. 12 m.
+Lunes
+-3°C
+12 °C
+Martes
+2°C
+16 °C
+Miércoles
+-4°C
+15 °C
+Jueves
+0°C
+20 °C
+Viernes
+9°C
+18 °C
+Sábado
+-2°C
+7°C
+Domingo
+6°C
+11 °C
+
+•	¿Cuál es la diferencia de temperatura entre las 5 a. m. y las 12 a. m. cada día?
+•	¿Cuál es la diferencia de temperatura entre las 5 a. m. del lunes y las 12 a. m. del miércoles?
+•	¿A qué horas y qué día se alcanzó la mayor temperatura? 
+•	¿A qué horas y qué día se alcanzó la menor temperatura?
+•	¿Qué día se alcanzó la mayor diferencia de temperatura?
+
+•	En la cuenta corriente tuve el siguiente movimiento en el mes de enero:
+
+•	Crédito significa depositar dinero en la cuenta (+).
+•	Débito significa retirar dinero de la cuenta (-).
+
+
+Tabla 18: Día con valor de crédito o débito.
+Día
+Crédito o débito
+2
++37000
+5
+-11 000
+7
++20000
+8
++18000
+8
+-13000
+9
+-15000
+15
++31 400
+18
+-28 700
+19
++45600
+19
++100000
+21
+-19700
+27
++23000
+29
+-45000
+
+•	Determinar si al final de mes tuve un saldo negativo o positivo, y su monto.
+•	¿Cuál fue el mayor valor consignado?
+•	¿Cuál fue el menor valor retirado?
+•	¿Cuánto más debí retirar para quedar con un saldo adicional de $99100?
+•	¿Cuánto más debí consignar para quedar con un saldo de $253600?
+
+•	El Desfile
+Esperan frente al cuartel
+Los hombres de un batallón,
+Mientras que su coronel
+Calcula sobre el papel
+Lo mejor distribución.
+
+Por principio elemental
+Quiere poner sus soldados
+En filas todas igual,
+Y que en desfile marcial
+Avancen bien alineados.
+Bien contado el pelotón,
+Estudia si es oportuno
+Hacer esta formación
+Siete a siete y ¡maldición!
+Vio que le sobraba uno.
+Si los pone a ocho por fila,
+Le sobra un par de soldados,
+Y trece a trece contados
+(El hombre cuenta y cavila)
+Quedan diez descolocados.
+Y sin remedio, al final,
+Cosa que al cabo no importa,
+Al mando de un oficial
+Se hizo el desfile marcial
+Con una fila más corta.
+Ahora, muchacho, toma tú el papel,
+
+•	¿cuántos soldados manda el coronel?
+
+•	En un juego de yaz Ximena ganó 3 partidos, perdió 5, más tarde ganó 6 y finalmente perdió 4.
+•	¿Cuál fue el balance del juego? 
+•	En enero el número de personas inscritas en la liga de pimpón era 727 y en abril, 945. ¿Cómo representar este incremento?
+
+•	En un parqueadero el valor por la primera hora es de $1 200 y cada hora adicional cuesta $800. Si Luis dispone de $5 500, ¿para cuántas horas de parqueadero le alcanza el dinero?
+
+•	La suma de tres enteros consecutivos es 39. ¿Cuáles son los enteros?
+
+•	Averiguar la tasa de cambio del peso frente al dólar y responder a cuántos dólares corresponden:
+
+•	$37960
+•	$453300
+•	$200000
+
+•	Una compañía de salud ofrece dos planes de afiliación. El primero tiene un valor de $250000
+anuales y el segundo de $70 000 anuales más $6000 por cada día de hospitalización. ¿Cuántos días podrá permanecer una persona en el segundo plan para obtener el mismo costo del primero?
+
+
+PREPAREMONOS PARA EL ICFES
+
+
+
+•	El producto de dos enteros negativos es:
+
+•	Mayor que o igual a 0
+•	Mayor que 0
+•	Menor que 0
+•	Positivo o negativo
+•	Ninguna de las anteriores
+
+•	Un número sumado con 23 es -16. El número es:
+
+•	13
+•	39
+•	-39
+•	-13
+•	Ninguna de las anteriores
+
+•	La suma de un número positivo y uno negativo puede ser:
+
+•	Positiva
+•	Positiva o negativa
+•	Cero
+•	Negativa
+•	Todas las anteriores
+
+•	El producto de tres enteros consecutivos es -60. Estos son:
+
+•	-3, -4 y 5
+•	3, -4 y -5
+•	3, 4 y 5
+•	-3, -4 y -5
+•	Ninguna de las anteriores
+
+•	¿A cuál de las siguientes expresiones corresponde el resultado -35?
+
+•	(-3) x [7 -18 + (-4)]
+•	[(-3) x 7- 18] + (-4)]
+•	[(-3) x 7] -18 + (-4)
+•	[(-3) x 7] -[18 + (-4)]
+•	Ninguna de las anteriores
+
+•	El área de un lote de forma cuadrada es 4 900 m2. El lado del lote es:
+
+•	-70 m
+•	7 m
+•	70 m2
+•	70 m
+•	Ninguna de las anteriores
+
+•	La suma de dos enteros es -12 y su producto, 35. Los números son:
+
+•	-7 y-5
+•	7 y -5
+•	-5 y 7
+•	7 y 5
+•	Ninguna de las anteriores
+
+•	La diferencia de un número y el triple de -4 es -8. El número es:
+
+•	-4
+•	20
+•	-20
+•	4
+•	Ninguna de las anteriores
+
+•	Tres veces el producto de -7 y un número es 63. El número es:
+
+•	4
+•	3
+•	-4
+•	-3
+•	Ninguna de las anteriores
+
+•	La quinta parte de un número más 9 es 7. El número es:
+
+•	-10
+•	10
+•	-2
+•	2
+•	Ninguna de las anteriores
+
+•	El triple de un número más 8 es -10. El número es:
+
+•	-3
+•	3
+•	4
+•	-4
+•	Ninguna de las anteriores
+
+
+
+TEMA 2: ECUACIONES
+
+OBJETIVOS
+
+•	Identificar claramente una ecuación lineal.
+•	Graficar ecuaciones lineales.
+•	Aplicar las propiedades de la igualdad, con respecto a las operaciones en la solución de ecuaciones.
+•	Desarrollar destrezas para plantear y resolver ecuaciones lineales.
+
+INTRODUCCIÓN
+
+La estructura básica de los números reales con las operaciones de adición y multiplicación es la de "cuerpo" o "campo". El tener esta estructura nos permite resolver cualquier tipo de ecuación que involucre la adición y la multiplicación.
+
+Por lo tanto, en esta unidad nos proponemos ofrecer todos los métodos posibles para resolver este tipo de ecuaciones y ver claramente el significado gráfico de dicha solución.
+
+
+•	ECUACIONES LINEALES
+
+
+En una gran parte de los países del mundo los gobiernos cobran impuestos por diversos motivos. Algunos cobran a quienes compran algún artículo en especial.
+
+Imagen 31: Periódico
+
+Descripción Imagen: Dibujo de un periódico cuyo titular dice “Aumentarán impuestos este año”. 
+
+En una tienda se cobran $3 de impuesto en la compra de cualquier artículo de perfumería, pero las pastas de dientes las tienen en oferta, de manera que por cualquier cantidad de tubos que se compren se seguirán pagando sólo $3 más. Por ejemplo, un tubo de pasta de dientes que cuesta 5 pesos nos costaría: 5(1) + 3 pesos; y al comprar 2 pastas, serían 5(2) + 3 pesos, y así sucesivamente, según el número de pastas de dientes que compráramos.
+
+Los datos de esta situación los podemos resumir
+
+•	f(x) = 5x + 3
+
+Y tabulando la función:
+
+F(x) = 5x + 3
+
+Tabla 1: Tabulación de f(x)=5x+3
+X
+5x + 3
+1
+8
+2
+13
+3
+18
+4
+23
+5
+28
+
+
+Imagen 32: Gráfica de f(x)= 5x + 3
+
+Descripción Imagen: Primer cuadrante del plano cartesiano en el cual esta graficada una recta que une los puntos (0, 3), (1, 8), (2, 13), (3, 18), (4, 23), (5, 28). Muestra que la gráfica de una función lineal es una línea recta.
+
+Como observas, la situación anterior se representa con una ecuación: 5x + 3 = y, en la que x representa el número de pastas de dientes que compramos, y representa el número de pesos que debemos pagar.
+
+Así que podemos decir que una ecuación es una proposición abierta que puede tener una o más variables, que en las ecuaciones reciben el nombre de incógnitas.
+
+•	X + 8 = 12
+Proposición abierta con una variable: Ecuación con una incógnita.
+
+•	X + y = 14 
+Proposición abierta con dos variables: Ecuación con dos incógnitas.
+
+Las variables, por supuesto, pueden sustituirse por valores que se tomen de un universo. En este capítulo, nuestro universo será el conjunto R, es decir, los números reales.
+
+Observa, también, cómo una proposición abierta con dos variables 5x + 3 = y, puede ser representada en el plano.
+
+Tú ya has representado muchas funciones en el plano, y has observado, que tienen diferentes formas:
+
+Imagen 33: Línea recta.
+
+Descripción Imagen: Primer cuadrante del plano cartesiano en el cual esta graficada una recta que une los puntos (0, 3), (1, 8), (2, 13), (3, 18), (4, 23), (5, 28).
+
+Recuerda:
+
+•	f(x) = 2x
+
+Imagen 34: Gráfica de f(x)=2x
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una recta que une los puntos (-3, -6), (-2, -4), (-1, -2), (0, 0), (1, 2), (2, 4), (3, 6).
+
+•	f(x) =  [ecuación] 
+
+Imagen 35: Gráfica de f(x)=x al cuadrado.
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una parábola con vértice (0, 0). La parábola es una región en el plano que une cada punto del eje x con su valor al cuadrado, tales como: (0, 0), (1, 1), (-1, 1), (2, 4), (-2, 4)
+
+
+•	f(x) =  [ecuación] 
+
+Imagen 36: Gráfica de la función 2 a la x
+
+Descripción Imagen: Gráfica de la función exponencial, la cual, en los valores negativos de x se acerca cada vez más al cero y para los valores positivos empieza a crecer formando una imagen similar a una letra j en tinta.
+
+
+Hay infinito número de funciones como f(x) = 3x; f(x) = 5x + 3; f(x) = 2x... etc., que se representan con una recta en el plano.
+
+
+Practica lo aprendido
+
+
+•	Tabula y elabora la gráfica de las siguientes funciones. (Recuerda que vamos a considerar como universo al conjunto de los números reales).
+
+•	y = 2x – 8
+
+Tabla 2: Datos de y = 2x - 8
+X
+y
+-3
+-14
+-2
+
+0
+
+1
+
+2
+
+3
+
+
+•	y = 5x
+
+Tabla 3: Datos y = 5x
+X
+y
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+
+•	y = 2x + 5
+
+Tabla 4: Datos de y = 2x + 5
+X
+y
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+
+•	Observa tus gráficas y contesta:
+
+•	¿Todas son rectas?
+•	¿Las tres cruzan el punto (0, 0)?
+•	¿Cuáles sí y cuáles no?
+
+•	Completa las tablas de las funciones en los números reales y elabora su gráfica.
+
+•	Y = 3x
+
+Tabla 5: Datos de y = 3x
+X
+y
+-2
+-6
+-1
+-3
+0
+0
+1
+3
+2
+6
+
+•	y =  [ecuación] 
+
+Tabla 6: Datos de y = 3x al cuadrado.
+x
+y
+-2
+12
+-1
+
+0
+
+1
+
+2
+
+
+•	y = 3x + 3
+
+x
+y
+-2
+-3
+-1
+
+0
+
+1
+
+2
+
+
+•	y =  [ecuación]  + 3x + 3
+
+Tabla 7: Datos de y = 3x al cuadrado + 3x + 3
+x
+y
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+
+•	Indica el grado de las ecuaciones anteriores y especifica si son o no lineales (o rectas).
+•	3x = y	Grado: primero,	si es lineal
+•	 [ecuación]  = y
+•	3x + 3 = y
+•	 [ecuación]  + 3x + 3 = y
+
+•	Establece la ecuación que corresponde a las siguientes situaciones:
+
+•	Se pagaron $3000 por 6 plumas de igual precio y un lapicero de $60. ¿Cuánto cuesta cada pluma?
+
+6x + 60 =3000
+
+•	En la compra de cualquier cantidad de jabones de baño que cuestan $300 cada uno, se tiene que pagar un impuesto de $30, ¿cuántos jabones se podrán comprar con $1530?
+•	Abelardo y Héctor compraron un terreno que mide 900 metros cuadrados y lo repartieron de manera que a Abelardo le correspondió un terreno que medía 1/3 del de Héctor. ¿Cuánto mide el terreno de cada uno?
+•	Para rodear un terreno de forma rectangular se necesitaron 400 m de alambre; si la medida del largo del terreno es el doble de la medida del ancho, ¿cuánto alambre se necesitó para cada lado del terreno?
+•	Se cuenta con $45000 para contratar a un número de trabajadores, de manera que uno gane $900. ¿Cuántos empleados se contratarán?
+
+•	Subraya las ecuaciones lineales con una incógnita y encierra con una curva las ecuaciones con dos incógnitas.
+
+•	2x + y = 50
+•	9y + 3 = x
+•	45x + 12 = 82
+•	15x - 3x = 0
+•	X + 12= 6 + x
+•	3(6x-2x) = y
+
+•	GRÁFICA DE FUNCIONES
+
+
+Todas las funciones que se representan en el plano con una línea recta, se denominan funciones lineales.
+
+Son ejemplos de funciones lineales en los números reales:
+
+•	y = 3x – 5
+
+Imagen 37: Gráfica de y = 3x - 5
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una recta que une los puntos (0, -5), (1, -2), (2, 1), (3, 4).
+
+
+•	y = 2x
+
+Imagen 38: Gráfica de y = 2x
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una recta que une los puntos (-1, -2), (-2, -4), (1, 2), (2, 4).
+
+
+•	y =  [ecuación] c + 32
+
+Imagen 39: Gráfica de la función y =  [ecuación] c + 32
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una recta que une los puntos (-60, 0), (0, 30).
+
+
+¿Las funciones directamente proporcionales que estudiamos, ejemplo de función lineal?
+
+Observa las gráficas anteriores y te darás cuenta que sí. Además puedes comprobar otra cosa: cuando las ecuaciones son de la forma y = ax, por ejemplo y = 3x, y = 2x, la recta que representa la función, siempre pasa por el origen, es decir por el punto (0, 0).
+
+En cambio, cuando la ecuación es de la forma y = ax + b, como y = 3x + 5; y = x - 8,... etc., la recta que representa la función no pasa por el punto (0, 0).
+
+Ahora, nota que estas funciones siempre obedecen a expresiones algebraicas de primer grado: y = 3x -7; y = 2x . . .
+
+Así que este tipo de ecuaciones son ecuaciones lineales o de primer grado. Las expresiones de 2° grado, son representadas con curvas:
+
+•	f(x) =  [ecuación] 
+
+Imagen 40: Gráfica de y = x al cuadrado.
+
+Descripción Imagen: Plano cartesiano en el cual esta graficada una parábola con vértice (0, 0). La parábola es una región en el plano que une cada punto del eje x con su valor al cuadrado, tales como: (0, 0), (1, 1), (-1, 1), (2, 4), (-2, 4)
+
+
+Ahora bien, como las funciones lineales determinan una recta, y sabemos que una recta está determinada por dos puntos, basta que localicemos dos puntos de la función para determinar su gráfica, por ejemplo:
+
+•	y = 3x + 8
+
+Tabla 8: Datos de y = 3x + 8.
+x
+y
+0
+8
+2
+14
+
+Imagen 41: Gráfica de y = 3x + 8
+
+Descripción Imagen: Plano cartesiano en el cual está graficada una recta que une los puntos (0, 8), (2, 14).
+
+Ejemplo: 
+
+•	Representa la función y= 4x + 3
+
+Tabla 9: Datos de y = 4x + 3
+X
+y
+-4
+
+2
+
+
+Solución:
+
+Localiza en el plano, cuatro puntos que pertenezcan a la recta, cuyas coordenadas no estén en la tabulación, por ejemplo: el punto A cuyas coordenadas son (2, 11) y verifica que satisfacen la ecuación:
+
+y = 4x + 3
+
+11 - 4(2) + 3 
+
+•	Punto A = (2,11) y = 11 
+•	Punto B = ( )   y = 
+•	Punto C = ( )   y = 
+•	Punto D = ( )   y =
+
+Como puedes ver, en cualquier punto que localices en la recta que representa la función, sus coordenadas satisfacen la ecuación representada.
+
+Vamos a comprobarlo:
+
+Si tenemos los siguientes valores para la ecuación:
+
+y =4x +3 
+
+13 = 4(2,5)+ 3
+
+Obtenemos las coordenadas (2,5; 13). Ahora veamos si pertenece a la recta el punto: Q = (2,5; 13)
+
+Imagen 42: Gráfica de y = 4x + 3
+
+Descripción Imagen: Plano cartesiano en el cual está graficada una recta que une los puntos (0, 3), (2,5; 13) éste punto está resaltado.
+
+
+Comprueba ahora para los siguientes valores:
+•	f(x) = 4x + 3
+y = 4x + 3
+
+•	f(0,5) = 4(0,5) + 3
+F (0,5) = 5
+P = (0,5; 5)
+
+•	f(-3) = 4(-3) + 3
+F (-3) = -9
+R = (-3, -9)
+
+Volvamos a nuestro ejemplo inicial de las pastas de dientes, con la ecuación: y = 5x + 3, o 5x + 3 = y
+
+Si sabemos que hemos pagado 43 pesos por las pastas que compramos ¿cuántos tubos serán?
+
+Observa que en este caso, tendríamos una ecuación con una incógnita:
+
+5x + 3 = 43
+
+Si buscamos el valor de y (por supuesto en el eje de las abscisas) que es 43, automáticamente encontramos el valor de x (en el eje de las ordenadas), que es 8.
+
+•	Localiza en la gráfica la solución para cada una de las ecuaciones:
+
+•	5x + 3 = 13,	x =
+•	5x + 3 = 28,	x =
+•	5x + 4-3 = 33, x =
+
+Ahora bien, cuando tenemos una ecuación como:
+
+2x + 5 = 3x + 1
+
+También podemos encontrar su solución en el plano, pues por un lado tenemos que: 2x + 5 = y, y por el otro 3x + 1 = y Si representamos ambas funciones en el plano veremos:
+
+•	2x + 5 = y
+
+Tabla 10: Datos de y = 2x + 5
+x
+y
+-3
+-1
+2
+9
+
+•	3x + 1 = y
+
+Tabla 11: Datos de y = 3x + 1
+x
+y
+0
+1
+2
+7
+
+Imagen 43: Rectas intersectadas en el plano.
+
+Descripción Imagen: Plano cartesiano en el cual están graficadas las rectas: que une los puntos (0, 1) y (2, 7). La otra une los puntos (-3, -1) y (1, 7). El punto en el que las rectas se cortan es (4, 13) y está resaltado en el gráfico.
+
+
+Observa cómo al cruzarse las dos rectas podemos leer las coordenadas del punto de intersección: (4, 13) y así saber que x = 4. Comprobemos si esto es cierto:
+
+•	2x + 5 = 3x + 1
+
+2(4) + 5 = 3(4) + 1
+
+8 +5 = 12+ 1
+
+13 = 13
+
+•	Sea la ecuación: 5x - 15 = 2x + 3
+
+Representamos cada miembro de la ecuación por separado.
+
+•	y = 2x – 15
+
+Tabla 12: Datos de y = 2x - 15.
+x
+y
+0
+-15
+3
+0
+
+•	y = 2x + 3
+
+Tabla 13: Datos de y = 2x + 3
+x
+y
+-2
+-1
+4
+11
+
+Después de localizar las coordenadas del punto de intersección (6, 15), vemos que: x = 6
+
+Imagen 44: Intersección de rectas en el plano.
+
+Descripción Imagen: Plano cartesiano en el cual están graficadas las rectas: que une los puntos (0, 3) y (-2, -1). La otra une los puntos (0, -15) y (3, 0). El punto en el que las rectas se cortan es (6, 15) y está resaltado en el gráfico.
+
+
+Comprobación:
+
+•	5x - 15 - 2x + 3 
+
+5(6) - 15 - 2(6) + 3
+
+30 - 15 =12 + 3 15 = 15
+
+
+Practica lo aprendido
+
+
+•	Encuentra la solución, a partir de las gráficas respectivas de las ecuaciones (elabora las gráficas y comprueba la solución):
+
+•	3x + 4 = 2x + 7, x = 
+•	4x – 5 = x + 1, x =
+
+•	Completa las tablas de las funciones en los números reales, seleccionando dos valores que tú desees y elabora la gráfica correspondiente.
+
+•	y = 3x
+
+Tabla 14: Datos de y = 3x.
+x
+y
+?
+?
+?
+?
+
+•	y = 4x – 3
+
+Tabla 15: Datos de y = 4x - 3.
+x
+y
+?
+?
+?
+?
+
+•	Completa las tablas de las funciones en los números reales, considerando un punto en el cual x = 0 y otro en el que y = 0. Elabora la gráfica correspondiente.
+
+•	-3x + 1/2 = y
+
+Tabla 16: Datos de y = -3x + 1/2
+x
+y
+0
+
+
+0
+
+•	-2x – 5 = y
+
+Tabla 17: Datos de y = -2x - 5
+x
+y
+0
+
+
+0
+
+•	Traza las gráficas que corresponden a las siguientes ecuaciones:
+
+•	2 = y
+•	-5 = y
+•	3 = x
+•	-2 = x
+
+•	Efectúa lo que se te pide:
+•	Completa la tabla de la ecuación en los números reales. Elabora la gráfica correspondiente.
+
+-2x + 1 = y
+
+Tabla 18: Datos de y = -2x + 1
+x
+y
+0
+
+
+0
+
+
+•	Localiza tres puntos que pertenezcan a la recta y cuyas coordenadas no aparezcan en la tabla.
+
+A = (3,-5)
+B =
+C =
+D =
+
+•	Verifica que los puntos anteriores satisfacen la ecuación. Observa el ejemplo:
+
+A = (3, -5) 
+
+-2(3) + 1 = -5
+
+-6 + 1 = -5
+
+-5 = -5
+
+•	Sustituye en la ecuación, -2x + 1 = y, a x y a y por los valores que se indican en cada caso.
+
+•	x = -1 , y = 3
+•	x = 2, y = -3
+•	x = 1, y = -1
+
+•	Escribe las coordenadas de los puntos F, G, de acuerdo con los valores anteriores de x, y
+
+•	(-1,3)
+•	?
+•	?
+
+•	Localiza en la gráfica la solución de las siguientes ecuaciones:
+
+•	-2x + 1 = 3
+•	-2x + 1 = -2
+•	-2x + 1 = 2
+•	-2x + 1 = 0
+•	-2x + 1 = 1
+•	-2x + 1 = -1
+•	-2x + 1 = y
+
+•	Comprueba que las coordenadas del punto P (2, 1) no satisfacen la ecuación -2x + 1 = y. Localiza el punto P.
+
+
+•	PROPIEDADES DE LA RELACIÓN DE EQUIVALENCIA
+
+
+Por supuesto que para obtener la raíz o solución de una ecuación no es necesario que la grafiquemos en el plano, pues este procedimiento es más laborioso, aunque en ocasiones es indispensable representar las funciones gráficamente.
+
+Tú ya has resuelto ecuaciones sencillas sin necesidad de representarlas en el plano. Ecuaciones como:
+
+•	x + 8 = 12
+x = 4
+
+•	3m = 12
+m = 4
+
+•	 [ecuación] = 8
+t = 96
+
+En las ecuaciones que graficaste anteriormente pudiste observar que si la variable tenía como exponente 1, su gráfica es una recta; por ejemplo: y = 3x + 1.
+
+Pues bien, las ecuaciones cuya variable es de primer grado se llaman ecuaciones lineales o ecuaciones de primer grado.
+
+En tu cuaderno, resuelve las siguientes ecuaciones:
+
+•	x – 6 = 15
+•	m + 8 =14
+•	3a = 21
+•	2b + 8 + 3 b = 23
+•	4a + 5 = 25
+•	5y – 12 = 48
+•	3x + 2x – 6 + 8 = 27
+
+Para resolver las ecuaciones anteriores has aplicado algunas propiedades de la igualdad. Recuerda que las expresiones en las que se tienen dos miembros relacionados mediante un signo =, se llaman igualdades; por ejemplo:
+
+•	5 + 3 = 8
+•	3 X 2 = 6
+•	4x = 12
+•	2x + 3y = 17
+•	x + 5 = y 
+•	a = b
+
+Y las igualdades en las cuales aparece al menos una variable, se nominan ecuaciones, por ejemplo:
+
+•	x + 5 = 12
+•	x + y = 8
+•	2a + 2b = 15
+
+Así que las ecuaciones son igualdades; por eso es que en su solución aplicamos las propiedades de la igualdad.
+
+¿Cuáles son esas propiedades?
+
+Para investigarlas empezaremos por observar que una expresión como 3 X 8 = 24, es una relación, ya que recordemos que toda igualdad es una relación.
+
+En tu primer año de secundaria, seguramente estudiaste lo que en una relación. Por ejemplo:
+
+•	Si tenemos el equipo de basquetbol de una escuela secundaria, formado por los alumnos del conjunto A = { a, b, c, d, e.} , podemos establecer la relación R, en A X A de manera que: "x es más alto que y”
+
+Observa que a esta relación pertenecen:
+
+Imagen 45: Grupo de personas.
+
+Descripción Imagen: Dibujo de cinco personajes etiquetados de izquierda a derecha con las letras a, b, c, d, e, de tal manera que si se ordenan por estatura de mayor a menor quedarían: c, a, e, d, b.
+
+R1 = {(x, y) / x es más alto que y}
+
+R1 = {(a, c), (a, e), (b, a), (b, c), (b, e), (d, a), (d, b), (d, c), (d, e), (e, c)}
+
+¿La pareja (d, d,} pertenecerá a la relación? Es claro que no, pues d no puede ser más alto que d.
+
+Recuerda que esta relación podía ser representada en el plano cartesiano.
+
+Ahora, veamos si establecemos una nueva relación: R2 en A X A, tal que "x es del mismo grupo que y".
+
+R2 = {(x, y)/x es del mismo grupo que y}
+
+¿La pareja (a, a) pertenecerá a la relación?
+
+¿a será del mismo grupo que a? Es lógico que Arturo sea del mismo grupo que él mismo. Así que pertenecerán a la relación las parejas (a, a) (b, b) (c, c). . ., etc.
+
+Cuando en una relación establecida en un conjunto, cada elemento x está en relación consigo mismo, se dice que tiene Ya propiedad reflexiva,
+
+Por ejemplo: Si tenemos la relación determinada por la proposición abierta:
+
+"x vive en la misma calle que y", en el conjunto de habitantes de un barrio, veremos que esta relación también es reflexiva.
+
+Sigamos analizando la relación R2 = {(x, y)/x es del mismo grupo que y}
+
+¿Si la pareja (a, b)  [ecuación]  R, la pareja (b, a)  [ecuación] R? es decir, ¿si a es del mismo grupo que b, b será del mismo grupo que a?
+En este caso cuando tenemos que en una relación determinada en un conjunto está una pareja (x, y), y también está la pareja (y, x) decimos que la relación tiene la propiedad simétrica.
+
+Ahora, veamos si la pareja (a, b)  [ecuación]  R y (b, c)  [ecuación]  R, ¿la pareja (a, c)  [ecuación]  R?
+
+Es decir, si a es del mismo grupo que b y b es del mismo grupo que c ¿a será del mismo grupo que c?
+
+Si esto es cierto, decimos que la relación tiene la propiedad transitiva.
+
+Y cuando una relación tiene las propiedades reflexiva, simétrica y transitiva, decimos que es una relación de equivalencia.
+
+Practica lo aprendido
+
+
+•	Sea el conjunto M = { [ecuación] ,  [ecuación] ,  [ecuación] } y la igualdad x = y
+
+Si establecemos la relación R en el conjunto M X M tal que: R = {(x, y)/ x = y}
+
+•	Haz una lista de las parejas de R.
+•	¿La relación tiene la propiedad reflexiva? ¿Por qué?
+•	¿La relación tiene la propiedad simétrica? ¿Por qué?
+•	¿La relación tiene la propiedad transitiva? ¿Por qué?
+•	¿La relación R en MXM, R = {(x, y)/ x = y} es una relación de equivalencia? ¿Por qué?
+
+•	Sea el conjunto S = { [ecuación] ,  [ecuación] ,  [ecuación] } y la relación H en S X S tal que H = {(x, y)/x > y}.
+•	Forma la relación:
+
+H  = {( [ecuación] , [ecuación] ), ( ), ( )}
+•	¿La relación es reflexiva? ¿Por qué?
+•	¿La relación es simétrica? ¿Por qué?
+•	¿La relación es transitiva? ¿Por qué?
+•	¿La relación H = {(x, y)/x > y} en S X S es una relación de equivalencia? ¿Por qué?
+
+•	Si tenemos las rectas en un mismo plano m, n, p, m es paralela a n es paralela a p y la relación x paralela a y. ¿es una relación de equivalencia? ¿Por qué?
+
+•	Escribe el nombre de la propiedad que está indicada en cada caso.
+
+•	En el conjunto A = {0,5,  [ecuación] ,  [ecuación] }
+R = {(x, y)/ x = y}
+
+•	0,5 = 0,5 Propiedad reflexiva
+•	0,5 =  [ecuación]  entonces  [ecuación] = 0,5
+•	0,5 =  [ecuación]  y  [ecuación] =  [ecuación]  entonces 0,5 =  [ecuación] 
+•	 [ecuación]  = 0,5 y 0,5 =  [ecuación]  entonces  [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación]  entonces  [ecuación]  =  [ecuación]  
+
+•	Completa las expresiones de acuerdo con la conclusión que se puede obtener al aplicar las propiedades que se indican:
+
+•	(Simétrica) Si Rodolfo vive en la misma casa que Carlos, entonces Carlos vive en la misma casa que Rodolfo.
+•	(Reflexiva) Rodolfo vive en la misma casa que …
+•	(Transitiva) Si Rodolfo vive en la misma casa que Carlos, y Carlos vive en la misma casa que Arturo, entonces…
+•	(Reflexiva) Silvia tiene el mismo apellido que . . .
+•	(Simétrica) Si Silvia se apellida igual que Virginia, entonces ...
+•	(Transitiva) Si Silvia se apellida igual que Virginia, y Virginia se apellida igual que Jaime, entonces....
+•	(Reflexiva) 5 = 
+•	(Simétrica) 5 + 3 = 6 + 2  Entonces
+•	(Transitiva)  [ecuación]  +  [ecuación]  =  [ecuación]  +  [ecuación]  y  [ecuación]  +  [ecuación] =1 Entonces…
+
+
+•	PROPIEDADES DE LA IGUALDAD
+
+
+En uno de los ejercicios anteriores, manejaste una relación como: x = y, es decir una igualdad, y comprobaste que:
+
+•	Es reflexiva, porque x = x, por ejemplo: 3 = 3
+•	Es simétrica, porque x = y, y = x, por ejemplo 2 + 3 = 4 + 1 entonces 4 + 1 = 2 +3
+•	Es transitiva, porque: Si x = y, y = z entonces x = z, por ejemplo: 4 + 1 = 2 +3 y 2 + 3 = 5 + 0 entonces 4+ 1 = 5 + 0
+
+Por lo que decimos que la igualdad es una relación de equivalencia, así que las propiedades de la igualdad son: 
+
+Si a, b, c  [ecuación]  R
+
+•	Reflexiva: Todo número es igual a sí mismo
+
+a = a
+
+•	Simétrica: Los miembros de una igualdad pueden permutar sus lugares.
+
+a = b entonces b = a
+
+•	Transitiva: Si dos igualdades tienen un miembro en común, los otros dos miembros son iguales:
+
+Si a = b y b = c entonces a = c
+
+Además la igualdad tiene las siguientes propiedades:
+
+•	Propiedad uniforme
+Comprueba mentalmente las operaciones siguientes:
+
+•	5 + 3 = 8
+
+(5 + 3) + 4 = 8 + 4
+
+12 = 12
+
+
+•	18 + 6 = 24
+
+(18 + 6) - 10 = 24 - 10
+
+14 = 14
+
+Como observas:
+
+Propiedad de la adición:
+
+Si a, b, c  [ecuación]  R y a = b, entonces a + c = b + c
+
+Es decir, que si sumamos un mismo número a los dos miembros de una igualdad, obtenemos otra igualdad. Ahora, comprueba estas operaciones:
+
+•	5 + 3 = 8
+
+3(5 + 3) = 3(8)
+
+15 + 9 = 24
+
+24 = 24
+
+•	18 + 6 = 24
+
+(18 + 6)/3 = 24/3
+
+6 + 2 = 8
+
+8 = 8
+
+Si efectúas otros ejercicios similares, podrás confirmar que:
+
+Si a, b, c  [ecuación]  R y a = b; ac=bc
+
+Lo que significa que si multiplicamos a los dos miembros de una igualdad por el mismo número obtenemos otra igualdad.
+
+Esto lo podemos observar objetivamente si vemos en una balanza lo siguiente:
+
+Imagen 46: Balanza equilibrada.
+
+Descripción Imagen: Dibujo de una balanza que en el brazo izquierdo tiene dos figuras una etiquetada con un 5 y otra con un 3, en el brazo izquierdo una sola figura etiquetada con un 8.
+
+
+Como los pesos en cada platillo son iguales, la balanza está equilibrada. Si ahora agregamos los mismos pesos, la balanza sigue equilibrada.
+
+•	Propiedad Cancelativa: 
+
+a + c = b + c entonces a = b
+
+Si c  [ecuación]  0 y ac = bc entonces a = b.
+
+Si se suprimen sumandos iguales, o factores iguales, en los dos miembros de una igualdad, obtenemos otra igualdad. Por ejemplo:
+
+•	5 + 3 + 6 = 8 + 6 entonces 5 + 3 = 8 
+•	6 x 5 = 2 x 3 x 5 entonces 6 = 2 x 3
+
+Vamos a demostrar esta propiedad Cancelativa de la igualdad:
+
+Si c  [ecuación]  0 y ac = bc entonces a = b.
+
+•	Suponemos verdadero el antecedente ac = bc para llegar a la tesis a = b.
+•	a c = b c Por hipótesis.
+•	a c  [ecuación]  = b c  [ecuación]  Por la propiedad uniforme de la igualdad.
+•	a  [ecuación]  = b  [ecuación]  Propiedad asociativa de la multiplicación. 
+•	a (1) = b (1) Por la propiedad del inverso multiplicativo.
+•	a = b.
+
+En resumen, la igualdad tiene las propiedades Si a, b, c  [ecuación]  R  a = b; ac=bc
+
+
+•	Reflexiva a = a
+•	Simétrica a = b entonces b = a
+•	Transitiva Si a = b y b = c entonces a = c 
+•	Uniforme a = b entonces ac = bc 
+•	Cancelativa a + c = b + c entonces a = b
+
+Y como las ecuaciones son igualdades, entonces tienen las mismas propiedades, las cuales, al ser aplicadas junto con las propiedades de las operaciones, nos ayudan a resolverlas; por ejemplo:
+
+Sea la ecuación: 
+
+•	3x + 2= 17
+
+(3x + 2) + (-2)= 17 + (-2) Propiedad uniforme
+
+3x + (2 + (-2)) = 17 + (-2) Propiedad asociativa
+
+3x + 0= 17 – 2 Propiedad del inverso aditivo
+
+3x = 17 – 2 
+
+ [ecuación] (3x) =  [ecuación] (17 – 2) Propiedad uniforme 
+
+( [ecuación] 3) x =  [ecuación] (17 – 2) Propiedad asociativa 
+
+1(x) =  [ecuación]  Inverso multiplicativo
+
+X =  [ecuación]  Efectuando las operaciones
+
+x = 5. Resultado
+
+Comprobación:
+
+3x + 2 = 17
+
+3(5)+ 2= 17
+
+15 + 2= 17
+
+17 = 17
+
+
+Practica lo aprendido
+
+
+•	Escribe la propiedad que se aplicó en las igualdades siguientes:
+
+•	17 = 17
+•	X - 5 + 5 = 18 – 5 Propiedad uniforme de la adición
+•	 [ecuación] (4x) =  [ecuación] (24)
+•	10 + x = 3x; 3x = 15 entonces 10 + x = 15
+•	3 + 8 + x = 11 + 2 Entonces x = 2
+•	4x = 6 * 4 entonces x = 6
+•	X + 8 = 12 entonces 12 = x + 8.
+
+•	Aplica a cada una de las ecuaciones la propiedad que se te señala:
+•	x + 3 = y Simétrica
+•	m + 8 = 12 y 4 + 8 =12 Transitiva
+•	y + 6= 12 + 6 Cancelativa
+•	x + 3 = 8 y 5 + 3 = 8 Transitiva
+•	t + 7 = 12 Uniforme de la adición
+
+•	Escribe el nombre de la propiedad de la igualdad que se aplica en cada expresión en el universo de los números racionales.
+
+•	 [ecuación]  =  [ecuación] 
+•	Si  [ecuación]  =  [ecuación]  entonces  [ecuación]  =  [ecuación] 
+•	Si  [ecuación]  =  [ecuación]  y  [ecuación]  =  [ecuación]  entonces  [ecuación]  =  [ecuación] 
+•	2x + 3 = 6 y 4,5 + x = 6 entonces 2x + 3 = 4,5 + x
+•	6 + 18 = 2x entonces 2x = 6 + 18
+•	X = 14 entonces x = 14
+•	2x -1 = 5 entonces 2x - 1 +1 = 5 + 1
+•	3x = 12 entonces  [ecuación] * 3x =  [ecuación] * 12  
+•	2x + 8 – 4 = 2x + 5 + 3 – 4 entonces 2x + 8 = 2x + 5 + 3
+
+•	Aplica la propiedad que se indica en el universo de los números reales.
+
+•	(Simétrica) -22 = x
+•	(Transitiva) -3x = -15 y -15 = -3 (5) entonces…
+•	(Cancelativa) -3x = -3 (5) entonces…
+•	(Reflexiva) -3 =
+•	(Uniforme, suma 15) – 3x = -15 entonces…
+•	(Uniforme, multiplica  [ecuación] ) 2x = 16 entonces…
+
+•	Escribe el nombre de la propiedad de la igualdad o de las operaciones, que se aplicó en cada caso.
+
+•	2x+18 = 24
+(2x + 18) + (-18) = 24 + (-18)
+2x + (18 + -18) = 24 + (-18)
+2x+ 0 = 24 + (-18)
+2x = 24 + (-18)
+ [ecuación]  (2x) =  [ecuación]  [(24) + (-18)]
+( [ecuación] *2) x =  [ecuación]  [(24) + (-18)]
+1*x =  [ecuación]  [(24) + (-18)]
+X =  [ecuación]  * 6
+X = 3
+
+•	3x + 6 = 30
+(3x + 6) + (-6) = 30 + (-6) 
+3x + [6 + (-6)] = 30 + (-6)
+3x + 0 = 30 + (-6)
+3x = 30 + (-6)
+ [ecuación] (3x) =  [ecuación]  [30 + (-6)]
+( [ecuación] *3) x =  [ecuación] [30 + (-6)]
+1*x =  [ecuación] [30 + (-6)]
+X =  [ecuación] (24)
+X = 8
+
+
+•	ECUACIONES EQUIVALENTES
+
+
+En el ejercicio anterior, vimos ecuaciones como:
+
+•	X – 5 = 18
+•	x - 5 + 5 = 18 + 5
+
+Estas ecuaciones son equivalentes porque las dos tienen la misma solución.
+
+x = 23
+
+Las propiedades de la igualdad que hemos estudiado nos permiten, a partir de una ecuación, formar otras ecuaciones equivalentes a ella; por ejemplo, si tenemos la ecuación: x + 8 = 14
+
+•	x + 8 + (6) = 14+ (6)
+•	x + 8 + (-8) = 14 + (-8)
+•	3 (x + 8) = 3 (14)
+•	 [ecuación] (x + 8) =  [ecuación] (14)
+
+Todas estas ecuaciones son equivalentes a x + 8 = 14, porque todos tienen como solución: x = 6
+
+Por supuesto que de todas ellas, la que nos sirve para resolver la ecuación: x + 8= 14 es:
+
+•	X + 8 + (-8) = 14 +(-8)
+
+x + 0= 14 – 8
+
+x = 14 – 8
+
+x = 6
+
+Y así resolvemos la ecuación.
+
+Si tenemos la ecuación,  [ecuación]  + 9 = 13, podemos tener las ecuaciones equivalentes que nos permitan resolver la ecuación aplicando las propiedades convenientes.
+
+ [ecuación]  + 9 = 13
+
+5 ( [ecuación]  + 9) = 5 (13) Propiedad uniforme multiplicativa
+
+ [ecuación]  + 45 = 65 Propiedad distributiva
+
+z + 45 = 65 Propiedad del inverso multiplicativo
+
+z + 45 + (-45) = 65 + (-45) Propiedad uniforme aditiva 
+
+z + 0 = 65 – 45 Propiedad del inverso aditivo
+
+z = 65 - 45 
+
+z = 20
+
+Comprobación:
+ [ecuación]  + 9 = 13
+
+ [ecuación]  + 9 = 13
+
+4 + 9 =  13
+
+Practica lo aprendido
+
+
+•	Ve obteniendo ecuaciones equivalentes hasta resolver la ecuación original y escribe el nombre de la propiedad que aplicaste para obtenerla.
+
+•	4x + 8 = 28
+•	 [ecuación]  + 3 = 4 + 2
+•	 [ecuación]  + 6 = 8
+
+•	Prueba lo siguiente con un amigo: Dile a tu amigo:
+"Piensa un número entre 0 y 15:
+•	multiplícalo por 3
+•	agrégale 4
+•	multiplica todo por 5
+•	réstale 4
+•	Ahora, si me dices el resultado, te digo qué número pensaste". 
+
+Trata de obtener el número que pensó tu amigo, conociendo sólo el resultado; si no puedes, te diré como lograrlo:
+
+Tabla 19: Indicaciones del acertijo.
+Tus instrucciones
+Lo que suponemos que pensó tu amigo
+Tu forma de resolverlo
+Piensa un número entre 0 y 15
+Tu amigo piensa en 9
+Tú usas x porque no sabes el número
+multiplícalo por 3
+9 x 3 = 27
+3x
+agrega 4
+27 + 4 =31
+3x + 4
+multiplica todo por 5
+31 x 5 = 155
+5(3x + 4)
+Réstale 4
+155 – 4 = 151
+(15x + 20) - 4 
+Si me dices tú resultado te adivino el número
+151
+15x + 20 – 4 = 151
+
+•	Como tú sabes resolver ecuaciones encuentra rápidamente el resultado. Inventa nuevos juegos para "adivinar" los números que piensen los demás. 
+
+•	Relaciona las ecuaciones del grupo 1 que sean equivalentes a las del grupo 2:
+
+Grupo 1:
+
+•	2x = 10
+•	X + 4 = 8
+•	 [ecuación]  = 4
+•	4x – 8 = 0
+•	4x = 8
+•	X + 5 = 5
+
+Grupo 2:
+
+•	3x = 12 
+•	3x = 15
+•	3x = 24
+•	3x = 60
+•	3x = 0 
+•	3x = 6
+
+•	Escribe la propiedad que se aplica para conseguir la ecuación equivalente que se indica en cada paso:
+
+•	2x + 1,4 = 6
+2x + 1,4 + (-1,4) = 6 + (-1,4)
+2x + 0 = 4,6
+2x = 4,6
+ [ecuación] (2x) =  [ecuación]  (4,6)
+x = 2,3
+
+•	4x + 2,8 = 12
+4x + 2,8 + (-2,8) = 12 + (-2,8)
+4x + 0 = 9,2
+4x = 9,2
+ [ecuación]  (4x) =  [ecuación] (9,2)
+x = 2,3
+
+•	Escribe dos ecuaciones equivalentes a las ecuaciones dadas.
+
+•	x = 2
+•	x = 3
+•	x = -1
+•	x = 4
+•	x = -1
+
+•	Resuelve y comprueba las ecuaciones:
+
+•	x + 12 = 8	
+•	m +  [ecuación]  =  [ecuación] 
+•	y – 7,5 = 8,3
+•	5 - x = -4
+•	4x = 18
+•	 [ecuación] w =  [ecuación] 
+•	 [ecuación]  = 5
+•	 [ecuación]  =  [ecuación] 
+
+•	Resuelve las siguientes ecuaciones aplicando las propiedades que se van indicando.
+
+a. x + 3 = 4,5 
+
+•	Uniforme. (Suma -3)
+•	Inverso aditivo (3 + (-3) = 0)
+•	Neutro de la adición (x + 0 = x)
+•	Efectúa la operación (4,5 + (-3))
+
+•	X – 5 = 3,8
+
+•	Uniforme. (Suma 5)	
+•	Inverso aditivo (-5 + 5 = 0)
+•	Neutro de la adición (x + 0 = x)
+•	Efectúa la operación (3,8 + 5)
+
+•	Resuelve las ecuaciones, siguiendo cada paso del proceso anterior.
+
+•	X + 4 = 16
+•	6 + x = 4
+•	x - 2 = 16
+
+•	Resuelve las ecuaciones y comprueba el resultado:
+
+•	X – 18 = 24
+•	X + 12 = 40
+•	X - 1,4 = 3,8
+•	16 + x = 10
+•	X + 2 = 3,9
+•	X – 5 = 10
+
+•	RESOLUCIÓN DE ECUACIONES
+
+
+Las ecuaciones nos sirven para resolver problemas, como has visto anteriormente.
+
+Después de comprar huevos y queso, Julia tiene que pagar 1.200 pesos. Sabe que por el queso pagó 500 pesos, pero no recuerda cuánto costaron los huevos. ¿Cuál será el precio?
+
+Como ves, este problema se resuelve con la ecuación:
+
+X + 500 = 1.200
+
+En la misma tienda, Rosa compró 5 rebanadas de jamón. Si pagó 150 pesos, ¿en cuánto le salió cada rebanada?
+
+Para este nuevo problema, se plantea la ecuación:
+
+5x = 150
+
+En páginas anteriores hemos visto cómo para resolver ecuaciones como: x + 500 = 1200 y 5x = 150, se aplica la propiedad uniforme, utilizando las propiedades del inverso aditivo y del inverso multiplicativo; por ejemplo:
+
+•	x + 500 = 1200
+x + 500 – 500 = 1200 – 500 Se suma el inverso aditivo de (500) 
+x = 1200 – 500
+x = 700
+
+Comprobamos:
+
+X + 500 = 1200
+700 + 500 = 1200
+1200 = 1200
+
+•	x – 8 = 17
+x – 8 + 8 = 17 + 8 Se suma el inverso aditivo de (-8)
+x = 17 + 8
+x = 25
+
+Comprobamos:
+
+X - 8 = 17
+•	– 8 = 17
+17 = 17
+
+•	17 - x = 12
+17 - x + x = 12 + x Se suma el inverso aditivo de -x
+17 = 12 + x
+17 + (-12) = 12 + x + (-12) Se suma el inverso aditivo de 12
+5 = x
+x = 5 Se aplica la propiedad simétrica
+
+Comprobamos:
+
+17 - x = 12
+17 - (5) = 12
+12 = 12
+•	5x = 150
+ [ecuación] (5x) =  [ecuación] (150) Se multiplica por el inverso multiplicativo de 5
+X =  [ecuación] 
+x = 30
+
+Comprobamos:
+
+5x = 150
+5(30) = 150
+150 = 150
+ 
+•	 [ecuación]  = 24
+8( [ecuación] ) = 8 (24) Se multiplica por el inverso multiplicativo de  [ecuación] 
+x = 8(24)
+x = 192
+
+Comprobamos:
+ [ecuación]  = 24
+ [ecuación]  = 24
+24 = 24
+
+•	12 = 4x
+ [ecuación] = [ecuación]  (4x) Se multiplica por el inverso multiplicativo 4
+3 = x
+
+Los problemas que podemos resolver mediante ecuaciones son variadísimos. Pueden ser de la vida diaria, de física, de química, etc. Por ejemplo:
+
+•	Daniel, el encargado de compras de la cooperativa de secundaria compró 3 balones de volibol y una red; pagó por todo $24750, la red traía marcado el precio de $6450, pero las pelotas no tenían el precio marcado y Daniel no recuerda el costo de cada una para anotarlo en su cuenta de gastos; 
+
+•	¿cómo averiguará el precio de un balón?
+
+Si no sabe el precio del balón, dirá que cuesta x pesos, así que el precio de los 3 balones será: 3x, ahora, si sumamos 3x con lo que costó la red ($6450), tendremos $24750, ya con estos datos se formula la ecuación: 3x + 6450 = 24750 que es el modelo que representa el problema que se tiene.
+
+Esta ecuación se resuelve, aplicando las propiedades correspondientes:
+
+3x + 6450 = 24750
+3x + 6450 + (-6450) = 24750 + (- 6450) Sumamos el inverso aditivo
+3x =18300	
+ [ecuación] (3x) =  [ecuación] (18300) Propiedad multiplicativa: Multiplicamos por el inverso multiplicativo
+x =  [ecuación] 
+x = 6100
+
+Cada balón costó $6100.
+
+Comprobemos el problema:
+
+3 balones de 6100 = 18300
+1 red de 6450 = + 6450
+Total: 24.750
+
+En ocasiones tenemos que manejar coeficientes fraccionarios para la incógnita, por ejemplo:
+
+•	La temperatura de ebullición del agua a una altitud de 5000 metros sobre el nivel del mar, es de 183 grados Fahrenheit. ¿Cuál será la temperatura en grados centígrados? La fórmula que podemos aplicar es:
+
+F =  [ecuación] c + 32
+
+Así que la ecuación, que es el modelo que representa el problema es:
+
+183 =  [ecuación] c + 32
+
+La que resolvemos, aplicando las propiedades correspondientes:
+
+183 =  [ecuación] c + 32
+ [ecuación] c + 32= 183	Aplicamos la propiedad simétrica
+ [ecuación] c + 32 + (-32) = 183 + (-32) Sumamos el inverso aditivo 
+ [ecuación] c = 151
+ [ecuación] ( [ecuación] ) c =  [ecuación] (151) Multiplicamos ambos miembros por el inverso multiplicativo de  [ecuación] 
+C =  [ecuación] 
+C = 83,8°
+
+La temperatura de ebullición del agua a 5000 m sobre el nivel del mar, es de 83,8°C.
+
+Como observaste en los problemas anteriores las ecuaciones de la forma ax + b = c, se resuelven:
+
+ax + b = c
+
+•	Se suma el inverso aditivo a los dos miembros: ax + b + (-b) = c + (-b)
+
+ax = c – b
+
+•	Multiplicamos por el inverso multiplicativo:  [ecuación] (ax) =  [ecuación] (c – b)
+
+X =  [ecuación] 
+
+Por ejemplo:
+
+•	5x + 7 = 8
+
+5x + 7 + (-7) = 8-7 Sumamos inverso aditivo 
+
+5x = 8 - 7 
+
+5x =  1
+
+ [ecuación] (5x) =  [ecuación] (1) Multiplicamos por el inverso multiplicativo.
+
+X =  [ecuación]  
+
+Comprobemos la ecuación:
+
+5x + 7 = 8
+5( [ecuación] ) + 7 = 8 
+1 + 8 = 8
+8 = 8
+
+Ahora bien, sabemos que a + (-b) = a - b, así que podemos restar b, en lugar de sumar el inverso aditivo de b.
+
+Y también sabemos que a ( [ecuación] ) =  [ecuación] , así que podemos dividir entre c, en lugar de multiplicar por  [ecuación]  (sobre todo cuando los coeficientes son c enteros).
+
+Por ejemplo:
+
+•	-8x + 9 = -4
+- 8x + 9 - 9 = -4 – 9
+-8x = -13
+-8x = -13
+ [ecuación]  =  [ecuación] 
+X =  [ecuación] 
+
+Comprobación:
+
+-8x + 9 = -4 
+-8( [ecuación] ) + 9 = -4
+-13 + 9 = -4 
+-4 = -4
+
+
+Practica lo aprendido
+
+
+•	Escribe la propiedad que aplicaste en cada caso:
+
+24 = 3m + 12 
+3m + 12 = 24
+3m +12 - 12 = 24 – 12
+
+•	Resuelve los problemas planteando la ecuación que representa la situación y buscando el valor de la incógnita:
+
+•	Se estima que la población de Colombia aumentará en 10132674 habitantes de 1985 a 1990. Si se estima que en 1990 habrá 38000000 habitantes, ¿cuántos habría en 1985?
+•	Cuba tiene aproximadamente 4100000 habitantes más que Bolivia. Si su población es de 9500000 habitantes, ¿cuál es la población de Bolivia?
+•	Cuba tiene 984057 km2 menos de territorio que Bolivia. Si el área de Cuba es de 114524 km2, ¿cuál es el área de Bolivia?
+•	En 1978 se daban 41 pesos colombianos por un dólar. Si en 1990 se tenían que dar 477, ¿en cuántos pesos colombianos aumentó el precio del dólar?
+
+•	Resuelve las ecuaciones aplicando las propiedades que se indican:
+
+•	3x = 24
+
+•	Uniforme (Multiplica  [ecuación] )
+•	Inverso multiplicativo ( [ecuación] 3) = 1
+•	Neutro de la multiplicación (1x = x)
+•	Efectúa operaciones ( [ecuación] *24 =  [ecuación] ) 
+
+•	5x= -15
+
+•	Uniforme (Multiplica  [ecuación] )
+•	Inverso multiplicativo ( [ecuación] *5)
+•	Neutro de la multiplicación (1*x)
+•	Efectúa operaciones ( [ecuación] *(-15) =  [ecuación] )	
+
+•	Resuelve las ecuaciones siguiendo cada paso del proceso anterior: 
+
+•	4x = -18
+•	-8x = -25
+•	-5x = 22
+•	3x = 32
+
+•	Resuelve las ecuaciones y comprueba al resultado.
+
+•	24x = 12
+•	-5x = -105
+•	3x = -105
+•	6x = 74
+•	-4x = 164
+•	6,2x = 31
+
+•	Resuelve las siguientes ecuaciones y compruébalas:
+
+•	4x + 7 = 10
+•	9 + 5w = 49
+•	8a +  [ecuación]  = 5
+•	 [ecuación] n + 6 = 17
+•	 [ecuación] s +  [ecuación]  =  [ecuación] 
+
+•	Resuelve los problemas, planteando y resolviendo la ecuación correspondiente: Un terreno se ha fraccionado en 6 lotes, 5 lotes son de iguales dimensiones y el sexto mide 136 m2. Si todo el terreno mide 736 m2 ¿cuánto medirá uno de los lotes cuyas dimensiones son iguales?
+
+•	Resuelve los problemas planteando la ecuación que representa la situación y buscando el valor de la incógnita: El Soyuz III dio 72 órbitas, tardando igual tiempo en cada una: 540 minutos. ¿En cuánto tiempo realizó cada vuelta?
+
+•	Herminia paga por 3 balones del mismo precio la cantidad de $27600, ¿cuánto cuesta cada balón?
+
+•	¿Cuál será la medida de uno de los ángulos iguales en el triángulo isósceles si sabemos que el ángulo A = 40°? (recuerda que los ángulos interiores de un triángulo suman 180°).
+
+
+
+•	FÓRMULAS
+
+
+En uno de los ejemplos anteriores, manejamos la fórmula:
+
+F =  [ecuación] c + 32
+
+Si a partir de esta fórmula, queremos encontrar una nueva que nos permita saber cómo conocer la variable c, a partir del conocimiento de F; podemos hacerlo, aplicando las propiedades correspondientes:
+
+F =  [ecuación] c + 32
+•	 [ecuación] c + 32 = F Propiedad simétrica
+•	 [ecuación] c + 32 - 32 = F – 32 Propiedad aditiva
+•	
+•	 [ecuación] c = F – 32
+•	 [ecuación] ( [ecuación] c) =  [ecuación]  (F – 32) Propiedad multiplicativa
+•	C =  [ecuación]  (F – 32)
+•	C =  [ecuación]  
+
+Así que, si en una receta de cocina encuentras que hay que hornear un pastel a 375°F, y el horno que tienes trae marcadas las temperaturas en grados centígrados, puedes aplicar la fórmula C =	 [ecuación]  y saber a qué temperatura hornearás el pastel.
+
+C =  [ecuación] 
+C= 190,5°
+
+Habrás notado que las fórmulas son ecuaciones a las que, para obtener fórmulas equivalentes, podemos aplicar las propiedades de las igualdades que estudiamos; así por ejemplo, al estudiar en el capítulo anterior el movimiento uniformemente acelerado, observamos que la fuerza dependía tanto de la masa como de la aceleración, de manera que se cumplía con la fórmula:
+
+F = m*a
+
+Ahora bien, si quiero obtener una fórmula para encontrar la aceleración a, lo hago de la siguiente manera:
+
+F = m*a
+
+a =  [ecuación] 
+ [ecuación] F =  [ecuación]  (m*a)
+ [ecuación] = a
+a =  [ecuación]  Aplicar la propiedad simétrica.
+
+Así que la aceleración la obtengo dividiendo la fuerza entre la masa. Cuando a partir de una fórmula dada, obtenemos una nueva fórmula, decimos que despejamos una de las variables.
+
+
+Práctica lo aprendido
+
+
+•	Escribe la fórmula que corresponde a los siguientes enunciados:
+
+•	El área (A) de un rectángulo es igual al producto de su base (b), por su
+altura (h)
+•	El volumen (V) de un prisma es igual al producto del área de su base (A)
+por su altura (h)
+•	El área (A) de la superficie lateral del cilindro es igual a la circunferencia (2 [ecuación] r) del círculo de la base por su altura (h).
+•	La masa (M) de un cuerpo es igual al producto de masa específica (Me) por su volumen (V).
+•	La distancia (d) recorrida por un cuerpo que se mueve con movimiento uniforme, es igual al producto de su velocidad (v) por el tiempo (t) que tarda en recorrerla.
+•	El área total (A) de una pirámide, se obtiene sumando el área de la base (B) más su área lateral (L).
+
+•	Despeja la variable (literal) que se indica en cada fórmula. 
+•	A = bh despeja b y h
+•	M = Me V despeja Me y V
+
+•	En las fórmulas siguientes, despeja la variable indicada:
+
+•	F = m*a despejar m
+•	C = n*d despejar d
+•	A =  [ecuación] (B + b)h despejar h.
+•	V =  [ecuación]  B*h despejar h.
+•	K = C + 273 despejar c
+•	W = m*g despegar g
+
+•	Resuelve el problema siguiente:
+La presión de un cuerpo sobre otro es la fuerza aplicada en cada  [ecuación]  de contacto, entre los dos cuerpos considerados. Su fórmula es P =  [ecuación] .
+Presión =  [ecuación] 
+
+Si tenemos una presión de 50  [ecuación] , en un área de 20  [ecuación] . ¿Cuál es la fuerza que se aplicó? Despeja F y resuelve el problema.
+
+•	Resuelve los problemas:
+•	El perímetro de un cuadrado es de 204 m. ¿Cuánto mide de lado?
+•	Un prisma cuya área (A) de su base es de 3,4 [ecuación]  tiene un volumen (F) de 6,12  [ecuación] . ¿Cuál es su altura (h)?
+
+
+•	PLANTEAMIENTO DE ECUACIONES
+
+
+Hay veces en que en una ecuación se nos presentan una serie de operaciones, las cuales hay que resolver primero, para llegar a obtener una ecuación equivalente con la forma que hemos estado estudiando.
+
+Por ejemplo:
+
+•	Un señor le da a Daniel, su hijo mayor, $3850 para que los reparta entre él, Emilio, el hijo segundo, y Héctor, el más pequeño, con estas indicaciones: A Emilio le das el doble de lo que le des a Héctor, tú tomas el triple de lo que le des a Héctor y además me compras el periódico (que cuesta $250).  ¿Cuánto le tocó a cada hermano?
+
+Veamos:
+
+•	a Héctor le toca: x pesos
+•	a Emilio le tocará 2x
+•	y a Daniel le deberá tocar 3x
+•	el periódico cuesta $250
+
+Ecuación:
+
+x + 2x + 3x + 250 = 3850
+
+6x + 250 = 3850 Reducimos términos semejantes
+
+6x + 250 – 250 = 3850 – 250 Restamos 250
+
+6x = 3600
+
+ [ecuación]  =  [ecuación]  Dividimos entre 6
+
+x = 600 
+
+Ahora repartimos:
+
+•	a Héctor le toca	$600
+•	a Emilio el doble de Héctor $1200
+•	a Daniel le toca el triple de Héctor $1800
+•	y el periódico cuesta $250
+
+y comprobamos:
+
+600 + 1200 + 1800 + 250 = $3850
+
+•	La mamá de los tres muchachos tiene que enviar a la escuela a la que asisten el dinero del uniforme, y además $1800 de cuota para junta de padres de familia, por cada uno. Al recibir la circular, venía manchado el lugar en que estaba anotado el precio de los uniformes, pero tiene que pagar en total $21300. ¿Cómo podrá la señora saber el precio de cada uniforme?
+
+Podemos hacer el siguiente razonamiento:
+
+El precio del uniforme es x, así que cada hijo debe pagar x + 1800 pesos. Como son tres hijos, entonces será 3 (x + 1800) pesos y como tiene que pagar 21300, ya tenemos la ecuación:
+
+3(x+ 1800)= 21300
+
+•	Aplicamos la propiedad distributiva: 3x + 5400 = 21300
+•	Restamos 5,400 a los dos miembros: 3x + 5400 - 5400 = 21300 – 5400
+3x = 15900
+•	Dividimos entre 3:  [ecuación]  =  [ecuación] 
+•	x = 5300
+
+Así que cada uniforme cuesta $5300.
+
+Comprobemos:
+
+La señora tiene que dar 5300 + 1800 = 7100 por cada hijo, como son tres, 7100 X 3 = 21300 que es el total que teníamos.
+
+En los ejemplos anteriores, vemos que las ecuaciones se resuelven de acuerdo con las dificultades que presentan: por ejemplo, si tenemos una ecuación como la siguiente, aplicamos la propiedad distributiva y continuamos aplicando las propiedades convenientes hasta llegar a la solución.
+
+•	5(x - 12) + 6 = 71
+5x - 60 + 6 = 71
+5x - 54 = 71
+5x - 54 + 54 = 71 + 54
+ [ecuación]  =  [ecuación] 
+x = 25
+
+Comprobación:
+
+5(x - 12) + 6 = 71
+5(25 - 12) + 6 = 71
+125 - 60 + 6 = 71
+71=71
+
+•	 [ecuación] (2x + 8) = 12
+ [ecuación]  +  [ecuación]  = 12
+5( [ecuación]  +  [ecuación] ) = 5(12)
+6x + 24 = 60
+6x + 24 - 24 = 60 – 24
+6x = 36
+ [ecuación]  =  [ecuación] 
+X = 6
+
+Comprobación:
+
+ [ecuación] (2(6) + 8) = 12
+ [ecuación] (12 + 8) = 12
+ [ecuación] (20) = 12
+ [ecuación]  = 12
+12 = 12
+
+
+Practica lo aprendido
+
+
+•	Resuelve las ecuaciones siguientes y compruébalas:
+
+•	4(x + 2) = 26
+•	 [ecuación] (z – 3) = 2
+•	4t + 3t - 12 = 27
+•	3(x + 8) + 2x = 34
+•	-3(y - 8) + 5 = 2
+
+•	El perímetro de un terreno cuadrangular es de 747 m; si el lado B mide el doble
+de lo que mide A; el lado C, mide el triple de lo que mide A, y el lado D mide
+186 m, ¿cuánto medirá cada uno de los lados?
+•	Lado A = x
+•	lado B = 
+•	lado C = 
+•	lado D = 186 m 
+•	Perímetro = 747 m
+
+•	Evelia fue al Festival de Ibagué, y después a la Feria de Cali. En el festival gastó 7500 pesos, pero en la feria, al jugar a la lotería duplicó el dinero que tenía al principio; si regresó con 18600 pesos a su casa, ¿cuánto dinero llevaba al principio?
+
+•	Despeja las literales indicadas en las siguientes fórmulas:
+
+•	P = 2 (a + b) despejar a.
+•	 [ecuación]  despejar h.
+•	E=m [ecuación] , despejar m.
+
+•	Resuelve la ecuación aplicando las propiedades que se indican:
+
+2x + 8 = -15
+
+•	Uniforme. Suma
+•	Inverso aditivo 
+•	Neutro de la suma 
+•	Uniforme. Multiplica por  [ecuación] 
+•	Inverso multiplicativo
+•	Neutro de la multiplicación 
+•	Efectúa operaciones
+
+•	Resuelve las ecuaciones siguiendo cada paso del proceso anterior:
+
+•	2x + 3 = 16
+•	4x – 2 = 15
+•	3x - 8 = 24
+
+•	Resuelve las ecuaciones y comprueba el resultado:
+
+•	-2x + 14 = 28
+•	2x – 9 = 17
+•	6x + 8 = -16
+•	7x - 9 = -37
+•	-4x + 8 = 42
+•	2x - 4 = 30
+
+•	Resuelve:
+
+•	Por dos cuadernos y un lápiz se pagan $600. Si el lápiz cuesta $ 120. ¿Cuánto cuesta cada cuaderno?
+•	Si un libro de Química cuesta el doble que uno de música, y por los dos se pagan $4800, ¿cuánto cuesta cada libro?
+•	Por cuatro pantalones y una camisa de $8000 se pagaron $52000. ¿Cuánto cuesta cada pantalón?
+
+•	Resuelve las ecuaciones y comprueba el resultado:
+
+•	5(x + 2x - 3) = 45 
+•	9(2x – 4) = 126
+•	-5(x – 9) = 55
+•	-4(x +2x -5) = -4
+•	3(5 +3x) = 42
+
+
+•	ECUACIONES CON RACIONALES
+
+
+También, en ocasiones, hay ecuaciones en las que se presentan números racionales en forma de fracción común, y para resolverlas tenemos que cambiar la ecuación por otra equivalente, que obtenemos con la ayuda de las propiedades de la igualdad; por ejemplo:
+
+•	Tres hermanas, Irma, Lola y Lourdes, quieren comprar un televisor, Lourdes tiene la mitad de lo que tiene Lola, e Irma tiene la tercera parte de lo que tiene Lola. Su papá les dio 15000, y con eso reunieron 48000. ¿Cuánto tenia Lola?
+
+Planteemos el problema:
+
+Lola tiene m pesos
+Lourdes tiene  [ecuación]  pesos
+Irma tiene  [ecuación] pesos
+Su papá les dio 15000.
+En total reunieron $48000
+
+La ecuación sería:
+
+m +  [ecuación]  +  [ecuación]  +  15000 = 48000
+
+m +  [ecuación]  +  [ecuación]  +  15000 = 48000 Restamos 15000 (observa que hemos "ahorrado" el paso de:
+m +  [ecuación]  +  [ecuación]  +  15000 - 15000 = 48000 – 15000
+m +  [ecuación]  +  [ecuación]  = 33000
+
+Ahora, para eliminar los denominadores, aplicamos la propiedad uniforme, multiplicando por 6 los dos miembros (6 es el m.c.m. de 2 y 3) y así obtenemos una ecuación equivalente.
+
+6(m +  [ecuación]  +  [ecuación] ) = 6(33000)
+6m +  [ecuación]  +  [ecuación]  = 198000
+6m + 3m + 2m = 198000
+11m = 198000
+m =  [ecuación] 
+m = 18000
+
+Comprobemos el problema:
+
+Lola tenía 18000 pesos.
+Lourdes tenía la mitad de lo de Lola 9000
+Irma tenía la tercera parte de Lola 6000
+Su papá les dio 15000
+
+En total reunieron $48000
+
+
+Practica lo aprendido
+
+
+•	Resuelve las ecuaciones y compruébalas:
+•	 [ecuación] + 12 = 18
+•	 [ecuación]  - 5 = -4
+•	s +  [ecuación]  +  [ecuación]  = 73
+•	4( [ecuación]  + 5) = 24
+•	 [ecuación]  +  [ecuación]  +  [ecuación]  =  [ecuación] 
+
+•	Escribe el mínimo común denominador en cada ecuación:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Resuelve las ecuaciones y comprueba el resultado:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Resuelve:
+•	Se desean envasar 3360 lt de perfume en botellitas de 0,12 Lt de capacidad, ¿cuántas botellas serán necesarias?
+•	En un ejido, tres tractoristas han arado 9,2 ha, en total. El  segundo tractorista aró la tercera parte de lo que aró el primero; y el tercero aró la quinta parte de lo que aró el primero. ¿Cuántas hectáreas aró cada uno?
+
+
+•	ECUACIONES DEL TIPO  [ecuación] 
+
+Veamos ahora ecuaciones del tipo  [ecuación]  = b, es decir, en las que la variable sea un denominador considerando que x  [ecuación] 0.
+
+Problema:
+Varios hermanos deciden regalar a su mamá una estufa que cuesta $125000 y cada uno de ellos aporta cantidades iguales. Si a cada uno le tocó dar $31250, ¿cuántos hermanos eran? 
+
+Planteamiento:
+Número de hermanos: x
+Costo de la estufa: $125000 
+Cantidad que aportó cada uno: $31250
+
+Ecuación:
+
+ [ecuación]  = 31250
+x( [ecuación] ) = x(31250) Por la propiedad uniforme multiplicamos por x cada miembro.
+125000= 31250x
+ [ecuación]  =  [ecuación]  Dividimos entre 31250 los dos miembros
+4 = x
+X = 4 Aplicamos la propiedad simétrica
+
+Eran 4 hermanos los que compraron la estufa. Así también, si tenemos la fórmula V =  [ecuación]  y queremos despejar t, es decir t es la incógnita que está como denominador, aplicamos las propiedades correspondientes.
+
+V =  [ecuación] 
+Vt =  [ecuación] t  Multiplicamos por t los dos miembros
+Vt = d
+ [ecuación]  =  [ecuación]  Dividimos entre V los dos miembros
+t =  [ecuación] 
+
+Practica lo aprendido
+
+
+•	Resuelve las ecuaciones y compruébalas:
+•	 [ecuación] 
+•	 [ecuación]  + 12 = 21
+•	 [ecuación]  = 8
+•	 [ecuación]  +  [ecuación]  =  [ecuación] 
+•	3( [ecuación]  + 2) – 6 = 15
+
+•	Despeja las literales indicadas en cada fórmula:
+
+•	m =  [ecuación]  despejar F y a.
+•	P =  [ecuación]  despejar F y a.
+•	V =  [ecuación]  despejar d y t.
+
+•	Resuelve el problema siguiente:
+Se han repartido 1896 alumnos en igual número a varias escuelas secundarias; si en cada una inscribieron 316 alumnos, ¿cuántas escuelas fueron?
+
+
+
+•	ECUACIONES CON LA INCOGNITA EN AMBOS MIEMBROS
+
+
+En ocasiones, nos encontramos con ecuaciones en que la incógnita aparece en los dos miembros; para resolverla, procedemos a obtener ecuaciones equivalentes, aplicando las propiedades que correspondan hasta lograr una ecuación del tipo que hemos visto.
+
+Por ejemplo:
+
+•	Juan, de 40 años, tiene un hijo de 12 años. ¿Dentro de cuántos años Juan tendrá el triple de la edad de su hijo?
+
+Razonemos de la siguiente forma:
+
+Dentro de x años, Juan tendrá 40 + x años, y su hijo tendrá 12 + x años. Ahora bien, 40 + x años debe ser el triple de 12 + x, o sea 3(12 + x).
+
+Con este razonamiento formulamos la ecuación:
+
+40 +.x = 3(12 +x)
+
+Observa que la incógnita aparece en los dos miembros de la ecuación.
+
+40 + x = 3(12 + x)
+40 + x = 36 +3x Aplicamos la propiedad distributiva
+40+ x - x = 36 + 3x – x Restamos x a los dos miembros
+40 = 36 + 2x Reducimos términos semejantes
+40 - 36 = 36 + 2x – 36 Restamos 36 a los dos miembros 
+4 = 2x
+ [ecuación] = [ecuación]  Dividimos entre 2
+2 = x
+X= 2 Aplicamos la propiedad simétrica.
+
+Así que dentro de 2 años, Juan tendrá el triple de la edad de su hijo. 
+
+Comprobemos el problema:
+
+Juan tiene 40 años; dentro de 2 años tendrá 42. Su hijo tiene 12 años; dentro de 2 años tendrá 14. 42 es el triple de 14, porque 14 X 3 = 42
+
+Como habrás notado, cuando en una ecuación la incógnita aparece en los dos miembros, se obtiene una ecuación equivalente en la que esta incógnita sólo aparezca en uno de los miembros, y se termina de resolver la ecuación, por ejemplo:
+
+•	Sea la ecuación:
+4x + 2 = 5x +  [ecuación] 
+4x + 2 - 4x = 5x +  [ecuación]  - 4x Restamos 4x a los dos miembros
+2 = x +  [ecuación]  Reducimos términos semejantes
+2 -  [ecuación]  = x +  [ecuación]  -  [ecuación]  Restamos  [ecuación] 
+ [ecuación]  -  [ecuación]  = x
+ [ecuación]  = x
+X =  [ecuación]  Aplicamos la propiedad simétrica.
+
+Comprobación:
+
+4x + 2 = 5x + [ecuación] 
+4( [ecuación] ) + 2 = 5( [ecuación] ) +  [ecuación] 
+ [ecuación]  +  [ecuación]  =  [ecuación]  +  [ecuación] 
+ [ecuación]  =  [ecuación] 
+
+•	Las ecuaciones pueden presentar mayor número de dificultades, y para resolverlas siempre vamos aplicando las propiedades de la igualdad que hemos venido manejando:
+
+ [ecuación] 
+ [ecuación]  Multiplicamos por 30 (30 es el m.c.m. 2, 3, y 10)
+ [ecuación] 
+45m + 180 + 210 + 40m = 15 m - 30 Aplicamos propiedad distributiva
+85m + 390 = 15m - 30 Reducimos términos semejantes
+85m + 390 - 15m = 15m - 30 - 15m Restamos 15m a los dos miembros
+70m + 390 = -30
+70m + 390 - 390 = -30 – 390 Restamos 390 a los dos miembros
+70m = -420
+ [ecuación]  =  [ecuación]  Dividimos entre 70
+m = -6
+
+Comprobación:
+
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+- 3 – 1 = -4
+-4 = -4
+
+Veamos otros ejemplos:
+
+
+•	 [ecuación] -  [ecuación]  =  [ecuación]  -  [ecuación]  
+6x ( [ecuación] -  [ecuación] ) = 6x ( [ecuación]  -  [ecuación] ) Multiplicamos 6x los dos miembros (6x es m.c.m. de 6, 3, y x)
+ [ecuación]  Efectuamos operaciones
+1 – 2 = x – 6
+- 1 = x – 6
+-1 – x = x - 6 –x Restamos x a los dos miembros
+-1 –x + 1 = -6 + 1 Sumamos 1 a los dos miembros
+-x = -5	
+x = 5 Multiplicamos por -1 los dos miembros.
+
+Comprobación:
+
+ [ecuación] -  [ecuación]  =  [ecuación]  -  [ecuación]  
+ [ecuación] 
+ [ecuación] 
+
+En esta comprobación, es necesario convertir a fracciones equivalentes para poder operar con ellas.
+
+¿Observaste que en este último ejemplo, nos encontramos que el coeficiente 1 de la incógnita es negativo? -x = -5.
+
+Cuando en una ecuación se obtiene coeficiente negativo en la incógnita, es conveniente multiplicar los dos miembros por -1 (apoyándonos en la propiedad uniforme), para que el coeficiente de la incógnita sea positivo.
+
+Por ejemplo:
+
+•	Si tenemos que -x = 8, al multiplicar por - 1 se tiene:
+
+-x(-1) = 8(-1)
+
+X = -8
+
+Veamos un último ejemplo:
+
+•	Frecuentemente, los problemas nos conducen a una ecuación que tiene forma de proporción, por ejemplo:
+
+Si por 28 m de tela me cobraron $576, ¿cuántos metros de la misma tela me darán por $358? 
+
+En este caso, la ecuación es una proporción que puede ser planteada:
+
+ [ecuación]  =  [ecuación] 
+
+o también
+
+ [ecuación]  =  [ecuación] 
+
+En las dos formas tenemos que hay que multiplicar: 28 por 358
+
+x =  [ecuación]  = 17402
+
+(El producto de los extremos, es igual al producto de los medios:  [ecuación] , ad = bc)
+
+Así que por $358 me darán 17402 m de tela.
+
+
+Practica lo aprendido
+
+
+•	Resuelve y comprueba las ecuaciones:
+
+•	3x + 2x - 12 = 4x – 10
+•	4y - (12 + y) = 15
+•	9(x +  [ecuación] ) – 10 = 5x -  [ecuación] 
+•	6a - [3a -2 (3a - 5)] + 8 = 33
+•	 [ecuación]  -  8 = -28
+•	 [ecuación]  + 6 = 3
+•	 [ecuación]  +  [ecuación]  =  [ecuación]  +  [ecuación]  -  [ecuación] 
+•	 [ecuación]  -  [ecuación]  = -2
+•	 [ecuación]  + 2 = r
+•	 [ecuación]  + 48 = 49
+•	 [ecuación]  - 6 = 18
+•	3x – 5 = 2(x + 8)
+•	 [ecuación]  =  [ecuación] 
+•	2b +  [ecuación]  = 5b -  [ecuación] 
+•	 [ecuación]  =  [ecuación]  + 3
+
+•	Resuelve las ecuaciones y compruébalas:
+
+•	30 – x = 2(6 + x)
+•	X =  [ecuación]  + 12
+•	 [ecuación]  = 6 – x
+•	5(x + 3) = 3x + 39
+•	 [ecuación] 
+•	4x – 8 = 3(x – 1) 
+
+•	Despeja las literales que se indican en las siguientes fórmulas:
+•	Área de la superficie lateral de un cilindro:  [ecuación] , despejar h y r.
+•	Volumen de una pirámide:  [ecuación] , despejar A y h.
+•	Resuelve:
+La mitad de un grupo de séptimo grado de un colegio técnico está inscrito en el taller de electricidad; una tercera parte en el de radio, y los 9 alumnos restantes están en el taller de carpintería. ¿Cuántos alumnos hay en el grupo?
+
+
+
+•	PASOS PARA RESOLVER UNA ECUACIÓN
+
+
+En resumen, para resolver ecuaciones de primer grado con una incógnita se aplican las propiedades de la igualdad, en el orden que representen las dificultades de la ecuación:
+
+•	Si la ecuación tiene denominadores, se multiplican los dos miembros por el m.c.m. de los denominadores (propiedad uniforme multiplicativa).
+
+•	Si la ecuación tiene paréntesis de manera que se presente una adición de términos por un factor, se aplica la propiedad distributiva.
+
+•	Si en la ecuación aparece la incógnita en los dos miembros, se obtiene una ecuación equivalente en la que sólo aparezca en uno de los miembros.
+
+•	Si en la ecuación aparecen términos independientes (los que no con tienen a la incógnita), se aplican las propiedades correspondientes hasta obtener una ecuación equivalente en la que al final la incógnita aparezca como factor en uno de los miembros y los términos independientes estén en el otro miembro.
+
+•	Se dividen los dos miembros de la ecuación entre el coeficiente de la incógnita con objeto de despejarla.
+
+•	Si la incógnita resulta precedida del signo menos, se multiplican los dos miembros de la ecuación por -1, a fin de que sea positiva.
+
+
+
+Practica lo aprendido
+
+
+•	Resuelve las ecuaciones siguientes:
+
+•	 [ecuación]  +  [ecuación]  +  [ecuación]  + 18 = 70
+•	 [ecuación] z +  [ecuación] z = 4  [ecuación] 
+•	 [ecuación] =  [ecuación] 
+•	 [ecuación] x – 82 =  [ecuación] x – 90 +  [ecuación] 
+
+•	Selecciona la ecuación que resuelve el problema:
+
+•	2( x +  [ecuación] ) = 378
+•	 [ecuación]  =  [ecuación] 
+•	78 + x = 180
+•	X + 3x + 2 = 378
+•	78 = x + 2x + x
+•	3x + (2x + 3) + x +  [ecuación]  = 2
+
+•	Enrique y su hermana se reparten $378 pesos: a Enrique le toca el triple que a su hermana, más 2 pesos. ¿Cuánto le toca a cada uno?
+•	El perímetro de un rectángulo es de 378 m; si el ancho es la tercera parte del largo, ¿cuáles son sus dimensiones?
+•	Si un automóvil recorre 378 km en 3 horas, ¿cuántos km recorrerá en 2 horas?
+•	La suma de las edades de toda una familia es de 78 años. El padre tiene el triple de la edad del hijo mayor, la madre tiene el doble de la edad del hijo mayor más 3 años, y el hijo menor tiene la mitad de la edad de su hermano mayor. ¿Cuántos años tiene cada uno?
+•	En un triángulo, el ángulo a y el ángulo b miden 78°, ¿cuánto medirá el ángulo c?
+
+•	Despeja la variable indicada en cada fórmula:
+
+•	d = v*t
+•	C = k – 273, despejar k
+•	 [ecuación]  =  [ecuación] , despejar c
+•	E = m [ecuación] , despejar m
+•	 [ecuación] , despejar  [ecuación] 
+•	d =  [ecuación] 
+•	V =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	A =  [ecuación] 
+
+•	Resuelve los problemas:
+
+En 1975, la población de México se calculó aproximadamente en 58273000 habitantes, número que representa el doble de la población de Argentina, más la población aproximada en 1975 fue de 7585000 habitantes, ¿cuál fue la población aproximada de Argentina en 1975?
+
+•	Un caminante observa un rayo y a los 6 segundos escucha el trueno. ¿A qué distancia se produjo el rayo?
+
+Velocidad sonido 340 m/seg. Formula d = V*t
+
+•	De un par de ángulos suplementarios a, b, a es tres veces mayor que b. ¿Cuál es la medida de cada uno de los ángulos?
+
+•	En una fábrica trabajan 126 obreros; el número de mujeres es 2  [ecuación]  veces más que el número de varones. ¿Cuántos hombres hay en la fábrica?
+
+•	Con una fuerza de 125 gr/peso, un móvil tiene una aceleración de 22m/seg2; ¿cuál será la aceleración del mismo móvil con una fuerza de 875 gr/peso?
+
+•	Aplica la propiedad fundamental de las proporciones en las ecuaciones siguientes.
+
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+
+•	Una cubeta tarda 45 segundos en llenarse con el agua que cae de una llave, mientras una cubeta que tiene una capacidad de 9 Lt menos que la primera, se llena en 18 segundos. ¿Cuál es la capacidad en litros de la cubeta chica si la velocidad de la caída del agua se mantiene constante?
+
+
+
+PREPÁRATE PARA EL ICFES
+
+•	Analiza la siguiente situación y represéntala gráficamente:
+
+•	Por dos lápices del mismo precio y una pluma de $3 se tiene que pagar una cantidad diferente de acuerdo con la calidad de los lápices.
+
+•	Escribe la ecuación correspondiente
+•	Tabla:
+
+Tabla 20: Relación de los valores de la función.
+X
+y
+0
+
+
+0
+
+•	Grafica.
+•	Encuentra el valor de cada lápiz en la gráfica si se paga en total $9.
+
+•	Escribe el nombre de la propiedad que se aplica en cada paso, para llegar a la solución de la ecuación.
+
+2x + 3 = 9
+
+•	2x + 3 - 3 = 9 – 3
+•	2x + 0 = 9 – 3
+•	2x = 9 – 3
+•	 [ecuación] (2x) =  [ecuación] (9 - 3)
+•	2x = 9 – 3
+•	1x =  [ecuación] (9 - 3)
+
+•	Encuentra el valor de la incógnita de las siguientes ecuaciones:
+
+•	m + 3,5 = 17
+•	3,2x = 22,4
+•	V =  [ecuación] 
+•	5x + 3,8 = 18,8
+•	5(3x + 1,5x + 2) = 100
+•	 [ecuación]  +  [ecuación]  = 1,75
+•	 [ecuación]  =  [ecuación] 
+•	 [ecuación]  =  [ecuación] 
+
+•	Resuelve los siguientes problemas:
+•	Si un boleto para entrar a un teatro cuesta el doble que uno para un cine y por los dos pago 510, ¿cuánto cuesta cada boleto?
+•	Luis gasta la mitad de su sueldo en alimentos, la cuarta parte en renta y una octava parte en
+transportes y diversión, y ahorra los $7,500 que le quedan, ¿cuánto gana al mes Luis?
+
+
+TEMA 3: PROPORCIONALIDAD
+
+CONEXIÓN CON LA HISTORIA
+
+La palabra ecuación viene del latín aecuatio que significa igualdad. Los primeros vestigios que existen de las ecuaciones se remontan a cerca del año 2000 antes de Cristo. Los griegos enfrentaban la solución de ecuaciones en términos geométricos a partir de la regla y el compás, pero fueron Herón de Alejandría y dos siglos después Diofanto de Alejandría (siglo III), quienes afrontaron el problema en una forma algebraica; a este último matemático se le debe el empleo de un símbolo para representar la incógnita (os, final de la palabra arithmos).
+En el siglo XVI, los matemáticos italianos Tartaglia, del Ferro y Ferrari encontraron las soluciones a las ecuaciones de tercero y cuarto grados, las cuales fueron publicadas en la obra de Gerónimo Cardano Ars magna arithmeticae.
+
+Requisitos:
+
+En la Antología griega compilada por el historiador Metrodoro se afirma que en la tumba de Diofanto había un epitafio que decía: "Esta es la tumba que guarda las cenizas de Diofanto. Es verdaderamente maravillosa porque, gracias a un artificio aritmético, descubrirás toda su existencia. Dios le permitió ser niño durante  [ecuación]  de su vida; luego de  [ecuación]  sus mejillas se cubrieron de barba; después de  [ecuación]  se encendió la llama del matrimonio, del que a los 5 años tuvo un hijo; pero este niño desgraciado, aunque amado apasionadamente, murió apenas llegado a la mitad de la vida alcanzada por su padre, el cual vivió 4 años más mitigando su dolor con investigaciones sobre la ciencia de los números".
+
+Llama X a la edad de Diofanto y plantea la ecuación de primer grado que traduce algebraicamente el epitafio.
+•	¿A qué edad murió Diofanto?
+•	¿A qué edad se casó?
+•	¿A qué edad murió su hijo?
+
+
+•	RAZÓN
+
+
+Ejemplos
+
+•	Consideremos la siguiente situación: en una frutería por cada 12 naranjas se obtienen 3 vasos de jugo. Comparemos el número de naranjas utilizadas para producir los vasos de jugo por medio de un cociente indicado:  [ecuación] 
+
+Solución:
+
+Este tipo de comparación recibe el nombre de razón; así, tenemos la razón entre el número de naranjas exprimidas y el número de vasos de jugo obtenidos. Cuando se simplifica la razón  [ecuación]  se obtiene la razón  [ecuación] , lo que indica que por cada cuatro naranjas se obtiene un vaso de jugo.
+
+Una razón es el cociente indicado entre dos cantidades:
+
+ [ecuación] 
+
+•	Apliquemos el operador (x 3) al número 8 y luego a este producto apliquémosle e operador( [ecuación] 4):
+
+ [ecuación] 
+
+Esta cadena de operadores usualmente se escribe como el operador  [ecuación] , como lo muestra el siguiente diagrama:
+
+Imagen 47: Operador 3/4 aplicado a 8.
+
+Descripción Imagen: Dibujo del número 8 del cual se desprenden dos flechas: una hacia arriba y una hacia abajo, sobre la que se dirige hacia arriba está escrito por (x) 3 y sobre la que se dirige hacia abajo está escrito x 3 cuartos la flecha que apunta hacia arriba lo hace al número 24 y la que apunta hacia abajo apunta a 6, entre el 24 y el 6 hay una flecha, la cual tiene escrito dividido 4. 
+
+Cuando se aplica un operador (x a) a un número A y luego a este producto se le aplica un operador ( [ecuación]  b) esto se simboliza mediante el operador  [ecuación] .
+
+La razón  [ecuación]  puede identificarse con el operador  [ecuación] . Hablaremos, entonces, de aplicar la razón  [ecuación]  a un número.
+
+Si a, b y d son números positivos, la razón  [ecuación]  (donde a > b) amplía el valor de la cantidad d a la cual se aplica, y la razón  [ecuación]  (donde b > a) reduce el valor de la cantidad d.
+
+•	¿Cuáles de las siguientes razones actúan como ampliadoras y cuáles como reductores?
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación]  
+•	 [ecuación] 
+
+Solución:
+
+•	Reductoras:  [ecuación]  y  [ecuación] 
+Ampliadoras:  [ecuación] ,  [ecuación] ,  [ecuación]  y  [ecuación] 
+
+Practica lo aprendido
+
+
+•	Halla el cociente de las siguientes razones:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Aplica las siguientes razones a 18:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	Si el perímetro de un cuadrado es igual a 4L , donde L es la medida del lado del cuadrado:
+•	¿Cuál es la razón entre el lado y el perímetro?
+•	¿Cuál es la razón entre el lado y el nuevo perímetro si cada lado se multiplica por dos?
+•	Haz lo mismo con otro número y saca una conclusión de la razón entre el
+lado y el perímetro.
+•	Halla la razón entre el lado y el área del cuadrado.
+
+•	Si sabes que el área del círculo menor es 97  [ecuación] , ¿cuál es el área del círculo mayor si la razón entre las áreas del menor al mayor es  [ecuación] ?
+•	Si el área del rectángulo mayor es 60  [ecuación] , ¿cuál es el área del rectángulo menor si la razón del mayor al menor es  [ecuación] ?
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente:
+
+•	Con una calculadora obtendrán el cociente de las siguientes razones y las aplicarán a 20:
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	¿Cuáles de las anteriores razones serán ampliadoras y cuáles serán reductores?
+
+
+•	PROPORCIÓN
+
+
+Ejemplos:
+
+•	Observemos la siguiente tabla y hallemos las razones  [ecuación] .
+
+Tabla 1: Relación Distancia - Tiempo
+Distancia (km)
+Tiempo (h)
+10
+1
+15
+1,5
+20
+2
+25
+2,5
+
+
+Solución:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+Luego:  [ecuación] 
+
+Si observamos el cociente de las razones anteriores notamos que son iguales.
+
+Dos razones iguales forman una proporción.
+
+•	Busquemos parejas de razones iguales y formemos proporciones.
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+Proporciones:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	La razón  [ecuación]  no tuvo una pareja para formar una proporción. 
+
+La proporción  [ecuación]  puede escribirse como:
+4,48: 1,68 = 2,24: 0,84
+
+También como:
+
+4,48: 1,68:: 2,24: 0,84 
+
+Llamemos a 1,68 y 2,24 medios de una proporción y a 4,48 y 0,84 extremos de una proporción. 
+
+•	En la siguiente tabla, ¿las razones cable/precio forman proporciones?
+
+Tabla 2: Cable y Precio
+Cable (m)
+Precio ($)
+4
+200
+6
+300
+8
+400
+
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+ [ecuación]  Son proporciones
+
+
+Practica lo aprendido
+
+
+•	A cada razón (a) búscale una compañera en las razones (b) para formar proporciones:
+
+Grupo A:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+Grupo B:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Verifica en las siguientes tablas si las razones forman proporciones:
+
+Tabla 3: Precio - Cantidad
+Precio ($)
+Cantidad
+700
+1
+2800
+4
+4900
+7
+6300
+9
+
+Tabla 4: Docenas - Unidades
+Docenas 
+Unidades
+2
+24
+5
+60
+7
+84
+10
+120
+
+Tabla 5: X - Y
+x
+Y
+5
+13
+6
+15
+7
+17
+8
+19
+
+Tabla 6: z - h
+z
+h
+1
+14
+3
+34
+5
+54
+7
+74
+8
+84
+
+•	Se formarán grupos de tres estudiantes y resolverán el siguiente problema: Un campesino ha dejado 35 caballos para repartir entre sus tres hijos, a la menor le dejó una tercera parte de los caballos, al mediano, una cuarta parte y al mayor, una sexta parte. Al repartir, al menor le tocarían  [ecuación]  caballos, al mediano, 8 [ecuación]  caballos y al mayor, 5 [ecuación]  caballos, repartición con la cual ninguno estaba satisfecho.
+
+Pero estando en éstas llegó don Bribón, que los vio en semejante disgusto, les regaló un caballo y les repartió los ahora 36 caballos, así: 12 para la menor, 9 para el mediano y 6 para el mayor, y quedaron todos muy satisfechos.
+
+•	¿Es generoso don Bribón?
+•	¿Perdió su caballito don Bribón?
+
+•	PROPIEDADES DE LA PROPORCIÓN
+
+
+Ejemplo:
+
+•	Comprobemos que  [ecuación]  y  [ecuación]  son razones iguales.
+
+Solución:
+
+ [ecuación] 
+
+Luego forman |a proporción  [ecuación] . 
+
+Ahora realicemos el producto de medios y el producto de extremos. Comparémoslos: 
+
+•	5 x 6,3 = 31,5 
+
+5: 7:: 4,5: 6.3
+7x4,5 = 31,5
+
+En toda proporción, el producto de extremos es igual al producto de medios.
+
+•	¿Las razones  [ecuación]  y  [ecuación]  forman la proporción  [ecuación] ?
+
+Solución:
+
+Construyamos una razón con antecedentes 3 + 4 y consecuente 12 + 16.
+
+ [ecuación] 
+
+Observemos que la razón  [ecuación]  forma proporciones con  [ecuación]  y con  [ecuación] 
+•	 [ecuación] 
+
+3 x 28 = 84
+12 x 7=84
+
+•	 [ecuación] 
+
+4 x 28 = 112
+16 x 7 = 112
+
+Si  [ecuación] , entonces  [ecuación]  y  [ecuación] 
+
+•	Encontremos el término que falta en la siguiente proporción:
+
+Solución:
+
+ [ecuación] 
+
+Sabemos que 3 x 2,2 = 4 x X
+6,6 = 4X
+ [ecuación] 
+1,65 =X
+
+•	Hallemos el valor de X y Y en la siguiente proporción:  [ecuación] , si x + y = 3,075
+Sabemos que:  [ecuación] 
+Tomamos  [ecuación] 
+Entonces X x 4,1= 2 x 3075
+
+Entonces x = 1500 
+
+Por tanto, 1500 + Y = 3075 
+
+Entonces y = 1575
+
+
+Practica lo aprendido
+
+
+•	Halla el término que les falta a las siguientes proporciones:
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Halla el valor de X y y de las siguientes proporciones:
+
+•	 [ecuación]  si x + y = 3,2
+•	 [ecuación]  si x + y = 2,43
+•	 [ecuación]  si x + y = 10664
+•	 [ecuación]  si x + y = 4,65
+
+•	Halla el valor de x y y en las siguientes proporciones:
+
+•	 [ecuación]  (si x + y = 9,45)
+•	 [ecuación]  (si x + y = 61,2)
+
+•	Halla las proporciones en los siguientes casos:
+
+•	Los consecuentes son 4,2 y 1,62 y la suma de los antecedentes es 0,97.
+•	Si el producto de medios es 2,886 y los consecuentes son 3,7 y 1,11.
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente:
+
+•	Cada uno mostrará 3 proporciones y le borrará una de sus partes.
+•	Le dictará las proporciones a sus compañeros y compañeras y éstos hallarán el valor que falta.
+
+
+•	PROPORCIONALIDAD DIRECTA
+
+
+Ejemplos:
+
+•	Hallemos el término que falta en la siguiente tabla:
+
+Tabla 7: X - x al cubo
+x
+X al cubo
+1
+1
+2
+4
+3
+8
+4
+Y
+5
+125
+6
+216
+
+Pero  [ecuación]  =  1;  [ecuación]  = 8;  [ecuación]  = 27
+
+Solución:
+
+Observemos que  [ecuación]  = 1;  [ecuación]  = 0,25;  [ecuación]  =  [ecuación] 
+
+Entonces,  [ecuación]  = 64 = Y
+
+Las razones no forman proporciones, pero a medida que el antecedente aumenta su correspondiente consecuente también aumenta; llamaremos a estas razones de correlación directa.
+
+•	Hallemos el término que falta en la siguiente tabla:
+
+Tabla 8: x - y
+x
+y
+1
+1,5
+2
+3
+3
+4,5
+4
+y
+5
+7,5
+6
+9
+
+Solución:
+
+Observemos  [ecuación] ;  [ecuación] ;  [ecuación] 
+
+ [ecuación]  
+
+Entonces  [ecuación] 
+De donde y=6.
+
+Las razones son iguales y por tanto forman proporciones. Además, a medida que el antecedente aumenta, su correspondiente consecuente también aumenta; llamaremos a estas razones de proporcionalidad directa.
+
+Grafiquemos los valores de las dos tablas de arriba.
+
+Imagen 48: Gráfica de x al cubo.
+
+Descripción Imagen: Segmento curvo en el plano cartesiano que une el valor de x y su potencia cúbica.
+
+Imagen 49: Gráfica de 1/2x
+
+Descripción Imagen: Gráfico de línea recta en el plano cartesiano que une los puntos x con su valor multiplicado por 1,5.
+
+La representación gráfica de razones de proporcionalidad directa es una línea recta que pasa por el origen y las parejas de valores (antecedente, consecuente) se encuentran sobre la recta.
+
+
+Practica lo aprendido
+
+
+•	Identifica si los términos de la siguiente tabla son de correlación directa o de proporcionalidad directa y halla los términos que faltan:
+
+Tabla 9: Relación x - x al cuadrado
+x
+X al cuadrado
+2
+4
+5
+25
+6
+36
+7
+49
+8
+64
+9
+81
+
+Tabla 10: Relación x - y
+x
+Y
+1
+9
+2
+18
+3
+27
+5
+45
+8
+72
+10
+90
+
+Tabla 11: Relación v- t
+v
+T
+20
+1
+40
+2
+60
+3
+80
+4
+100
+6
+160
+8
+
+Tabla 12: Relación x - y
+x
+Y
+2
+5
+3
+7
+5
+11
+9
+19
+10
+21
+12
+25
+
+•	Haz la gráfica de las siguientes tablas e identifica si son de correlación directa o de proporcionalidad directa:
+
+Tabla 13: Ejercicio a.
+x
+Y
+1
+2
+2
+4
+3
+6
+4
+8
+5
+10
+6
+12
+7
+14
+8
+16
+9
+18
+10
+20
+11
+22
+
+Tabla 14: Ejercicio b.
+f
+m
+10
+1
+20
+2
+30
+3
+40
+4
+50
+5
+60
+6
+
+Tabla 15: Ejercicio c.
+x
+Y
+1
+1
+2
+16
+3
+81
+4
+256
+5
+525
+6
+1296
+
+Tabla 16: Ejercicio d.
+x
+y
+1
+5
+2
+7
+3
+9
+4
+11
+5
+13
+6
+15
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente: 
+
+•	Hallarán los términos que faltan en las siguientes tablas:
+
+Tabla 17: Faltantes a.
+x
+Y
+1
+3,2
+3
+
+7
+22,4
+8
+
+10
+32
+92
+38,4
+15
+
+
+Tabla 18: Faltantes b.
+x
+y
+2
+4,4
+3
+
+5
+11
+9
+
+10
+
+15
+33
+17
+37,4
+
+
+
+•	PROPORCIONALIDAD INVERSA
+
+
+Ejemplos:
+
+•	Hallemos el término que falta en la siguiente tabla:
+Elaboramos la gráfica
+
+Imagen 50: Proporcionalidad Inversa.
+
+Descripción Imagen: Segmento en el primer cuadrante del plano cartesiano, este segmento es curvo y decreciente.
+
+Entonces,
+
+ [ecuación] 
+
+
+A medida que el antecedente aumenta, el consecuente disminuye; llamaremos a estas razones de correlación inversa.
+
+•	Hallemos el término que falta en la siguiente tabla:
+
+Tabla 19: Relación Velocidad - Tiempo.
+Velocidad (km/h)
+Tiempo (h)
+15
+18
+30
+9
+45
+6
+60
+Z
+75
+3,6
+
+Solución:
+
+60 x z = 270
+
+Z = 270  [ecuación] 60 = 4,5
+
+Observemos que al multiplicar 15x18 = 270 y 30 x 9 = 270 obtenemos una constante; cuando esto sucede, se dice que el antecedente y el consecuente son inversamente proporcionales.
+
+La razón de las velocidades es  [ecuación]  = 2 y la razón de los tiempos es  [ecuación] .
+
+La razón de la velocidad es inversa a la razón del tiempo.
+
+Cuando la medida del antecedente (X) aumenta y el consecuente (y) aumenta, la llamaremos función creciente; cuando el antecedente aumenta y el consecuente disminuye, la llamaremos función decreciente.
+
+
+Practica lo aprendido
+
+•	Identifica cuáles de los siguientes datos de la tabla son de correlación inversa y cuáles son de proporcionalidad inversa; halla los términos que faltan:
+
+Tabla 20: Completar a.
+x
+Y
+1
+6
+2
+
+3
+2
+4
+
+5
+1,2
+6
+
+7
+
+8
+
+9
+
+
+Tabla 21: Completar b.
+x
+Y
+1
+3
+2
+
+3
+0,1
+4
+
+5
+0,024
+6
+
+7
+
+8
+
+9
+
+
+Tabla 22: Completar c.
+x
+Y
+1
+-5
+2
+
+3
+-18
+4
+
+5
+-25
+6
+
+7
+-35
+8
+
+9
+
+
+Tabla 23: Completar d.
+x
+Y
+1
+9
+2
+
+3
+3
+4
+
+5
+1,6
+6
+
+7
+1,28
+8
+
+9
+
+
+•	Haz la gráfica de las siguientes tablas e identifica si son de correlación inversa o de proporcionalidad inversa:
+
+Tabla 24: Identificar a.
+x
+Y
+1
+7
+2
+3,5
+3
+2,3333
+4
+1,75
+5
+1,4
+6
+1,166666
+7
+1
+8
+0,875
+
+Tabla 25: Identificar b.
+x
+Y
+1
+9
+2
+4,5
+3
+3
+4
+2,25
+5
+1,8
+6
+1,5
+7
+1,282828
+8
+1,125
+
+Tabla 26: Identificar c.
+x
+Y
+1
+-18
+2
+-9
+3
+-6
+4
+-2
+5
+-3,6
+6
+-3
+7
+-2,57
+8
+-2.25
+
+Tabla 27: Identificar d.
+x
+Y
+1
+7
+2
+1,75
+3
+0,7
+4
+0,4
+5
+0,28
+6
+0,19
+7
+0,14
+8
+0,1
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente:
+•	Hallarán los términos que faltan en las siguientes tablas:
+
+Tabla 28: Términos faltantes a.
+x
+Y
+2
+1
+4
+0,5
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+
+Tabla 29: Términos faltantes b.
+x
+Y
+1
+5
+3
+1,6
+5
+1
+7
+
+9
+
+11
+
+13
+
+15
+
+
+
+
+
+•	REGLA DE TRES
+
+
+Ejemplos:
+
+•	Bernardo compra 4 naranjas por $300. ¿Cuál es el valor total de 15 naranjas?
+
+Solución:
+
+Si compramos más naranjas, el valor total aumenta; es una proporción directa porque el valor total de las naranjas está ligado a la cantidad de naranjas.
+
+Llamemos X al precio de las 15 naranjas:
+
+ [ecuación] 
+
+Tabla 30: Relación Naranja Precio
+Naranjas 
+Precio
+4
+300
+15
+X
+
+Por la propiedad fundamental de las proporciones: 4X = 300 x 15
+
+Donde	X =  [ecuación] = 1125
+
+El precio de las 15 naranjas es $1125.
+
+Otra solución del problema anterior es:
+
+Sabemos que a mayor cantidad de naranjas hay mayor precio; por tanto, debemos aplicar un operador ampliador a $300. El operador es:
+
+ [ecuación] 
+
+Si lo aplicamos a 300 tenemos:
+
+ [ecuación] 
+
+Que es la misma respuesta anterior.
+
+•	Una máquina produce 420 bombillos en un mes (30 días). ¿Cuántos bombillos produce en 10 días?
+
+Solución:
+
+En menos días, menos bombillos; es directa y el operador debe ser reductor.
+
+•	Primer método
+
+Tabla 31: Relación Bombillos - Días
+Bombillo
+Día
+420
+30
+X
+10
+
+
+420 x 10 = 30x X 
+4200 = 30X
+ [ecuación] 
+140 = x
+
+•	Segundo método
+
+Buscamos un operador reductor, que es  [ecuación]  y lo aplicamos a 420
+
+ [ecuación] 
+
+La máquina produce 140 bombillos en 10 días.
+
+
+Practica lo aprendido
+
+•	Soluciona los siguientes problemas:
+
+•	Sabemos que 1 docena son 12 unidades. ¿Cuántas unidades son 7 docenas?
+•	Un metro son 10 decímetros. ¿Cuántos decímetros son 40 metros?
+•	Cuatro vasos de jugo de pina valen $1 700. ¿Cuánto valen 9 vasos?
+•	5,6 metros cuadrados de tela alcanzan para dos vestidos. ¿Cuántos metros se necesitan para 16 vestidos?
+
+•	Soluciona los siguientes problemas:
+
+•	Sabemos que una hora tiene 60 minutos y un minuto, 60 segundos. ¿Cuántos segundos tiene una hora?
+•	Un día tiene 24 horas y un mes, treinta días. ¿Cuántas horas tiene un mes?
+•	Cada camión carga 60 canastas. Si cada canasta tiene 32 botellas, ¿cuántas botellas carga el camión?
+•	Un viajero demora 7 200 minutos en llegar a su destino.  ¿Cuántos días tarda en llegar a su destino?
+
+•	Soluciona los siguientes problemas:
+
+•	Un árbol crece 0,25 m al mes. ¿Cuánto crece el árbol en un año?
+•	Si por un dólar se dan $1100 y por una peseta $9. ¿Cuántas pesetas damos por un dólar?
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente: Inventarán tres problemas con los siguientes datos:
+
+Tabla 32: Relación Peso - Persona.
+Peso (kg)
+Persona 
+125
+2
+X
+18
+
+Tabla 33: Relación Días - Recorrido
+Días   
+Recorrido (m)
+4
+220
+X
+990
+
+Tabla 34: Relación Precio - Cantidad.
+Precio
+Cantidad
+950 
+12
+x
+325
+
+
+•	Intercambiarán los problemas con otros compañeros.
+
+
+
+•	REGLA DE TRES INVERSA
+
+
+Ejemplos:
+
+•	Cuatro obreros pintan una casa en ó días. Si se contratan 4 obreros más, ¿en cuántos días pintarán la misma casa?
+
+Solución:
+
+Tabla 35: Relación Obreros - Días
+Obreros
+Días
+4
+6
+4 + 4
+X
+
+
+Más obreros pintando la casa emplearán menos días; por tanto, es una proporción inversa y el operador debe ser reductor.
+
+•	Primer método:
+
+Invertimos la razón de obreros:
+
+ [ecuación] 
+
+Por la propiedad fundamental: 
+
+8X= (4 x 6)
+
+8X = 24
+
+X=  [ecuación] 
+X = 3
+
+•	Segundo método:
+
+Buscamos el operador reductor:
+
+ [ecuación]  Y lo aplicamos a 6:
+
+Los 8 obreros pintarán la casa en 3 días
+
+Una regla de tres es directa cuando la proporción es directa.
+Una regla de tres es inversa cuando la proporción es inversa.
+
+•	Un automóvil a una velocidad de 60 km/h emplea 6 horas en hacer un recorrido Si el automóvil viajara a una velocidad de 40 km/h, ¿cuántas horas emplearía?
+
+Solución:
+
+Tabla 36: Relación Km/h y horas.
+Km/h
+Horas
+60
+6
+40
+X
+
+A menor velocidad, más horas demora en hacer el recorrido; por tanto, es une regla de tres inversa.
+
+Por ser inversa invertimos la razón de km/h:
+
+ [ecuación] 
+
+Por la propiedad fundamental:
+
+40X = 6 x 60
+
+ [ecuación] 
+
+Buscamos un operador que amplíe las horas. El operador es:
+
+ [ecuación]  Y lo aplicamos a 6:
+
+ [ecuación] 
+
+Necesita 9 horas para hacer el recorrido.
+
+
+Practica lo aprendido
+
+
+•	Camila tarda 4 horas en hacer su recorrido a una velocidad de 60 km/h. Si Camila disminuye la velocidad a 40 km/h, ¿cuánto tiempo tardará en hacer el mismo recorrido?
+
+•	Se necesitan dos llaves abiertas para llenar una piscina en tres horas. Si se quiere llenar la piscina en 1 hora, ¿cuántas llaves de igual capacidad a las anteriores se necesitarán?
+
+•	Tres obreras construyen una casa en 12 días. Si la misma casa la construyen 5 obreras, ¿cuántos días emplearán? 
+
+•	Si 25 pintores pintan una casa en 3 días, ¿cuántos pintores más serán necesarios para pintar la casa en un día?
+
+•	Con una velocidad de 40 km/h, un automóvil se demora 12 horas en hacer su recorrido. Si aumenta la velocidad en 20 km/h, ¿cuánto demorará en hacer el mismo recorrido?
+
+•	Cuatro obreros abren una zanja de 8 metros de largo y 4 metros de ancho en 5 días. ¿Cuántos obreros abrirán la misma zanja en 2 días?
+
+•	Construye un problema de regla de tres inversa con los siguientes datos:
+
+Tabla 37: Relación Hombres - Días.
+Hombres
+Días
+8 
+5
+12
+X
+
+•	Se formarán grupos de tres estudiantes y comentarán las respuestas que han obtenido.
+
+•	En una granja hay pasto para alimentar 20 vacas durante 30 días. ¿Cuántas vacas deben venderse para que el pasto de la granja sea suficiente para alimentar las restantes vacas durante 60 días?
+•	En una granja hay pasto para alimentar 80 vacas durante 50 días. ¿Cuántas vacas deben comprarse para que el pasto de la granja sea suficiente para alimentar todas las vacas durante 30 días?
+
+
+•	REGLA DE TRES COMPUESTA
+
+
+Ejemplos:
+
+•	Miriam compró 8 cuadernos de 50 hojas por $4 000. ¿Cuánto valen 10 cuadernos de 100 hojas?
+
+Ordenemos los datos:
+
+Tabla 38: Valores Cuadernos.
+Cuadernos
+Hojas
+Valor
+8
+50
+4000
+10
+100
+X
+
+•	Más cuadernos valen más
+•	Más hojas valen más
+
+Los operadores deben aumentar el valor: 
+
+ [ecuación]  Y  [ecuación] 
+
+Los aplicamos sucesivamente a 4000:
+
+ [ecuación] 
+
+Los cuadernos valen $10000
+
+Una regla de tres es compuesta cuando intervienen tres o más razones proporcionales dos a dos.
+
+•	12 obreros abren una zanja de 90 m trabajando durante 5 días. ¿Cuántos días tendrán que trabajar 10 obreros si quieren abrir una zanja de 30 m?
+
+Solución:
+
+Tabla 39: Obreros y trabajo.
+Obreros
+Metros
+Días
+12
+90
+5
+10
+30
+X
+
+•	Menos obreros demoran más días
+•	Menos metros por abrir requieren menos días
+
+El operador de obreros debe ampliar el valor y el operador de metros debe reducir el valor y aplicamos los operadores sucesivamente a 5.
+
+ [ecuación] 
+
+Se necesitan 2 días para abrir la zanja.
+
+
+
+Practica lo aprendido
+
+
+•	Tres secretarios escriben 10 cartas en 3 horas. ¿Cuántas cartas escribirán 9 secretarias en 6 horas?
+
+•	Doce obreros abren una zanja de 70 metros en 4 días. ¿En cuántos días abrirán una zanja de 50 metros 10 obreros?
+
+•	Ocho máquinas empacan 400 bolsas de leche en 12 horas. ¿Cuántas máquinas serán necesarias para empacar 1000 bolsas en 8 horas?
+
+•	Diez torneros fabrican 20 piezas en 4 horas. Con 12 torneros más, ¿cuántas piezas se fabricarán en 4 horas más?
+
+•	En una imprenta 4 personas encuadernan 740 libros en 8 horas. Si la empresa contrata 2 personas más, ¿cuántos libros encuadernarán en 2 horas menos?
+
+•	En una fábrica de muebles 4 personas construyen 3 comedores en 2 días. Si la fábrica desea construir 9 comedores en tres días, ¿cuántas personas más debe contratar?
+
+•	Cuatro perros se comen 4 pedazos de carne en 4 horas. ¿En cuántas horas 100 perros se comerán 100 pedazos de carne?
+
+•	Seis ratones se comen 6 quesos en 2 días. ¿En cuántos días 18 ratones se comerán 18 quesos?
+
+•	Se formarán grupos de dos estudiantes y realizarán lo siguiente:
+
+•	Analizarán la solución de los problemas de la página para ver si la respuesta es correcta.
+
+•	
+
+•	REPARTO PROPORCIONAL DIRECTO
+
+
+Ejemplos:
+
+•	Un padre quiere repartir $560 000 entre sus tres hijos, de modo que las partes sean directamente  proporcionales a sus edades. Si sus hijos tienen 4, 6 y 10 años, respectivamente, ¿cuánto le corresponde a cada hijo?
+
+Solución:
+
+Como el dinero debe ser repartido en partes proporcionales, llamaremos:
+
+•	X al dinero que le corresponde al hijo de 4 años
+•	Y al dinero que le corresponde al hijo de 6 años
+•	Z al dinero que le corresponde al hijo de 10 años
+
+Las proporciones directas serán:
+
+ [ecuación] 
+
+Sabemos que X + Y + Z = 560000
+
+Por propiedades de proporcionalidad directa podemos afirmar que:
+
+ [ecuación] 
+
+Tomamos  [ecuación] 
+
+Por la propiedad fundamental:
+
+20 x X = (4) 560000 
+
+20 X = 2240000
+
+X =  [ecuación]  = 112000
+
+X = 112000
+
+Tomamos  [ecuación] 
+Por la propiedad fundamental: 20X = (6) 560000
+
+Solucionamos: Y= 168000
+
+De la misma manera podemos hallar Z o, también, sumando: X + Y = 380000 y lo restamos a 560000: Z = 180000
+
+Al hijo mayor le corresponden $180000, al mediano, $168000 y al menor, $112000
+
+Si deseamos repartir una cantidad M directamente proporcional a a, b y c, donde X, Y y Z es lo que recibirán respectivamente, entonces:
+
+ [ecuación] , donde X + Y + Z = M 
+
+Por propiedades de proporcionalidad tenemos:
+
+ [ecuación] 
+
+
+
+Practica lo aprendido
+
+
+•	Tres socios invierten así: el primero, $300000, el segundo, $100000 y el tercero, $300000. Si el primer año ganaron $ 4000000, ¿cuánto le corresponde a cada uno?
+
+•	Se desea repartir $20000000 del premio mayor de la lotería. De 16 pedazos, una persona tenía 4 pedazos, otra, 7 pedazos y otra, 5 pedazos del billete ganador. ¿Cuánto recibe cada persona?
+
+•	Tres caficultores alquilan una trilladora por un valor de $3000000. Si el primero la utiliza durante 3 días, el segundo, durante 4 días y el tercero, durante 8 días, ¿cuánto debe pagar cada caficultor?
+
+•	Tres personas montan un negocio. El primero aporta $200000, el segundo, $100000 y el tercero, $300000. Si en el primer mes pierden $48000, ¿cuánto debe aportar cada uno para cubrir la deuda?
+
+•	Tres mecánicos montan un taller y aportan así: el primero, $500000, el segundo, $800000 y el tercero, $700000. Al cabo de dos años venden el taller por cuatro veces lo que les costó. ¿Cuánto dinero le corresponde a cada uno?
+
+•	Tres socios exportan $20000000 en artesanías colombianas. El primero invirtió ó millones, el segundo, el doble de lo del primero y el tercero, el resto. Al mes venden las artesanías y ganan $10000000. ¿Cuánto debe recibir cada uno?
+
+•	Se desea repartir una cantidad M en partes directamente proporcionales a los números a, b y c ¿Cuánto le corresponde a cada uno?
+
+Ayuda: llama X, Y y Z lo que van a recibir; entonces, ¿a qué es igual X+Y + Z?
+
+•	Se formarán grupos de dos estudiantes y realizarán lo siguiente:
+•	Inventarán dos problemas de reparto proporcional,
+•	Intercambiarán los problemas con otro grupo y los solucionarán.
+
+
+
+•	REPARTO PROPORCIONAL INVERSO
+
+
+En una competencia de obstáculos se van a repartir $900000 entre tres competidores, de modo que los premios sean inversamente proporcionales a las faltas cometidas. Si el primero cometió 12 faltas, la segunda, 10 y el tercero, 15, 
+
+•	¿cuánto recibe cada competidor?
+
+Llamemos: 
+
+•	X al dinero que corresponde al primero
+•	Y al dinero que corresponde a la segunda
+•	z al dinero que corresponde al tercero
+
+Como es inversamente proporcional a las faltas, tenemos que: 
+
+1º,  2º, 3º, competidor
+
+Inverso:  [ecuación]  
+Sabemos que X + Y + Z = 900000
+
+Por propiedades de la proporcionalidad directa tenemos:
+
+ [ecuación] 
+
+= 900000 x  [ecuación]  = 3600000
+Tomemos: 
+
+•	 [ecuación]  3600000
+X = 3600000  [ecuación] 
+X = $300000
+
+•	 [ecuación]  = 3600000
+Y = 3600000  [ecuación] 
+Y = $360000
+
+z = 900000 - (300000 + 360000) 
+x = $240000
+
+Deseamos repartir una cantidad M inversamente proporcional a a, b y c, donde X, Y, y Z es lo que reciben respectivamente.
+
+ [ecuación] ; donde x + y + z = M
+
+
+Por propiedades de la proporcionalidad tenemos:
+
+ [ecuación] 
+
+
+Practica lo aprendido
+
+
+•	Un padre ha dejado una herencia de $5 000 000 para repartir a sus hijos de manera inversamente proporcional a sus edades: 10, 12/18 años, respectivamente.
+
+•	¿Cuánto le corresponde a cada uno?
+•	Si hubiera dejado $3000000, ¿cuánto le correspondería a cada hijo?
+•	Si hubiera dejado $12000000, ¿cuánto le correspondería a cada hijo?
+
+•	En una carrera atlética se repartieron $4 400 000 para los tres primeros participantes en llegar a la meta.
+
+•	¿Cuánto debe recibir cada atleta si el premio es inversamente proporcional al puesto de llegada?
+•	Si los premios se repartieran entre los 4 primeros en llegar de manera inversamente proporcional al puesto de llegada, ¿cuánto recibirá cada atleta?
+
+•	Deseamos repartir una cantidad H de manera inversamente proporcional a a, b, c y d.
+
+•	¿Cuánto le corresponde a cada uno? Ayuda: llamemos x, y, z y w lo que recibe cada uno.
+•	Si la cantidad por repartir es P, ¿cuánto recibe cada uno?
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente:
+
+•	Pensarán en una cantidad de dinero.
+•	Repartirán la cantidad de dinero que pensaron de modo inversamente proporcional a la edad.
+•	Harán lo mismo con otras cantidades.
+•	¿A quién le tocará más: al mayor o al menor?
+
+•	PORCENTAJE
+
+
+Ejemplos:
+
+•	100 metros de cable para la luz tienen un precio de $12500 más IVA (16%). ¿Cuánto cuesta en total el cable para la luz?
+
+Solución:
+
+Para calcular el 16% de una cantidad puede emplearse el operador  [ecuación] .
+
+Si deseamos hallar el 16% de $12500, efectuamos:
+
+12500 [ecuación] 200000 [ecuación] 2000
+
+El precio del impuesto es $2000 y el precio del cable es $12500; por tanto, el precio total que debe pagarse es:
+
+$12500 + $2000 = $14500.
+
+Debemos pagar el artículo más el 16%. Por tanto;
+
+ [ecuación] 
+
+Si aplicamos este operador a 12500 tenemos:
+
+ [ecuación] 
+
+ [ecuación] 
+
+Cuando hay un recargo sobre el precio de un artículo, hay que pagar el 100% del precio indicado más el a% de recargo.
+
+ [ecuación] 
+
+•	Cecilia fue al almacén a comprar un vestido que valía $82000. El almacén ofrecía 10% de descuento. ¿Cuánto pagó Cecilia?
+
+ [ecuación] 
+
+El precio es $82000, el descuento, $8200. El total que debe pagarse es:
+
+$82000 - $8200 = $73800
+
+Debemos pagar el artículo menos el 10%. Por tanto,
+
+ [ecuación] 
+
+Si aplicamos este operador a 82000 tenemos:
+
+ [ecuación] 
+
+Cuando existe un descuento sobre el precio de un artículo hay que pagar el 100% del precio del artículo menos el a% de descuento.
+
+ [ecuación] 
+
+
+Practica lo aprendido
+
+
+•	Los siguientes artículos tienen el precio sin IVA; calcula el valor total de cada uno con el IVA:
+
+Tabla 40: Valores de productos sin IVA.
+Articulo
+Valor sin IVA
+Nevera
+$980000
+Estufa
+$520000
+Televisor
+$356000
+Computador
+$990000
+
+•	A los siguientes artículos se les va a descontar el 12%. Calcula el precio neto que debe pagarse por cada uno:
+
+Tabla 41: Valor del artículo sin descuento.
+Artículo
+Valor sin descuento
+Pantalón
+$23000
+Camisa
+$17000
+Falda
+$20000
+Zapatos
+$25000
+
+•	Dos partidos políticos, A y B, obtuvieron los siguientes porcentajes de votación del total. Contesta cuáles de las siguientes afirmaciones son correctas:
+
+Tabla 42: Porcentaje de votación por partido en cada año.
+Partido – Año
+1990
+1994
+A
+5%
+10%
+B
+20%
+30%
+
+•	El partido político A aumentó en el 100% el número de sus
+votantes.
+•	B tuvo un aumento superior
+en votantes que A.
+
+•	A los siguientes artículos se les modificó el precio, así:
+
+Tabla 43: Relación de precios con artículo.
+Artículo
+Precio Nuevo
+Precio Anterior
+Porcelana
+8500
+8000
+Lápiz
+550
+500
+Cuaderno
+1300
+1200
+Borrador
+350
+400
+
+•	¿Qué porcentaje se aumentó o se disminuyó a cada artículo?
+
+•	Se formarán grupos de tres estudiantes y realizarán lo siguiente:
+
+•	Hallarán el 15% de las siguientes cantidades: 800, 940, 650, 725.
+•	Aumentarán el 12% y luego disminuirán el 20% a las anteriores cantidades.
+
+
+•	INTERÉS
+
+
+Ejemplos:
+
+•	Juan le prestó a Camila $90000 con un interés del 5% mensual durante un mes. ¿Cuánto debe pagar Camila en intereses?
+
+Solución:
+
+Calcula el 5% de 90000
+
+ [ecuación] 
+
+Camila debe pagar $4500 de intereses.
+
+•	Si el préstamo fuera por cuatro meses con el mismo porcentaje mensual, ¿cuánto deberá pagar de intereses?
+
+Solución:
+
+Sabemos que por un mes son 4500; por 4 meses serán: 4500 x 4 = 18000
+
+Camila deberá pagar $18000 de intereses, y en total deberá pagar $108000.
+
+Interés es la ganancia producida por una cantidad de dinero prestado o invertido a un porcentaje en un tiempo determinado.
+
+•	Andrés pidió un préstamo de $8500000 con un interés del 4% mensual durante 2 años. ¿Cuánto debe pagar Andrés en intereses?
+
+Solución:
+
+Calcula el interés del 4% de 8500000 por 1 mes y por 24 meses (2 años).
+
+ [ecuación]  (por un mes)
+
+ [ecuación]  (por 24 meses)
+
+El interés que Andrés debe pagar por 2 años es: $8160000
+
+El total que debe pagar es: $8500000 + $8160000 = $16660000
+
+El total de capital más intereses que se debe pagar se denomina monto.
+
+•	Patricia tiene en el banco $300000; si el banco paga 2% mensual, ¿cuánto dinero tendrá en la cuenta Patricia en 3 meses si no saca el dinero del banco?
+
+Solución:
+
+Calcula primero el interés que paga el banco el primer mes:
+
+ [ecuación] 
+
+El monto del primer mes es: 300000 + 6000 = $306000
+
+El segundo mes es: 
+
+ [ecuación] 
+
+El tercer mes es:
+
+ [ecuación] 
+
+El monto del tercer mes es: 312120 + 6242,40 = $318362,40
+
+En tres meses Patricia tendrá $318362,40.
+
+Practica lo aprendido
+
+
+•	Rodrigo prestó $900000 al 6% mensual durante 4 meses. ¿Cuánto recibirá Rodrigo de intereses y cuánto en total?
+
+•	María pidió prestados $850000 al 4% mensual durante 6 meses. ¿Cuánto pagará María de intereses y cuánto en total?
+
+•	Pedro tiene en el banco $370000 y le pagan el 3% mensual. ¿Cuánto recibirá de intereses por 2 meses?
+
+•	Teresa tiene en el banco $250000 y le pagan el 7% cada 3 meses. ¿Cuánto le darán de intereses por 6 meses?
+
+•	Se han prestado $40000 al 4% mensual y se recibirán $8000 de intereses. ¿Por cuánto tiempo se prestó el dinero?
+
+•	Se pagaron $2400 de intereses por un dinero al 2% mensual durante 6
+meses. ¿Cuál fue el dinero prestado?
+
+•	Se pagaron $5600 de intereses por $70000 que prestaron durante 4 meses. ¿A qué porcentaje mensual se hizo el préstamo?
+
+•	¿Por cuánto tiempo deben prestarse $700 000 al 2% mensual para que el capital sea el doble?
+
+•	¿Con qué porcentaje mensual deben prestarse $800 000 durante 4 años para recibir $2 000 000 de intereses?
+
+•	Se formarán grupos de dos estudiantes y resolverán el siguiente problema:
+
+Sí prestan: 
+•	$90000
+•	$80000
+•	$750000 
+
+Al 5% mensual durante 3 años, ¿Cuáles serán el interés y el monto?
+
+
+
+SOLUCIÓN DE PROBLEMAS
+
+•	Si al doble de la edad de Mario le sumamos el triple de su edad, esta suma será igual a la edad de Mario más 40 años. ¿Cuál es la edad de Mario?
+
+•	El doble de la edad de Mario es:
+•	El triple de la edad de Mario es:
+•	Si sumamos el doble más el triple de la edad de Mario obtenemos:
+•	La edad de Mario más 40 años es:
+•	La ecuación que resulta de igualar c y d es:
+•	La edad de Mario es:
+
+•	Mauricio le preguntó a Nora: ¿"Cuál es la edad de tu hermana"? Nora le respondió: "La edad de mi hermana más 3 años es el doble de su edad menos siete años". ¿Qué edad tiene la hermana de Nora?
+
+•	Una agencia de viajes ofrece regalar un pasaje por cada 8 personas que viajen. Desean viajar 45 personas y cada pasaje vale $350000. ¿Cuánto debe pagar cada uno?
+
+•	Resolver los siguientes problemas:
+
+•	El sueldo de 'Sebastián es $325 000. Si le aumentan el 18%, ¿cuál es el nuevo sueldo?
+•	Si a Sebastián le aumentaran el 17% por los 6 primeros meses del año y luego el 19% durante los otros 6 meses, ¿recibirá lo mismo durante el año que si le aumentaran el 18% al iniciar el año?
+
+•	Un padre desea repartir $360 000 entre sus tres hijas en partes directamente proporcionales a sus
+edades: 7,11 y 12 años, respectivamente. ¿Cuánto le corresponde a cada una?
+
+•	Javier tiene en su cuenta $400 000. Si el banco paga 2% mensual sobre saldos, ¿cuánto dinero tendrá en la cuenta al final de 6 meses?
+
+•	Para hacer una torta para 8 personas necesitamos:
+
+•	4 huevos
+•	½  litro de leche
+•	¼  libra de mantequilla
+
+Si deseamos hacer otra torta para 12 personas:
+
+•	¿Cuál sería la cantidad de ingredientes?
+•	¿Cuál sería la cantidad de ingredientes para una torta para 20 personas?
+•	Haz una tabla con los ingredientes para 12, 15, 17, 20 y 22 personas, respectivamente.
+
+•	Patricia desea hacer un viaje por Europa y encontró en el periódico las siguientes cotizaciones de
+las monedas:
+
+Tabla 44: Relación del valor de otras monedas con pesos
+Moneda
+Pesos
+Peseta 
+12,20
+Dólar
+1 002
+Marco alemán 
+695
+Franco francés 
+202
+Lira italiana 
+0,64
+Libra esterlina
+1 547
+
+Di cuántos pesos debe dar por:
+
+•	40 pesetas
+•	75 francos
+•	50 dólares
+•	40 liras
+•	30 marcos
+•	80 libras esterlinas
+
+•	Si Patricia tiene 740 dólares, ¿cuántas liras le darán?
+
+•	Si tiene 800 francos, ¿cuántas pesetas le darán?
+•	Si tiene 550 marcos, ¿cuántas libras le darán?
+
+•	Para levantar un muro de 80 metros de largo son necesarios 12 días trabajando 4 personas. ¿Cuántas personas son necesarias para levantar otro muro de 120 metros de largo en 8 días?
+
+•	Un automóvil consume 7 litros de gasolina por cada 100 km. Completar la siguiente tabla.
+
+Tabla 45: Relación de gasolina por kilómetros.
+Km
+Gasolina
+100
+
+150
+
+170
+
+190
+
+220
+
+245
+
+
+•	Un arco de circunferencia de 120° mide 5 metros:
+
+•	¿Cuánto mide un arco de 40° de la misma circunferencia?
+•	¿Cuánto mide media circunferencia?
+•	¿Cuánto mide la circunferencia entera?
+
+•	Un taxista cobra $900 por el banderazo y $15 por cada 100 metros.
+
+Completar la tabla.
+
+Tabla 46: Relación Distancia Precio
+Distancia
+Precio ($)
+Banderazo
+
+100 m
+
+150 m
+
+180 m
+
+
+1087,5
+
+1545
+
+
+•	Los tres primeros concursantes de una competencia de automóviles llegaron con los siguientes tiempos: 3 h; 3,5 h; 4 h, respectivamente. Se desea repartir $146000000 inversamente proporcional al tiempo de llegada. ¿Cuánto le corresponde a cada uno?
+
+
+PREPARÉMONOS PARA EL ICFES
+
+
+•	Un obrero gana $40.000 en 5 días; en 20 días ganará:
+
+•	$100.000
+•	$200 000
+•	$80000
+•	$100000
+
+
+•	Al repartir 750 en tres partes directamente proporcionales a los números 3, 4 y 5 obtienes:
+
+•	62,5; 187,5; 250
+•	62,5; 250; 312,5
+•	187,5; 250; 31 2,5
+•	187,5; 250; 1 250
+
+•	El cociente de la razón entre 2 y 5 es:
+
+•	0,4
+•	 [ecuación] 
+•	 [ecuación] 
+•	2,5
+
+•	El valor de X en la proporción  [ecuación]  es:
+
+•	5,81
+•	2,75
+•	3
+•	8,8
+
+•	El valor de X en la ecuación 3X + 6 = 4 es:
+
+•	-2
+•	1
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	El valor de X en la ecuación 2X + 5X + 7 = 3X - 6 es:
+
+•	10
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	El 30% de 40 es:
+
+•	3
+•	4
+•	12
+•	0,75
+
+•	Cuatro obreros construyen un muro en 12 días; 6 obreros lo harán en:
+
+•	45 días
+•	18 días
+•	14 días
+•	8 días
+
+•	Cuatro costureros cosen 30 pantalones en 6 horas; si los costureros fueran 9 y trabajaran solamente 8 horas, los pantalones cosidos serían:
+
+•	90
+•	60
+•	51,6
+•	35,5
+
+•	Una gráfica de proporcionalidad directa es:
+
+•	Lineal negativa
+•	Curva decreciente
+•	Curva creciente
+•	Lineal positiva
+
+•	Si  [ecuación] , x + y = 9,03, x, y son:
+
+•	0,61 y 8,42
+•	6,93 y 2,1
+•	8,42 y 0,61
+•	2,1 y 6,93
+
+•	Una gráfica de proporcionalidad inversa es:
+
+•	Lineal negativa
+•	Curva decreciente
+•	Curva creciente
+•	Lineal positiva
+
+•	La razón entre el perímetro y el área de un cuadrado de lado L es:
+
+•	4L	
+•	L	
+•	 [ecuación] 
+•	 [ecuación] 
+•	Una trabajadora gana $70.000 en siete días y por cada día adicional que trabaje gana $12.000. La trabajadora en 25 días recibe:
+
+•	$286000
+•	$370000
+•	$300000
+•	$754000
+
+•	Nueve obreros cavan una zanja de 80 metros de largo en 4 días. El número de obreros que se necesitan para hacer una zanja 20 metros más larga en un día menos es:
+
+•	15
+•	144
+•	24
+•	6
+
+•	Si al doble de mi edad le sumo 3 años será igual al triple de mi edad menos mi edad más tres. Mi edad es:
+
+•	28
+•	7
+•	14
+•	No puede determinarse.
+
+•	Si al triplo de mi edad le sumo 8 años será igual a mi edad más dos veces 19. Mi edad es:
+
+•	7
+•	6
+•	15
+•	10
+
+•	Si un artículo costaba $44000 y ahora cuesta S37400, el descuento es del:
+
+•	10%
+•	12%
+•	11%
+•	15%
+
+
+

@@ -1,0 +1,238 @@
+% =====================================================================
+% guia-didactica.sty
+% Estilo LaTeX para las Guías Didácticas de Aprendizaje del
+% Colegio San Alberto Magno (Cali).
+%
+% Replica el formato del documento guia-didactica.docx:
+%   - Encabezado de página con logo, datos del colegio y código FPLAN v3
+%   - Bloques de identificación (Área, Asignatura, Grado, Docente...)
+%   - Secciones con fondo azul (Identificación, Ruta de Aprendizaje,
+%     Matriz de Evaluación, Autoevaluación, Seguimiento, Diario de Campo)
+%   - Campos de proyectos transversales (EDPC, PEEF, EVS, PRAE...)
+%
+% Uso: \usepackage{guia-didactica}  en el preámbulo del documento.
+% =====================================================================
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{guia-didactica}[2026/09/12 Estilo Guia Didactica CSAM]
+
+% ---------- Paquetes base ----------
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T1]{fontenc}
+% El soporte de español de babel (paquete texlive-lang-spanish) no está
+% instalado en todas las máquinas. Si falta, cargar [spanish] aborta con
+% "Unknown option 'spanish'", así que solo lo cargamos cuando está presente.
+% Sin él, el documento compila igual; lo único que se pierde es la
+% separación silábica en español.
+\IfFileExists{spanish.ldf}{%
+  \RequirePackage[spanish]{babel}%
+  % El paquete "spanish" de babel activa < y > como atajos para << >>,
+  % lo que rompe las especificaciones de columna de tabularx/array (>{...}).
+  % Los desactivamos: no se pierden comillas, solo el atajo con < >.
+  % babel reactiva los shorthands justo al llegar a \begin{document}, así
+  % que hay que desactivarlos también ahí (no basta con el preámbulo).
+  \shorthandoff{<>}%
+  \AtBeginDocument{\shorthandoff{<>}}%
+}{%
+  \PackageWarningNoLine{guia-didactica}{%
+    No se encontro el soporte de espanol de babel (spanish.ldf).\MessageBreak
+    El documento se compila igual, pero sin separacion silabica en\MessageBreak
+    espanol. Para instalarlo: en Linux `sudo apt install\MessageBreak
+    texlive-lang-spanish'; en TeX Live/MacTeX `sudo tlmgr install\MessageBreak
+    babel-spanish'; en Overleaf ya viene incluido%
+  }%
+}
+\RequirePackage{geometry}
+\RequirePackage{graphicx}
+\RequirePackage{xcolor}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{longtable}
+\RequirePackage{multirow}
+\RequirePackage{colortbl}
+\RequirePackage{fancyhdr}
+\RequirePackage{enumitem}
+\RequirePackage{amssymb} % \Box, \boxtimes para casillas
+\RequirePackage{ragged2e}
+\RequirePackage{tikz}
+\RequirePackage{pgffor}
+\RequirePackage[skins]{tcolorbox}
+
+% ---------- Geometría de página ----------
+% headheight debe ser >= la altura real de la tabla del encabezado, y
+% top >= headheight + headsep + el margen superior de papel que se quiera;
+% si no, el encabezado se sale por el borde y el logo queda cortado.
+% La tabla mide 71.93pt (2.54cm) con \gdAltoEncabezado = 2.5cm.
+\geometry{
+  a4paper,
+  top=3.8cm,        % 0.8cm de margen + 2.65cm de encabezado + 0.35cm de separación
+  bottom=1.8cm,
+  left=1.4cm,
+  right=1.4cm,
+  headheight=2.65cm,
+  headsep=0.35cm,
+  footskip=1.1cm
+}
+
+% ---------- Paleta de color (tomada del docx original) ----------
+\definecolor{gdAzulOscuro}{HTML}{8EAADB} % encabezados principales de sección
+\definecolor{gdAzulMedio}{HTML}{B4C6E7} % subtítulos de "Momento"
+\definecolor{gdAzulClaro}{HTML}{D9E2F3} % filas de subsección / etiquetas
+\definecolor{gdAzulSuave}{HTML}{DEEAF6} % fondo de campos de texto
+\definecolor{gdGris}{HTML}{D9D9D9}      % bordes del encabezado de página
+\definecolor{gdAmarilloEscudo}{HTML}{FFD400}
+
+% ---------- Nombre del logo (redefinible desde el documento) ----------
+\newcommand{\GuiaLogo}{logo-colegio.png}
+
+% ---------- Alto útil de las celdas del encabezado ----------
+% Todas las celdas del encabezado son \parbox de esta altura, así que este
+% valor determina el alto de la tabla del encabezado (y por tanto el
+% headheight de \geometry, definido más abajo con algo de holgura).
+\newlength{\gdAltoEncabezado}
+\setlength{\gdAltoEncabezado}{2.5cm}
+
+% ---------- Ancho de las columnas de etiqueta (Área:, Asignatura:, ...) ------
+% 3.3cm evita que "Fecha de inicio:" / "Fecha de entrega:" se partan con guión.
+\newlength{\gdAnchoEtiqueta}
+\setlength{\gdAnchoEtiqueta}{3.3cm}
+
+% ---------- Encabezado de página (fancyhdr) ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% NOTA: se usa \texttt{tabular} con anchos fijos en cm (no tabularx/X) porque
+% la columna X de tabularx no admite saltos de línea manuales (\\) dentro de
+% una celda de forma fiable; con anchos fijos sí funciona sin problema.
+\fancyhead[C]{%
+% Los tamaños de letra replican los del docx original: 18pt el nombre del
+% colegio, ~10pt la línea de niveles y 7pt los datos de contacto/resolución.
+% Cada celda es un \parbox de altura fija \gdAltoEncabezado alineado [c]
+% por fuera y por dentro: así el logo (y el resto) queda centrado vertical y
+% horizontalmente de forma exacta, sin depender de columnas m{} ni de ajustes
+% manuales con \multirow.
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \parbox[c][\gdAltoEncabezado][c]{2.4cm}{\centering\includegraphics[height=2.1cm]{\GuiaLogo}} &
+    % IMPORTANTE: los cambios de tamaño NO van entre llaves, para que cada
+    % salto \\ ocurra con el interlineado del tamaño pequeño ya activo.
+    % Si se agrupan ({\fontsize...}), el salto usa el interlineado del texto
+    % de 11pt de fuera y el encabezado crece casi al doble de alto.
+    \parbox[c][\gdAltoEncabezado][c]{\dimexpr\textwidth-2.4cm-2.0cm-6\tabcolsep-4\arrayrulewidth\relax}{\centering\bfseries
+    \fontsize{16}{18}\selectfont COLEGIO SAN ALBERTO MAGNO\\[1.5pt]
+    \fontsize{8.5}{10}\selectfont JARDÍN - TRANSICIÓN - BÁSICA - MEDIA TÉCNICA Y ACADÉMICA\\[1.5pt]
+    \fontsize{7}{8.4}\selectfont CALLE 12ª \# 23D -- 66 B/JUNÍN CALI TEL: 5578334 3707171\\
+    Reconocimiento Oficial de Estudios Conferido Mediante Resolución No 4143.2.21.3085 de mayo 12 de 2009,\\
+    Emanada de la Secretaría de Educación Municipal\\
+    Departamento del Valle del Cauca}
+    &
+    \parbox[c][\gdAltoEncabezado][c]{2.0cm}{\centering\footnotesize Código\\[1pt] FPLAN v3} \\
+    \hline
+  \end{tabular}%
+}
+
+% ---------- Pie de página ----------
+\fancyfoot[C]{\footnotesize\thepage}
+
+% ---------- Título de la guía ----------
+% \GuiaTitulo{<numero>} imprime "Guía Didáctica de Aprendizaje No. X"
+\newcommand{\GuiaTitulo}[1]{%
+  \begin{center}
+    {\Large\bfseries Guía Didáctica de Aprendizaje No.~#1}
+  \end{center}
+  \vspace{2mm}
+}
+
+% ---------- Barra de título de sección (fondo azul oscuro) ----------
+\newcommand{\gdSeccion}[1]{%
+  \vspace{2mm}
+  \noindent
+  \begin{tcolorbox}[
+      colback=gdAzulOscuro, colframe=gdAzulOscuro,
+      boxrule=0pt, arc=0pt, left=2mm, right=2mm, top=1mm, bottom=1mm,
+      width=\linewidth, fontupper=\bfseries\normalsize\centering
+    ]
+    #1
+  \end{tcolorbox}%
+}
+
+% ---------- Barra de subtítulo (Momento No. X, etc.) fondo azul medio ----------
+\newcommand{\gdSubseccion}[1]{%
+  \noindent
+  \begin{tcolorbox}[
+      colback=gdAzulMedio, colframe=gdAzulMedio,
+      boxrule=0pt, arc=0pt, left=2mm, right=2mm, top=0.8mm, bottom=0.8mm,
+      width=\linewidth, fontupper=\bfseries\small
+    ]
+    #1
+  \end{tcolorbox}%
+}
+
+% ---------- Etiqueta de campo (fondo azul claro) + espacio para responder ----------
+% \gdCampo{Etiqueta}{contenido/lineas}
+\newcommand{\gdCampo}[2]{%
+  \noindent
+  \begin{tcolorbox}[
+      colback=gdAzulSuave, colframe=gdGris,
+      boxrule=0.4pt, arc=0pt, left=2mm, right=2mm, top=1mm, bottom=1mm,
+      width=\linewidth
+    ]
+    \textbf{#1} #2
+  \end{tcolorbox}%
+  \vspace{-0.5mm}
+}
+
+% Campo con varias líneas en blanco para diligenciar a mano o completar
+\newcommand{\gdRenglones}[1]{%
+  \vspace{1mm}
+  \foreach \n in {1,...,#1}{\hrulefill\\[3mm]}%
+}
+
+% Casilla de selección (para EDPC, PEEF, EVS, PRAE, etc.)
+% \gdCasilla{Etiqueta}{marcada?} -- si el 2do argumento es "x" se marca
+\newcommand{\gdCasilla}[2]{%
+  \ifx#2x\boxtimes\else$\square$\fi\ \textbf{#1}%
+}
+
+% NOTA: al igual que en el encabezado, aquí se evita la columna X de
+% tabularx y el token ">{...}" en la especificación de columnas: babel en
+% español convierte "<" ">" en atajos activos justo al llegar a
+% \begin{document}, lo que rompe el análisis del preámbulo de la tabla.
+% Usamos anchos fijos en cm y \centering dentro de cada celda en su lugar.
+
+% ---------- Fila de datos tipo "Área / Asignatura / Grado / Periodo" ----------
+% Los anchos se calculan a partir de \textwidth descontando el relleno
+% (\tabcolsep a cada lado de cada celda) y las líneas verticales, para que la
+% tabla nunca se salga del margen.
+\newlength{\gdAnchoDato}
+\setlength{\gdAnchoDato}{\dimexpr(\textwidth-2\gdAnchoEtiqueta-8\tabcolsep-5\arrayrulewidth)/2\relax}
+\newenvironment{gdDatos}{%
+  \setlength{\gdAnchoDato}{\dimexpr(\textwidth-2\gdAnchoEtiqueta-8\tabcolsep-5\arrayrulewidth)/2\relax}%
+  \noindent\begin{tabular}{|p{\gdAnchoEtiqueta}|p{\gdAnchoDato}|p{\gdAnchoEtiqueta}|p{\gdAnchoDato}|}
+  \hline
+}{%
+  \\\hline
+  \end{tabular}
+  \vspace{2mm}
+}
+
+% ---------- Tabla de la Matriz de Evaluación ----------
+\newenvironment{gdMatrizEvaluacion}{%
+  \noindent\begin{tabular}{|p{3.1cm}|p{6.7cm}|p{1.6cm}|p{1.9cm}|p{2.1cm}|}
+  \hline
+  \rowcolor{gdAzulClaro}
+  \textbf{Dimensión Holística} & \textbf{Criterio de evaluación} & \textbf{Lo logré} & \textbf{Voy en camino} & \textbf{Necesito Apoyo} \\
+  \hline
+}{%
+  \hline
+  \end{tabular}
+  \vspace{2mm}
+}
+
+% ---------- Comandos de conveniencia para texto de docente/estudiante ----------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+\endinput

@@ -1,0 +1,472 @@
+INSTITUCIÓN EDUCATIVA
+[Nombre de la institución educativa]
+MALLA CURRICULAR
+ÁREA DE MATEMÁTICAS — COMPONENTE GEOMÉTRICO-MÉTRICO
+GRADO SEXTO (6°) — CICLO III
+Modelo pedagógico holístico-transformador de enfoque constructivista
+Organización en tres (3) periodos académicos de doce (12) semanas cada uno — 36 semanas
+Año lectivo: [_______]     Docente: [_______]     Sede/Jornada: [_______]
+
+1. Marco de referencia normativo y pedagógico
+Esta malla curricular se construye articulando los siguientes referentes de la Secretaría de Educación y el Ministerio de Educación Nacional (MEN). Se recomienda verificar y ajustar los referentes ante la normativa vigente y los lineamientos particulares de la Secretaría de Educación de su entidad territorial.
+• Ley General de Educación (Ley 115 de 1994) y Ley 1098 de 2006 (Código de Infancia y Adolescencia).
+• Lineamientos Curriculares de Matemáticas (MEN, 1998) y Estándares Básicos de Competencias en Matemáticas (MEN, 2006), ciclo de grados 6° y 7°: pensamiento espacial y sistemas geométricos.
+• Derechos Básicos de Aprendizaje (DBA) de Matemáticas V2 — Grado Sexto, como referente de los aprendizajes estructurantes por periodo.
+• Decreto 1290 de 2009: evaluación del aprendizaje y promoción de los estudiantes, base del Sistema Institucional de Evaluación (SIEE).
+• Decreto 1421 de 2017: reglamenta la atención educativa a la población con discapacidad y el Plan Individual de Ajustes Razonables (PIAR).
+• Diseño Universal para el Aprendizaje (DUA): principios de representación, acción-expresión y motivación/compromiso, orientados por el MEN para la educación inclusiva.
+• Reorganización Curricular por Ciclos (RCC): el grado 6° se ubica en el Ciclo III (grados 5°, 6° y 7°), etapa de tránsito entre básica primaria y básica secundaria, orientada a procesos de indagación, experimentación y profundización conceptual. Ajustar la impronta y los ejes de desarrollo del ciclo según el documento vigente de la Secretaría de Educación de su territorio.
+• Proyecto Educativo Institucional (PEI) con modelo pedagógico holístico-transformador y enfoque constructivista: el estudiante construye su conocimiento a partir de la experiencia, la manipulación de material concreto y la resolución de problemas contextualizados, integrando las dimensiones cognitiva, socioafectiva, corporal y valorativa del desarrollo humano.
+1.1 Principios metodológicos del modelo holístico-transformador constructivista aplicados a la geometría
+• Aprendizaje significativo y situado: los conceptos de ángulos, polígonos, círculo y cuerpos geométricos se abordan a partir de situaciones reales del entorno del estudiante.
+• Construcción activa del conocimiento: manipulación de material concreto (compás, polígonos recortables, cuerpos armables) antes de la formalización simbólica.
+• Aprendizaje colaborativo: trabajo en equipos heterogéneos, tutoría entre pares y diálogo como mediador del aprendizaje.
+• Integralidad (visión holística): articulación de la geometría con el arte, la tecnología y el cuidado del entorno natural.
+• Evaluación formativa y por competencias: uso de rúbricas, portafolios, autoevaluación, coevaluación y heteroevaluación.
+
+2. PERIODO ACADÉMICO I — Ángulos y polígonos
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Ángulos: clasificación, medición y relaciones (complementarios y suplementarios)
+Clasifico polígonos y ángulos en relación con sus propiedades, y calculo ángulos formados por rectas al cortarse.
+Clasifica ángulos según su medida (agudo, recto, obtuso, llano) y reconoce relaciones entre ángulos complementarios y suplementarios.
+Saber: Reconoce la clasificación de los ángulos y las relaciones de complementariedad y suplementariedad.
+Saber hacer: Mide y clasifica ángulos con el transportador, y calcula ángulos complementarios y suplementarios.
+Ser: Es preciso y cuidadoso en el uso de instrumentos de medición.
+Polígonos: elementos, clasificación y ángulos internos
+Clasifico polígonos en relación con sus propiedades y calculo la suma de sus ángulos internos.
+Clasifica polígonos según el número de lados y calcula la suma de sus ángulos internos.
+Saber: Reconoce los elementos de un polígono (lados, vértices, diagonales, ángulos) y su clasificación.
+Saber hacer: Clasifica polígonos y calcula la suma de los ángulos internos de polígonos regulares.
+Ser: Argumenta con sus propias palabras los procedimientos utilizados.
+Perímetro y área de polígonos regulares
+Diferencio y ordeno, en objetos y eventos, propiedades o atributos que se pueden medir y desarrollo procesos de medición del perímetro y el área.
+Calcula el perímetro y el área de polígonos regulares aplicando fórmulas y procesos de medición.
+Saber: Reconoce las fórmulas de perímetro y área de polígonos regulares (triángulo, cuadrado, pentágono, hexágono).
+Saber hacer: Calcula el perímetro y el área de polígonos regulares en situaciones reales del colegio.
+Ser: Trabaja en equipo de forma organizada durante la toma de medidas.
+Proyecto: polígonos en el diseño y el arte
+Construyo y descompongo figuras planas a partir de condiciones dadas, aplicándolo a la creación de patrones y diseños.
+Diseña un patrón o teselado utilizando polígonos regulares, aplicando conceptos de perímetro, área y ángulos internos.
+Saber: Integra los conceptos de polígonos, perímetro, área y ángulos trabajados durante el periodo.
+Saber hacer: Diseña un teselado o mosaico con polígonos regulares y sustenta los conceptos geométricos aplicados.
+Ser: Disfruta la exploración creativa de patrones geométricos y valora el trabajo de sus compañeros.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Ángulos: clasificación, medición y relaciones (complementarios y suplementarios)
+• Taller práctico con transportador en situaciones cotidianas
+• Búsqueda de ángulos en el entorno escolar (fotografía matemática)
+• Geometría dinámica con GeoGebra
+• Trabajo colaborativo por parejas
+• Transportadores
+• Reglas y escuadras
+• GeoGebra
+• Fotografías del entorno
+• Taller práctico de medición y clasificación de ángulos
+• Registro de ángulos complementarios y suplementarios
+• Coevaluación por parejas
+• Representación: plantillas de ángulos pre-dibujados para calcar y clasificar
+• Acción y expresión: uso de transportador adaptado o aplicación digital de medición
+• Motivación: búsqueda de ángulos en objetos de interés del estudiante (deporte, videojuegos)
+• Ajuste razonable: tiempo adicional y guía con pasos desglosados
+Polígonos: elementos, clasificación y ángulos internos
+• Manipulación de polígonos recortados en cartulina
+• Taller práctico de conteo de diagonales y cálculo de ángulos internos
+• Uso de GeoGebra para verificar la suma de ángulos internos
+• Trabajo colaborativo en equipos
+• Polígonos de cartulina
+• Transportador
+• GeoGebra
+• Guías de trabajo
+• Taller de clasificación de polígonos
+• Cálculo de ángulos internos de diferentes polígonos
+• Rúbrica de desempeño
+• Representación: polígonos manipulables de diferentes tamaños y colores
+• Acción y expresión: verificación con GeoGebra en lugar de medición manual exhaustiva
+• Ajuste razonable: tabla de referencia con la fórmula de suma de ángulos internos
+Perímetro y área de polígonos regulares
+• Medición real de espacios del colegio (patio, cancha, jardines)
+• Taller práctico progresivo de cálculo de área y perímetro
+• Uso de GeoGebra para verificar resultados
+• Trabajo colaborativo por estaciones
+• Cinta métrica
+• Calculadora
+• GeoGebra
+• Guías de trabajo
+• Informe de medición de un espacio real del colegio
+• Taller de cálculo de área y perímetro
+• Coevaluación de equipo
+• Representación: cuadrícula física para contar unidades de área
+• Acción y expresión: uso de calculadora para los cálculos
+• Motivación: elección del espacio del colegio a medir
+Proyecto: polígonos en el diseño y el arte
+• Aprendizaje basado en proyectos (ABP): diseño de un mosaico o teselado
+• Investigación de patrones geométricos en el arte y la cultura (arte indígena, arquitectura)
+• Exposición y socialización final
+• Trabajo colaborativo en equipos
+• Plantillas de polígonos
+• Colores y cartulina
+• Tijeras
+• Ejemplos visuales de mosaicos y teselados
+• Producto final: teselado o mosaico con sustentación
+• Rúbrica integral del periodo
+• Coevaluación y autoevaluación
+• Representación: plantillas prediseñadas para recortar y pegar
+• Acción y expresión: elección entre dibujo, collage o construcción con material concreto
+• Motivación: exposición y socialización de trabajos como reconocimiento
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+Ángulos: clasificación, medición y relaciones (complementarios y suplementarios)
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Polígonos: elementos, clasificación y ángulos internos
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Perímetro y área de polígonos regulares
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto: polígonos en el diseño y el arte
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+3. PERIODO ACADÉMICO II — La circunferencia y el círculo
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Elementos de la circunferencia
+Identifico y utilizo los elementos de la circunferencia en la representación de objetos y situaciones reales.
+Identifica y representa los elementos de la circunferencia (centro, radio, diámetro, cuerda, arco) en situaciones y objetos reales.
+Saber: Reconoce los elementos de la circunferencia y sus relaciones (el diámetro es el doble del radio).
+Saber hacer: Traza circunferencias con compás e identifica y mide sus elementos.
+Ser: Es cuidadoso en el manejo del compás y otros instrumentos de trazo.
+Longitud de la circunferencia y el número π
+Reconozco el número π como la relación constante entre la longitud de la circunferencia y su diámetro, y lo aplico en la resolución de problemas.
+Calcula la longitud de la circunferencia aplicando la relación entre el diámetro y el número π.
+Saber: Reconoce el número π como una constante y su relación con la longitud de la circunferencia.
+Saber hacer: Calcula la longitud de la circunferencia de objetos reales usando la fórmula correspondiente.
+Ser: Manifiesta curiosidad frente a las constantes matemáticas presentes en la naturaleza.
+Área del círculo
+Calculo el área del círculo aplicando la fórmula correspondiente en situaciones reales de su entorno.
+Calcula el área del círculo aplicando la fórmula correspondiente en situaciones reales.
+Saber: Reconoce la fórmula del área del círculo y su relación con el radio.
+Saber hacer: Calcula el área de círculos en situaciones reales (mesas redondas, platos, canchas circulares).
+Ser: Verifica sus procedimientos y resultados antes de concluir.
+Proyecto: el círculo en la naturaleza y la tecnología
+Explico la presencia del círculo y la circunferencia en fenómenos naturales y en objetos tecnológicos de uso cotidiano.
+Investiga y sustenta una aplicación real de la circunferencia o el círculo en la naturaleza, el arte o la tecnología, relacionándola con sus fórmulas.
+Saber: Integra los conceptos de circunferencia y círculo trabajados durante el periodo.
+Saber hacer: Investiga, representa y sustenta una aplicación real del círculo en la naturaleza o la tecnología.
+Ser: Sustenta con seguridad sus conclusiones ante sus compañeros y docentes.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Elementos de la circunferencia
+• Taller práctico de trazado con compás
+• Búsqueda de objetos circulares en el entorno (fotografía matemática)
+• Uso de GeoGebra para explorar los elementos de la circunferencia
+• Trabajo colaborativo por parejas
+• Compás
+• Regla
+• GeoGebra
+• Fotografías de objetos circulares
+• Taller de trazado e identificación de elementos
+• Registro fotográfico de objetos circulares con sus elementos señalados
+• Coevaluación por parejas
+• Representación: circunferencias grandes y de alto contraste para facilitar la identificación de elementos
+• Acción y expresión: uso de GeoGebra en lugar de trazado manual con compás
+• Ajuste razonable: guía paso a paso para el manejo del compás
+Longitud de la circunferencia y el número π
+• Laboratorio práctico: medir el contorno y el diámetro de objetos circulares y calcular su relación (aproximación a π)
+• Taller práctico de cálculo de longitud de circunferencia
+• Uso de GeoGebra para verificar resultados
+• Trabajo colaborativo en equipos
+• Objetos circulares (tapas, platos, ruedas)
+• Cinta métrica o pita
+• Calculadora
+• GeoGebra
+• Informe de laboratorio de medición y aproximación de π
+• Taller de cálculo de longitud de circunferencia
+• Rúbrica de desempeño
+• Representación: laboratorio manipulativo antes de la fórmula abstracta
+• Acción y expresión: uso de calculadora para los cálculos numéricos
+• Motivación: elección de objetos circulares de interés propio para medir
+Área del círculo
+• Taller práctico de cálculo de área de círculos reales del colegio
+• Uso de GeoGebra para verificar resultados
+• ABP: cálculo del área de una fuente o jardín circular
+• Trabajo colaborativo por estaciones
+• Cinta métrica
+• Calculadora
+• GeoGebra
+• Guías de trabajo
+• Taller de cálculo de área de círculos
+• Informe de aplicación a un objeto real del colegio
+• Coevaluación de equipo
+• Representación: cuadrícula superpuesta al círculo para estimar el área antes de la fórmula
+• Acción y expresión: uso de calculadora para los cálculos
+• Ajuste razonable: ejemplos resueltos como plantilla de apoyo
+Proyecto: el círculo en la naturaleza y la tecnología
+• Aprendizaje basado en proyectos (ABP) integrador
+• Investigación guiada sobre círculos en la naturaleza (anillos de árboles, ondas en el agua) o la tecnología (ruedas, engranajes)
+• Exposición y socialización final
+• Trabajo colaborativo en equipos
+• Fuentes de información confiables
+• Materiales para cartelera o maqueta
+• Rúbrica de proyecto
+• Proyecto final y sustentación oral
+• Rúbrica integral de circunferencia y círculo
+• Autoevaluación y coevaluación
+• Representación: guía del proyecto en formatos múltiples (texto, imagen, video)
+• Acción y expresión: producto final flexible (cartelera, maqueta, presentación oral)
+• Motivación: elección libre del fenómeno o tecnología a investigar
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+Elementos de la circunferencia
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Longitud de la circunferencia y el número π
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Área del círculo
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto: el círculo en la naturaleza y la tecnología
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+4. PERIODO ACADÉMICO III — Cuerpos geométricos y plano cartesiano
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Poliedros: clasificación y elementos
+Identifico y clasifico poliedros según sus características y verifico relaciones entre sus elementos.
+Clasifica poliedros según sus características (caras, aristas, vértices) y verifica la relación de Euler (caras + vértices = aristas + 2).
+Saber: Reconoce los elementos de un poliedro (caras, aristas, vértices) y su clasificación (prismas y pirámides).
+Saber hacer: Clasifica poliedros armados y verifica la relación de Euler en cada uno.
+Ser: Colabora activamente en la construcción de proyectos grupales.
+Cuerpos redondos: cilindro, cono y esfera
+Reconozco cuerpos redondos en objetos del entorno y calculo su área y volumen en situaciones sencillas.
+Reconoce cilindros, conos y esferas, y calcula su área y volumen en situaciones sencillas.
+Saber: Reconoce los elementos de cilindros, conos y esferas y sus fórmulas básicas de área y volumen.
+Saber hacer: Calcula el área y el volumen de cilindros, conos y esferas en objetos reales sencillos.
+Ser: Relaciona los cuerpos redondos con objetos tecnológicos y naturales de su entorno.
+Plano cartesiano: los cuatro cuadrantes
+Utilizo el plano cartesiano con números enteros para ubicar puntos y describir relaciones espaciales.
+Ubica y representa puntos en los cuatro cuadrantes del plano cartesiano utilizando números enteros (positivos y negativos).
+Saber: Reconoce los cuatro cuadrantes del plano cartesiano y el signo de las coordenadas en cada uno.
+Saber hacer: Ubica y representa puntos con coordenadas enteras (positivas y negativas) en los cuatro cuadrantes.
+Ser: Aplica el pensamiento lógico con orden y precisión.
+Proyecto integrador: la geometría en la construcción de maquetas
+Resuelvo problemas cotidianos que requieren el uso de conceptos geométricos (polígonos, círculo, cuerpos geométricos, plano cartesiano) trabajados durante el año.
+Diseña y construye una maqueta que integre polígonos, círculos y/o cuerpos geométricos trabajados durante el año, y sustenta los conceptos aplicados.
+Saber: Integra los conceptos geométricos trabajados durante el año escolar.
+Saber hacer: Diseña y construye una maqueta aplicando varios de los conceptos geométricos vistos en el año.
+Ser: Comunica sus ideas y resultados con seguridad y respeto por el trabajo de sus compañeros.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Poliedros: clasificación y elementos
+• Armado de poliedros con material reciclable o plantillas
+• Verificación práctica de la relación de Euler en cada poliedro armado
+• Uso de GeoGebra 3D para explorar poliedros
+• Trabajo colaborativo por equipos
+• Plantillas armables (desarrollos planos)
+• Cartulina, tijeras, pegante
+• GeoGebra 3D
+• Cuerpos geométricos de referencia
+• Poliedro armado y ficha de clasificación
+• Verificación de la relación de Euler
+• Autoevaluación y coevaluación
+• Representación: manipulación directa de poliedros armados
+• Acción y expresión: conteo guiado paso a paso de caras, aristas y vértices
+• Motivación: trabajo en equipo con roles según fortalezas de cada estudiante
+Cuerpos redondos: cilindro, cono y esfera
+• Laboratorio de medición con cuerpos redondos reales (latas, conos de helado, pelotas)
+• Taller práctico progresivo de cálculo de área y volumen
+• Uso de GeoGebra 3D
+• Trabajo colaborativo por estaciones
+• Cuerpos redondos reales (latas, conos, pelotas)
+• Cinta métrica
+• Calculadora
+• GeoGebra 3D
+• Informe de laboratorio de medición de cuerpos redondos
+• Taller de cálculo de área y volumen
+• Rúbrica de desempeño
+• Representación: manipulación directa de cuerpos redondos reales
+• Acción y expresión: cálculo asistido por calculadora
+• Ajuste razonable: fórmulas con apoyo visual y ejemplos resueltos paso a paso
+Plano cartesiano: los cuatro cuadrantes
+• Juegos de ubicación de puntos en los cuatro cuadrantes (batalla naval con enteros)
+• Uso de GeoGebra para graficar puntos
+• Taller práctico progresivo
+• Trabajo colaborativo en parejas
+• Papel cuadriculado
+• GeoGebra
+• Fichas de pares ordenados con enteros
+• Guías de trabajo
+• Taller de ubicación de puntos en los cuatro cuadrantes
+• Construcción de una figura uniendo puntos dados
+• Coevaluación por parejas
+• Representación: cuadrícula ampliada y de alto contraste, con colores para diferenciar cuadrantes
+• Acción y expresión: ubicación de puntos de forma manipulativa con fichas
+• Motivación: juego de "tesoro escondido" con coordenadas enteras
+Proyecto integrador: la geometría en la construcción de maquetas
+• Aprendizaje basado en proyectos (ABP) integrador
+• Feria de la geometría: exposición ante la comunidad educativa
+• Trabajo colaborativo en equipos
+• Uso de material reciclable para la maqueta
+• Materiales reciclables (cartón, plástico, palillos)
+• Rúbrica de proyecto
+• Espacio de socialización
+• Maqueta final y sustentación oral
+• Rúbrica integral de competencias del área
+• Autoevaluación, coevaluación y heteroevaluación
+• Representación: guía del proyecto en formatos múltiples (texto, imagen, video)
+• Acción y expresión: producto final flexible según fortalezas (maqueta, dibujo, explicación oral)
+• Motivación: elección libre del tema de la maqueta (una ciudad, un parque, una casa)
+• Articulación con el PIAR: ajuste de criterios de evaluación y tiempos de entrega
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+Poliedros: clasificación y elementos
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Cuerpos redondos: cilindro, cono y esfera
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Plano cartesiano: los cuatro cuadrantes
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto integrador: la geometría en la construcción de maquetas
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+5. Lineamientos generales de atención a la diversidad: PIAR y DUA en la enseñanza de la geometría
+5.1 Plan Individual de Ajustes Razonables (PIAR)
+De acuerdo con el Decreto 1421 de 2017, los estudiantes con discapacidad cuentan con un PIAR construido con la familia, el docente de aula, el docente de apoyo pedagógico y el equipo interdisciplinario. Para el componente geométrico se sugiere:
+• Realizar la valoración pedagógica del estudiante para identificar barreras y potencialidades frente al pensamiento espacial.
+• Definir ajustes razonables sobre los desempeños esperados, los tiempos, los recursos (material concreto, tecnología asistida) y las formas de evaluación.
+• Priorizar el uso de material manipulativo y concreto (compás, polígonos recortables, cuerpos armables) antes que la representación abstracta.
+• Flexibilizar los criterios e instrumentos de evaluación (rúbricas adaptadas, evaluación oral o manipulativa en lugar de escrita).
+• Hacer seguimiento periódico al PIAR y ajustar las metas de aprendizaje por periodo académico, en articulación con el SIEE institucional.
+• Garantizar la participación del estudiante en el mismo espacio del aula regular, con los apoyos y ajustes requeridos (educación inclusiva).
+5.2 Diseño Universal para el Aprendizaje (DUA)
+El DUA se aplica a todo el grupo (no solo a estudiantes con PIAR) a partir de tres principios:
+• Múltiples formas de representación: presentar los conceptos geométricos con material concreto, imágenes, video, lenguaje oral y escrito, y herramientas digitales (GeoGebra).
+• Múltiples formas de acción y expresión: permitir que el estudiante demuestre su comprensión a través de construcciones manuales, exposiciones orales, producciones gráficas, maquetas o el uso de tecnología, según sus fortalezas.
+• Múltiples formas de motivación y compromiso: ofrecer opciones de temas y contextos (deporte, arte, arquitectura, tecnología), retos graduados según el nivel de cada estudiante y espacios de trabajo colaborativo y de reconocimiento del logro.
+Estos principios están integrados de manera transversal en la columna "Adaptaciones PIAR / DUA" de cada tabla de periodo, y deben adaptarse a las particularidades de cada estudiante y grupo.
+6. Criterios generales de evaluación por periodo
+• Evaluación formativa y continua, coherente con el Sistema Institucional de Evaluación de los Estudiantes (SIEE) y el Decreto 1290 de 2009.
+• Ponderación sugerida por periodo: saber (conceptual) 30%, saber hacer (procedimental/producto) 40%, ser (actitudinal/convivencial) 30% — ajustar según el SIEE institucional.
+• Instrumentos: rúbricas de desempeño, portafolio de evidencias, pruebas escritas y orales, sustentación de proyectos, autoevaluación y coevaluación.
+• Los estudiantes con PIAR son evaluados con los ajustes razonables definidos en su plan, sin que ello implique una disminución en las expectativas de aprendizaje, sino una flexibilización de las formas de alcanzarlas y demostrarlas.
+7. Referentes normativos y bibliográficos
+• Ministerio de Educación Nacional (MEN). Lineamientos Curriculares de Matemáticas, 1998.
+• MEN. Estándares Básicos de Competencias en Matemáticas, 2006 (ciclo 6°-7°, pensamiento espacial y sistemas geométricos).
+• MEN. Derechos Básicos de Aprendizaje (DBA) de Matemáticas, V2.
+• MEN. Decreto 1290 de 2009. Evaluación del aprendizaje y promoción de los estudiantes.
+• MEN. Decreto 1421 de 2017. Atención educativa a la población con discapacidad.
+• MEN. Documento de orientaciones sobre el Diseño Universal para el Aprendizaje (DUA).
+• Secretaría de Educación — Reorganización Curricular por Ciclos (RCC) vigente en la entidad territorial.
+• Proyecto Educativo Institucional (PEI) de la institución.
+Nota: este documento es una plantilla curricular base. Los estándares, DBA y ponderaciones deben ser verificados, ajustados y aprobados por el equipo de docentes del área y el consejo académico institucional, conforme a los documentos oficiales vigentes del MEN y de la Secretaría de Educación correspondiente.
+
+ANEXOS
+Rúbrica de evaluación específica de geometría
+Grado Sexto (6°) — Ángulos, polígonos, círculo, cuerpos geométricos y plano cartesiano
+
+8. Rúbrica de evaluación específica de geometría
+Rúbrica analítica de aplicación transversal a los tres periodos. El docente ajusta el nivel de complejidad de cada descriptor según el tema. Escala de valoración según SIEE institucional (Decreto 1290 de 2009).
+Criterio
+Desempeño Superior (4.6 – 5.0)
+Desempeño Alto (4.0 – 4.5)
+Desempeño Básico (3.0 – 3.9)
+Desempeño Bajo (1.0 – 2.9)
+Comprensión conceptual
+(ángulos, polígonos, círculo, cuerpos geométricos)
+Explica con claridad y ejemplos propios los conceptos geométricos trabajados y los relaciona con situaciones nuevas.
+Explica correctamente los conceptos geométricos trabajados y los aplica en situaciones conocidas.
+Reconoce e identifica los conceptos geométricos básicos, aunque presenta dificultades para explicarlos con sus propias palabras.
+Presenta dificultades para reconocer o identificar los conceptos geométricos trabajados, incluso con apoyo.
+Uso de instrumentos y procedimientos de medición
+Usa con precisión y autonomía instrumentos de medición (regla, transportador, compás) en diferentes contextos.
+Usa correctamente los instrumentos de medición con orientación mínima.
+Usa los instrumentos de medición con apoyo frecuente del docente o de sus compañeros.
+Presenta dificultades notorias para el manejo de instrumentos de medición, aún con acompañamiento.
+Resolución de problemas geométricos
+Resuelve y formula problemas geométricos contextualizados aplicando estrategias propias y verifica sus resultados.
+Resuelve problemas geométricos contextualizados aplicando procedimientos adecuados.
+Resuelve problemas geométricos sencillos, con apoyo para identificar la estrategia adecuada.
+Presenta dificultades para resolver problemas geométricos, incluso con acompañamiento directo.
+Representación y comunicación matemática
+Representa y comunica ideas geométricas utilizando gráficos, planos y lenguaje geométrico de manera clara, precisa y creativa.
+Representa y comunica ideas geométricas utilizando gráficos y lenguaje geométrico adecuado.
+Representa ideas geométricas de forma parcial, con dificultades en el uso del lenguaje geométrico.
+Presenta dificultades significativas para representar o comunicar ideas geométricas.
+Trabajo colaborativo y actitud (ser)
+Participa activamente, propone ideas, respeta los aportes de sus compañeros y asume con responsabilidad el cuidado de los materiales.
+Participa y colabora de forma adecuada, respetando a sus compañeros y cuidando los materiales.
+Participa de manera irregular en el trabajo colaborativo y requiere recordatorios para el cuidado de los materiales.
+Presenta dificultades para participar, colaborar o cuidar los materiales, incluso con llamados de atención.
+8.1 Autoevaluación del estudiante (formato sencillo)
+Para usar al final de cada guía de taller. El estudiante marca con una X según su propio proceso.
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos.
+
+
+
+Usé de forma adecuada los materiales e instrumentos de medición.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+9. Guías de taller
+Las guías de taller de esta malla se entregan como un documento independiente ("Guías Didácticas de Aprendizaje — Geometría Grado 6°"), elaboradas en el formato institucional del Colegio San Alberto Magno (Guía Didáctica de Aprendizaje), con una guía por cada eje temático de los tres periodos.

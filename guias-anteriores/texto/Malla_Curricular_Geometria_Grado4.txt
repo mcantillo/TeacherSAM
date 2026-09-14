@@ -1,0 +1,466 @@
+INSTITUCIÓN EDUCATIVA
+[Nombre de la institución educativa]
+MALLA CURRICULAR
+ÁREA DE MATEMÁTICAS — COMPONENTE GEOMÉTRICO-MÉTRICO
+GRADO CUARTO (4°) — CICLO II
+Modelo pedagógico holístico-transformador de enfoque constructivista
+Organización en tres (3) periodos académicos de doce (12) semanas cada uno — 36 semanas
+Año lectivo: [_______]     Docente: [_______]     Sede/Jornada: [_______]
+
+1. Marco de referencia normativo y pedagógico
+Esta malla curricular se construye articulando los siguientes referentes de la Secretaría de Educación y el Ministerio de Educación Nacional (MEN). Se recomienda verificar y ajustar los referentes ante la normativa vigente y los lineamientos particulares de la Secretaría de Educación de su entidad territorial.
+• Ley General de Educación (Ley 115 de 1994) y Ley 1098 de 2006 (Código de Infancia y Adolescencia).
+• Lineamientos Curriculares de Matemáticas (MEN, 1998) y Estándares Básicos de Competencias en Matemáticas (MEN, 2006), ciclo de grados 3° y 4°: pensamiento espacial y sistemas geométricos.
+• Derechos Básicos de Aprendizaje (DBA) de Matemáticas V2 — Grado Cuarto, como referente de los aprendizajes estructurantes por periodo.
+• Decreto 1290 de 2009: evaluación del aprendizaje y promoción de los estudiantes, base del Sistema Institucional de Evaluación (SIEE).
+• Decreto 1421 de 2017: reglamenta la atención educativa a la población con discapacidad y el Plan Individual de Ajustes Razonables (PIAR).
+• Diseño Universal para el Aprendizaje (DUA): principios de representación, acción-expresión y motivación/compromiso, orientados por el MEN para la educación inclusiva.
+• Reorganización Curricular por Ciclos (RCC): el grado 4° se ubica en el Ciclo II (grados 3° y 4°), etapa centrada en el descubrimiento, la exploración del entorno y la construcción de las bases del pensamiento lógico-matemático. Ajustar la impronta y los ejes de desarrollo del ciclo según el documento vigente de la Secretaría de Educación de su territorio.
+• Proyecto Educativo Institucional (PEI) con modelo pedagógico holístico-transformador y enfoque constructivista: el estudiante construye su conocimiento a partir de la manipulación de material concreto, el juego y la exploración de su entorno, integrando las dimensiones cognitiva, socioafectiva, corporal y valorativa del desarrollo humano.
+1.1 Principios metodológicos del modelo holístico-transformador constructivista aplicados a la geometría
+• Aprendizaje significativo y situado: los conceptos geométricos se abordan a partir de la observación y exploración del entorno cercano del estudiante (el salón, la casa, el colegio).
+• Construcción activa del conocimiento: manipulación de material concreto (figuras de cartulina, geoplano, cuerpos geométricos) antes de la formalización simbólica.
+• Aprendizaje colaborativo: trabajo en equipos, juegos matemáticos y diálogo como mediadores del aprendizaje.
+• Integralidad (visión holística): articulación de la geometría con el arte, la naturaleza y el juego.
+• Evaluación formativa y por competencias: uso de rúbricas sencillas, portafolios, autoevaluación, coevaluación y heteroevaluación.
+
+2. PERIODO ACADÉMICO I — Líneas y figuras planas
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Líneas rectas, curvas, paralelas y perpendiculares
+Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos.
+Identifica y traza líneas rectas y curvas, y reconoce relaciones de paralelismo y perpendicularidad entre rectas en objetos y situaciones de su entorno.
+Saber: Reconoce la diferencia entre líneas rectas y curvas, y las nociones de paralelismo y perpendicularidad.
+Saber hacer: Traza líneas rectas y curvas, e identifica ejemplos de líneas paralelas y perpendiculares en su entorno.
+Ser: Observa con curiosidad la presencia de líneas en los objetos de su entorno.
+Polígonos: identificación de lados y vértices
+Diferencio atributos y propiedades de objetos tridimensionales de las propiedades de sus caras bidimensionales y reconozco polígonos.
+Identifica los polígonos y reconoce sus elementos básicos (lados y vértices) en figuras y objetos del entorno.
+Saber: Reconoce qué es un polígono y sus elementos (lados y vértices).
+Saber hacer: Identifica y cuenta los lados y vértices de diferentes polígonos.
+Ser: Se interesa por reconocer figuras geométricas en el entorno cotidiano.
+Clasificación de cuadriláteros según sus lados
+Reconozco y valoro simetrías en distintos aspectos del arte y de figuras geométricas cotidianas, y clasifico cuadriláteros.
+Clasifica cuadriláteros (cuadrado, rectángulo, rombo) según la medida de sus lados.
+Saber: Reconoce las características del cuadrado, el rectángulo y el rombo.
+Saber hacer: Clasifica cuadriláteros dados según la medida de sus lados.
+Ser: Respeta los ritmos y aportes de sus compañeros durante el trabajo en equipo.
+Proyecto: las figuras geométricas en el arte y mi entorno
+Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad y aplico polígonos en la construcción de figuras.
+Diseña una composición artística sencilla utilizando líneas y polígonos trabajados durante el periodo, y explica las figuras utilizadas.
+Saber: Integra los conceptos de líneas y polígonos trabajados en el periodo.
+Saber hacer: Diseña una composición artística (dibujo, collage) usando líneas y polígonos.
+Ser: Disfruta la exploración creativa de las figuras geométricas y valora el trabajo de sus compañeros.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Líneas rectas, curvas, paralelas y perpendiculares
+• Búsqueda de líneas rectas y curvas en objetos del salón (fotografía matemática)
+• Taller práctico de trazado con regla
+• Uso de material concreto (palillos, lana) para representar líneas paralelas y perpendiculares
+• Trabajo colaborativo por parejas
+• Reglas
+• Palillos o pitillos
+• Lana o cuerda
+• Guías de trabajo
+• Taller de identificación y trazado de líneas
+• Registro de ejemplos del entorno
+• Coevaluación por parejas
+• Representación: ejemplos físicos manipulables (palillos, cuerdas) antes del trazado en papel
+• Acción y expresión: identificación oral o señalada de las líneas en el entorno
+• Motivación: búsqueda de líneas en objetos de interés propio (juguetes, dibujos)
+• Ajuste razonable: plantillas de líneas para calcar
+Polígonos: identificación de lados y vértices
+• Manipulación de figuras de cartulina para contar lados y vértices
+• Taller práctico de identificación de polígonos en el entorno escolar
+• Uso de geoplano para construir polígonos sencillos
+• Trabajo colaborativo en equipos
+• Figuras de cartulina
+• Geoplano y bandas elásticas
+• Guías de trabajo
+• Taller de conteo de lados y vértices
+• Construcción de polígonos en el geoplano
+• Autoevaluación
+• Representación: figuras táctiles o de gran tamaño para contar lados y vértices con el dedo
+• Acción y expresión: conteo en voz alta o señalado, en lugar de escrito
+• Ajuste razonable: reducción del número de figuras manteniendo la variedad
+Clasificación de cuadriláteros según sus lados
+• Manipulación de cuadriláteros de cartulina de diferentes tamaños
+• Taller práctico de clasificación por atributos
+• Búsqueda de cuadriláteros en objetos del salón (ventanas, puertas, baldosas)
+• Trabajo colaborativo por parejas
+• Cuadriláteros de cartulina
+• Regla
+• Guías de trabajo
+• Taller de clasificación de cuadriláteros
+• Registro de cuadriláteros encontrados en el entorno
+• Coevaluación por parejas
+• Representación: cuadriláteros manipulables de colores para clasificar físicamente
+• Acción y expresión: clasificación oral o manipulativa en lugar de escrita
+• Motivación: búsqueda de cuadriláteros en objetos de interés propio
+Proyecto: las figuras geométricas en el arte y mi entorno
+• Aprendizaje basado en proyectos (ABP): creación de una obra artística con figuras geométricas
+• Observación de obras de arte que usen figuras geométricas (mosaicos, arte indígena)
+• Exposición y socialización final
+• Trabajo colaborativo en equipos
+• Cartulina, colores, tijeras
+• Ejemplos visuales de arte geométrico
+• Rúbrica de proyecto
+• Producto final: composición artística con sustentación oral
+• Rúbrica integral del periodo
+• Coevaluación y autoevaluación
+• Representación: plantillas de figuras prediseñadas para recortar y pegar
+• Acción y expresión: elección entre dibujo, collage o construcción con material concreto
+• Motivación: exposición y socialización de trabajos como reconocimiento
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+Líneas rectas, curvas, paralelas y perpendiculares
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Polígonos: identificación de lados y vértices
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Clasificación de cuadriláteros según sus lados
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto: las figuras geométricas en el arte y mi entorno
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+3. PERIODO ACADÉMICO II — Medidas de figuras planas
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+El perímetro: concepto y medición
+Diferencio y ordeno, en objetos y eventos, propiedades o atributos que se pueden medir y desarrollo procesos de medición.
+Reconoce el perímetro como la medida del contorno de una figura, y lo mide usando unidades no convencionales y convencionales.
+Saber: Reconoce el perímetro como la suma de las medidas de los lados de una figura.
+Saber hacer: Mide el perímetro de figuras y objetos reales usando unidades no convencionales (pasos, cuartas) y convencionales (regla, cinta métrica).
+Ser: Es cuidadoso y preciso al realizar mediciones.
+Cálculo del perímetro de polígonos
+Desarrollo procesos de medición usando patrones e instrumentos estandarizados para calcular el perímetro de polígonos.
+Calcula el perímetro de polígonos regulares e irregulares sumando la medida de sus lados.
+Saber: Reconoce el procedimiento para calcular el perímetro de un polígono.
+Saber hacer: Calcula el perímetro de polígonos regulares e irregulares dados sus lados.
+Ser: Verifica sus resultados antes de darlos por definitivos.
+Introducción al área: conteo de unidades cuadradas
+Reconozco el área como una característica de las superficies planas y realizo procesos de medición usando el conteo de unidades.
+Estima y calcula el área de figuras planas sencillas contando las unidades cuadradas que las cubren.
+Saber: Reconoce el área como la medida de la superficie de una figura, contando unidades cuadradas.
+Saber hacer: Calcula el área de figuras dibujadas en papel cuadriculado contando los cuadros que las cubren.
+Ser: Es organizado al contar y registrar las unidades cuadradas.
+Proyecto: medición de espacios reales del colegio
+Aplico procesos de medición del perímetro y el área en la resolución de problemas de su entorno escolar.
+Mide el perímetro y estima el área de un espacio real del colegio, y presenta sus resultados a sus compañeros.
+Saber: Integra los conceptos de perímetro y área trabajados durante el periodo.
+Saber hacer: Mide el perímetro y estima el área de un espacio real del colegio (salón, cancha, jardín).
+Ser: Comunica sus resultados con claridad y trabaja de forma colaborativa.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+El perímetro: concepto y medición
+• Medición del contorno de objetos del salón con cuartas o pasos (unidades no convencionales)
+• Taller práctico de medición con regla y cinta métrica
+• Comparación de resultados entre unidades no convencionales y convencionales
+• Trabajo colaborativo por parejas
+• Cinta métrica
+• Regla
+• Guías de trabajo
+• Taller de medición de perímetros con diferentes unidades
+• Registro comparativo de mediciones
+• Coevaluación por parejas
+• Representación: demostración física de la medición antes del registro numérico
+• Acción y expresión: medición asistida o en pareja para quienes lo requieran
+• Ajuste razonable: reducción del número de objetos a medir manteniendo la variedad
+Cálculo del perímetro de polígonos
+• Taller práctico progresivo de cálculo de perímetros
+• ABP: cálculo del perímetro del patio o la cancha del colegio
+• Uso de material concreto (regletas) para representar los lados
+• Trabajo colaborativo por estaciones
+• Regletas o palillos
+• Cinta métrica
+• Calculadora sencilla
+• Guías de trabajo
+• Taller de cálculo de perímetros
+• Informe de medición de un espacio real del colegio
+• Coevaluación de equipo
+• Representación: regletas manipulables para representar cada lado antes de sumar
+• Acción y expresión: uso de calculadora sencilla para las sumas
+• Ajuste razonable: polígonos con menor número de lados y números más sencillos
+Introducción al área: conteo de unidades cuadradas
+• Taller práctico de conteo de cuadros en papel cuadriculado
+• Uso de baldosas o cuadrículas físicas para estimar el área de una superficie real
+• ABP: estimación del área del tablero o de una mesa usando una cuadrícula
+• Trabajo colaborativo por parejas
+• Papel cuadriculado
+• Baldosas o cuadrículas físicas
+• Guías de trabajo
+• Taller de conteo de área en papel cuadriculado
+• Estimación del área de una superficie real del salón
+• Autoevaluación
+• Representación: cuadrícula física superpuesta sobre la figura para facilitar el conteo
+• Acción y expresión: conteo en voz alta o señalado en lugar de registro escrito extenso
+• Ajuste razonable: figuras con menor número de cuadros
+Proyecto: medición de espacios reales del colegio
+• Aprendizaje basado en proyectos (ABP) integrador
+• Salida al patio o cancha para tomar medidas reales
+• Exposición y socialización de resultados
+• Trabajo colaborativo en equipos
+• Cinta métrica
+• Papel cuadriculado
+• Rúbrica de proyecto
+• Informe de medición y sustentación oral
+• Rúbrica integral del periodo
+• Coevaluación y autoevaluación
+• Representación: guía del proyecto con imágenes y pasos ilustrados
+• Acción y expresión: producto final flexible (informe, dibujo, exposición oral)
+• Articulación con el PIAR: ajuste de criterios de evaluación y tiempos de entrega
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+El perímetro: concepto y medición
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Cálculo del perímetro de polígonos
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Introducción al área: conteo de unidades cuadradas
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto: medición de espacios reales del colegio
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+4. PERIODO ACADÉMICO III — Cuerpos geométricos y simetría
+Componente curricular: estándar, DBA y desempeños
+Eje temático
+Estándar básico de competencia (MEN)
+DBA relacionado (Pensamiento espacial y sistemas geométricos)
+Desempeños (Saber / Saber hacer / Ser)
+Cuerpos geométricos: identificación y clasificación
+Reconozco nociones de horizontalidad, verticalidad y de la geometría de los cuerpos sólidos en el espacio.
+Identifica y clasifica cuerpos geométricos (cubo, esfera, cilindro, cono, prisma) según si sus caras son planas o curvas.
+Saber: Reconoce los cuerpos geométricos básicos y diferencia entre caras planas y curvas.
+Saber hacer: Clasifica objetos reales según el cuerpo geométrico que representan.
+Ser: Manifiesta curiosidad por los cuerpos geométricos presentes en su entorno.
+Simetría: identificación de ejes de simetría
+Reconozco y valoro simetrías en distintos aspectos del arte, la naturaleza y las figuras geométricas cotidianas.
+Identifica ejes de simetría en figuras y objetos de su entorno mediante el plegado y la observación.
+Saber: Reconoce qué es un eje de simetría.
+Saber hacer: Identifica ejes de simetría en figuras mediante el plegado de papel.
+Ser: Aprecia la presencia de la simetría en la naturaleza y el arte.
+Ubicación en el plano cartesiano (primer cuadrante)
+Reconozco y aplico el uso de coordenadas para ubicar puntos y describir relaciones espaciales.
+Ubica y representa puntos en el primer cuadrante del plano cartesiano utilizando pares ordenados de números naturales.
+Saber: Reconoce los elementos del plano cartesiano (ejes, origen) en el primer cuadrante.
+Saber hacer: Ubica puntos dados por pares ordenados en el primer cuadrante del plano cartesiano.
+Ser: Aplica el pensamiento lógico con orden al ubicar puntos.
+Proyecto integrador: construcción de una maqueta con cuerpos geométricos
+Aplico el reconocimiento de cuerpos geométricos y la simetría en la construcción de representaciones de su entorno.
+Construye una maqueta sencilla utilizando cuerpos geométricos, aplicando los conceptos de simetría y ubicación trabajados durante el año.
+Saber: Integra los conceptos de cuerpos geométricos, simetría y ubicación en el plano trabajados durante el año escolar.
+Saber hacer: Diseña y construye una maqueta sencilla (una casa, un parque, un barrio) usando cuerpos geométricos.
+Ser: Comunica sus ideas con seguridad y colabora activamente con su equipo.
+
+Componente didáctico: estrategias, recursos, evaluación y atención a la diversidad
+Eje temático
+Estrategias metodológicas (modelo constructivista-holístico)
+Recursos didácticos
+Evaluación (evidencias)
+Adaptaciones PIAR / DUA
+Cuerpos geométricos: identificación y clasificación
+• Manipulación de cuerpos geométricos armables o de plástico
+• Búsqueda y clasificación de objetos del entorno según su forma (cubo, esfera, cilindro, cono)
+• Taller práctico de clasificación por tipo de cara (plana o curva)
+• Trabajo colaborativo en equipos
+• Cuerpos geométricos de plástico o madera
+• Objetos reales variados
+• Guías de trabajo
+• Taller de clasificación de cuerpos geométricos
+• Registro de objetos del entorno clasificados
+• Coevaluación de equipo
+• Representación: manipulación directa de cuerpos geométricos reales
+• Acción y expresión: clasificación táctil (tocar y sentir las caras) para identificar planas o curvas
+• Motivación: búsqueda de cuerpos geométricos entre los juguetes u objetos propios
+Simetría: identificación de ejes de simetría
+• Actividad de plegado de figuras de papel para encontrar ejes de simetría
+• Búsqueda de objetos simétricos en el entorno (mariposas, hojas, rostros)
+• Uso de espejos para verificar la simetría de una figura
+• Trabajo colaborativo por parejas
+• Papel
+• Tijeras
+• Espejos pequeños
+• Guías de trabajo
+• Taller de identificación de ejes de simetría por plegado
+• Registro de objetos simétricos encontrados
+• Autoevaluación
+• Representación: plegado físico de la figura para verificar la simetría de forma manipulativa
+• Acción y expresión: verificación con espejo en lugar de trazado del eje
+• Motivación: búsqueda de simetría en objetos de interés propio
+Ubicación en el plano cartesiano (primer cuadrante)
+• Juegos de ubicación de puntos en cuadrícula (búsqueda del tesoro)
+• Taller práctico progresivo de ubicación de pares ordenados
+• Uso de GeoGebra o aplicaciones sencillas para graficar puntos
+• Trabajo colaborativo en parejas
+• Papel cuadriculado
+• GeoGebra (opcional)
+• Fichas de pares ordenados
+• Guías de trabajo
+• Taller de ubicación de puntos en el primer cuadrante
+• Juego de búsqueda del tesoro con coordenadas
+• Coevaluación por parejas
+• Representación: cuadrícula ampliada y de alto contraste
+• Acción y expresión: ubicación de puntos de forma manipulativa con fichas
+• Motivación: juego de "tesoro escondido" con coordenadas sencillas
+Proyecto integrador: construcción de una maqueta con cuerpos geométricos
+• Aprendizaje basado en proyectos (ABP) integrador
+• Feria de la geometría: exposición ante la comunidad educativa
+• Uso de material reciclable para la maqueta
+• Trabajo colaborativo en equipos
+• Materiales reciclables (cajas, tubos, tapas)
+• Pegante y tijeras
+• Rúbrica de proyecto
+• Maqueta final y sustentación oral
+• Rúbrica integral de competencias del área
+• Autoevaluación, coevaluación y heteroevaluación
+• Representación: guía del proyecto en formatos múltiples (texto, imagen, video)
+• Acción y expresión: producto final flexible según fortalezas (maqueta, dibujo, explicación oral)
+• Motivación: elección libre del tema de la maqueta
+• Articulación con el PIAR: ajuste de criterios de evaluación y tiempos de entrega
+
+Distribución semanal (12 semanas)
+Semana(s)
+Eje temático / Actividad
+Producto o evidencia
+Semana 1-3
+Cuerpos geométricos: identificación y clasificación
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 4-6
+Simetría: identificación de ejes de simetría
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 7-9
+Ubicación en el plano cartesiano (primer cuadrante)
+Taller práctico + evaluación formativa de cierre del bloque
+Semana 10-11
+Proyecto integrador: construcción de una maqueta con cuerpos geométricos
+Desarrollo del proyecto de cierre del periodo
+Semana 12
+Evaluación integradora del periodo y sustentación del proyecto
+Aplicación de rúbrica de desempeño del periodo (Sección 8)
+
+5. Lineamientos generales de atención a la diversidad: PIAR y DUA en la enseñanza de la geometría
+5.1 Plan Individual de Ajustes Razonables (PIAR)
+De acuerdo con el Decreto 1421 de 2017, los estudiantes con discapacidad cuentan con un PIAR construido con la familia, el docente de aula, el docente de apoyo pedagógico y el equipo interdisciplinario. Para el componente geométrico se sugiere:
+• Realizar la valoración pedagógica del estudiante para identificar barreras y potencialidades frente al pensamiento espacial.
+• Definir ajustes razonables sobre los desempeños esperados, los tiempos, los recursos (material concreto, tecnología asistida) y las formas de evaluación.
+• Priorizar el uso de material manipulativo y concreto (figuras de cartulina, cuerpos geométricos, geoplano) antes que la representación abstracta.
+• Flexibilizar los criterios e instrumentos de evaluación (evaluación oral o manipulativa en lugar de escrita, listas de chequeo sencillas).
+• Hacer seguimiento periódico al PIAR y ajustar las metas de aprendizaje por periodo académico, en articulación con el SIEE institucional.
+• Garantizar la participación del estudiante en el mismo espacio del aula regular, con los apoyos y ajustes requeridos (educación inclusiva).
+5.2 Diseño Universal para el Aprendizaje (DUA)
+El DUA se aplica a todo el grupo (no solo a estudiantes con PIAR) a partir de tres principios:
+• Múltiples formas de representación: presentar los conceptos geométricos con material concreto, imágenes, juegos y lenguaje oral y escrito.
+• Múltiples formas de acción y expresión: permitir que el estudiante demuestre su comprensión a través de construcciones manuales, exposiciones orales, dibujos o producciones gráficas, según sus fortalezas.
+• Múltiples formas de motivación y compromiso: ofrecer opciones de temas y contextos (juegos, arte, entorno cercano), retos graduados según el nivel de cada estudiante y espacios de trabajo colaborativo y de reconocimiento del logro.
+Estos principios están integrados de manera transversal en la columna "Adaptaciones PIAR / DUA" de cada tabla de periodo, y deben adaptarse a las particularidades de cada estudiante y grupo.
+6. Criterios generales de evaluación por periodo
+• Evaluación formativa y continua, coherente con el Sistema Institucional de Evaluación de los Estudiantes (SIEE) y el Decreto 1290 de 2009.
+• Ponderación sugerida por periodo: saber (conceptual) 30%, saber hacer (procedimental/producto) 40%, ser (actitudinal/convivencial) 30% — ajustar según el SIEE institucional.
+• Instrumentos: talleres prácticos, portafolio de evidencias, producciones gráficas y manuales, sustentación de proyectos, autoevaluación y coevaluación.
+• Los estudiantes con PIAR son evaluados con los ajustes razonables definidos en su plan, sin que ello implique una disminución en las expectativas de aprendizaje, sino una flexibilización de las formas de alcanzarlas y demostrarlas.
+7. Referentes normativos y bibliográficos
+• Ministerio de Educación Nacional (MEN). Lineamientos Curriculares de Matemáticas, 1998.
+• MEN. Estándares Básicos de Competencias en Matemáticas, 2006 (ciclo 3°-4°, pensamiento espacial y sistemas geométricos).
+• MEN. Derechos Básicos de Aprendizaje (DBA) de Matemáticas, V2.
+• MEN. Decreto 1290 de 2009. Evaluación del aprendizaje y promoción de los estudiantes.
+• MEN. Decreto 1421 de 2017. Atención educativa a la población con discapacidad.
+• MEN. Documento de orientaciones sobre el Diseño Universal para el Aprendizaje (DUA).
+• Secretaría de Educación — Reorganización Curricular por Ciclos (RCC) vigente en la entidad territorial.
+• Proyecto Educativo Institucional (PEI) de la institución.
+Nota: este documento es una plantilla curricular base. Los estándares, DBA y ponderaciones deben ser verificados, ajustados y aprobados por el equipo de docentes del área y el consejo académico institucional, conforme a los documentos oficiales vigentes del MEN y de la Secretaría de Educación correspondiente.
+
+ANEXOS
+Rúbrica de evaluación específica de geometría
+Grado Cuarto (4°) — Líneas, figuras planas, medidas, cuerpos geométricos y simetría
+
+8. Rúbrica de evaluación específica de geometría
+Rúbrica analítica de aplicación transversal a los tres periodos. El docente ajusta el nivel de complejidad de cada descriptor según el tema. Escala de valoración según SIEE institucional (Decreto 1290 de 2009).
+Criterio
+Desempeño Superior (4.6 – 5.0)
+Desempeño Alto (4.0 – 4.5)
+Desempeño Básico (3.0 – 3.9)
+Desempeño Bajo (1.0 – 2.9)
+Comprensión conceptual
+(líneas, figuras, cuerpos geométricos, simetría)
+Explica con claridad y ejemplos propios los conceptos geométricos trabajados y los relaciona con situaciones nuevas.
+Explica correctamente los conceptos geométricos trabajados y los aplica en situaciones conocidas.
+Reconoce e identifica los conceptos geométricos básicos, aunque presenta dificultades para explicarlos con sus propias palabras.
+Presenta dificultades para reconocer o identificar los conceptos geométricos trabajados, incluso con apoyo.
+Uso de instrumentos y material concreto
+Usa con precisión y autonomía instrumentos de medición y material concreto en diferentes contextos.
+Usa correctamente los instrumentos y el material concreto con orientación mínima.
+Usa los instrumentos y el material concreto con apoyo frecuente del docente o de sus compañeros.
+Presenta dificultades notorias para el manejo de instrumentos o material concreto, aún con acompañamiento.
+Resolución de problemas geométricos
+Resuelve y formula problemas geométricos contextualizados aplicando estrategias propias y verifica sus resultados.
+Resuelve problemas geométricos contextualizados aplicando procedimientos adecuados.
+Resuelve problemas geométricos sencillos, con apoyo para identificar la estrategia adecuada.
+Presenta dificultades para resolver problemas geométricos, incluso con acompañamiento directo.
+Representación y comunicación matemática
+Representa y comunica ideas geométricas utilizando dibujos, construcciones y lenguaje geométrico de manera clara y creativa.
+Representa y comunica ideas geométricas utilizando dibujos y lenguaje geométrico adecuado.
+Representa ideas geométricas de forma parcial, con dificultades en el uso del lenguaje geométrico.
+Presenta dificultades significativas para representar o comunicar ideas geométricas.
+Trabajo colaborativo y actitud (ser)
+Participa activamente, propone ideas, respeta los aportes de sus compañeros y asume con responsabilidad el cuidado de los materiales.
+Participa y colabora de forma adecuada, respetando a sus compañeros y cuidando los materiales.
+Participa de manera irregular en el trabajo colaborativo y requiere recordatorios para el cuidado de los materiales.
+Presenta dificultades para participar, colaborar o cuidar los materiales, incluso con llamados de atención.
+8.1 Autoevaluación del estudiante (formato sencillo)
+Para usar al final de cada guía de taller. El estudiante marca con una X según su propio proceso.
+Aspecto
+Lo logré
+Con ayuda
+En proceso
+Comprendí los conceptos trabajados en este tema.
+
+
+
+Realicé las actividades y los ejercicios propuestos en clase.
+
+
+
+Realicé los ejercicios para la casa.
+
+
+
+Trabajé con respeto y responsabilidad en equipo.
+
+
+
+9. Guías de taller
+Las guías de taller de esta malla se entregan como un documento independiente ("Guías Didácticas de Aprendizaje — Geometría Grado 4°"), elaboradas en el formato institucional del Colegio San Alberto Magno (Guía Didáctica de Aprendizaje), con una guía por cada eje temático de los tres periodos, cada una con ejercicios para trabajar en clase y para la casa.

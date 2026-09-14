@@ -1,0 +1,2088 @@
+
+
+
+
+
+
+
+
+
+
+
+MATEMÁTICASMATEMÁTICAS
+
+
+Guía de Apoyo Educativo en el área de las matemáticas.
+
+
+
+
+
+Conceptos de las funciones trigonométricas y la resolución de triángulos para el grado 10º de educación secundaria
+
+
+
+
+
+
+Autor:
+Adriana Quintero Palomino
+
+
+
+CONTENIDO
+
+
+	TEMA 1: FUNCIONES TRIGONOMÉTRICAS	3
+	¿QUÉ ES LA TRIGONOMETRÍA?	3
+	TRIGONOMETRÍA DEL TRIÁNGULO RECTÁNGULO	3
+	Ángulos Especiales	5
+	Otros Ángulos	7
+	Aplicaciones	7
+	Practica lo aprendido	11
+	Prepárate para el ICFES	16
+	TEMA 2: LA VISIÓN DINÁMICA DE LOS ÁNGULOS	19
+	ÁNGULOS Y ARCOS	19
+	Medida En Grados	20
+	Medidas En Radianes	21
+	Longitud De Arco Y Área	23
+	El Circulo Unitario	24
+	Practica lo aprendido	25
+	TEMA 3: DEFINICIÓN DEL SENO Y DEL COSENO	31
+	LAS FUNCIONES SENO Y COSENO	32
+	Ángulos Especiales	33
+	PROPIEDADES DEL SENO Y DEL COSENO	36
+	EL PUNTO TRIGONOMÉTRICO P (t)	38
+	Practica lo aprendido	39
+	Prepárate para el ICFES	43
+	TEMA 4: OTRAS FUNCIONES TROGINOMÉTRICAS	46
+	CUATRO FUNCIONES TRIGONOMÉTRICAS MÁS	47
+	Propiedades De Las Nuevas Funciones	47
+	DEFINICIONES ALTERNATIVAS DE LAS FUNCIONES TRIGONOMÉTRICAS	49
+	LA FUNCIÓN TANGENTE Y LA PENDIENTE	52
+	Practca lo aprendido	53
+	TEMA 4: CÁLCULO DE VALORES DE LAS FUNCIONES TRIGONOMÉTRICAS	59
+	ÁNGULOS DE REFERENCIA Y NÚMEROS DE REFERENCIA	60
+	Practica lo aprendido	63
+	TEMA 5: GRÁFICAS DE LAS FUNCIONES TRIGONOMÉTRICAS	68
+	LA GRÁFICA DE y = sen t	69
+	LA GRÁFICA DE y = cos t	70
+	Propiedades Fácilmente Observables De Estas Gráficas	71
+	LA GRÁFICA DE  y = tan t	72
+	LA GRÁFICA DE y = sec t	73
+	Practica lo aprendido	74
+	Resumen del capítulo	80
+	Preparate para el ICFES	81
+
+TABLA DE IMÁGENES
+	
+	Imagen 1: Triángulo rectángulo	4
+	Imagen 2: Triángulos Semejantes	5
+	Imagen 3: Triangulo Rectángulo con 45º	6
+	Imagen 4: Triángulo Rectángulo con 60º	7
+	Imagen 5: Diagrama con árbol.	9
+	Imagen 6: Campanario	10
+	Imagen 7: Ángulos en relación al campanario.	11
+	Imagen 8: Ejercicio a.	13
+	Imagen 9: Ejercicio b.	13
+	Imagen 10: Ejercicio d.	13
+	Imagen 11: Ejercicio e.	14
+	Imagen 12: Ejercicio F.	14
+	Imagen 13: Lados de un ángulo.	20
+	Imagen 14: Partes de un ángulo.	20
+	Imagen 15: Ángulo Positivo y Negativo.	21
+	Imagen 16: Ángulos con el mismo lado terminal.	22
+	Imagen 17: Circunferencia de radio r.	23
+	Imagen 18: Doblamineto de la recta real alrededor del cículo unitario.	26
+	Imagen 19: Triángulo rectángulo en circunferencia de radio 1.	32
+	Imagen 20: Consistencia en las definiciones	34
+	Imagen 21: Razones trigonométricas de diferentes ángulos sobre la circunferencia.	36
+	Imagen 22: Circunferencia de Radio 1.	39
+	Imagen 23: Vector sobre el primer cuadrante del plano cartesiano	51
+	Imagen 24: Triángulos semejantes sobre la circunferencia.	52
+	Imagen 25: ángulo de corte con el eje x.	53
+	Imagen 26: Ángulo en segundo cuadrante	61
+	Imagen 27: Diagramas en los 4 cuadrantes del plano.	62
+	Imagen 28: Gráfica de sent	71
+	Imagen 29: Gráfica Cos t	71
+	Imagen 30: Gráfica de tan t	73
+	Imagen 31: Gráfica de sec t	75
+	Imagen 32: Gráfica de 2sen t	77
+	Imagen 33: Gráfica de sen 2t	77
+	Imagen 34: Gráfica de 3sen 4t	78
+	Imagen 35: Gráfica de sumas de funciones trigonométricas.	79
+
+
+TABLA DE TABLAS
+	
+	Tabla 1: Valor de coseno y Seno de ángulos especiales.	38
+	Tabla 2: Desplazamientos de funciones	47
+
+
+TEMA 1: FUNCIONES TRIGONOMÉTRICAS
+
+
+¿QUÉ ES LA TRIGONOMETRÍA?
+
+
+En la antigüedad antes del año 100 a.C., inventaron los griegos la trigonometría para resolver problemas de astronomía, navegación y geografía. La palabra "trigonometría" viene del griego y significa "medida de triángulo". En su forma más básica, la trigonometría es el estudio de las relaciones entre los ángulos y los lados de un triángulo rectángulo.
+
+Imagen 1: Triángulo rectángulo
+
+Descripción Imagen: Triángulo con un ángulo recto (90º), dos ángulos agudos uno de estos nombrado con la letra alfa, el lado opuesto al ángulo recto se denomina Hipotenusa, el lado que forma el ángulo alfa junto con la hipotenusa, se denomina cateto adyacente, el lado restante se denomina cateto opuesto.
+
+
+TRIGONOMETRÍA DEL TRIÁNGULO RECTÁNGULO
+
+
+Un triángulo se llama triángulo rectángulo si uno de sus ángulos es un ángulo recto, esto es, un ángulo de 90°. Los otros dos ángulos son necesariamente ángulos agudos (menores que 90°) ya que la suma de los tres ángulos internos de un triángulo es 180°. Sea  [ecuación]  (la letra theta) la que denota uno de esos ángulos agudos. Se pueden clasificar los tres lados relativos a  [ecuación] : lado adyacente, lado opuesto e hipotenusa como muestra el diagrama de arriba. En términos de estos lados se introducen las tres razones fundamentales de la trigonometría: el seno de  [ecuación] , el coseno de 6 y la tangente de  [ecuación] . Utilizando abreviaciones obvias damos las siguientes definiciones.
+
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+Así, a cada ángulo agudo  [ecuación]  asociamos tres números, sen [ecuación] , cos [ecuación]  y tan [ecuación] . Un lector cuidadoso podría preguntarse si estos números dependen sólo del tamaño de  [ecuación]  o si también dependen de la longitud de los lados del triángulo rectángulo con el que se empieza.
+
+Considérense dos triángulos rectángulos distintos, cada uno con el mismo ángulo  [ecuación]  como se muestra en la siguiente imagen. Se puede considerar al triángulo inferior como amplificación del triángulo superior.
+
+Imagen 2: Triángulos Semejantes
+
+Descripción Imagen: Dos triángulos rectángulos uno de mayor tamaño que el otro, el triángulo de menor tamaño tiene un ángulo agudo denominado con la letra teta, el cateto adyacente se denomina a, el opuesto se denomina b y la hipotenusa se denomina c. En el triángulo de mayor tamaño de igual manera hay un ángulo teta y la medida de los lados son equivalentes a las del triángulo pequeño cada una multiplicada por r. Estos triángulos se denominan semejantes. 
+
+Cada uno de sus lados tiene r veces más longitud que el lado correspondiente del triángulo superior si se calcula el sen [ecuación]  del triángulo inferior, se obtiene:
+
+ [ecuación] 
+
+Que es el mismo resultado que se obtiene usando el triángulo superior. Se concluye que para  [ecuación]  dado, sen [ecuación]  tiene el mismo valor sin importar el triángulo rectángulo utilizado para calcularlo. Lo mismo sucede para cos [ecuación]  y tan [ecuación] .
+
+
+Ángulos Especiales
+
+
+Se puede utilizar el teorema de Pitágoras:
+
+ [ecuación] 
+
+Para encontrar los valores del seno, del coseno y de la tangente para los ángulos especiales 30°, 45° y 60°. Considérense los dos triángulos rectángulos de la siguiente imagen, que involucran a estos ángulos.
+
+Imagen 3: Triangulo Rectángulo con 45º 
+
+Descripción Imagen: Triángulo rectángulo con ángulos agudos cada uno de 45º, la medida de los catetos es cada una de valor a, con hipotenusa de valor 2.
+
+Imagen 4: Triángulo Rectángulo con 60º 
+
+Descripción Imagen: Triángulo rectángulo con un ángulo agudo de 30º y su complemento el otro agudo de 60º, la medida de los catetos es de valor a para el adyacente a 30º y de valor 1 para el opuesto, con hipotenusa de valor 2.
+
+
+Para ver que los valores indicados de a son correctos, se observa que en el primer triángulo:
+
+ [ecuación] ,
+
+Lo cual da a = [ecuación] . En el segundo, que es la mitad de un triángulo equilátero,
+
+ [ecuación]  0 a =  [ecuación] 
+
+A partir de estos triángulos se obtienen los siguientes resultados importantes:
+
+•	Sen45° =  [ecuación] 
+
+•	cos45° =  [ecuación] 
+
+•	Tan45° =  [ecuación] 
+
+•	Sen30° =  [ecuación] 
+
+•	cos30° =  [ecuación] 
+
+•	tan30° =  [ecuación] 
+
+•	Sen60° =  [ecuación] 
+
+•	Cos60° =  [ecuación] 
+
+•	Tan60° =  [ecuación] 
+
+
+Otros Ángulos
+
+
+Cuando se necesitan el seno, el coseno o la tangente de otro ángulo distinto de los especiales considerados hace un momentos se puede, si se tiene una calculadora científica, se presionan simplemente dos o tres teclas y se obtiene la respuesta correcta con ocho o más dígitos significativos. 
+
+Para estar seguro de que se está ley la tabla (o calculadora) en forma correcta, hay que verificar que se obtenga cada una de las siguientes respuestas:
+
+•	tan 33,1° = 0,6519 
+•	cos 54,3° = 0,5835
+•	sen 26,9° = 0,4524
+•	tan 82° = 7,115
+
+
+Aplicaciones
+
+
+Supóngase que se quiere medir el ancho de un río, sin mojarse los pies; He aquí cómo hay que proceder.
+
+Se localiza un árbol en el punto C en la orilla opuesta y se coloca en B una piedra directamente en frente de él en la orilla donde uno se encuentra, siguiente imagen.
+
+Imagen 5: Diagrama con árbol.
+
+Descripción Imagen: Triángulo rectángulo con un ángulo agudo  [ecuación]  y con vértice en ese ángulo A, la medida del cateto adyacente es de valor 100 pies, el cateto opuesto tiene medida x, el otro ángulo agudo tiene vértice C, etiquetado con la palabra árbol. El diagrama representa la situación problema anteriormente descrita.
+
+Se coloca otra piedra en A a 100 pies de distancia del punto B sobre la misma orilla. Con un aparato para medir ángulos (por ejemplo, un transportador o un teodolito), se mide el ángulo  [ecuación]  entre AB y AC. Entonces x, la longitud de BC, satisface la siguiente ecuación.
+
+
+ [ecuación] 
+
+O 
+
+X = 100 tan [ecuación] 
+
+Por ejemplo, si  [ecuación]  mide 29°, se obtiene con la calculadora científica, que tan 29° = 0,5543. Entonces x = 100 (0,5543) = 55,43 pies. Como se utilizaron piedras y árboles como puntos se sobreentiende que la respuesta no debe darse con mucha exactitud. Sería mejor decir que la distancia x es de aproximadamente 55 pies.
+
+Como un ejemplo más difícil, considérese una iglesia con un campanario como en la siguiente imagen. El problema consiste en calcular altura del campanario estando parado en el piso. Para encontrar esta altura del campanario, márquese un punto B en el suelo exactamente debajo del campanario y otro punto A, colocado a 200 pies de distancia es el suelo. Desde A, mídanse los ángulos de elevación  [ecuación]  y  [ecuación]  hasta la punta y base del campanario. Esta es toda la información que se necesitará, suponiendo que se sabe trigonometría.
+
+
+Imagen 6: Campanario
+
+Descripción Imagen: Triángulo rectángulo que se forma a partir de una imagen del campanario junto con un segmento perpendicular al techo, lo cual genera el cateto opuesto a un ángulo  [ecuación] , y solo la altura del campanario es el cateto opuesto al ángulo  [ecuación] , el cateto adyacente a ambos ángulos tiene medida 200 pies.
+
+
+Imagen 7: Ángulos en relación al campanario.
+
+Descripción Imagen: Triángulo rectángulo que se forma a partir de un segmento de valor y junto con un segmento perpendicular adicional a este de valor x, lo cual genera el cateto opuesto a un ángulo  [ecuación] = 35º, y solo la altura de valor y es el cateto opuesto al ángulo  [ecuación] =26º, el cateto adyacente a ambos ángulos tiene medida 200 pies.
+
+El diagrama representa la situación problema anteriormente descrita.
+
+
+Sea x la altura del campanario de la iglesia y y la distancia desde el suelo a la base del campanario. Supóngase que  [ecuación]  = 35° y  [ecuación]  = 26°. Entonces
+
+Tan35° =  [ecuación] 
+
+tan26° =  [ecuación] 
+
+Si se resuelve para y en la segunda ecuación y se sustituye el valor en la primera se obtendrá la siguiente secuencia de ecuaciones.
+
+Tan35° =  [ecuación] 
+
+200 tan35° = x + 200 tan26°
+
+X =  200 tan35° - 200 tan26°
+
+X = 200(0,7002 – 0,4877
+
+X = 42,5 pies
+
+Practica lo aprendido
+
+
+•	En los siguientes ejercicios, utilícese la calculadora para evaluar cada expresión. 
+
+•	sen 41,3°
+•	sen 89,3°
+•	tan 54,4°
+•	tan 72,3°
+•	cos 49,2° 
+•	cos 38,7°
+
+•	Con una calculadora, encuéntrese el valor de  [ecuación] . Por ejemplo, para hacer el problema a. en muchas calculadoras hay que presionar:
+
+ [ecuación] (0,2164) 
+
+Esto da la inversa del seno de 0,2164: es decir el ángulo cuyo seno es 0,2164.
+
+•	sen [ecuación]  = 0,2164
+•	cos  [ecuación]  = 0,9354
+•	tan  [ecuación]  = 0,3096 
+•	cos  [ecuación] = 0,3535
+•	tan  [ecuación] = 2,311 
+•	sen  [ecuación]  = 0,7302
+
+•	Cada uno de los problemas restantes en este conjunto de problemas involucra, una cantidad considerable de aritmética que se puede hacer a mano o con una calculadora. (Si se utiliza una calculadora para encontrar valores para las funciones trigonométricas, debe asegurarse de que esté modalidad de grados.) Encuéntrese x en los siguientes problemas:
+
+Imagen 8: Ejercicio a.
+•	
+Descripción Imagen: Triángulo rectángulo que se forma a partir de un segmento de valor x, el cual genera el cateto opuesto a un ángulo agudo 29º, la hipotenusa del triángulo tiene valor 35.
+
+Imagen 9: Ejercicio b.
+•	
+Descripción Imagen: Triángulo rectángulo que se forma a partir de un segmento de valor x, el cual genera el cateto adyacente a un ángulo agudo 43º, la hipotenusa del triángulo tiene valor 60.
+
+•	Hipotenusa de un triángulo, con  un ángulo de 14° y cateto opuesto a este de medida 10.
+
+Imagen 10: Ejercicio d.
+•	
+Descripción Imagen: Triángulo rectángulo que se forma a partir de un segmento de valor 24, el cual genera el cateto adyacente a un ángulo agudo de 40º, la hipotenusa del triángulo tiene valor x.
+
+
+Imagen 11: Ejercicio e.
+•	
+Descripción Imagen: Triángulos rectángulos que se forma a partir de un segmento de valor 20, en el cual son adyacentes, este segmento es el cateto opuesto para un ángulo de 26º y el ángulo de 38º de cada triángulo, los catetos adyacentes a estos ángulos suman en total una medida de valor x.
+
+Imagen 12: Ejercicio F.
+•	
+Descripción Imagen: Triángulos rectángulos que se forman a partir de un cateto opuesto en común, para un triángulo el ángulo agudo tiene valor de 44º y cateto adyacente 15, para el otro el ángulo es de 24º y su cateto adyacente mide 15 + x.
+
+
+EJEMPLO A (Resolución de un triángulo rectángulo si se conoce un ángulo y un lado)
+
+Resolver un triángulo significa determinar todas sus partes desconocidas. Resuélvase el triángulo rectángulo que tiene una hipotenusa de longitud 14,6 y un ángulo que mide 33,2°.
+
+Solución:
+
+Primero se dibuja el triángulo marcando las partes conocidas y en las partes desconocidas se ponen letras. Según nuestro acuerdo se usan las tres primeras letras griegas  [ecuación] ,  [ecuación]  y  [ecuación]  (alfa, beta y gamma) para los ángulos y a, b y c para las longitudes de los lados opuestos respectivos a esos ángulos
+
+Se necesita encontrar  [ecuación] , a y b.
+
+•	 [ecuación]  = 90° - 33,2° = 56,8° 
+•	sen 33,2° =  [ecuación] , entonces
+
+a = 14,6 sen 33,2° = (14,6) (0,5476) = 7,99
+
+•	cos 33,2° =  [ecuación] , entonces
+
+b = 14,6 cos 33,2° = (14,6) (0,8368) = 12,2
+
+Obsérvese que se dan las respuestas con tres dígitos significativos, ya que los datos dados tienen tres dígitos significativos.
+
+•	Resuélvase cada uno de los siguientes triángulos. Dibújese primero el triángulo marcándolo como en el ejemplo con  [ecuación]  = 90°.
+
+•	 [ecuación]  = 42°, c = 35
+•	 [ecuación]  = 56,2°, c = 91,3
+•	 [ecuación]  = 39,4°, a = 120
+•	 [ecuación]  = 29°, c = 50
+•	 [ecuación]  = 69,9°, c = 10,6 
+•	 [ecuación]  = 40,6°, b = 163
+
+EJEMPLO B (Resolución de un triángulo rectángulo con dos lados conocidos) 
+
+Resuélvase el triángulo rectángulo cuyos catetos son a = 42,8 y b = 94,1.
+
+Solución:
+
+Primero se dibuja el triángulo y se marcan sus partes.
+
+
+Descripción Imagen: Triángulo rectángulo con ángulos agudos de valores  [ecuación]  y  [ecuación] , y catetos de medidas 42,8 y 94,1, la hipotenusa tiene valor desconocido c. 
+
+Se deben encontrar  [ecuación] ,  [ecuación]  y c.
+
+•	tan  [ecuación]  =  [ecuación]  = 0,4548
+
+Se puede encontrar ahora  [ecuación]  utilizando la calculadora en sentido inverso. El resultado es  [ecuación]  = 24,5°
+
+•	 [ecuación]  = 90° -  [ecuación]  = 90° - 24,5° = 65,5°
+•	Se podría encontrar c, utilizando:
+
+ [ecuación] 
+
+En cambio se utiliza sen a:
+
+Sen [ecuación]  = sen 24,5° =  [ecuación] 
+
+c =  [ecuación] 
+
+•	En los siguientes problemas resuélvase el triángulo rectángulo que satisface la información dada, suponiendo que c es la hipotenusa. Se puede hacer tanto con las tablas como con una calculadora.
+
+•	a = 9, b = 12
+•	a = 40, c = 50
+•	a = 14.6, c = 32.5
+•	a = 9,52, b = 14,7
+•	a = 24, b = 10
+•	c = 41, a = 40
+•	a = 243, c = 419
+•	a = 0,123, b =0,456
+
+•	Una trayectoria recta que sube una colina se eleva 26 pies por cada 100 pies horizontales. ¿Qué ángulo hace con la horizontal?
+
+•	Una escalera de 20 pies de altura se apoya en una pared haciendo un ángulo de 76° con el nivel del suelo. ¿Qué tan alto está el extremo final de la escalera sobre la pared?
+
+•	Encuéntrese el ángulo de elevación del Sol si una mujer de 5 pies y 9 pulgadas de altura proyecta una sombra de 46,8 pies de largo. (El ángulo de elevación es el ángulo hacia arriba formado con la horizontal)
+
+•	Un tirante de alambre atado desde un poste hace un ángulo de 69º con el nivel del suelo y está fijado al suelo a 14 pies de distancia del poste. ¿A qué altura sobre el suelo está atado el alambre al poste?
+
+•	Supóngase que la mujer del problema 35 está caminando con su hija Susana, la cual tiene una altura de 3 pies 10 pulgadas. ¿Qué longitud tiene la sombra de Susana?
+
+•	Encuéntrese la longitud del soporte del alambre en el problema 9.
+
+
+Prepárate para el ICFES
+
+Los siguientes problemas se pueden resolver utilizando tanto una calcula como las tablas. Se recomienda utilizar una calculadora.
+
+•	Calcúlese cada valor
+
+•	tan 14,5°
+•	24,6 cos 74,3°
+•	 [ecuación] 
+
+•	En cada caso encuéntrese  [ecuación] .
+
+•	sen [ecuación]  = 0,6691
+•	cos  [ecuación]  = 0,5519
+•	tan  [ecuación]  = 5,396
+
+•	Desde la punta de un faro, a 120 pies sobre el nivel del mar, el ángulo de
+depresión (el ángulo hacia abajo desde la horizontal) en dirección a un 
+barco a la deriva en el mar es de 9,4° ¿A qué distancia está el barco de la base del faro?
+	
+•	Resuélvase el triángulo rectángulo en el cual b = 67,3 y c = 82,9.
+
+•	Cuando el ángulo de elevación (el ángulo hacia arriba desde la horizontal) del Sol es de 28,4°; en París, la Torre Eiffel forma una sombra horizontal de 1822 pies de largo. ¿Qué altura tiene la torre?
+
+•	Sara está volando un cometa y tiene sus manos a 5 pies por encima del suelo. Si el cometa está a 200 pies arriba del suelo y la cuerda del cometa hace un ángulo de 32,4° con la horizontal, ¿cuántos pies de cuerda está usando?
+
+•	Un avión está volando alejándose de un observador en tierra a una razón constante y mantiene una altura de 15000 pies. En cierto instante, el observador mide el ángulo de elevación como 44° y 15 segundos después como 31°. ¿Qué tan rápido está volando el avión en millas por hora?
+
+•	Desde la ventana de un edificio de oficinas, se ve una torre de televisión que está a 600 metros de distancia (horizontalmente). El ángulo de elevación del extremo superior de la torre es de 19,6° y el ángulo de depresión de la base de la torre es de 21,3°. ¿Qué altura tiene la torre?
+
+•	En cierto almacén la distancia vertical del primer piso al segundo es de 28 pies. La escalera eléctrica que tiene un alcance horizontal de 96 pies, hace 25 segundos en llevar a una persona entre los dos pisos. ¿A qué velocidad lleva la escalera?
+
+•	La Gran Pirámide tiene 480 pies de altura y su base cuadrada mide 760 pies por lado. Encuéntrese el ángulo de elevación de una de sus aristas.
+
+•	Encuéntrese el ángulo entre una diagonal principal y la diagonal de una cara de un cubo. 
+
+•	Un hexágono regular (6 lados iguales) está inscrito en un círculo de radio 4. Encuéntrese el perímetro P y el área A de este hexágono. 
+
+•	Un decágono regular (10 lados iguales) está inscrito en un círculo de radio 12. ¿Qué porcentaje del área del círculo es el área del decágono? 
+
+•	Encuéntrese el área de una estrella de David regular de 6 puntas que está inscrita en un círculo de radio 1.
+
+•	INGENIOSO. Encuéntrese el área de la estrella regular de 5 puntas (el pentagrama) que está inscrito en un círculo de radio 1.
+
+
+TEMA 2: LA VISIÓN DINÁMICA DE LOS ÁNGULOS
+
+
+En geometría se toma una visión estática de los ángulos. Un ángulo es tan sólo la unión de dos rayos con un extremo común (el vértice). En trigonometría, se piensa en los ángulos de una manera dinámica. Un ángulo está determinado por la rotación de un rayo alrededor de su extremo desde una posición inicial a una posición final.
+
+Imagen 13: Lados de un ángulo.
+
+Descripción Imagen: Unión de dos segmentos de recta en un punto, el lado horizontal está etiquetado como “Lado Inicial” el otro está etiquetado como “Lado Terminal”. 
+
+Imagen 14: Partes de un ángulo.
+
+Descripción Imagen: Ángulo de valor a, con lados y punto de corte de segmentos etiquetado como vértice.
+
+
+ÁNGULOS Y ARCOS
+
+
+Para la solución de triángulos rectángulos (que involucran ángulos) se requiere solamente la noción familiar y simple de ángulo adquirida de la geometría de la escuela secundaria. Pero para el desarrollo más extenso de la trigonometría, se necesita una nueva perspectiva sobre los ángulos, la cual se sugirió en la exposición inicial. No sólo se permiten ángulos arbitrariamente grandes sino que también se hace una distinción entre ángulos positivos y negativos. Si un Angulo está generado por una rotación en el sentido contrario de las manecillas del reloj, es positivo; si está generado por una rotación en el sentido de las manecillas del reloj, es negativo. Conocer ángulo en trigonometría es saber cómo fue originado el ángulo. Es conocer el lado inicial, el lado final y el tipo" de rotación que produjo al ángulo.
+
+Imagen 15: Ángulo Positivo y Negativo.
+
+
+Descripción Imagen: Representación gráfica de dos ángulos uno medido de derecha a izquierda etiquetado como positivo, el otro medido de izquierda a derecha etiquetado como negativo.
+
+
+Medida En Grados
+
+
+Se toma un círculo y se divide su circunferencia en 360 partes iguales. El ángulo con vértice en el centro determinado por una de estas partes tiene una medida de un grado (escrito 1°). Esta manera de medir ángulos se debe a los antiguos babilonios y es tan familiar que se utilizó en el tema anterior sin hacer más comentarios. Hay un refinamiento, sin embargo, que evitamos. Los babilonios dividían cada grado en 60 minutos y cada minuto en 60 segundos; algunas personas todavía siguen con esta incómoda práctica. Si se necesita medir ángulos con más precisión que un grado se usarán partes decimales. Así escribiremos 40,5 en lugar de 40° 30'.
+
+Es importante estar familiarizado con la medición tanto de ángulos positivos y negativos como de ángulos que resultan de rotaciones grandes. Se muestran tres ángulos en la siguiente imagen. Obsérvese que los tres tienen los mismos lados inicial y final.
+
+Imagen 16: Ángulos con el mismo lado terminal.
+
+Descripción Imagen: Plano cartesiano en el cual se encuentran graficados los ángulos de valor 30º, -330º y 390º, por tanto todos tienen como lado inicial el eje positivo x, y lado terminal un segmento ubicado sobre el primer cuadrante a 30º del inicial. Estos ángulos comparten sus lados aunque se dan en diferente sentido y medida.
+
+
+Medidas En Radianes
+
+
+La mejor manera de medir un ángulo es en radianes. Se toma un círculo de radio r. La fórmula familiar C = 2 [ecuación] r dice que la circunferencia tiene 2 [ecuación]  (aproximadamente 6.28) arcos de longitud r alrededor de él. El ángulo con vértice en el centro de un círculo determinado por un arco de longitud igual a su radio mide un radián, siguiente imagen. 
+
+Imagen 17: Circunferencia de radio r.
+
+Descripción Imagen: Circunferencia de radio r, al interior de la cual se genera un ángulo de 57,3º, mediante dos segmentos radiales tomados desde el centro, la longitud del arco formado sobre la circunferencia a partir de estos segmentos radiales tiene medida de valor r.
+
+
+Entonces un ángulo de 360° mide 2 [ecuación]  radianes y un ángulo de 180° mide  [ecuación]  radianes. Se abrevia lo anterior escribiendo:
+
+180° =  [ecuación]  radianes
+
+Para convertir de grados a radianes, sólo se necesita recordar el resultado del recuadro. Dividiendo entre 2, 3, 4 y 6 respectivamente se obtienen las conversiones de varios ángulos especiales.
+
+•	90° =  [ecuación] radianes
+ 
+•	60° =  [ecuación]  radianes
+
+•	45° =  [ecuación]  radianes
+
+•	30° =  [ecuación] radianes
+
+
+Si se divide la fórmula del recuadro entre 180, se obtiene:
+
+1° =  [ecuación]  radianes
+
+Y si se divide entre  [ecuación] , se obtiene:
+
+ [ecuación]  = 1 radián
+
+Se cumplen así las siguientes reglas.
+
+•	Para convertir de grados a radianes, se multiplica por  [ecuación] .
+•	Para convertir de radianes a grados, se multiplica por  [ecuación] .
+
+Por ejemplo
+
+22° =  [ecuación]  radianes  [ecuación]  0,38397 radianes
+
+Y
+
+2,3 radianes =  [ecuación]   [ecuación]  131,78°
+Algunas calculadoras científicas tienen una tecla que hace estas conversiones de manera automática.
+
+
+Longitud De Arco Y Área
+
+
+En cálculo se utiliza casi siempre la medición en radianes porque es una medida intrínseca. La división de un círculo en 360 partes era bastante arbitraria; su división en partes de longitud de radio (2 [ecuación]  partes) más natural. Debido a esto, las fórmulas que usan medidas en radianes tienden a ser simples mientras que aquellas que usan medida en grados son por lo general complicadas. Como un ejemplo, considérese la longitud de arco. Sea t la medida en radianes de un ángulo  [ecuación]  con vértice en el centro de un círculo de radio r. Este ángulo recorta un arco de longitud s que satisface la fórmula simple
+
+S = r t
+
+Esto se sigue directamente del hecho de que un ángulo de un radián (t = 1) recorta un arco de longitud r.
+
+
+
+Una segunda fórmula útil es la del área de un sector recortado de un círculo mediante un ángulo central de t radianes. Obsérvese que el área A de este sector, es el área de todo el círculo como t es 2 [ecuación] , esto es:
+
+ [ecuación]  .
+
+
+ [ecuación] 
+
+
+El Círculo Unitario
+
+
+La fórmula para longitud de arco toma una forma muy simple cuando r = 1, es decir, s = t. Al hacer énfasis en su significado tenemos que: 
+
+En un círculo unitario, la longitud de un arco es la misma que la me da en radianes del ángulo que lo determina.
+
+¿Qué pasa cuando t es mayor que 2 [ecuación]  o cuando t es negativa?
+
+Para entender su significado, imagínese una cuerda infinitamente larga en la cual se ha marcado la escala de los números reales. Piénsese en enrollar esta cuerda alrededor del círculo unitario como se muestra en la siguiente imagen:
+
+Imagen 18: Doblamiento de la recta real alrededor del círculo unitario.
+
+Descripción Imagen: Tres circunferencias de radio 1 sobre las cuales se muestra el proceso de doblamiento del eje x, sobre esta.
+
+
+Si se considera ahora en la longitud dirigida (esto es, la longitud señalada) de un pedazo de la cuerda, la fórmula s = t se conserva sin importar qué t sea. Por ejemplo, la longitud desacuerda correspondiente a un ángulo de 8 [ecuación]  radianes es 8 [ecuación] . Este pedazo de cuerda se enrolla alrededor del círculo unitario en sentido contrario a las manecillas del reloj exactamente 4 veces. Un pedazo de cuerda que corresponda a un ángulo de -3 [ecuación]   radianes se enrollará alrededor del círculo unitario en el sentido de las manecillas del reloj una y media veces, su longitud dirigida es -3 [ecuación] .
+
+
+Practica lo aprendido
+
+
+•	Conviértase cada una de las siguientes expresiones a radianes. Puede dejar a  [ecuación]  en su respuesta.
+
+•	120°
+•	150°
+•	315°
+•	450°
+•	160°
+•	(150/77)°
+•	225°
+•	210°
+•	300°
+•	-420°
+•	200°
+•	240°
+•	330°
+•	540°
+•	-660°
+•	(20/77)°
+
+•	Conviértase cada una de las siguientes expresiones a grados. Se debe dar la respuesta correcta redondeada a las décimas de grado.
+
+•	 [ecuación]  [ecuación]  radianes
+•	 [ecuación]  [ecuación] radianes
+•	 [ecuación]  [ecuación] radianes
+•	 [ecuación]  [ecuación] radianes	
+•	3 [ecuación] radianes
+•	3 radianes
+•	4,52 radianes
+•	 [ecuación]  radianes
+•	 [ecuación]  radianes
+•	 [ecuación]  radianes
+
+•	Encuéntrese la medida en radianes de un ángulo en el centro de círculo de 6 pulgadas de radio, el cual barre un arco de longitud
+
+•	12 pulgadas
+•	18,84 pulgadas
+
+•	Encuéntrese la longitud barrida en un círculo de radio 3 pies por ángulo en el centro de
+
+•	2 radianes
+•	5,5 radianes
+•	 [ecuación]  radianes
+•	 [ecuación]  [ecuación] radianes
+
+•	Encuéntrese el radio r de cada uno de los siguientes círculos.
+
+•	T = 2,8 radianes, s = 8,4 cm
+•	S = 33 in, t = 6 radianes
+
+•	¿A través de cuántos radianes debe pasar el minutero de un reloj 1 hora? ¿El horario en 1 hora? ¿El minutero en 5 horas?
+
+EJEMPLO A (Localización de un punto en el círculo unitario)
+
+Se supone que el punto P se mueve en la dirección contraria a las manecillas del reloj alrededor del círculo empezando en (1, 0) ¿En qué cuadrante está P cuando ha recorrido una distancia 4 unidades?, ¿y de 40 unidades?
+
+Solución:
+
+Recuérdese que la distancia que recorre P es igual a la medida en radianes del ángulo a través del cual gira OP. Una distancia de 4 unidades coloca a P en el cuadrante III ya que  [ecuación]  < 4 <  [ecuación]  [ecuación] . Una vuelta alrededor del círculo es 2 [ecuación]  = 6,28 unidades. Si se divide 40 entre 6,28, se tiene:
+
+40 = 6(6,28) + 2,32
+
+Como 2,32 está entre  [ecuación]  y  [ecuación] , recorrer 40 unidades alrededor del círculo unitario colocará a P en el cuadrante II.
+
+•	Encuéntrese el cuadrante en el que está el punto P del ejemplo anterior cuando ha recorrido cada una de las siguientes distancias.
+
+•	3 unidades 
+•	4,8 unidades 
+•	100 unidades
+•	4,7 unidades
+•	3,2 unidades
+•	 [ecuación] unidades 
+•	 [ecuación] unidades 
+•	200 unidades
+
+EJEMPLO B (Velocidad angular)
+
+Una fórmula muy relacionada con la fórmula de la longitud de arcos s = rt es la fórmula:
+
+v = rw
+
+La cual asocia la rapidez (velocidad) de un punto del borde de una rueda de radio r, con la velocidad angular w a la cual la rueda está girando. Aquí w se mide en radianes por unidad de tiempo. Úsese esta fórmula para determinar la velocidad angular en radianes por segundo de la rueda de una bicicleta con un radio de 16 pulgadas, si la bicicleta lleva una velocidad de 30 millas por hora.
+
+Solución:
+
+Se deben utilizar unidades consistentes. Se puede verificar que la velocidad de un punto en el borde de la rueda (30 millas por hora) se traduce a 44 pies por segundo y que el radio de la rueda es 4/3 pies. Por lo tanto
+
+44 =  [ecuación] w
+
+O
+
+w =  [ecuación]  = 33 radianes por segundo
+
+•	Sandra está pedaleando su triciclo de manera que la rueda delantera (radio = 8 pulgadas) gira a 4 revoluciones por segundo. ¿Qué tan rápido está avanzando en pies por segundo?
+
+Sugerencia: cuatro revoluciones por segundo es 8 [ecuación]  radiantes por segundo.
+
+•	Supóngase que la llanta de un automóvil tiene un diámetro exterior de 2,5 pies. ¿A cuántas revoluciones por minuto gira la llanta cuando el automóvil viaja a 60 millas por hora?
+
+•	Una mosca muerta está atorada en una banda que pasa por dos poleas de 6 pulgadas y 8 pulgadas de radio respectivamente. Suponiendo que la banda no resbala, ¿qué tan rápido se mueve la rosca cuando la polea mayor gira a 20 revoluciones por minuto?
+
+•	¿Qué tan rápido (en revoluciones por minuto) gira la polea pequeña en el problema 10?
+
+•	Conviértase a radianes.
+
+•	-1440°
+•	23 revoluciones
+•	 [ecuación] 
+
+•	Conviértase a grados.
+
+•	 [ecuación]  radianes
+•	– 4,63 radianes
+•	 [ecuación]  radianes
+
+•	Encuéntrese la longitud del arco barrido en un círculo de radio 4,25 centímetros por cada ángulo central.
+
+•	6 radianes
+•	 [ecuación] 
+•	 [ecuación]  radianes
+
+•	La rueda delantera del triciclo de Toño tiene un diámetro de 20 pulgadas. ¿Qué tan lejos llegará pedaleando 60 revoluciones?
+
+•	La estrella del pedal de la bicicleta de María tiene un radio de 12 centímetros,  la estrella de la rueda trasera tiene un radio de 3 centímetros y las ruedas tienen un radio de 40 centímetros. ¿Qué tan lejos llegará María si pedalea sin parar 30 revoluciones del pedal?
+
+•	Una banda se mueve a razón de 60 pies por segundo y hace girar polea (una rueda) a razón de 900 revoluciones por minuto. Encuéntrese el radio de la polea.
+
+•	Supóngase que la Tierra es una esfera de radio 3960 millas. ¿Qué tan rápido se mueve (en millas por hora) un punto en el ecuador como resultado de la rotación de la Tierra alrededor de su eje?
+
+•	La órbita de la Tierra alrededor del Sol es una elipse casi circular con un radio de 93 millones de millas. ¿Cuál es la velocidad aproximada de la Tierra (en millas por hora) en su trayectoria alrededor del Sol? Se necesitará saber que una órbita completa tarda 365,25 días.
+
+•	El ángulo sustentado por el Sol visto desde la Tierra (a 93 millones de millas de distancia) es de 0,0093 radianes. Encuéntrese el diámetro del Sol.
+
+•	Una milla náutica es la longitud de 1 minuto (1/60 de grado) de arco el ecuador de la Tierra. ¿Cuántas millas hay en una milla náutica?
+
+•	Uno de los autores (Dale Varberg) vive a 45° de latitud norte. ¿Cuánto tiempo le llevará volar al Polo norte a 600 millas por hora? (suponiendo que la Tierra es una esfera con un radio de 3960 millas).
+
+•	La ciudad de Nueva York se localiza a 40.5° de latitud norte. ¿A distancia está de ahí el ecuador?
+
+•	La ciudad de Oslo en Noruega y la de Leningrado en Rusia están ambas localizadas a 60° de latitud norte. Oslo está a 6° este (del meridiano de Greenwich), mientras que Leningrado está a 30° este. ¿Qué distancia separa a estas dos ciudades a lo largo del paralelo de 60º?
+
+•	Un reloj tiene el minutero y el horario del mismo tamaño de 6 pulgadas y llegan hasta la orilla de la carátula del reloj. Encuéntrese el área de la región angular entre las dos manecillas a las 5:40.
+
+•	Un cono tiene el radio de la base R y la altura inclinada L. Encuéntrese la fórmula de su superficie lateral. Sugerencia: imagínese que el cono está hecho de papel, córtese un lado y extiéndase el papel sobre una superficie plana.
+
+•	Considérese dos círculos, ambos con radio r y el centro de cada uno está en el borde del otro. Encuéntrese el área de la parte común de ambos círculos.
+
+
+TEMA 3: DEFINICIÓN DEL SENO Y DEL COSENO
+
+
+Colóquese un ángulo  [ecuación]  en posición estándar, cuya medida en radianes es t esto es, póngase  [ecuación]  en el plano coordenado de tal manera que su vértice está en el origen y su lado inicial esté a lo largo del eje positivo x. Sean (x, y) las coordenadas del punto de intersección del lado final con el círculo unitario. Se definen ambos sen [ecuación]  (seno de  [ecuación] ) y sen t por:
+
+Sen  [ecuación]  = sen t = y
+
+De manera similar:
+
+Cos  [ecuación]  = cos t = x
+
+Imagen 19: Triángulo rectángulo en circunferencia de radio 1.
+
+Descripción Imagen: Plano cartesiano en el cual se encuentra graficada una circunferencia de radio 1, centrada en el origen, con un punto sobre ésta, y el segmento de recta que lo une con el origen, esta unión forma un ;Angulo de valor  [ecuación] , el punto está etiquetado con la letra (x, y). Se forma un triángulo rectángulo tomando como hipotenusa el segmento de unión, cateto adyacente sobre el eje x con valor x y cateto opuesto con valor y, perpendicular al eje x y que lo une con el punto sobre la circunferencia.
+
+
+LAS FUNCIONES SENO Y COSENO
+
+
+Ya se definieron el seno y el coseno de ángulos agudos positivos. Las definiciones en nuestra exposición inicial son más generales y por lo tanto tienen más aplicaciones. Deben estudiarse muy bien. Obsérvese que se definieron el seno y el coseno para cualquier ángulo  [ecuación]  y también para el número correspondiente t. Ambos conceptos son importantes. En situaciones geométricas, los ángulos desempeñan un papel central; así que necesitaremos conocer los senos y los cosenos de los ángulos. Pero en la mayor parte de las matemáticas puras y en muchas aplicaciones científicas son las funciones trigonométricas de los números las que son importantes. En dicha relación, se enfatiza que el número t puede ser positivo o negativo, grande o pequeño. Y se puede pensar en él como la medida en radianes de un ángulo, como la longitud dirigida de un arco en el círculo unitario o simplemente como un número.
+
+
+CONSISTENCIA CON LAS DEFINICIONES ANTERIORES:
+
+
+¿Armonizan las definiciones dadas en la sección 1 para el seno y el coseno de un ángulo agudo con las de aquí? Sí. Tómese un triángulo rectángulo ABC con un ángulo agudo  [ecuación] . Colóquese  [ecuación]  en su posición estándar, determinando así un punto B' (x, y) en el círculo unitario y un punto C'(x, 0) directamente debajo, sobre el eje x.
+
+Imagen 20: Consistencia en las definiciones
+
+Descripción Imagen: Gráfico de un triángulo rectángulo con cada uno de sus catetos identificados, a su lado la circunferencia de radio uno y los triángulos semejantes que se generan a partir de un punto sobre y el corte con el eje x, y a su lado una circunferencia de radio uno centrada en el origen del plano con un punto sobre esta.
+
+Obsérvese que los triángulos ABC y AB'C' son semejantes. Se sigue que:
+
+ [ecuación] 
+
+ [ecuación] 
+
+En la izquierda están las definiciones iniciales de sen [ecuación]  y cos [ecuación] , en la derecha están las nuevas. Son consistentes.
+
+
+Ángulos Especiales
+
+
+En la sección 1 se aprendió que:
+
+•	Sen45° =  [ecuación] 
+
+•	cos45° =  [ecuación] 
+
+•	Tan45° =  [ecuación] 
+
+•	Sen30° =  [ecuación] 
+
+•	cos30° =  [ecuación] 
+
+•	tan30° =  [ecuación] 
+
+•	Sen60° =  [ecuación] 
+
+•	Cos60° =  [ecuación] 
+
+•	Tan60° =  [ecuación] 
+
+
+Haciendo uso de la consistencia de las definiciones iniciales y nuevas del seno y del coseno, se concluye que el punto en el círculo unitario que corresponde a   [ecuación]  = 45° =  [ecuación]  radianes debe tener coordenadas  [ecuación] . De igual manera, el punto correspondiente a   [ecuación]  = 30° =  [ecuación]  radianes tiene coordenadas  [ecuación] , y el correspondiente a  [ecuación]  = 60° =  [ecuación]  radianes tiene coordenadas  [ecuación] .
+
+Ahora se puede hacer uso de las simetrías obvias para encontrar las coordenadas de muchos otros puntos en el círculo unitario. En los dos diagramas de la figura 24 se muestran varios de estos puntos, anotándose primero la medida de los ángulos en radianes y después las coordenadas de los puntos correspondientes en el círculo unitario.
+
+
+Imagen 21: Razones trigonométricas de diferentes ángulos sobre la circunferencia.
+
+Descripción Imagen: Circunferencia sobre la cual se encuentran representados diferentes ángulos juntos a los cuales se relaciona el valor de sus dos razones trigonométricas seno y coseno.
+
+
+Obsérvese, por ejemplo, cómo las coordenadas de los puntos correspondientes a:
+
+•	t =  [ecuación] 
+•	t =  [ecuación]  
+•	t =  [ecuación] 
+
+Están relacionadas con el punto correspondiente a t =  [ecuación] . No se tendrá ningún problema al observar otras relaciones.
+
+Una vez que se conocen las coordenadas de un punto en el círculo unitario, se puede calcular el seno y el coseno del ángulo correspondiente. En particular, se dan los valores en la tabla. Se usan con tanta frecuencia que se deben memorizar.
+
+
+Tabla 1: Valor de coseno y Seno de ángulos especiales.
+t
+Cos t
+Sen t
+0
+1
+0
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+0
+1
+ [ecuación] 
+-1
+0
+ [ecuación] 
+0
+-1
+
+
+PROPIEDADES DEL SENO Y DEL COSENO
+
+
+Imagínese qué les pasaría a x y a y cuando r crece de o a 2 [ecuación] ; esto es, cuando P recorre el camino alrededor del círculo unitario. Por ejemplo, x decrece progresivamente hasta que encuentra su valor mínimo de  -1 en t =  [ecuación] ; después empieza a crecer hasta que regresa a 1 en t = 2 [ecuación] . Acabamos de describir el comportamiento del  cos t (o cos [ecuación] ) cuando t crece de 0 a 2 [ecuación] . Se puede delinear el comportamiento del sen t de la misma manera. Obsérvese que ambos x y y están siempre entre -1 y 1 (inclusive). Se sigue que:
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+Como P está en el círculo unitario:
+
+ [ecuación] 
+
+x = cos t y  y = sen t se sigue que:
+
+ [ecuación] 
+
+Es convencional escribir  [ecuación]  en lugar de  [ecuación]  y  [ecuación]  en lugar  [ecuación] . Así se tiene:
+
+ [ecuación] 
+
+Esto es una identidad; es cierta para toda t. Claro que también puede escribir:
+
+ [ecuación] 
+
+Se ha establecido una relación básica entre el seno y el coseno; aquí hay otras dos válidas para toda t.
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+Estas relaciones son fáciles de ver cuando 0 < t < [ecuación] . Obsérvese que t y  [ecuación]  - t son las medidas de ángulos complementarios (dos ángulos que en total miden 90° ó  [ecuación] ). Esto significa que t  y  [ecuación]  -  t determinan puntos en el círculo unitario que son, resultado de uno del otro, sobre la recta y = x. Así, tenemos que si un punto tiene coordenadas (x, y), el otro tiene coordenadas (y, x). El resulta que se dio arriba se obtiene de este hecho. Por último, se señala que t, t  [ecuación] , t  [ecuación]  ,... todos determinan el mismo punto en el círculo unitario y por lo tanto tienen el mismo  seno y el mismo coseno. Este comportamiento repetitivo coloca al seno y al coseno en una clase especial de funciones, para las que damos la siguiente definición. Una función/es periódica si hay un número positivo p tal que:
+
+F (t + p) = f (t)
+
+Para toda t en el dominio de f. La menor de tales p se llama el periodo de f. Por esto, se dice que el seno y el coseno son funciones periódicas con periodo 2 [ecuación]  y se escribe:
+
+•	sen(t + 2 [ecuación] ) = sen t
+•	cos (t + 2 [ecuación] ) = cos t
+
+
+EL PUNTO TRIGONOMÉTRICO P (t)
+
+
+Se han presentado al cos t y al sen t como las coordenadas de x y de y del punto en el círculo unitario cuya distancia dirigida de (1, 0) a lo largo del círculo unitario es t. Este punto se llama un punto trigonométrico y se denotará por P (t).
+
+Imagen 22: Circunferencia de Radio 1.
+
+Descripción Imagen: Plano cartesiano en el cual se encuentra graficada una circunferencia de radio 1, centrada en el origen, con un punto sobre ésta, y el segmento de recta que lo une con el origen, esta unión forma un ;Angulo de valor  [ecuación] , el punto está etiquetado con la letra B (cos x, sen x).
+
+
+Se verá a P (t) como una función de t ya que para cada t hay un único punto P (t). Esta función es además periódica con periodo 2 [ecuación] , esto es,
+
+P (t + 2 [ecuación] ) = P (t)
+
+Se sigue que
+
+P (t + 2k [ecuación] ) = P (t)
+
+Para cualquier entero k, un hecho que permite encontrar las coordenadas de P (t) para cualquier t sin importar qué tan grande es t. Supóngase por ejemplo que se quieren encontrar las coordenadas de P ( [ecuación] ). Como:
+
+ [ecuación] =  [ecuación] 
+
+Se sigue que
+
+ [ecuación] 
+
+De los diagramas de ángulos especiales, tenemos que:
+
+	P ( [ecuación] ) tiene coordenadas  [ecuación] . 
+
+Se concluye que P ( [ecuación] ) también tiene esas coordenadas. Esto significa que:
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+
+Practica lo aprendido
+
+
+•	En los siguientes ejercicios, encuéntrense las coordenadas del punto trigonométrico P (t) para los valores indicados de t. Sugerencia: empiécese por dibujar un círculo unitario y localícese en él a P (t); después relaciónese a P (t) con los  diagramas descritos.
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+•	t =  [ecuación] 
+
+EJEMPLO A (Utilización de P (t) para encontrar valores del seno y del coseno). Encuéntrese:
+
+•	sen( [ecuación] )
+•	cos( [ecuación] )
+
+Solución.
+
+•	Localícese a P ( [ecuación] ) en el círculo unitario y obsérvese que su coordenada y es  [ecuación]  debido a su posición
+relativa a P ( [ecuación] ). Así sen ( [ecuación] ) =  [ecuación] 
+
+•	Se simplifica el problema eliminando un múltiplo grande de 2 [ecuación] , esto es, observando que:
+
+ [ecuación] 
+
+De lo cual se concluye que P ( [ecuación] ) = P ( [ecuación] ). Entonces refiriéndose a los diagramas, o mejor con sólo observar que P ( [ecuación] ) está diametralmente opuesto a P ( [ecuación] ) en el círculo unitario, se sabe que tiene coordenadas  [ecuación] . Se puede concluir que:
+
+Cos ( [ecuación] ) =  [ecuación] 
+
+
+•	Úsese el método del ejemplo A para encontrar el valor de cada una de siguientes expresiones.
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	sen 510°
+•	cos(-720°)
+•	sen(-390°)
+•	cos(-210°)
+•	cos 840°
+•	sen 900°
+
+EJEMPLO B (Seno y coseno de -t)
+
+Pruébese que para toda t:
+
+•	sen( -t ) = -sen( t )
+•	cos( -t ) = cos ( t )
+ 
+Esto es, el seno es una función impar y el coseno es una función par.
+
+
+Solución:
+
+Los puntos P (-t) y P (t) son simétricos con respecto al eje x. Por lo tanto, si P (t) tiene coordenadas (x, y), P (-t) tiene coordenadas (x, -y) y entonces
+
+•	sen(-t) = -y = -cent 
+•	cos(-t) = x = costa
+
+•	Si sen 1,87 = 0,95557 y cos 1,87 = -0,29476. Encuéntrese sen (-1,87) y cos (-1,87).
+
+•	Si sen 15,2° = 0,2622 y cos 15,2° = 0,9650. Encuéntrese sen (-15,2°) y cos (-15,2°)
+
+•	Dado P (t) son coordenadas  [ecuación] .
+
+•	¿Cuáles son las coordenadas de P (-t)?
+•	¿Cuáles son los valores de sen (-t) y cos (-t)?
+
+•	Si t es la medida en radianes de un ángulo en el cuadrante III y sen t = -3/5, evalúese cada expresión
+
+•	sen ( -t )
+•	cos t.  Sugerencia: obsérvese la identidad pitagórica...
+•	os ( -t )
+
+•	Obsérvese que P (t) y P (t +  [ecuación] ) son simétricos con respecto al origen. Úsese esto para probar que:
+
+•	sen( [ecuación]  + t) = -sent
+•	cos( [ecuación]  + t) = -cost
+
+•	Obsérvese que P (t) y P ( [ecuación] - t) son simétricos con respecto al eje y. Úsese este hecho para encontrar identidades análogas a las del problema anterior para sen ( [ecuación]  - t) y cos ( [ecuación]  - t).
+
+
+Prepárate para el ICFES
+
+
+•	Úsese el círculo unitario para determinar el signo (más o menos) de cada una de las siguientes expresiones.
+
+•	cos 2
+•	sen(-3)
+•	cos 428°
+•	sen21,4
+•	sen( [ecuación] )
+•	sen(-820°)
+
+•	Encuéntrese las coordenadas de P (t) para los valores indicados de t.
+
+•	t =  [ecuación] 
+•	t =  [ecuación] 
+•	t =  [ecuación] 
+•	t =  [ecuación] 
+•	t =  [ecuación] 
+•	t = -93,5  [ecuación] 
+
+•	Si P(t) tiene coordenadas  [ecuación] 
+
+•	Encuéntrese los dos valores posibles de x.
+•	Encuéntrese los valores correspondientes de t.
+
+•	Una cuerda con punto inicial (0. -1) y con una longitud de  [ecuación] se enrolla alrededor del círculo unitario en el sentido de las manecillas del reloj.  ¿Cuáles son las coordenadas del extremo?
+
+•	¿Para qué valores de t que satisfacen  [ecuación]  son ciertas las siguientes expresiones?
+
+•	sen t = cos t
+•	 [ecuación]  < sen t <  [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Encuéntrese las cuatro soluciones positivas mínimas para las siguientes ecuaciones
+
+•	Sen t = 1
+•	Cos t =  [ecuación] 
+•	 [ecuación] 
+•	Sen t =  [ecuación] 
+•	
+
+•	En cada caso, supóngase que  [ecuación]  es un ángulo en la posición estándar con lado final en el cuarto cuadrante. Utilícese:
+
+ [ecuación] 
+
+Para determinar el valor indicado.
+
+•	cos  [ecuación]  si sen [ecuación]  =  [ecuación] 
+•	sen  [ecuación]  si cos  [ecuación]  =  [ecuación] 
+
+•	Úsese el círculo unitario para encontrar identidades para sen (2 [ecuación]  - t) y cos (2 [ecuación]  -  t).
+
+•	Si P (t) tiene coordenadas (4/5, —3/5), evalúese cada una siguientes expresiones. 
+
+•	sen(-t) 
+•	cos(2 [ecuación]  + t)
+•	sen ( [ecuación]  + t)
+•	sen( [ecuación]  - t) 
+•	cos(2 [ecuación]  - t)
+•	cos( [ecuación]  - t)
+
+•	Llene todos los espacios en blanco en la tabla siguiente.
+
+Tabla 2: Desplazamientos de funciones
+sen t
+cos t
+sen ( [ecuación]  + t)
+
+cos( [ecuación]  + t)
+
+sen ( [ecuación]  - t)
+
+Sen (2 [ecuación]  - t)
+
+Menor valor positivo de t 
+ [ecuación] 
+- [ecuación] 
+
+
+
+
+
+
+ [ecuación] 
+ [ecuación] 
+
+
+
+
+ [ecuación] 
+
+
+- [ecuación] 
+
+
+
+-1
+
+
+
+
+
+
+
+
+
+ [ecuación] 
+
+ [ecuación] 
+
+
+0
+
+
+
+-1
+
+
+
+
+•	Recuérdese que [ ] y {} denotan "el mayor entero en" y "la distancia al entero más cercano" en forma respectiva. Determínese cuáles de las siguientes funciones son periódicas y si es así, especifíquese el periodo. 
+
+•	f(x) = {x}
+•	f(x) = {3}
+•	f(x) = [x]
+•	f(x) = x – [x]
+
+
+TEMA 4: OTRAS FUNCIONES TROGINOMÉTRICAS
+
+
+“Por extraño que se oiga, el poder de las matemáticas está basado en su evasión de iodos los pensamientos innecesarios y en el maravilloso operaciones mentales”.  Ernst Mach
+
+Nuevas funciones derivadas de las anteriores:
+
+•	Tangente:
+ [ecuación] 
+
+
+•	Cotangente:
+
+ [ecuación] 
+
+•	Secante
+
+ [ecuación] 
+
+
+•	Cosecante:
+
+ [ecuación] 
+
+
+CUATRO FUNCIONES TRIGONOMÉTRICAS MÁS
+
+Sin duda alguna el seno y el coseno son las más importantes de las seis funciones trigonométricas. No sólo por ser más las de mayor utilización, sino porque las otras cuatro funciones pueden definirse en términos de ellas, como lo muestra el recuadro introductorio. Esto significa que si se aprende todo lo que se pueda sobre el seno y el coseno, automáticamente se puede llegar a conocer con profundidad las tangentes, cotangentes, secantes y cosecantes. Ernst Mach diría que ésta es una manera de evadir pensamientos innecesarios.
+
+Obsérvense otra vez las definiciones del recuadro introductorio. Es obvio que se tiene que quitar cualquier valor de t para el cual un denominador es cero.
+
+Por ejemplo, tan t no está definida para t =  [ecuación] , etcétera. De manera similar, csct no está definida para valores como t = 0,  [ecuación] , y   [ecuación] .
+
+
+Propiedades De Las Nuevas Funciones
+
+
+La sabiduría del párrafo inicial será demostrada ahora. Recuérdese la identidad:
+
+ [ecuación] 
+
+De la cual provienen dos identidades nuevas:
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+Para probar que la primera identidad es correcta, se toma su lado izquierdo se expresa en términos de senos y cosenos y se hace un álgebra:
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+La segunda identidad se verifica de manera similar.
+
+Supóngase que se quiere saber si la cotangente es una función par o impar (nada de eso). Basta con recordar que sen (- t) = - sent (t) y  cos (-t) = cos t y se escribe:
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+Por lo tanto, la cotangente es una función impar. De un modo similar, recuérdense las identidades:
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+De ellas se obtiene:
+
+•	  [ecuación] 
+
+Estas tres identidades son un ejemplo de las llamadas identidades cofuncionales. El seno y el coseno son cofunciones, también lo son la tangente y la cotangente, al igual que la secante y la cosecante. Obsérvese que las identidades i), ii) y iii) tienen todas la forma:
+
+Función  [ecuación]  = cofunción t
+
+Con la cosecante como la función, se tiene
+
+ [ecuación] 
+
+
+DEFINICIONES ALTERNATIVAS DE LAS FUNCIONES TRIGONOMÉTRICAS
+
+
+Hay otro enfoque a la trigonometría favorecido por algunos autores. Sea  [ecuación]  un ángulo en su posición estándar y supóngase que (a, b) es cualquier punto en su lado final a una distancia r desde el origen. 
+
+Imagen 23: Vector sobre el primer cuadrante del plano cartesiano
+
+Descripción Imagen: Primer cuadrante del plano cartesiano en el cual se encuentra graficado un segmento de recta de medida r, con punto terminal en la coordenada (a, b). 
+
+Entonces
+
+•	Sen  [ecuación]  =  [ecuación] 
+•	cos  [ecuación]  =  [ecuación] 
+•	Tan  [ecuación]  =  [ecuación] 
+•	Sec  [ecuación]  =  [ecuación] 
+•	Csc  [ecuación]  =  [ecuación] 
+•	Cot  [ecuación]  =  [ecuación] 
+Para ver que estas definiciones son equivalentes a las dadas anteriormente, considérese primero un ángulo  [ecuación]  con lado final en el cuadrante I 
+
+Imagen 24: Triángulos semejantes sobre la circunferencia.
+
+Descripción Imagen: Plano cartesiano en el cual se encuentra graficada una circunferencia, centrada en el origen, con un punto sobre ésta, y el segmento de recta que lo une con el origen, esta unión forma un ángulo de valor  [ecuación] , el punto está etiquetado con la letra B (x, y) y forma un triángulo rectángulo con el eje x, el cual tiene vértice a, otro triángulo rectángulo con el punto de corte de la circunferencia con el eje x como vértice.
+
+Por semejanza de triángulos:
+
+•	 [ecuación] 
+•	 [ecuación] 
+
+En realidad estas razones son iguales, sin importar el cuadrante en el que esté el lado final de  [ecuación] , ya que b y y tienen siempre el mismo signo así como a y x. Las dos primeras fórmulas del recuadro se obtienen ahora de las definiciones originales, las cuales dicen que:
+
+Sen  [ecuación]  = y
+
+Cos  [ecuación]  = x
+
+Las otras son una consecuencia del hecho de que las cuatro funciones restantes pueden expresarse en términos de senos y cosenos.
+
+
+LA FUNCIÓN TANGENTE Y LA PENDIENTE
+
+
+Recuérdese que la pendiente m de una recta es la razón de la subida con respecto al avance. En particular, si la recta pasa por el (a, b) y por el origen, su pendiente es:
+
+ [ecuación] 
+
+Pero este número es también la tangente del ángulo  [ecuación]  no negativo que forma la recta el eje x positivo.
+ 
+Imagen 25: ángulo de corte con el eje x.
+
+Descripción Imagen: Primer cuadrante del plano cartesiano sobre el cual se muestra una recta que corta al eje x, este corte genera un ángulo de valor  [ecuación] .
+
+
+En general, el menor ángulo  [ecuación]  no negativo formado por una recta con el eje x positivo se llama el ángulo de inclinación de la recta. Se deduce, que para cualquier recta no vertical, la pendiente m de la recta satisface:
+
+m = tan  [ecuación] 
+
+Como un ejemplo, supóngase que una recta tiene un ángulo de inclinación de 120° y pasa por el punto (1, 2). Entonces su pendiente m = tan 120° = -  [ecuación]  y la ecuación de la recta es:
+
+ [ecuación] 
+
+
+Practca lo aprendido
+
+
+•	Si sen t =  [ecuación]  y cos t =  [ecuación]  evalúese cada función.
+•	tan t 
+•	cot t
+•	sec t
+•	csc 
+
+•	Si sen t =  [ecuación]  y cos t =  [ecuación] , calcúlese cada función
+•	tan t
+•	cot t
+•	sec t
+•	csc t
+
+•	Encuéntrese los valores de tan  [ecuación]  y csc  [ecuación]  para el ángulo  [ecuación]  de la con coordenadas  [ecuación] 
+•	Encuéntrese cot [ecuación]  y sec [ecuación]  para  [ecuación] , con coordenadas  [ecuación] 
+•	Teniendo en mente lo que se sabe acerca de senos y cosenos de ángulos especiales, encuéntrese cada uno de los valores en los siguientes ejercicios.
+
+•	tan( [ecuación] )
+•	cot( [ecuación] )
+•	sec( [ecuación] )
+•	 csc( [ecuación] )
+•	cot( [ecuación] )
+•	sec( [ecuación] ) 
+•	csc( [ecuación] )
+•	sec( [ecuación] )
+•	cos( [ecuación] )
+•	sen( [ecuación] )
+•	tan ( [ecuación] )
+•	sec( [ecuación] )
+•	tan( [ecuación] )
+•	sec( [ecuación] )
+•	tan330°
+•	cot 120°
+•	sec 600°
+•	csc(-150°)
+
+•	¿Para qué valores de t en  [ecuación] no está definida cada una de las siguientes funciones?
+
+•	Sec t 
+•	tan t
+•	csc t 
+•	cot t
+
+•	¿Para cuáles valores de t en  [ecuación]  es igual a 1 cada una de las siguientes funciones?
+
+•	sec t 
+•	tan t
+•	csc t
+•	cot t
+
+EJEMPLO (Uso de las definiciones a, b, r) 
+
+Supóngase que el punto (3, —6) está en el lado final de un ángulo en su posición estándar.  Encuéntrese sen  [ecuación] , tan  [ecuación]  y sec [ecuación]  .
+
+Solución:
+
+Encuéntrese primero a r.
+
+ [ecuación] 
+
+ [ecuación] 
+
+ [ecuación] 
+
+Entonces
+
+Sen  [ecuación]  =  [ecuación] 
+
+
+Tan  [ecuación]  =  [ecuación] 
+
+Sec  [ecuación]  =  [ecuación] 
+•	En los siguientes ejercicios, encuentre el sen [ecuación]  , la tan [ecuación] , y la sec  [ecuación] , suponiendo que el punto dado está en el lado final de   [ecuación] .
+
+•	(5, -12)
+•	(7,24)
+•	(-1, -2)
+•	(-3, 2)
+
+•	Si tan  [ecuación]  =  [ecuación]  y  [ecuación]  es un ángulo en el primer cuadrante, encuéntrese sen [ecuación]  y sec  [ecuación] . Sugerencia: el punto (4, 3) está en el lado final de  [ecuación] .
+
+•	Si tan  [ecuación]  =  [ecuación]  y  [ecuación]  es un ángulo en el tercer cuadrante, encuéntrese cos  [ecuación]  y csc  [ecuación] . Sugerencia: el punto (-4, -3) está en el lado final de  [ecuación] .
+
+•	Si sen  [ecuación]  =  [ecuación]  y  [ecuación]  es un ángulo en el segundo cuadrante, encuéntrese cos  [ecuación]  y cot  [ecuación] . Sugerencia: un punto con coordenada^ igual a 5 y r = 13 está en el lado final de  [ecuación] . Por tanto, la coordenada x debe ser -12.
+
+•	Si cos  [ecuación]  =  [ecuación]  y sen  [ecuación]  <  0, encuéntrese tan  [ecuación] .
+
+•	¿Dónde interseca al círculo unitario la recta que va desde el origen hasta (5, -12)?
+
+•	¿Dónde interseca al círculo unitario, la recta que va desde el origen hasta (-6, 8)?
+
+•	Encuéntrese el ángulo de inclinación de la recta 5x + 2y = 6.
+
+•	Encuéntrese la ecuación de la recta con ángulo de inclinación 75° que pasa por (—2, 4).
+
+•	Evalúese sin utilizar una calculadora.
+
+•	sec( [ecuación] ) 
+•	cot( [ecuación] )
+•	tan( [ecuación] )
+•	csc(570°)
+•	csc( [ecuación] ) 
+•	tan(180,045°)
+
+•	 Calcúlese
+
+•	tan(sen2,4)
+•	 [ecuación] 
+•	cot(tan 1,49)	
+•	csc(sen 11,8°)
+•	csc(tan  [ecuación] )
+•	tan[tan(tan 1,5)]
+
+•	Si csc t =  [ecuación]  y cos t < 0, encuéntrese cada una de las siguientes expresiones.
+
+•	sen t
+•	cos t
+•	tan t
+•	sec( [ecuación]  - t)
+•	cot( [ecuación]  - t)
+•	csc( [ecuación]  - t)
+
+•	Pruébese que cada una de las siguientes son identidades.
+
+•	tan(-t) = -tan t 
+•	sec(-t) = sec t
+•	csc( -t ) = -csc( t )
+
+•	Encuéntrese los dos valores positivos más pequeños de t que satisfacen cada una de las siguientes expresiones.
+
+•	tan t = -1
+•	sec t =  [ecuación] 
+•	 [ecuación] 
+
+•	Encuéntrese el ángulo de inclinación de la recta que es perpendicular a la recta 4x + 3y = 9.
+
+•	Escríbase cada una de las siguientes expresiones en términos de senos y cosenos y simplifíquense.
+
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+
+•	Sea  [ecuación]  un ángulo del primer cuadrante. Exprésese cada una de las otras cinco funciones trigonométricas sólo en términos de sen [ecuación] .
+
+•	Pruébese qué   [ecuación]  y  [ecuación]  para toda t para la cual estas funciones están definidas.
+
+•	Si tan  [ecuación]  =  [ecuación]  y sen  [ecuación]  < O, evalué:
+
+ [ecuación] 
+
+•	Una rueda de radio 5 centrada en el origen está girando en sentido contrario a las manecillas del reloj a una razón de 1 radián por segundo. En t = 0 una mancha de lodo en la orilla está en (5, 0). ¿Cuáles son las coordenadas de la mancha en el tiempo t?
+
+•	En t =  [ecuación]  la mancha del problema anterior se desprende y vuela a lo largo de la recta tangente. ¿Dónde cruza al eje x?
+
+•	La carátula de un reloj está en el plano xy con centro en el origen y el 12 está en el eje y positivo. Ambas manecillas del reloj miden 5 unidades
+
+•	Encuéntrese la pendiente del minutero a las 2:24.
+•	Encuéntrese la pendiente de la recta que pasa por las puntas de ambas manecillas a las 12:50.
+
+•	Desde un aeroplano que está a h millas por encima de la superficie de la Tierra (una esfera con un radio de 3960 millas) se puede ver una luz brillante en el horizonte a d millas de distancia. Si el ángulo de depresión de la luz mide 2.1», determínese d y h.
+
+•	Una rueda con un radio de 20 centímetros de longitud se usa para mover una rueda de 50 centímetros de radio por medio de una banda que está alrededor de ellas. ¿Qué longitud tiene la banda si los centros de las dos ruedas están a una distancia de 100 centímetros?
+
+•	Exprésese la longitud L de una banda cruzada que se interseca en un ángulo 2a y que rodea dos ruedas de radios r y R  en términos de r, R y a.
+
+
+TEMA 4: CÁLCULO DE VALORES DE LAS FUNCIONES TRIGONOMÉTRICAS
+
+
+A fin de hacer un uso importante de las funciones trigonométricas, se debe poder calcular los valores para ángulos distintos de los ángulos especiales que se han considerado. El procedimiento más simple es de presionar la tecla correcta en una calculadora y leer la respuesta, único que se debe recordar es el hecho de estar seguros de que la calculadora esté en la modalidad correcta (grados o radianes), dependiendo de lo que se busca.
+
+Sin embargo, aun cuando las calculadoras se están convirtiendo en un equipo usual para los estudiantes de matemáticas y de ciencias pensamos que se debe saber también cómo se usan las tablas. Este es el objetivo del que nos ocuparemos ahora. Lo podemos llamar "qué hacer cuando la batería se acaba."
+
+Una pequeña porción de una tabla de valores con cinco decimales para sen t, tan t, cot t y cos t. En ella se lee lo siguiente:
+
+•	Sen (0,44) = 0,42594
+
+•	Tan 0,44 = 0,47078
+
+•	Cot 0,44 = 2,1241
+
+•	Cos 0,44 = 0,90475
+
+Estos resultados no son exactos; han sido redondeados a cinco dígitos significativos. Hay que recordar que se puede pensar en sen 0,44 de dos maneras, como el seno del número 0,44 o, si se desea, como el seno un ángulo con una medida en radianes de 0,44.
+
+Tal parece que la tabla tiene dos defectos. Primero, t está dada con sólo 2 lugares decimales. Si se necesita el sen 0,44736 se tiene que redondear o quizá interpolar.
+
+Sen 0,44736  [ecuación]  sen 0,45 = 0,43497
+
+Un defecto que parece ser más serio es el hecho de que los valores de t llegan sólo hasta 2.00.
+
+Esta limitación desaparece una vez que se conocen los ángulos de referencia y los números de referencia el cual es el siguiente tema.
+
+
+ÁNGULOS DE REFERENCIA Y NÚMEROS DE REFERENCIA
+
+
+Sea  [ecuación]  un ángulo en su posición estándar y sea t su medida en radianes. Asociado con  [ecuación]  está un ángulo agudo  [ecuación] , llamado el ángulo de referencia y está definido como el menor ángulo positivo entre el lado final de  [ecuación]  y el eje x. 
+
+Imagen 26: Ángulo en segundo cuadrante
+
+Descripción Imagen: Plano cartesiano con ángulo de valor  [ecuación]  en segundo cuadrante y su ángulo complementario  [ecuación]  para completar los 180º. 
+
+La medida en radianes  [ecuación]  de  [ecuación]  se llama el número de referencia correspondiente a t. Por ejemplo, el número de referencia de t =  [ecuación]  es  [ecuación]  =  [ecuación]  . Una vez que se conoce  [ecuación]  se puede encontrar sen t, cos t, etcétera, sin importar que t sea. He aquí cómo se hace.
+
+Examínense los cuatro diagramas siguientes:
+
+Imagen 27: Diagramas en los 4 cuadrantes del plano.
+
+Descripción Imagen: Cuatro diagramas etiquetados con las letras A, B, C y D. EL diagrama A muestra un plano cartesiano y en este una circunferencia de radio uno, sobre esta un punto con coordenadas (x, y) en el arco de la circunferencia que queda en el primer cuadrante y el ángulo que se genera al unir con un segmento este punto con el origen, el ángulo está etiquetado con la letra theta sub cero y el arco tiene medida t sub cero. EL diagrama B muestra un plano cartesiano y en este una circunferencia de radio uno, sobre esta un punto con coordenadas (-x, y) en el arco de la circunferencia que queda en el segundo cuadrante y el ángulo que se genera al unir con un segmento este punto con el origen medido desde el eje positivo x, el ángulo está etiquetado con la letra theta y el arco tiene medida t. EL diagrama C muestra un plano cartesiano y en este una circunferencia de radio uno, sobre esta un punto con coordenadas (-x, -y) en el arco de la circunferencia que queda en el tercer cuadrante y el ángulo que se genera al unir con un segmento este punto con el origen medido desde el eje positivo x, el ángulo está etiquetado con la letra theta y el arco tiene medida t. EL diagrama D muestra un plano cartesiano y en este una circunferencia de radio uno, sobre esta un punto con coordenadas (x, -y) en el arco de la circunferencia que queda en el cuarto cuadrante y el ángulo que se genera al unir con un segmento este punto con el origen medido desde el eje positivo x, el ángulo está etiquetado con la letra theta y el arco tiene medida t.
+
+
+Cada ángulo  [ecuación]  en B, C y D tiene a  [ecuación]  como su ángulo de referencia y por supuesto cada t tiene a  [ecuación]  como su número de referencia. Ahora se hará una observación crucial. En cada caso, el punto correspondiente a t en el círculo unitario tiene las mismas coordenadas, excepto por el signo, que el punto correspondiente a  [ecuación] . Como resultado de esto se tiene que:
+
+•	sen t =  [ecuación] sen  [ecuación] 
+•	cos t =  [ecuación] cos  [ecuación] 
+
+Con el signo + o - determinado por el cuadrante en el que se encuentra el lado final del ángulo. Por ejemplo,
+
+•	sen( [ecuación] ) = sen ( [ecuación] )
+•	cos( [ecuación] ) = -cos ( [ecuación] )
+
+O en notación de grados
+
+•	sen 150° = sen 30°
+•	cos 150° = -cos 30°
+
+Se escoge el signo más para el seno y el signo menos para el coseno porque la función seno es positiva en el segundo cuadrante, mientras que la función coseno es negativa.
+
+Lo que se acaba de decir es aplicable a las seis funciones trigonométricas. Si T es cualquiera de ellas, entonces:
+
+T (t) =  [ecuación] T ( [ecuación] )
+
+T ( [ecuación] ) =  [ecuación]  T ( [ecuación] )
+
+Con el signo más o menos determinado por el cuadrante en el que se encuentra el lado final de  [ecuación] . Por supuesto T ( [ecuación] ) es siempre no negativa ya que  [ecuación] .
+
+EJEMPLOS:
+
+
+•	Si se desea calcular cos (2,16) usando las tablas, hay que encontrar primero el número de referencia de  2,16. Aproximando  [ecuación]  a 3,14, se tiene que:
+
+ [ecuación]  = 3,14 – 2,16 = 0,98
+
+Y así usando la calculadora:
+
+Cos 2,16 = -cos 0,98 = -0,55702
+
+Obsérvese que se escogió el signo menos, porque el coseno es negativo en el cuadrante II.
+
+•	Calcular tan 24,95 es un poco más difícil. Primero se elimina un múltiplo de 2 [ecuación]  tan grande como sea posible de 24,95. Usando 6.28; para 2 [ecuación] ,se obtiene:
+
+24,95 = 3(6,28) + 6,11
+
+El número de referencia para 6,11 es:
+
+ [ecuación]  = 6,28 – 6,11 = 0,17
+
+Así
+
+Tan 24,95 = tan 6,11 = -tan 0,17 = -0,17166
+
+Se escoge el signo menos porque la tangente es negativa en el cuadrante IV.
+
+Ahora úsese una calculadora de bolsillo para encontrar tan 24,95 de la manera fácil. Asegúrese de ponerla en la modalidad de radianes. Se obtendrá  -0,18480 en lugar de -0,17166 una discrepancia basta grande. ¿A quién se le debe creer? Se sugiere creerle a la calculadora.  La razón de esta gran diferencia es que 6,28 es una aproximación pobre de 2 [ecuación] , y multiplicado por 3 hace las cosas peores. Si se hubiera usado 6.2832 para 2 [ecuación] , se hubiera obtenido:
+
+ [ecuación]  = - 0,1828 y tan 24,95 = 0,18486.
+
+
+Practica lo aprendido
+
+
+•	Encuéntrese el valor de cada una de las siguientes expresiones usando una tabla.
+
+•	sen 1,38 
+•	cot 0,82
+•	cos 0,67
+•	tan 1,11
+•	cos 42,8°
+•	sen 68,3°
+•	tan 18,0°
+•	cot 49,6°
+
+EJEMPLO A (Cálculo de los números de referencia) Encuéntrese el número de referencia  [ecuación]  para cada uno de los siguientes valores de t.
+
+•	t = 20,59
+•	t =  [ecuación] 
+
+Solución:
+
+•	Para deshacerse de los múltiplos irrelevantes de2 [ecuación] .se divide 20,59 entre 6,28 (2 [ecuación]  [ecuación]  6,28), obteniéndose 1,75 como residuo. Como 1,75 está entre  [ecuación]  y  [ecuación] , se resta de  [ecuación] . Así:
+
+ [ecuación]   [ecuación]   [ecuación]  - 1,75  [ecuación]  3,14 – 1,75 = 1,39
+
+•	Como  [ecuación]   [ecuación]  1,57 – 0,92 = 0,65
+
+
+•	Encuéntrese el número de referencia  [ecuación]  si t tiene el valor dado. Utilícese 3,14 para  [ecuación] :
+
+•	1,84
+•	2,14
+•	3,54
+•	3,74
+•	5,18
+•	6,08
+•	10,48
+•	8,38
+•	-1,12
+•	-1,86
+•	-2,64
+•	-4,24
+
+•	Encuéntrese el número de referencia para cada una de las siguientes expresiones. Puede dejarse la respuesta en términos de  [ecuación] .
+
+•	 [ecuación] 
+•	3 [ecuación]  + 0,24
+•	 [ecuación] 
+•	 [ecuación] 
+•	 [ecuación] 
+•	26 [ecuación] 
+•	 [ecuación] 
+•	3 [ecuación]  - 0,24
+•	 [ecuación] 
+•	 [ecuación] 
+•	Encuéntrese el valor de cada una de las siguientes expresiones utilizando la tabla y  [ecuación]  = 3,14. Las calculadoras darán resultados un poco diferentes debido a la burda aproximación de  [ecuación] .
+•	cos 1,42
+•	sen 2,14
+•	cos(-2,54)
+•	sen 0,97
+•	cos 3,08
+•	sen(-4,18)
+•	tan 1,39
+•	cot 5,62
+•	cot 0,08
+•	tan 4,11
+
+EJEMPLO B (Cálculos de t cuando se conocen el sen t o el cos t) 
+
+Encuéntrese 2 valores de t entre 0 y 2 [ecuación]  para los cuales:
+•	sen t = 0,90863
+•	cos t = -0,95824
+
+Solución:
+
+•	Se obtiene t = 1,14 en forma directa de la tabla (o utilizando una calculadora). Como el seno también es positivo en el cuadrante II se busca un valor de t entre  [ecuación]  y  [ecuación]  para el cual 1,14 es el número de referencia. Sólo un número satisface la condición:
+ [ecuación]  -  1,14 = 3,14 – 1,14 = 2.00
+
+•	Se sabe que cos t = 0,95824 y así  [ecuación]  = 0,29. Ahora, el coseno es negativo en los cuadrantes II y III. Por lo tanto, se buscan dos números entre  [ecuación]  y  [ecuación]  con 0,29 como número de referencia. Uno es  [ecuación]  - 0,29 = 3,14 – 0,29 = 2,85, y el otro es  [ecuación]  + 0,29  [ecuación]  3,14 + 0,29 = 3,43.
+
+•	Encuéntrese dos valores de t entre 0 y 2 [ecuación]  para los que las igualdades dadas se cumplan
+
+•	Cos t = -0,08071
+•	Cot t = 1,4007
+•	Sen t = 0,94898 
+•	Sen t = -0,48818
+•	tan t = 0,3.6021
+•	Cos t = 0,72484
+•	Tan t = 4,9131
+•	Cot t = -0,47175
+
+•	Encuéntrese el ángulo de referencia (en grados) para cada uno de los siguientes ángulos. Por ejemplo, el ángulo de referencia para  [ecuación]  = 124,1° es  [ecuación]  = 180° - 124.1° = 55,9°.
+
+•	136,6º 
+•	375,4º 
+•	348,7º 
+•	-224,4°
+•	218,1° 
+•	-99,8°
+
+
+EJEMPLO C (Cálculo del sen  [ecuación] , cos  [ecuación] , etcétera, cuando  [ecuación]  es cualquier ángulo, dado en grados) Encuéntrese el valor de cada una de las siguientes expresiones.
+
+•	Cos 214,6°
+•	cot 658°
+
+
+Solución:
+
+
+Hasta ahora se ha utilizado la tabla para encontrar el seno, el coseno, etcétera, de ángulos positivos que medían menos de 90°. Aquí se hace eso para ángulos de medidas arbitrarias (en grados), 
+
+•	El ángulo de referencia es:
+
+214,6º - 180° = 34,6° 
+
+cos 214,6° = -cos 34,6° = -0,8231
+
+Se usa el signo menos, ya que el coseno es negativo en el cuadrante III. 
+
+•	Primero se resta al ángulo 360°
+
+658° = 360° + 298°
+
+El ángulo de referencia para 298° es 360°
+
+En la columna con cot en la base y 62° a la derecha, se encuentra 0,5317. Por lo tanto cot 658° = -0,5317.
+
+
+•	Encuéntrese el valor de cada una de las siguientes expresiones.
+
+•	sen 156,1°
+•	cos 138,7°
+•	tan 348,9°
+•	cot  224,9°
+•	cos(-66,1°)
+•	sen 487°
+•	cos 441, 3°
+•	sen 180,2°
+•	cot(-134°)
+•	tan 311,6°
+
+
+•	Encuéntrese dos valores diferentes de  [ecuación]  en grados entre 0° y 360° para los que las igualdades dadas se cumplan
+
+•	sen  [ecuación] = 0,3633 
+•	cot  [ecuación] = 1,2799
+•	cos  [ecuación]  = 0,9907
+•	cos  [ecuación] = -0,9085
+•	tan  [ecuación]  = 0,4942 70. 
+•	sen  [ecuación]  = -0,2045
+
+•	Encuentre cada una de las siguientes expresiones. Se puede aproximar  [ecuación]  por 3,14.
+
+•	Cos 5,63
+•	Sen 10,34
+•	Sen 311,3°
+•	tan(-411°)
+
+
+TEMA 5: GRÁFICAS DE LAS FUNCIONES TRIGONOMÉTRICAS
+
+
+Recuérdese que para hacer la gráfica de y = f(x), se construye primero una tabla de valores de los pares ordenados (x, y), después se marcan los puntos correspondientes y por último se unen esos puntos con una curva suave. Aquí se desea hacer la gráfica de y = sen t, y = cos t, y así sucesivamente, se seguirá un procedimiento similar. Obsérvese que se usa í en lugar de .v como variable independiente porque se usó i como variable (medida en radianes de un ángulo) en la definición de las funciones trigonométricas.
+
+Se empieza con las gráficas de las funciones seno y coseno. Deberá familiarizarse tanto con estas dos gráficas a modo de poder dibujarlas rápido siempre que se necesiten. Esto ayudará de dos maneras. Primero, estas gráficas le recordarán muchas de las propiedades importantes de las funciones de seno y de coseno. Segundo, conocerlas le ayudará a hacer las gráficas de otras funciones trigonométricas más complicadas.
+
+
+LA GRÁFICA DE y = sen t
+
+Se empieza con una tabla de valores:
+
+t
+Y = sent
+0
+0
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+1
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+0
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+-1
+ [ecuación] 
+ [ecuación] 
+ [ecuación] 
+0
+
+
+Se han listado valores de t entre 0 y  [ecuación] . Esto es suficiente para hacer la gráfica de un periodo (que se muestra en la siguiente imagen). De ahí en adelante se puede continuar la curva en forma indefinida en cualquiera de las dos direcciones de manera repetitiva, ya que se aprendió antes que sen (t +  [ecuación] ) = sent.
+
+
+Imagen 28: Gráfica de sent
+
+Descripción Imagen: Gráfica de la función seno de t la cual es una onda que para el eje positivo de la x empieza en (0, 0) en pi medios llega a 1, en pi pasa nuevamente por cero luego hace este mismo recorrido de manera negativa, esto desde menos infinito hasta infinito.
+
+LA GRÁFICA DE y = cos t
+
+
+La función del coseno es una copia; su gráfica es igual a la de la función seno pero desplazada hacia la izquierda  [ecuación]  unidades.
+
+Imagen 29: Gráfica Cos t
+
+Descripción Imagen: Gráfica de la función coseno de t la cual es una onda que para el eje positivo de la x empieza en (0, 1) en pi medios llega a 0, en pi pasa nuevamente por menos 1 y luego hace este mismo recorrido de manera positiva (creciente), esto desde menos infinito hasta infinito.
+
+
+Para verificar la gráfica de la función coseno es correcto, se puede hacer una tabla de valores y proceder como se hizo con la función seno. Alternativamente se puede probar que:
+
+Cos t = sen (t +  [ecuación] )
+
+Esto es consecuencia directa de las identidades que se han observado antes.
+
+sen (t +  [ecuación] ) = sen (  [ecuación]  - (-t))
+
+
+= cos (-t) Identidad para los cofunciones
+
+= cos t.  El coseno es par.
+
+
+Propiedades Fácilmente Observables De Estas Gráficas
+
+
+•	Seno y coseno son periódicas con periodo 2 [ecuación] .
+•	 [ecuación]  y  [ecuación] 
+•	sen t = 0 si t = - [ecuación] , o,  [ecuación] , 2 [ecuación] , y así en adelante.
+•	cos t = 0 si t =  [ecuación] ,  [ecuación] ,  [ecuación] , y así en adelante.
+•	sen t > O en los cuadrantes I y II.
+•	cos t > O en los cuadrantes I y IV.
+•	sen (-t) = - sen t y cos (-t) = cos t.
+•	El seno es una función impar; su gráfica es simétrica con respecto al origen. El coseno es una función par; su gráfica es simétrica con respecto al eje y.
+•	Se puede ver de inmediato en dónde las funciones seno y coseno
+son crecientes y dónde decrecientes. Por ejemplo, la función seno decrece para  [ecuación] .
+
+
+LA GRÁFICA DE  y = tan t
+
+
+Como la función tangente está definida por:
+
+ [ecuación] 
+
+se debe tener cuidado de los valores de t para los cuales cos r = 0;  [ecuación] ,  [ecuación] ,  [ecuación] , y así en adelante. De hecho, se sabe que se deben esperar asíntotas verticales en esos lugares. Obsérvese también que:
+
+•	 [ecuación] 
+
+lo que significa que la gráfica de la tangente será simétrica con respecto al origen. Utilizando estas dos piezas de información, una pequeña tabla de valores y el hecho de que la tangente es periódica se obtiene la gráfica de la siguiente:
+
+Imagen 30: Gráfica de tan t
+
+Descripción Imagen: Gráfica de la función tangente de t la cual es una curva que cerca de menos pi medios tiende a menos infinito, pasa por (0, 0) y acercándose a pi medios tiende a más infinito. Este proceso se repite cada pi unidades.
+
+Para confirmar que la gráfica es correcta cerca de t =  [ecuación] , se sugiere ver la tabla. Obsérvese que la tangente t crece en forma continua hasta t = 1,57, se lee tan t = 1255,8. Pero cuando t se mueve tan sólo una centésima a 1,58, tan t se desploma en forma drástica a -108,65. En este corto espacio, t ha pasado por  [ecuación]  y tan t se dispara hacia alturas celestiales para después caer en un pozo sin fondo desde el que, sin embargo, logra escapar cuando t se mueve hacia la derecha.
+
+Aunque se sabía que la tangente se repetiría cada 2 [ecuación]   unidades ya que el seno y el coseno lo hacen, ahora se observa que realmente se repite en intervalos de longitud   [ecuación] . Como la palabra periodo denota la  longitud del intervalo más corto por el que se repite una función, la función tangente tiene un periodo de   [ecuación] .
+
+
+LA GRÁFICA DE y = sec t
+
+
+Como sec t =  [ecuación] , una forma de obtener la gráfica de la secante es dibujar la gráfica del coseno y después tomar recíprocos de las coordenadas y. Obsérvese que como el cos t = 0 en t =  [ecuación] ,  [ecuación] ,  [ecuación] , y así en adelante, la gráfica de sec t debe tener asíntotas verticales en esos puntos.
+
+Al igual que el coseno, la secante es una función par, esto es, sec (-t) = sec t. Y como el coseno, la secante tiene periodo 2 [ecuación] . Sin embargo, obsérvese que si cos t crece o decrece en un intervalo, sec t hace justo lo contrario. Por ejemplo, cos t decrece para 0 < t <  [ecuación] , mientras que sec t crece ahí.
+Imagen 31: Gráfica de sec t
+
+Descripción Imagen: Gráfica de la función secante de t la cual está descrita por infinitas parábolas que se generan desde cada trozo de la función coseno de t en el sentido contrario. 
+
+Asegúrese de estudiar el siguiente ejemplo. Ahí se introduce la gráfica de y = A sen Bt.
+
+
+Practica lo aprendido
+
+
+•	Hágase una tabla de valores y después dibújese la gráfica de y = cos t.
+
+•	¿Cuáles números reales constituyen el dominio del coseno, y el rango?
+
+•	Dibújese la gráfica de y = cot t para  [ecuación] , asegúrese de mostrar las asíntotas.
+
+•	¿Qué números reales constituyen el dominio entero de la cotangente y el rango?
+
+•	Utilizando el hecho correspondiente del coseno, demuéstrese en forma algebraica que sec(t + 2 [ecuación] ) = sec t,
+
+•	Dibújese la gráfica de y = csc t.
+
+•	 ¿Cuál es el dominio de la secante y el rango?
+
+•	¿Cuál es el dominio de la cosecante y el rango?
+
+•	¿Cuál es el periodo de la cotangente y de la secante?
+
+•	En el intervalo  [ecuación]  ¿dónde es creciente la cotangente?
+
+•	¿Cuál es cierta: cot (-t) = cot t o cot(-t) = -cot t?
+
+•	¿Cuál es cierta: csc(-t) = csc t o csc(-t) = -csc t?
+
+
+EJEMPLO A (Algunas gráficas relacionadas con el seno)
+
+
+Dibújala gráfica de cada una de las siguientes curvas para  [ecuación] 
+
+•	y = 2 sen t
+•	y = sen 2t 
+•	y = 3 sen 4t
+
+
+Solución:
+.
+
+•	De la tabla de valores se puede hacer la gráfica de y = sen t. Aunque es más fácil hacer la gráfica de sen t , y después multiplicar las ordenadas por 2. Como la gráfica sube y baja entre y = -2 y y = 2, se dice que tiene una amplitud de 2. El periodo es 2 [ecuación] , igual que el de sen t.
+
+Imagen 32: Gráfica de 2sen t
+
+Descripción Imagen: Gráfica de la función 2seno de t la cual es idéntica a la función seno de t pero llega hasta 2 y menos 2, cambia su amplitud.
+
+
+•	Aquí es aconsejable una tabla de valores, ya que es el primer ejemplo de este tipo. Esta gráfica recorre un  ciclo completo conforme t crece de 0 a   [ecuación] , esto es, el periodo de sen 2t es  [ecuación]  en lugar de 2 [ecuación]  al igual que para sen t. La amplitud es 1 igual que la de sen t.
+
+Imagen 33: Gráfica de sen 2t
+
+Descripción Imagen: Gráfica de la función seno de 2t la cual tiene el mismo comportamiento del seno de t pero completa un recorrido en pi, cambia su periodo.
+
+
+•	Se puede ahorrar mucho trabajo una vez que se reconoce , cómo está determinada la gráfica de A sen Bt (y A cos Bt)
+los números A y B (B > 0). La amplitud (la cual dice qué tanto sube y baja la gráfica de su posición media) está dada por  [ecuación] . El periodo está dado por  [ecuación] . Así para y = 3 sen 4t, la amplitud es 3 y el periodo es  [ecuación] . Para un dibujo rápido se usan estos dos números para determinar los puntos altos y bajos y las intersecciones con eje t, uniendo estos puntos con una curva suave en forma de ondas.
+
+Imagen 34: Gráfica de 3sen 4t
+
+Descripción Imagen: Gráfica de la función 3seno de 4t la cual se comporta como la función seno de t pero llega hasta 3 y menos 3, cambia su amplitud y en cuanto al periodo completa un recorrido en pi medios, es decir este disminuye.
+
+
+•	En los siguientes ejercicios determínese la amplitud y el periodo. Después dibújese la gráfica en los intervalos indicados.
+
+•	y = 3 cos t,  [ecuación] 
+•	y = -sen t,  [ecuación] 
+•	y = cos 4t,  [ecuación] 
+•	y = 2sen  [ecuación] t,  [ecuación] 
+•	y = 2cos3t,   [ecuación] 
+•	y =  [ecuación] cos t,  [ecuación] 
+•	y = -2 cos t,  [ecuación] 
+•	y = cos 3t,  [ecuación] 
+•	y = 3sen  [ecuación] t,   [ecuación] 
+•	y = 4sen3t.  [ecuación] 
+
+EJEMPLO B (Elaboración de gráficas de sumas de funciones trigonométricas) Dibújese la gráfica de la ecuación y = 2 sin t + cos 2t.
+
+Solución:
+
+Se hacen las gráficas de y = 2 sen t,  y = cos 2t en el mismo plano coordenado (estas aparecen como curvas punteadas en la siguiente imagen) y después se suman las ordenadas. Obsérvese que para cualquier t, las ordenadas (valores de .v) de las curvas punteadas se suman para obtener la ordenada deseada. La gráfica de y = 2 sen t + cos 2t es muy diferente de las otras gráficas (punteadas) pero se repite, tiene periodo 2 [ecuación] .
+
+Imagen 35: Gráfica de sumas de funciones trigonométricas.
+
+Descripción Imagen: Gráfica de las funciones 2 seno de t y coseno de 2t, así como la suma de estas en el mismo plano cartesiano.
+
+•	Dibújese cada gráfica por el método de sumar las ordenadas. Muéstrese al menos un periodo completo.
+
+•	y = 2 sen t + cos t
+•	y =sen 2t + cos t 
+•	y = sen [ecuación] t  +  [ecuación] sen t
+•	y = sen t + 2 cos t 
+•	y = sen t + cos 2t
+•	y = cos  [ecuación] t + cos t
+•	En los siguientes ejercicios dibújese cada gráfica en el intervalo indicado.
+
+•	y = -cos t,  [ecuación] 
+•	y = 3 sen t,  [ecuación] 
+•	y = sen 4t,  [ecuación] 
+•	y = 3 cos  [ecuación] t,  [ecuación] 
+
+•	¿Cuáles son las amplitudes y los periodos para las gráficas en los problemas c y d, del numeral anterior?
+
+•	¿Cuáles son las amplitudes y los periodos para las gráficas en los problemas a y b del ejercicio previo?
+
+•	Determínese el periodo y dibújese la gráfica de cada una de las siguientes funciones mostrando al menos tres periodos.
+
+•	y = tan 2t
+•	y = 3 tan( [ecuación] )
+
+•	Síganse las indicaciones del problema anterior.
+
+•	y = 2 cot 2t
+•	y = sec 3t
+
+•	Dibújense usando los mismos ejes las gráficas de:
+
+•	f(t) = sen t
+•	g(t) = 3 + sent
+•	h(t) =sen(t -  [ecuación] ).
+
+•	Hágalo usando los mismos ejes las gráficas de:
+
+•	f(t) = cos t
+•	g(t) = -2 + cos t
+•	h(t) = cos(t +  [ecuación] )
+
+
+•	Hágase la gráfica de y = cos 3t + 2 sen t para  [ecuación] . Úsese el método de sumar ordenadas.
+
+•	Elabórese la gráfica de v = t + sen t para  [ecuación]  Úsese el método de sumar ordenadas.
+
+•	Dibújese la gráfica de y = t - cost  para  [ecuación]  calculando los valores de y correspondientes a t = 0, 0.5, 1, 1.5, 2, 2.5, . . . , 6.
+
+•	Diséñense las gráficas de y = t y  y = 3 sen t en los mismos ejes coordenados para determinar en forma aproximada todas las soluciones de t = 3 sen t.
+
+•	La intensidad I de la corriente (en amperes) en un alambre de un circuito de corriente alterna debe satisfacer I = 30 sen (120 [ecuación] t) donde t es el tiempo medido en segundos.
+
+•	¿Cuál es el periodo?
+•	¿Cuántos ciclos (periodos) hay en un segundo?
+•	¿Cuál es la máxima intensidad en la corriente?
+
+•	Dibújese la gráfica de y =  [ecuación]  en  [ecuación] . Asegúrese de marcar varios puntos para t cerca de 0 (por ejemplo, t = -0,5; -0,2; 0,1; 0,1; 0,2; 0,5). ¿A qué valor parece acercarse y cuando t se acerca a 0?
+
+•	Considérese y = sen ( [ecuación] ) en el intervalo  [ecuación] .
+•	¿Dónde cruza su gráfica el eje t?
+•	Evalúese y para t =  [ecuación] 
+•	Dibújese la gráfica lo mejor que se pueda usando una unidad grande
+en el eje t.
+
+
+Resumen del capítulo
+
+
+La palabra trigonometría significa medición de triángulos. En su forma histórica elemental es el estudio de cómo resolver triángulos rectángulos cuando se da la información apropiada. Las principales herramientas son las tres razones trigonométricas sen  [ecuación] , cos  [ecuación]  y tan  [ecuación]  que fueron definidas primero sólo para ángulos agudos  [ecuación] .
+
+A fin de darle al tema una forma general moderna, primero se generalizó la noción de un ángulo  [ecuación] , permitiendo que  [ecuación]  tuviera tamaño arbitrario y midiéndolo tanto en grados como en radianes. Tal ángulo  [ecuación]  puede colocarse en un sistema de coordenadas en posición estándar donde cortará un arco de longitud dirigida t (la medida en radianes de  [ecuación] ) extendido en el círculo unitario de (1, 0) a (x, y). 
+
+Esto permite hacer las definiciones clave
+
+sen  [ecuación]  = sen t = y
+cos  [ecuación]  = cos t = x
+
+en las que se basa toda la trigonometría moderna.
+
+De las definiciones anteriores se derivan varias identidades, de las cuales la más importante es:
+
+ [ecuación]  
+
+También se definieron cuatro funciones adicionales:
+
+•	tan t = [ecuación] 
+•	cot t = [ecuación] 
+•	Sec t = [ecuación] 
+•	Csc t = [ecuación] 
+
+Para evaluar las funciones trigonométricas se puede usar ya una calculadora científica o las tablas. Si se usan las tablas, se vuelven importantes las nociones de ángulo de referencia y número de referencia. Por último se dibujaron las gráficas de varias funciones trigonométricas, haciendo notar su comportamiento periódico.
+
+
+Prepárate para el ICFES
+
+
+•	Resuélvanse los siguientes triángulos rectángulos
+
+•	 [ecuación]  = 47.1°, c = 36,9
+•	a = 417, c = 573
+
+•	A una distancia de 10 pies de una pared, el ángulo de elevación del extremo superior de un mural con respecto al nivel de los ojos es de 18º y el correspondiente ángulo de depresión del extremo inferior es de 10º ¿Qué altura tiene el mural?
+•	Cámbiese 33° a radianes. Cámbiese  [ecuación]  radianes a grados.
+•	¿Qué distancia avanza una rueda con un radio de 30 centímetros si efectúa 100 revoluciones?
+
+•	Calcúlese cada una de las siguientes expresiones sin usar tablas ni calculadora
+
+•	sen( [ecuación] )
+•	cos( [ecuación] )
+•	 tan( [ecuación] )
+•	sen( [ecuación] )
+
+•	Evalúese
+
+•	sen 411°
+•	cos 1312
+•	 tan 5,77º 
+•	sen 13,12
+
+•	Escríbanse en términos del sen t.
+
+•	sen(-t)
+•	sen(t + 4 [ecuación] )
+•	sen( [ecuación]  + t )
+•	cos(  [ecuación]  - t)
+
+•	¿Para qué valores de t entre 0 y 2 [ecuación]   es:
+
+•	cos t > 0
+•	cos 2t > O
+
+•	Si (-5, -12) está en el lado final de un ángulo  [ecuación]   en su posición estándar, encuéntrese
+
+•	Cot  [ecuación] 
+•	sec  [ecuación] .
+
+•	Si sen  [ecuación]  =  [ecuación]  y  [ecuación]  es un ángulo en el segundo cuadrante, encuéntrese tan  [ecuación] . 
+
+•	Dibújese la gráfica de y = 3 cos 2t para t entre  [ecuación]  y 2 [ecuación]  .
+
+•	Hágase la gráfica de y = sen t + sen 2t utilizando el método de sumar las ordenadas.
+
+•	¿Cuál es el rango de la función seno, y de la función cosecante?
+
+•	Utilizando el hecho de que la función seno es impar y la función coseno es par, pruébese que la cotangente es una función impar.
+
+•	Dé la definición general de cos t basándose en el círculo unitario.
+

@@ -1,0 +1,2065 @@
+FÍSICA
+
+Guía de Apoyo Educativo en el área de
+
+Ciencias Naturales
+
+Conceptos de Ondas de sonido y de luz grado 9º de educación básica secundaria
+
+Autor:
+
+Fabián Ricardo Carvajal Córdoba
+
+Aclaración
+
+Se recomienda desactivar la lectura de las dimensiones de gráficos en su lector de pantalla, y usar Microsoft Word 2010 o versiones superiores. Para el software Jaws versión 16.0 seguir la ruta:
+
+Presione tecla Insert + V luego clic en Opciones Generales. Clic en Cantidad de Información. Clic en Pestaña gráficos “Incluir dimensiones de gráficos” para desactivar.
+
+Los conceptos trabajados acerca de Sonido y Luz contienen bajo contenido aritmético. La información que se encuentra recopila el trabajo por físicos desde hace muchos siglos hasta la actualidad con las aplicaciones. Para ello se hace uso de lecturas sugeridas, lectura científica, analogías y ejercicios cotidianos.
+
+En cada capítulo encontrará las secciones “Examínate” que consiste en preguntas o ejercicios para responder después de cada sección de lectura. A continuación encontrará la respuesta que se sugiere para comparar y comprobar los avances.
+
+Algunos datos curiosos harán más amena la lectura de la guía.
+
+Al final de cada capítulo encontrará una serie de problemas y ejercicios de todas las secciones leídas. Los laboratorios y proyectos sugeridos en algunas secciones se deben realizar bajo la supervisión de un adulto o el docente a cargo.
+
+# Contenido
+
+## Índice de Imágenes
+
+Imagen 1. Péndulo 14
+
+Imagen 2. Curva senoide 16
+
+Imagen 3. Vista superior de las ondas en el agua 21
+
+Imagen 4. Tipos de onda 23
+
+Imagen 5. Interferencias en ondas 26
+
+Imagen 6. Onda estacionaria 27
+
+Imagen 7. Ondas estacionarias 28
+
+Imagen 8. Ondas por un insecto 31
+
+Imagen 9. Ondas por un insecto que nada 32
+
+Imagen 10. Ondas por un insecto más rápido 35
+
+Imagen 11. Patrones de un insecto que nada 36
+
+Imagen 12. Onda de choque de avión 38
+
+Imagen 13. Comprensión y rarefacción 56
+
+Imagen 14. Ondas constructivas y destructivas 68
+
+Imagen 15. Interferencia de ondas sonoras 69
+
+Imagen 16. Señales de radio de A.M. y F.M 74
+
+Imagen 17. Señales de radio de A.M. y F.M 75
+
+Imagen 18. Montaje proyecto 2 81
+
+Imagen 19. Campo electromagnético 90
+
+Imagen 20. Espectro electromagnético 93
+
+Imagen 21. Núcleo atómico y electrones 96
+
+Imagen 22. Eclipses 104
+
+Imagen 23. El ojo humano 105
+
+Imagen 24. Ilusión óptica 1 110
+
+Imagen 25. Ilusión óptica 2 111
+
+Imagen 30. Ilusión óptica 3 112
+
+Imagen 27. Reflexión en espejo 124
+
+Imagen 28. Demostración de la Reflexión 125
+
+Imagen 29. Ley de la reflexión 126
+
+Imagen 36. Imagen en espejo 127
+
+Imagen 37. Refracción 131
+
+Imagen 38. Ley de la refracción 132
+
+Imagen 39. Refracción a través del vidrio 133
+
+Imagen 40. Frente de ondas 138
+
+Imagen 41. Espejismo 139
+
+Imagen 42. Dispersión de una gota 142
+
+Imagen 43. Escuadra formando 42° 144
+
+Imagen 44. Letras al revés 152
+
+Imagen 45. Principio de Huygens 159
+
+Imagen 46. Fuente a través de rendija 161
+
+Imagen 47. Gráfica de luz por rendija 162
+
+Imagen 48. Tornillo iluminado con láser 165
+
+Imagen 49. Interferencia de dos fuentes. 167
+
+Imagen 50. Luz a través de dos rendijas 168
+
+Imagen 51. Diagrama cuña de aire entre vidrio 171
+
+Imagen 52. Onda plano polarizada 176
+
+Imagen 53. Representación de ondas plano polarizadas. 177
+
+Imagen 54. Lentes polarizados 180
+
+Imagen 55. Filtros polarizadores 181
+
+Imagen 56. Un estereograma generado por computadora 182
+
+# Capítulo 1: vibraciones y ondas
+
+En general, todo lo que va y viene, va de un lado a otro y regresa, entra y sale, se enciende y apaga, es fuerte y débil, sube y baja, está vibrando. Una vibración es una oscilación en el tiempo. Un vaivén tanto en el espacio como en el tiempo es una onda, la cual se extiende de un lugar a otro. La luz y el sonido son vibraciones que se propagan en el espacio en forma de ondas; sin embrago, se trata de dos clases de ondas muy distintas. El sonido es la propagación de vibraciones a través de un medio material sólido, líquido o gaseoso. Si no hay medio que vibre, entonces no es posible el sonido. El sonido no puede viajar en el vacío. No obstante, la luz sí puede viajar en el vacío, porque, como veremos en los capítulos siguientes, es una vibración de campos eléctricos y magnéticos, una vibración de energía pura. La luz puede atravesar muchos materiales, pero no necesita de alguno de ellos. Esto se ve cuando la luz solar viaja por el vacío y llega a la Tierra. La fuente de todas las ondas, de sonido, de luz o de lo que sea, es algo que vibra. Comenzaremos nuestro estudio de las vibraciones y de las ondas examinando el movimiento de un péndulo simple.
+
+## Oscilación de un péndulo
+
+Si colgamos una piedra de un cordón tendremos un péndulo simple. Los péndulos se balancean, y van y vienen con tal regularidad que, durante mucho tiempo, se usaron para controlar el movimiento de la mayoría de los relojes. Se encuentran en los relojes de los abuelos y en los relojes de cucú. Galileo descubrió que el tiempo que tarda un péndulo en ir y venir en distancias cortas sólo depende de la longitud del péndulo. Es sorprendente que el tiempo de una oscilación de ida y vuelta, llamado periodo, no depende de la masa del péndulo ni del tamaño del arco en el cual oscila.
+
+Un péndulo largo tiene un periodo más largo que un péndulo corto; esto es, oscila de ida y vuelta con menos frecuencia que un péndulo corto. El péndulo del reloj del abuelo, con una longitud aproximada de 1 m, por ejemplo, oscila con un serenado periodo de 2 s; en tanto que el péndulo mucho más corto de un reloj de cucú oscila con un periodo menor que 1 segundo.
+
+Además de la longitud, el periodo de un péndulo depende de la aceleración de la gravedad. Los buscadores de petróleo y de minerales usan péndulos muy sensibles para detectar pequeñas diferencias de esa aceleración. La aceleración de la gravedad varía debido a la densidad de las formaciones subterráneas.
+
+*Imagen 1. Péndulo*
+
+Descripción de la Imagen 1. Deja caer dos esferas de masa distinta y aceleran con g. Déjalas deslizar sin fricción por el mismo plano inclinado y bajarán juntas a la misma fracción de g. Amárralas a cordones de la misma longitud, para formar péndulos, y oscilarán al unísono. En todos los casos, los movimientos son independientes de la masa.
+
+## Descripción de una onda
+
+El movimiento vibratorio de ir y venir (a menudo también conocido como movimiento oscilatorio) de un péndulo que describe un arco pequeño se llama movimiento armónico simple. La lenteja de un péndulo, llena de arena, tiene movimiento armónico simple sobre una banda transportadora. Cuando esa banda no se mueve (izquierda), la arena que suelta traza una recta. Lo más interesante es que cuando la banda transportadora se mueve a rapidez constante (derecha), la arena que sale traza una curva especial, llamada senoide o sinusoide.
+
+También un contrapeso que esté fijo a un resorte, que tenga movimiento armónico simple vertical, describe una curva senoide (Imagen 2), la cual es una representación gráfica de una onda. Al igual que con una onda de agua, a los puntos altos de una senoide se les llama crestas; y a los puntos bajos, valles. La línea recta punteada representa la posición “inicial”, o el “punto medio” de la vibración. Se aplica el término amplitud para indicar la distancia del punto medio a la cresta (o valle) de la onda. Así, la amplitud es igual al desplazamiento máximo respecto al equilibrio.
+
+*Imagen 2. Curva senoide*
+
+Descripción de la Imagen 2. Cuerva senoide. Cuando la lenteja oscila hacia arriba y hacia abajo, la pluma traza una curva senoide sobre papel que se mueve en dirección horizontal con rapidez constante. Se aprecia la amplitud y la longitud de onda.
+
+La longitud de onda es la distancia desde la cima de una cresta hasta la cima de la siguiente cresta. También, longitud de onda es la distancia entre cualesquiera dos partes idénticas sucesivas de la onda. Las longitudes de onda de las olas en una playa se miden en metros; las de las ondulaciones en un estanque, en centímetros; y las de la luz, en milésimas de millonésimas de metro (nanómetros).
+
+La rapidez de repetición en una vibración se describe por su frecuencia. La frecuencia de un péndulo oscilante, o de un objeto fijo a un resorte, indica la cantidad de oscilaciones o vibraciones que efectúa en determinado tiempo (que por lo general es un segundo). Una oscilación completa de ida y vuelta es una vibración. Si se hace en un segundo, la frecuencia es una vibración por segundo. Si en un segundo hay dos vibraciones, la frecuencia es dos vibraciones por segundo.
+
+La unidad de frecuencia se llama Hertz (Hz), en honor a Heinrich Hertz, quien demostró la existencia de las ondas de radio en 1886. Una vibración por segundo es 1 Hertz; dos vibraciones por segundo son 2 Hertz, etcétera. Las frecuencias mayores se miden en kilohertz (kHz, miles de Hertz), e incluso las frecuencias todavía mayores en megahertz (MHz, millones de Hertz) o gigahertz (GHz, miles de millones de Hertz). Las ondas de radio A.M. se miden en kilohertz; en tanto que las de radio FM en megahertz; el radar y los hornos de microondas funcionan con frecuencias de gigahertz. Una estación de radio de AM de 960 kHz, por ejemplo, transmite ondas cuya frecuencia es de 960.000 vibraciones por segundo. Una estación de radio de FM de 101.7 MHz transmite a 101.700.000 de Hertz. Estas frecuencias de las ondas de radio son las que tienen los electrones que son forzados a vibrar en la antena de una torre emisora de una estación de radio. La fuente de todas las ondas es algo que vibra. La frecuencia de la fuente vibratoria y la de la onda que produce son iguales.
+
+Dato curioso: La frecuencia de una onda “clásica” (como una onda de sonido, de agua o de radio) es igual a la frecuencia de su fuente vibratoria. En el mundo cuántico de los átomos y fotones, las reglas son diferentes.
+
+El periodo de una vibración o una onda es el tiempo que tarda en completar una vibración. Si se conoce la frecuencia de un objeto, se puede determinar su periodo, y viceversa. Por ejemplo, imagina que un péndulo hace dos oscilaciones en un segundo. Su frecuencia de vibración es 2 Hz. El tiempo necesario para terminar una vibración, es decir, el periodo de vibración, es de ½ segundo. O bien, si la frecuencia de vibración es 3 Hz, entonces, el periodo es de 1/3 segundo. La frecuencia y el periodo son recíprocos entre sí:
+
+```latex
+Frecuencia=\frac{1}{periodo}
+```
+
+La ecuación se lee, Frecuencia = 1 sobre periodo. Recuerda que también “sobre” significa que se puede leer, frecuencia = 1/periodo, o también, frecuencia = 1 ÷ periodo.
+
+O viceversa:
+
+```latex
+Periodo=\frac{1}{frecuencia}
+```
+
+La ecuación se lee, periodo = 1/frecuencia.
+
+#### Examínate
+
+1. ¿Cuál es la frecuencia de una onda, dado que su periodo es aproximadamente de 0,01667 segundos?
+
+2. Las ráfagas de aire hacen que el edificio de Sears en Chicago oscile con una frecuencia aproximada de vibración de 0,1 Hz. ¿Cuál es el periodo de esta vibración?
+
+#### Comprueba tus respuestas
+
+1. Frecuencia = 1/periodo = 1/0,01667 s = 60 Hz. (0.01667 = 1/60). De manera que la onda oscila 60 veces por segundo y tiene un periodo de 1/60 segundo.
+
+2. El periodo es igual a 1/frecuencia = 1/(0.1 Hz) = 1/(0,1 vibración/s) = 10 s. Cada oscilación, en consecuencia, ocupa 10 segundos.
+
+## Movimiento ondulatorio
+
+La mayoría de la información acerca de lo que nos rodea nos llega en alguna forma de ondas. Es a través del movimiento ondulatorio que el sonido llega a nuestros oídos, la luz a nuestros ojos, y las señales electromagnéticas a los radios y televisores. A través del movimiento ondulatorio se puede transferir energía de una fuente hacia un receptor, sin transferir materia entre esos dos puntos.
+
+Entenderemos mejor el movimiento ondulatorio, si primero examinamos el caso sencillo de una cuerda horizontal estirada. Si se sube y baja un extremo de esa cuerda, a lo largo de ella viaja una perturbación rítmica. Cada partícula de la cuerda se mueve hacia arriba y hacia abajo; en tanto que al mismo tiempo la perturbación recorre la longitud de la cuerda. El medio, que puede ser una cuerda o cualquier otra cosa, regresa a su estado inicial después de haber pasado la perturbación. Lo que se propaga es la perturbación, y no el medio mismo.
+
+Quizás un ejemplo más familiar del movimiento ondulatorio sea una onda en el agua. Si se deja caer una piedra en un estanque tranquilo, las ondas viajarán hacia afuera, formando círculos cada vez mayores cuyos centros están en la fuente de la perturbación. En este caso pensaríamos que se transporta agua con las ondas, porque cuando éstas llegan a la orilla, salpican agua sobre terreno que antes estaba seco. Sin embargo, debemos darnos cuenta de que si las ondas encuentran barreras impasables, el agua regresará al estanque y las cosas serían casi como estaban al principio: la superficie del agua habrá sido perturbada, pero el agua misma no habrá ido a ninguna parte. Una hoja sobre la superficie subirá y bajará cuando pase la onda por ella, pero terminará donde estaba antes. De nuevo, el medio regresará a su estado inicial después de que pasó la perturbación, incluso en el caso extremo de un tsunami.
+
+Ahora veamos otro ejemplo de una onda, para ilustrar que lo que se transporta de una parte a otra es una perturbación en un medio, y no el medio en sí. Si contemplas un campo con el césped crecido desde un punto elevado, en un día ventoso, verás que las ondas viajan por el césped. Los tallos individuales de césped no dejan sus lugares, en vez de ello sólo se balancean. Además, si te paras en una vereda angosta, el césped que está en la orilla del sendero, que llega a tocar tus piernas, se parece mucho al agua que salpica sobre la orilla de nuestro ejemplo anterior. Si bien el movimiento ondulatorio continúa, el césped oscila, “vibrando” entre límites definidos, pero sin ir a ningún lado. Cuando cesa el movimiento ondulatorio, el césped regresa a su posición inicial.
+
+## Rapidez de una onda
+
+La rapidez del movimiento ondulatorio periódico se relaciona con la frecuencia y la longitud de onda de las ondas. Entenderemos bien esto si imaginamos el caso sencillo de las ondas en el agua (Imagen 3). Si fijáramos los ojos en un punto estacionario de la superficie del agua y observáramos las olas que pasan por él, podríamos medir cuánto tiempo pasa entre la llegada de una cresta y la llegada de la siguiente cresta (el periodo), y también observaríamos la distancia entre las crestas (la longitud de onda). Sabemos que la rapidez se define como una distancia dividida entre un tiempo. En este caso, la distancia es una longitud de onda y el tiempo es un periodo, por lo que la rapidez de la onda = longitud de onda/periodo.
+
+*Imagen 3. Vista superior de las ondas en el agua*
+
+Descripción de la Imagen 3. Vista superior de las ondas en el agua. Círculos concéntricos que se forman hacia afuera con una misma distancia entre ellos llamado longitud de onda.
+
+Por ejemplo, si la longitud de la onda es 10 metros y el tiempo entre las crestas, en un punto de la superficie, es 0,5 segundos, la onda recorre 10 metros en 0,5 segundos, y su rapidez será 10 metros divididos entre 0,5 segundos, es decir, 20 metros por segundo.
+
+Como el periodo es igual al inverso de la frecuencia, la fórmula rapidez de la onda = longitud de onda/periodo se escribe también como:
+
+Rapidez de la onda = longitud de onda × frecuencia
+
+Esta relación es válida para todas las clases de ondas, ya sean de agua, sonoras o luminosas.
+
+La rapidez v de una onda se expresa mediante la ecuación v = f×λ (f × lambda), donde f es la frecuencia de onda y λ (la letra griega lambda) es la longitud de onda. ¡Eureka!
+
+#### Examínate
+
+1. Si frente a ti pasa un tren de carga, y cada furgón tiene 10 m de longitud, y ves que cada segundo pasan tres furgones, ¿cuál será la rapidez del tren?
+
+2. Si una ola en el agua sube y baja tres veces cada segundo, y la distancia entre las crestas de las olas es 2 m, ¿cuál es la frecuencia del oleaje? ¿Cuál es la longitud de onda? ¿Cuál es la rapidez de la ola?
+
+#### Comprueba tus respuestas
+
+1. 30 m/s. Se puede llegar a esto en dos formas. a) Según la definición de rapidez, v = d/t = (3 × 10 m)/1 s = 30 m/s, ya que frente a ti pasan 30 m del tren en 1 s. b) Si se compara el tren con un movimiento ondulatorio, donde la longitud de onda corresponde a 10 m y la frecuencia es 3 Hz, entonces rapidez = longitud de onda × frecuencia = 10 m × 3 Hz = 10 m × 3/s = 30 m/s.
+
+2. La frecuencia de la ola es 3 Hz, su longitud es 2 m y su rapidez de onda = longitud de onda × frecuencia = 2 m × 3/s = 6 m/s. Se acostumbra expresar lo anterior en la ecuación v = λ × f, donde v es la rapidez de la onda, λ (letra griega lambda) es la longitud de onda y f es la frecuencia de la onda.
+
+## Ondas transversales
+
+Sujeta un extremo de un cordón a la pared, y con la mano sujeta el otro extremo. Si de repente agitas tu mano hacia arriba y hacia abajo, se formará un impulso que viajará a lo largo de la cuerda de ida y vuelta. En este caso, el movimiento del cordón (hacia arriba y hacia abajo) forma un ángulo recto con la dirección de la rapidez de la onda. El movimiento perpendicular, o hacia los lados, en este caso, se llama movimiento transversal. Ahora mueve el cordón con un movimiento de subida y bajada periódico y continuo, y la serie de impulsos producirán una onda. Como el movimiento del medio (que en este caso es el cordón) es transversal respecto a la dirección hacia donde viaja la onda, a esta clase de onda se le llama onda transversal.
+
+Las ondas en las cuerdas tensas de los instrumentos musicales y sobre la superficie de los líquidos son transversales. Después veremos que las ondas electromagnéticas, que pueden ser de radio o de luz, también son transversales.
+
+## Ondas longitudinales
+
+No todas las ondas son transversales. A veces las partes que forman un medio van y vienen en la misma dirección en la que viaja la onda. El movimiento es a lo largo de la dirección de la onda, y no en ángulo recto con ella. Esto produce una onda longitudinal.
+
+*Imagen 4. Tipos de onda*
+
+Descripción de la Imagen 4. Tipos de onda. Las dos ondas transfieren energía de izquierda a derecha. Se muestra un largo juguete (slinky) atado a una pared perturbada de dos maneras. Forma a, cuando el resorte de juguete (slinky) se estira y se oprime con rapidez, en su longitud, se produce una onda longitudinal. Forma b, cuando el extremo del resorte se mueve de arriba a abajo, se produce una onda transversal. La longitud de onda en cada caso es la misma.
+
+Se pueden demostrar tanto las ondas transversales como las longitudinales con un slinky o resorte flexible y largo, estirado como en la Imagen 4. Una onda transversal se forma subiendo y bajando el extremo del slinky o moviéndolo de un lado a otro. Una onda longitudinal se forma si se tira y empuja con rapidez el extremo del slinky, hacia uno o alejándose de él. En este caso se ve que el medio vibra en dirección paralela a la de la transferencia de energía. Una parte del resorte se comprime, y una onda de compresión viaja por él. Entre las compresiones sucesivas está una región estirada, llamada rarefacción. Las compresiones y las rarefacciones viajan en la misma dirección, a lo largo del resorte. Las ondas sonoras son ondas longitudinales.
+
+Dato curioso: el sonido requiere de un medio. No puede viajar en el vacío porque no hay nada que comprimir ni que estirar.
+
+Las ondas que viajan por el suelo, generadas por los terremotos, son de dos clases principales: ondas P longitudinales y ondas S transversales. Las ondas S no pueden propagarse por la materia líquida; mientras que las ondas P pueden transmitirse tanto por las partes fundidas como por las partes sólidas del interior de la Tierra. Al estudiar esas ondas se deduce mucho acerca del interior de la Tierra.
+
+La longitud de onda de una onda longitudinal es la distancia entre las compresiones sucesivas o, lo que es equivalente, entre las rarefacciones sucesivas. El ejemplo más común de ondas longitudinales es el sonido en el aire. Las moléculas del aire vibran hacia adelante y hacia atrás, respecto a una posición de equilibrio, cuando pasan las ondas. En el siguiente capítulo estudiaremos con detalle las ondas sonoras.
+
+## Interferencia
+
+Mientras que un objeto, como una piedra, no comparte su espacio con otra (otra piedra), podría haber más de una vibración u onda al mismo tiempo y en el mismo espacio. Si dejamos caer dos piedras en el agua, las ondas que produce cada una pueden traslaparse y formar un patrón de interferencia. Dentro del patrón, los efectos ondulatorios aumentarían, disminuirían o se anularían.
+
+Cuando más de una onda ocupa el mismo espacio en el mismo tiempo, en cada punto del espacio se suman los desplazamientos. Es el principio de superposición. Así, cuando la cresta de una onda se traslapa con la cresta de otra onda, sus efectos individuales se suman y producen una onda de mayor amplitud. A esto se le llama interferencia constructiva (Imagen 5). Cuando la cresta de una onda se traslapa con el valle de otra onda, se reducen sus efectos individuales. Simplemente, la parte alta de una onda llena la parte baja de otra. A esto se le llama interferencia destructiva.
+
+*Imagen 5. Interferencias en ondas*
+
+Descripción de la Imagen 5. Interferencias de onda. Interferencias constructiva y destructiva en una onda transversal. Dos ondas sumadas dan como resultado una onda refuerzo si son iguales. Dos ondas se anulan si las ondas se encuentran desfasadas media longitud de onda.
+
+La forma de entender mejor la interferencia entre ondas es en el agua. En Imagina el patrón de interferencia que se produce cuando dos objetos vibratorios tocan la superficie del agua. Se observa que las regiones donde se traslapa una cresta de una onda, con el valle de otra onda, producen regiones cuya amplitud es cero. En los puntos de esas regiones, las ondas llegan con las fases opuestas. Se dice que están desfasadas entre sí.
+
+La interferencia es característica de todo movimiento ondulatorio, aunque las ondas sean de agua, sonoras o luminosas. En el próximo capítulo describiremos la interferencia en el sonido, y más adelante acerca de la interferencia en la luz.
+
+## Ondas estacionarias
+
+Si sujetamos una cuerda a un muro, y agitamos hacia arriba y hacia abajo el otro extremo, se producirá un tren de ondas en la cuerda. El muro es demasiado rígido para moverse, por lo que las ondas se reflejan y regresan por la cuerda. Si se mueve el extremo de la cuerda en forma adecuada, se puede hacer que las ondas incidente y reflejada formen una onda estacionaria, en la cual unas partes de la cuerda, llamadas nodos, queden estacionarias. Los nodos son las regiones de desplazamiento mínimo o cero, cuya energía es mínima o cero. Por otro lado, los antinodos (que no se identifican si se hace un diagrama de la situación) son las regiones de desplazamiento máximo y con energía máxima. Puedes acercar los dedos precisamente arriba o abajo de los nodos, y la cuerda no los tocará. Otras partes de ella, en especial los antinodos, sí los tocarían. Los antinodos están a media distancia entre los nodos.
+
+*Imagen 6. Onda estacionaria*
+
+Descripción de la Imagen 6. Onda estacionaria. Las ondas incidente y reflejada se interfieren y producen una onda estacionaria. Una onda incidente hacia la derecha causa una onda que se refleja en fase. Si se hace que se produzca una onda incidente con 2 nodos la onda reflejada estará fuera de fase y se anularán.
+
+Las ondas estacionarias son el resultado de la interferencia (y como veremos en el siguiente capítulo, de la resonancia). Cuando dos conjuntos de ondas de igual amplitud y longitud pasan uno a través del otro en direcciones contrarias, las ondas están dentro y fuera de fase entre sí, en forma permanente. Esto sucede con una onda que se refleja sobre sí misma. Se producen regiones estables de interferencia constructiva y destructiva.
+
+*Imagen 7. Ondas estacionarias*
+
+Descripción de la Imagen 7. Ondas estacionarias. Una cuerda amarrada a una pared es agitada de diferentes formas desde el otro extremo. Forma a, mueve la cuerda hasta que establezcas una onda estacionaria de un segmento ½ longitud de onda. Forma b, muévela con el doble de frecuencia y produce una onda con dos segmentos (1 longitud de onda). Forma c, muévela con tres veces la frecuencia y produce tres segmentos (½ longitudes de onda).
+
+Es posible hacer ondas estacionarias con facilidad. Amarra una cuerda, o mejor aún, una manguera de caucho, a un soporte firme. Agita la manguera de un lado a otro cerca de uno de los soportes. Si agitas la manguera con la frecuencia correcta, establecerás una onda estacionaria, como la que observa en la Imagen 7 a. Mueve la manguera con el doble de frecuencia y se formará una onda estacionaria con la mitad de la longitud de onda anterior, que tiene dos arcos. (La distancia entre los nodos sucesivos es la mitad de la longitud de onda; dos arcos forman la onda completa.) Si triplicas la frecuencia se formará una onda estacionaria con un tercio de la longitud de la onda original, y tendrá tres arcos; y así sucesivamente.
+
+Las ondas estacionarias se forman en las cuerdas de los instrumentos musicales, por ejemplo, cuando se puntean (con una uña), se tocan (con un arco) o se percuten (en un piano). Se forman en el aire de los tubos de un órgano, de las trompetas o de los clarinetes, y en el aire de una botella, cuando se sopla sobre la boca de éste. Se pueden formar ondas estacionarias en una tina llena de agua o en una taza de café, al moverla hacia delante y atrás con la frecuencia adecuada. Se pueden producir con vibraciones tanto transversales como longitudinales.
+
+#### Examínate
+
+1. ¿Es posible que una onda se anule con otra y que no quede amplitud alguna?
+
+2. Imagina que estableces una onda estacionaria de tres segmentos, como la de la Imagen 7 c. Si agitas la mano con el doble de frecuencia, ¿cuántos segmentos de onda habrá en tu nueva onda estacionaria? ¿Y cuántas longitudes de onda?
+
+#### Comprueba tus respuestas
+
+1. Sí. Es lo que se llama interferencia destructiva. En una onda estacionaria de una cuerda, por ejemplo, partes de la cuerda no tienen amplitud: los nodos.
+
+2. Si impartes el doble de frecuencia a la cuerda, producirás una onda estacionaria con el doble de segmentos. Tendrás seis segmentos. Como una onda completa tiene dos segmentos, tendrás tres longitudes de onda completas en tu onda estacionaria.
+
+## Efecto Doppler
+
+En la Imagen 8 se aprecia el patrón de las ondas de agua que produce un insecto al agitar las patas y agitarse de arriba abajo en el centro de un estanque tranquilo. El insecto no va a ninguna parte; más bien, mueve el agua en una posición fija. Las ondas que provoca son círculos concéntricos, porque la rapidez de la onda es igual en todas las direcciones. Si agita las patas a una frecuencia constante, la distancia entre las crestas de las ondas (la longitud de onda) es igual en todas direcciones. Las ondas llegan al punto A con la misma frecuencia con la que llegan al punto B. Esto quiere decir que la frecuencia del movimiento ondulatorio es igual en los puntos A y B, o en cualquier lugar próximo al insecto. Esta frecuencia de las ondas es la misma que la frecuencia de pataleo del insecto.
+
+*Imagen 8. Ondas por un insecto*
+
+Descripción de la Imagen 8. Ondas por un insecto. Vista superior de las ondas de agua causadas por un insecto estacionario que patalea en agua inmóvil. Se formarán circunferencias concéntricas en el insecto si lo hace con la misma frecuencia, hasta alcanzar dos puntos extremos A y B.
+
+Imagina que el insecto se mueve por el agua, con una rapidez menor que la de las ondas. De hecho, el insecto va tras una parte de las ondas que produjo. El patrón de las ondas se distorsiona y ya no está formado por círculos concéntricos (Imagen 9). La onda más exterior se produjo cuando el insecto estaba en su centro. La siguiente onda fue producida cuando el insecto estaba también en su centro, pero en un lugar distinto al centro de la primera onda, y así sucesivamente.
+
+*Imagen 9. Ondas por un insecto que nada*
+
+Descripción de la Imagen 9.Ondas por un insecto que nada. Ondas en agua causadas por un insecto que nada hacia el punto B en agua inmóvil. La onda 1 es el círculo más externo hasta la onda 4 que es el círculo más interno. El centro de cada circulo es el punto donde el insecto perturba el agua a medida que se dirige hacia B. la distancia entre los círculos es reducida entre más cerca esté de B y más amplia hacia A.
+
+Los centros de las ondas circulares se mueven en la misma dirección que el insecto. Aunque ese insecto mantiene la misma frecuencia de pataleo que antes, un observador en B observaría que le llegan ondas más a menudo. Mediría una frecuencia mayor. Esto se debe a que cada onda sucesiva tiene menor distancia por recorrer y, por lo tanto, llega a B con más frecuencia que si el insecto no se moviera acercándose a B. Por otro lado, un observador en A, mide que hay menor frecuencia, por el mayor tiempo entre las llegadas de las crestas de las ondas. Se debe a que para llegar hasta A, cada cresta debe viajar más lejos que la que le precedía, debido al movimiento del insecto. A este cambio de frecuencia debido al movimiento de la fuente (o al receptor) de las ondas se llama efecto Doppler (en honor al científico austriaco Christian Doppler, 1803-1853).
+
+Las ondas en el agua se propagan sobre la superficie plana de este líquido. Por otro lado, las ondas sonoras y las luminosas se propagan en el espacio tridimensional en todas direcciones, como un globo cuando se infla. Así como las ondas circulares están más cercanas entre sí frente a un insecto que está nadando, las ondas esféricas del sonido o de la luz frente a una fuente en movimiento están más cercanas entre sí y llegan con mayor frecuencia a un receptor.
+
+El efecto Doppler es evidente al oír cómo cambia el tono de la sirena de una ambulancia conforme ésta se acerca, pasa a un lado y se aleja. Al acercarse el vehículo, el tono sonoro es mayor que el normal (como si fuera una nota musical más alta). Esto se debe a que las crestas de las ondas sonoras llegan al oído con más frecuencia. Y cuando el vehículo pasa y se aleja, se oye una disminución en el tono porque las crestas de las ondas llegan a los oídos con menor frecuencia.
+
+También, el efecto Doppler se percibe en la luz. Cuando se acerca una fuente luminosa hay un aumento de la frecuencia medida; y cuando se aleja, disminuye la frecuencia. A un aumento de la frecuencia de la luz se le llama corrimiento al azul, porque la frecuencia es mayor, hacia el extremo azul del espectro. A la disminución de la frecuencia de la luz se le llama corrimiento al rojo, porque indica un desplazamiento hacia el extremo de menor frecuencia, el extremo del rojo del espectro. Las galaxias lejanas, por ejemplo, muestran un corrimiento al rojo de la luz que emiten. Al medir ese corrimiento se pueden calcular sus velocidades de alejamiento. Una estrella que gira muy rápidamente tiene un corrimiento al rojo en el lado que se aleja de nosotros; y un corrimiento al azul, en el lado que gira hacia nosotros. Eso permite a los astrónomos calcular la rapidez de rotación de la estrella.
+
+Dato curioso: el tono (la frecuencia) del sonido aumenta cuando una fuente se mueve hacia ti y disminuye ésta cuando se aleja.
+
+#### Examínate
+
+Cuando una fuente sonora se mueve hacia ti, que estás en reposo, ¿mides un aumento o una disminución de la rapidez de la onda?
+
+#### Comprueba tu respuesta
+
+¡Ninguna de las dos cosas! La frecuencia de una onda es la que cambia cuando hay movimiento de la fuente, y no la rapidez de la onda. Entiende con claridad la diferencia entre frecuencia y rapidez. La frecuencia con que vibra una onda es totalmente distinta de lo rápido que la perturbación pasa de un lugar a otro.
+
+## Ondas de proa
+
+Cuando la rapidez de una fuente ondulatoria es igual a la de las ondas que produce, sucede algo interesante. Las ondas se apilan frente a la fuente. Imagina el insecto de nuestro ejemplo anterior, cuando nada con la misma rapidez que la de las ondas. ¿Puedes visualizar si se empareja con las ondas que produce? En vez de que las ondas se alejen frente a él, se sobreponen y se apilan una sobre otra, directamente frente al insecto. El insecto se mueve con la orilla delantera de las ondas que está produciendo.
+
+Sucede algo parecido cuando un avión viaja a la rapidez del sonido. En los albores de la aviación a reacción se creía que este apilamiento de ondas sonoras frente al avión formaba una “barrera de sonido” y que para avanzar más rápido que la rapidez del sonido, el avión debería “romper la barrera del sonido”. Lo que sucede en realidad es que las crestas de las ondas se apilan y perturban el flujo del aire sobre las alas, lo cual dificulta controlar la nave. Sin embargo, la barrera no es real. Así como un bote fácilmente puede viajar con más rapidez que las ondas que produce, un avión con la potencia suficiente viaja fácilmente con más rapidez que la del sonido. Se dice entonces que es supersónico. Un avión supersónico vuela en forma constante y no perturbada, porque ninguna onda sonora se puede propagar frente a él. Asimismo, un insecto que nade con mayor rapidez que las ondas en el agua se sienten siempre como que entra al agua con una superficie lisa y sin ondulaciones.
+
+*Imagen 10. Ondas por un insecto más rápido*
+
+Descripción de la Imagen 10. Ondas por un insecto más rápido. Una onda de proa es el patrón causado por un insecto que se mueve con más rapidez que la de las ondas. Los puntos en los que se traslapan las ondas adyacentes (x) producen la forma de V.
+
+Cuando el insecto nada con más rapidez que la de las ondas, produce, en el caso ideal, un patrón ondulatorio como el que se presenta en la Imagen 10. Deja atrás las ondas que produce. Las ondas se traslapan en las orillas y el patrón que forman esas ondas que se traslapan tiene la forma de V, y se llama onda de proa, la cual parece que es arrastrada por el insecto. La conocida onda de proa que genera una lancha rápida que corta el agua no es una onda oscilatoria normal. Más bien es una perturbación producida cuando se enciman muchas ondas circulares.
+
+*Imagen 11. Patrones de un insecto que nada*
+
+Descripción de la Imagen 11. Patrones causados por un insecto que nada con rapideces cada vez mayores. V es la velocidad del insecto y vw es la de la onda en el agua. El traslape en las orillas sólo se presenta cuando el insecto nada con más rapidez que la de las ondas. Patrón a, v es menor que vw los círculos se juntan en la dirección de movimiento y se separan en sentido contrario. Patrón b, v es igual a vw los círculos están juntos en la dirección de movimiento y separados en sentido contrario. Patrón c, v es mayor que vw los círculos se salen de su región en la dirección de movimiento formando un V. patrón d, v es mucho mayor que vw los círculos salen mucho más de la región en la dirección de movimiento y se forma una V mucho menos abierta.
+
+En la Imagen 11 se muestran algunos patrones de ondas producidas por fuentes que se mueven con diversas rapideces. Observa que después de que la rapidez de la fuente rebasa la rapidez de la onda, al aumentar la rapidez de la fuente se produce una V de forma más angosta.
+
+## Ondas de choque
+
+Una lancha rápida que corta el agua genera una onda de proa bidimensional. Asimismo, un avión supersónico genera una onda de choque tridimensional. Al igual que una onda de proa se produce con círculos traslapados que forman una V, una onda de choque se produce por traslape de esferas que forman un cono. Y así como la onda de proa de una lancha rápida se propaga hasta llegar a la orilla de un lago, la estela cónica generada por un avión supersónico se propaga hasta llegar al suelo.
+
+La onda de proa de una lancha rápida que pasa cerca puede salpicarte y mojarte, si estás en la orilla. En cierto sentido, puedes decir que te golpeó una “estampida del agua”. Del mismo modo, cuando la superficie cónica de aire comprimido que se forma detrás de un avión supersónico llega a las personas en tierra, el crujido agudo que escuchan se llama estampido sónico.
+
+No se escucha ningún estampido sónico cuando los aviones son más lentos que el sonido, es decir, son subsónicos, porque las ondas sonoras que llegan a los oídos se perciben como un tono continuo. Sólo cuando el avión se mueve con más rapidez que el sonido se traslapan las ondas, y llegan a una persona en un solo estallido. El aumento repentino de presión tiene el mismo efecto que la expansión súbita de aire que produce una explosión. Ambos procesos dirigen una ráfaga de aire con alta presión hacia una persona. El oído es presionado mucho, y no distingue si la alta presión se debe a una explosión o a muchas ondas encimadas.
+
+Un esquiador acuático sabe bien que junto a la alta joroba de la onda de proa en forma de V, hay una depresión en forma de V. Lo mismo sucede con una onda de choque, que suele consistir en dos conos: uno de alta presión generado por la nariz del avión supersónico; y otro de baja presión, que sigue la cola de la nave. Entre esos dos conos, la presión del aire sube repentinamente y es mayor que la presión atmosférica, y luego baja y es menor que la presión atmosférica; después sólo regresa a su valor normal, atrás del cono interior de la cola. Esta alta presión seguida inmediatamente de menor presión es el estampido sónico.
+
+*Imagen 12. Onda de choque de avión*
+
+Descripción de la Imagen 12. Onda de choque de avión. Tres personas A, B y C están de pie. Un avión pasa y deja una onda de choque, la dirección del avión es desde C hasta A. La onda de choque que ha dejado un avión todavía no ha llegado al escucha A, pero está llegando al escucha B y ya llegó al escucha C.
+
+Una idea errónea común es creer que los estampidos sónicos se producen cuando un avión atraviesa la “barrera del sonido”, esto es, sólo cuando la rapidez del avión pasa de menor a mayor que la del sonido. Es igual que decir que un bote produce una onda de proa al atravesar por primera vez sus propias ondas. Esto no es así. El hecho es que una onda de choque, y el estampido sónico que produce, barren en forma continua hacia atrás y por debajo de un avión que viaje más rápido que el sonido, así como una onda de proa barre continuamente atrás de una lancha rápida. En la Imagen 12 se ve que el escucha B está captando un estampido sónico. El escucha C ya lo oyó, y el escucha A lo oirá en unos instantes. Puede ser que el avión que generó esa onda de choque ¡haya atravesado la barrera del sonido varios minutos antes!
+
+No es necesario que la fuente en movimiento sea “ruidosa” para producir una onda de choque. Una vez que cualquier objeto se mueva con más rapidez que el sonido, producirá ruido. Una bala supersónica que pase sobre uno produce un crujido, que es un estampido sónico pequeño.
+
+Si la bala fuera mayor y perturbara más aire en su trayectoria, el crujido se parecería más a un estampido. Cuando un domador restalla su látigo en el circo, el crujido que se oye es en realidad un estampido sónico que produce el extremo del látigo al moverse con más rapidez que la del sonido. Ni la bala ni el látigo son en sí mismos fuentes de sonido. Pero cuando se mueven con rapideces supersónicas, producen su propio sonido al generar ondas de choque.
+
+## Resumen de términos
+
+Amplitud. Para una onda o una vibración, es el desplazamiento máximo a cada lado de la posición de equilibrio (posición intermedia).
+
+Curva senoide. Forma de una onda que se genera en el movimiento armónico simple; se puede ver en una banda transportadora que se mueva bajo un péndulo que oscile en ángulo recto a la dirección de movimiento de la banda.
+
+Efecto Doppler. Corrimiento de la frecuencia recibida, debido al movimiento de la fuente vibratoria hacia el receptor, o alejándose de él.
+
+Estampido sónico. Sonido intenso debido a la incidencia de una onda de choque.
+
+Frecuencia. Para un cuerpo o medio en vibración, la cantidad de vibraciones por unidad de tiempo. Para una onda, la cantidad de crestas que pasan por determinado punto por unidad de tiempo.
+
+Hertz. Unidad SI de frecuencia. Un Hertz (Hz) es igual a una vibración por segundo.
+
+Longitud de onda. Distancia entre crestas, valles o partes idénticas sucesivas de una onda.
+
+Onda de choque. Perturbación en forma de cono producida por un objeto que se mueva a rapidez supersónica dentro de un fluido.
+
+Onda de proa. Perturbación en forma de V producida por un objeto que se mueve por una superficie líquida a una rapidez mayor que la de la onda.
+
+Onda estacionaria. Distribución ondulatoria estacionaria que se forma en un medio cuando dos conjuntos de ondas idénticas atraviesan el medio en direcciones opuestas.
+
+Onda longitudinal. Onda en la cual el medio vibra en dirección paralela (longitudinal) a la dirección en la que se propaga la onda. Las ondas sonoras son longitudinales.
+
+Onda transversal. Onda en la cual el medio vibra en dirección perpendicular (transversal) a la dirección de propagación de la onda. Las ondas luminosas y las ondas en la superficie del agua son transversales.
+
+Patrón de interferencia. Patrón que forma la superposición de distintos conjuntos de ondas, que producen refuerzos en algunas partes y anulaciones en otras.
+
+Periodo. Tiempo en que se completa una vibración. El periodo de una onda es igual al periodo de la fuente, y también es igual a 1 frecuencia.
+
+Rapidez de la onda. Rapidez con que las ondas pasan por determinado punto:
+
+Rapidez de la onda = longitud de onda × frecuencia
+
+## Preguntas de repaso
+
+1. ¿Cómo se llama un vaivén en el tiempo? ¿Y un vaivén en el espacio y en el tiempo?
+
+2. ¿Cuál es la fuente de todas las ondas?
+
+#### Oscilación de un péndulo
+
+3. ¿Qué quiere decir periodo de un péndulo?
+
+4. ¿Qué tiene mayor periodo, un péndulo corto o uno largo?
+
+#### Descripción de una onda
+
+5. ¿En qué se relaciona una senoide con una onda?
+
+6. Describe lo siguiente acerca de las ondas: periodo, amplitud, longitud de onda y frecuencia.
+
+7. ¿Cuántas vibraciones por segundo representa una onda de radio de 101.7 MHz?
+
+8. ¿Cómo se relacionan entre sí frecuencia y periodo?
+
+#### Movimiento ondulatorio
+
+9. En una palabra, ¿qué es lo que se mueve de la fuente al receptor en el movimiento ondulatorio?
+
+10. ¿El medio en el cual se propaga una onda se mueve con ella? Describe un ejemplo que respalde tu respuesta.
+
+#### Rapidez de una onda
+
+11. ¿Cuál es la relación entre frecuencia, longitud de onda y rapidez de onda?
+
+#### Ondas transversales
+
+12. ¿Qué dirección tienen las vibraciones en relación con la dirección de propagación de una onda transversal?
+
+#### Ondas longitudinales
+
+13. ¿Qué dirección tienen las vibraciones en relación con la dirección de propagación de una onda longitudinal?
+
+14. La longitud de onda en una onda transversal es la distancia entre crestas (o valles) sucesivas. ¿Cuál es la longitud de onda en una onda longitudinal?
+
+Interferencia
+
+15. ¿Qué entendemos por principio de superposición?
+
+16. Explica la diferencia entre interferencia constructiva e interferencia destructiva.
+
+17. ¿Qué clase de ondas pueden mostrar interferencia?
+
+#### Ondas estacionarias
+
+18. ¿Qué es un nodo? ¿Qué es un antinodo?
+
+19. ¿Las ondas estacionarias pertenecen a las ondas transversales, a las longitudinales o a ambas?
+
+#### Efecto Doppler
+
+20. ¿En el efecto Doppler cambia la frecuencia? ¿Cambia la longitud de onda? ¿Cambia la rapidez de la onda?
+
+21. ¿Puede observarse el efecto Doppler en las ondas longitudinales, en las ondas transversales o en ambas?
+
+22. ¿Qué significa corrimiento hacia el azul y corrimiento hacia el rojo de la luz?
+
+#### Ondas de proa
+
+23. ¿Con qué rapidez debe nadar un insecto para emparejarse con las ondas que produce? ¿Con qué rapidez debe nadar para producir una onda de proa?
+
+24. ¿Cuál es la rapidez con que avanza un avión supersónico, en comparación con la del sonido?
+
+25. ¿Cómo varía la forma en V de una onda de proa, en función de la rapidez de la fuente?
+
+#### Ondas de choque
+
+26. Una onda de proa sobre la superficie del agua es bidimensional. ¿Y una onda de choque en el aire?
+
+27. ¿Cierto o falso? El estampido sónico sólo se produce cuando un avión rompe la barrera del sonido. Defiende tu respuesta.
+
+28. Para producir un estampido sónico un objeto debe ser “ruidoso”. ¿Cierto o falso? Da dos ejemplos que respalden tu respuesta.
+
+## Proyectos
+
+1. Ata una manguera de caucho, un resorte o una cuerda a un soporte fijo, y produce ondas estacionarias. Observa cuántos nodos puedes producir.
+
+2. Moja el dedo y frótalo en torno a la boca de una copa de vidrio de pared delgada y con pie, mientras con la otra mano sujeta la base de la copa, firmemente contra la mesa. La fricción del dedo producirá ondas estacionarias en la copa, son similares a las ondas que se producen en un violín por la fricción del arco contra las cuerdas. Haz la prueba con un plato o una cacerola de metal.
+
+3. Escribe una carta a tu abuelita, donde le cuentes cómo las ondas se pueden anular entre sí y le digas cuáles son, en la actualidad, algunas de las aplicaciones de este fenómeno de la física.
+
+## Ejercicios
+
+1. ¿El periodo de un péndulo depende de la masa que cuelga de él? ¿Del largo de la cuerda?
+
+2. Una persona pesada y una liviana se balancean de un lado a otro en columpios de la misma longitud. ¿Cuál de las dos tiene el mayor periodo?
+
+3. Cierto reloj antiguo de péndulo funciona con mucha exactitud. A continuación se pasa a una casa de veraneo, en unas montañas altas. ¿Se adelantará, se atrasará o quedará igual? Explica por qué.
+
+4. Si se acorta un péndulo, ¿su frecuencia aumentará o disminuirá? ¿Y su periodo?
+
+5. Puedes hacer balancear una maleta vacía con su frecuencia natural. Si estuviera llena de libros, ¿su frecuencia sería menor, mayor o igual que antes?
+
+6. ¿El tiempo necesario para oscilar y regresar (el periodo) de un columpio es mayor o menor cuando te paras en él en vez de estar sentado? Explica por qué.
+
+7. ¿Por qué tiene sentido el hecho de que la masa que cuelga de un péndulo simple no afecta la frecuencia de éste?
+
+8. ¿Qué sucede con el periodo de una onda cuando disminuye la frecuencia?
+
+9. ¿Qué sucede con la longitud de onda cuando disminuye la frecuencia?
+
+10. Si la rapidez de una onda se duplica mientras su frecuencia permanece constante, ¿qué sucede con la longitud de onda?
+
+11. Si la rapidez de una onda se duplica mientras la longitud de onda permanece constante, ¿qué sucede con la frecuencia?
+
+12. Si sujetas un extremo de una segueta en un tornillo de banco y golpeas el extremo libre, oscilará. Ahora repítelo, pero con una bola de arcilla o plastilina en el extremo libre. ¿Cómo difiere, si es que lo hace, la frecuencia de vibración en ambos casos? ¿Sería distinto si la bola se pegara a la mitad? Explica por qué.
+
+13. La aguja de una máquina de coser sube y baja, y su movimiento es armónico simple. Lo que la impulsa es una rueda giratoria, movida a la vez por un motor eléctrico. ¿Cómo crees que se relacionan el periodo de subida y bajada de la aguja con el periodo de la rueda giratoria?
+
+14. Si agitas el extremo de un resorte para generar una onda, ¿cómo se compara la frecuencia de la onda con la frecuencia de tu mano al realizar la sacudida? ¿Tu respuesta depende de si produces una onda transversal o una longitudinal? Argumenta tu respuesta.
+
+15. ¿Qué clase de movimiento debes impartir a la boquilla de una manguera en el jardín para que el chorro que salga tenga aproximadamente una forma senoidal?
+
+16. ¿Qué clase de movimiento debes impartir a un resorte helicoidal estirado (un slinky) para generar una onda transversal? ¿Y para generar una onda longitudinal?
+
+17. ¿Qué clase de onda es cada una de las siguientes?
+
+a. Una ola del mar que se dirige hacia la playa de Cartagena.
+
+b. El sonido de una ballena que llama a otra bajo el agua.
+
+c. Un impulso mandado por una cuerda tensa, al golpear uno de sus extremos.
+
+18. Si se abre una llave de gas durante pocos segundos, alguien que esté a un par de metros oirá el escape del gas, mucho antes de captar su olor. ¿Qué indica esto acerca de la rapidez del sonido y del movimiento de las moléculas en el medio que lo transporta?
+
+19. Si sube al doble la frecuencia de un objeto en vibración, ¿qué sucederá con su periodo?
+
+20. ¿Los términos rapidez de onda y frecuencia de onda se refieren a lo mismo? Argumenta tu respuesta.
+
+21. La longitud de onda de la luz roja es mayor que la de la luz violeta. ¿Cuál de ellas es la que tiene mayor frecuencia?
+
+22. Considera una onda que viaja a lo largo de una cuerda gruesa atada a una cuerda delgada. ¿Cuál de estas tres características de las ondas no tiene cambios: la rapidez, la frecuencia o la longitud de onda?
+
+23. ¿Cuál es la frecuencia del segundero de un reloj? ¿Y la del minutero? ¿La de la manecilla de las horas?
+
+24. ¿Cuál es la fuente del movimiento ondulatorio?
+
+25. Si sumerges repetidamente el dedo en un plato lleno de agua formas ondas. ¿Qué sucede con la longitud de las ondas si sumerges el dedo con más frecuencia?
+
+26. ¿Cómo se compara la frecuencia de vibración de un objeto pequeño que flota en el agua, con la cantidad de ondas que pasan por él cada segundo?
+
+27. ¿Hasta dónde llega una onda en un periodo, en términos de longitud de onda?
+
+28. ¿Cuántos nodos, sin incluir los extremos, hay en una onda estacionaria que tiene dos longitudes de onda de largo? ¿Y una con tres longitudes de onda?
+
+29. Se deja caer una piedra al agua, y las ondas se difunden por la superficie plana del agua. ¿Qué sucede con la energía de esas ondas cuando desaparecen?
+
+30. ¿Por qué se ve primero el rayo y después se escucha el trueno?
+
+31. Un músico toca el banjo pulsando una cuerda en la mitad. ¿Dónde están los nodos de la onda estacionaria en la cuerda? ¿Cuál es la longitud de onda de la cuerda vibratoria?
+
+32. Un murciélago emite su sonido característico (gorjea) al volar con dirección a un muro. ¿La frecuencia del eco del sonido que recibe es mayor, menor o igual que la del sonido emitido?
+
+33. ¿Por qué hay un efecto Doppler cuando la fuente sonora es estacionaria y la persona que escucha está en movimiento? ¿En qué dirección debe moverse la persona para escuchar una frecuencia mayor? ¿Y para escuchar una frecuencia menor?
+
+34. Una locomotora está parada, y suena el silbato; a continuación se acerca hacia ti.
+
+a. ¿La frecuencia que escuchas aumenta, disminuye o queda igual?
+
+b. ¿Y la longitud de onda que llega al oído?
+
+c. ¿Y la rapidez del sonido en el aire que hay entre tú y la locomotora?
+
+35. Cuando suenas el claxon al manejar hacia una persona que está parada, ella escucha un aumento de su frecuencia. ¿Escucharía un aumento en la frecuencia del claxon si estuviera también dentro de un automóvil que se mueve con la misma rapidez y en la misma dirección que el tuyo? Explica por qué.
+
+36. ¿Hay efecto Doppler apreciable cuando el movimiento de la fuente es perpendicular al escucha? Explica por qué.
+
+37. ¿Cómo ayuda el efecto Doppler a que la policía determine quiénes son los infractores por exceso de rapidez?
+
+38. Los astrónomos dicen que la luz emitida por determinado elemento en una de las orillas del Sol tiene una frecuencia un poco mayor que la que proviene del lado opuesto. ¿Qué indican esas determinaciones acerca del movimiento del Sol?
+
+39. ¿Sería correcto decir que el efecto Doppler es el cambio aparente de la rapidez de una onda, debido al movimiento de la fuente? (¿Por qué esta pregunta es para comprobar la comprensión en la lectura y también el conocimiento de física?)
+
+40. ¿Cómo interviene el fenómeno de la interferencia en la producción de ondas de proa o de ondas de choque?
+
+41. ¿Qué puedes decir acerca de la rapidez de un bote que produce una onda de proa?
+
+42. ¿El ángulo del cono de una onda de choque se abre, se cierra o permanece constante cuando un avión supersónico aumenta su rapidez?
+
+43. Si el sonido de un avión no proviene de la parte del cielo donde se ve, ¿significa eso que el avión viaja con más rapidez que la del sonido? Explica.
+
+44. ¿Se produce estampido sónico en el momento en el que el avión atraviesa la barrera del sonido? Explica por qué.
+
+45. ¿Por qué un avión subsónico, por más ruidoso que sea, no puede producir un estampido sónico?
+
+46. Imagina un pez súper rápido, que puede nadar a una rapidez mayor que la del sonido en el agua. ¿Ese pez produciría un “estampido sónico”?
+
+## Problemas
+
+1. ¿Cuál es la frecuencia en Hertz que corresponde a cada uno de los siguientes periodos?
+
+a. 0,10 s
+
+b. 5 s
+
+c. 1/60 s.
+
+2. ¿Cuál es el periodo, en segundos, que corresponde a cada una de las siguientes frecuencias?
+
+a. 10 Hz
+
+b. 0,2 Hz
+
+c. 60 Hz
+
+3. Un marinero en una lancha observa que las crestas de las olas pasan por la cadena del ancla cada 5 segundos. Estima que la distancia entre las crestas es 15 metros. También estima en forma correcta la rapidez de las olas. ¿Cuál es esa rapidez?
+
+4. Un peso colgado de un resorte sube y baja una distancia de 20 centímetros, dos veces cada segundo. ¿Cuáles serán su frecuencia, su periodo y su amplitud?
+
+5. Las ondas de radio viajan a la rapidez de la luz, a 300.000 km/s. ¿Cuál es la longitud de las ondas de radio que se reciben de la estación de 100.1 MHz en tu radio de FM?
+
+6. Un mosquito bate sus alas 600 veces por segundo, lo cual produce el molesto zumbido de 600 Hz. ¿Cuánto avanza el sonido entre los batidos del ala? En otras palabras, calcula la longitud de onda del zumbido del mosco.
+
+7. En un teclado, la frecuencia del “do” central es 256 Hz. a) ¿Cuál es el periodo de una vibración con este tono? b) Al salir este sonido del instrumento con una rapidez de 340 m/s, ¿cuál será su longitud de onda en el aire?
+
+8. Contesta:
+
+a. Si fueras tan ingenuo como para tocar el teclado bajo el agua, donde la rapidez del sonido es 1.500 m/s, ¿cuál sería la longitud de onda del “do” central en el agua?
+
+b. Explica por qué el “do” central (o cualquier otra nota) tiene mayor longitud de onda en el agua que en el aire.
+
+9. La longitud de onda del canal 6 de la T.V. es 3,42 m. ¿El canal 6 transmite con una frecuencia mayor o menor que la banda de radio FM, que es de 88 a 108 MHz?
+
+# Capítulo 2: Sonido
+
+Si un árbol se cayera en medio de un tupido bosque, a cientos de kilómetros de cualquier ser viviente, ¿habría algún sonido? A esta pregunta las personas contestan de distintas maneras. “No”, dirán algunos, “el sonido es subjetivo y requiere que alguien lo escuche, y si no lo hay no habrá sonido”. Otros dirán: “Sí, un sonido no es sólo una idea de las personas. Un sonido es algo objetivo.” Con frecuencia, discusiones como ésta no alcanzan a tener un consenso, porque los participantes no pueden darse cuenta que discuten no sobre la naturaleza del sonido, sino sobre la definición de la palabra. Todos tienen razón, dependiendo de qué definición se adopte, aunque sólo se puede investigar cuando se ha convenido en una definición. Los físicos, como los de la imagen anterior, suelen tomar la posición objetiva, y definen el sonido como una forma de energía que existe, sea o no escuchado, y de ahí parten para investigar su naturaleza.
+
+## Origen del sonido
+
+La mayoría de los sonidos son ondas producidas por las vibraciones de objetos materiales. En un piano, un violín o una guitarra, el sonido se produce por las cuerdas en vibración; en un saxofón, por una lengüeta vibratoria; en una flauta, por una columna vacilante de aire en la embocadura. Tu voz se debe a las vibraciones de las cuerdas vocales.
+
+En cada uno de esos casos, la vibración original estimula la vibración de algo mayor o más masivo, como la caja de resonancia de un instrumento de cuerdas, la columna de aire de la lengüeta de un instrumento de viento, o el aire en la garganta y la boca de un cantante. Este material en vibración manda, entonces, una perturbación por el medio que la rodea, que normalmente es aire, en forma de ondas longitudinales. En condiciones ordinarias, son iguales la frecuencia de la fuente de vibración y la frecuencia de las ondas sonoras que se producen.
+
+Describiremos nuestra impresión subjetiva de la frecuencia del sonido con la palabra altura. La frecuencia corresponde a la altura: un sonido alto o agudo como el de un flautín tiene alta frecuencia de vibración; en tanto que un sonido bajo o grave como el de una bocina de niebla tiene baja frecuencia de vibración. El oído de una persona joven es capaz de captar normalmente alturas que corresponden al intervalo de frecuencias de entre unos 20 y 20.000 Hertz. Conforme vamos madurando, se contraen los límites de este intervalo de audición, en especial en el extremo de alta frecuencia. Las ondas sonoras cuyas frecuencias son menores que 20 Hertz son infrasónicas, y aquellas cuyas frecuencias son mayores que 20,000 Hertz se llaman ultrasónicas. No podemos escuchar las ondas sonoras infrasónicas ni las ultrasónicas.
+
+## Naturaleza del sonido en el aire
+
+Cuando aplaudimos, el sonido que se produce no es periódico. Está formado por un impulso o pulso ondulatorio que se propaga en todas direcciones. El impulso perturba el aire de la misma forma que un impulso similar perturbaría un resorte o slinky. Cada partícula se mueve con ir y venir a lo largo de la dirección de la onda que se expande.
+
+Para tener una idea más clara de este proceso, imagina una habitación larga. En un extremo hay una ventana abierta con una cortina que cuelga de ella. En el otro extremo hay una puerta. Al abrir la puerta nos podemos imaginar que empuja las moléculas que están junto a ella, y las mueve respecto a sus posiciones iniciales hacia las posiciones de las moléculas vecinas. A la vez, éstas empujan a sus vecinas, y así sucesivamente, como una compresión que se propaga por un resorte, hasta que la cortina se sacude y sale de la ventana. Un impulso de aire comprimido se ha movido desde la puerta hasta la cortina. A este impulso de aire comprimido se le llama compresión.
+
+Cuando cerramos la puerta, ésta empuja algunas moléculas de aire fuera del recinto. De esta forma se produce una zona de baja presión tras la puerta. Las moléculas vecinas, entonces, se mueven hacia ellas y dejan tras de sí una zona de baja presión. Se dice que esta zona de baja presión de aire está enrarecida. Otras moléculas más alejadas de la puerta, a su vez, se mueven hacia esas regiones enrarecidas y, de nuevo, la perturbación se propaga por la habitación. Ello se nota en la cortina, que se agita hacia adentro. Esta vez, la perturbación es un enrarecimiento o rarefacción.
+
+Como en todo movimiento ondulatorio, no es el medio mismo el que se propaga por el recinto, sino el impulso portador de energía. En ambos casos, el impulso viaja desde la puerta hasta la cortina. Lo sabemos porque en ambos casos la cortina se mueve después de que la puerta se abre o se cierra. Si continuamente abres y cierras la puerta con un movimiento periódico, puedes establecer una onda de compresiones y enrarecimientos periódicos, que hará que la cortina salga y entre por la ventana. En una escala mucho menor, pero más rápida es lo que sucede cuando se golpea un diapasón. Las vibraciones periódicas del diapasón y las ondas que produce tienen una frecuencia mucho mayor, y una amplitud mucho menor que las que causa la puerta que abre y cierra. No notas el efecto de las ondas sonoras sobre la cortina; pero las notas muy bien cuando llegan a tus tímpanos sensibles.
+
+*Imagen 13. Comprensión y rarefacción*
+
+Descripción de la Imagen 13. Comprensión y rarefacción. Las compresiones y las rarefacciones se propagan (a la misma rapidez y en la misma dirección) desde el diapasón, por el aire en el tubo.
+
+Imagina las ondas sonoras (ondas acústicas) en el tubo que muestra la Imagen 13. Para simplificar sólo se indican las ondas que se propagan por el tubo. Cuando la rama del diapasón que está junto a la boca del tubo llega al mismo, entra una compresión en el tubo. Cuando la rama se aleja en dirección contraria, a la compresión sigue un enrarecimiento. Es como una raqueta de ping pong, que se mueve de un lado a otro en un recinto lleno de pelotas de ping pong. Al vibrar la fuente se produce una serie periódica de compresiones y de rarefacciones. La frecuencia de la fuente vibratoria y la de las ondas que produce son iguales.
+
+Haz una pausa y reflexiona sobre la física del sonido (o acústica) mientras escuches tu radio. El altavoz o bocina de tu radio es un cono de papel que vibra al ritmo de una señal electrónica. Las moléculas de aire junto al cono en vibración de la bocina se ponen en vibración. Este aire, a la vez, vibra contra las partículas vecinas, que a la vez hacen lo mismo, y así sucesivamente. El resultado es que del altoparlante emanan distribuciones rítmicas de aire comprimido y enrarecido, llenando todo el recinto con movimientos ondulatorios. El aire en vibración que resulta pone a vibrar los tímpanos, que a la vez envían cascadas de impulsos eléctricos rítmicos por el canal del nervio coclear o auditivo hasta el cerebro. Y así escuchas el sonido de la música.
+
+Dato curioso: los átomos y las moléculas en un medio vibran al transmitir el sonido. Éste no puede viajar en el vacío porque ahí no hay nada que vibre. ¡Eureka!
+
+## Medios que transmiten el sonido
+
+La mayoría de los sonidos que escuchamos se transmiten a través del aire. Sin embargo, cualquier sustancia elástica –ya sea sólida, líquida, gas o plasma– puede transmitir el sonido. La elasticidad es la propiedad que tiene un material para cambiar de forma en respuesta a una fuerza aplicada, para después regresar a su forma inicial cuando se retira la fuerza de distorsión. El acero es una sustancia elástica. En cambio, la masilla (plastilina) es inelástica. En los líquidos y sólidos elásticos, los átomos están relativamente cerca entre sí y responden con rapidez a los movimientos relativos, y transmiten energía con baja pérdida. El sonido se propaga unas cuatro veces más rápido en el agua que en el aire, y unas 15 veces más rápido en el acero que en el aire.
+
+En relación con los sólidos y los líquidos, el aire es el peor conductor de sonido. Puedes escuchar el sonido de un tren lejano con más claridad si colocas el oído sobre el riel. Asimismo, un reloj colocado sobre una mesa, más allá de la distancia de detección, se puede escuchar si recargas el oído en la mesa. O bien, mientras estés sumergido en el agua haz chocar unas piedras. Escucharás muy bien el chasquido. Si alguna vez nadaste donde había lanchas de motor, es probable que hayas notado que puedes escuchar con mucha más claridad los motores del bote bajo el agua que sobre ella. Los líquidos y los sólidos cristalinos son, en general, conductores excelentes del sonido, mucho mejores que el aire. La rapidez del sonido es, comúnmente, mayor en los sólidos que en los líquidos, y en los líquidos es mayor que en los gases. El sonido no se propaga en el vacío porque para propagarse necesita de un medio. Si no hay nada que se comprima y se expanda, no puede haber sonido.
+
+Dato curioso: nuestros dos oídos son tan sensibles a las diferencias del sonido que llegan a ellos, que es posible decir con gran precisión de qué dirección proviene un sonido. Con un solo oído, no tendríamos idea de ello (y, en caso de emergencia, no sabríamos hacia dónde saltar). ¡Eureka!
+
+### Práctica de física
+
+Cuelga de un cordón la parrilla de alambre de un refrigerador o de un horno, y sujeta los extremos del cordón a los oídos. Pide a un amigo que golpee con suavidad la parrilla, con pajas o cerdas de una escoba y con otros objetos. El efecto se aprecia mejor estando relajado. ¡No te olvides hacer esta prueba!
+
+Rapidez del sonido en el aire
+
+Si desde lejos observamos a una persona cuando parte leña, o a un beisbolista que batea, podremos apreciar con facilidad que el sonido del golpe tarda cierto tiempo en llegar a nuestros oídos. El trueno se escucha después de haber visto el destello del rayo. Estas experiencias frecuentes demuestran que el sonido necesita de un tiempo apreciable para propagarse de un lugar a otro. La rapidez del sonido depende de las condiciones del viento, la temperatura y la humedad. No depende de la intensidad ni de la frecuencia del sonido; todos los sonidos se propagan con la misma rapidez. La rapidez del sonido en aire seco a 0 °C es, aproximadamente, de 330 metros por segundo, es decir, casi 1.200 kilómetros por hora (un poco más que un millonésimo de la rapidez de la luz). El vapor de agua en el aire aumenta un poco esta rapidez. El sonido se propaga con más rapidez en el aire cálido que en el aire frío. Esto era de esperarse, porque las moléculas del aire caliente son más rápidas, chocan entre sí con más frecuencia y en consecuencia pueden transmitir un impulso en menos tiempo. Por cada grado de aumento de temperatura sobre 0 °C, la rapidez del sonido en el aire aumenta 0,6 metros por segundo. Así, en el aire a la temperatura normal de un recinto, de unos 20 °C, el sonido se propaga a unos 340 metros por segundo.
+
+#### Examínate
+
+  1. ¿Las compresiones y los enrarecimientos de una onda sonora se propagan en la misma dirección, o en direcciones opuestas entre sí?
+
+  2. ¿Cuál es la distancia aproximada a un relámpago cuando mides que la demora entre el destello de luz y el trueno es de 3 segundos?
+
+#### Comprueba tus respuestas
+
+  1. Se propagan en la misma dirección.
+
+  2. Suponiendo que la rapidez aproximada del sonido en el aire sea de 340 m/s, en 3 s recorrerá (340 m/s × 3 s) = 1.020 m. No hay demora apreciable con el destello, por lo que el relámpago cayó a un poco más de 1 km de distancia.
+
+## Reflexión del sonido
+
+A la reflexión del sonido se le llama eco. La fracción de la energía que porta la onda sonora reflejada es grande si la superficie es rígida y lisa, y es menor si la superficie es suave e irregular. La energía acústica que no porte la onda sonora reflejada la contiene la onda “transmitida”, es decir, la absorbida por la superficie.
+
+El sonido se refleja en una superficie lisa de la misma forma en que lo hace la luz: el ángulo de incidencia es igual al ángulo de reflexión. A veces, cuando el sonido se refleja en las paredes, el techo y el piso de un recinto, las superficies reflectoras vuelven a reflejarlo, es decir, se refleja varias veces. A esas reflexiones múltiples se les llama reverberación. Por otro lado, si las superficies reflectoras son muy absorbentes, la intensidad del sonido sería baja, y el sonido sonaría feo y sin vida. La reflexión del sonido en un recinto lo hace vivo y lleno, como habrás notado probablemente al cantar en la regadera. En el diseño de un auditorio o de una sala de conciertos se debe encontrar un equilibrio entre la reverberación y la absorción. Al estudio de las propiedades del sonido se le llama acústica.
+
+Con frecuencia se recomienda poner superficies muy reflectoras detrás del escenario, que dirijan el sonido hacia la audiencia. En algunas salas de concierto, se cuelgan superficies reflectoras arriba del escenario. Las del Davies Hall de San Francisco son superficies grandes y brillantes de plástico, que también reflejan la luz. Un espectador puede observar esos reflectores y ver las imágenes reflejadas de los miembros de la orquesta. Los reflectores de plástico tienen curvatura, lo cual aumenta el campo de visión. Tanto el sonido como la luz obedecen la misma ley de reflexión, por lo que si se orienta un reflector para poder ver determinado instrumento musical, ten la seguridad que lo podrás escuchar también. El sonido del instrumento seguirá la visual hacia el reflector y luego hacia ti.
+
+## Refracción del sonido
+
+Las ondas sonoras se desvían cuando algunas partes de sus frentes viajan a distintas rapideces. Esto sucede en vientos erráticos o cuando el sonido se propaga a través de aire a distintas temperaturas. A tal desviación del sonido se le llama refracción. En un día caluroso, el aire cercano al suelo podrá estar bastante más caliente que el resto, y entonces aumenta la rapidez del sonido cerca del suelo. Las ondas sonoras, por consiguiente, tienden a apartarse del suelo y hacen que el sonido no parezca propagarse bien. Las distintas rapideces del sonido producen la refracción.
+
+Escuchamos el relámpago cuando el destello está más o menos cercano, pero con frecuencia no lo escuchamos cuando está muy lejos, debido a la refracción. El sonido se propaga con más lentitud a mayor altitud, y se desvía apartándose del suelo. Con frecuencia sucede lo contrario en un día frío o por la noche, cuando la capa de aire cercana al suelo está más fría que el aire sobre ella. Entonces, se reduce la rapidez del sonido cerca del suelo. La mayor rapidez de los frentes de onda causa una flexión del sonido hacia el suelo, y hace que el sonido se pueda escuchar a distancias bastante mayores.
+
+También hay refracción del sonido bajo el agua, porque su rapidez varía con la temperatura. Esto causa un problema para los barcos que hacen rebotar ondas ultrasónicas en el fondo del mar, para cartografiarlo. La refracción es una bendición para los submarinos que no quieren ser detectados. Debido a los gradientes térmicos y los estratos de agua a distintas temperaturas, la refracción del sonido deja huecos o “puntos ciegos” en el agua. Es ahí donde se ocultan los submarinos. Si no fuera por la refracción, serían más fáciles de detectar. Los médicos usan las reflexiones y refracciones múltiples de las ondas ultrasónicas en una técnica innocua para ver el interior del organismo sin usar los rayos X. Cuando el sonido de alta frecuencia (el ultrasonido) entra al organismo, es reflejado con más intensidad en el exterior de los órganos que en su interior, y se obtiene una imagen del contorno de los órganos. Cuando el ultrasonido incide sobre un objeto en movimiento, el sonido reflejado tiene una frecuencia un poco distinta. Al usar este efecto Doppler, el médico puede “ver” latir el corazón de un feto, ya desde las 11 semanas de gestación.
+
+La técnica del eco ultrasónico podrá ser relativamente novedosa para los seres humanos; pero no para los murciélagos ni para los delfines. Se sabe bien que los murciélagos emiten chillidos ultrasónicos y localizan los objetos por sus ecos. Los delfines hacen eso y más. Las ondas ultrasónicas que emite un delfín le permiten “ver” a través de los cuerpos de otros animales y de las personas. La piel, los músculos y la grasa son casi transparentes para los delfines, por lo que sólo “ven” un delgado contorno del cuerpo; pero observa muy bien los huesos, los dientes y las cavidades llenas de gas. Un delfín puede “ver” evidencias físicas de cánceres, tumores, ataques cardiacos y hasta el estado anímico, algo que los seres humanos sólo han podido hacer en fecha reciente con el ultrasonido.
+
+Dato curioso: un delfín emite sonido de ultra-alta frecuencia, para ubicar e identificar los objetos en su ambiente. Capta la distancia por el retraso desde que manda el sonido hasta que recibe el eco, y detecta la dirección por las diferencias de tiempo en que el eco llega hasta sus orejas. La dieta principal del delfín son los peces, y como en éstos la audición se limita a frecuencias bastante bajas, no se percatan cuándo los van a atrapar.
+
+#### Examínate
+
+Un barco oceanográfico explora el fondo del mar con sonido ultrasónico que se propaga a 1.530 m/s en el agua de mar. ¿Qué profundidad tendrá el agua, si desde la emisión del sonido hasta la llegada del eco pasan 2 segundos?
+
+#### Comprueba tu respuesta
+
+1.530 m. (1 s para bajar y 1 s para subir.)
+
+## Energía en las ondas sonoras
+
+El movimiento ondulatorio de cualquier clase posee energía en diversos grados. Por ejemplo, las ondas electromagnéticas que provienen del Sol nos traen enormes cantidades de la energía necesaria para la vida en la Tierra. En comparación, la energía en el sonido es extremadamente pequeña. Ello se debe a que para producir el sonido sólo se requiere una cantidad pequeña de energía. Por ejemplo, cuando 10.000.000 de personas hablan al mismo tiempo sólo producirían la energía acústica necesaria para encender una linterna común. La audición es posible sólo porque los oídos tienen una sensibilidad realmente notable. Sólo el micrófono más sensible puede detectar los sonidos menos intensos que los que podemos oír.
+
+La energía acústica se disipa en energía térmica, mientras el sonido se propaga en el aire. Para las ondas de mayor frecuencia, la energía acústica se transforma con más rapidez en energía interna que para las ondas de bajas frecuencias. En consecuencia, el sonido de bajas frecuencias llega más lejos por el aire que el de altas frecuencias. Es la causa de que las sirenas de niebla de los barcos tienen baja frecuencia.
+
+## Vibraciones forzadas
+
+Si golpeamos un diapasón no instalado, el sonido que se produce sería bastante débil. Si sujetamos el mismo diapasón contra una mesa, después de golpearlo, el sonido será más intenso. Esto se debe a que se obliga a vibrar a la mesa y, con su mayor superficie, pone en movimiento a más aire. La mesa es forzada a vibrar por un diapasón a cualquier frecuencia. Se trata de un caso de vibración forzada.
+
+El mecanismo de una caja de música se monta en una caja de resonancia. Sin la caja de resonancia, ese sonido apenas sería perceptible. Las cajas de resonancia son importantes en todos los instrumentos musicales de cuerda.
+
+## Frecuencia natural
+
+Cuando alguien deja caer una llave sobre un piso de concreto, no es probable que confundamos ese sonido con el de una pelota de béisbol que golpea contra el suelo. Esto se debe a que los dos objetos vibran en forma distinta cuando se golpean. Golpea una llave y las vibraciones que se provocan son distintas de las de un bat de béisbol, o de las de cualquier otra cosa. Todo objeto hecho de un material elástico vibra cuando es perturbado con sus frecuencias especiales propias, que en conjunto producen su sonido especial. Se habla entonces de la frecuencia natural de un objeto, la cual depende de factores como la elasticidad y la forma del objeto. Desde luego, las campanas y los diapasones vibran con sus frecuencias características propias. Y es interesante que la mayoría de los objetos, desde los planetas hasta los átomos, y casi todo lo que hay entre ellos, tenga una elasticidad tal que vibran a una o más frecuencias naturales.
+
+## Resonancia
+
+Cuando la frecuencia de las vibraciones forzadas en un objeto coincide con la frecuencia natural del mismo, hay un incremento significativo de la amplitud. A este fenómeno se le llama resonancia. En forma literal, resonancia quiere decir “volver a sonar”. La masilla (plastilina) no resuena porque no es elástica, y un pañuelo que se deja caer es demasiado flácido. Para que algo resuene necesita que una fuerza lo regrese a su posición inicial, y que la energía sea suficiente para mantenerlo vibrando.
+
+Una experiencia frecuente que ilustra la resonancia es un columpio. Cuando aumentan las oscilaciones, se empuja al ritmo de la frecuencia natural del columpio. Más importante que la fuerza con que se impulse, es su sincronización. Hasta con impulsos pequeños, si se realizan con el ritmo de la frecuencia del movimiento oscilatorio, se producen grandes amplitudes. Una demostración muy común en los salones de clase es con un par de diapasones, ajustados a la misma frecuencia y colocado a una distancia de un metro entre sí. Cuando se golpea uno de ellos, se pone al otro a vibrar. Es una versión en pequeña escala de cuando columpiamos a un amigo –la sincronización es lo más importante. Cuando una serie de ondas sonoras chocan con el diapasón, cada compresión da un impulso diminuto al brazo del mismo. Como la frecuencia de esos impulsos es igual a la frecuencia natural del diapasón, los impulsos harán aumentar sucesivamente la amplitud de la vibración. Esto se debe a que los impulsos se dan en el momento adecuado, y ocurren de forma repetida en la misma dirección del movimiento instantáneo del diapasón. El movimiento del segundo diapasón se llama con frecuencia vibración simpática o vibración por resonancia.
+
+Si los diapasones no se ajustan a frecuencias iguales, la sincronización de los impulsos se pierde y no habrá resonancia. Cuando sintonizas tu radio ajustas, en forma parecida, la frecuencia natural de los circuitos electrónicos del aparato, para que sean iguales a alguna de las señales que llegan de las estaciones. Entonces la radio resuena con una estación cada vez, en lugar de tocar todas las estaciones al mismo tiempo.
+
+Dato curioso: en 1940, cuatro meses después de terminarse, el puente Tacoma Narrows, en el estado de Washington, Estados Unidos, fue destruido por resonancia generada por el viento. Un vendaval de fuerza moderada produjo una fuerza irregular, en resonancia con la frecuencia natural del puente, aumentando continuamente la amplitud de la vibración hasta que el puente se desplomó.
+
+La resonancia no se restringe al movimiento ondulatorio: se presenta siempre que se aplican impulsos sucesivos a un objeto en vibración, de acuerdo con su frecuencia natural. En 1831 una tropa de caballería cruzaba un puente cerca de Manchester, Inglaterra y, por accidente hicieron que se derrumbara el puente al marchar al ritmo de la frecuencia natural del puente. Desde entonces, se acostumbra ordenar que las tropas “rompan filas” cuando cruzan los puentes, para evitar la resonancia. Más de un siglo después, la resonancia generada por el viento causó otro gran desastre en un puente.
+
+Los efectos de la resonancia están alrededor de nosotros. La resonancia acentúa no sólo el sonido de la música, sino también el color de las hojas en el otoño, la altura de las mareas oceánicas, la operación de los rayos láser, y una vasta multitud de fenómenos que le dan belleza al mundo que nos rodea.
+
+## Interferencia
+
+Las ondas sonoras, como cualquier otra onda, pueden mostrar interferencia. Recuerda que en el último capítulo describimos la interferencia entre ondas. En la Imagen 14 se presenta una comparación de la interferencia en ondas transversales y en ondas longitudinales. En ambos casos, cuando las crestas de una onda se traslapan con las crestas de otra, se produce un incremento de amplitud. O bien, cuando la cresta de una onda se encima con el valle de otra, se produce menor amplitud. En el caso del sonido, la cresta de una onda corresponde a una compresión; y el valle a un enrarecimiento. La interferencia se produce en todas las ondas, ya sean transversales o longitudinales.
+
+*Imagen 14. Ondas constructivas y destructivas*
+
+Descripción de la Imagen 14. Ondas constructivas y destructivas. Parte a, la superposición de dos ondas idénticas transversales y en fase produce una onda de mayor amplitud. Parte b, la superposición de dos ondas idénticas longitudinales y en fase produce una onda de mayor intensidad. Parte c, dos ondas transversales idénticas desfasadas se destruyen entre sí cuando se sobreponen. Parte d, dos ondas longitudinales idénticas desfasadas se destruyen entre sí cuando se sobreponen. Interferencia constructiva (a, b) y destructiva (c, d) entre ondas transversales y longitudinales.
+
+En la Imagen 15 vemos un caso interesante de interferencia acústica. Si estás a distancias iguales de dos altoparlantes que emiten tonos idénticos de frecuencia fija, el sonido será mayor porque se suman los efectos de ambos altoparlantes. Las compresiones y los enrarecimientos de los tonos llegan al mismo tiempo, o en fase. Sin embargo, si te mueves hacia un lado, para que las trayectorias de los altoparlantes hasta ti difieran media longitud de onda, entonces los enrarecimientos de un altoparlante se llenarán con las compresiones del otro. Eso es la interferencia destructiva. Es como si la cresta de una ola en el agua llenara exactamente el valle de otra. Si el recinto con los altoparlantes no tiene superficies reflectoras ¡escucharás poco o nada de sonido!
+
+*Imagen 15. Interferencia de ondas sonoras*
+
+Descripción de la Imagen 15. Interferencia de ondas sonoras. Se muestra una persona situada en la trayectoria de dos auriculares puestos en dos formas diferentes. Forma a, Las ondas llegan en fase y se interfieren constructivamente, cuando las longitudes de trayectoria desde las bocinas son iguales. Forma b, un auricular se pone un poco más lejano, las ondas llegan fuera de fase y se interfieren destructivamente cuando las longitudes de trayectoria difieren en media (o en 3/2, 5/2, etc.) longitud de onda.
+
+Si las bocinas emiten toda una gama de sonidos con distintas frecuencias, sólo habrá algunas ondas que se interfieran destructivamente para determinada diferencia en longitudes de trayectoria. De manera que esa clase de interferencia no suele ser problema, porque normalmente hay suficiente reflexión del sonido como para llenar los puntos de anulación. Sin embargo, a veces los “puntos muertos” son evidentes en teatros o salas de concierto mal diseñados, donde las ondas sonoras se reflejan en las paredes y se interfieren con las ondas no reflejadas, produciendo zonas de baja amplitud. Si mueves la cabeza algunos centímetros en cualquier dirección notarás una diferencia considerable.
+
+La interferencia del sonido se ilustra muy bien cuando se toca sonido monoaural con bocinas estereofónicas que están desfasadas. Se ponen fuera de fase cuando los conductores de señal a una bocina se intercambian (se invierten los conductores positivo y negativo de la señal). Para una señal monoaural ello significa que cuando una bocina está mandando una compresión de sonido, la otra está mandando un enrarecimiento. El sonido que se produce no es tan lleno ni tan intenso como cuando los altoparlantes están bien conectados y en fase, ya que las ondas más largas se anulan por interferencia. Las ondas más cortas se anulan si las bocinas se acercan entre sí, y cuando un par de bocinas se ponen frente a frente, viéndose entre sí ¡se escuchan muy poco! Sólo las ondas sonoras con las frecuencias máximas sobreviven a la anulación. Debes hacer la prueba para comprobarlo.
+
+La interferencia acústica destructiva es una propiedad que se usa en la tecnología antirruido. Unos micrófonos se instalan en dispositivos ruidosos, por ejemplo, los rotomartillos, que envían el sonido del dispositivo a microchips electrónicos, los cuales producen patrones de onda de imagen especulares de las señales de sonido. Para el rotomartillo, esta señal sonora de imagen especular se alimenta a audífonos que usa el operador. Las compresiones (o enrarecimientos) acústicos del martillo se anulan con los enrarecimientos (o las compresiones) de su imagen especular en los audífonos. La combinación de las señales anula el ruido del rotomartillo. Los audífonos anuladores del ruido ya son muy comunes en los pilotos. Las cabinas de algunos aeroplanos ahora son más silenciosas gracias a la tecnología antirruido.
+
+## Pulsaciones
+
+Cuando dos tonos de una frecuencia un poco distinta suenan al unísono, se oye una fluctuación en la intensidad de los sonidos combinados; el sonido es intenso y después débil, luego intenso y después débil, etcétera. A esta variación periódica de la intensidad del sonido se le llama pulsaciones y se debe a la interferencia. Golpea dos diapasones que no estén bien afinados y como uno vibra con distinta frecuencia que el otro, las dos vibraciones estarán en fase, momentáneamente, después fuera de fase, después en fase, y así sucesivamente. Cuando las ondas combinadas llegan en fase a los oídos, por ejemplo, cuando una compresión de un diapasón se encima con una compresión del otro, el sonido es máximo. Un momento después, cuando los diapasones están desfasados, una compresión de uno se encuentra con un enrarecimiento del otro y se produce un mínimo. El sonido que llega a los oídos varía entre la intensidad máxima y mínima, y produce un efecto de trémolo.
+
+Entenderemos mejor el trémolo si imaginamos el caso análogo de dos personas, de distinta estatura, que caminan lado a lado con trancos distintos. En algún momento conservarán el paso, y poco después lo perderán, después lo conservarán, y así sucesivamente. Imagina que una de ellas, quizá con piernas más largas, da exactamente 70 pasos en un minuto, y la persona más baja da 72 pasos en el mismo intervalo. La persona más baja da dos pasos más por minuto que la más alta. Si meditamos un poco veremos que guardarán momentáneamente el paso dos veces cada minuto. En general, si dos personas caminan juntas con ritmo distinto, la cantidad de veces que conservarán el paso en cada unidad de tiempo es igual a la diferencia entre las frecuencias de sus pasos. Eso también se aplica al par de diapasones. Si uno tiene 264 vibraciones por segundo, y el otro 262, dos veces cada segundo estarán en fase. Se escuchará una frecuencia de pulsación de 2 Hertz. El tono general corresponderá a la frecuencia promedio, 263 Hertz.
+
+Dato curioso: ¿Por qué Hollywood insiste en reproducir sonidos de motores cuando las naves viajan en el espacio exterior? ¿Acaso no sería más dramático observarlas mientras flotan en silencio?
+
+Si se enciman dos peines con distintos espacios entre los dientes, veremos una figura de moiré, que se parece a las pulsaciones. La cantidad de pulsaciones por unidad de longitud será igual a la diferencia entre la cantidad de dientes por unidad de longitud, para los dos peines.
+
+Las pulsaciones se pueden producir con cualquier clase de ondas, y permiten tener un método práctico de comparar las frecuencias. Por ejemplo, para afinar un piano el afinador escucha las pulsaciones producidas entre una frecuencia estándar y la frecuencia de determinada nota del piano. Cuando las frecuencias son idénticas, desaparecen las pulsaciones. Te puedes ayudar con las pulsaciones para afinar diversos instrumentos musicales. Tan sólo escucha las pulsaciones entre el tono de tu instrumento y la nota estándar producida por un piano o por algún otro instrumento.
+
+Los delfines utilizan las pulsaciones para reconocer los movimientos de las cosas que los rodean. Cuando un delfín envía señales sonoras, se pueden producir pulsaciones cuando los ecos que recibe se interfieren con el sonido que manda. Cuando no hay movimiento relativo entre el delfín y el objeto que regresa el sonido, las frecuencias de emisión y de recepción son iguales, y no se producen pulsaciones. Pero cuando hay movimiento relativo, el eco tiene una frecuencia distinta por el efecto Doppler, y se producen pulsaciones cuando se combinan el eco y el sonido emitido. El mismo principio se aplica en las pistolas de radar que usa la policía. Las pulsaciones entre la señal que se manda y la que se refleja se usan para determinar con qué rapidez se mueve el automóvil que reflejó la señal.
+
+### Lectura sugerida: emisión de radio
+
+Un radiorreceptor emite sonido, pero lo interesante es que no recibe ondas sonoras. Al igual que un aparato de T.V., el radiorreceptor recibe ondas electromagnéticas, que en realidad son ondas luminosas de baja frecuencia. Estas ondas, que describiremos con detalle en la Parte Seis, difieren fundamentalmente de las ondas sonoras: ambas son de naturaleza diferente y sus frecuencias son extremadamente altas, mucho mayores que el límite de la audición humana.
+
+Cada estación de radio tiene asignada una frecuencia, en la cual emite sus programas. La onda electromagnética que se trasmite a esa frecuencia es la onda portadora. La señal acústica con frecuencia relativamente baja que se va a comunicar se sobrepone a la onda portadora, de frecuencia mucho mayor, en dos formas principales: mediante pequeñas variaciones en la amplitud que coinciden con la audiofrecuencia, o mediante pequeñas variaciones de frecuencia. Esta impresión de la onda sonora sobre la onda de radio, de mayor frecuencia, es la modulación. Cuando se modela la amplitud de la onda portadora, se trata de la banda de A.M., amplitud modulada. Las estaciones de A.M. emiten entre los 535 y 1.605 kiloHertz. Cuando se modula la frecuencia de la onda portadora, la banda se llama de F.M., o frecuencia modulada. Las estaciones de FM transmiten entre los límites de 88 a 108 megahertz de frecuencia, bastante mayores que la A.M. La modulación de amplitud es como cambiar rápidamente la luminosidad de una lámpara de color constante. La modulación de frecuencia es como cambiar rápidamente el color de una lámpara de luminosidad constante.
+
+El hecho de girar la perilla de un radiorreceptor para seleccionar determinada estación es como ajustar masas móviles en las ramas de un diapasón, para hacerlo resonar con el sonido producido por otro diapasón. Al seleccionar una estación de radio ajustas la frecuencia de un circuito eléctrico dentro del aparato, para que coincida y resuene con la energía de la estación que deseas. Así, seleccionas una onda portadora entre muchas. Entonces, la señal impresa del sonido se separa de la onda portadora, se amplifica y se envía al altoparlante. ¡Lo bueno es que se escucha una sola estación a la vez!
+
+*Imagen 16. Señales de radio de A.M. y F.M*
+
+Descripción de la Imagen 16. Señales de radio de A.M. y F.M. primero se muestra la señal de A.M y después la de F.M. Señal a, ondas sonoras que entran a un micrófono son iguales y sinodales. Señal b, onda portadora de radiofrecuencia producida por el transmisor, sin señal de sonido son muy parecidas y la forma senoidal es reducida pero más veces repetida y con misma amplitud. Señal c, onda portadora modulada por la señal, la señal se reduce en ciertas zonas su amplitud, y en la otra su frecuencia se modifica en algunas zonas. d) Interferencia por estática, las dos señales presentan amplitudes cercanas a cero y algunas zonas con elevaciones eventuales.
+
+*Imagen 17. Señales de radio de A.M. y F.M*
+
+Descripción de la Imagen 17. Señales de radio de A.M. y F.M. Señal e, onda portadora y de señal afectada por la estática. Señal f, el radiorreceptor recorta la mitad negativa de la onda portadora. Señal g, la señal que queda es áspera en la A.M., por la estática, pero es nítida para la F.M., ya que los picos de la onda de interferencia se recortan sin pérdida de señal.
+
+#### Examínate
+
+1. ¿Cuál será la frecuencia de pulsación cuando suenan juntos un diapasón de 262 Hz y uno de 266 Hz? ¿Y uno de 262 Hz con otro de 272 Hz?
+
+2. ¿Es correcto decir que en todos los casos, sin excepción, una onda de radio se propaga más rápidamente que una onda sonora?
+
+#### Comprueba tus respuestas
+
+1. Para los dos primeros diapasones, de 262 Hz y 266 Hz, se escucharán 264 Hz, que pulsarán a 4 Hz (266 − 262). Para los diapasones de 272 Hz y 262 Hz, se escucharán 267 Hz, y algunas personas escucharán que fluctúa 10 veces por segundo. Las frecuencias de pulsación mayores que 10 Hz son demasiado rápidas como para escucharlas con claridad.
+
+2. Sí, porque todas las ondas de radio se propagan con la rapidez de la luz. Una onda de radio es una onda electromagnética; en un sentido muy real es una onda luminosa de baja frecuencia (o se puede decir que ¡la onda luminosa es una onda de radio de alta frecuencia!). Una onda sonora, por otro lado, es una perturbación mecánica que se propaga a través de un medio material, por partículas materiales que vibran entre sí. En el aire, la rapidez del sonido es de unos 340 m/s, más o menos la millonésima parte de la rapidez de una onda de radio. El sonido se propaga con más rapidez en otros medios; pero en ningún caso a la rapidez de la luz. Ninguna onda sonora puede propagarse tan rápido como la luz.
+
+## Resumen de términos
+
+Compresión. Región condensada del medio a través del cual se propaga una onda longitudinal.
+
+Frecuencia natural. Frecuencia a la cual naturalmente tiende a vibrar un objeto elástico, si se le perturba y se le quita la fuerza perturbadora.
+
+Infrasónico. Describe un sonido que tiene una frecuencia demasiado baja como para que la escuche el oído humano común.
+
+Interferencia. Resultado de sobreponer ondas diferentes, a menudo de la misma longitud. La interferencia constructiva resulta del reforzamiento cresta a cresta; la destructiva resulta de la anulación de cresta a valle.
+
+Pulsaciones. Serie de refuerzos y anulaciones alternados, producida por la interferencia de dos ondas de frecuencias un poco distintas, que se escuchan como un efecto de trémolo en las ondas sonoras.
+
+Rarefacción. Región enrarecida, o región de menor presión, en el medio a través del cual se propaga una onda longitudinal.
+
+Refracción. Desviación del sonido o de cualquier onda originada por una diferencia en la rapidez de las ondas.
+
+Resonancia. Respuesta de un objeto cuando la frecuencia impelente coincide con su frecuencia natural.
+
+Reverberación. Persistencia de un sonido, como el eco, debido a reflexiones múltiples.
+
+Ultrasónico. Describe un sonido que tiene una frecuencia demasiado alta como para que la escuche el oído humano común.
+
+Vibración forzada. Producción de vibraciones en un objeto, debida a una fuerza en vibración.
+
+## Preguntas de repaso
+
+  1. ¿Cómo suele definir un físico el sonido?
+
+#### Origen del sonido
+
+  2. ¿Cuál es la relación entre frecuencia y tono?
+
+  3. En una persona joven, ¿cuál es el intervalo promedio de audición?
+
+  4. Describe la diferencia entre las ondas sonoras infrasónicas y las ultrasónicas.
+
+#### Naturaleza del sonido en el aire
+
+  5. Describe la diferencia entre una compresión y un enrarecimiento.
+
+  6. ¿Las compresiones y los enrarecimientos se propagan en la misma dirección que una onda? Proporciona evidencias para apoyar tu respuesta.
+
+#### Medios que transmiten el sonido
+
+  7. En relación con los sólidos y los líquidos, ¿qué lugar ocupa el aire como conductor del sonido?
+
+  8. ¿Por qué el sonido no se propaga por el vacío?
+
+#### Rapidez del sonido en el aire
+
+  9. ¿De qué factores depende la rapidez del sonido? ¿Cuáles son algunos factores de los cuales no depende la rapidez del sonido?
+
+  10. ¿Cuál es la rapidez del sonido en el aire seco a 0 °C?
+
+  11. ¿El sonido se propaga con más rapidez en el aire cálido que en el aire frío? Defiende tu respuesta.
+
+#### Reflexión del sonido
+
+  12. ¿Qué es el eco?
+
+  13. ¿Qué es una reverberación?
+
+#### Refracción del sonido
+
+  14. ¿Cuál es la causa de la refracción?
+
+  15. ¿El sonido tiende a desviarse hacia arriba o hacia abajo, cuando su rapidez es menor cerca del suelo?
+
+  16. ¿Por qué a veces el sonido se refracta bajo el agua?
+
+#### Energía en las ondas sonoras
+
+  17. ¿Qué suele ser mayor, la energía en el sonido ordinario o la energía en la luz ordinaria?
+
+  18. A final de cuentas, ¿cuál es el destino de la energía del sonido en el aire?
+
+#### Vibraciones forzadas
+
+  19. ¿Por qué suena más fuerte un diapasón cuando se golpea sujetándolo contra una mesa?
+
+#### Frecuencia natural
+
+  20. Menciona al menos dos factores que determinen la frecuencia natural de un objeto.
+
+#### Resonancia
+
+  21. ¿Qué tienen que ver las vibraciones forzadas con la resonancia?
+
+  22. Cuando escuchas tu radio, ¿por qué sólo escuchas una estación a la vez, y no todas al mismo tiempo?
+
+  23. ¿Cómo la resonancia generada por el viento afectó el Puente Tacoma Narrows en Washington, en 1940?
+
+#### Interferencia
+
+  24. ¿Cuándo es posible que una onda anule a otra?
+
+  25. ¿Qué clase de ondas pueden mostrar interferencia?
+
+#### Pulsaciones
+
+  26. ¿Qué fenómeno físico es básico en la producción de pulsaciones?
+
+  27. ¿Qué frecuencia de pulsación se producirá cuando se hacen sonar al unísono fuentes de 370 Hz y 374 Hz?
+
+  28. ¿En qué difiere una onda de radio de una onda sonora?
+
+## Proyectos
+
+1. En la tina de baño, sumerge la cabeza y escucha el sonido que haces cuando chasqueas las uñas o golpeas la tina bajo el agua. Compara el sonido con el que haces cuando la fuente y los oídos están sobre el agua. A riesgo de mojar el piso, deslízate hacia adelante y hacia atrás dentro de la tina con distintas frecuencias, y observa cómo la amplitud de las olas crece con rapidez cuando te deslizas al ritmo de las olas. (¡Haz esta práctica cuando estés solo en la tina!)
+
+2. Estira un globo, no mucho, y colócalo sobre una bocina de radio. Pega un trozo pequeño, muy ligero, de espejo, papel de aluminio o de metal pulido cerca de una orilla. Ilumina el espejo con un haz de luz estrecho, mientras esté tocando tu música favorita, y observarás las bellas figuras que se reflejan en la pantalla o en la pared.
+
+*Imagen 18. Montaje proyecto 2*
+
+Descripción de la Imagen 18. Montaje proyecto 2. Coloca una membrana de hule al auricular y colócale en un extremo un espejo. Una fuente luminosa se reflejará en el espejo a una pantalla en la pared mientras suena la música.
+
+## Ejercicios
+
+  1. ¿Por qué no escuchas el sonido de los fuegos artificiales distantes, sino hasta después de que los viste?
+
+  2. ¿Si la Luna explotara por qué no escucharíamos la detonación?
+
+  3. ¿Por qué sería vano el intento de detectar sonidos de otros planetas, incluso si se contara con los mejores detectores de sonido?
+
+  4. Lanza una piedra al agua inmóvil y se formarán círculos concéntricos. ¿Qué forma tendrán las ondas, si la piedra se lanza cuando el agua fluye uniformemente?
+
+  5. ¿Por qué zumban las abejas al volar?
+
+  6. Un gato puede oír frecuencias hasta de 70.000 Hz. Los murciélagos emiten y reciben chillidos con ultra alta frecuencia, hasta de 120.000 Hz. ¿Quiénes oyen sonidos de longitudes de onda más cortas, los gatos o los murciélagos?
+
+  7. ¿Qué quiere decir que una estación de radio está “en el 101.1 de su radio F.M.?
+
+  8. El sonido de la fuente A tiene el doble de frecuencia que el sonido de la fuente B. Compara las longitudes de las ondas sonoras de las dos fuentes.
+
+  9. Imagina que una onda sonora y una onda electromagnética tuvieran la misma frecuencia. ¿Cuál tendría la mayor longitud de onda?
+
+  10. ¿Qué sucede con la longitud de onda del sonido conforme se incrementa la frecuencia?
+
+  11. En los arrancadores de una pista de atletismo, se aprecia el humo de la pistola de arranque antes de oír el disparo. Explica por qué.
+
+  12. En una competencia olímpica, un micrófono capta el sonido de la pistola de arranque y lo manda eléctricamente a altoparlantes, en cada arrancador de los competidores. ¿Por qué?
+
+  13. Cuando una onda sonora pasa por un punto en el aire, ¿hay cambios de la densidad del aire en ese punto? Explica por qué.
+
+  14. En el instante en que una región de alta presión se crea justo fuera de las ramas de un diapasón que vibra, ¿qué se crea dentro de las ramas?
+
+  15. Si una campana suena dentro de un capelo de vidrio, ya no la podremos oír si dentro del capelo se hace el vacío, pero la podemos seguir viendo. ¿Qué indica esto acerca de las diferentes propiedades de las ondas sonoras y las ondas luminosas?
+
+  16. ¿Por qué la Luna se considera un “planeta silencioso”?
+
+  17. Al verter agua en un vaso, lo golpeas repetidamente con una cuchara. A medida que el vaso se llena, ¿aumentará o disminuirá la altura del sonido producido? (¿Qué debes hacer para contestar esta pregunta?)
+
+  18. Si la rapidez del sonido dependiera de su frecuencia, ¿disfrutarías de un concierto sentado hasta un segundo piso? Explica por qué.
+
+  19. Si la frecuencia del sonido sube al doble, ¿qué cambio tendrá su rapidez? ¿Y su longitud de onda?
+
+  20. ¿Por qué el sonido se propaga con más rapidez en aire cálido?
+
+  21. ¿Por qué el sonido se propaga con más rapidez en aire húmedo? (Sugerencia: a la misma temperatura, las moléculas de vapor de agua tienen la misma energía cinética promedio que las moléculas de nitrógeno u oxígeno del aire, que son más pesadas. Entonces, ¿cómo se comparan las rapideces promedio de las moléculas de H2O con las de las rapideces de N2 y de O2?)
+
+  22. ¿Sería posible la refracción del sonido, si la rapidez de éste no se afectara con el viento, la temperatura y otras condiciones? Defiende tu respuesta.
+
+  23. ¿Por qué se puede sentir la vibración del suelo lejos de una explosión, antes que se oiga el sonido de ésta?
+
+  24. ¿Qué clase de condiciones de viento harían que el sonido se escuchara con más facilidad a grandes distancias? ¿Y con menos facilidad a grandes distancias?
+
+  25. Las ondas ultrasónicas tienen muchas aplicaciones en la tecnología y en la medicina. Una de sus ventajas es que se pueden usar grandes intensidades sin dañar los oídos. Menciona otra ventaja debida a su corta longitud de onda. (Sugerencia: ¿por qué los microscopistas usan luz azul y no roja para ver con mayor detalle?)
+
+  26. ¿Por qué el eco es más débil que el sonido original?
+
+  27. Si la distancia a la que se encuentra un clarín se triplicara, ¿por qué factor disminuiría la intensidad del sonido? Supón que el sonido no se ve afectado por reflexiones.
+
+  28. ¿Cuáles son los dos errores de física que se cometen en una película de ciencia ficción, cuando se ve una explosión lejana en el espacio exterior, y observas y escuchas esa explosión al mismo tiempo?
+
+  29. Si una sola perturbación a cierta distancia manda ondas transversales y longitudinales al mismo tiempo, que se propagan con rapideces bastante distintas en el medio, por ejemplo, en el suelo durante un terremoto, ¿cómo se podría determinar la distancia a la perturbación?
+
+  30. ¿Por qué todos los soldados al final de un largo desfile, que marchan con el ritmo de una banda, no guardan el mismo paso que los del principio del desfile?
+
+  31. ¿Por qué los soldados rompen filas al cruzar por un puente?
+
+  32. ¿Por qué el sonido de un arpa es suave en comparación con el de un piano?
+
+  33. Los habitantes de los edificios de apartamentos son testigos de que las notas bajas se escuchan mejor cuando suena la música en los apartamientos más cercanos. ¿Por qué crees que los sonidos de menor frecuencia atraviesan con más facilidad las paredes, los pisos y los techos?
+
+  34. Si el asa de un diapasón se sujeta con firmeza contra una mesa, el sonido de ese diapasón se hace más intenso. ¿Por qué? ¿En qué afecta eso el tiempo que el diapasón dura vibrando? Explica cómo.
+
+  35. La cítara es un instrumento musical de la India y tiene un conjunto de cuerdas que vibran y producen música, aun cuando el músico nunca las toca. Esas “cuerdas simpáticas” son idénticas a las cuerdas que se pulsan, y están montadas abajo de ellas. ¿Cuál es tu explicación?
+
+  36. ¿Por qué un tablado de danza sólo se mueve cuando se ejecutan ciertos pasos de baile?
+
+  37. Un par de altavoces colocados a ambos lados de un escenario emiten tonos puros idénticos (tonos de una frecuencia fija y con una longitud de onda fija en el aire). Cuando uno se sitúa en el pasillo central, a igual distancia de ambos altavoces, el sonido se escucha fuerte y claro. ¿Por qué la intensidad del sonido disminuye considerablemente cuando uno se coloca más cerca de un lado? Sugerencia: utiliza un diagrama para hacer tu planteamiento.
+
+  38. Un dispositivo especial puede transmitir sonido fuera de fase proveniente de un ruidoso rotomartillo a los audífonos de su operador. Sobre el ruido del martillo, el operador puede oír con facilidad tu voz, mientras que tú no puedes escuchar la de él. Explica por qué.
+
+  39. ¿Cómo cierta nota emitida por un cantante puede provocar que se rompa un vaso de cristal?
+
+  40. Un objeto resuena cuando la frecuencia de una fuerza vibratoria coincide con su frecuencia natural, o es un submúltiplo de esa frecuencia. ¿Por qué no resuena con múltiplos de su frecuencia natural? (Imagina que impulsas a un niño en un columpio.)
+
+  41. ¿Las pulsaciones son el resultado de la interferencia, o del efecto Doppler, o de ambos?
+
+  42. ¿Es posible decir, sin temor a equivocarse, que las pulsaciones de sonido son lo mismo que los “ritmos” de la música? Argumenta tu respuesta.
+
+  43. Dos ondas sonoras de la misma frecuencia pueden interferir, pero para producir pulsaciones, las dos ondas sonoras deben tener distintas frecuencias. ¿Por qué?
+
+  44. Al caminar junto a ti, tu amigo da 50 pasos por minuto, mientras que tú das 48 pasos por minuto. Si comienzan al mismo tiempo, ¿cuándo mantendrán el mismo paso?
+
+  45. Imagina que un afinador de pianos oye tres pulsaciones por segundo al escuchar el sonido combinado de un diapasón y la nota del piano que afina. Después de apretar un poco la cuerda escucha cinco pulsaciones por segundo. ¿Debería apretar o aflojar la cuerda?
+
+  46. Un afinador de pianos que utiliza un diapasón de 264 Hz escucha cuatro pulsaciones por segundo. ¿Cuáles son las dos frecuencias de vibración posibles de la cuerda del piano?
+
+  47. Un ser humano no puede escuchar un sonido con 100 kHz de frecuencia, ni uno de 102 kHz. Pero si entra en un recinto donde haya dos fuentes que emiten ondas sonoras, una a 100 kHz y otra a 102 kHz, sí escuchará un sonido. Explica por qué.
+
+## Problemas
+
+1. ¿Cuál es la longitud de onda de un tono de 340 Hz en el aire? ¿Cuál es la longitud de una onda ultrasónica de 34.000 Hz en el aire?
+
+2. Durante años, a los oceanógrafos les intrigaron las ondas sonoras captadas por micrófonos bajo las aguas del Océano Pacífico. Estas llamadas ondas T son de los sonidos más puros de la naturaleza. Finalmente, encontraron que la fuente son volcanes submarinos, cuyas columnas de burbujas ascendentes resuenan como tubos de órgano. ¿Cuál es la longitud de una onda característica T cuya frecuencia es 7 Hz? (La rapidez del sonido en el agua de mar es 1.530 m/s.)
+
+3. Un barco-sonda explora el fondo del mar con ondas ultrasónicas que se propagan a 1.530 m/s en el agua. ¿Qué profundidad tiene el agua directamente abajo del barco, si el tiempo entre la salida de la señal y el regreso del eco es de 6 segundos?
+
+4. Un murciélago, al volar en una caverna, emite un sonido y recibe el eco 0,1 s después. ¿A qué distancia está la pared de la caverna?
+
+5. Te fijas en una persona a lo lejos que está clavando tachuelas en el vestíbulo de su casa, dando un golpe por segundo. Escuchas el sonido de los golpes exactamente en sincronía con cada golpe del martillo. Y después que termina de martillar, escuchas un golpe de más. ¿A qué distancia está esa persona?
+
+6. Imagina a un leñador dormilón que vive en las montañas. Antes de acostarse a dormir grita: “¡DESPIÉRTATE!” y el eco del sonido en la montaña más cercana le llega ocho horas después, y lo despierta. ¿A qué distancia está la montaña?
+
+7. Dos bocinas se conectan para emitir sonidos idénticos al unísono. La longitud de onda de los sonidos en el aire es 6 m. ¿Los sonidos interfieren constructiva o destructivamente? si está a una distancia de:
+
+a. 12 m frente a las bocinas
+
+b. 9 m de ambas bocinas
+
+c. 9 m de una bocina y 12 m de la otra
+
+8. ¿Cuál es la frecuencia del sonido emitido por las bocinas del problema anterior? ¿Es de un tono grave o de uno agudo, en relación con el rango de audición del oído humano?
+
+9. Una marsopa emite un sonido a 57 Hz. ¿Cuál es la longitud de onda de este sonido en el agua, donde la rapidez del sonido es de 1.500 m/s?
+
+10. ¿Qué frecuencias de pulsaciones se pueden obtener con diapasones cuyas frecuencias sean de 256, 259 y 261 Hz?
+
+# Capítulo 3: propiedades de la luz
+
+La luz es lo único que realmente podemos ver. Pero, ¿qué es la luz? Sabemos que durante el día, la fuente principal de luz es el Sol, y la fuente secundaria es la claridad del cielo. Hay otras fuentes muy frecuentes, como el fuego, los filamentos incandescentes de las bombillas eléctricas y el gas resplandeciente en los tubos fluorescentes. La luz se origina en el movimiento acelerado de los electrones. Es un fenómeno electromagnético, y es sólo una parte diminuta de un todo mucho mayor: una amplia gama de ondas electromagnéticas llamada espectro electromagnético. Comenzaremos a estudiar la luz investigando sus propiedades electromagnéticas. En el siguiente capítulo estudiaremos su apariencia: el color. En el capítulo 5 veremos cómo se comporta, es decir, cómo refleja y refracta.
+
+Dato curioso: la luz es lo único que vemos. El sonido es lo único que escuchamos.
+
+## Ondas electromagnéticas
+
+Agita el extremo de una vara dentro de agua en reposo, y producirás ondas en su superficie. Asimismo, si agitas una vara con carga a uno y otro lado dentro de un espacio vacío, producirás ondas electromagnéticas en el espacio. Esto se debe a que la carga en movimiento en realidad es una corriente eléctrica. ¿Qué rodea a una corriente eléctrica? La respuesta es un campo magnético. ¿Qué rodea a una corriente eléctrica que cambia? La respuesta es un campo magnético que cambia. Recuerda que, un campo magnético que cambia genera un campo eléctrico; es la inducción electromagnética. Si el campo magnético oscila, el campo eléctrico que genera también oscila. ¿Y qué hace un campo eléctrico que oscila? Según la contraparte de Maxwell a la ley de Faraday de la inducción electromagnética, induce un campo magnético que oscila. Los campos eléctrico y magnético que vibran se regeneran entre sí y forman una onda electromagnética, que emana (se aleja) de la carga vibratoria. Sucede que sólo tiene una rapidez, con la cual los campos eléctrico y magnético conservan un equilibrio perfecto, reforzándose entre sí mientras llevan energía por el espacio. Veamos por qué sucede así.
+
+*Imagen 19. Campo electromagnético*
+
+Descripción de la Imagen 19. Campo electromagnético. Los campos eléctrico y magnético de una onda electromagnética son perpendiculares entre sí y a la dirección del movimiento de la onda.
+
+### Velocidad de una onda electromagnética
+
+Cuando una nave espacial viaja puede aumentar o reducir su rapidez, aun cuando los motores estén apagados, porque la gravedad la puede acelerar hacia adelante o hacia atrás. Pero una onda electromagnética que viaja por el espacio nunca cambia su rapidez. No es que la gravedad no actúe sobre la luz; de hecho sí actúa. La gravedad puede cambiar la frecuencia de la luz, o desviarla; pero no puede cambiar su rapidez. ¿Qué es lo que mantiene a la luz moviéndose siempre con la misma rapidez invariable en el espacio vacío? La respuesta tiene que ver con la inducción electromagnética y la conservación de la energía.
+
+Si la luz fuera más despacio cada vez, su campo eléctrico cambiante generaría un campo magnético más débil, que a la vez generaría un campo eléctrico más débil, y así sucesivamente, hasta que la onda se extinguiera. No se transferiría energía de un lugar a otro. En consecuencia, la luz no se puede desacelerar.
+
+Si la luz incrementara su rapidez, el campo eléctrico cambiante generaría un campo magnético más intenso que, a la vez, generaría un campo eléctrico más fuerte, y así sucesivamente, alcanzando una intensidad de campo cada vez mayor y también una energía cada vez mayor: es una clara imposibilidad con respecto a la conservación de la energía. Sólo hay una rapidez en la que la inducción mutua continúa en forma indefinida, con la que no se pierde ni se gana energía. A partir de sus ecuaciones de la inducción electromagnética, James Clerk Maxwell calculó que el valor de esta rapidez crítica es 300.000 kilómetros por segundo. En sus cálculos sólo usó las constantes de su ecuación, que se determinaban con experimentos sencillos de laboratorio usando campos eléctricos y magnéticos. No usó la rapidez de la luz. ¡Encontró la rapidez de la luz!
+
+Maxwell inmediatamente se dio cuenta de que había descubierto la solución de uno de los grandes misterios del Universo: la naturaleza de la luz. Descubrió que la luz visible tan sólo es radiación electromagnética dentro de determinado intervalo de frecuencias: de 4,3 × 10 14 (4,3 por 10 a la 14) hasta 7 × 10 14 (7 por 10 a la 14) vibraciones por segundo. Esas ondas activan las “antenas eléctricas” en la retina. Las ondas de menor frecuencia se ven rojas; y las de alta frecuencia, violetas. Al mismo tiempo, Maxwell se dio cuenta de que la radiación electromagnética de cualquier frecuencia se propaga con la misma rapidez que la de la luz visible.
+
+Dato curioso: la luz es energía transportada por una onda electromagnética que emiten electrones en vibración. ¡Eureka!
+
+#### Examínate
+
+¿La rapidez invariable de las ondas electromagnéticas en el vacío es una consecuencia notable de algún principio básico de la física?
+
+#### Comprueba tu respuesta
+
+El principio básico que hace que la luz y todas las demás radiaciones electromagnéticas se propaguen a una rapidez fija es la conservación de la energía.
+
+### El espectro electromagnético
+
+En el vacío, las ondas electromagnéticas se mueven a la misma rapidez, y difieren entre sí por la frecuencia. La clasificación de las ondas electromagnéticas por su frecuencia es el espectro electromagnético. Se han detectado ondas electromagnéticas de frecuencia tan baja como 0,01 Hertz (Hz). Las ondas electromagnéticas de varios miles de Hertz (kHz) se consideran ondas de radio de muy baja frecuencia. Un millón de Hertz (MHz) está a la mitad del cuadrante de un radio de A.M. La banda de TV, de ondas de muy alta frecuencia (VHF) comienza en unos 50 MHz; en tanto que las ondas de radio de F.M. van de 88 a 108 MHz. Después vienen las frecuencias ultra-altas (UHF), seguidas de las microondas, más allá de las cuales están las ondas infrarrojas, que a menudo se llaman “ondas caloríficas”. Todavía más adelante está la luz visible, que forma menos de la millonésima parte del 1% del espectro electromagnético medido. La luz de frecuencia mínima que podemos ver es la roja. Las frecuencias máximas de la luz visible tienen casi el doble de la frecuencia del rojo y son violetas. Las frecuencias todavía mayores son del ultravioleta. Esas ondas de mayor frecuencia son las que causan quemaduras al asolearse. Las frecuencias mayores que el ultravioleta se extienden hasta las regiones de los rayos X y los rayos gamma. No hay límites definidos entre las regiones, que en realidad se traslapan entre sí. Sólo para clasificarlo, el espectro se divide en esas regiones.
+
+Dato curioso: en el espacio vacío, hay luz, pero no sonido. En el aire, la luz viaja un millón de veces más rápido que el sonido.
+
+*Imagen 20. Espectro electromagnético*
+
+Descripción de la Imagen 20. El espectro electromagnético es un intervalo continuo de ondas, que va desde las ondas de radio hasta los rayos gamma. Los nombres descriptivos de sus partes sólo son una clasificación histórica, porque todas las ondas tienen la misma naturaleza; difieren principalmente en la frecuencia y la longitud de onda. Todas se propagan a la misma rapidez. Las ondas de radio están en un rango entre 10 a la 4 hasta casi 10 a la 8 metros. Las microondas entre 10 a la 8 hasta 10 a la 12. Las ondas infrarrojo entre 10 a la 12 hasta 10 a la 14. La luz visible es un pequeño rango después de 10 a la 14. La ultravioleta va después de la luz visible hasta 10 a la 16. Los rayos x se encuentran entre 10 a la 16 y cerca de 10 a la 18. Los rayos gama superan los 10 a la 18.
+
+Los conceptos y las relaciones que describimos antes al estudiar el movimiento ondulatorio también se aplican aquí. Recuerda que la frecuencia de una onda es igual a la frecuencia de la fuente vibratoria. Aquí sucede lo mismo: la frecuencia de una onda electromagnética, al vibrar y propagarse por el espacio, es idéntica a la frecuencia de la carga oscilatoria que la generó. Las diversas frecuencias corresponden a diversas longitudes de onda: las ondas de baja frecuencia tienen grandes longitudes de onda, y las ondas de alta frecuencia tienen longitudes de ondas cortas. Por ejemplo, como la rapidez de la onda es 300.000 kilómetros por segundo, una carga eléctrica que oscile una vez por segundo (1 Hertz) producirá una longitud de onda de 300,000 kilómetros. Eso se debe a que sólo se generó una longitud de onda en 1 segundo. Si la frecuencia de oscilación fuera 10 Hertz, se formarían 10 ondas en 1 segundo, y la longitud de onda correspondiente sería de 30.000 kilómetros. Una frecuencia de 10.000 Hertz produciría una longitud de onda de 30 kilómetros. Así, cuanto mayor sea la frecuencia de la carga vibratoria, su radiación tendrá menor longitud de onda.
+
+Tendemos a pensar que el espacio está “vacío”, pero sólo porque no podemos ver las figuras de las ondas electromagnéticas que atraviesan cada parte de nuestro alrededor. Naturalmente que vemos algunas de ellas en forma de luz. Esas ondas sólo forman una microporción del espectro electromagnético. No percibimos las ondas de radio, que nos abarcan en todo momento. Los electrones libres de todo trozo de metal en la superficie terrestre danzan continuamente al ritmo de esas ondas. Se agitan al unísono, y los electrones son impulsados hacia arriba y hacia abajo, en las antenas transmisoras de radio y de televisión. Un receptor de radio o de televisión es tan sólo un aparato que clasifica y amplifica estas diminutas corrientes. Hay radiación por doquier. Nuestra primera impresión del Universo es de materia y de vacío, pero el Universo es en realidad un denso mar de radiación, donde están suspendidos algunos concentrados ocasionales.
+
+Dato curioso: antes de la llegada de los hornos de microondas, existían los infrarrojos, a los que simplemente se llamaba “hornos”. ¡Eureka!
+
+#### Examínate
+
+¿Es correcto decir que una onda de radio es una onda luminosa de baja frecuencia? ¿Una onda de radio es también una onda sonora?
+
+#### Comprueba tu respuesta
+
+Tanto la de radio como la luminosa son ondas electromagnéticas que se originan en las vibraciones de los electrones. Las ondas de radio tienen menores frecuencias que las ondas luminosas, por lo que una onda de radio puede considerarse como una onda de luz de baja frecuencia (y una onda luminosa como una onda de radio de alta frecuencia). Pero una onda sonora es una vibración mecánica de la materia, y no es electromagnética. Una onda sonora es básicamente distinta de una onda electromagnética. Por consiguiente, una onda de radio definitivamente no es una onda sonora.
+
+## Materiales transparentes
+
+La luz es una onda electromagnética portadora de energía, que emana de los electrones vibratorios en los átomos. Cuando se transmite la luz a través de la materia, algunos de los electrones en ella son forzados a vibrar. De esta manera, las vibraciones del emisor se transmiten y son vibraciones en el receptor. Es una forma parecida a como se transmite el sonido.
+
+Entonces, la forma en que un material receptor responde cuando le llega luz, depende de la frecuencia de ésta y de la frecuencia natural de los electrones en el material. La luz visible vibra a frecuencia muy alta, unos 100 billones de veces por segundo (1014 Hertz). Si un objeto cargado va a responder a esas vibraciones ultrarrápidas, debe tener poca inercia, muy poca. Como la masa de los electrones es tan diminuta, pueden vibrar con esa frecuencia.
+
+*Imagen 21. Núcleo atómico y electrones*
+
+Descripción de la Imagen 21. Núcleo atómico y electrones. Los electrones de los átomos en el vidrio tienen ciertas frecuencias naturales, y se pueden modelar como partículas unidas al núcleo atómico mediante resortes.
+
+Los materiales como el vidrio y el agua permiten que la luz se propague por ellos en líneas rectas. Se dice que son transparentes a la luz. Para entender cómo pasa la luz por un material transparente, imagina los electrones en los átomos de materiales transparentes como si estuvieran unidos a su núcleo con resortes (Imagen 21). Cuando una onda luminosa incide en ellos, sus electrones se ponen en vibración.
+
+Los materiales que son elásticos responden más a vibraciones de determinadas frecuencias que a otras. Los timbres de campana suenan a determinada frecuencia, los diapasones vibran a determinada frecuencia, y también los electrones de los átomos y las moléculas. Las frecuencias naturales de vibración de un electrón dependen de lo fuertemente que esté enlazado con su átomo o molécula. Los distintos átomos o moléculas tienen diferentes “intensidades de resorte”. Los electrones de los átomos en el vidrio tienen una frecuencia natural de vibración en la región del ultravioleta. En consecuencia, cuando las ondas ultravioleta llegan al vidrio, se presenta la resonancia y la vibración de los electrones crece hasta grandes amplitudes, del mismo modo que cuando se empuja a un niño a la frecuencia de resonancia del columpio aumenta la amplitud del vaivén. La energía que recibe cualquier átomo en el vidrio la reemite, o la pasa por choques, a los átomos vecinos. Los átomos resonantes en el vidrio pueden retener la energía de la luz ultravioleta durante un tiempo bastante grande, unas 100 millonésimas de segundo. Durante este tiempo, el átomo describe 1 millón de vibraciones y choca con los átomos vecinos, cediendo su energía en forma de calor. Por todo lo anterior, el vidrio no es transparente a los rayos ultravioleta.
+
+A menores frecuencias de las ondas, como las de la luz visible, los electrones de los átomos en el vidrio son forzados a vibrar, pero con menor amplitud. Retienen menos tiempo la energía, con menos probabilidades de choque con los átomos vecinos, y menos energía se transforma en calor. La energía de los electrones vibratorios se reemite en forma de luz. El vidrio es transparente a todas las frecuencias de la luz visible. La frecuencia de la luz reemitida que pasa de uno a otro átomo es idéntica a la frecuencia de la luz que produjo la vibración de la fuente original. Sin embargo, hay una pequeña demora entre la absorción y la reemisión de esa luz.
+
+Dato curioso: los átomos son como diapasones ópticos que resuenan a determinadas frecuencias.
+
+Esa demora es lo que ocasiona una menor rapidez media de la luz a través de un material transparente. La luz se propaga a distintas rapideces promedio cuando atraviesa materiales distintos. Decimos rapideces promedio porque la rapidez de la luz en el vacío, ya sea en el espacio interestelar o el espacio entre las moléculas de un trozo de vidrio, es una constante de 300.000 kilómetros por segundo. A esto se le llama rapidez de la luz c. La rapidez de la luz en la atmósfera es un poco menor que en el vacío, pero se suele redondear a c. En el agua, la luz se propaga al 75% de su rapidez en el vacío (a 0,75 c). En el vidrio se propaga más o menos a 0,67 c, según la clase de vidrio. En un diamante va a menos de la mitad de su rapidez en el vacío, sólo a 0,41 c. Cuando sale la luz de esos materiales al aire, se propaga a su velocidad original c.
+
+Las ondas infrarrojas, con frecuencias menores que las de la luz visible, hacen vibrar no sólo a los electrones, sino a los átomos o las moléculas completos en la estructura del vidrio. Esa vibración aumenta la energía interna y la temperatura de la estructura, y es la causa de que a veces se diga que las ondas infrarrojas son ondas de calor. El vidrio es transparente a la luz visible, pero no a la luz ultravioleta ni a la luz infrarroja.
+
+Dato curioso: diferentes materiales tienen distintas estructuras moleculares y, por lo tanto, absorben o reflejan la luz de varios rangos espectrales de forma diferente.
+
+#### Examínate
+
+1. ¿Por qué el vidrio es transparente a la luz visible, pero opaco a la ultravioleta y a la infrarroja?
+
+2. Imagina que mientras cruzas un recinto te detienes en forma momentánea varias veces, para saludar a las personas que están “en tu onda”. ¿Cómo se parece eso a la luz que se propaga por el vidrio?
+
+3. ¿Y en qué sentido no se parece?
+
+#### Comprueba tus respuestas
+
+1. Como la frecuencia natural de las vibraciones de los electrones en el vidrio es igual que la frecuencia de la luz ultravioleta, se presenta la resonancia cuando las ondas del ultravioleta llegan al vidrio. La energía absorbida pasa a otros átomos en forma de calor, y no se remite como luz; esto hace que el vidrio sea opaco a las frecuencias del ultravioleta. En el intervalo de la luz visible, las vibraciones forzadas de los electrones en el vidrio tienen menores amplitudes y son más sutiles; además, hay reemisión de luz (en vez de generación de calor) y el vidrio es transparente. La luz infrarroja de menor frecuencia hace que resuenen moléculas completas y no los electrones. De nuevo, se genera calor y el vidrio es opaco a la infrarroja.
+
+2. Tu rapidez promedio al cruzar el recinto es menor que la que sería en un salón vacío, por las demoras asociadas a las paradas momentáneas. Asimismo, la rapidez de la luz en el vidrio es menor que en el aire, por las demoras causadas por las interacciones de la luz con átomos en su camino.
+
+3. Al atravesar el recinto tú eres quien inicia y termina el trayecto. Eso no se parece al caso de la luz, porque según nuestro modelo de la luz que pasa por un material transparente, la luz que absorbe el primer electrón que se pone a vibrar no es igual que la que se reemite, aun cuando ambas, como gemelos idénticos, no se puedan distinguir.
+
+## Materiales opacos
+
+La mayoría de los objetos que nos rodean son opacos, es decir, absorben la luz y no la reemiten. Los libros, las mesas, las sillas y las personas son opacos. Las vibraciones que la luz comunica a sus átomos y moléculas se convierten en energía cinética aleatoria, en energía interna. Se calientan un poco.
+
+Los metales son opacos. Como los electrones externos de los átomos de los metales no están enlazados con algún átomo determinado, vagan libremente con poca dificultad por todo el material (es la causa de que los metales conduzcan tan bien la electricidad y el calor). Cuando la luz llega a un metal y pone a vibrar a esos electrones libres, su energía no “salta” de un átomo a otro en el material, sino que se refleja. Es la causa de que los metales tengan brillo.
+
+La atmósfera terrestre es transparente a una parte de la luz ultravioleta, a toda la luz visible y a una parte de la luz infrarroja, pero es opaca a la luz ultravioleta de alta frecuencia. La pequeña parte de radiación ultravioleta que pasa es la causa de las quemaduras por asolearse. Si penetrara toda esta radiación literalmente estaríamos fritos. Las nubes son semitransparentes al ultravioleta, y en consecuencia uno puede quemarse la piel incluso en un día nublado. La piel oscura absorbe la luz ultravioleta antes de que pueda penetrar demasiado; mientras que en la piel blanca dicha luz penetra más. Con la exposición suave y gradual, la piel blanca puede broncearse e incrementar la protección contra la luz ultravioleta. Ésta no sólo es dañina para la piel, sino también para los ojos y para los techos asfaltados de las construcciones. Ahora ya sabes por qué estos techos se cubren con arena.
+
+¿Has notado que las cosas se ven más oscuras cuando están húmedas que cuando están secas? La luz que incide en una superficie seca rebota directamente hacia los ojos; en tanto que si llega a una superficie mojada rebota dentro de la región mojada transparente, antes de llegar a los ojos. ¿Qué sucede en cada rebote? ¡Absorción! Entonces, una superficie mojada tiene más absorción y se ve más oscura.
+
+Dato curioso: los rayos ultravioleta de longitud de onda más larga, llamados U.V.-A, están cerca de la luz visible en el espectro y son inofensivos. Los rayos ultravioleta de longitud de onda corta, llamados U.V.-C, serían dañinos si llegaran a nosotros, pero la capa de ozono de la atmósfera se encarga de detenerlos casi por completo. Los rayos ultravioleta de longitud de onda intermedia, U.V.-B, son los que provocan daños en los ojos, quemaduras y cáncer en la piel. ¡Eureka!
+
+### Sombras
+
+A menudo a un haz delgado de luz se le llama rayo. Cuando estamos parados a la luz del Sol, algo de ella se detiene mientras que otros rayos siguen, en una trayectoria rectilínea. Arrojamos, o producimos una sombra, es decir, una región donde no llegan los rayos de luz. Si estamos cerca de nuestra sombra, ésta tiene contornos nítidos porque el Sol está muy lejos. Una fuente luminosa grande y lejana o una fuente pequeña y cercana pueden producir una sombra nítida. Una fuente luminosa grande y cercana produce una sombra algo difusa.
+
+Dato curioso: un objeto cerca de una pared produce una sombra definida, porque la luz que proviene de direcciones un poco diferentes no se extiende mucho detrás del objeto. Al alejarse el objeto de la pared, se forman penumbras y la sombra se vuelve más pequeña. Cuando el objeto está todavía más alejado, la sombra es menos definida. Cuando el objeto está muy alejado no se ve sombra porque se mezclan todas las penumbras y forman una mancha grande.
+
+En general, hay una parte negra en el interior y una parte más clara que rodea los contornos de una sombra. A una sombra total se le llama umbra y a una sombra parcial se le llama penumbra. Aparece la penumbra cuando se bloquea algo de la luz, pero llega otra luz. Eso puede suceder cuando es bloqueada la luz de una fuente y llega la luz de otra fuente. También hay penumbra cuando la luz de una fuente amplia es bloqueada sólo parcialmente.
+
+Tanto la Tierra como la Luna arrojan sombras cuando les llega la luz solar. Cuando la trayectoria de alguno de esos cuerpos se cruza con la sombra producida por el otro, ocurre un eclipse (Imagen 22). Un efecto espectacular de la sombra y la penumbra lo vemos cuando la sombra de la Luna cae sobre la Tierra, durante un eclipse solar. A causa del gran tamaño del Sol, sus rayos forman un cono produciendo la sombra, y una penumbra que la rodea. Si quedas en la parte de la sombra, estarás a oscuras durante el día, en un eclipse total. Si quedas en la penumbra estarás en un eclipse parcial, porque verás al Sol en forma de Luna creciente. En un eclipse lunar la Luna pasa por la sombra que produce la Tierra.
+
+*Imagen 22. Eclipses*
+
+Descripción de la Imagen 22. Eclipses. Parte a, cuando la Tierra está entre el Sol y la Luna, se ve una Luna llena. Parte b, cuando este alineamiento es perfecto, la Luna está en la sombra de la Tierra y se produce un eclipse lunar. Parte c, cuando la Luna está entre el Sol y la Tierra, se ve Luna nueva. Parte d, cuando este alineamiento es perfecto, la sombra de la Luna cae sobre parte de la Tierra y se produce un eclipse solar.
+
+#### Examínate
+
+1. ¿Qué clase de eclipse, solar o lunar, o ambos, es peligroso contemplar sin protección en los ojos?
+
+2. ¿Por qué es más común ver eclipses lunares que solares?
+
+#### Comprueba tus respuestas
+
+1. Sólo es perjudicial ver un eclipse solar en forma directa, porque uno ve directamente al Sol. Durante un eclipse lunar se ve una Luna muy oscura. No es totalmente negra porque la atmósfera de la Tierra funciona como lente y desvía algo de la luz solar hacia la región de la sombra. Es interesante el hecho de que sea la luz de los crepúsculos rojos y de las auroras alrededor del mundo, y por eso la Luna parece tener un débil tono rojo profundo durante un eclipse lunar.
+
+2. La sombra de la Luna es relativamente pequeña en la Tierra, y abarca una parte muy pequeña de la superficie terrestre. De este modo, sólo hay relativamente pocas personas en la sombra de la Luna, en un eclipse solar. Pero la sombra de la Tierra abarca la totalidad de la Luna durante un eclipse lunar total, por lo que todos quienes vean el cielo nocturno verán la sombra de la Tierra sobre la Luna.
+
+## Visión de la luz: el ojo
+
+La luz es lo único que vemos con el instrumento óptico más notable que se conoce: el ojo. En la Imagen 23 se presenta un diagrama del ojo humano.
+
+*Imagen 23. El ojo humano*
+
+Descripción de la Imagen 23. El ojo humano. Las partes del ojo humano desde la parte más externa hasta su interior. Cornea, iris, cristalino, retina, fóvea y punto ciego.
+
+La luz entra al ojo por la cubierta transparente llamada córnea, que produce 70% de la desviación necesaria de la luz antes de que pase por la pupila (que es una abertura en el iris). A continuación la luz pasa por una lente, que sólo proporciona la desviación adicional para que las imágenes de los objetos cercanos queden enfocadas en la capa que está en el fondo del ojo. Esta capa es la retina, y es sensible en extremo, y hasta en fecha muy reciente era más sensible a la luz que cualquier detector artificial fabricado. Diferentes partes de la retina reciben luz proveniente de diferentes partes del campo visual exterior. La retina no es uniforme.
+
+Hay una mancha en el centro de nuestro campo de visión, que es la fóvea. En ella se puede captar mucho mayor detalle que en las partes laterales del ojo. También hay un lugar en la retina donde los nervios sacan toda la información por el nervio óptico: es el punto ciego.
+
+Dato curioso: el calamar gigante tiene los ojos más grandes del mundo.
+
+La retina está formada por diminutas antenas que resuenan con la luz que les llega. Hay dos clases de antenas: los bastones y los conos. Como sus nombres lo indican, algunas de las antenas tienen forma de bastón y otras tienen forma de cono. Hay tres clases de conos: los que se estimulan con luz de baja frecuencia, los que se estimulan con luz de frecuencia intermedia y los que se estimulan con luz de mayor frecuencia. Los bastones predominan en la periferia de la retina; en tanto que las tres clases de conos son más densos hacia la fóvea. Los conos son muy densos en la fóvea misma, y como están empacados tan estrechamente, son mucho más finos, o angostos, ahí más que en cualquier otra parte de la retina. La visión de los colores se debe a los conos. En consecuencia, percibimos el color con más agudeza enfocando una imagen en la fóvea, donde no hay bastones. Los primates y cierta especie de ardillas terrestres son los únicos mamíferos que tienen tres clases de conos, y tienen una visión total de los colores. Las retinas de los demás mamíferos están formadas principalmente por bastones, que sólo son sensibles a la luz o a la oscuridad, como una fotografía o película en blanco y negro.
+
+En el ojo humano, la cantidad de conos disminuye al alejarse de la fóvea. Es interesante el hecho de que el color de un objeto desaparece si se percibe con visión periférica. Se puede hacer la prueba haciendo que un amigo entre a la periferia de tu visión con algunos objetos de colores brillantes. Encontrarás que puedes ver primero los objetos y después percibes sus colores.
+
+Otro hecho interesante es que la periferia de la retina es muy sensible al movimiento. Aunque nuestra visión es deficiente en el rabillo del ojo, ahí tenemos sensibilidad a lo que se mueva. Estamos “programados” para ver algo que se agite en los lados de nuestro campo visual, función que debió tener importancia en nuestro desarrollo evolutivo. Pide a un amigo que agite los objetos con colores brillantes cuando los ponga en la periferia de tu campo de visión. Si apenas puedes ver los objetos cuando se agitan, pero no los puedes ver cuando se mantienen inmóviles, no podrás decir de qué color son. ¡Haz la prueba!
+
+Otra cosa que distingue a los bastones y a los conos es la intensidad de la luz a la que responden. Los conos requieren más energía que los bastones para poder “disparar” un impulso por el sistema nervioso. Si la intensidad luminosa es muy baja, lo que veamos no tiene color. Vemos bajas intensidades con los bastones. La visión adaptada a la oscuridad se debe casi totalmente a los bastones, mientras que la visión con mucha iluminación se debe a los conos. Por ejemplo, vemos que las estrellas son blancas. Sin embargo, la mayoría de las estrellas tienen colores brillantes. Con una fotografía con tiempo de exposición, las estrellas se ven rojas y anaranjadas rojas, que son las “más frías”; y azules y azul-violeta las “más calientes”. Sin embargo, la luz estelar es muy débil como para activar los conos receptores del color en la retina. Vemos entonces las estrellas con los bastones y las percibimos como blancas o, cuando más, sólo con un color débil. Las mujeres tienen un umbral un poco menor de activación de los conos, y pueden ver más colores que los hombres. Así que, si ella dice que las estrellas son de colores y él dice que no, ¡probablemente ella tenga razón!
+
+Se ha determinado que los bastones “ven” mejor que los conos hacia el extremo azul del espectro de colores. Los conos pueden ver un rojo profundo donde los bastones no ven luz alguna. La luz roja puede ser negra, de acuerdo con los bastones. Así, si tienes objetos de dos colores, por ejemplo, azul y rojo, el azul aparecerá mucho más brillante que el rojo en luz mortecina, aunque el rojo pueda ser mucho más brillante que el azul, vistos a la luz brillante. El efecto es muy interesante. Haz la siguiente prueba: en un cuarto oscuro toma una revista o algo que tenga colores, y antes de saber con seguridad de qué colores se trata, intenta decir cuáles son las zonas más claras y más oscuras. A continuación enciende la luz. Verás un notable cambio entre los colores más brillantes y los más opacos.
+
+Los bastones y los conos de la retina no están conectados en forma directa con el nervio óptico sino, algo muy interesante, están conectados con muchas otras células que están a la vez interconectadas. Mientras que muchas de esas células están interconectadas, sólo unas cuantas conducen la información al nervio óptico. A través de esas interconexiones, cierta cantidad de información procedente de varios receptores visuales se combina y se “digiere” en la retina. De esta forma, se “medita” la señal luminosa, antes de ir al nervio óptico y luego al cuerpo principal del cerebro. Así, algo del funcionamiento cerebral se lleva a cabo en el ojo mismo. El ojo hace algo de nuestro “pensamiento”.
+
+### Pensamiento e ilusión óptica
+
+A este pensamiento lo traiciona el iris, la parte coloreada del ojo que se dilata y se contrae, y regula el tamaño de la pupila, admitiendo más o menos luz conforme cambia la intensidad de ésta. También sucede que el tamaño relativo del aumento o contracción se relaciona con nuestras emociones. Si vemos, olemos, gustamos u oímos algo agradable, nuestras pupilas aumentan de tamaño en forma automática. Si vemos, olemos, gustamos u oímos algo repugnante, nuestras pupilas se contraen también en forma automática. ¡Muchos jugadores de cartas revelan la mano que les tocó por el tamaño de sus pupilas! (El estudio del tamaño de la pupila en función de las actitudes se llama pupilometría.)
+
+La luz más brillante que puede percibir el ojo humano sin dañarse tiene un brillo 500 veces mayor que el brillo mínimo perceptible. Ve hacia una lámpara encendida y después ve hacia un clóset sin iluminación. La diferencia en intensidad de la luz puede ser mayor que un millón a uno. Debido a un efecto llamado inhibición lateral no percibimos las diferencias reales de brillo. Los lugares más brillantes en nuestro campo visual no pueden eclipsar el resto, porque siempre que una célula receptora en nuestra retina manda una fuerte señal de brillo a nuestro cerebro, también indica a las células vecinas que aminoren sus respuestas. De este modo, emparejamos nuestro campo visual, lo cual nos permite percibir detalles en zonas muy brillantes y también en zonas muy oscuras. La película fotográfica no es tan buena para hacer esto. Al fotografiar una escena con fuertes diferencias de intensidad se pueden sobreexponer en unas zonas y subexponer en otras. La inhibición lateral exagera la diferencia en brillo en las orillas de los lugares de nuestro campo visual. Las orillas, por definición, separan una cosa de otra. Así acentuamos las diferencias.
+
+Cuestiones que ponderar: ¿la forma en que el ojo distingue las orillas y hace hipótesis acerca de lo que hay más allá se parece a la forma en que a veces hacemos juicios acerca de otras culturas y otras personas? ¿No tendemos a exagerar, en la misma forma, las diferencias en la superficie mientras ignoramos las semejanzas y las sutiles diferencias del interior?
+
+A continuación se presentan una serie de imágenes que son ilusiones ópticas y juegos para el cerebro.
+
+*Imagen 24. Ilusión óptica 1*
+
+Descripción de la Imagen 24. Ilusión óptica 1. ¿Realmente es discontinua la línea inclinada? Se presenta un rectángulo con barras horizontales blancas y negras intercaladas. Una línea inclinada cruza por todo el rectángulo. La ilusión es que la línea parece discontinua.
+
+*Imagen 25. Ilusión óptica 2*
+
+Descripción de la Imagen 25. Ilusión óptica 2. ¿Puedes contar los puntos negros?
+
+*Imagen 26. Ilusión óptica 3*
+
+Descripción de la Imagen 26. Ilusión óptica 3. Izquierda, ¿Es mayor la altura de la copa que el diámetro del ala? Derecha, ¿Qué dice este letrero?
+
+## Resumen de términos
+
+Eclipse lunar. Evento en el que la Luna pasa por la sombra de la Tierra.
+
+Eclipse solar. Evento en el que la Luna bloquea la luz solar, y la sombra de la Luna cae sobre una parte de la Tierra.
+
+Espectro electromagnético. Intervalo de ondas electromagnéticas cuya frecuencia va desde las ondas de radio hasta los rayos gamma.
+
+Onda electromagnética. Onda portadora de energía emitida por una carga vibratoria (frecuentemente electrones) formada por campos eléctricos y magnéticos que oscilan y que se regeneran entre sí.
+
+Opaco. Término aplicado a materiales que absorben la luz sin reemitirla y, por consiguiente, a través de los cuales no puede pasar la luz.
+
+Penumbra. Sombra parcial que aparece donde algo de la luz, pero no toda, se bloquea.
+
+Sombra. Región oscura que aparece cuando los rayos de luz son bloqueados por un objeto.
+
+Transparente. Término aplicado a materiales a través de los cuales la luz puede pasar en línea recta.
+
+Umbra. La parte más oscura de una sombra donde se bloquea la luz.
+
+## Preguntas de repaso
+
+#### Ondas electromagnéticas
+
+1. ¿Qué induce un campo magnético que varía?
+
+2. ¿Qué induce un campo eléctrico que varía?
+
+3. ¿Qué produce una onda electromagnética?
+
+#### Velocidad de una onda electromagnética
+
+4. ¿Por qué, según la conservación de la energía, una onda electromagnética en el espacio nunca desacelera?
+
+5. ¿Por qué, según la conservación de la energía, una onda electromagnética en el espacio nunca acelera?
+
+6. ¿Qué contienen y transportan los campos eléctricos y magnéticos?
+
+#### El espectro electromagnético
+
+7. ¿Cuál es la diferencia principal entre una onda de radio y la luz visible? ¿Y entre la luz visible y un rayo X?
+
+8. ¿Qué parte o cuánto del espectro electromagnético medido ocupa la luz visible?
+
+9. ¿Qué color tiene la luz visible de las frecuencias mínimas visibles? ¿Y en las frecuencias máximas?
+
+10. ¿Cómo se compara la frecuencia de una onda de radio con la de los electrones vibratorios que la producen?
+
+11. ¿Cómo se relaciona la longitud de onda de la luz visible con su frecuencia?
+
+12. ¿Cuál es la longitud de una onda cuya frecuencia es de 1 Hz y se propaga a 300.000 km/s?
+
+13. ¿En qué sentido decimos que el espacio exterior en realidad no está vacío?
+
+#### Materiales transparentes
+
+14. El sonido que proviene de un diapasón puede hacer que otro diapasón vibre. ¿Cuál es el efecto análogo en la luz?
+
+15. ¿En qué región del espectro electromagnético está la frecuencia de resonancia de los electrones en el vidrio?
+
+16. ¿Cuál es el destino de la energía en la luz ultravioleta que incide en un vidrio?
+
+17. ¿Cuál es el destino de la energía en la luz visible que incide en un vidrio?
+
+18. ¿Cómo se compara la frecuencia de la luz reemitida en un material transparente con la de la luz que estimula la reemisión?
+
+19. ¿Cómo se compara la rapidez promedio de la luz en el vidrio con su rapidez en el vacío?
+
+20. ¿Por qué a las ondas infrarrojas se les llama con frecuencia ondas de calor?
+
+#### Materiales opacos
+
+21. ¿Por qué los materiales se calientan cuando los ilumina la luz?
+
+22. ¿Por qué los metales son brillantes?
+
+23. ¿Por qué los objetos mojados se ven normalmente más oscuros que los objetos secos?
+
+#### Sombras
+
+24. Describe la diferencia entre sombra (umbra) y penumbra.
+
+25. ¿La Tierra y la Luna siempre producen sombras? ¿Qué se produce cuando una pasa por la sombra de la otra?
+
+#### Visión de la luz: el ojo
+
+26. Explica la diferencia entre los bastones y los conos del ojo, y entre sus funciones.
+
+## Ejercicios
+
+1. Un amigo te dice, de forma enfática, que la luz es lo único que podemos ver. ¿Está en lo correcto?
+
+2. Además, tu amigo dice que la luz se produce por la conexión entre la electricidad y el magnetismo. ¿Está en lo correcto?
+
+3. ¿Cuál es la fuente fundamental de radiación electromagnética?
+
+4. ¿Cuáles tienen la mayor longitud de onda: la luz visible, los rayos X o las ondas de radio?
+
+5. ¿Cuál tiene longitudes de onda más cortas, la ultravioleta o la infrarroja? ¿Cuál tiene las mayores frecuencias?
+
+6. ¿Cómo es posible tomar fotografías en la oscuridad completa?
+
+7. Exactamente, ¿qué es lo que ondula en una onda luminosa?
+
+8. Se escucha a las personas hablar de la “luz ultravioleta” y de la “luz infrarroja”. ¿Por qué son engañosos esos términos? ¿Por qué es menos probable escuchar acerca de la “luz de radio” y de la “luz de rayos X”?
+
+9. Sabiendo que el espacio interplanetario consiste en vacío, ¿cuál es tu evidencia de que las ondas electromagnéticas pueden viajar por el vacío?
+
+10. ¿Cuál es la principal diferencia entre un rayo gamma y un rayo infrarrojo?
+
+11. ¿Cuál es la rapidez de los rayos X en el vacío?
+
+12. ¿Qué viaja con mayor rapidez en el vacío, un rayo infrarrojo o un rayo gamma?
+
+13. Tu amigo te dice que cualquier onda de radio viaja considerablemente más rápido que cualquier onda sonora. ¿Estás de acuerdo con él? ¿Por qué?
+
+14. Tu amigo te dice que el espacio exterior, en vez de estar vacío, está abarrotado de ondas electromagnéticas. ¿Estás de acuerdo con él? ¿Por qué?
+
+15. Las señales de longitud de onda de radio y televisión ¿son más largas o más cortas, que las ondas detectables por el ojo humano?
+
+16. Imagina que una onda luminosa y una sonora tienen la misma frecuencia. ¿Cuál tiene la mayor longitud de onda?
+
+17. ¿Las ondas de radio se propagan a la rapidez del sonido, a la rapidez de la luz, o a una rapidez intermedia?
+
+18. Cuando los astrónomos observan una explosión de supernova en una galaxia lejana, lo que ven es un aumento repentino y simultáneo en la luz visible y en otras formas de radiación electromagnética. ¿Eso es una prueba que respalde la idea de que la rapidez de la luz es independiente de la frecuencia? Explica por qué.
+
+19. ¿Qué es igual acerca de las ondas de radio y de luz visible? ¿Qué es diferente acerca de ellas?
+
+20. Un láser de helio-neón emite luz de 633 nanómetros (nm) de longitud de onda. La longitud de onda de un láser de argón es de 515 nm. ¿Cuál láser emite la luz de mayor frecuencia?
+
+21. ¿Por qué esperas que la rapidez de la luz sea un poco menor en la atmósfera que en el vacío?
+
+22. Si disparas una bala que atraviese un árbol, se desacelerará dentro del tronco y saldrá a una rapidez menor que la rapidez con la que entró. Entonces, ¿la luz también desacelera al pasar por el vidrio y sale con menor rapidez? Defiende tu respuesta.
+
+23. ¿El vidrio es transparente a luz de frecuencias que coinciden con sus propias frecuencias naturales? Explica por qué.
+
+24. Las longitudes de onda cortas de la luz visible interactúan con más frecuencia con los átomos en el vidrio que las de mayor longitud de onda. ¿Ese tiempo de interacción tiende a aumentar o a disminuir la rapidez promedio de la luz en el vidrio?
+
+25. ¿Qué determina si un material es transparente u opaco?
+
+26. Puedes resultar con quemaduras de Sol en un día nublado, pero no te quemarás a través de un vidrio, aunque el día esté muy soleado. ¿Por qué?
+
+27. Imagina que la luz solar incide en un par de anteojos para leer y un par de anteojos oscuros para el sol. ¿Cuáles anteojos crees que se van a calentar más? Defiende tu respuesta.
+
+28. ¿Por qué un avión que vuela muy alto casi no produce sombra, o no produce sombra en el suelo; mientras que uno que vuele bajo produce una sombra bien definida?
+
+29. Los eclipses lunares siempre son eclipses en luna llena. Esto es, la Luna siempre está llena inmediatamente antes y después de que la sombra de la Tierra pasa sobre ella. ¿Por qué? ¿Por qué nunca veremos un eclipse lunar cuando haya luna creciente, menguante o nueva?
+
+30. ¿Los planetas proyectan sombras? ¿Cómo lo compruebas?
+
+31. ¿Qué evento astronómico verían unos observadores en la Luna en el momento en que en la Tierra se viera un eclipse lunar? ¿Y en el momento en que en la Tierra se viera un eclipse solar?
+
+32. La luz que procede de un lugar donde concentras tu atención llega a la fóvea, que sólo contiene conos. Si deseas observar una fuente luminosa débil, por ejemplo una estrella débil, ¿por qué no debes ver la fuente directamente?
+
+33. ¿Por qué les falta color a los objetos iluminados por la luz de la Luna?
+
+34. ¿Por qué no vemos colores en la periferia de nuestra visión?
+
+35. La intensidad de la luz disminuye de acuerdo con el inverso del cuadrado de la distancia a la fuente. ¿Quiere decir eso que se pierde la energía luminosa? Explica por qué.
+
+36. La luz de una lámpara de destello en fotografía se debilita al aumentar la distancia, siguiendo la ley del inverso del cuadrado. Comenta acerca de un pasajero que toma una foto panorámica desde un avión que vuela muy alto sobre una ciudad, usando su flash.
+
+37. En los barcos la profundidad del mar se determina haciendo rebotar en él ondas de sonar y midiendo el tiempo en el viaje de ida y vuelta. ¿Cómo se hace (en forma parecida) en algunos aviones para determinar su distancia al suelo?
+
+38. El planeta Júpiter está más de cinco veces más alejado del Sol que la Tierra. ¿Cómo aparece el brillo del Sol a esta mayor distancia?
+
+39. Cuando ves el cielo nocturno, algunas estrellas brillan más que otras. ¿Puedes decir correctamente que las estrellas más brillantes emiten más luz? Defiende tu respuesta.
+
+## Problemas
+
+1. En 1675 el astrónomo danés Olaus Roemer midió las horas de aparición de una de las lunas de Júpiter, saliendo de detrás del planeta, en sus revoluciones sucesivas en torno a ese planeta, y tomó nota de las demoras en esas apariciones, a medida que la Tierra se alejaba de Júpiter; llegó a la conclusión de que la luz tarda 22 minutos adicionales para recorrer los 300.000.000 de kilómetros del diámetro de la órbita de la Tierra en torno al Sol. ¿Qué valor aproximado de la rapidez de la luz calculó Roemer a partir de esos datos? ¿En cuánto se diferencia del valor moderno? (La medición de Roemer, aunque no era exacta según los estándares actuales, fue la primera demostración de que la luz viaja a una rapidez finita, no infinita.)
+
+2. En uno de los experimentos de Michelson, un haz procedente de un espejo giratorio recorrió 15 km hasta un espejo estacionario. ¿Cuánto tiempo pasó para que regresara al espejo giratorio?
+
+3. El Sol está a 1,50 × 10 11 (1,50 por 10 a la 11) metros de la Tierra. ¿Cuánto tarda la luz del Sol en llegar a la Tierra? ¿Cuánto tarda en cruzar el diámetro de la órbita de la Tierra? Compara tu resultado con el tiempo que midió Roemer en el siglo XVII (problema 1).
+
+4. ¿Cuánto tarda un impulso de luz de láser en llegar a la Luna, reflejarse y llegar a la Tierra?
+
+5. La estrella más cercana, aparte de nuestro Sol, es Alpha Centauri, que está a 4,2 × 10 16 (4,2 por 10 a la 16) metros de distancia. Si hoy recibiéramos un mensaje de radio emitido desde esa estrella, ¿hace cuánto se hubiera enviado?
+
+6. La longitud de onda de la luz de sodio amarilla, en el aire, es 589 nm. ¿Cuál es su frecuencia?
+
+7. La longitud de onda de la luz cambia al pasar de un medio a otro, mientras que la frecuencia permanece constante. ¿La longitud de onda es mayor o menor en el agua que en el aire? Explícalo en términos de la ecuación: rapidez = frecuencia × longitud de onda. Una luz amarillo-verdosa tiene 600 nm (6 × 10 −7 m) de longitud de onda en el aire. ¿Cuál es su longitud de onda en el agua, donde la luz se propaga al 75% de su rapidez en el aire? ¿Y en plexiglás donde se propaga a 67% de su rapidez en el aire?
+
+8. Determinada instalación de radar se usa para rastrear los aviones y transmite radiación electromagnética de 3 cm de longitud de onda.
+
+a. ¿Cuál es la frecuencia de esta radiación, medida en miles de millones de Hertz (GHz)?
+
+b. ¿Cuál es el tiempo necesario para que un impulso de ondas de radar llegue a un avión que está a 5 km de distancia y regresen?
+
+# Capítulo 4: Reflexión y refracción
+
+La mayoría de los objetos que vemos a nuestro alrededor no emiten su propia luz. Son visibles porque reemiten la luz que llega a su superficie desde una fuente primaria, como el Sol o una lámpara, o desde una fuente secundaria, como el cielo iluminado. Cuando la luz llega a la superficie de un material se remite sin cambiar de frecuencia, o se absorbe en el material y se convierte en calor. Se dice que la luz se refleja cuando regresa al medio de donde vino; es el proceso de reflexión. Cuando la luz pasa de un material transparente a otro, se dice que se refracta; es el proceso es refracción. En general hay cierto grado de reflexión, refracción y absorción cuando la luz interactúa con la materia. En este capítulo no tendremos en cuenta la luz que se absorbe y se convierte en energía térmica, y nos concentraremos en la luz que continúa siendo luz al llegar a una superficie.
+
+## Reflexión
+
+Cuando esta página se ilumina con la luz solar o la luz de una lámpara, los electrones de los átomos en el papel y la tinta vibran con más energía, en respuesta a los campos eléctricos oscilantes de la luz que ilumina. Los electrones energizados reemiten la luz que te permite ver la página. Cuando la página es iluminada con luz blanca, el papel parece blanco, lo cual indica que los electrones reemiten todas las frecuencias visibles. Hay muy poca absorción. Con la tinta la historia es diferente. Excepto por un poco de reflexión, absorbe todas las frecuencias visibles y, en consecuencia, aparece negra.
+
+## Principio del tiempo mínimo
+
+Sabemos que por lo general la luz se propaga en línea recta. Al ir de un lugar a otro, la luz toma el camino más eficiente, y se propaga en línea recta. Eso es cierto cuando no hay nada que obstruya el paso de la luz entre los puntos que se consideran. Si la luz se refleja en un espejo, el cambio de trayectoria, que de otra manera sería recta, se describe con una fórmula sencilla. Si la luz se refracta, como cuando pasa del aire al agua, otra fórmula describe la desviación de la luz respecto a la trayectoria rectilínea. Antes de estudiar la luz con esas fórmulas, examinaremos primero una idea básica de todas las fórmulas que describen las trayectorias de la luz. Esa idea fue formulada por el físico francés Pierre Fermat, más o menos en 1650, y se llama principio de Fermat del tiempo mínimo. Su idea es la siguiente: entre todas las trayectorias posibles que podría seguir la luz para ir de un punto a otro, toma la que requiere el tiempo más corto.
+
+## Ley de la reflexión
+
+El principio del tiempo mínimo nos permite entender la reflexión. Imagina la siguiente situación. En la Imagen 27 vemos dos puntos, A y B, y un espejo plano ordinario abajo. ¿Cómo ir de A hasta B en el tiempo mínimo? La respuesta es bastante sencilla: ¡ir de A hasta B en línea recta! Pero si agregamos la condición de que la luz debe llegar al espejo en el camino de A hasta B, en el tiempo mínimo, la respuesta no sería tan fácil. Una forma sería ir tan rápido como sea posible de A al espejo y después a B, como se muestra en las líneas continuas de la Imagen 27. Esto forma una trayectoria corta al espejo, pero una muy larga del espejo hasta B. Si en lugar de ello examinamos un punto en el espejo un poco más hacia la derecha, aumentaremos un poco la primera distancia; pero disminuirá mucho la segunda distancia, por lo que la longitud total de la trayectoria indicada por las líneas punteadas y, en consecuencia, el tiempo de recorrido, es menor. ¿Cómo se puede determinar el punto exacto en el espejo con el cual el tiempo es mínimo? Con un truco geométrico se puede determinar muy bien.
+
+*Imagen 27. Reflexión en espejo*
+
+Descripción de la Imagen 27. Reflexión en espejo. Se muestran dos puntos A y B sobre un espejo plano. Una línea continua se dirige desde el punto A hacia el espejo perpendicularmente y luego hasta B. una línea punteada desde el punto A incide con una inclinación al espejo y luego hasta el punto B.
+
+*Imagen 28. Demostración de la Reflexión*
+
+Descripción de la Imagen 28. Demostración de la Reflexión. Se muestran dos puntos A y B sobre un espejo plano. Perpendicular al espejo se muestra una línea punteada que se dirige a B encima del espejo, y por debajo del espejo (parte no reflectora) hasta B’. Una línea continua desde ha apunta hacia el espejo, y continua su dirección hasta B’, y desde el espejo hasta B.
+
+En el lado opuesto del espejo determinamos un punto artificial, B’, a la misma distancia “atrás” y abajo del espejo que el punto B está arriba del mismo (Imagen 28). Es bastante sencillo determinar la distancia mínima entre A y este punto artificial B’: es una línea recta. Entonces, esta línea recta llega al espejo en el punto C, y es el punto preciso de reflexión para la distancia mínima y, en consecuencia, la trayectoria de tiempo mínimo para que la luz vaya de A hasta B. Al examinar la figura se observa que la distancia de C a B es igual a la distancia de C a B’. Vemos que la longitud de la trayectoria de A hasta B’ pasando por C es igual a la longitud de la trayectoria de A hasta B que se refleja en el punto C.
+
+Con un examen más detenido, y algo de deducciones geométricas, se demostrará que el ángulo de la luz incidente de A hasta C es igual al ángulo de reflexión de C a B. Es la ley de la reflexión y es válida para todos los ángulos:
+
+El ángulo de incidencia es igual al ángulo de reflexión.
+
+*Imagen 29. Ley de la reflexión*
+
+Descripción de la Imagen 29. Ley de la reflexión. Un rayo incidente forma un ángulo con la normal de un espejo. Apenas el rayo incidente toca el espejo, aparece un rayo reflejado formando un ángulo con la normal.
+
+La ley de reflexión se ilustra con flechas que representan rayos de luz en la Imagen 29. En vez de medir los ángulos de los rayos incidente y reflejado respecto a la superficie reflectora, se acostumbra medirlos respecto a una línea perpendicular al plano de la superficie reflectora. A esta línea imaginaria se le llama la normal. El rayo incidente, la normal y el rayo reflejado están en un mismo plano.
+
+### Espejos planos
+
+Imagina que una vela se coloca frente a un espejo plano. Los rayos de luz parten de la llama en todas direcciones. La Imagen 30 sólo muestra cuatro de un número infinito de rayos que salen de uno del número infinito de puntos de la llama. Cuando esos rayos llegan al espejo, se reflejan en ángulos iguales a sus ángulos de incidencia. Los rayos divergen de la llama y al reflejarse divergen del espejo. Esos rayos divergentes parecen emanar de determinado punto detrás del espejo (donde las líneas punteadas se intersecan). Un observador ve una imagen de la llama en ese punto. En realidad, los rayos de luz no vienen de ese punto, por lo que se dice que se trata de una imagen virtual. Está tan atrás del espejo como el objeto está frente a él, y la imagen y el objeto tienen el mismo tamaño. Cuando te ves al espejo, por ejemplo, el tamaño de tu imagen es el mismo que el tamaño que tendría tu gemelo si estuviera atrás del espejo la misma distancia que estás tú frente al espejo, siempre que el espejo sea plano (esos espejos se llaman espejos planos).
+
+*Imagen 30. Imagen en espejo*
+
+Descripción de la Imagen 30. Imagen en espejo. Un objeto se coloca al frente de un espejo. Una imagen virtual se forma detrás del espejo y está en la posición donde convergen los rayos reflejados (líneas puteadas).
+
+Cuando el espejo es curvo, los tamaños y las distancias de objeto e imagen ya no son iguales. En este libro no describiremos los espejos curvos, excepto para decir que en ellos sigue siendo válida la ley de reflexión. Un espejo curvo se comporta como una sucesión de espejos planos, cada uno con una orientación angular un poco distinta del que está junto a él. En cada punto, el ángulo de incidencia es igual al ángulo de reflexión. Observa que un espejo curvo, a diferencia de un espejo plano, las normales (que se indican con líneas punteadas a la izquierda del espejo) en distintos puntos de la superficie, no son paralelas entre sí.
+
+Ya sea el espejo plano o curvo, el sistema ojo-cerebro no puede, en general, ver la diferencia entre un objeto y su imagen reflejada. Así, la ilusión de que existe un objeto detrás de un espejo (o en algunos casos frente a un espejo cóncavo) sólo se debe a que la luz que procede del objeto entra al ojo exactamente de la misma forma física en que entraría, si el objeto realmente estuviera en el lugar de su imagen.
+
+Sólo parte de la luz que llega a una superficie se refleja. Por ejemplo, en una superficie de vidrio transparente, y para incidencia normal (luz perpendicular a la superficie), sólo se refleja cerca de 4% de la luz en cada superficie; mientras que en una superficie limpia y pulida de aluminio o de plata, se refleja más o menos 90% de la luz incidente.
+
+Dato curioso: tu imagen está tan lejana del espejo como tú lo estás de él. Como si tu gemelo estuviera parado frente a ti a la misma distancia, detrás de un cristal al aro. ¡Eureka!
+
+#### Examínate
+
+1. ¿Qué pruebas tienes para respaldar la afirmación de que la frecuencia de la luz no cambia en una reflexión?
+
+2. Si deseas tomar una foto de tu imagen parándote a 5 m frente a un espejo plano, ¿a qué distancia debes ajustar la cámara para obtener una foto con mejor definición?
+
+#### Comprueba tus respuestas
+
+1. El color de una imagen es idéntico al del objeto que la produce. Mírate en un espejo, y verás que no cambia el color de tus ojos. El hecho de que el color sea igual es prueba de que la frecuencia de la luz no cambia en la reflexión.
+
+2. Ajusta la cámara a 10 m. El caso es el mismo a aquel en que estás a 5 m frente a una ventana abierta y ves a tu gemelo parado a 5 m detrás de la ventana.
+
+Reflexión difusa
+
+Cuando la luz incide en una superficie áspera se refleja en muchas direcciones. A esto se le llama reflexión difusa. Si la superficie es tan lisa que las distancias entre las elevaciones sucesivas de ella son menores que más o menos un octavo de la longitud de onda de la luz, hay muy poca reflexión difusa, y se dice que la superficie está pulida. En consecuencia, una superficie puede estar pulida para radiación de gran longitud de onda, pero no pulida para luz de corta longitud de onda. El “plato” de malla de alambre que se aprecia en las antenas parabólicas es muy áspero para las ondas de luz visible; no se parece a un espejo. Pero para las ondas de radio de gran longitud de onda está “pulida” y, por lo tanto, es un excelente reflector.
+
+La luz que se refleja de esta página es difusa. El papel puede ser liso para una onda de radio, pero para una onda luminosa es áspero. Los rayos de luz que llegan a este papel se encuentran con millones de superficies planas diminutas orientadas en todas direcciones. La luz incidente, en consecuencia, se refleja en todas direcciones. Esta circunstancia es deseable. Nos permiten ver objetos desde cualquier dirección o posición. Por ejemplo, puedes ver la carretera frente a ti por la noche, debido a la reflexión difusa de la superficie del pavimento. Cuando el pavimento está mojado hay menos reflexión difusa y es más difícil de ver. La mayoría de lo que nos rodea lo vemos por su reflexión difusa.
+
+Un caso indeseable en relación con la reflexión difusa es el de la imagen fantasma que se ve en una TV cuando la señal rebota en edificios y otras obstrucciones. Para la recepción de la antena, esta diferencia en longitudes de trayectoria de la señal directa y la señal reflejada produce una pequeña demora. La imagen fantasma suele estar desplazada a la derecha, que es la dirección de barrido del cinescopio de T.V., porque la señal reflejada llega a la antena receptora después que la señal directa. Con varias reflexiones se pueden producir varios fantasmas.
+
+## Refracción
+
+Recuerda que en el capítulo anterior explicamos que el promedio de la rapidez de la luz es menor en el vidrio y en otros materiales, que en el espacio vacío. La luz viaja a distintas rapideces en diferentes materiales. Se propaga a 300.000 kilómetros por segundo en el vacío; a una rapidez un poco menor por el aire, y a unas tres cuartas partes de ese valor en el agua. En un diamante se propaga a más o menos el 40% de su rapidez en el vacío. Como se mencionó al inicio de este capítulo, cuando la luz se desvía oblicuamente al pasar de uno a otro medio, a tal desviación se le llama refracción. Es común observar que un rayo de luz se desvía y alarga su trayectoria cuando llega a un vidrio o al agua, formando un ángulo. Sin embargo, la trayectoria más larga es la que requiere menor tiempo. Una trayectoria recta necesitaría más tiempo. Esto se puede ilustrar con el siguiente caso.
+
+*Imagen 31. Refracción*
+
+Descripción de la Imagen 31. Refracción. Un salvavidas se encuentra en un punto A en la arena. En el agua se encuentra un accidentado en el punto B. Una línea continua une los puntos A y B pasando por la arena y el agua. Una línea punteada se dirige a un punto entre la arena y el agua, y luego hacia el punto B.
+
+Imagina que eres un salvavidas en una playa, y que ves a una persona que tiene dificultades dentro del agua. En la Imagen 31 están las posiciones relativas de ti, de la costa y de la persona con problemas. Estás en el punto A y la persona está en el punto B. Puedes ir más rápido corriendo que nadando. ¿Deberías ir en línea recta hasta la persona? Pensándolo bien verás que no sería lo óptimo ir en línea recta, porque aunque te tardes un poco más corriendo por la playa, ahorrarías bastante tiempo al nadar menor distancia en el agua. La trayectoria de mínimo tiempo se indica con las líneas punteadas, y es claro que no coincide con la trayectoria de la mínima distancia. La cantidad de flexión en la costa depende, naturalmente, de cuánto más rápido puedas correr que nadar. La situación es similar con un rayo de luz que incide en un cuerpo de agua, como se ve en la Imagen 32. El ángulo de incidencia es mayor que el ángulo de refracción, una cantidad que depende de las rapideces relativas de la luz en el aire y en el agua.
+
+*Imagen 32. Ley de la refracción*
+
+Descripción de la Imagen 32. Ley de la refracción. Un rayo incidente desde el aire al agua forma un ángulo con la normal a las superficies. Un ángulo de refracción en el agua medido desde la normal muestra un cambio de dirección que traía.
+
+Veamos lo que pasa en el vidrio grueso de una ventana, como en la Imagen 33. Cuando la luz va el punto A, atraviesa el vidrio y llega al punto B, su trayectoria será una recta. En este caso, la luz llega al vidrio perpendicularmente, y vemos que la distancia mínima tanto a través del aire como del vidrio equivale al tiempo mínimo. Pero, ¿y la luz que va del punto A al punto C? ¿Seguirá la trayectoria rectilínea indicada por la línea punteada? La respuesta es no, porque si lo hiciera tardaría más en el vidrio, donde tiene menos rapidez que en el aire. En cambio, la luz seguirá una trayectoria menos inclinada para atravesar el vidrio. El tiempo ahorrado al tomar la trayectoria más corta por el vidrio compensa el tiempo adicional necesario para recorrer la trayectoria un poco más larga por el aire. La trayectoria total es la que requiere el tiempo mínimo. El resultado es un desplazamiento paralelo del rayo de luz, porque los ángulos de entrada y de salida del vidrio son iguales. Observarás este desplazamiento al ver a través de un vidrio grueso en sentido oblicuo. Cuanto más se aparte tu visual de la perpendicular, el desplazamiento será más pronunciado.
+
+*Imagen 33. Refracción a través del vidrio*
+
+Descripción de la Imagen 33. Refracción a través del vidrio. Se muestran 3 medios: aire, vidrio y aire. En el primer medio, aire, está el punto A que se encuentra perpendicular a la línea que los une con el punto B en el otro medio, aire. El punto C se encuentra en el medio que B mucho más abajo. Aunque la línea punteada A-C es el camino más corto, la luz va por un camino un poco más largo por el aire, desde A hasta a (unión entre el medio aire y vidrio), y luego por un camino más corto que a través del vidrio hasta c (unión entre vidrio y aire), y después llega a C. La luz que sale está desplazada, pero es paralela a la luz incidente.
+
+Otro ejemplo interesante es el prisma, en el que no hay caras paralelas opuestas en el vidrio. La luz que va del punto A al punto B no sigue la trayectoria rectilínea indicada con la línea punteada, porque tardaría demasiado tiempo en el vidrio. En cambio, la luz irá por la trayectoria indicada con la línea continua –una trayectoria que es bastante mayor en el aire–, y pasará por una sección más delgada del vidrio, para llegar hasta el punto B. Con este razonamiento cabría pensar que la luz debería acercarse más al vértice superior del prisma, para buscar el espesor mínimo del vidrio. Pero si lo hiciera, la distancia mayor por el aire daría como resultado un tiempo total mayor de recorrido. La trayectoria que se sigue es la trayectoria del tiempo mínimo.
+
+Es interesante destacar que si a las caras de un prisma se les da la curvatura adecuada, se podrán tener muchas trayectorias de tiempo igual desde un punto A en un lado, hasta un punto B en el lado opuesto. La curva disminuye el espesor del vidrio en forma adecuada para compensar las distancias adicionales que recorre la luz hasta los puntos más cercanos a la cúspide. Para las posiciones adecuadas de A y de B, y con la curvatura correcta en las superficies de este prisma modificado, todas las trayectorias de la luz se recorren exactamente en el mismo tiempo. En este caso, toda la luz de A que llega a la superficie del vidrio se enfocará en el punto B.
+
+Siempre que contemplamos una puesta de Sol, lo vemos varios minutos después de que ha bajado del horizonte. La atmósfera terrestre es delgada arriba y densa abajo. Como la luz viaja con más rapidez en el aire enrarecido que en el aire denso, la luz solar nos puede llegar con más rapidez si, en vez de sólo recorrer una línea recta, evita el aire más denso y toma una trayectoria más alta y más larga para penetrar en la atmósfera con mayor inclinación. Como la densidad de la atmósfera cambia en forma gradual, la trayectoria de la luz se flexiona también en forma gradual, y toma la forma de una curva. Es interesante el hecho de que esta trayectoria de tiempo mínimo permite tener días un poco más largos. Además, cuando el Sol (o la Luna) está cerca del horizonte, los rayos de la orilla inferior se flexionan más que los de la orilla superior, y se produce un acortamiento del diámetro vertical, lo cual hace que el Sol parezca elíptico.
+
+#### Examínate
+
+Imagina que nuestro salvavidas del ejemplo fuera una foca, en vez de un ser humano. ¿Cómo cambiaría su trayectoria de tiempo mínimo de A hasta B?
+
+#### Comprueba tu respuesta
+
+La foca puede nadar más rápido de lo que puede arrastrarse por la arena, y su trayectoria se desviaría; es el mismo caso de cuando la luz sale del fondo de un vaso con agua y entra en el aire.
+
+### Espejismos
+
+Todos hemos visto los espejismos que se producen al conducir un automóvil sobre asfalto caliente. Parece que el cielo se refleja en el agua que hay a lo lejos sobre la carretera; pero al llegar al lugar, vemos que el asfalto está seco. ¿Qué es lo que sucede? El aire está muy caliente muy cerca de la superficie del asfalto, y está más frío arriba. La luz se propaga con más rapidez por el aire caliente, menos denso, que por el aire frío y más denso de arriba. Así, la luz, en vez de llegarnos desde el cielo en línea recta, también tiene trayectorias de tiempo mínimo en las que baja hasta la parte más caliente que está cerca del asfalto, durante cierto tiempo, antes de llegar a nuestros ojos. Un espejismo no es, como mucha gente cree en forma equivocada, un “truco de la mente”. Un espejismo se produce con luz real y se puede fotografiar.
+
+En los ejemplos anteriores, ¿cómo es que la luz “sabe” qué condiciones existen y qué compensaciones se requieren para que la trayectoria sea de tiempo mínimo? Cuando se acerca a una ventana en determinado ángulo, ¿cómo sabe la luz que tiene que viajar un poco más en el aire para ahorrar tiempo al tomar un ángulo menos inclinado y, por lo tanto, una trayectoria más corta a través del vidrio? Cuando se acerca a un prisma o a unos lentes, ¿cómo sabe la luz que debe viajar una mayor distancia en el aire para atravesar la parte más delgada del vidrio? ¿Cómo sabe la luz solar cómo viajar sobre la atmósfera una distancia adicional para tomar un atajo por el aire más denso, y así ahorrar tiempo? ¿Cómo sabe la luz del cielo que puede llegarnos en un tiempo mínimo si se inclina hacia el pavimento caliente, antes de subir hacia nuestros ojos? Parece que el principio del tiempo mínimo no es causal. Es como si la luz tuviera una mente propia, que pueda “sentir” todas las trayectorias posibles, calcular los tiempos en cada una y elegir la que requiere menos tiempo. ¿Es así? Con todo lo intrigante que parezca, hay una explicación más sencilla que no asigna previsión a la luz: que la refracción es una consecuencia de que la luz tiene distinta rapidez promedio en diferentes medios.
+
+Dato curioso: un espejismo. Los aparentes charcos en la carretera no son reflexión del cielo en el agua, sino más bien refracción de la luz procedente del cielo a través del aire más caliente y menos denso cercano a la superficie del pavimento.
+
+#### Examínate
+
+Si la rapidez de la luz fuera igual en el aire a temperaturas y densidades distintas, ¿los días seguirían siendo un poco más largos, cintilarían las estrellas en el cielo, habría espejismos y el Sol se vería un poco aplastado al ocultarse?
+
+#### Comprueba tu respuesta
+
+No.
+
+## Causa de la refracción
+
+La refracción sucede cuando la rapidez promedio de la luz cambia al pasar de un medio transparente a otro. Esto se entenderá mejor si imaginamos la acción de un par de ruedas de un carrito de juguete, montadas en un eje pero no unidas a él, y el carrito rueda suavemente cuesta abajo por un pasillo y después llega al césped. Si las ruedas entran al césped formando un ángulo, serán desviadas de su trayectoria rectilínea. La dirección de las ruedas se indica con la línea punteada. Observa que al llegar al césped, donde las ruedas giran con mayor lentitud por la resistencia del césped, la rueda izquierda se desacelera primero. Eso se debe a que llega al césped mientras que la rueda derecha todavía está sobre el pasillo liso. La rueda derecha, más rápida, tiende a girar en torno a la izquierda, más lenta, porque durante el mismo intervalo de tiempo esa rueda derecha recorre más distancia que la izquierda.
+
+*Imagen 34. Frente de ondas*
+
+Descripción de la Imagen 34. Frente de ondas. Un rayo representado por una flecha continua incide desde el aire hacia el agua. En el aire los frentes de onda son líneas perpendiculares al rayo hasta que cambia de medio. En el agua los frentes de onda son perpendiculares al rayo refractado y más junto que antes. La dirección de las ondas luminosas cambia cuando una parte de cada una va más lenta que la otra parte.
+
+Una onda luminosa se desvía en forma parecida, como se muestra en la Imagen 34. Observa la dirección de la luz, representada por la flecha continua (el rayo de luz) y también nota los frentes de onda en ángulo recto al rayo de luz. (Si la fuente luminosa estuviera cerca, los frentes de onda se verían como segmentos de círculos; pero si suponemos que el lejano Sol es la fuente, los frentes de onda forman prácticamente líneas rectas.) Los frentes de onda son siempre perpendiculares a los rayos de luz. En la figura, la onda llega a la superficie del agua formando un ángulo, por lo que la parte izquierda de la onda va más lenta en el agua; mientras que la parte que todavía está en el aire viaja a la rapidez c. El rayo o haz de luz queda perpendicular al frente de onda y se flexiona en la superficie, de la misma manera que las ruedas cambian de dirección cuando pasan de la acera al césped. En ambos casos, la desviación es una consecuencia de un cambio de rapidez.
+
+*Imagen 35. Espejismo*
+
+Descripción de la Imagen 35. Espejismo. Una explicación ondulatoria de un espejismo. Los frentes de onda de la luz se propagan con más rapidez en el aire caliente cerca del suelo, y se curvan hacia arriba.
+
+La cambiante rapidez de la luz permite tener una explicación ondulatoria de los espejismos. En la Imagen 35 se ven algunos frentes de onda característicos, de un rayo que comienza en la copa de un árbol en un día caluroso. Si las temperaturas del aire fueran iguales, la rapidez promedio de la luz sería igual en todas las partes del aire; la luz que se dirige al suelo llegaría a éste. Pero el aire está más caliente y es menos denso cerca del suelo, y los frentes de onda ganan rapidez al bajar, lo cual los hace desviarse hacia arriba. Así, cuando el observador mira hacia abajo ve la copa del árbol. Esto es un espejismo.
+
+La refracción de la luz es responsable de muchas ilusiones. Una de ellas es el doblez aparente de una vara parcialmente sumergida en agua. La parte sumergida parece más cercana a la superficie de lo que realmente está. Asimismo, cuando observas un pez en el agua, parece que está más cerca de la superficie. Debido a la refracción, los objetos sumergidos parecen estar aumentados. Si vemos directo hacia abajo en el agua, un objeto sumergido a 4 metros parecerá estar sólo a 3 metros de profundidad.
+
+Vemos que la desviación de la luz en la superficie del agua se interpreta en al menos dos formas. Podemos decir que la luz sale del pez y llega al ojo del observador en el tiempo mínimo, tomando una trayectoria más corta al subir hacia la superficie del agua, y una trayectoria más larga en el aire. Según esta apreciación, el tiempo mínimo establece el camino que se sigue. O bien, podemos decir que las ondas de luz se dirigen hacia arriba, formando un ángulo respecto a la superficie del agua, tal que se flexionan ordenadamente al aumentar su rapidez cuando salen al aire, y que esas ondas son las que llegan al ojo del observador. Desde este punto de vista, el cambio de rapidez del agua al aire es el que establece la trayectoria que se sigue, y sucede que esa trayectoria es la del tiempo mínimo. Sea cual fuere el punto de vista que tomemos, los resultados serán iguales.
+
+Dato curioso: Debido a la refracción, un objeto sumergido parece estar más cerca de la superficie de lo que realmente está.
+
+#### Examínate
+
+Si la rapidez de la luz fuera igual en todos los medios, ¿seguiría ocurriendo refracción al pasar la luz de un medio a otro?
+
+#### Comprueba tu respuesta
+
+No.
+
+### Dispersión
+
+Sabemos que la rapidez promedio de la luz es menor que c en un medio transparente; la disminución depende de la naturaleza del medio y de la frecuencia de la luz. La rapidez de la luz en un medio transparente depende de su frecuencia. Recuerda que en el capítulo anterior explicamos que se absorbe la luz, cuya frecuencia coincide con la frecuencia natural o de resonancia de los osciladores electrónicos en los átomos y las moléculas del medio transparente, y que la luz de frecuencia cercana a la de resonancia interacciona más seguido con la secuencia de absorción y reemisión y, por lo tanto, se propaga más despacio. Como la frecuencia natural, o de resonancia, de la mayoría de los materiales transparentes está en la región ultravioleta del espectro, la luz de mayor frecuencia se propaga con más lentitud que la de menor frecuencia. La luz violeta se propaga aproximadamente 1% más lentamente en el vidrio que la luz roja. Las ondas luminosas correspondientes a colores intermedios entre el rojo y el violeta se propagan con sus propias rapideces intermedias.
+
+Como las distintas frecuencias de la luz se propagan a rapideces distintas en materiales transparentes, se refractan de forma distinta. Cuando la luz blanca se refracta dos veces, como en un prisma, se nota bien la separación de los distintos colores que la forman. A esta separación de la luz en colores ordenados por su frecuencia se le llama dispersión. Es lo que permitió a Isaac Newton formar un espectro cuando sostenía un prisma en la luz solar.
+
+### Arcoíris
+
+Un ejemplo muy espectacular de la dispersión son los arcoíris. Para ver un arcoíris, el Sol debe estar iluminando una parte del cielo, y que haya gotas de agua en una nube o que caigan en forma de lluvia, en la parte contraria del cielo. Cuando damos la espalda al Sol, vemos el espectro de colores, que forma un arco. Desde un avión, cerca del medio día, el arco forma un círculo completo. Todos los arcoíris serían totalmente circulares, si no se interpusiera el suelo.
+
+*Imagen 36. Dispersión de una gota*
+
+Descripción de la Imagen 36. Dispersión en una gota. Dispersión de la luz solar por una sola gota de lluvia. La luz solar incide en la gota de agua oblicuamente a la superficie refractándose. Dentro de la gota hay múltiples reflexiones hasta que finalmente se aprecian rayos refractándose a l aire de nuevo como color rojo y otro violeta.
+
+Los bellos colores de los arcoíris se forman por la dispersión de la luz solar en millones de gotitas esféricas de agua, que funcionan como prismas. Lo entenderemos mejor si examinamos una sola gota de lluvia, como se ve en la Imagen 36. Sigue el rayo de luz solar que entra a la gota cerca de la superficie superior. Algo de la luz se refleja allí (no se indica) y el resto penetra al agua donde se refracta. En esta primera refracción, la luz se dispersa y forma un espectro de colores; el violeta se desvía más y el rojo menos. Al llegar al lado contrario de la gota, cada color se refracta en parte y sale al aire (no se indica) y parte se refleja al agua. Al llegar a la superficie inferior de la gota, cada color se refleja de nuevo (no se indica) y se refracta también al aire. Esta segunda refracción se parece a la de un prisma, donde la refracción en la segunda superficie aumenta la dispersión que ya se produjo en la primera superficie.
+
+En realidad se producen dos refracciones y una reflexión cuando el ángulo entre el rayo que llega y el rayo que sale tiene cualquier valor entre 0° y 42° (el de 0° corresponde a una inversión completa, de 180°, de la luz). Sin embargo, la intensidad de la luz se concentra mucho cerca del ángulo máximo de 42°, que es lo que se muestra en la Imagen 42.
+
+Aunque cada gota dispersa todo el espectro de colores, un observador sólo puede ver la luz concentrada de un solo color de cualquier gota. Si la luz violeta de una sola gota llega al ojo de un observador, la luz roja de la misma le llega más bajo, hacia los pies. Para ver la luz roja se deben buscar las gotas más arriba en el cielo. El color rojo se verá cuando el ángulo entre un rayo de luz solar y la luz que regresa de una gota es de 42°. El color violeta se observa cuando el ángulo entre los rayos de luz y la luz que regresa es de 40°.
+
+¿Por qué la luz que dispersan las gotas de lluvia forma un arco? La respuesta implica un poco de razonamiento geométrico. En primer lugar, un arcoíris no es el arco bidimensional y plano que parece. Se ve plano por la misma razón que una explosión de fuegos artificiales en el cielo se ve como un disco: porque no tenemos indicadores de la distancia. El arcoíris que ves en realidad es un cono tridimensional, con la punta (el vértice) en los ojos. Imagina un cono de vidrio, como los conos de papel con los que a veces tomas agua. Si sujetas ese cono con la punta hacia el ojo, ¿qué verías? Podrías ver que el vaso es un círculo.
+
+Es igual con un arcoíris. Todas las gotas que dispersan la luz hacia ti están en una forma: un cono de distintas capas con gotas que dispersan el rojo hacia tu ojo en el lado externo, el naranja debajo del rojo, el amarillo debajo del naranja, y así todos los colores hasta el violeta en la superficie cónica interna. Cuanto más gruesa sea la región de las gotas de agua, la capa cónica a través de la cual ves será más gruesa, y el arcoíris será más luminoso.
+
+*Imagen 37. Escuadra formando 42°*
+
+Descripción de la Imagen 37. Escuadra formando 42°. Una escuadra se coloca contra el suelo y se inclina para formar un semicírculo (línea punteada). Sólo las gotas de agua que están en la línea punteada dispersan la luz roja hacia el observador formando un ángulo de 42°; en consecuencia, la luz forma un arco.
+
+Para verlo con más detalle, sólo examina la desviación de la luz roja. Ves el rojo cuando el ángulo que forman los rayos incidentes de la luz solar y los rayos dispersados forman un ángulo de 42°. Naturalmente, los rayos se dispersan 42° en las gotas que hay en todo el cielo y en todas direcciones: hacia arriba, hacia abajo y hacia los lados. Sin embargo, la única luz roja que tú ves es la de las gotas que están en un cono con un ángulo de 42° entre el eje y el lado. El ojo está en el vértice de ese cono, como se ve en la Imagen 43. Para ver el violeta, diriges tu vista a 40° del eje del cono (de manera que el espesor del cono en el párrafo anterior es variable: muy delgado en la punta y más grueso al aumentar la distancia desde la punta).
+
+Tu cono de visión que interseca la nube de gotas y crea tu arcoíris es distinto del de una persona junto a ti. Así, cuando un amigo dice: “¡Mira qué bello arcoíris!”, puedes contestarle: “Bueno, hazte a un lado para que pueda verlo también.” Cada quien ve su propio y personal arcoíris.
+
+Algo más sobre los arcoíris: un arcoíris te da la cara de una sola vez, por la falta de indicadores de distancia que mencionamos antes. Cuando te mueves, el arcoíris se mueve contigo. De este modo, nunca podrás acercarte al lado de un arcoíris, ni verlo de cerca. No puedes llegar a su extremo. De ahí la expresión “busca la olla de oro en el extremo del arcoíris”, que significa perseguir algo que nunca se podrá alcanzar.
+
+A menudo se observa un arcoíris más grande, secundario, que envuelve al arco primario. No lo describiremos aquí, excepto para indicar que se forma en circunstancias similares, y que es el resultado de doble reflexión dentro de las gotas de lluvia. Por esta reflexión adicional (y la pérdida de refracción adicional), el arco secundario es mucho más tenue, y sus colores están invertidos.
+
+#### Examínate
+
+1. Si apuntas hacia una pared con el brazo extendido de modo que forme un ángulo de 42° respecto al muro, y giras el brazo describiendo un círculo completo y manteniendo el ángulo de 42° respecto al muro, ¿qué forma describe el brazo? Si tuvieras un gis en la mano, ¿qué figura trazarías en la pared?
+
+2. Si la luz viajara a la misma rapidez en las gotas de lluvia que en el aire, ¿tendríamos arcoíris?
+
+#### Comprueba tus respuestas
+
+1. Tu brazo describe un cono y el gis traza un círculo. Es igual con los arcoíris.
+
+2. No.
+
+## Resumen de términos
+
+Aberración. Distorsión de una imagen producida por una lente, la cual está presente hasta cierto grado en todos los sistemas ópticos.
+
+Ángulo crítico. Ángulo de incidencia mínimo dentro de un medio donde un rayo de luz se refleja totalmente.
+
+Imagen real. Imagen formada por los rayos de luz que convergen en el lugar de la imagen. Una imagen real, a diferencia de una imagen virtual, se puede mostrar en una pantalla.
+
+Imagen virtual. Imagen formada por los rayos de luz que no convergen en el lugar de la imagen.
+
+Lente convergente. Lente que es más gruesa en la parte central que en los bordes, haciendo que los rayos paralelos se unan o se enfoquen.
+
+Lente divergente. Lente que es más delgada en la parte central que en los bordes, haciendo que los rayos paralelos diverjan desde un punto.
+
+Ley de la reflexión. El ángulo de reflexión es igual al ángulo de incidencia.
+
+Principio de Fermat del tiempo mínimo. La luz toma la trayectoria que requiere el tiempo mínimo, para ir de un lugar a otro.
+
+Reflexión. El regreso de los rayos de luz en una superficie.
+
+Reflexión difusa. Reflexión en direcciones irregulares desde una superficie irregular.
+
+Reflexión interna total. Reflexión total de la luz que viaja por un medio más denso y llega a la frontera con un medio menos denso, formando un ángulo mayor que el ángulo crítico.
+
+Refracción. Desviación oblicua de un rayo de luz al pasar de un medio transparente a otro.
+
+## Preguntas de repaso
+
+1. Explica la diferencia entre reflexión y refracción.
+
+#### Reflexión
+
+2. ¿La luz incidente que llega a un objeto cómo afecta el movimiento de los electrones en los átomos del objeto?
+
+3. ¿Qué hacen los electrones en un objeto iluminado cuando son forzados a vibrar con mayor energía?
+
+#### Principio del tiempo mínimo
+
+4. ¿Cuál es el principio de Fermat del tiempo mínimo?
+
+#### Ley de la reflexión
+
+5. Explica la ley de la reflexión.
+
+#### Espejos planos
+
+6. En relación con la distancia de un objeto frente a un espejo plano, ¿a qué distancia se encuentra la imagen detrás del espejo?
+
+7. ¿Qué fracción de la luz que llega directa a una lámina de vidrio se refleja en la primera superficie?
+
+#### Reflexión difusa
+
+8. ¿Puede pulirse una superficie para reflejar unas ondas pero otras no?
+
+#### Refracción
+
+9. La luz se desvía al pasar de un medio a otro en dirección oblicua a la superficie que los separa, y toma un camino un poco más largo para ir de un punto a otro punto. ¿Qué tiene que ver ese camino más largo con el tiempo de recorrido de la luz?
+
+10. ¿Cómo se compara el ángulo con el que llega la luz al vidrio de una ventana con el ángulo con el que sale por el otro lado?
+
+11. ¿Cómo se compara el ángulo con el que llega un rayo de luz a un prisma con el ángulo que forma al salir por la otra cara?
+
+12. ¿La luz viaja más rápido por aire ligero o por aire denso? ¿Qué tiene que ver esa diferencia de rapideces con la duración de un día?
+
+#### Espejismos
+
+13. ¿Un espejismo es producido por la reflexión o por la refracción?
+
+#### Causa de la refracción
+
+14. Cuando un carrito rueda por una acera lisa y pasa a un césped, la interacción de la rueda con las hojas del pasto desacelera aquélla. ¿Qué desacelera a la luz cuando pasa del aire al vidrio o al agua?
+
+15. ¿Cuál es la relación entre la refracción y los cambios de la rapidez de la luz en un material?
+
+16. ¿La refracción de la luz hace que una alberca parezca más o menos profunda?
+
+#### Dispersión
+
+17. ¿Qué sucede con la luz de determinada frecuencia cuando llega a un material cuya frecuencia natural es igual a la frecuencia de la luz?
+
+18. ¿Qué se propaga con menos rapidez en el vidrio, la luz roja o la luz violeta?
+
+#### Arcoíris
+
+19. ¿Una sola gota de lluvia iluminada por la luz del Sol desvía la luz de un solo color, o dispersa un espectro de colores?
+
+20. ¿El espectador observa un solo color o un espectro de colores que provienen de una sola gota lejana?
+
+21. ¿Por qué un arcoíris secundario es más tenue que un arcoíris primario?
+
+## Proyecto
+
+1. Escribe una carta a tu abuelita donde la convenzas de que para que vea su imagen de cuerpo completo en un espejo, éste sólo debe tener la mitad de la altura de ella. Explícale también el intrigante papel de la distancia en un espejo de la mitad de su tamaño. Quizá si le envías algunos esquemas sencillos te ayude a lograr tu cometido.
+
+## Ejercicios
+
+1. El principio de Fermat es de tiempo mínimo, y no de distancia mínima. ¿Se aplicaría la distancia mínima también en la reflexión? ¿Y en la refracción? ¿Por qué tus respuestas son distintas?
+
+2. El vaquero Joe quiere disparar a un asaltante haciendo rebotar una bala en una placa metálica pulida como espejo. Para hacerlo, ¿simplemente debería apuntar a la imagen reflejada del asaltante? Explica por qué.
+
+3. Con frecuencia, los camiones tienen letreros atrás que dicen “si no puedes ver mis espejos, yo no te puedo ver”. Explica los procesos físicos que intervienen aquí.
+
+4. Los espejos retrovisores de los automóviles no están recubiertos en la primera superficie, y están plateados en la superficie trasera. Cuando el espejo se ajusta en forma correcta, la luz que llega de atrás se refleja en la superficie plateada y va hacia los ojos del conductor. Está bien. Pero no está tan bien durante la noche, con la luz deslumbrante de los autos que vienen atrás. Este problema se resuelve porque el vidrio del espejo tiene forma de cuña. Cuando el espejo se inclina un poco hacia arriba, a su posición “nocturna”, la luz deslumbrante se dirige hacia el toldo del automóvil y se aleja de los ojos del conductor. Sin embargo, el conductor puede seguir viendo en el espejo los vehículos que vienen atrás. Explica por qué.
+
+5. Para reducir el resplandor de los alrededores, las ventanas de algunas tiendas por departamentos están inclinadas con el lado inferior hacia adentro, en vez de ser verticales. ¿Cómo se reduce así el resplandor?
+
+6. Una persona en un cuarto oscuro que ve por una ventana puede mirar con claridad a una persona que esté afuera a la luz del día; mientras que la persona en el exterior no puede ver a la persona dentro del cuarto oscuro. Explica por qué.
+
+7. ¿Cuál debe ser la altura mínima de un espejo plano para que te veas de cuerpo completo en él?
+
+8. ¿Puedes decir si una persona tiene miopía o hipermetropía al ver cómo su cara aparece en sus anteojos? Cuando los ojos de una persona se ven aumentados, ¿la persona tiene miopía o hipermetropía?
+
+9. Un pulso de luz roja y uno de luz azul entran a un bloque de vidrio, normal a su superficie y al mismo tiempo. Estrictamente hablando, después de atravesar el bloque ¿cuál pulso sale primero?
+
+10. Durante un eclipse lunar, la Luna no está totalmente negra, sino con frecuencia tiene un color rojo intenso. Explica lo que sucede en términos de la refracción en los ocasos y las auroras en todo el mundo.
+
+11. Si al estar parado a la orilla de un río quieres pescar con arpón a un pez que está frente a ti, ¿deberías apuntar hacia arriba o hacia abajo del pez, o directamente hacia él? Si en lugar de ello pudieras atrapar al pez con un rayo láser, ¿deberías apuntar hacia arriba o hacia abajo del pez, o directamente hacia él? Defiende tus respuestas.
+
+12. Cuando un pez mira hacia arriba en un ángulo de 45°, ¿ve el cielo o sólo la reflexión del fondo? Defiende tu respuesta.
+
+13. Si fueras a mandar un rayo láser a una estación espacial sobre la atmósfera y justo encima del horizonte, ¿apuntarías el rayo láser arriba, abajo o hacia la estación espacial visible? Defiende tu respuesta.
+
+14. Dos observadores separados entre sí no ven el “mismo” arcoíris. Explica por qué.
+
+15. Un arcoíris visto desde un avión puede formar un círculo completo. ¿Dónde aparecerá la sombra del avión? Explica por qué.
+
+16. Cuando los ojos se sumergen en agua, ¿la desviación de los rayos de luz del agua a los ojos es mayor, menor o igual que en el aire?
+
+17. ¿Por qué los goggles permiten que un nadador bajo el agua enfoque con más claridad lo que está mirando?
+
+18. Si un pez usara goggles sobre la superficie del agua, ¿por qué su visión sería mejor si estuvieran llenos de agua?
+
+19. ¿Un diamante bajo el agua destella más o menos que en el aire? Defiende tu respuesta.
+
+## Problemas
+
+1. Demuestra, con un diagrama sencillo, que cuando un espejo con un rayo fijo que incide en él gira determinado ángulo, el rayo reflejado gira un ángulo dos veces mayor. (Este aumento del desplazamiento al doble hace que sean más evidentes las irregularidades en los vidrios ordinarios de ventana.)
+
+2. Una mariposa, al nivel de los ojos, está a 20 cm frente a un espejo plano. Estás detrás de la mariposa, a 50 cm del espejo. ¿Cuál es la distancia entre el ojo y la imagen de la mariposa en el espejo?
+
+3. Si tomas una fotografía de tu imagen en un espejo plano, ¿a cuántos metros debes enfocar si estás a 2 metros frente al espejo?
+
+4. Imagina que caminas hacia un espejo a 2 m/s. ¿Con qué rapidez se acercan tú y la imagen entre sí? (La respuesta no es a 2 m/s.)
+
+5. Cuando la luz llega perpendicularmente al vidrio, se refleja en cada superficie más o menos el 4%. ¿Cuánta luz se transmite a través de una lámina de vidrio?
+
+6. Ningún vidrio es perfectamente transparente. Principalmente debido a las reflexiones, un 92% de la luz atraviesa una lámina promedio de vidrio transparente de ventana. La pérdida de 8% no se nota cuando sólo es una lámina, pero sí se nota a través de varias láminas. ¿Cuánta luz transmite una ventana “con vidrio doble” (una que tiene dos hojas de vidrio)?
+
+7. El diámetro del Sol forma un ángulo de 0.53° con respecto a la Tierra. ¿Cuántos minutos tarda el Sol en recorrer un diámetro solar en el cenit (el Sol directamente arriba de nosotros)? Recuerda que tarda 24 horas, o 1440 minutos, en recorrer 360°. ¿Cómo se compara tu respuesta con el tiempo que tarda el Sol en desaparecer desde que la orilla inferior toca el horizonte en el crepúsculo? (¿La refracción influyó sobre tu respuesta?)
+
+# Capítulo 5: ondas luminosas
+
+Lanza una piedra a un estanque tranquilo y en la superficie del agua se forma ondas. Golpea un diapasón y las ondas sonoras se propagan por todas direcciones. Enciende un fósforo y las ondas luminosas se expanden, en forma parecida, por todas direcciones (a la enorme rapidez de la luz, de 300.000 kilómetros por segundo). En este capítulo estudiaremos la naturaleza ondulatoria de la luz. En el siguiente, veremos que también la luz tiene una naturaleza de partículas. Aquí investigaremos algunas de las propiedades ondulatorias de la luz: difracción, interferencia y polarización.
+
+## Principio de Huygens
+
+Aunque se considera que Galileo fue quien primero diseñó un péndulo para hacer funcionar engranes, fue el holandés Christian Huygens quien construyó el primer reloj de péndulo. Sin embargo, se recuerda más a Huygens por sus ideas acerca de las ondas. Las crestas de las ondas forman círculos concéntricos, llamados frentes de onda. Huygens propuso que los frentes de las ondas luminosas que se propagan desde una fuente puntual se pueden considerar como crestas encimadas de ondas secundarias diminutas, es decir, los frentes de onda están formados por frentes de onda más pequeños. A esta idea se le llama principio de Huygens.
+
+*Imagen 38. Principio de Huygens*
+
+Descripción de la Imagen 38. Principio de Huygens. El principio de Huygens aplicado a un frente de onda esférico. Una fuente produce frentes de ondas esféricos, y sobre la superficie se hay puntos que emiten nuevos frentes de onda esféricos en dirección radial.
+
+Examina el frente de onda esférica de la Imagen 38. Se puede ver que si todos los puntos a lo largo del frente de onda A A’ son fuentes de nuevas ondas, unos momentos después las nuevas ondas encimadas formarán una nueva superficie, B B’, la cual se considera la envolvente de todas las ondas pequeñas. En la figura sólo se indican unas cuantas de la cantidad infinita de ondas pequeñas que se originan en fuentes puntuales secundarias a lo largo de A A’, que se combinan y producen la envolvente continua B B’. A medida de que se extiende la onda, sus segmentos parecen menos curvos. A mucha distancia de la fuente original, las ondas casi forman un plano, como lo hacen, por ejemplo, las ondas que proceden del Sol.
+
+Se pueden generar ondas planas en el agua sumergiendo y sacando una regla horizontal, por ejemplo, una regla de un metro. Las imágenes de con son vistas superiores de un tanque de ondas donde las ondas planas inciden sobre aberturas de diversos tamaños. Cuando la onda pasa por el obstáculo, donde la abertura es ancha, se ve que las ondas planas continúan a través de la abertura sin cambiar, excepto en los extremos, donde se desvían hacia la región sombreada, como indica el principio de Huygens. A medida que se hace más angosto el ancho de la abertura, se transmite cada vez menos la onda incidente, y se hace más pronunciada la propagación de las ondas hacia la región sombreada. Cuando la abertura es pequeña en comparación con la longitud de la onda incidente, se vuelve muy notoria la validez de la idea de Huygens, de que cada parte de un frente de onda se puede considerar como una fuente de nuevas ondas pequeñas. Cuando las ondas inciden en la abertura angosta, se ve con facilidad que el agua que sube y baja en la abertura funciona como una fuente “puntual” de nuevas ondas que se dispersan en el otro lado de la barrera. Se dice que las ondas se difractan cuando se propagan en la región de la sombra.
+
+## Difracción
+
+En el capítulo anterior vimos que la luz se puede desviar de su trayectoria rectilínea normal, tanto por reflexión como por refracción. Ahora veremos otra forma en que se desvía. A toda desviación de la luz por otro mecanismo que no sea reflexión y refracción se le llama difracción. La difracción de las ondas planas sucede en todas las clases de ondas, incluyendo las ondas luminosas.
+
+*Imagen 39. Fuente a través de rendija*
+
+Descripción de la Imagen 39. Fuente a través de rendija. Se muestran dos maneras de atravesar la luz por obstáculos a una pantalla. Parte a, una fuente de luz es dirigida a una ventana ancha para que se proyecte a la pantalla, la luz produce una sombra nítida con algo de confusión en los bordes, cuando la abertura es grande en comparación con la longitud de onda de la luz. Parte b, cuando la abertura es muy angosta, se nota más la difracción, y la sombra se hace más difusa.
+
+Cuando la luz pasa por una abertura grande en comparación con la longitud de onda de la luz, forma una sombra como la que se ve en la Imagen 39 a. Se ve una frontera bastante nítida entre las zonas de luz y la sombra. Pero si se hace pasar luz a través de una rendija delgada, hecha con una navaja de rasurar en una pieza de cartón opaco, se ve que la luz se difracta (Imagen 39 b). Desaparece entonces la frontera nítida entre las áreas iluminadas y la sombra, y la luz se propaga como en abanico, produciendo un área iluminada que se debilita hasta llegar a la oscuridad, sin bordes bien definidos. La luz se difractó.
+
+*Imagen 40. Gráfica de luz por rendija*
+
+Descripción de la Imagen 40. Gráfica de luz por rendija. Interpretación gráfica de la luz difractada por una sola rendija angosta. Una gráfica de Intensidad contra ancho de pantalla muestra una elevación máxima en el ancho de la rendija y tendiendo a cero en sus lados.
+
+En la Imagen 40 se muestra una gráfica de la distribución de la intensidad de la luz difractada por una sola rendija delgada. Debido a la difracción, hay un aumento gradual de intensidad luminosa, en vez de un cambio abrupto de sombra a luz. Una fotocelda que recorriera la pantalla sentiría un cambio gradual desde falta de luz hasta luz máxima. En realidad, hay unas franjas débiles de intensidad a ambos lados de la figura principal; en breve veremos que son una prueba de que la interferencia, que es más pronunciada con doble rendija o con varias rendijas.
+
+La difracción no se limita a rendijas ni aberturas pequeñas en general, sino se puede ver en todas las sombras. Al fijarse bien, aun la sombra más nítida es un tanto difusa en su borde. Cuando la luz es de un solo color (monocromática), la difracción puede producir franjas o bandas de difracción en la orilla de la sombra. Con la luz blanca, las bandas se mezclan entre sí y forman una zona difusa en el borde de la sombra.
+
+La cantidad de difracción depende de la longitud de la onda, en comparación con el tamaño de la obstrucción que causa la sombra. Las ondas más largas se difractan más. Son mejores para llenar las sombras, y es la causa de que los sonidos de las sirenas de niebla sean de ondas largas y de baja frecuencia, para que lleguen a todos los “puntos ciegos”. Sucede igual con las ondas de radio de la banda normal de A.M. que son muy largas, en comparación con el tamaño de la mayoría de los objetos en sus trayectorias. En esta banda, la longitud de onda de las ondas va desde 180 hasta 550 metros, y las ondas se desvían con facilidad rodeando las construcciones y otros objetos que las estorben. Una onda de radio de gran longitud de onda no “ve” una casa relativamente pequeña que esté en su camino; pero una de onda corta sí la ve. Las ondas de radio de la banda de F.M. van de 2,8 a 3,4 metros, y no se desvían bien al rodear los edificios. Ésta es una de las razones por la que la recepción de F.M. suele ser deficiente en lugares donde la A.M. se escucha bien y fuerte. En el caso de la recepción de radio no se desea “ver” objetos en el camino de las ondas, por lo que la difracción ayuda mucho.
+
+La difracción no ayuda tanto para ver objetos muy pequeños con un microscopio. Si el tamaño del objeto es más o menos el mismo de la longitud de onda de la luz, la difracción difumina la imagen. Si el objeto es menor que la longitud de onda de la luz, no se puede ver. Toda la imagen se pierde por difracción. Ningún aumento ni perfección del diseño del microscopio le puede ganar a este límite fundamental de la difracción.
+
+Para reducir al mínimo este problema, los microscopistas iluminan los objetos diminutos con haces de electrones, en vez de hacerlo con luz. En relación con las ondas luminosas, los haces de electrones tienen longitudes de onda extremadamente cortas. En los microscopios electrónicos se aprovecha el hecho de que toda la materia tiene propiedades ondulatorias: un haz de electrones tiene una longitud de onda menor que la de la luz visible. En un microscopio electrónico, se usan campos eléctricos y magnéticos en vez de lentes para enfocar y aumentar las imágenes.
+
+El hecho de que se puedan ver detalles más finos con longitudes de onda menores lo emplea muy bien el delfín, al explorar su ambiente con ultrasonido. Los ecos del sonido de gran longitud de onda le proporcionan una imagen general de los objetos que lo rodean. Para examinar más detalles, el delfín emite sonidos de menor longitud de onda. El delfín siempre ha hecho en forma natural lo que los médicos sólo pudieron hacer hasta fechas recientes con los dispositivos de imágenes ultrasónicas.
+
+#### Examínate
+
+¿Por qué un microscopista usa luz azul y no blanca para iluminar los objetos que está viendo?
+
+#### Comprueba tu respuesta
+
+Hay menos difracción con la luz azul, por lo que el microscopista ve más detalle (así como un delfín investiga el detalle fino en su ambiente con ecos de sonido de longitud de onda ultracorta).
+
+## Interferencia
+
+La interferencia de las ondas en el agua se ve con mucha frecuencia. En algunos lugares, las crestas se enciman con crestas; mientras que en otras, las crestas se enciman con los valles de otras ondas.
+
+En condiciones controladas con más cuidado se producen figuras interesantes cuando dos fuentes ondulatorias se ponen lado a lado. Se dejan caer gotas de agua a una frecuencia controlada en tanques poco profundos llenos de agua (tanques de ondas), y las ondas se fotografían desde arriba. Observa que las zonas de interferencia constructiva y destructiva se extienden hasta los bordes rectos de los tanques de ondas, y la cantidad y el tamaño de esas regiones dependen de la distancia entre las fuentes de las ondas y de la longitud de onda (o frecuencia) de las mismas. La interferencia no se limita a las ondas en el agua, que se ven con facilidad, sino es una propiedad de todas las ondas.
+
+En 1810 el físico y médico inglés Thomas Young demostró en forma muy convincente la naturaleza ondulatoria de la luz, al realizar su ya famoso experimento de interferencia. Encontró que la luz que pasa por dos agujeros próximos hechos con alfiler, se recombina y produce bandas de claridad y oscuridad en una pantalla frente a ellos. Las bandas claras se forman cuando una cresta de la onda luminosa que pasó por un agujero y una cresta de la onda luminosa que pasó por el otro agujero llegan, al mismo tiempo, a la pantalla. Las bandas oscuras se forman cuando una cresta de una onda y un valle de la otra llegan al mismo tiempo. La Imagen 41 muestra el dibujo de Young del patrón de las ondas sobrepuestas procedentes de las dos fuentes. Cuando este experimento se hace con dos rendijas cercanas en lugar de agujeros de alfiler, las imágenes de las bandas son rectas.
+
+*Imagen 41. Interferencia de dos fuentes.*
+
+Descripción de la Imagen 41. Interferencia de dos fuentes. Dibujo original de Thomas Young, de un patrón de interferencia con dos fuentes. Los círculos oscuros representan crestas de onda; en tanto que los espacios en blanco entre las crestas representan los valles. Se produce interferencia constructiva donde las crestas se enciman con las crestas o los valles se enciman con los valles. Las letras C, D, E y F indican regiones de interferencia destructiva en el extremo del dibujo.
+
+Al incidir de una fuente de luz que pase por dos rendijas proyectadas hacia una pantalla, se ve la forma en que se producen bandas claras y oscuras debidas a las distintas longitudes de trayectoria desde las dos rendijas hasta la pantalla. Para la banda central clara, las trayectorias desde las dos rendijas tienen la misma longitud, por lo que las ondas llegan en fase y se refuerzan entre sí. Las bandas oscuras a cada lado de la banda central se deben a que una trayectoria es más larga (o más corta) en media longitud de onda, por lo que las ondas llegan desfasadas por media longitud de onda. Los otros conjuntos de bandas oscuras se presentan donde las trayectorias difieren en múltiplos impares de media longitud de onda: 3/2, 5/2, etcétera.
+
+Supongamos que al realizar este experimento con doble rendija cubrimos una de ellas, de manera que la luz sólo pase por la que está descubierta. Entonces, la luz se dispersará e iluminará la pantalla formando un solo patrón de difracción, como describimos antes. Si cubrimos la otra rendija y dejamos pasar luz sólo por la que acabamos de descubrir, obtendremos la misma iluminación en la pantalla, sólo que un poco desplazada, por la diferencia en el lugar de la rendija. Si no supiéramos más, esperaríamos que con ambas rendijas abiertas, el patrón sólo fuera la suma de los patrones de difracción con una rendija
+
+Los patrones de interferencia no se limitan a una o dos rendijas. Una multitud de rendijas muy cercanas forma una rejilla de difracción. Estas rejillas, como los prismas, dispersan la luz blanca en sus colores. Mientras que un prisma separa los colores de la luz por refracción, una rejilla de difracción los separa por interferencia. Las rejillas se usan en instrumentos llamados espectrómetros y con más frecuencia en objetos como bisutería y en etiquetas adheribles para los parachoques de automóviles. Tales materiales también se guían por surcos pequeños que difractan la luz en un espectro de colores brillante. Estas rejillas también se ven en las plumas de algunas aves que dispersan los colores, y en los bellos colores dispersos por los agujeros microscópicos en la superficie reflectora de un disco compacto.
+
+#### Examínate
+
+1. Si se iluminaran las dos rendijas con luz monocromática (de una sola frecuencia) roja, ¿las franjas estarían a mayores o a menores distancias, que si se iluminaran con luz monocromática azul?
+
+2. ¿Por qué es importante usar luz monocromática?
+
+#### Comprueba tus respuestas
+
+1. A mayor distancia. Se aprecia una trayectoria un poco más larga y, en consecuencia, más desplazada de la rendija de entrada a la pantalla, sería el resultado de que las ondas de luz roja fueran más largas.
+
+2. Si la luz de diversas longitudes de onda se difractara en las rendijas, las franjas oscuras de una longitud de onda se llenarían con las franjas claras de otra, y no se obtendría un patrón definido de bandas. Si no lo has comprendido, pide a tu profesor que lo demuestre.
+
+## Polarización
+
+La interferencia y la difracción son la mejor prueba de que la luz es ondulatoria. Las ondas pueden ser longitudinales o transversales. Las ondas sonoras son longitudinales, lo cual significa que el movimiento de vibración es a lo largo de la dirección de propagación de la onda. Pero cuando movemos una cuerda tensa, como en la Imagen 42, el movimiento vibratorio que se transmite por ella es perpendicular o transversal a la cuerda. Las ondas longitudinales y transversales tienen efectos de interferencia y difracción. Entonces, ¿las ondas luminosas son longitudinales o transversales? La polarización de las ondas luminosas demuestra que son transversales.
+
+*Imagen 42. Onda plano polarizada*
+
+Descripción de la Imagen 42. Onda plano polarizada. Una niña mueve una cuerda de don maneras, de tal forma que consigue una onda plano polarizada vertical y una onda plano polarizada horizontal. Moviendo su mano de arriba abajo (vertical) una onda plano polarizada en dirección vertical procede de una carga vibratoria en sentido vertical. Moviendo su mano de derecha a izquierda (horizontal) una onda plano polarizada en dirección horizontal procede de una carga que vibra horizontalmente.
+
+Si movemos hacia arriba y hacia abajo el extremo de una cuerda tensa, como en la Imagen 42, la onda transversal recorre la cuerda en un plano. Se dice que esa onda es plano polarizada, lo cual quiere decir que las ondas se propagan por las cuerdas confinadas en un solo plano. Si movemos la cuerda hacia arriba y hacia abajo, produciremos una onda plana polarizada verticalmente. Si la movemos hacia los lados, produciremos una onda plana polarizada horizontalmente.
+
+Un solo electrón vibratorio puede emitir una onda electromagnética plana polarizada. El plano de polarización coincidirá con la dirección de vibración del electrón. Entonces, un electrón que acelera en dirección vertical emite luz que está polarizada verticalmente, mientras que uno que acelere horizontalmente emite luz que está polarizada horizontalmente.
+
+*Imagen 43. Representación de ondas plano polarizadas.*
+
+Descripción de la Imagen 43. Representación de ondas plano polarizadas. Los vectores eléctricos, en a y en b, representan la parte eléctrica de la onda electromagnética apuntando radialmente desde una fuente. En c, los vectores se dirigen en el plano horizontal y vertical únicamente.
+
+Una fuente común de luz, como una lámpara incandescente, una fluorescente, la llama de una vela o una luz de arco, emite luz que no está polarizada. Esto se debe a que no hay una dirección preferente de aceleración de los electrones que emiten la luz. Los planos de vibración podrían ser tan numerosos como los electrones que aceleran y los producen. En la Imagen 53 a se representan algunos planos. Se pueden representar todos esos planos mediante líneas radiales (Imagen 53 b) o, en forma más sencilla, con vectores en dos direcciones perpendiculares entre sí (Imagen 53 c), como si hubiéramos descompuesto todos los vectores de la Imagen 53 b en sus componentes horizontales y verticales. Este esquema sencillo representa la luz no polarizada. La luz polarizada se representaría con un solo vector.
+
+Todos los cristales transparentes de forma natural distinta a la cúbica tienen la propiedad de transmitir la luz de un sentido de polarización en forma distinta a la que tiene otra polarización. Ciertos cristales no sólo dividen la luz no polarizada en dos rayos internos, polarizados en ángulos rectos entre sí, sino también absorben fuertemente un haz y transmiten el otro. La turmalina es uno de esos cristales, pero por desgracia la luz transmitida es de color. Sin embargo, la herapatita hace lo mismo sin coloraciones. Los cristales microscópicos de la herapatita se incrustan entre láminas de celulosa, con alineamiento uniforme, y se usan para fabricar los filtros Polaroid. Algunas películas Polaroid están formadas por ciertas moléculas alineadas, en vez de cristales diminutos.
+
+Si ves una luz no polarizada a través de un filtro polarizador podrás, girar el filtro en cualquier dirección y la luz se verá igual. Pero si esa luz está polarizada, entonces, a medida que giras el filtro, bloquearás cada vez más la luz, hasta bloquearla por completo. Un filtro polarizador ideal transmite el 50% de la radiación no polarizada que le llega. Naturalmente, ese 50% que pasa está polarizado. Cuando se disponen dos filtros polarizados, de tal manera que estén alineados sus ejes de polarización, la luz pasará por ambos. Si sus ejes están en ángulo recto entre sí (se dice que así los filtros están cruzados) no pasa luz por el par. (En realidad sí pasa algo de luz de longitudes menores de onda, pero no en forma importante.) Cuando se usan en pares los filtros polarizadores, al primero en el trayecto de la luz se le llama polarizador y al segundo analizador.
+
+Gran parte de la luz reflejada en superficies no metálicas está polarizada. Un buen ejemplo es la que sale de un vaso de vidrio o del agua. Excepto cuando incide perpendicularmente, el rayo reflejado contiene más vibraciones paralelas a la superficie reflectora, mientras que el rayo transmitido contiene más vibraciones en ángulo recto a la superficie reflectora. Sucede lo mismo cuando se lanzan piedras rasantes sobre el agua, que rebotan en ella. Cuando chocan con las caras paralelas a la superficie, se reflejan o rebotan con facilidad; pero si llegan al agua con las caras inclinadas respecto al agua, se “refractan” y penetran al agua.
+
+El resplandor de las superficies reflectoras puede disminuirse mucho usando lentes Polaroid para sol. Los ejes de polarización de los lentes son verticales, porque la mayoría del resplandor se refleja en superficies horizontales. Unos anteojos polarizados bien alineados nos permiten ver en tres dimensiones proyecciones de películas estereoscópicas, o de diapositivas, sobre una pantalla plana.
+
+Dato curioso: la polarización ocurre sólo con las ondas transversales. De hecho, es una forma confiable de saber si una onda es transversal o longitudinal. ¡Eureka!
+
+#### Examínate
+
+¿Cuáles anteojos son los mejores para los conductores de automóvil? (Las líneas indican los ejes de polarización.)
+
+*Imagen 54. Lentes polarizados*
+
+Descripción de la Imagen 54. Lentes polarizados. Se presentan 3 tipos de lentes. El primero tiene las rendijas verticales. El segundo las rendijas son horizontales. El tercer tiene el ojo derecho vertical y el izquierdo horizontal.
+
+#### Comprueba tu respuesta
+
+Los anteojos a son los más adecuados, porque los ejes verticales bloquean la luz polarizada horizontalmente, que forma gran parte del resplandor que despiden las superficies horizontales. Los anteojos c son adecuados para ver películas en tercera dimensión.
+
+### Visión tridimensional
+
+La visión en tres dimensiones depende principalmente del hecho de que los ojos den sus impresiones en forma simultánea (o casi), y cada ojo vea la escena desde un ángulo un poco distinto. Para convencerte de que cada ojo ve una perspectiva distinta, coloca un dedo en forma vertical, con el brazo extendido, y ve cómo parece desplazar su posición de izquierda a derecha, respecto al fondo, cuando cierras cada ojo en forma alterna.
+
+El conocido visor estereoscópico de mano simula el efecto de la profundidad. En él, se colocan dos transparencias fotográficas tomadas desde posiciones un poco distintas. Al verlas al mismo tiempo, el arreglo es tal que el ojo izquierdo ve la escena que se fotografió desde la izquierda, y el ojo derecho la ve fotografiada desde la derecha. El resultado es que los objetos de la escena producen relieve en la perspectiva correcta, dando una profundidad aparente. El dispositivo se fabrica de tal modo que cada ojo vea la parte correcta. No hay posibilidad de que un ojo vea ambas tomas. Si quitas las diapositivas del cartón donde están montadas, y las proyectas usando dos proyectores para que se sobrepongan las dos vistas, se produce una figura borrosa.
+
+*Imagen 55. Filtros polarizadores*
+
+Descripción de la Imagen 55. Filtros polarizadores. Una sesión de transparencias con filtros polarizadores. El ojo izquierdo sólo ve la luz polarizada del proyector de la izquierda, y el ojo derecho sólo ve la luz del proyector de la derecha, y ambas figuras se funden en el cerebro y producen la sensación de profundidad. La pantalla es metálica.
+
+Esto se debe a que cada ojo observa en forma simultánea ambas vistas. Aquí es donde entran los filtros polarizadores. Si los colocas frente a los proyectores de tal modo que uno esté horizontal y el otro vertical, y contemplas la imagen polarizada con anteojos polarizados en las mismas orientaciones, cada ojo captará la vista adecuada, como en el visor estereoscópico. Entonces verás una imagen en tres dimensiones.
+
+Dato curioso: el fondo cósmico de microondas llena todo el espacio y llega a nosotros procedente de todas direcciones. Es un eco del Big Bang que dio origen al Universo hace unos 14.000 millones de años. Hallazgos recientes indican que esta radiación está polarizada. Las observaciones de la polarización no se alteran con la gravedad y permiten dar una mirada clara y detallada a los orígenes del Cosmos.
+
+## Holografía
+
+Quizás el ejemplo más notable de la interferencia sea el holograma, que es una placa fotográfica bidimensional iluminada con luz de láser, que te permite ver una representación fiel de una escena en tres dimensiones. Dennis Gabor inventó el holograma en 1947, 10 años antes de inventarse los láseres. Holo quiere decir “todo” en griego, y grama significa “mensaje” o “información”. Un holograma contiene todo el mensaje o toda la figura. Cuando lo ilumina una luz láser, la imagen es tan realista que puedes realmente ver por detrás de las aristas de objetos en la imagen, y ver los lados.
+
+En la fotografía ordinaria se usa una lente para formar la imagen de un objeto en una película fotográfica. La luz reflejada por cada punto del objeto es dirigida por la lente sólo hasta un punto correspondiente en la película. Toda la luz que llega a la película proviene sólo del objeto que se está fotografiando. Sin embargo, en el caso de la holografía, no se utiliza una lente formadora de imagen. En vez de ello, cada punto del objeto que se “fotografía” refleja la luz a toda la placa fotográfica, por lo que toda la placa queda expuesta a la luz que reflejan todas las partes del objeto. Lo más importante es que la luz que se usa para hacer un holograma debe ser de una sola frecuencia, y todas sus partes deben estar exactamente en fase: debe ser luz coherente. Por ejemplo, si se usara luz blanca, las bandas de difracción para una frecuencia se ocultarían con las de otras frecuencias. Sólo un láser puede producir con facilidad esa luz. Los hologramas se hacen con luz de láser.
+
+Una fotografía convencional es una grabación de una imagen; pero un holograma es una grabación del patrón de interferencia que resulta de la combinación de dos conjuntos de frentes de onda. Un conjunto de frentes de onda se forma con la luz reflejada por el objeto, y el otro conjunto es de un haz de referencia que se desvía del haz que ilumina y se manda en forma directa a la placa fotográfica. La fotografía, al revelarla, no tiene imagen que se pueda reconocer. Es simplemente un enredo de líneas onduladas, áreas diminutas con bandas de densidad variable, y oscuras donde los frentes de onda procedentes del objeto y del haz de referencia llegaron en fase, y claras donde llegaron desfasadas. El holograma es un patrón fotográfico de bandas microscópicas de interferencia.
+
+Cuando un holograma se coloca en un haz de luz coherente, las bandas microscópicas difractan la luz y producen frentes de onda, de forma idéntica a las de los frentes de onda originales que reflejó el objeto. Cuando se ven a ojo o con cualquier instrumento óptico, los frentes de onda difractados producen el mismo efecto que los originales. Miras al holograma y ves una imagen completa, realista y tridimensional, como si estuvieras viendo el objeto original por la ventana. La profundidad se hace evidente cuando mueves la cabeza y ves por los lados del objeto, o cuando bajas la cabeza y ves por debajo del objeto. Las fotografías holográficas son extremadamente realistas.
+
+Es interesante el hecho de que si el holograma se toma en película fotográfica, la puedes cortar a la mitad y seguir viendo la imagen completa en cada mitad. Y puedes cortar de nuevo a la mitad, una y otra vez. Esto se debe a que cada parte del holograma ha recibido y registrado la luz de todo el objeto. Asimismo, la luz fuera de una ventana abierta llena toda la ventana, de modo que puedes ver al exterior desde cada parte de la ventana abierta. Como en un área diminuta quedan grabadas grandes cantidades de información, la película que se usa para los hologramas debe tener un grano mucho más fino que la película fotográfica ordinaria de grano fino. El almacenamiento óptico de información a través de hologramas se está aplicando mucho en las computadoras.
+
+Es todavía más interesante el aumento (amplificación) holográfico. Si se ven hologramas hechos con luz de onda corta, con una luz de onda más larga, la imagen que resulta está aumentada en la misma proporción que las longitudes de onda. Los hologramas tomados con rayos X se podrían aumentar miles de veces al verlos con luz visible, con los arreglos geométricos adecuados. Como los hologramas no requieren lentes, son especialmente atractivas las posibilidades de un microscopio de rayos X.
+
+Y en cuanto a la televisión, las pantallas bidimensionales tus hijos quizá las consideren como curiosidades, así como tú consideras los viejos radios de los abuelos.
+
+La luz es fascinante, en especial cuando se difracta en las bandas de interferencia de un holograma.
+
+## Resumen de términos
+
+Difracción. La desviación de la luz que pasa en torno a un obstáculo o a través de una rendija delgada, haciendo que se esparza la luz.
+
+Holograma. Un patrón de interferencia microscópica, bidimensional, que produce imágenes ópticas tridimensionales.
+
+Interferencia. El resultado de la superposición de distintas ondas, por lo general con la misma longitud. Se produce interferencia constructiva cuando hay refuerzo de cresta con cresta; se produce interferencia destructiva cuando hay anulación entre crestas y valles. La interferencia de algunas longitudes de ondas luminosas produce los llamados colores de interferencia.
+
+Polarización. El alineamiento de las vibraciones eléctricas transversales de la radiación electromagnética. Se dice que esas ondas de vibraciones alineadas son o están polarizadas.
+
+Principio de Huygens. Todo punto de un frente de onda se puede considerar como una nueva fuente de ondas pequeñas, que se combinan y producen el siguiente frente de onda, y los puntos de este último son fuentes de las ondas que siguen, y así sucesivamente.
+
+## Preguntas de repaso
+
+#### Principio de Huygens
+
+1. Según Huygens, ¿cómo se comporta cada punto de un frente de onda?
+
+2. ¿Las ondas planas que inciden en una pequeña abertura en una barrera se extenderán o continuarán en forma de ondas planas?
+
+#### Difracción
+
+3. ¿La difracción es más pronunciada a través de una abertura pequeña que a través de una grande?
+
+4. Para una abertura de tamaño determinado, ¿la difracción es más pronunciada para una longitud de onda mayor que para una longitud de onda menor?
+
+5. ¿Qué se difracta con más facilidad en torno a las construcciones, las ondas de radio A.M. o las de F.M.? ¿Por qué?
+
+#### Interferencia
+
+6. ¿Se restringe la interferencia sólo a algunas clases de ondas, o sucede con todo tipo de ellas?
+
+7. ¿Qué demostró exactamente Thomas Young en su famoso experimento con la luz?
+
+#### Polarización
+
+8. ¿Qué fenómeno distingue a las ondas longitudinales de las transversales?
+
+9. ¿La polarización es característica de todas las clases de ondas?
+
+10. ¿Cómo se compara la dirección de polarización de la luz con la dirección de vibración del electrón que la produce?
+
+11. ¿Por qué la luz pasa por un par de filtros polarizadores cuando están alineados los ejes, pero no cuando los ejes están perpendiculares entre sí?
+
+12. ¿Cuánta luz ordinaria transmite un filtro Polaroid?
+
+13. Cuando la luz ordinaria incide formando un ángulo con el agua, ¿qué puedes decir acerca de la luz reflejada?
+
+#### Visión tridimensional
+
+14. ¿Por qué no percibirías la profundidad si examinaras dos copias de diapositivas ordinarias con un visor estereoscópico, y no cuando examinas los pares de transparencias tomadas con una cámara estereoscópica?
+
+15. ¿Qué papel juegan los filtros polarizadores en una proyección de transparencias en 3-D (tercera dimensión)?
+
+#### Holografía
+
+16. ¿En qué difiere un holograma de una fotografía convencional?
+
+17. ¿En qué difiere la luz coherente de la luz ordinaria?
+
+18. ¿Cómo se puede obtener un aumento holográfico?
+
+## Proyecto
+
+1. Haz algunas diapositivas para proyector pegando celofán arrugado a trozos de Polaroid, del tamaño de la diapositiva. (También prueba con bandas de celofán o de envoltura de plástico pegadas a distintos ángulos.) Proyéctalas en una pantalla grande, o en una pared blanca, y haz girar un segundo Polaroid, un poco mayor, frente al lente del proyector, al ritmo de tu música favorita. ¡Tendrás tu propio equipo de luz y sonido!
+
+## Ejercicios
+
+  1. ¿Por qué la luz solar que ilumina la Tierra se puede aproximar con ondas planas, mientras que la de una lámpara cercana no?
+
+  2. En nuestro ambiente cotidiano, la difracción es mucho más evidente en las ondas sonoras que en las ondas luminosas. ¿Por qué?
+
+  3. ¿Por qué las ondas de radio se difractan en torno a los edificios, mientras que las ondas luminosas no?
+
+  4. ¿Puedes imaginar una razón por la que los canales de TV de número bajo pueden dar mejores imágenes en regiones de recepción deficiente de T.V.? (Sugerencia: los canales bajos representan menores frecuencias de portadora.)
+
+  5. Dos altavoces a una distancia aproximada de 1 metro emiten tonos puros de la misma frecuencia y sonoridad. Cuando un escucha pasa frente a ellos, en una trayectoria paralela a la línea que los une, oye que el sonido alterna de fuerte a débil. ¿Qué está sucediendo?
+
+  6. En el ejercicio anterior, sugiere una trayectoria para que el escucha que la siga camine sin oír los sonidos fuertes y débiles alternadamente.
+
+  7. ¿En qué se parecen las bandas de interferencia a la intensidad variable del sonido que percibes al pasar frente a un par de altavoces que emitan el mismo sonido?
+
+  8. ¿En cuánto deberían diferir en longitud un par de rayos de luz de una fuente común, para producir interferencia destructiva?
+
+  9. Una luz ilumina dos rendijas pequeñas y próximas, y produce un patrón de interferencia en una pantalla más adelante. ¿En qué será diferente la distancia entre las bandas producidas por luz roja y por luz azul?
+
+  10. Si la diferencia en la longitud de la trayectoria entre dos haces idénticos y coherentes es de dos longitudes de onda cuando llegan a una pantalla, ¿producirán una mancha clara o una oscura?
+
+  11. ¿Cuál producirá franjas de luz más anchas al pasar a través de una rejilla de difracción, la de un láser de luz verde o la de un láser de luz azul?
+
+  12. Se produce un patrón de bandas cuando pasa luz monocromática por un par de rendijas delgadas. ¿Se produciría ese mismo patrón con tres rendijas delgadas y paralelas? ¿Y con miles de esas rendijas? Menciona un ejemplo que apoye tus respuestas.
+
+  13. Imagina que colocas una rejilla de difracción frente a la lente de una cámara, y que tomas una foto del alumbrado público encendido. ¿Qué crees que verás en la fotografía?
+
+  14. ¿Qué sucede a la distancia entre las franjas de interferencia cuando se aumenta la separación de las dos rendijas?
+
+  15. ¿Por qué el experimento de Young es más efectivo con rendijas que con agujeros de alfiler?
+
+  16. Los colores de los pavos reales y de los colibríes no se deben a pigmentos, sino a elevaciones en las capas superficiales de sus plumas. ¿Mediante qué principio físico tales elevaciones producen colores?
+
+  17. Las alas de colores de muchas mariposas se deben a pigmentaciones; pero en otras como en la mariposa morfo, los colores no se deben a pigmentaciones. Cuando el ala se ve desde distintos ángulos, sus colores cambian. ¿Cómo se producen esos colores?
+
+  18. Cuando los platos no se enjuagan bien después de lavarlos, se reflejan distintos colores en sus superficies. Explica cómo y por qué.
+
+  19. ¿La luz de dos estrellas que estén muy cercanas producirá un patrón de interferencia? Explica por qué.
+
+  20. Para el telescopio espacial Hubble, ¿qué luz (roja, verde, azul o ultravioleta) es mejor para ver los detalles finos de los cuerpos astronómicos lejanos?
+
+  21. La luz polarizada es parte de la naturaleza, pero el sonido polarizado no. ¿Por qué?
+
+  22. Normalmente, las pantallas digitales de los relojes y otros aparatos son polarizadas. ¿Qué problema se presenta al usar también lentes polarizados para sol?
+
+  23. ¿Por qué un filtro polarizador ideal transmite el 50% de la luz incidente no polarizada?
+
+  24. ¿Qué porcentaje de la luz transmiten dos filtros polarizadores, uno tras otro, con sus ejes de polarización alineados? ¿Con sus ejes perpendiculares entre sí?
+
+  25. ¿Cómo puedes determinar el eje de polarización de una sola lámina de filtro Polaroid?
+
+  26. ¿Por qué los anteojos polarizados reducen el resplandor, mientras que los no polarizados sólo bajan la cantidad total de luz que llega a los ojos?
+
+  27. Para eliminar el resplandor de la luz procedente de un piso pulido, el eje de un filtro polarizador, ¿debe estar horizontal o vertical?
+
+  28. La mayoría del resplandor de las superficies no metálicas está polarizado, y el eje de polarización es paralelo a la superficie reflectora. ¿Esperarías que el eje de polarización de los anteojos polarizados fuera vertical u horizontal? ¿Por qué?
+
+  29. La luz no pasa a través de un par de láminas Polaroid con ejes perpendiculares. Pero si entre las dos se intercala una tercera (con su eje a 45° con los de las otras dos), algo de luz logra pasar. ¿Por qué?
+
+  30. ¿Por qué la holografía práctica tuvo que esperar a la llegada del láser?
+
+  31. ¿Cómo se obtienen las ampliaciones con los hologramas?
+
+  32. ¿Cuál de los siguientes fenómenos es más fundamental para la holografía: interferencia, reflexión selectiva, refracción o todos los anteriores?
+
+# Bibliografía
+
+Hewitt, P. (2007). Física Conceptual - Sonido y Luz. En P. Hewitt, & E. Quintanar Duarte (Ed.), Física Conceptual (V. A. Flores Flores, Trad., Décima ed., págs. 362-397, 496-557). México, México: Pearson Educación.
+
+Nacional, M. d. (2004). Estándares básicos de competencias en Ciencias Sociales y Ciencias Naturales. Bogotá: Ministerio de Educación Nacional MEN.
