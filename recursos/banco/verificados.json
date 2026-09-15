@@ -3071,6 +3071,30 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/cocientes-notables-8.py"
  },
+ "cuadrilateros-4-001": {
+  "huella": "e03f22965a2707c5",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/cuadrilateros-4.py"
+ },
+ "cuadrilateros-4-003": {
+  "huella": "954bd417c6230f31",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/cuadrilateros-4.py"
+ },
+ "cuerpos-geometricos-3-001": {
+  "huella": "1baf8c4ad8973a00",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/cuerpos-geometricos-3.py"
+ },
+ "cuerpos-geometricos-3-003": {
+  "huella": "1166fb05b3beab95",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/cuerpos-geometricos-3.py"
+ },
  "desigualdades-001": {
   "huella": "b95c7d78b797d9f4",
   "estado": "verificado",
@@ -7769,6 +7793,18 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/factorizacion-8.py"
  },
+ "figuras-planas-3-003": {
+  "huella": "f1cf0de4df4f0d78",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/figuras-planas-3.py"
+ },
+ "figuras-planas-3-004": {
+  "huella": "ea774faf5cba6dfd",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/figuras-planas-3.py"
+ },
  "fluidos-10-001": {
   "huella": "b49ae7747f57c17f",
   "estado": "manual-pendiente",
@@ -8104,6 +8140,18 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/fisica/fluidos-10.py"
+ },
+ "formas-3-001": {
+  "huella": "24a48f7cf784278d",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/formas-3.py"
+ },
+ "formas-3-003": {
+  "huella": "0ea5a49dddc0923f",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/formas-3.py"
  },
  "fracciones-algebraicas-9-001": {
   "huella": "74c4593519ea9ea1",
@@ -10882,6 +10930,30 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/fisica/leyes-newton-10.py"
+ },
+ "lineas-3-002": {
+  "huella": "1db6f9584aec97c5",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/lineas-3.py"
+ },
+ "lineas-3-004": {
+  "huella": "9216ac0aebc70761",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/lineas-3.py"
+ },
+ "lineas-4-001": {
+  "huella": "d2286ea94076f5d9",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
+ },
+ "lineas-4-003": {
+  "huella": "36dad275421fe790",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
  },
  "logaritmos-8-001": {
   "huella": "cf148282e8945e67",
@@ -18203,6 +18275,18 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
  },
+ "poligonos-4-001": {
+  "huella": "75b0fac2c2518bf4",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/poligonos-4.py"
+ },
+ "poligonos-4-002": {
+  "huella": "bff196c9ae56553f",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/poligonos-4.py"
+ },
  "potenciacion-8-001": {
   "huella": "150b643bd4995514",
   "estado": "verificado",
@@ -22594,6 +22678,18 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/suma-resta-polinomios-8.py"
+ },
+ "tangram-4-001": {
+  "huella": "abc2ee162db0fef5",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/tangram-4.py"
+ },
+ "tangram-4-003": {
+  "huella": "df9f85a86b9d25b9",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/tangram-4.py"
  },
  "termodinamica-10-001": {
   "huella": "92bcae4128b4d958",

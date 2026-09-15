@@ -1,0 +1,81 @@
+% =====================================================================
+% Taller -- Geometría 8° -- Trimestre I -- Semana 04
+% Se hace en clase el mar 22 sep. (sesión 004), unos 20 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Tales de Mileto y la medición de la gran pirámide»
+% Ejercicios: recursos/banco/matematicas/triangulos-geometria-8.py y triangulos-8.py
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-triangulos}
+
+\tipodocumento{Taller}
+\asignatura{Geometría}
+\titulo{Taller: criterios de congruencia}
+\grado{8°}
+\periodo{I}
+
+% DBA: matematicas grado 8 · DBA 6 — Identifica relaciones de congruencia y semejanza
+% entre las formas geométricas que configuran el diseño de un objeto. Evidencias:
+% «Utiliza criterios para argumentar la congruencia de dos triángulos» (preguntas 1–3) y
+% «Compara figuras y argumenta la posibilidad de ser congruente o semejantes entre sí»
+% (pregunta 1d).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase. Necesitas regla y transportador. Puedes consultar la
+\refguia{tema:congruencia}. Justifica cada respuesta con el criterio que la hace válida.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: triangulos-geometria-8-001
+\pregunta[2] En cada caso se sabe lo que se indica sobre los triángulos $ABC$ y $DEF$.
+¿Qué criterio permite asegurar que son congruentes? Si ninguno, dilo.
+\begin{opciones*}(2)
+  \item $AB = DE$, $BC = EF$, $CA = FD$.
+  \item $AB = DE$, $\angle B = \angle E$, $BC = EF$.
+  \item $\angle A = \angle D$, $AB = DE$, $\angle B = \angle E$.
+  \item $\angle A = \angle D$, $\angle B = \angle E$, $\angle C = \angle F$.
+\end{opciones*}
+\begin{solucion}[3.5cm]
+a) LLL. b) LAL (el ángulo $B$ está entre los dos lados). c) ALA (el lado $AB$ está entre
+los dos ángulos). d) Ninguno: con los tres ángulos iguales los triángulos son semejantes,
+pero pueden tener distinto tamaño (por ejemplo, lados $3$, $4$, $5$ y $6$, $8$, $10$).
+\end{solucion}
+
+% Ejercicio: triangulos-geometria-8-002
+\pregunta[1.5] \textbf{El barco de Tales.} Desde dos puntos $A$ y $B$ de la playa,
+separados $100$~m, se ve un barco $C$. El ángulo $\angle CAB$ mide $60^\circ$ y el ángulo
+$\angle CBA$ mide $70^\circ$. Dibuja en el recuadro, a escala $1$~cm $= 10$~m, un
+triángulo con esos datos. ¿Qué criterio asegura que tu dibujo es una copia fiel del
+triángulo real? Mide en el dibujo y estima la distancia de $A$ al barco.
+\begin{solucion}
+ALA: un lado ($AB$) y los dos ángulos de sus extremos determinan el triángulo. En el dibujo
+$AC$ mide unos $12{,}3$~cm, así que el barco está a unos $123$~m de $A$ (se aceptan medidas
+entre $120$ y $126$~m).
+\end{solucion}
+\ifdefined\clave\else
+\par\medskip\noindent\framebox[\linewidth]{\rule{0pt}{6cm}}\par\medskip
+Criterio y distancia estimada: \renglones{2}
+\fi
+
+% Ejercicio: triangulos-8-012
+\pregunta[1.5] Indica si la afirmación es verdadera o falsa y argumenta tu respuesta (las
+figuras están en un plano): «Una perpendicular a la bisectriz de un ángulo forma un
+triángulo isósceles con los lados del ángulo».
+\begin{solucion}[5cm]
+Verdadera: los dos triángulos que la bisectriz forma con esa perpendicular tienen un lado
+común (sobre la bisectriz), un ángulo recto y ángulos iguales en el vértice; son congruentes
+(criterio ángulo–lado–ángulo), así que los dos segmentos sobre los lados del ángulo son
+iguales.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

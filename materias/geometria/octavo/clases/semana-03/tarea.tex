@@ -1,0 +1,96 @@
+% =====================================================================
+% Tarea -- Geometría 8° -- Trimestre I -- Semana 03
+% Se asigna el mar 15 sep. (sesión 003); se revisa el mar 22 sep. (sesión 004)
+% Hilo conductor del trimestre I: «Tales de Mileto y la medición de la gran pirámide»
+% Ejercicios: recursos/banco/matematicas/triangulos-8.py (no repite los de la guía)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-triangulos}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea: los ángulos de un triángulo}
+\grado{8°}
+\periodo{I}
+
+% DBA: PENDIENTE — la fila 003 no tiene DBA. Propuesta, a confirmar por la docente:
+% matematicas grado 8 · DBA 7 — Identifica regularidades y argumenta propiedades de
+% figuras geométricas a partir de teoremas y las aplica en situaciones reales.
+% Evidencia: «Resuelve problemas utilizando teoremas básicos».
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: martes 22 de septiembre. Consulta la \refguia{tema:angulostriangulo}. Escribe
+todos los procedimientos y, cuando se pida argumentar, usa las propiedades vistas en clase
+(no basta con «se ve en el dibujo»).
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: triangulos-8-016
+\pregunta Los ángulos agudos de un triángulo rectángulo son iguales. ¿Cuánto miden los tres
+ángulos internos?
+\begin{solucion}[2cm]
+$45^\circ$, $45^\circ$ y $90^\circ$.
+\end{solucion}
+
+% Ejercicio: triangulos-8-019
+\pregunta ¿En qué clasificaciones cae el triángulo del problema anterior (ángulos de
+$45^\circ$, $45^\circ$ y $90^\circ$)?
+\begin{solucion}[2cm]
+Por sus lados es isósceles (dos ángulos iguales, luego dos lados iguales) y por sus ángulos es
+rectángulo: es un triángulo rectángulo isósceles.
+\end{solucion}
+
+% Ejercicio: triangulos-8-013
+\pregunta Indica si la afirmación es verdadera o falsa y argumenta tu respuesta: «Ningún
+triángulo puede tener más de un ángulo recto».
+\begin{solucion}[2.5cm]
+Verdadera: dos ángulos rectos ya suman $180^\circ$ y el tercer ángulo tendría que medir
+$0^\circ$.
+\end{solucion}
+
+% Ejercicio: triangulos-8-007
+\pregunta Indica si la afirmación es verdadera o falsa y argumenta tu respuesta: «Si la suma
+de dos ángulos internos de un triángulo es igual al tercer ángulo, entonces el triángulo es
+rectángulo».
+\begin{solucion}[2.5cm]
+Verdadera: si $\alpha + \beta = \gamma$, como $\alpha + \beta + \gamma = 180^\circ$, queda
+$2\gamma = 180^\circ$ y $\gamma = 90^\circ$.
+\end{solucion}
+
+% Ejercicio: triangulos-8-020
+\pregunta ¿Qué medida debe tener cada uno de los ángulos adyacentes a la base de un triángulo
+isósceles para que este sea acutángulo?
+\begin{solucion}[3cm]
+Más de $45^\circ$ y menos de $90^\circ$: si cada ángulo de la base mide $x$, el tercero mide
+$180^\circ - 2x$, y $x < 90^\circ$ y $180^\circ - 2x < 90^\circ$ dan $45^\circ < x < 90^\circ$.
+\end{solucion}
+
+% Ejercicio: triangulos-8-022
+\pregunta En el triángulo $ABC$ los ángulos con vértice en $A$ y $B$ miden $50^\circ$ y
+$70^\circ$. Se forma un triángulo con las bisectrices de estos dos ángulos y el lado $AB$.
+¿Cuánto mide cada ángulo de este nuevo triángulo?
+\begin{solucion}[3cm]
+$25^\circ$ en $A$, $35^\circ$ en $B$ y $180^\circ - 25^\circ - 35^\circ = 120^\circ$ en el
+punto donde se cortan las bisectrices.
+\end{solucion}
+
+% Ejercicio: triangulos-8-023
+\pregunta \textbf{Reto.} En el triángulo $ABC$, $\angle CAB = 30^\circ$ y
+$\angle CBA = 50^\circ$. ¿Cuánto mide el ángulo formado por la altura y la bisectriz que
+pasan por $C$? (Haz un dibujo.)
+\begin{solucion}[4cm]
+$C = 100^\circ$. La altura forma con $CA$ un ángulo de $90^\circ - 30^\circ = 60^\circ$ y la
+bisectriz uno de $50^\circ$; el ángulo entre ellas es $60^\circ - 50^\circ = 10^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
