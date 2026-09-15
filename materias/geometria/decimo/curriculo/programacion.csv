@@ -1,13 +1,13 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-07,lunes,13:00,40,I,02,Plano cartesiano,Coordenadas geográficas (video) y su relación con las coordenadas del plano cartesiano: ubicación en el plano,,,,,clases/semana-02
-002,2026-09-14,lunes,13:00,40,I,03,,,,,,,clases/semana-03
-003,2026-09-21,lunes,13:00,40,I,04,,,,,,,clases/semana-04
-004,2026-09-28,lunes,13:00,40,I,05,,,,,,,clases/semana-05
-005,2026-10-05,lunes,13:00,40,I,06,,,,,,,clases/semana-06
-006,2026-10-19,lunes,13:00,40,I,07,,,,,,,clases/semana-07
-007,2026-10-26,lunes,13:00,40,I,08,,,,,,,clases/semana-08
-008,2026-11-09,lunes,13:00,40,I,10,,,,,,,clases/semana-10
-009,2026-11-23,lunes,13:00,40,I,12,,,,,,,clases/semana-12
+002,2026-09-14,lunes,13:00,40,I,03,Plano cartesiano,"Sistema de referencia: ejes, cuadrantes, ubicar puntos y figuras (polígonos) en el plano",5,,,x,clases/semana-03
+003,2026-09-21,lunes,13:00,40,I,04,Distancia entre dos puntos,La fórmula de la distancia a partir del teorema de Pitágoras,5,,,x,clases/semana-04
+004,2026-09-28,lunes,13:00,40,I,05,Distancia entre dos puntos,Punto medio de un segmento; perímetros y clasificación de triángulos en el plano,5,,x,,clases/semana-05
+005,2026-10-05,lunes,13:00,40,I,06,Lugares geométricos,Qué es un lugar geométrico: la mediatriz y la circunferencia como puntos a igual distancia,5,x,,x,clases/semana-06
+006,2026-10-19,lunes,13:00,40,I,07,La recta,"Pendiente de una recta que pasa por dos puntos; rectas crecientes, decrecientes, horizontales y verticales",5,,,x,clases/semana-07
+007,2026-10-26,lunes,13:00,40,I,08,La recta,"Ecuación de la recta: punto-pendiente, pendiente-intercepto y forma general; graficar desde la ecuación",5,,x,,clases/semana-08
+008,2026-11-09,lunes,13:00,40,I,10,La recta,Rectas paralelas y perpendiculares; repaso del trimestre,5,x,,x,clases/semana-10
+009,2026-11-23,lunes,13:00,40,I,12,Evaluación del periodo,Evaluación del periodo I,5,,,,clases/semana-12
 010,2026-12-07,lunes,13:00,40,II,14,,,,,,,clases/semana-14
 011,2026-12-14,lunes,13:00,40,II,15,,,,,,,clases/semana-15
 012,2026-12-21,lunes,13:00,40,II,16,,,,,,,clases/semana-16

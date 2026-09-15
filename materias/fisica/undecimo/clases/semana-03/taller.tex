@@ -1,0 +1,81 @@
+% =====================================================================
+% Taller 3 -- Física 11° -- Trimestre I -- Semana 03 (sesión 004, lun 14 sep.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Taller}
+\asignatura{Física}
+\titulo{Taller 3: la carga eléctrica}
+\grado{11°}
+\periodo{I}
+\tiempo{35 min}
+% DBA: naturales grado 11 · DBA 2 — Comprende que la interacción de las cargas en reposo
+%      genera fuerzas eléctricas y que cuando las cargas están en movimiento genera fuerzas
+%      magnéticas.
+% Evidencia: (1) identifica el tipo de carga (positiva o negativa) que adquiere un material
+%      (puntos 3 y 4: signo según gane o pierda electrones; cuantización). Los puntos 1 y 2
+%      repasan la notación científica que se usa para expresar cargas.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. Usa $e = \qty{1,6e-19}{C}$ para la carga elemental (el electrón tiene
+carga $-e$). Escribe los procedimientos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: notacion-cientifica-8-010, notacion-cientifica-8-011, notacion-cientifica-8-014
+\pregunta[1] Escribe en notación decimal:
+\begin{opciones*}(3)
+  \item $10^{-7}$
+  \item $5 \cdot 10^{-3}$
+  \item $\num{423,32} \cdot 10^{-6}$
+\end{opciones*}
+\begin{solucion}[1.2cm]
+a) $\num{0,0000001}$. b) $\num{0,005}$. c) $\num{0,00042332}$.
+\end{solucion}
+
+% Ejercicio: notacion-cientifica-8-001, notacion-cientifica-8-003
+\pregunta[1] Efectúa las operaciones (si las hay) y escribe en notación científica:
+\begin{opciones*}(2)
+  \item $4\,000\,000\,000$
+  \item $10^{5} \cdot \num{3,5} \cdot 10^{4}$
+\end{opciones*}
+\begin{solucion}[1.2cm]
+a) $4 \times 10^{9}$. b) $\num{3,5} \times 10^{9}$.
+\end{solucion}
+
+% Ejercicio: electrostatica-guia-11-002
+\pregunta[1.5] Para una fiesta en Cali, Sofía infla un globo y lo frota contra su pelo. El
+globo queda con $\num{2,0e13}$ electrones en exceso. Si la carga de un electrón es
+$\qty{-1,602e-19}{C}$, la carga del globo es, aproximadamente:
+\begin{opciones*}(4)
+  \item $\qty{3,2}{\micro\coulomb}$
+  \item $\qty{-3,2}{\nano\coulomb}$
+  \item $\qty{-3,2}{\micro\coulomb}$
+  \item $\qty{3,2}{\nano\coulomb}$
+\end{opciones*}
+Muestra el cálculo que justifica tu elección.
+\begin{solucion}[2.5cm]
+c). $q = (\num{2,0e13})(\qty{-1,602e-19}{C}) \approx \qty{-3,2e-6}{C} =
+\qty{-3,2}{\micro\coulomb}$.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-053
+\pregunta[1.5] ¿Cuál de las siguientes cargas no concuerda con la realidad? Considera
+$q_1 = \qty{2,4e-19}{C}$ y $q_2 = \qty{11,2e-19}{C}$. Justifica con el valor de la carga del
+electrón, $e = \qty{1,6e-19}{C}$.
+\begin{solucion}[2.5cm]
+Toda carga es un múltiplo entero de $e$. $q_2/e = 7$: es posible (7 electrones).
+$q_1/e = \num{1,5}$: no es entero, así que $q_1$ no concuerda con la realidad.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
