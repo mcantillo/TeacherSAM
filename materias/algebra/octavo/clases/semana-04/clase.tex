@@ -1,0 +1,177 @@
+% =====================================================================
+% Clase -- Álgebra 8° -- Trimestre I -- Semana 04
+% Sesiones 010 (mar 22 sep., 100 min), 011 (jue 24 sep., 100 min) y
+%          012 (vie 25 sep., 50 min)
+% Tema: El escándalo pitagórico (Tema 2 de la guía; sigue en la semana 05)
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-irracionales}
+
+\tipodocumento{Clase}
+\asignatura{Álgebra}
+\titulo{Semana 4: el escándalo pitagórico}
+\grado{8°}
+\periodo{I}
+% DBA: matematicas grado 8 · DBA 1 — Reconoce la existencia de los números irracionales como
+%      números no racionales y los describe de acuerdo con sus características y propiedades.
+%      (sesiones 010–012) · DBA 2 — Construye representaciones, argumentos y ejemplos de
+%      propiedades de los números racionales y no racionales. (sesión 012)
+% Evidencias: DBA 1, representaciones decimales para argumentar por qué un número no es
+%      racional (010, 011) y procedimientos geométricos para representar irracionales (012);
+%      DBA 2, construir √2 y ubicarlo en la recta, justificando el procedimiento (012).
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  010 & mar 22 sep., 07:50 & 100 & Hipaso de Metaponto y los inconmensurables & Taller 4 (en clase)\\
+  011 & jue 24 sep., 10:10 & 100 & $\sqrt{2}$ no es un número racional & —\\
+  012 & vie 25 sep., 11:50 & 50  & Construcción de $\sqrt{2}$: la diagonal del cuadrado & Tarea 4 (para el mar 29 sep.)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+La semana responde la pregunta que quedó abierta el viernes 18: sí existen decimales que no
+son exactos ni periódicos, y el primero que se demostró es la diagonal del cuadrado de lado
+$1$. En el hilo del trimestre («La cacería de $\pi$») es la primera presa: demostrar que
+$\sqrt{2}$ no es fracción cabe en media página; con $\pi$ costó dos mil años más.
+Referencia: \refguia{tema:escandalopitagorico}.
+
+\begin{nota}
+Hipaso se cuenta como \emph{leyenda}, no como hecho: no sabemos quién descubrió los
+inconmensurables, y ninguna fuente antigua liga directamente a Hipaso con ese descubrimiento
+(así lo dice la guía, siguiendo a Huffman). Lo verificable es que en el siglo IV a.\,C. la
+demostración ya circulaba: Aristóteles la usa como ejemplo de razonamiento por el absurdo.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 010 — martes 22 de septiembre · 07:50 · 100 min}
+
+\textbf{Objetivo.} Conocer la convicción pitagórica de que «todo es número» y comprobar, con
+fracciones cada vez más cercanas, que ninguna parece dar exactamente la diagonal del cuadrado
+de lado $1$.
+
+\textbf{Materiales.} Tablero; regla, escuadra y calculadora; Tarea 3 para revisar; Taller 4
+impreso (uno por pareja).
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Revisión de la Tarea 3 & 0–15 & Recoger la tarea. Poner en común el reto (punto 4): los
+    números que propusieron y la conclusión de que, si nunca repiten un patrón, no pueden ser
+    una fracción.\\
+  Historia & 15–35 & «Todo es número»: los pitagóricos (siglo VI a.\,C.) creían que toda
+    longitud era una razón entre enteros; lo comprobaban con la música (cuerdas en razón
+    $2:1$ suenan a una octava). Luego la leyenda del pitagórico que reveló un secreto y murió
+    en el mar, al que la tradición llamó Hipaso. Pregunta al grupo: «¿qué secreto podía ser
+    tan grave?»\\
+  Exploración & 35–55 & Cada pareja dibuja un cuadrado de $10$ cm de lado, mide la diagonal
+    (unos $14{,}1$ cm) y busca una fracción del lado que la dé. Recoger propuestas en el
+    tablero ($\frac{7}{5}$, $\frac{141}{100}$…) y elevar al cuadrado: ninguna da $2$. Se
+    anuncia que el jueves se demostrará que \emph{ninguna} puede darlo.\\
+  Taller 4 & 55–95 & En parejas. Circula por los puestos; el punto 1 es el central (las
+    fracciones se acercan a $\sqrt{2}$ sin alcanzarla).\\
+  Cierre & 95–100 & Recoger el taller. Pregunta para el jueves: «¿cómo se puede estar seguro
+    de que \emph{ninguna} fracción funciona, si hay infinitas fracciones?»\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+Los puntos 3 y 4 del taller ubican irracionales en la recta por su aproximación decimal;
+basta con que los ubiquen entre dos enteros consecutivos. La ubicación exacta con compás es
+de la sesión 012 y de la semana 05. Si el tiempo no alcanza, el punto 4 queda para la casa.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 011 — jueves 24 de septiembre · 10:10 · 100 min}
+
+\textbf{Objetivo.} Seguir y reconstruir la demostración por el absurdo de que $\sqrt{2}$ no es
+racional, y definir número irracional.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0–10 & Retomar la pregunta del martes: probar fracción por fracción no
+    termina nunca; hace falta otra forma de razonar.\\
+  Preparación & 10–30 & Pares e impares: todo par es $2k$; el cuadrado de un impar es impar
+    ($3^2, 5^2, 7^2$…) y el de un par es par. Conclusión que se usará: si $p^2$ es par,
+    entonces $p$ es par. Fracción reducida: sin factores comunes.\\
+  Demostración & 30–60 & En el tablero, paso a paso (la de la guía, Teorema «$\sqrt{2}$ es
+    irracional»): suponer $\sqrt{2} = \frac{p}{q}$ reducida; $p^2 = 2q^2$; $p$ par, $p = 2k$;
+    $q^2 = 2k^2$; $q$ par; contradicción. Nombrar el método: \emph{por el absurdo}. Leer la
+    frase de Aristóteles: los impares resultarían iguales a los pares.\\
+  Reconstrucción & 60–85 & En parejas, sin mirar el tablero, escriben la demostración en el
+    cuaderno con sus palabras; luego la comparan con la de la guía y marcan el paso que les
+    faltó.\\
+  Definición y cierre & 85–100 & Definición de número irracional (decimal infinito no
+    periódico; conjunto $\mathbb{I}$) y las tres caras de $\sqrt{2}$: la diagonal, el decimal
+    $1{,}41421356\ldots$ y el número positivo cuyo cuadrado es $2$. Pregunta para discutir:
+    «¿dónde falla la demostración si la intentamos con $\sqrt{4}$?» ($4 = 2^2$: no hay
+    contradicción, y en efecto $\sqrt{4} = 2$).\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+El paso que más cuesta es «si $p^2$ es par, $p$ es par»: justifícalo con la tabla de la
+preparación (un impar al cuadrado siempre da impar), no lo des por evidente. La práctica natural
+de esta sesión sería adaptar la demostración a $\sqrt{3}$ (ejercicio \texttt{irracionales-8-009}
+del banco), pero su respuesta modelo sigue pendiente de aprobación: úsalo solo si ya lo
+aprobaste.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 012 — viernes 25 de septiembre · 11:50 · 50 min}
+
+\textbf{Objetivo.} Construir $\sqrt{2}$ con regla y compás como la diagonal del cuadrado de
+lado $1$, llevarla a la recta numérica y justificar por qué el punto obtenido es exactamente
+$\sqrt{2}$.
+
+\textbf{Materiales.} Regla, compás y escuadra (pedirlos el jueves).
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Construcción guiada & 0–20 & Con unidad de $3$ cm: recta numérica, cuadrado de lado $1$
+    sobre el segmento $[0,1]$, diagonal desde $0$; compás en $0$ con abertura hasta el
+    extremo de la diagonal; arco hasta la recta. Marcar $\sqrt{2}$ y comprobar con la regla
+    que queda cerca de $1{,}41$ unidades. La diagonal mide $\sqrt{1^2 + 1^2}$ por el teorema de
+    Pitágoras, que se usa como herramienta (se estudia en Geometría).\\
+  Justificación & 20–30 & «¿Por qué el punto es \emph{exactamente} $\sqrt{2}$ y no
+    $1{,}41$?» Porque el compás conserva la longitud: el arco lleva la diagonal entera, no una
+    medida con la regla.\\
+  Segundo caso & 30–42 & Con el triángulo de catetos $1$ y $2$, llevar $\sqrt{5}$ a la recta
+    (ejemplo de la guía, \texttt{irracionales-8-010}); también $-\sqrt{2}$, con el arco hacia la
+    izquierda.\\
+  Cierre y tarea & 42–50 & Anunciar la espiral de Teodoro (semana 05) y asignar la Tarea 4,
+    para el martes 29 de septiembre.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+Teorema de Pitágoras solo con el cuadrado de lado $1$ y el triángulo de catetos $1$ y $2$
+(decisión del plan de la guía, hasta la semana 09). Si sobra tiempo, los estudiantes pueden
+empezar la pregunta de la espiral de Teodoro de la guía, que se trabaja en la semana 05.
+\end{nota}
+
+\end{document}

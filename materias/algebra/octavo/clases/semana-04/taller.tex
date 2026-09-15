@@ -1,0 +1,90 @@
+% =====================================================================
+% Taller 4 -- Álgebra 8° -- Trimestre I -- Semana 04 (sesión 010, mar 22 sep.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-irracionales}
+
+\tipodocumento{Taller}
+\asignatura{Álgebra}
+\titulo{Taller 4: la diagonal que no cabe en una fracción}
+\grado{8°}
+\periodo{I}
+\tiempo{40 min}
+% DBA: matematicas grado 8 · DBA 1 — Reconoce la existencia de los números irracionales como
+%      números no racionales y los describe de acuerdo con sus características y propiedades.
+% Evidencia: identifica las diferentes representaciones (decimales y no decimales) para
+%      argumentar por qué un número es o no racional (puntos 1 y 2); los puntos 3 y 4 ubican
+%      irracionales en la recta por su aproximación decimal (DBA 2, evidencia 1, que se
+%      trabaja a fondo en la semana 05).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. Puedes usar la calculadora para aproximar raíces, pero escribe los
+procedimientos. Consulta la \refguia{tema:escandalopitagorico}.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-013
+\pregunta[1.5] Las fracciones $\dfrac{7}{5}$, $\dfrac{17}{12}$ y $\dfrac{99}{70}$ se acercan
+cada vez más a $\sqrt{2}$. Eleva cada una al cuadrado y compara con $2$; luego calcula, con la
+calculadora, cuánto se aleja cada una de $\sqrt{2}$.
+\begin{solucion}[2.8cm]
+$\left(\frac{7}{5}\right)^2 = \frac{49}{25} = \num{1,96}$;
+$\left(\frac{17}{12}\right)^2 = \frac{289}{144} \approx \num{2,0069}$;
+$\left(\frac{99}{70}\right)^2 = \frac{9801}{4900} \approx \num{2,0002}$. Ninguna da
+exactamente $2$. Distancias a $\sqrt{2}$: $\approx \num{0,0142}$, $\approx \num{0,0025}$ y
+$\approx \num{0,00007}$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-027
+\pregunta[1] Verifica con una calculadora que $\sqrt{3} - 1 > 0$ y $1 - \sqrt{3} < 0$.
+\begin{solucion}[1.6cm]
+$\sqrt{3} \approx \num{1,732}$: $\sqrt{3} - 1 \approx \num{0,732} > 0$ y
+$1 - \sqrt{3} \approx -\num{0,732} < 0$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-002, numeros-reales-8-003, numeros-reales-8-005
+\pregunta[1.5] Representa en la recta real el número que resulta de cada operación:
+\begin{opciones*}(3)
+  \item $\sqrt{2} + \sqrt{2} + 2$
+  \item $\sqrt{5} + \sqrt{3} + \sqrt{3}$
+  \item $\sqrt{3} - \sqrt{5}$
+\end{opciones*}
+\begin{center}
+\begin{tikzpicture}[scale=0.95]
+  \draw[->] (-2.5,0) -- (6.6,0);
+  \foreach \x in {-2,...,6} \draw (\x,0.08) -- (\x,-0.08) node[below] {\small$\x$};
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[1.8cm]
+a) $2 + 2\sqrt{2} \approx \num{4,83}$: entre $4$ y $5$, más cerca de $5$.
+b) $\sqrt{5} + 2\sqrt{3} \approx \num{5,70}$: entre $5$ y $6$.
+c) $\sqrt{3} - \sqrt{5} \approx -\num{0,50}$: entre $-1$ y $0$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-012
+\pregunta[1] Representa en la recta real $1 + \sqrt{2}$ y su opuesto $-(1 + \sqrt{2})$.
+¿Es cierto que $-(1 + \sqrt{2}) = -1 - \sqrt{2}$? Explica.
+\begin{center}
+\begin{tikzpicture}[scale=0.95]
+  \draw[<->] (-3.6,0) -- (3.6,0);
+  \foreach \x in {-3,...,3} \draw (\x,0.08) -- (\x,-0.08) node[below] {\small$\x$};
+\end{tikzpicture}
+\end{center}
+\renglones{2}
+\begin{solucion}
+$1 + \sqrt{2} \approx \num{2,41}$ y su opuesto $\approx -\num{2,41}$, a la misma distancia
+del $0$. Sí: el opuesto de una suma es la suma de los opuestos,
+$-(1 + \sqrt{2}) = (-1) + (-\sqrt{2}) = -1 - \sqrt{2}$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

@@ -1,0 +1,81 @@
+% =====================================================================
+% Tarea 4 -- Álgebra 8° -- Trimestre I -- Semana 04
+% Se asigna el vie 25 sep. (sesión 012); se revisa el mar 29 sep. (sesión 013)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-irracionales}
+
+\tipodocumento{Tarea}
+\asignatura{Álgebra}
+\titulo{Tarea 4: irracionales en la recta y en las medidas}
+\grado{8°}
+\periodo{I}
+% DBA: matematicas grado 8 · DBA 1 — Reconoce la existencia de los números irracionales como
+%      números no racionales y los describe de acuerdo con sus características y propiedades.
+%      · DBA 2 — Construye representaciones, argumentos y ejemplos de propiedades de los
+%      números racionales y no racionales.
+% Evidencias: DBA 1, utiliza procedimientos geométricos para representar números racionales
+%      e irracionales (punto 1); DBA 2, utiliza procedimientos geométricos o aritméticos para
+%      construir algunos números irracionales y los ubica en la recta numérica (puntos 2 y 3);
+%      construye varias representaciones de un mismo número (punto 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: martes 29 de septiembre. Consulta la \refguia{tema:escandalopitagorico}.
+Escribe todos los procedimientos; usa la calculadora solo para aproximar.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: pitagoras-8-035
+\pregunta En un triángulo rectángulo un cateto mide $1$ y la hipotenusa mide $\sqrt{5}$. Halla
+la longitud del otro cateto.
+\begin{solucion}[1.8cm]
+$2$ (porque $1^2 + 2^2 = 5 = (\sqrt{5})^2$).
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-013
+\pregunta Representa en la recta real $\dfrac{1}{2} - (1 + \sqrt{2})$ y constata que
+$\dfrac{1}{2} - (1 + \sqrt{2}) = \left(\dfrac{1}{2} - 1\right) - \sqrt{2}$.
+\begin{center}
+\begin{tikzpicture}[scale=0.95]
+  \draw[<->] (-3.6,0) -- (3.6,0);
+  \foreach \x in {-3,...,3} \draw (\x,0.08) -- (\x,-0.08) node[below] {\small$\x$};
+\end{tikzpicture}
+\end{center}
+\begin{solucion}[2cm]
+Las dos expresiones valen $-\frac{1}{2} - \sqrt{2} \approx -\num{1,91}$: está entre $-2$ y
+$-1$, cerca de $-2$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-014, numeros-reales-8-015
+\pregunta Encuentra el inverso aditivo (opuesto) de cada número:
+\begin{opciones*}(2)
+  \item $\sqrt{5}$
+  \item $-\pi$
+\end{opciones*}
+\begin{solucion}[1.6cm]
+a) $-\sqrt{5}$. b) $\pi$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-007, numeros-reales-8-008
+\pregunta Dos de los lados de un cuadrilátero $ABCD$ miden $\sqrt{5}$ cm cada uno y los otros
+dos miden $\sqrt{3}$ cm y $\pi$ cm.
+\begin{opciones}
+  \item Halla el perímetro.
+  \item Halla la diferencia entre el lado más largo y el más corto.
+\end{opciones}
+\begin{solucion}[2cm]
+a) $2\sqrt{5} + \sqrt{3} + \pi \approx \num{9,35}$ cm. b) El más largo mide $\pi$ cm y el más
+corto $\sqrt{3}$ cm: $\pi - \sqrt{3} \approx \num{1,41}$ cm.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
