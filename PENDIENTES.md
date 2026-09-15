@@ -122,4 +122,4 @@ Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la 
 
 ## 5. Repositorio
 
-- [ ] ¿Agregar `.claude/worktrees/` (copias de trabajo de los agentes, ~124 MB) a `.gitignore`?
+- [x] `.claude/worktrees/` (copias de trabajo de los agentes) agregado a `.gitignore` (2026-09-14).

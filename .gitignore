@@ -53,3 +53,7 @@ env/
 .idea/
 *.swp
 *~
+
+# ---------- Claude Code ----------
+# Copias de trabajo de los agentes (worktrees temporales)
+.claude/worktrees/
