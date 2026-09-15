@@ -1,0 +1,82 @@
+% =====================================================================
+% Tarea 3 -- Cálculo 11° -- Trimestre I -- Semana 03
+% Se asigna el vie 18 sep. (sesión 008); se revisa el lun 21 sep. (sesión 009)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% Ejercicios del banco (recursos/banco/), todos reutilizados; ninguno nuevo.
+% Vacío: el banco no tiene ejercicios sobre el número $e$; se trabaja solo en clase (sesión 007).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Tarea}
+\asignatura{Cálculo}
+\titulo{Tarea 3: irracionales notables y la recta real}
+\grado{11°}
+\periodo{I}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias: (1) propiedades comunes y diferentes de los sistemas numéricos (puntos 1 y 3);
+%      (3) representaciones de los conjuntos numéricos y sus relaciones (puntos 2 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: lunes 21 de septiembre. Puedes usar calculadora. Consulta la
+\refguia{tema:irracionales}.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-014
+\pregunta Tres aproximaciones históricas de $\pi$ son $\dfrac{256}{81}$ (papiro Rhind,
+Egipto), $\dfrac{22}{7}$ (Arquímedes) y $\dfrac{355}{113}$ (Zu Chongzhi, China). Escribe cada
+una como decimal con siete cifras y di cuántas cifras decimales coinciden con
+$\pi = 3{,}1415926\ldots$
+\espacio{2.3cm}
+\begin{solucion}
+$\frac{256}{81} \approx 3{,}1604938$: $1$ cifra decimal ($3{,}1$).
+$\frac{22}{7} \approx 3{,}1428571$: $2$ cifras ($3{,}14$).
+$\frac{355}{113} \approx 3{,}1415929$: $6$ cifras ($3{,}141592$).
+\end{solucion}
+
+% Ejercicio: irracionales-8-015
+\pregunta Clasifica cada número como natural, entero, racional o irracional (puede pertenecer
+a varios conjuntos): $\sqrt{9}$, \ $\sqrt{7}$, \ $-\dfrac{4}{2}$, \ $\dfrac{22}{7}$, \ $\pi$,
+\ $2{,}101001000100001\ldots$ (cada vez un cero más entre los unos).
+\espacio{2.3cm}
+\begin{solucion}
+$\sqrt{9} = 3$: natural, entero y racional. $\sqrt{7}$: irracional. $-\frac{4}{2} = -2$: entero
+y racional. $\frac{22}{7}$: racional. $\pi$: irracional. $2{,}1010010001\ldots$: irracional,
+porque el bloque de ceros crece y nunca se repite un mismo período.
+\end{solucion}
+
+% Ejercicio: irracionales-8-017
+\pregunta Una rueda de bicicleta mide $66$ cm de diámetro. ¿Cuánto avanza en una vuelta y
+cuántas vueltas da en $1$ km? Si el cuentakilómetros usara $\frac{22}{7}$ en vez de $\pi$,
+¿cuántos metros de más contaría en $1$ km?
+\espacio{2.8cm}
+\begin{solucion}
+Una vuelta: $66\pi \approx 207{,}3$ cm. En $1$ km $= 100\,000$ cm:
+$100\,000 \div 66\pi \approx 482{,}3$ vueltas. Con $\frac{22}{7}$ cada vuelta mediría
+$207{,}43$ cm, y en esas $482{,}3$ vueltas contaría unos $0{,}4$ m de más (un error del
+$0{,}04$~\%).
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-012
+\pregunta Representa en la recta real $1 + \sqrt{2}$ y su opuesto $-(1 + \sqrt{2})$. ¿Es
+cierto que $-(1 + \sqrt{2}) = -1 - \sqrt{2}$? Explica.
+\espacio{2.3cm}
+\begin{solucion}
+$1 + \sqrt{2} \approx 2{,}41$ y su opuesto $\approx -2{,}41$, a la misma distancia del $0$.
+Sí: el opuesto de una suma es la suma de los opuestos,
+$-(1 + \sqrt{2}) = (-1) + (-\sqrt{2}) = -1 - \sqrt{2}$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

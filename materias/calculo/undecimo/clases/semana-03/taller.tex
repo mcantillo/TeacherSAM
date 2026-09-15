@@ -1,0 +1,93 @@
+% =====================================================================
+% Taller 3 -- Cálculo 11° -- Trimestre I -- Semana 03 (sesión 006, lun 14 sep.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% Ejercicios del banco (recursos/banco/), todos reutilizados; ninguno nuevo.
+% Vacío: el banco no tiene un ejercicio de demostrar la irracionalidad de una raíz (p. ej.
+%      $\sqrt{3}$); queda como reto voluntario de la guía, fuera del taller.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Taller}
+\asignatura{Cálculo}
+\titulo{Taller 3: $\sqrt{2}$ no es una fracción}
+\grado{11°}
+\periodo{I}
+\tiempo{40 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias: (1) propiedades comunes y diferentes de los sistemas numéricos (puntos 1, 3 y
+%      5); (3) representaciones de los conjuntos numéricos (puntos 2 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. Puedes usar calculadora. Escribe los procedimientos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-013
+\pregunta[1] Las fracciones $\dfrac{7}{5}$, $\dfrac{17}{12}$ y $\dfrac{99}{70}$ se acercan
+cada vez más a $\sqrt{2}$. Eleva cada una al cuadrado y compara con $2$; luego calcula, con la
+calculadora, cuánto se aleja cada una de $\sqrt{2}$.
+\espacio{2.4cm}
+\begin{solucion}
+$\left(\frac{7}{5}\right)^2 = \frac{49}{25} = 1{,}96$;
+$\left(\frac{17}{12}\right)^2 = \frac{289}{144} \approx 2{,}0069$;
+$\left(\frac{99}{70}\right)^2 = \frac{9801}{4900} \approx 2{,}0002$. Ninguna da exactamente
+$2$. Distancias a $\sqrt{2}$: $\approx 0{,}0142$, $\approx 0{,}0025$ y $\approx 0{,}00007$.
+\end{solucion}
+
+% Ejercicio: irracionales-8-010
+\pregunta[1] Explica cómo llevar $\sqrt{2}$ y $\sqrt{5}$ a la recta numérica con regla y
+compás, usando un cuadrado de lado $1$ y un triángulo rectángulo de catetos $1$ y $2$. Haz el
+dibujo.
+\espacio{3.2cm}
+\begin{solucion}
+La diagonal del cuadrado de lado $1$ mide $\sqrt{1^2 + 1^2} = \sqrt{2}$; con el compás en $0$
+y abertura igual a la diagonal, se marca $\sqrt{2} \approx 1{,}41$. Con catetos $1$ y $2$, la
+hipotenusa mide $\sqrt{1^2 + 2^2} = \sqrt{5}$, que se lleva igual hasta
+$\sqrt{5} \approx 2{,}24$. El compás conserva la longitud: por eso el punto marcado es
+exactamente $\sqrt{2}$ (o $\sqrt{5}$).
+\end{solucion}
+
+% Ejercicio: irracionales-8-011
+\pregunta[1] En la espiral de Teodoro, cada triángulo rectángulo tiene un cateto de $1$ y el
+otro igual a la hipotenusa del triángulo anterior; el primero tiene catetos $1$ y $1$. Calcula
+la hipotenusa de los cinco primeros triángulos y di cuáles son números racionales.
+\espacio{2.4cm}
+\begin{solucion}
+$\sqrt{2}$, $\sqrt{3}$, $\sqrt{4} = 2$, $\sqrt{5}$ y $\sqrt{6} \approx 2{,}45$: cada una es
+$\sqrt{n + 1}$ si el cateto anterior es $\sqrt{n}$. Solo $\sqrt{4} = 2$ es racional; las demás
+son raíces no exactas, irracionales.
+\end{solucion}
+
+% Ejercicio: irracionales-8-012
+\pregunta[1] Una hoja A4 mide $210 \times 297$ mm y una hoja carta, $216 \times 279$ mm.
+Calcula la razón largo/ancho de cada una y compárala con $\sqrt{2}$. Luego dobla cada hoja por
+la mitad (la mitad del largo) y calcula de nuevo la razón. ¿Cuál conserva su forma?
+\espacio{2.4cm}
+\begin{solucion}
+A4: $297/210 \approx 1{,}414$, casi $\sqrt{2} \approx 1{,}414$; doblada
+($210 \times 148{,}5$), $210/148{,}5 \approx 1{,}414$: conserva la forma. Carta:
+$279/216 \approx 1{,}292$; doblada ($216 \times 139{,}5$), $216/139{,}5 \approx 1{,}548$:
+cambia de forma.
+\end{solucion}
+
+% Ejercicio: irracionales-8-016
+\pregunta[1] ¿Es siempre irracional el resultado de sumar dos números irracionales? Calcula
+$\sqrt{2} + \sqrt{2}$ y $\sqrt{2} + (3 - \sqrt{2})$ y explica qué observas.
+\renglones{3}
+\begin{solucion}
+No siempre. $\sqrt{2} + \sqrt{2} = 2\sqrt{2}$ es irracional, pero
+$\sqrt{2} + (3 - \sqrt{2}) = 3$ es racional, aunque $3 - \sqrt{2}$ es irracional.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

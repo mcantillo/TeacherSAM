@@ -1,0 +1,107 @@
+% =====================================================================
+% Taller 4 -- Cálculo 11° -- Trimestre I -- Semana 04 (sesión 009, lun 21 sep.)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% Ejercicios del banco (recursos/banco/), todos reutilizados; ninguno nuevo.
+% Vacío: el banco no tiene un ejercicio abierto de «escribe racionales e irracionales entre
+%      dos números dados» (como el de la guía, Tema 2); la densidad se evalúa con las dos
+%      preguntas Icfes, el 0,999... y el encierre de $\sqrt{3}$.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Taller}
+\asignatura{Cálculo}
+\titulo{Taller 4: la densidad de los números reales}
+\grado{11°}
+\periodo{I}
+\tiempo{35 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias: (2) utiliza la propiedad de densidad para justificar la necesidad de otras
+%      notaciones para subconjuntos de los números reales (puntos 1, 2, 3 y 4);
+%      (3) representaciones de los conjuntos numéricos (punto 5).
+% Recurso de los puntos 1 y 2: Icfes, Cuadernillo de preguntas Matemáticas Saber 11.º (marzo
+%      2026), preguntas 27 y 40 — textuales.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabaja en pareja. Puedes usar calculadora. En las preguntas de selección, justifica la
+opción que elijas.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: icfes-cuadernillo-2026-027
+\pregunta[1] Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord
+olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de
+prueba, que rompa el récord olímpico pero no el mundial?
+\begin{opciones}
+  \item Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre
+        los dos tiempos récord.
+  \item Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord.
+  \item No, porque no existe un registro posible entre los dos tiempos récord.
+  \item No, porque cualquier registro menor que el récord olímpico va a ser menor que el
+        récord mundial.
+\end{opciones}
+\begin{solucion}
+a) Entre dos números reales distintos siempre hay otros (densidad):
+$10{,}49 < 10{,}497 < 10{,}50$, así que $10{,}497$ rompe el récord olímpico pero no el mundial.
+\end{solucion}
+
+% Ejercicio: icfes-cuadernillo-2026-040
+\pregunta[1] Se puede encontrar números racionales mayores que un número entero $k$, de manera
+que sean cada vez más cercanos a él, calculando $k + \frac{1}{j}$ (con $j$ entero positivo).
+Cuanto más grande sea $j$, más cercano a $k$ será el racional construido. ¿Cuántos números
+racionales se pueden construir cercanos a $k$ y menores que $k + \frac{1}{11}$?
+\begin{opciones}
+  \item 10, que es la cantidad de racionales menores que 11.
+  \item Una cantidad infinita, pues existen infinitos números enteros mayores que 11.
+  \item 11, que es el número que equivale en este caso a $j$.
+  \item Uno, pues el racional más cercano a $k$ se halla con $j = 10$, es decir, con
+        $k + 0{,}1$.
+\end{opciones}
+\begin{solucion}
+b) $k + \frac{1}{j} < k + \frac{1}{11} \iff \frac{1}{j} < \frac{1}{11} \iff j > 11$ (con $j$
+positivo): sirve cualquier entero $12, 13, 14, \ldots$, que son infinitos.
+\end{solucion}
+
+% Ejercicio: irracionales-8-006
+\pregunta[1] Un compañero afirma: «$0{,}999\ldots$ (con nueves para siempre) no es igual a $1$,
+solo se le acerca mucho». Usa el método de restar $10x - x$ para decidir si tiene razón.
+\espacio{2.5cm}
+\newpage
+\begin{solucion}
+No tiene razón: si $x = 0{,}\overline{9}$, entonces
+$10x - x = 9{,}\overline{9} - 0{,}\overline{9} = 9$, así que $9x = 9$ y $x = 1$. Son dos
+escrituras del mismo número.
+\end{solucion}
+
+% Ejercicio: irracionales-8-022
+\pregunta[1] Para encerrar a $\pi$, Arquímedes usó que $\dfrac{265}{153} < \sqrt{3} <
+\dfrac{1351}{780}$. Compruébalo sin calculadora elevando al cuadrado (compara $265^2$ con
+$3 \cdot 153^2$, y $1351^2$ con $3 \cdot 780^2$). Luego, con la calculadora, di cuántas cifras
+decimales de $\sqrt{3} = 1{,}7320508\ldots$ acierta cada fracción.
+\espacio{3cm}
+\begin{solucion}
+$265^2 = 70\,225 < 3 \cdot 153^2 = 70\,227$ y $1351^2 = 1\,825\,201 > 3 \cdot 780^2 =
+1\,825\,200$, así que la desigualdad es cierta. $\frac{265}{153} \approx 1{,}7320261$ acierta
+$4$ cifras ($1{,}7320$); $\frac{1351}{780} \approx 1{,}7320513$ acierta $5$ ($1{,}73205$).
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-013
+\pregunta[1] Representa en la recta real $\dfrac{1}{2} - (1 + \sqrt{2})$ y constata que
+$\dfrac{1}{2} - (1 + \sqrt{2}) = \left(\dfrac{1}{2} - 1\right) - \sqrt{2}$.
+\espacio{3cm}
+\begin{solucion}
+Las dos expresiones valen $-\frac{1}{2} - \sqrt{2} \approx -1{,}91$: está entre $-2$ y $-1$,
+cerca de $-2$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

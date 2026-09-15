@@ -1,0 +1,141 @@
+% =====================================================================
+% Clase -- Cálculo 11° -- Trimestre I -- Semana 04
+% Sesiones 009 (lun 21 sep., 100 min), 010 (jue 24 sep., 55 min), 011 (vie 25 sep., 50 min)
+% Temas 2 y 3 de la guía: Los irracionales y la recta real; Intervalos e infinitos
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Clase}
+\asignatura{Cálculo}
+\titulo{Semana 4: densidad, decimales e intervalos}
+\grado{11°}
+\periodo{I}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias trabajadas: (2) utiliza la propiedad de densidad para justificar la necesidad de
+%      otras notaciones para subconjuntos de los números reales (sesiones 009 y 011);
+%      (3) construye representaciones de los conjuntos numéricos y establece relaciones
+%      acordes con sus propiedades (decimales periódicos ↔ fracciones, sesión 010).
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  009 & lun 21 sep., 07:50 & 100 & Densidad de los números reales & Taller 4\\
+  010 & jue 24 sep., 06:55 & 55  & Decimales periódicos y no periódicos & Quiz 2\\
+  011 & vie 25 sep., 13:40 & 50  & Intervalos abiertos, cerrados y semiabiertos & Tarea 4 (para el lun 28 sep.)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+Referencias: \refguia{tema:irracionales} (sesiones 009 y 010) y \refguia{tema:intervalos}
+(sesión 011).
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 009 — lunes 21 de septiembre · 07:50 · 100 min}
+
+\textbf{Objetivo.} Usar la densidad para justificar que entre dos reales distintos hay
+infinitos reales y que ningún real tiene un «siguiente».
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Tarea 3 & 0–15 & Se revisa en parejas; en el tablero, el punto 1 (cuántas cifras de $\pi$
+    acierta cada aproximación) y el punto 3 (el error de usar $\frac{22}{7}$).\\
+  Situación & 15–25 & La pregunta de Carolina (ejemplo del DBA 1, también en la guía): «¿por
+    qué no puedo decir que después de 5 sigue el 5,1, o el 5,01?». Se escuchan respuestas
+    sin corregir todavía.\\
+  Explicación & 25–50 & Definición de densidad (guía). El promedio $\frac{a+b}{2}$ siempre está
+    entre $a$ y $b$: entre $5$ y $5{,}01$ está $5{,}005$; entre $5$ y $5{,}005$ está
+    $5{,}0025$\ldots\ El proceso no termina, así que no hay «siguiente». Contraste: en $\Z$
+    sí hay siguiente ($n + 1$). Entre dos reales también hay irracionales: entre $1$ y $2$
+    está $\sqrt{2}$; entre $0{,}1$ y $0{,}11$, $0{,}101001000\ldots$\\
+  Consecuencia & 50–55 & Por la densidad, «los reales mayores que 5» no se pueden listar:
+    necesitamos otra notación (se anuncia: los intervalos, viernes).\\
+  Taller 4 & 55–90 & En parejas.\\
+  Cierre & 90–100 & Respuesta colectiva a Carolina, escrita en el cuaderno en dos renglones.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+El punto 3 del taller ($0{,}\overline{9} = 1$) suele generar discusión. Úsala: si fueran
+distintos, por la densidad habría un número entre ellos; que nadie pueda escribirlo es otra
+forma de ver que son el mismo número.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 010 — jueves 24 de septiembre · 06:55 · 55 min}
+
+\textbf{Objetivo.} Distinguir decimales exactos, periódicos y no periódicos, convertir un
+periódico en fracción y cerrar el tema de los irracionales con el Quiz 2.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Repaso & 0–20 & Por qué toda fracción da un decimal exacto o periódico: en la división
+    larga de $\frac{p}{q}$ solo hay $q$ restos posibles, así que alguno se repite
+    ($\frac{3}{8} = 0{,}375$; $\frac{1}{7} = 0{,}\overline{142857}$). Método para pasar a
+    fracción: $x = 0{,}\overline{36}$, $100x - x = 36$, $x = \frac{4}{11}$; con parte no
+    periódica, $x = 0{,}2\overline{7}$: $100x - 10x = 25$, $x = \frac{25}{90} = \frac{5}{18}$.
+    Los no periódicos son los irracionales.\\
+  Dudas & 20–30 & Preguntas sobre el Taller 4 y la clasificación de números.\\
+  Quiz 2 & 30–50 & Individual, 20 minutos, con calculadora.\\
+  Cierre & 50–55 & Se recogen los quices. Pregunta para el viernes: ¿cómo escribirían «todos
+    los reales entre 2 y 3»?\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 011 — viernes 25 de septiembre · 13:40 · 50 min}
+
+\textbf{Objetivo.} Escribir subconjuntos de $\R$ como intervalos (abiertos, cerrados,
+semiabiertos y no acotados), pasar de desigualdad a intervalo y a la recta, y viceversa. Es la
+última hora del viernes: sesión activa.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Hilo & 0–5 & Berlín, 1874: Cantor quiere comparar infinitos y necesita hablar de «todos los
+    números entre 0 y 1» (hilo del Tema 3 de la guía).\\
+  Explicación & 5–20 & La tabla de intervalos de la guía: corchete incluye el extremo,
+    paréntesis no; punto relleno o vacío en la recta. $\infty$ no es un número: siempre va con
+    paréntesis. Ejemplos: $-1 < x \le 4 \Rightarrow (-1, 4]$; $x \ge -3 \Rightarrow
+    [-3, \infty)$.\\
+  Relevos & 20–42 & Grupos de 4 en filas. La docente dice una desigualdad; el primero de cada
+    fila escribe el intervalo, el segundo lo dibuja en la recta, el tercero lo clasifica
+    (abierto, cerrado, semiabierto o no acotado) y el cuarto revisa. Gana la fila con más
+    aciertos. Ejemplos: $2 < x < 7$; $x \le 0$; $-5 \le x < 1$; $x > \sqrt{2}$.\\
+  Cierre & 42–50 & ¿Cómo se escribe un conjunto sin elementos? ($\varnothing$: por ejemplo,
+    $x < -10$ y $x > 3$.) Se asigna la Tarea 4 para el lunes 28.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+Unión e intersección de intervalos quedan para la semana 05 (sesiones 012 y 013), según el
+plan.
+\end{nota}
+
+\end{document}

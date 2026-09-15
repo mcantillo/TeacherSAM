@@ -1,0 +1,74 @@
+% =====================================================================
+% Quiz 2 -- Cálculo 11° -- Trimestre I -- Semana 04 (sesión 010, jue 24 sep.)
+% Clave:  pdflatex -jobname=quiz-clave "\def\clave{}\input{quiz}"  (dos veces)
+% Ejercicios del banco (recursos/banco/), todos reutilizados; ninguno nuevo.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Quiz}
+\asignatura{Cálculo}
+\titulo{Quiz 2: los irracionales y los decimales}
+\grado{11°}
+\periodo{I}
+\tiempo{20 min}
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+%      enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar
+%      los distintos sistemas numéricos.
+% Evidencias: (3) construye representaciones de los conjuntos numéricos y establece relaciones
+%      acordes con sus propiedades (puntos 1, 2 y 3: decimal periódico ↔ fracción);
+%      (1) propiedades comunes y diferentes de los sistemas numéricos (punto 4: clasificación).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual. Puedes usar calculadora. Escribe los procedimientos: las respuestas sin
+justificación no tienen puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-002
+\pregunta[1] Escribe $0{,}\overline{45}$ como fracción irreducible.
+\espacio{2.5cm}
+\begin{solucion}
+Si $x = 0{,}\overline{45}$, entonces $100x = 45{,}\overline{45}$; restando, $99x = 45$ y
+$x = \frac{45}{99} = \frac{5}{11}$.
+\end{solucion}
+
+% Ejercicio: irracionales-8-003
+\pregunta[1] Escribe $0{,}1\overline{6}$ como fracción irreducible.
+\espacio{2.5cm}
+\begin{solucion}
+Si $x = 0{,}1\overline{6}$: $100x = 16{,}\overline{6}$ y $10x = 1{,}\overline{6}$; restando,
+$90x = 15$, así que $x = \frac{15}{90} = \frac{1}{6}$.
+\end{solucion}
+
+% Ejercicio: irracionales-8-007
+\pregunta[1.5] Muchas personas usan $\dfrac{22}{7}$ en lugar de $\pi$. Escribe $\dfrac{22}{7}$
+como decimal por división larga. ¿Es exacto o periódico? Sabiendo que
+$\pi = 3{,}14159265\ldots$, ¿puede ser $\dfrac{22}{7}$ igual a $\pi$?
+\espacio{3cm}
+\begin{solucion}
+$\frac{22}{7} = 3{,}\overline{142857}$, periódico (como toda fracción). Ya en la tercera cifra
+decimal difiere de $\pi$: $3{,}142\ldots$ frente a $3{,}141\ldots$ No son iguales;
+$\frac{22}{7}$ solo es una aproximación.
+\end{solucion}
+
+% Ejercicio: irracionales-8-015
+\pregunta[1.5] Clasifica cada número como natural, entero, racional o irracional (puede
+pertenecer a varios conjuntos): $\sqrt{9}$, \ $\sqrt{7}$, \ $-\dfrac{4}{2}$, \ $\dfrac{22}{7}$,
+\ $\pi$, \ $2{,}101001000100001\ldots$ (cada vez un cero más entre los unos).
+\espacio{3cm}
+\begin{solucion}
+$\sqrt{9} = 3$: natural, entero y racional. $\sqrt{7}$: irracional. $-\frac{4}{2} = -2$: entero
+y racional. $\frac{22}{7}$: racional. $\pi$: irracional. $2{,}1010010001\ldots$: irracional,
+porque el bloque de ceros crece y nunca se repite un mismo período.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
