@@ -1,0 +1,75 @@
+name: Compilar PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'materias/**.tex'
+  workflow_dispatch:
+    inputs:
+      todos:
+        description: 'Recompilar todos los .tex de materias/'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pdfs-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  pdfs:
+    runs-on: ubuntu-latest
+    # La imagen más liviana de TeX Live; los paquetes que usa mmcantillo.sty se instalan abajo.
+    container: texlive/texlive:latest-minimal
+    steps:
+      - name: Instalar git
+        run: apt-get update -qq && apt-get install -y -qq git > /dev/null
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Instalar paquetes LaTeX
+        run: |
+          # Lista sacada de los .fls de todos los .tex de materias/ (si un material nuevo usa
+          # otro paquete, agrégalo aquí).
+          tlmgr install latexmk latex-bin amscls amsmath babel babel-spanish bigintcalc bitset booktabs \
+            cancel carlisle cm cm-super ec enumitem environ epstopdf-pkg etoolbox fancyhdr \
+            figureversions fontaxes fontname geometry gettitlestring graphics graphics-cfg \
+            graphics-def hycolor hyperref iftex infwarerr intcalc kastrup kvdefinekeys \
+            kvoptions kvsetkeys l3kernel l3packages lastpage latex latexconfig \
+            listings listingsutf8 ltxcmds mathtools microtype mweights needspace newpx newtx \
+            oberdiek pdfcol pdfescape pdftexcmds pgf pgfplots psnfss refcount rerunfilecheck \
+            siunitx stringenc symbol tasks tcolorbox tikzfill tools translations trimspaces \
+            uniquecounter url was xcolor xkeyval xpatch xstring zapfding
+          # Enlaza en el PATH los binarios nuevos (latexmk).
+          tlmgr path add
+
+      - name: Compilar
+        env:
+          ANTES: ${{ github.event.before }}
+          TODOS: ${{ inputs.todos }}
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          if [ "$TODOS" = "true" ] || [ -z "$ANTES" ] || [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then
+            bash tools/compilar-pdfs.sh --todos
+          else
+            bash tools/compilar-pdfs.sh "$ANTES" "$GITHUB_SHA"
+          fi
+
+      - name: Subir los PDF al repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A -- 'materias/*.pdf'
+          git add -f -- 'materias/*/guia-didactica/*.aux' 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No hay PDF nuevos."
+          else
+            git commit -m "Compilar PDF [skip ci]"
+            git push
+          fi
