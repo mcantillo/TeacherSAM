@@ -3707,6 +3707,36 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/fisica/electrostatica-11.py"
  },
+ "electrostatica-guia-11-001": {
+  "huella": "da2790708f42d102",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/electrostatica-guia-11.py"
+ },
+ "electrostatica-guia-11-002": {
+  "huella": "fc67887d85730f68",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/electrostatica-guia-11.py"
+ },
+ "electrostatica-guia-11-003": {
+  "huella": "15423406969eef27",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/electrostatica-guia-11.py"
+ },
+ "electrostatica-guia-11-004": {
+  "huella": "aa24ba955a9f57a6",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/electrostatica-guia-11.py"
+ },
+ "electrostatica-guia-11-005": {
+  "huella": "9d16d87267f04144",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/electrostatica-guia-11.py"
+ },
  "energia-10-001": {
   "huella": "e675443e329a67ef",
   "estado": "manual-pendiente",
@@ -8908,6 +8938,30 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/funcion-lineal-9.py"
+ },
+ "geometria-analitica-10-002": {
+  "huella": "42d10334328dbc30",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-006": {
+  "huella": "31809c95d52095f1",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-012": {
+  "huella": "e4a538fc73695934",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-030": {
+  "huella": "0b6eeb51d8369310",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
  },
  "graficas-trigonometricas-10-001": {
   "huella": "9e5e186bdbba48bf",
@@ -23398,6 +23452,180 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/triangulos-8.py"
+ },
+ "triangulos-geometria-8-001": {
+  "huella": "840acba1e6a30fef",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-002": {
+  "huella": "302f4bad912265ab",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-003": {
+  "huella": "201beb62daf05536",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-004": {
+  "huella": "79f7be4c7ff9a7f7",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-005": {
+  "huella": "90107b864909e07c",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-006": {
+  "huella": "f5dae91eabba3801",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-007": {
+  "huella": "ea43ed16bf0e9660",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "triangulos-geometria-8-008": {
+  "huella": "eaf9ed07063e59e8",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/triangulos-geometria-8.py"
+ },
+ "ubicacion-5-001": {
+  "huella": "d5ff0dd8d2c00706",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-002": {
+  "huella": "d55092e17ae12b52",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-003": {
+  "huella": "c0ed2caa15c7ff19",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-004": {
+  "huella": "663bf582807a01d7",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-005": {
+  "huella": "56ea277fac7aa7d4",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-006": {
+  "huella": "4f8de502b0eeaf89",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-007": {
+  "huella": "77eb7eafc340a1c7",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-008": {
+  "huella": "bd9f9be589a5e59a",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-009": {
+  "huella": "3e8fc980cdfb54eb",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-010": {
+  "huella": "d82db7263a040985",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-011": {
+  "huella": "076685c3242eb001",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-012": {
+  "huella": "e1eeaa19a7dbf012",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-013": {
+  "huella": "8cf452f6df16c288",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-014": {
+  "huella": "ad4acac7191b6c00",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-015": {
+  "huella": "96378d59dd797e53",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-016": {
+  "huella": "73d20cb778829e6e",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-017": {
+  "huella": "e32d9cb70a15cb4a",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-018": {
+  "huella": "0d6d0604b79b87af",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-019": {
+  "huella": "47426c8b15903b4e",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-020": {
+  "huella": "b331b3e384cae819",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
+ },
+ "ubicacion-5-021": {
+  "huella": "d44b39324e298df3",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/ubicacion-5.py"
  },
  "valor-absoluto-001": {
   "huella": "f676ad7366d242f0",
