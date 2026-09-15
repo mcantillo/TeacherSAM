@@ -1,0 +1,141 @@
+% =====================================================================
+% Taller 1 -- Geometría 5° -- Trimestre I -- Semana 04
+% Se resuelve en clase el lun 21 sep. (sesión 003)
+% Hilo conductor del trimestre I: «Cali, mi ciudad»
+% Ejercicios: recursos/banco/matematicas/ubicacion-5.py (figuras SALON, COLEGIO y MAPA)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-ubicacion}
+
+\tipodocumento{Taller}
+\asignatura{Geometría}
+\titulo{Taller 1: puntos cardinales}
+\grado{5°}
+\periodo{I}
+
+% DBA: matematicas grado 5 · DBA 7 — Resuelve y propone situaciones en las que es necesario
+% describir y localizar la posición y la trayectoria de un objeto con referencia al plano
+% cartesiano. Evidencias: «Interpreta los elementos de un sistema de referencia» (pregunta 1)
+% y «Grafica en el plano cartesiano la posición de un objeto usando direcciones cardinales»
+% (preguntas 2 y 3, todavía sin coordenadas).
+
+% Rosa de los vientos pequeña en (#1) (la misma de la guía)
+\newcommand{\rosa}[1]{%
+  \begin{scope}[shift={(#1)}, font=\scriptsize]
+    \draw[->] (0,0) -- (0,0.6) node[above] {N};
+    \draw (0,0) -- (0,-0.6) node[below] {S};
+    \draw (0,0) -- (0.6,0) node[right] {E};
+    \draw (0,0) -- (-0.6,0) node[left] {O};
+  \end{scope}}
+
+% Renglones para responder; en la clave no se imprimen (la solución ocupa su lugar)
+\newcommand{\lineas}[1]{\ifdefined\clave\else\renglones{#1}\fi}
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Consulta la \refguia{tema:referencia}. En la cuadrícula del salón, escribe primero la fila y
+después la columna. En los planos y mapas, el norte está arriba: E es el oriente (o este) y O
+es el occidente.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: ubicacion-5-003
+\pregunta[1] Esta es la cuadrícula del salón: las filas se cuentan desde el tablero y las
+columnas de izquierda a derecha.
+
+\begin{center}
+\begin{tikzpicture}[x=1.7cm, y=0.9cm, font=\footnotesize]
+  \foreach \i in {0,...,5} \draw[gray!60] (\i,0) -- (\i,4);
+  \foreach \j in {0,...,4} \draw[gray!60] (0,\j) -- (5,\j);
+  \foreach \x/\n in {0.5/1, 1.5/2, 2.5/3, 3.5/4, 4.5/5}
+    \node[font=\small\bfseries] at (\x,-0.3) {\n};
+  \foreach \y/\l in {3.5/A, 2.5/B, 1.5/C, 0.5/D}
+    \node[font=\small\bfseries] at (-0.25,\y) {\l};
+  \draw[fill=black!12] (1,4.2) rectangle (4,4.6);
+  \node[font=\scriptsize] at (2.5,4.4) {TABLERO};
+  \node at (1.5,3.5) {Sofía};
+  \node at (4.5,3.5) {escritorio};
+  \node at (3.5,2.5) {Andrés};
+  \node at (0.5,1.5) {Isabela};
+  \node at (3.5,1.5) {Juliana};
+  \node at (2.5,0.5) {Nicolás};
+  \node at (4.5,0.5) {estante};
+\end{tikzpicture}
+\end{center}
+
+Camilo le dice a Tatiana que Andrés está en $(C, 4)$, porque contó las filas desde el fondo
+del salón y no desde el tablero. Encuentra el error: ¿a quién encontraría Tatiana en
+$(C, 4)$? ¿Cuál es la posición correcta de Andrés y por qué?
+\begin{solucion}
+En $(C, 4)$ Tatiana encontraría a Juliana, no a Andrés. La posición correcta es $(B, 4)$: el
+acuerdo del salón es contar las filas desde el tablero. Si cada uno cuenta desde un lugar
+distinto, el mismo par señala puestos distintos.
+\end{solucion}
+\lineas{3}
+
+\Needspace{20\baselineskip}
+% Ejercicio: ubicacion-5-004
+\pregunta[2] Observa el plano del colegio (el norte está arriba). Tatiana está en el patio.
+
+\begin{center}
+\begin{tikzpicture}[font=\footnotesize, lugar/.style={draw, minimum width=2.1cm, minimum height=0.75cm}]
+  \node[draw, dashed, minimum width=2.1cm, minimum height=0.75cm] at (0,0) {patio};
+  \node[lugar] at (0,1.3) {biblioteca};
+  \node[lugar] at (2.8,0) {cafetería};
+  \node[lugar] at (0,-1.3) {coliseo};
+  \node[lugar] at (-2.8,0) {portería};
+  \rosa{5.6,0}
+\end{tikzpicture}
+\end{center}
+
+\begin{opciones}
+  \item ¿Qué lugar queda al norte del patio?
+  \item Si camina hacia el occidente, ¿a dónde llega?
+  \item Si se para mirando hacia donde sale el Sol, ¿qué lugar tiene a su izquierda y cuál a
+        su espalda?
+\end{opciones}
+\begin{solucion}
+a) Al norte, la biblioteca. b) Hacia el occidente llega a la portería. c) Mirando hacia la
+salida del Sol (el oriente), a su izquierda queda el norte, la biblioteca, y a su espalda el
+occidente, la portería.
+\end{solucion}
+\lineas{3}
+
+% Ejercicio: ubicacion-5-019
+\pregunta[2] Este es un mapa simplificado del barrio donde se hospeda Tatiana (sin escala).
+Cada lado de un cuadro es una cuadra, y cada punto marca un lugar en una esquina.
+
+\begin{center}
+\begin{tikzpicture}[x=1.05cm, y=0.8cm, font=\footnotesize]
+  \foreach \i in {0,...,8} \draw[gray!55] (\i,0) -- (\i,6);
+  \foreach \j in {0,...,6} \draw[gray!55] (0,\j) -- (8,\j);
+  \foreach \t/\px/\py/\pos in {hotel/1/1/above right, estación del MIO/4/1/below left,
+      biblioteca/2/4/above right, parque/5/3/above right, iglesia/7/5/above right,
+      museo/6/1/above right}
+    {\fill (\px,\py) circle (2.6pt); \node[\pos, fill=white, inner sep=1pt] at (\px,\py) {\t};}
+  \rosa{9.4,4.6}
+\end{tikzpicture}
+\end{center}
+
+Usa el mapa del barrio y los puntos cardinales. Describe dónde queda:
+\begin{opciones}
+  \item la iglesia respecto al parque;
+  \item la biblioteca respecto al museo;
+  \item el hotel respecto a la estación del MIO.
+\end{opciones}
+\begin{solucion}
+a) 2 cuadras al oriente y 2 al norte del parque. b) 4 cuadras al occidente y 3 al norte del
+museo. c) 3 cuadras al occidente de la estación, en la misma calle.
+\end{solucion}
+\lineas{3}
+
+\end{preguntas}
+
+\end{document}
