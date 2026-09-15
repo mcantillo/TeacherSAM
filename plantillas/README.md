@@ -28,6 +28,8 @@ Cada plantilla carga el estilo y el logo desde `../estilo/`, así que **hay una 
    ```latex
    \tipodocumento{Quiz}          % Quiz, Evaluación, Taller, Guía, Notas de clase...
    \asignatura{Cálculo}          % Cálculo, Física, Trigonometría...
+                                 % (con Física, la cabecera dice «Área de Ciencias Naturales»)
+   % \area{Área de ...}          % opcional, después de \asignatura: cambia el área de la cabecera
    \titulo{Derivadas: reglas básicas}
    \grado{11°}
    \periodo{III}

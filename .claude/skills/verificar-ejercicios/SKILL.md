@@ -28,11 +28,35 @@ its boxes when you finish one of its tasks.
   (`<tema>-<grado>.py`, `<tema>-<grado>-NNN`) so they can't collide; when all are done, one
   session runs `verificar` once to record them.
 
+## Reuse, don't multiply (teacher's rule, 2026-09-15)
+
+The bank exists to save time and effort: an exercise already checked (and, for open-ended ones,
+already approved by the teacher) costs nothing to reuse, while every new one costs a check and
+often a teacher review. So:
+
+- **Look in the bank before writing anything**, and look broadly: the tema, neighbouring temas
+  and grades (`listar --grado N`, `listar --tema …`), and the recurso-based files. Adapt the
+  document to fit good existing exercises rather than inventing new ones to fit the document.
+- **Documents use bank exercises only; the default number of new exercises is zero.** When a
+  guía or a pack needs an exercise the bank truly lacks (an evidencia with no verified exercise
+  at all), don't write it on your own: leave that gap in the plan or report as a pending item,
+  and write a new exercise only if the teacher (or the user) explicitly asks for it.
+  **Exception (2026-09-15): when the bank has nothing at all for that grade or tema** (e.g.
+  Geometría 3°–4°), the document may bring a few new exercises — only what it needs, verified
+  like any other, and listed as new in the plan or report.
+- **Don't add near-duplicates** (the same exercise with other numbers) or whole series «just in
+  case»; don't transcribe a recurso section into the bank while writing a document — that is a
+  separate task, done only when the teacher asks for it.
+- **Avoid new open-ended exercises** unless the DBA requires one and none exists: each one
+  waits for the teacher's approval before it can be used.
+- In the plan or the report, mark which exercises are reused and justify each new one in a few
+  words.
+
 ## Workflow
 
 1. **Reuse first:** `python3 tools/ejercicios.py listar --tema <tema> --grado <N>` and
    `mostrar <id>`. An exercise with estado `verificado` or `manual-aprobado` can be used as is.
-2. **New exercise:** add it to the right `recursos/banco/<area>/<tema>.py` (create the file if the tema
+2. **New exercise** (only if step 1 found nothing that fits — see above): add it to the right `recursos/banco/<area>/<tema>.py` (create the file if the tema
    is new; `matematicas/` or `fisica/`). Ids: `<tema-slug>-NNN`, never reused or renamed.
 3. **Run** `python3 tools/ejercicios.py verificar recursos/banco/<area>/<tema>.py`. A `falla` means the
    statement, the answer or the check is wrong: find which one and fix it — if the exercise

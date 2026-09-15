@@ -40,6 +40,25 @@
    carrotanque que descarga en una estación de gasolina de Cali, un globo en una fiesta).
    ¿Te parece bien?
 
+## Decisiones provisionales (2026-09-15, modo rápido: etapas B y C sin esperar la Revisión 1)
+
+Se tomaron las recomendaciones del propio plan; la docente puede cambiarlas en la revisión:
+
+1. **Cometa de Franklin:** se cuenta como «publicó cómo hacerlo y afirmó que funcionaba»; el paso
+   del hilo se apoya en el pararrayos documentado del almanaque de 1753.
+2. **Tales:** se presenta como tradición (Diógenes Laercio I.24, que cita a Aristóteles e
+   Hipias). Se cita la traducción inglesa de R. D. Hicks (Loeb, Harvard UP) en Perseus, que sí se
+   pudo verificar, en lugar de una edición española.
+3. **Contexto colombiano:** pararrayos contado desde Colombia (Younes, 2020); Saber 11 con
+   contextos de aquí (fiesta en Cali, finca del Valle).
+4. **Serie triboeléctrica:** vidrio, papel, lana, polietileno, PVC, de la tabla de AlphaLab en
+   la página del Departamento de Física de la Universidad de Iowa; vidrio frotado con seda
+   positivo, de OpenStax *College Physics 2e* §18.1. Se evitó el par pelo–globo (las series
+   publicadas no coinciden en él).
+5. **Referencia de los DBA verificada:** MEN (2016), *Derechos Básicos de Aprendizaje V.1:
+   Ciencias Naturales*, ISBN 978-958-691-923-4 (página de créditos del PDF oficial en Colombia
+   Aprende; catálogo del MEN lo registra en 2016). La guía anterior no traía ISBN.
+
 ## DBA y evidencias
 
 Fuente: `dba/naturales/grados/grado11.tex` (texto literal). Este trimestre trabaja **la primera
@@ -307,9 +326,41 @@ Verificadas el 2026-09-14. En la etapa C cada `\bibitem` lleva su `% verificado:
 - La carga elemental se da como 1,6 × 10⁻¹⁹ C; la guía usa 1,602 × 10⁻¹⁹ C: conviene decir que
   es un redondeo.
 
+## Etapa B — Ejercicios (2026-09-15)
+
+Regla de la docente (2026-09-15): reutilizar el banco y escribir solo lo que falta. Los ejemplos
+resueltos del marco teórico se cambiaron por ejercicios ya verificados (-006, -055, -048, -059)
+en lugar de escribir ejemplos nuevos. Todos `verificado`; ningún manual entra a la guía. (La regla
+estricta de «ningún ejercicio nuevo» no se aplica a esta guía: ya estaba terminada.)
+
+| Tema | Id | Uso | Estado | Origen |
+|---|---|---|---|---|
+| notación | notacion-cientifica-8-007, -008, -009 | pregunta 1 (a, b, c) | verificado | reusado |
+| notación | notacion-cientifica-8-002, -004, -006 | pregunta 2 (a, b, c) | verificado | reusado |
+| notación | notacion-cientifica-8-005 | pregunta 3 (suma) | verificado | reusado |
+| carga | electrostatica-11-006 | ejemplo (globo y lana) | verificado | reusado |
+| carga | electrostatica-guia-11-001 | predecir el signo (frotamiento y contacto) | verificado | **nuevo**: evidencia 1 del DBA, sin ejercicio verificado en el banco |
+| carga | electrostatica-11-053, -051, -052 | cuantización; contacto | verificado | reusado |
+| coulomb | electrostatica-11-055 | ejemplo (14,4 N) | verificado | reusado |
+| coulomb | electrostatica-11-048 | ejemplo (eléctrica contra gravitacional) | verificado | reusado |
+| coulomb | electrostatica-11-046, -047, -049, -054, -056, -050 | preguntas | verificado | reusado |
+| campo | electrostatica-11-059 | ejemplo (1,4 × 10⁴ N/C) | verificado | reusado |
+| campo | electrostatica-11-057, -058, -060 | preguntas | verificado | reusado |
+| Saber 11 | electrostatica-guia-11-002 (clave c) | carga del globo | verificado | **nuevo**: no hay selección verificada con contexto |
+| Saber 11 | electrostatica-guia-11-003 (clave a) | F con d/2 | verificado | **nuevo** (idem) |
+| Saber 11 | electrostatica-guia-11-004 (clave d) | inducción | verificado | **nuevo** (idem) |
+| Saber 11 | electrostatica-guia-11-005 (clave b) | fuerza sobre carga negativa | verificado | **nuevo** (idem) |
+
+Quedaron fuera del plan original, por no tener ejercicio verificado: la superposición en una
+línea con tres cargas, el «encuentra el error» de r en centímetros, el campo de una carga
+negativa como cálculo y el porqué de que las líneas no se crucen (cubiertos en la explicación).
+La parte argumentativa de Coulomb la cubre -056 (acción y reacción).
+
 ## Lo que viene
 
-- **Etapa B** (tras la aprobación de este plan): revisar los candidatos del banco
+- **Revisión 1 y 2 juntas** (modo rápido): la docente revisa las decisiones provisionales y la
+  tabla anterior. Luego se registra el banco con `python3 tools/ejercicios.py verificar`.
+- ~~**Etapa B**~~ (hecha arriba; texto original): revisar los candidatos del banco
   (`electrostatica-11`: 20 verificados y 44 manuales pendientes); escribir y verificar los que
   faltan —la predicción del signo por fricción y contacto, con su serie de materiales y su fuente;
   la notación científica en contexto de carga; las cuatro preguntas de Saber 11— y los ejemplos

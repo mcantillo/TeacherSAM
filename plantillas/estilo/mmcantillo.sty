@@ -135,7 +135,12 @@
 \newcommand{\mmc@periodo}{}
 \newcommand{\mmc@tiempo}{}
 \edef\mmc@anio{\the\year}
-\newcommand{\asignatura}[1]{\renewcommand{\mmc@asignatura}{#1}}
+% El área de la cabecera sigue a la asignatura: Física → Ciencias Naturales;
+% \area{...} la fija a mano (va después de \asignatura).
+\newcommand{\asignatura}[1]{\renewcommand{\mmc@asignatura}{#1}%
+  \edef\mmc@tempa{\detokenize{#1}}\edef\mmc@tempb{\detokenize{Física}}%
+  \ifx\mmc@tempa\mmc@tempb\renewcommand{\mmc@area}{Área de Ciencias Naturales}\fi}
+\newcommand{\area}[1]{\renewcommand{\mmc@area}{#1}}
 \newcommand{\tipodocumento}[1]{\renewcommand{\mmc@tipo}{#1}}
 \newcommand{\titulo}[1]{\renewcommand{\mmc@titulo}{#1}}
 \newcommand{\grado}[1]{\renewcommand{\mmc@grado}{#1}}

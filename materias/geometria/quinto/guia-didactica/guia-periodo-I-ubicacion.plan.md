@@ -230,11 +230,11 @@ Todas verificadas el 2026-09-14. En la etapa C cada `\bibitem` lleva su `% verif
 | Clave | Referencia | Veredicto | Corrección | URL |
 |---|---|---|---|---|
 | galileo1623 (frase) | Galilei, G. (1623). *Il Saggiatore*. Roma: Giacomo Mascardi. Pasaje del «grandissimo libro… scritto in lingua matematica, e i caratteri son triangoli, cerchi, ed altre figure geometriche» | confirmada (texto) | la URL anterior del Museo Galileo responde con error: se cambia la evidencia; se marca «trad. propia» | https://it.wikisource.org/wiki/Il_Saggiatore_(Favaro)/6 |
-| descartes1637 | Descartes, R. (1637). *La géométrie*, uno de los ensayos publicados con el *Discours de la méthode*. | confirmada (año y publicación con el *Discurso*) | la URL anterior de Gallica responde 403; en la etapa C se intenta de nuevo o se usa MacTutor | https://mathshistory.st-andrews.ac.uk/Extras/Descartes_La_Geometrie/ |
-| sepdescartes | Domski, M. (y otros), *Descartes' Mathematics*, *Stanford Encyclopedia of Philosophy*: en *La geometría* las incógnitas se toman como **coordenadas oblicuas** | confirmada | nueva: corrige la simplificación «dos rectas que se cruzan» | https://plato.stanford.edu/entries/descartes-mathematics/ |
-| nrichmosca | NRICH / wild.maths.org, *René Descartes and the Fly on the Ceiling* (la historia contada como leyenda) | confirmada como leyenda | nueva; la guía la presenta como leyenda | https://wild.maths.org/ren%C3%A9-descartes-and-fly-ceiling |
-| nasajohnson | NASA, *Katherine Johnson Biography* (Langley Research Center): trayectoria de Shepard (1961); Glenn (1962) pidió que ella verificara a mano los cálculos del computador | confirmada | «casi trescientos años» → «más de trescientos» (1637 → 1962) | https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/ |
-| fide | FIDE, *Laws of Chess*, Apéndice C, «Algebraic notation»: columnas con letras a–h, filas con números 1–8; «e4» | confirmada | nueva: sostiene el orden del ajedrez (columna, luego fila) | https://rcc.fide.com/appendixc/ |
+| descartes1637 | Descartes, R. (1637). *La géométrie*, uno de los ensayos publicados con el *Discours de la méthode*. | confirmada (año y publicación con el *Discurso*) | etapa C: se usa MacTutor como evidencia («published as an appendix to *Discours de la méthode* (1637)»); se quita la editorial y la ciudad, que esa página no confirma | https://mathshistory.st-andrews.ac.uk/Extras/Descartes_La_Geometrie/ |
+| sepdescartes | **Domski, M.** (2025). *Descartes' Mathematics*. En E. N. Zalta y U. Nodelman (eds.), *Stanford Encyclopedia of Philosophy* (edición de verano de 2025): AB y BC se toman como «oblique coordinates» | confirmada | etapa C: autora única confirmada (se quita «y otros»); primera publicación 2011, revisión sustancial 7 abr. 2025. La guía dice solo que Descartes no exigía rectas perpendiculares (no afirma quién las generalizó) | https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-mathematics |
+| nrichmosca | Millennium Mathematics Project (Universidad de Cambridge), wild.maths.org, *René Descartes and the Fly on the Ceiling* («Legend has it…») | confirmada como leyenda | nueva; la guía la presenta como leyenda | https://wild.maths.org/ren%C3%A9-descartes-and-fly-ceiling |
+| nasajohnson | NASA, *Katherine Johnson Biography* (Langley Research Center): trayectoria de Shepard (1961); Glenn (1962) pidió que ella verificara a mano los cálculos del computador: «If she says they're good, then I'm ready to go» | confirmada | «casi trescientos años» → «más de trescientos» (1637 → 1962); etapa C: la frase de Glenn entra como cita corta (trad. propia) | https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/ |
+| fide | FIDE, *Laws of Chess* (vigentes desde el 1 de enero de 2023), Apéndice C, «Algebraic notation»: columnas con letras a–h, filas con números 1–8; «e4» | confirmada | etapa C: la URL anterior (rcc.fide.com/appendixc) responde 404; se cambia al Handbook oficial | https://handbook.fide.com/chapter/E012023 |
 | igac | Instituto Geográfico Agustín Codazzi. *Geoportal*. | confirmada (portal oficial) | — | https://geoportal.igac.gov.co/ |
 | mendba | Ministerio de Educación Nacional (2016). *Derechos Básicos de Aprendizaje V.2: Matemáticas*. Bogotá: MEN. | confirmada | **ISBN corregido**: 978-958-691-913-5 (la guía anterior decía 925-8) | https://gblumen.mineducacion.gov.co/cgi-bin/koha/opac-detail.pl?biblionumber=4785 |
 
@@ -246,11 +246,64 @@ Todas verificadas el 2026-09-14. En la etapa C cada `\bibitem` lleva su `% verif
   recurso, pero no sirven aquí.
 - `plano-cartesiano-5-004` sigue en estado `manual-pendiente`.
 
+## Modo rápido (2026-09-14): etapas B y C sin esperar la Revisión 1
+
+A pedido del usuario, las etapas B y C se hicieron el mismo día, sin la Revisión 1 ni la 2. Las
+preguntas abiertas del plan se resolvieron con su propia recomendación, como **decisiones
+provisionales** que la docente confirma o cambia al revisar el PDF:
+
+- **P1 (escala en el tema 4):** sin escala. El tema 4 trabaja solo coordenadas, puntos cardinales
+  y recorridos en cuadras; la escala queda para el trimestre en que se trabaje proporcionalidad
+  (`semejanza-escala-5` no se usa aquí). El mapa se rotula «simplificado, sin escala».
+- **P2 (cuadrantes):** se nombran los cuatro, con un dibujo, y se dice que los otros tres
+  necesitan números negativos; todos los ejercicios están en el primer cuadrante.
+- **Referencia sin verificar (autor de la entrada de la SEP):** resuelta: Mary Domski, autora
+  única (ver la tabla de referencias).
+- Ejercicio planeado 2 del tema 1 («orden invertido»): con letras para las filas y números para
+  las columnas el par invertido no se confunde, así que el error se cambió por **contar las filas
+  desde el fondo** del salón (llega al puesto de otra persona). El ejercicio 5 del tema 2
+  («(2, 5) frente a (5, 2)») queda cubierto por el ejemplo resuelto de $P(2, 3)$ y $(3, 2)$ y por
+  el resumen; en su lugar entra `plano-cartesiano-5-005` (el origen), para no pasar de 5 preguntas.
+
+## Etapa B — ejercicios del banco (2026-09-14)
+
+Nuevos en `recursos/banco/matematicas/ubicacion-5.py` (20 verificados con SymPy con
+`verificar --sin-registro`, 1 manual pendiente; aún no están en `verificados.json`: falta la
+corrida de registro única). Las figuras de la guía están como datos en ese archivo (`SALON`,
+`COLEGIO`, `PUNTOS`, `MAPA`). **E** = ejemplo resuelto de la explicación; **M** = manual.
+
+| Tema | Uso | Id | Enunciado (corto) | Respuesta | Estado |
+|---|---|---|---|---|---|
+| 1 | E | ubicacion-5-001 | ¿Dónde está Andrés? ¿Quién está en (D, 3)? | (B, 4); Nicolás | verificado |
+| 1 | 1 | ubicacion-5-002 | Posición de Sofía e Isabela; qué hay en (A, 5) y (D, 5) | (A, 2); (C, 1); escritorio; estante | verificado |
+| 1 | 2 | ubicacion-5-003 | Error: Camilo cuenta las filas desde el fondo | llega a Juliana en (C, 4); lo correcto es (B, 4) | verificado |
+| 1 | 3 | ubicacion-5-004 | Plano del colegio: norte, occidente, izquierda y espalda mirando al oriente | biblioteca; portería; biblioteca; portería | verificado |
+| 1 | 4 | ubicacion-5-005 | Diseñar un sistema de referencia para la biblioteca o el parqueadero | abierta (criterios) | **M pendiente** (comentado en la guía) |
+| 2 | E | ubicacion-5-006 | Ubicar P(2, 3); ¿es (3, 2)? | 2 a la derecha, 3 arriba; no | verificado |
+| 2 | E | ubicacion-5-007 | Banco a 3 al oriente y 2 al norte del hotel | (3, 2) | verificado |
+| 2 | 1 | plano-cartesiano-5-005 | Par ordenado del origen | (0, 0) | verificado (reuso) |
+| 2 | 2 | ubicacion-5-008 | Leer A–E; ¿cuáles están sobre un eje? | A(1, 4) … E(6, 0); D en eje y, E en eje x | verificado |
+| 2 | 3 | ubicacion-5-010 | Cardinales ↔ pares desde el hotel | (4, 1); (0, 5); 6 or. 2 n.; 3 or. | verificado |
+| 2 | 4 | ubicacion-5-009 | Andrés en las dos convenciones | (B, 4) y (4, 3) | verificado |
+| 2 | 5 | ubicacion-5-011 | Cuarto vértice de un rectángulo | (1, 4); base 4, altura 3 | verificado |
+| 3 | E | ubicacion-5-012 | Tres caminos del hotel al zoológico | 5, 5 y 7 cuadras | verificado |
+| 3 | 1 | ubicacion-5-013 | Seguir instrucciones desde (0, 2) | giros (3, 2), (3, 4), (4, 4); llega a (4, 3); 7 cuadras | verificado |
+| 3 | 2 | ubicacion-5-014 | Instrucciones de una trayectoria dibujada | 3 sur, 5 oriente, 2 norte; 10 cuadras | verificado |
+| 3 | 3 | ubicacion-5-015 | Dos caminos más cortos de (2, 1) a (5, 4); vuelta de más | 6 cuadras; 3 or. y 3 n.; 8 con vuelta | verificado |
+| 3 | 4 | ubicacion-5-016 | Esquinas cerradas por obras | 8 cuadras; 4 de más | verificado |
+| 4 | E | ubicacion-5-017 | Parque en el mapa y cómo llegar desde el hotel | (5, 3); 4 or. y 2 n. | verificado |
+| 4 | 1 | ubicacion-5-018 | Qué hay en (2, 4) y (6, 1); coordenadas de iglesia y MIO | biblioteca; museo; (7, 5); (4, 1) | verificado |
+| 4 | 2 | ubicacion-5-019 | Posiciones relativas con puntos cardinales | 2 or. 2 n.; 4 occ. 3 n.; 3 occ. | verificado |
+| 4 | 3 | ubicacion-5-020 | Mensaje a Tatiana: hotel → biblioteca → parque → iglesia | 4 + 4 + 4 = 12 cuadras | verificado |
+| 4 | 4 | ubicacion-5-021 | Otro orden: hotel → parque → biblioteca → iglesia | 16 cuadras; conviene el primero | verificado |
+
+## Etapa C — documento LaTeX (2026-09-14)
+
+`guia-periodo-I-ubicacion.tex` reemplaza la versión anterior al proceso. Etiquetas conservadas:
+`tema:referencia`, `tema:plano`, `tema:trayectorias`, `tema:mapas`.
+
 ## Lo que viene
 
-- **Etapa B** (tras la aprobación de este plan): reutilizar `plano-cartesiano-5-005`; escribir y
-  verificar los nuevos (cuadrícula del salón, cambio de convención, puntos cardinales, figuras,
-  trayectorias y camino más corto, mapa del barrio, mensaje a Tatiana); tabla
-  id · enunciado · respuesta · estado para la Revisión 2.
-- **Etapa C:** reemplazar el `.tex` actual; dibujar el mapa simplificado con TikZ (números hacia la
-  derecha y hacia arriba) y rehacer las figuras del salón con el mismo acuerdo de la semana 03.
+- **Revisión 3** (la docente revisa el PDF) junto con las decisiones provisionales de arriba y
+  la aprobación de `ubicacion-5-005` (`python3 tools/ejercicios.py aprobar ubicacion-5-005`).
+- Registrar el archivo nuevo en `verificados.json` con una sola corrida de `verificar`.

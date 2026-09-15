@@ -2,6 +2,16 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-15
+
+- **Regla del banco:** los documentos usan solo ejercicios del banco; por defecto no se crean
+  ejercicios nuevos (skills `verificar-ejercicios` y `crear-guia`). Si falta uno, se anota como
+  pendiente.
+- **Cabecera de Física:** con `\asignatura{Física}` la cabecera dice «Área de Ciencias
+  Naturales»; `\area{…}` la cambia a mano (`mmcantillo.sty`, `plantillas/README.md`).
+- Guías del trimestre I en generación rápida (varios agentes a la vez): Geometría 5°, 8° y 10°
+  y Física 11° terminadas; las demás en curso.
+
 ## 2026-09-14
 
 - **Calendario oficial** en `programacion-2026-2027.md`; se regeneraron los 16

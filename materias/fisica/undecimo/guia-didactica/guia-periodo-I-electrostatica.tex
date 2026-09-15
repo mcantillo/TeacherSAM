@@ -1,8 +1,18 @@
 % =====================================================================
 % Guía del estudiante -- Física 11° -- Trimestre I
+% María Mercedes Cantillo · Colegio San Alberto Magno
+% ---------------------------------------------------------------------
 % Hilo conductor: De Tales al pararrayos
-% Temas (de curriculo/programacion.csv, clases 001-021):
+% Plan (etapas A y B): guia-periodo-I-electrostatica.plan.md
+% Temas (de curriculo/programacion.csv, sesiones 001-021):
 %   notacion, carga, coulomb, campo
+% Cada \tema tiene \label{tema:...} para que las clases lo citen con
+% \refguia{tema:...}. No borrar el .aux de esta guía.
+% Ejercicios: reusados de recursos/banco/fisica/electrostatica-11.py y
+% recursos/banco/matematicas/notacion-cientifica-8.py; nuevos (5) en
+% recursos/banco/fisica/electrostatica-guia-11.py.
+%
+% Compilar:  latexmk -pdf guia-periodo-I-electrostatica.tex
 % =====================================================================
 \documentclass[11pt]{article}
 \makeatletter\def\input@path{{../../../../plantillas/estilo/}}\makeatother
@@ -16,10 +26,13 @@
 \periodo{I}
 \hiloconductor{De Tales al pararrayos}
 % ======================================================================
-% DBA: naturales grado 11 · DBA 2 — Comprende que la interacción de las cargas en reposo
-% genera fuerzas eléctricas y que cuando las cargas están en movimiento genera fuerzas
-% magnéticas. (dba/naturales/grados/grado11.tex; en este trimestre se trabaja la primera
-% parte: cargas en reposo.)
+% DBA: naturales grado 11 · DBA 2 — Comprende que la interacción de las cargas
+%      en reposo genera fuerzas eléctricas y que cuando las cargas están en
+%      movimiento genera fuerzas magnéticas. (Trimestre I: primera parte,
+%      cargas en reposo; evidencias 1 y 2.)
+
+% Carga puntual para las figuras: \carga{x,y}{signo}
+\newcommand{\carga}[2]{\draw[fill=white] (#1) circle (0.28); \node at (#1) {$#2$};}
 
 \begin{document}
 
@@ -29,8 +42,8 @@
 % 1. Frase introductoria
 % ---------------------------------------------------------------------
 % verificado: https://founders.archives.gov/documents/Franklin/01-04-02-0135 — Pennsylvania Gazette, 19 oct. 1752: «and thereby the Sameness of the Electric Matter with that of Lightning compleatly demonstrated»
-\frase{Con el fuego eléctrico así obtenido [\ldots] queda completamente demostrada la
-identidad de la materia eléctrica con la del rayo.}
+\frase{[\ldots] y así queda completamente demostrada la identidad de la materia
+eléctrica con la del rayo.}
 {Benjamin Franklin, \emph{Pennsylvania Gazette} (19 de octubre de 1752), trad. propia}
 
 % ---------------------------------------------------------------------
@@ -38,43 +51,51 @@ identidad de la materia eléctrica con la del rayo.}
 % ---------------------------------------------------------------------
 \seccion{Introducción}
 
-Cuando te quitas un saco de lana y escuchas un chisporroteo, cuando el pelo se te pega al
-peine, cuando sientes un corrientazo al tocar la puerta de un carro: en todos esos casos
-está ocurriendo lo mismo que en un rayo, solo que a una escala millones de veces menor. En
-este trimestre vamos a estudiar de dónde salen esas fuerzas, cómo se calculan y por qué
-actúan a distancia, sin que nada visible conecte a los objetos.
+Cuando te quitas un saco de lana y escuchas un chisporroteo, cuando el pelo se
+te pega a la peinilla, cuando sientes un corrientazo al tocar la puerta de un
+carro: en todos esos casos ocurre lo mismo que en un rayo, a una escala
+muchísimo menor. Este trimestre estudiaremos de dónde salen esas fuerzas, cómo
+se calculan y por qué actúan a distancia, sin que nada visible conecte a los
+objetos.
 
-Nuestro hilo conductor es una historia de 2600 años. Empieza con un filósofo griego que
-frota un trozo de ámbar, sigue con un médico inglés que separa dos fenómenos que todo el
-mundo confundía, pasa por un ingeniero francés que pesa una fuerza invisible con una
-balanza de hilos, y termina con un impresor de Filadelfia que sube una cometa en plena
-tormenta y regresa con la idea del pararrayos. En cada tema daremos un paso de esa
-historia.
+Nuestro hilo conductor es una historia de más de dos mil años. Empieza con un
+trozo de ámbar frotado que la tradición griega asocia con Tales de Mileto,
+sigue con un médico inglés que separó dos fenómenos que todos confundían, pasa
+por un ingeniero francés que midió una fuerza invisible con un hilo de plata,
+y termina con un impresor de Filadelfia que propuso que el rayo es
+electricidad y enseñó a desviarlo con una varilla de hierro: el pararrayos. En
+Colombia, uno de los países con más rayos del mundo, ese invento sigue
+salvando vidas.
 
 \textbf{Al terminar este trimestre podrás:}
 \begin{itemize}
-  \item expresar cantidades muy grandes y muy pequeñas en notación científica y comparar
-        órdenes de magnitud;
-  \item explicar cómo se electriza un cuerpo por frotamiento, contacto e inducción, y
-        distinguir conductores de aislantes;
-  \item calcular la fuerza eléctrica entre cargas puntuales con la ley de Coulomb y sumar
-        las fuerzas de varias cargas;
-  \item describir el campo eléctrico de una o varias cargas, dibujar sus líneas y usarlo
-        para explicar aplicaciones como el pararrayos.
+  \item expresar cantidades muy grandes y muy pequeñas en notación científica y
+        comparar órdenes de magnitud;
+  \item predecir el signo de la carga que adquiere un material al frotarlo o
+        al tocarlo con otro, y explicar la electrización por inducción;
+  \item calcular la fuerza eléctrica entre cargas puntuales con la ley de
+        Coulomb, sumar fuerzas de varias cargas y compararla con la gravedad;
+  \item describir el campo eléctrico de una o varias cargas, dibujar sus líneas
+        y usarlo para explicar el pararrayos y la jaula de Faraday.
 \end{itemize}
 
-Este trimestre trabaja el siguiente Derecho Básico de Aprendizaje del Ministerio de
-Educación Nacional~\cite{mendba}; en el trimestre I nos ocupamos de su primera parte, las
-cargas en reposo:
+\Needspace{8\baselineskip}
+Este trimestre trabaja la primera parte (las cargas en reposo) del siguiente
+Derecho Básico de Aprendizaje del Ministerio de Educación
+Nacional~\cite{mendba}; la segunda parte, las cargas en movimiento, es del
+trimestre II:
 
-\begin{dba}[Grado 11 · DBA 2]
-Comprende que la interacción de las cargas en reposo genera fuerzas eléctricas y que cuando
-las cargas están en movimiento genera fuerzas magnéticas.
+\begin{dba}[Grado 11° · DBA 2]
+Comprende que la interacción de las cargas en reposo genera fuerzas eléctricas
+y que cuando las cargas están en movimiento genera fuerzas magnéticas.
 \end{dba}
 
-También responde a los estándares del grupo de grados 10.º--11.º de Ciencias
-Naturales~\cite{menestandares}: establecer relaciones entre fuerzas macroscópicas y fuerzas
-electrostáticas, y entre el campo gravitacional y el electrostático.
+También responde a dos estándares de Ciencias Naturales del grupo de grados
+10.º--11.º~\cite{menestandares}: «Establezco relaciones entre fuerzas
+macroscópicas y fuerzas electrostáticas» y «Establezco relaciones entre campo
+gravitacional y electrostático y entre campo eléctrico y magnético». El primer
+tema, la notación científica, no corresponde a ningún DBA de física: es la
+herramienta con la que trabajaremos todo el trimestre.
 
 % ---------------------------------------------------------------------
 % 3. Marco teórico
@@ -83,52 +104,78 @@ electrostáticas, y entre el campo gravitacional y el electrostático.
 
 \subsubsection*{Un trozo de ámbar y una palabra griega}
 
-La primera observación registrada de la electricidad es muy sencilla: al frotar ámbar con
-un paño, el ámbar atrae plumas, hilos y trocitos de paja. La tradición griega atribuye esa
-observación a Tales de Mileto, en el siglo \textsc{vi} a.\,C. El ámbar se llamaba en griego
-\emph{élektron}, y de esa palabra viene todo el vocabulario que usamos hoy: electricidad,
-electrón, electrónica.
+La observación más antigua de la electricidad es muy sencilla: el ámbar
+frotado atrae pajitas, hilos y plumas. La tradición griega atribuye esa
+observación a Tales de Mileto, en el siglo \textsc{vi} a.\,C.: Diógenes
+Laercio, que escribió unos ochocientos años después, cuenta que según
+Aristóteles e Hipias, Tales les atribuía alma incluso a los objetos
+inanimados, apoyándose en el imán y en el ámbar~\cite{laercio}. No se conserva
+nada escrito por Tales, así que es una tradición, no un dato seguro. El ámbar
+se llamaba en griego \emph{élektron}, y de esa palabra viene todo nuestro
+vocabulario: electricidad, electrón, electrónica.
 
-Durante veintiún siglos no pasó mucho más. En 1600, el médico inglés William Gilbert
-publicó \emph{De magnete}~\cite{gilbert1600}, el primer estudio sistemático del magnetismo
-y de lo que él llamó los cuerpos \emph{eléctricos}: los que, como el ámbar, atraen objetos
-livianos después de ser frotados. Gilbert hizo algo que parece obvio y no lo era: mostró
-que la atracción del imán y la atracción del ámbar son fenómenos \emph{distintos}. Hoy
-sabemos que están profundamente relacionados ---eso es justamente lo que dice la segunda
-parte de nuestro DBA--- pero para entenderlos primero había que separarlos.
+\subsubsection*{Gilbert separa dos fenómenos}
+
+En 1600 el médico inglés William Gilbert publicó \emph{De magnete}
+\cite{gilbert1600}, el primer estudio sistemático del magnetismo. Allí mostró
+que no solo el ámbar: unas treinta sustancias ---vidrio, azufre, lacre, varias
+piedras preciosas--- atraen objetos livianos al ser frotadas. Las llamó
+\emph{electrica}, palabra que inventó a partir de \emph{élektron}, y las
+detectó con un instrumento propio, el \emph{versorium}, una aguja que gira
+libre sobre un pivote. Sobre todo, mostró que la atracción del ámbar y la del
+imán son fenómenos \textbf{distintos}. Hoy sabemos que están profundamente
+relacionados ---eso dice la segunda parte de nuestro DBA---, pero para
+entenderlos primero había que separarlos.
 
 \subsubsection*{Medir lo invisible}
 
-En el siglo \textsc{xviii} la electricidad pasó de curiosidad de salón a objeto de medida.
-En 1785, el ingeniero militar francés Charles-Augustin de Coulomb presentó a la Academia de
-Ciencias un experimento hecho con una balanza de torsión: una aguja colgada de un hilo muy
-fino, tan sensible que el giro del hilo permitía medir fuerzas diminutas~\cite{coulomb1785}.
-Con ella estableció que la fuerza entre dos cuerpos electrizados disminuye con el cuadrado
-de la distancia, igual que la fuerza de gravedad de Newton. Dos fuerzas muy distintas
-obedecen la misma forma matemática: esa es una de las razones por las que la física confía
-en las matemáticas.
+En 1785, el ingeniero militar francés Charles-Augustin de Coulomb presentó a
+la Academia de Ciencias de París su primera memoria sobre la
+electricidad~\cite{coulomb1785}: dentro de un cilindro de vidrio colgó una
+aguja de un hilo de plata tan fino que bastaba una fuerza diminuta para
+torcerlo. Midiendo cuánto giraba el hilo cuando dos esferitas cargadas se
+repelían, estableció que la fuerza entre ellas es inversamente proporcional al
+cuadrado de la distancia: la misma forma matemática de la gravedad de Newton,
+para una fuerza muy distinta.
 
-En esos mismos años, la ciencia experimental europea empezaba, muy lentamente, a abrirse a
-las mujeres. Laura Bassi se graduó en filosofía en la Universidad de Bolonia en 1732, a los
-veinte años, y en 1776 obtuvo la cátedra de física experimental del Instituto de Ciencias
-de esa ciudad~\cite{bassi}: fue una de las primeras mujeres de Europa en enseñar física
-experimental en una universidad, en la misma época en que Coulomb hacía sus mediciones.
+\subsubsection*{Laura Bassi}
+
+En esos mismos años, la física experimental europea empezaba, muy despacio, a
+abrirse a las mujeres. Laura Bassi (Bolonia, 1711) se graduó en filosofía en
+la Universidad de Bolonia en 1732, a los veinte años, y en 1776 obtuvo la
+cátedra de física experimental del Istituto delle Scienze de su
+ciudad~\cite{bassi}: una de las primeras mujeres de Europa en enseñar física
+en una institución universitaria, en la misma época en que Coulomb hacía sus
+mediciones.
 
 \subsubsection*{Del rayo al pararrayos}
 
-Mientras tanto, en Filadelfia, Benjamin Franklin sostenía una idea arriesgada: que el rayo
-no era un castigo divino ni un fenómeno aparte, sino el mismo tipo de electricidad que se
-produce frotando vidrio, solo que a una escala enorme. En octubre de 1752 publicó las
-instrucciones del experimento de la cometa con una llave~\cite{franklin1752}, y de ahí salió
-un invento que todavía protege los edificios de tu ciudad: el pararrayos. La frase con la
-que abre esta guía es suya.
+En Filadelfia, Benjamin Franklin sostenía que el rayo era la misma
+electricidad que se produce frotando vidrio, a una escala enorme. El 19 de
+octubre de 1752 publicó cómo comprobarlo con una cometa y una llave, y afirmó
+que el experimento funcionaba~\cite{franklin1752}. Todo lo que se sabe de cómo
+y cuándo lo hizo viene de esa carta y de un relato de Joseph Priestley de
+1767, y algunos historiadores dudan de que lo haya realizado él
+mismo~\cite{debatecometa}. Lo que sí está documentado es lo que siguió: en su
+almanaque para 1753 explicó cómo proteger una casa con una varilla de hierro
+terminada en punta, con el otro extremo enterrado en el suelo húmedo: el
+pararrayos~\cite{franklin1753}.
 
-El paso final de la historia es una idea que cambió la física: en lugar de pensar que dos
-cargas se jalan «a distancia», podemos decir que cada carga modifica el espacio a su
-alrededor ---crea un \textbf{campo}--- y que la otra carga responde al campo que hay donde
-ella está. Esa manera de verlo, que se formalizó en el siglo \textsc{xix}, es la que
-usaremos en el último tema y la que nos llevará, el próximo trimestre, a la corriente y al
-magnetismo~\cite{serway2019}.
+\subsubsection*{Del empujón a distancia al campo}
+
+Queda una pregunta: si nada toca a una carga, ¿cómo le llega la fuerza? En el
+siglo \textsc{xix} la física respondió con una idea nueva: cada carga modifica
+el espacio que la rodea ---crea un \textbf{campo}--- y la otra carga responde
+al campo que hay donde ella está~\cite{serway}. Esa idea es el último tema del
+trimestre y la puerta a la corriente y al magnetismo del trimestre II.
+
+\subsubsection*{En Colombia}
+
+Por su ubicación tropical y su relieve, Colombia es un caso especial en el
+estudio del rayo: tiene una de las actividades eléctricas atmosféricas más
+altas del mundo, y se mide desde hace más de veinte años con redes de sensores
+en tierra y con satélites~\cite{younes2020}. Aquí el invento de Franklin no es
+una curiosidad histórica.
 
 % ---------------------------------------------------------------------
 % 4. Temas
@@ -136,379 +183,550 @@ magnetismo~\cite{serway2019}.
 \tema{Notación científica y orden de magnitud}\label{tema:notacion}
 
 \begin{hilo}
-Tales frota su ámbar y atrae una pluma. La fuerza que actúa ahí es minúscula, y la cantidad
-de carga que se transfiere también: para hablar de ella necesitaríamos escribir
-\num{0,000000001} coulomb. Antes de estudiar la electricidad hay que aprender a escribir
-los números con los que trabaja.
+El ámbar frotado atrae una pajita, pero la carga que se lleva es del orden de
+unos nanocoulombs: $\num{0,000000001}$~C. Para hablar de la electricidad hay
+que saber escribir números muy pequeños y muy grandes.
 \end{hilo}
 
-Un número está en \textbf{notación científica} cuando se escribe como $a \times 10^{n}$, con
-$1 \le |a| < 10$ y $n$ entero. El \textbf{orden de magnitud} de una cantidad es la potencia
-de diez que más se le parece: sirve para comparar sin hacer cuentas exactas.
+\begin{definicion}[Notación científica y orden de magnitud]
+Un número está en \textbf{notación científica} cuando se escribe como
+$a \times 10^{n}$, con $1 \le |a| < 10$ y $n$ entero. El \textbf{orden de
+magnitud} de una cantidad es la potencia de diez más cercana a ella: sirve
+para comparar sin hacer cuentas exactas.
+\end{definicion}
 
-\begin{ejemplo}[Las constantes de este trimestre]
-La carga de un electrón es $e = \num{1,602e-19}$ C; su masa, $m_e = \num{9,11e-31}$ kg; y la
-constante eléctrica que usaremos, $k = \num{8,99e9}$ N\,m\textsuperscript{2}/C\textsuperscript{2}.
-La carga del electrón es diminuta y $k$ es enorme: escritas sin potencias de diez, la
-primera tendría 18 ceros después de la coma y la segunda, diez cifras. Por eso en este
-trimestre todo se escribe en notación científica.
+\begin{ejemplo}[Prefijos y constantes del trimestre]
+$\qty{1}{\micro\coulomb} = \qty{e-6}{C}$, $\qty{1}{\nano\coulomb} =
+\qty{e-9}{C}$, $\qty{1}{\kilo\newton} = \qty{e3}{N}$: escribir
+$\qty{2,5}{\micro\coulomb}$ es más cómodo que $\qty{0,0000025}{C}$, y es el
+mismo número. Las constantes que usaremos son la carga elemental
+$e = \qty{1,602e-19}{C}$ (muchos libros la redondean a $\num{1,6e-19}$), la
+masa del electrón $m_e = \qty{9,11e-31}{kg}$ y la constante de Coulomb
+$k = \qty{8,99e9}{N.m^2/C^2}$.
 \end{ejemplo}
 
-\begin{ejemplo}[Prefijos]
-$\qty{1}{\micro\coulomb} = \num{1e-6}$ C, $\qty{1}{\nano\coulomb} = \num{1e-9}$ C,
-$\qty{1}{\kilo\newton} = \num{1e3}$ N. Escribir \qty{2,5}{\micro\coulomb} es más cómodo que
-escribir \num{0,0000025} C, y es el mismo número.
-\end{ejemplo}
-
-\begin{aplicacion}[Por qué a los físicos les importan los órdenes de magnitud]
-Antes de resolver un problema, un físico estima. Si vas a calcular la fuerza entre dos
-cargas típicas de laboratorio y te da un resultado del orden de \num{e12} N ---más que el
-peso de una montaña--- casi seguro te equivocaste en una potencia de diez. La estimación no
+\Needspace{7\baselineskip}
+\begin{aplicacion}[Estimar antes de calcular]
+Antes de resolver un problema, un físico estima. Si la fuerza entre dos cargas
+de laboratorio te da del orden de $\qty{e12}{N}$ ---más que el peso de una
+montaña---, casi seguro pusiste mal una potencia de diez. La estimación no
 reemplaza el cálculo: lo protege.
 \end{aplicacion}
 
 \begin{preguntas}
-\pregunta Escribe en notación científica: la distancia \qty{0,000045}{m}, la carga
-\qty{32000}{\nano\coulomb} expresada en coulomb, y la masa \qty{0,0000000012}{kg}.
+% Ejercicio: notacion-cientifica-8-007, notacion-cientifica-8-008, notacion-cientifica-8-009
+\pregunta Escribe en notación científica:
+\begin{opciones*}(3)
+  \item $\num{0,093}$
+  \item $\num{0,00053}$
+  \item $\num{0,000000000023}$
+\end{opciones*}
+\espacio{2cm}
+% Ejercicio: notacion-cientifica-8-002, notacion-cientifica-8-004, notacion-cientifica-8-006
+\pregunta Efectúa las operaciones y escribe el resultado en notación científica:
+\begin{opciones*}(3)
+  \item $12 \cdot 10^{5} \cdot 10^{8}$
+  \item $9\,000\,000 \times 5000$
+  \item $25\,000 \times 186\,000\,000$
+\end{opciones*}
 \espacio{2.5cm}
-\pregunta ¿Cuántos electrones hacen falta para reunir una carga de \qty{1}{\nano\coulomb}?
-Escribe el resultado en notación científica.
-\espacio{3cm}
-\pregunta Un estudiante afirma que $\num{4e-6} + \num{3e-7} = \num{7e-13}$. Encuentra el
-error, explícalo con tus palabras y da el resultado correcto.
-\renglones{3}
+% Ejercicio: notacion-cientifica-8-005
+\pregunta Efectúa la suma $7 \cdot 10^{2} + 4 \cdot 10^{3}$ y escribe el
+resultado en notación científica. ¿Por qué no basta con sumar $7 + 4$?
+\espacio{2.5cm}
 \end{preguntas}
 
 \begin{resumen}
 \begin{itemize}
-  \item En notación científica todo número se escribe como $a\times 10^{n}$ con
-        $1 \le |a| < 10$.
-  \item El orden de magnitud es la potencia de diez más cercana: sirve para comparar y para
-        detectar errores.
-  \item Los prefijos (micro, nano, kilo) son notación científica disfrazada.
+  \item Notación científica: $a \times 10^{n}$ con $1 \le |a| < 10$.
+  \item El orden de magnitud sirve para comparar y para detectar errores.
+  \item Los prefijos (micro, nano, kilo) son potencias de diez con nombre.
+  \item Para sumar en notación científica se iguala primero la potencia de diez.
 \end{itemize}
 \end{resumen}
 
+% ---------------------------------------------------------------------
 \tema{La carga eléctrica}\label{tema:carga}
 
 \begin{hilo}
-Gilbert repite el experimento del ámbar cientos de veces, con azufre, vidrio, resina y
-piedras preciosas, y anota cuáles atraen y cuáles no. Está haciendo lo que tú harás en el
-laboratorio de este tema: clasificar los materiales según cómo se comportan al frotarlos.
+Gilbert frotó decenas de materiales y anotó cuáles atraían. En el laboratorio
+de este tema haremos lo mismo, pero preguntando además \emph{qué signo}
+adquiere cada uno.
 \end{hilo}
 
 \begin{definicion}[Carga eléctrica]
-La carga eléctrica es una propiedad de la materia que existe en dos clases, llamadas
-\emph{positiva} y \emph{negativa}. Cargas de la misma clase se repelen; cargas de clases
-distintas se atraen. Su unidad en el SI es el \textbf{coulomb} (C).
+La carga eléctrica es una propiedad de la materia que existe en dos clases,
+\emph{positiva} y \emph{negativa}. Cargas del mismo signo se repelen y de
+signos contrarios se atraen. Su unidad en el SI es el \textbf{coulomb} (C).
+En el átomo, los protones del núcleo tienen carga positiva y los electrones,
+que lo rodean, carga negativa de igual valor.
 \end{definicion}
 
-Sobre la carga hay dos principios que conviene tener claros desde el comienzo:
-
+Dos principios gobiernan la carga:
 \begin{itemize}
-  \item \textbf{Conservación:} la carga no se crea ni se destruye. Cuando frotas un globo
-        contra tu pelo, no aparece carga nueva: unos electrones \emph{pasan} del pelo al
-        globo, y el globo queda negativo justo en la misma medida en que el pelo queda
-        positivo.
-  \item \textbf{Cuantización:} toda carga es un múltiplo entero de la carga elemental,
-        $q = n\,e$ con $e = \num{1,602e-19}$ C. No existe media carga elemental.
+  \item \textbf{Conservación:} la carga no se crea ni se destruye; solo pasa
+        de un cuerpo a otro. Cuando un cuerpo gana electrones, otro los pierde.
+  \item \textbf{Cuantización:} toda carga es un múltiplo entero de la carga
+        elemental: $q = n\,e$. No existe media carga elemental.
 \end{itemize}
 
-Un cuerpo se electriza de tres maneras. Por \textbf{frotamiento}, cuando dos materiales
-distintos se rozan y uno le arranca electrones al otro. Por \textbf{contacto}, cuando un
-cuerpo cargado toca a otro y le comparte parte de su carga: los dos quedan con carga del
-mismo signo. Y por \textbf{inducción}, cuando un cuerpo cargado se \emph{acerca} sin tocar y
-obliga a las cargas del otro a reacomodarse; si en ese momento el segundo cuerpo se conecta
-a tierra, queda cargado con el signo contrario al del inductor.
-
-Los materiales en los que las cargas se mueven con facilidad se llaman \textbf{conductores}
-(los metales, el agua con sales, el cuerpo humano); aquellos en los que las cargas se quedan
-donde se depositan son \textbf{aislantes} (el vidrio, el plástico, la madera seca, el
-caucho).
-
-\begin{ejemplo}[¿Cuántos electrones sobran?]
-Un globo frotado adquiere una carga de $\qty{-2}{\nano\coulomb}$. Como
-$q = n\,e$, el número de electrones en exceso es
+% Ejercicio: electrostatica-11-006
+\begin{ejemplo}[El globo y la lana]
+Al frotar con lana un globo inflado, el globo gana dos millones de electrones.
+El globo queda con carga negativa (ganó electrones) y la lana con carga
+positiva (los perdió), de igual valor, porque la carga se conserva:
 \[
-  n = \frac{\num{2e-9}}{\num{1,602e-19}} \approx \num{1,25e10},
+  q_{\text{globo}} = -n\,e = -(\num{2e6})(\qty{1,6e-19}{C}) \approx
+  \qty{-3,2e-13}{C}, \qquad q_{\text{lana}} \approx \qty{+3,2e-13}{C}.
 \]
-es decir, unos doce mil quinientos millones de electrones de más. Parece muchísimo, pero es
-una fracción minúscula de los electrones que tiene el globo.
+Dos millones de electrones parecen muchos, pero son una fracción minúscula de
+los que tiene el globo.
 \end{ejemplo}
 
-\begin{aplicacion}[Por qué los camiones de combustible se conectan a tierra]
-Al bombear un líquido por una manguera, el roce electriza tanto al líquido como al tubo. Si
-esa carga se acumula, puede saltar una chispa, y junto a vapores de gasolina una chispa es
-un incendio. Por eso los camiones cisterna se conectan a tierra antes de descargar: la
-conexión da a las cargas un camino conductor para irse, en lugar de acumularse. Es el mismo
-principio de la pulsera antiestática que usa un técnico al manipular la tarjeta de un
-computador.
+\subsubsection*{Tres maneras de electrizar un cuerpo}
+
+\begin{itemize}
+  \item \textbf{Frotamiento:} dos materiales distintos se rozan y uno le quita
+        electrones al otro. El que gana electrones queda negativo; el que los
+        pierde, positivo, con carga de igual valor. El vidrio frotado con seda
+        queda positivo~\cite{openstax}; un tubo de PVC frotado con lana queda
+        negativo.
+  \item \textbf{Contacto:} un cuerpo cargado toca a otro y le comparte parte de
+        su carga. Los dos quedan con carga \emph{del mismo signo}.
+  \item \textbf{Inducción:} un cuerpo cargado se \emph{acerca} sin tocar y las
+        cargas libres del otro se reacomodan: la cara cercana queda con signo
+        contrario al del inductor y la lejana con el mismo, sin que cambie la
+        carga total. Si en ese momento el segundo cuerpo se conecta a tierra y
+        luego se desconecta, queda cargado con el signo contrario al del
+        inductor. Así funciona el electroscopio.
+\end{itemize}
+
+Para predecir el signo en el frotamiento se usa una \textbf{serie
+triboeléctrica}: una lista de materiales ordenados según su tendencia a ceder
+electrones. Al frotar dos materiales, el que está más arriba queda positivo y
+el de más abajo, negativo. Este es un fragmento de una serie publicada por el
+Departamento de Física de la Universidad de Iowa~\cite{uiowa}:
+
+\begin{center}
+\begin{tikzpicture}[font=\small, every node/.append style={text height=1.6ex, text depth=0.3ex}]
+  \draw[->, thick] (0,0) -- (11,0);
+  \foreach \x/\m in {1/vidrio, 3.3/papel, 5.4/lana, 7.6/polietileno, 9.8/PVC}
+    { \fill (\x,0) circle (1.5pt); \node[above] at (\x,0.05) {\m}; }
+  \node[below, align=center] at (1,-0.1) {tiende a quedar $+$};
+  \node[below, align=center] at (9.8,-0.1) {tiende a quedar $-$};
+\end{tikzpicture}
+\end{center}
+
+El signo depende del \emph{par}: la lana queda positiva frente al PVC, pero
+negativa frente al papel. Las series de distintos laboratorios no coinciden
+del todo, porque la humedad y el estado de las superficies también influyen.
+
+Los materiales en los que las cargas se mueven con facilidad se llaman
+\textbf{conductores} (los metales, el agua con sales, el cuerpo humano); en los
+\textbf{aislantes} las cargas se quedan donde se depositan (el vidrio, el
+plástico, la madera seca, el caucho). Los \textbf{semiconductores}, como el
+silicio de los chips, están en medio.
+
+\begin{aplicacion}[El carrotanque se conecta a tierra]
+Al bombear gasolina por una manguera, el roce electriza al líquido y al tubo.
+Si esa carga se acumula, puede saltar una chispa, y junto a vapores de
+gasolina una chispa es un incendio. Por eso un carrotanque se conecta a tierra
+con un cable antes de descargar en una estación de servicio: la conexión le da
+a la carga un camino conductor para irse en lugar de acumularse. Es el mismo
+principio de la pulsera antiestática que usa un técnico al manipular la
+tarjeta de un computador.
 \end{aplicacion}
 
 \begin{preguntas}
-\pregunta Explica, usando la conservación de la carga, por qué después de frotar un globo
-contra tu pelo el globo y el pelo quedan con cargas de signos opuestos y de igual magnitud.
-\renglones{3}
-\pregunta Una barra cargada positivamente se acerca ---sin tocar--- a una esfera metálica
-descargada y aislada. Describe cómo quedan distribuidas las cargas en la esfera y explica por
-qué la esfera es atraída, aunque su carga total siga siendo cero.
-\renglones{4}
-\pregunta Un compañero dice: «como el cuerpo humano es conductor, tocar un objeto cargado
-siempre nos electriza». Discute la afirmación: ¿en qué caso el cuerpo se carga y en cuál no?
-\renglones{3}
-\pregunta Calcula la carga total de $\num{5e12}$ electrones y exprésala en nanocoulomb, con su
-signo.
-\espacio{2.5cm}
+% Ejercicio: electrostatica-guia-11-001
+\pregunta Usa la serie de la figura. Al frotar dos materiales, el que está más
+a la izquierda cede electrones. Predice el signo que adquiere cada material:
+\begin{opciones*}(1)
+  \item un tubo de PVC frotado con lana;
+  \item una lámina de vidrio frotada con una bolsa de polietileno;
+  \item una hoja de papel frotada con lana.
+\end{opciones*}
+Después, el tubo de PVC del literal a) toca una esfera metálica neutra y
+aislada. ¿Qué signo adquiere la esfera?
+\espacio{3cm}
+% Ejercicio: electrostatica-11-053
+\pregunta ¿Cuál de las siguientes cargas no concuerda con la realidad?
+Considera $q_1 = \qty{2,4e-19}{C}$ y $q_2 = \qty{11,2e-19}{C}$. Justifica con
+el valor de la carga del electrón, $e = \qty{1,6e-19}{C}$.
+\espacio{3cm}
+% Ejercicio: electrostatica-11-051
+\Needspace{8\baselineskip}
+\pregunta Una barra de vidrio A inicialmente neutra es frotada con seda y
+pierde $\num{1e13}$ electrones; otra barra de vidrio idéntica, B, también es
+frotada y pierde $\num{3e13}$ electrones. Si ambas barras se ponen en contacto
+y después quedan con igual cantidad de carga, ¿cuál es el déficit de
+electrones de cada barra después del contacto?
+\espacio{3cm}
+% Ejercicio: electrostatica-11-052
+\Needspace{12\baselineskip}
+\pregunta Un electroscopio está cargado negativamente con un exceso de
+$\num{2e13}$ electrones; otro electroscopio idéntico ha sido cargado
+positivamente y tiene un déficit de $\num{1,2e13}$ electrones. Si los
+electroscopios se ponen en contacto, ¿cuántos electrones se transfieren?
+\espacio{3cm}
 \end{preguntas}
 
 \begin{resumen}
 \begin{itemize}
   \item Hay dos clases de carga; las iguales se repelen y las distintas se atraen.
-  \item La carga se conserva y está cuantizada: $q = n\,e$, con $e=\num{1,602e-19}$ C.
-  \item Un cuerpo se electriza por frotamiento, por contacto o por inducción.
-  \item En los conductores las cargas se mueven con facilidad; en los aislantes, no.
+  \item La carga se conserva y está cuantizada: $q = n\,e$, con
+        $e = \qty{1,602e-19}{C}$.
+  \item Por frotamiento, el material que gana electrones queda negativo (serie
+        triboeléctrica); por contacto, los dos cuerpos quedan con el mismo
+        signo; por inducción, las cargas se reacomodan sin contacto.
+  \item En los conductores las cargas se mueven con facilidad; en los
+        aislantes, no.
 \end{itemize}
 \end{resumen}
 
+% ---------------------------------------------------------------------
 \tema{La ley de Coulomb}\label{tema:coulomb}
 
 \begin{hilo}
-Coulomb cuelga una aguja de un hilo de plata finísimo dentro de un cilindro de vidrio, para
-que ni una corriente de aire perturbe la medida. Carga dos esferitas, las acerca y mide
-cuánto gira el hilo. Está a punto de convertir una curiosidad en una ley con números.
+Coulomb cuelga su aguja de un hilo de plata finísimo, carga dos esferitas y
+mide cuánto gira el hilo. Una curiosidad de salón se convierte en una ley con
+números.
 \end{hilo}
 
 \begin{definicion}[Ley de Coulomb]
-La fuerza eléctrica entre dos cargas puntuales $q_1$ y $q_2$ separadas una distancia $r$
-tiene magnitud
+La fuerza eléctrica entre dos cargas puntuales $q_1$ y $q_2$ separadas una
+distancia $r$ tiene magnitud
 \[
-  F = k\,\frac{|q_1 q_2|}{r^{2}}, \qquad k = \num{8,99e9}\ \mathrm{N\,m^{2}/C^{2}},
+  F = k\,\frac{|q_1 q_2|}{r^{2}}, \qquad k = \qty{8,99e9}{N.m^2/C^2},
 \]
-está dirigida a lo largo de la recta que une las cargas, y es de repulsión si las cargas
-tienen el mismo signo y de atracción si tienen signos contrarios.
+actúa a lo largo de la recta que une las cargas y es de repulsión si tienen el
+mismo signo y de atracción si tienen signos contrarios. Como $k$ está en
+metros, la distancia $r$ va \textbf{siempre en metros}.
 \end{definicion}
 
-Dos consecuencias que conviene tener presentes. La primera: la fuerza depende del
-\emph{cuadrado} de la distancia, así que si alejas las cargas al doble, la fuerza no se
-reduce a la mitad sino a la cuarta parte. La segunda: cuando hay más de dos cargas, la
-fuerza sobre una de ellas es la \textbf{suma vectorial} de las fuerzas que cada una de las
-otras ejerce por separado. A eso se le llama principio de superposición.
+Es una ley del \textbf{inverso del cuadrado}: si la distancia se duplica, la
+fuerza no se reduce a la mitad sino a la cuarta parte; si se triplica, a la
+novena parte. Cuando hay más de dos cargas, la fuerza sobre una de ellas es la
+\textbf{suma vectorial} de las fuerzas que cada una de las otras le ejerce por
+separado (principio de superposición).
 
+% Ejercicio: electrostatica-11-055
+\Needspace{10\baselineskip}
 \begin{ejemplo}[Dos cargas puntuales]
-Sean $q_1 = \qty{2}{\micro\coulomb}$ y $q_2 = \qty{-3}{\micro\coulomb}$, separadas
-$r = \qty{5}{cm} = \qty{0,05}{m}$:
+Sean dos cargas de $\qty{2}{\micro\coulomb}$ y $\qty{8}{\micro\coulomb}$,
+separadas $r = \qty{10}{cm} = \qty{0,1}{m}$:
 \[
-  F = \num{8,99e9}\cdot\frac{(\num{2e-6})(\num{3e-6})}{(\num{0,05})^{2}}
-    = \frac{\num{5,394e-2}}{\num{2,5e-3}} \approx \qty{21,6}{N}.
+  F = \num{8,99e9}\cdot\frac{(\num{2e-6})(\num{8e-6})}{(\num{0,1})^{2}}
+    \approx \qty{14,4}{N}.
 \]
-Como los signos son contrarios, la fuerza es de atracción, y por la tercera ley de Newton
-cada carga siente \qty{21,6}{N} hacia la otra.
+Como las dos son positivas, la fuerza es de repulsión; por la tercera ley de
+Newton, cada carga siente $\qty{14,4}{N}$ alejándose de la otra.
 \end{ejemplo}
 
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[width=7.5cm, height=4.6cm, xmin=0, xmax=4.2, ymin=0, ymax=1.1,
+    xlabel={$r$}, ylabel={$F$}, xtick={1,2,3,4}, xticklabels={$d$,$2d$,$3d$,$4d$},
+    ytick={0.0625,0.111,0.25,1}, yticklabels={,,$F_0/4$,$F_0$},
+    axis lines=left, clip=false]
+  \addplot+[thick, black, no marks, domain=0.96:4, samples=80] {1/x^2};
+  \addplot+[only marks, black, mark=*, mark size=1.5pt] coordinates {(1,1) (2,0.25) (3,0.111) (4,0.0625)};
+  \node[anchor=west, font=\small] at (axis cs:3.05,0.19) {$F_0/9$};
+\end{axis}
+\end{tikzpicture}
+
+{\small La fuerza en función de la distancia: $F = F_0\,(d/r)^2$.}
+\end{center}
+
+% Ejercicio: electrostatica-11-048
 \begin{ejemplo}[Eléctrica contra gravitacional]
-Entre dos electrones actúan las dos fuerzas a la vez. Su cociente no depende de la
-distancia, porque ambas van como $1/r^{2}$:
+¿Qué carga, igual para cada una, deberían tener la Tierra
+($M_T = \qty{6e24}{kg}$) y la Luna ($M_L = \qty{7,4e22}{kg}$) para que la
+repulsión eléctrica igualara la atracción gravitatoria? Como las dos fuerzas
+van con $1/d^{2}$, la distancia se simplifica:
 \[
-  \frac{F_e}{F_g} = \frac{k\,e^{2}}{G\,m_e^{2}} \approx \num{4e42}.
+  k\frac{q^2}{d^2} = G\frac{M_T M_L}{d^2} \quad\Rightarrow\quad
+  q = \sqrt{\frac{G M_T M_L}{k}} \approx \qty{5,7e13}{C}.
 \]
-La fuerza eléctrica es unas $\num{e42}$ veces más intensa. Si es tan fuerte, ¿por qué no la
-notamos todo el tiempo? Porque la materia ordinaria tiene tantas cargas positivas como
-negativas y sus efectos se cancelan; la gravedad, en cambio, solo atrae y nunca se cancela.
+Bastaría una carga así ---una fracción diminuta de todas las cargas que tienen
+la Tierra y la Luna--- para anular la fuerza que mantiene a la Luna en órbita. ¿Por qué no pasa? Porque la materia tiene tantas
+cargas positivas como negativas y sus efectos se cancelan. La eléctrica puede
+atraer o repeler; la gravitacional solo atrae, nunca se cancela, y por eso
+domina a la escala de los planetas.
 \end{ejemplo}
 
 \begin{aplicacion}[Pintar un carro sin desperdiciar pintura]
-En las plantas automotrices la pintura se pulveriza cargada eléctricamente y la carrocería
-se conecta con carga contraria. Las gotas son atraídas hacia la lámina, se reparten parejo
-e incluso rodean los bordes, en vez de perderse en el aire. La misma idea está detrás de las
-impresoras láser, donde el tóner cargado se adhiere solo a las zonas del rodillo que llevan
-carga contraria.
+En la pintura electrostática, las gotas de pintura salen de la pistola con
+carga y la carrocería se conecta a tierra: las gotas son atraídas hacia la
+lámina, se reparten parejo e incluso alcanzan los bordes de atrás, en vez de
+perderse en el aire. Una idea parecida funciona en las impresoras láser, donde
+el tóner cargado se pega solo a las zonas del rodillo que tienen la carga
+adecuada.
 \end{aplicacion}
 
 \begin{preguntas}
-\pregunta Dos cargas iguales de \qty{4}{\micro\coulomb} están separadas \qty{10}{cm}.
-Calcula la fuerza entre ellas e indica si es de atracción o de repulsión.
+% Ejercicio: electrostatica-11-046, electrostatica-11-047
+\pregunta Dos esferas se atraen con una fuerza determinada. ¿Qué sucede con la
+fuerza si\ldots
+\begin{opciones*}(1)
+  \item se triplica el valor de la carga de cada esfera?
+  \item la carga de cada esfera se reduce a la tercera parte?
+\end{opciones*}
+\espacio{2.5cm}
+% Ejercicio: electrostatica-11-049
+\Needspace{8\baselineskip}
+\pregunta Calcula las fuerzas que ejerce una carga de
+$\qty{5}{\micro\coulomb}$ sobre otras dos cargas de $\qty{2}{\micro\coulomb}$
+y $\qty{1}{\micro\coulomb}$, situadas cada una a $\qty{3}{m}$ de ella.
+\espacio{2.5cm}
+% Ejercicio: electrostatica-11-054
+\pregunta Dos cargas de $\qty{40}{\micro\coulomb}$ se repelen con una fuerza
+de $\qty{360}{N}$. Calcula la distancia que las separa.
+\espacio{2.5cm}
+% Ejercicio: electrostatica-11-056
+\pregunta ¿Cuál de las siguientes situaciones da como resultado una mayor
+fuerza, si la distancia entre las cargas es la misma? ¿Por qué?
+\begin{opciones*}(1)
+  \item La fuerza de repulsión que ejerce una carga de
+        $\qty{100}{\micro\coulomb}$ sobre una de $\qty{1}{\micro\coulomb}$.
+  \item La fuerza de repulsión que ejerce una carga de
+        $\qty{1}{\micro\coulomb}$ sobre una de $\qty{100}{\micro\coulomb}$.
+\end{opciones*}
+\espacio{2.5cm}
+% Ejercicio: electrostatica-11-050
+\pregunta Un cuerpo de masa $\qty{0,5}{kg}$ y carga
+$\qty{0,5}{\micro\coulomb}$ se encuentra a $\qty{2}{m}$ de otro cuerpo de masa
+$\qty{1,5}{kg}$ y carga $\qty{1,5}{\micro\coulomb}$. Determina si se atraen o
+se repelen y calcula la fuerza electrostática.
 \espacio{3cm}
-\pregunta Si en el ejercicio anterior la distancia se triplica, ¿por qué factor cambia la
-fuerza? Responde primero razonando, sin calculadora, y después compruébalo con el cálculo.
-\espacio{3cm}
-\pregunta Tres cargas están sobre una misma línea: $q_1=\qty{+2}{\micro\coulomb}$ en
-$x=0$, $q_2=\qty{-2}{\micro\coulomb}$ en $x=\qty{20}{cm}$ y $q_3=\qty{+1}{\micro\coulomb}$
-en $x=\qty{40}{cm}$. Calcula la fuerza neta sobre $q_3$ (magnitud y sentido).
-\espacio{4cm}
-\pregunta Un estudiante calcula la fuerza entre dos cargas separadas \qty{20}{cm} y escribe
-$r^2 = \num{400}$. Encuentra el error y explica qué consecuencia tiene en el resultado.
-\renglones{3}
 \end{preguntas}
 
 \begin{resumen}
 \begin{itemize}
-  \item $F = k\,|q_1q_2|/r^{2}$, con $k=\num{8,99e9}$ N\,m\textsuperscript{2}/C\textsuperscript{2}
-        y la distancia \emph{siempre} en metros.
-  \item Al duplicar la distancia la fuerza se reduce a la cuarta parte: es una ley del
-        inverso del cuadrado.
+  \item $F = k\,|q_1q_2|/r^{2}$, con $k = \qty{8,99e9}{N.m^2/C^2}$ y la
+        distancia siempre en metros.
+  \item Inverso del cuadrado: al duplicar la distancia, la fuerza se reduce a
+        la cuarta parte.
   \item Con varias cargas, las fuerzas se suman como vectores (superposición).
   \item La fuerza eléctrica puede atraer o repeler; la gravitacional solo atrae.
 \end{itemize}
 \end{resumen}
 
+% ---------------------------------------------------------------------
 \tema{El campo eléctrico}\label{tema:campo}
 
 \begin{hilo}
-Franklin sube una cometa en medio de una tormenta y consigue cargar una botella de Leyden
-desde una llave atada al cordel. El rayo y la chispa del laboratorio son lo mismo. Pero
-queda una pregunta incómoda: si nada toca a la carga, ¿\emph{cómo} le llega la fuerza?
+Franklin propone que el rayo y la chispa del laboratorio son lo mismo. Pero
+queda una pregunta incómoda: si nada toca a la carga, ¿\emph{cómo} le llega la
+fuerza? La respuesta es el campo, y su aplicación más famosa es el invento que
+cierra nuestra historia: el pararrayos.
 \end{hilo}
 
 \begin{definicion}[Campo eléctrico]
-El campo eléctrico en un punto es la fuerza por unidad de carga que sentiría allí una carga
-de prueba positiva $q_0$:
+El campo eléctrico en un punto es la fuerza por unidad de carga que sentiría
+allí una carga de prueba positiva $q_0$:
 \[
-  \vect{E} = \frac{\vect{F}}{q_0}, \qquad [E] = \mathrm{N/C}.
+  \vect{E} = \frac{\vect{F}}{q_0}, \qquad [E] = \unit{N/C}.
 \]
-Para una carga puntual $q$ a una distancia $r$, su magnitud es $E = k\,|q|/r^{2}$, y apunta
-alejándose de la carga si $q>0$ y hacia la carga si $q<0$.
+Para una carga puntual $q$, a una distancia $r$, $E = k\,|q|/r^{2}$; apunta
+alejándose de la carga si $q > 0$ y hacia la carga si $q < 0$. Una carga $q$
+colocada en un campo $\vect{E}$ siente $\vect{F} = q\,\vect{E}$: si $q$ es
+negativa, la fuerza es \emph{opuesta} al campo.
 \end{definicion}
 
-El campo se dibuja con \textbf{líneas de campo}: salen de las cargas positivas y entran a
-las negativas, nunca se cruzan, y son más densas donde el campo es más intenso. La fuerza
-sobre una carga positiva colocada en el campo va en el sentido de la línea; sobre una carga
-negativa, en el sentido contrario.
+El campo se dibuja con \textbf{líneas de campo}: salen de las cargas positivas
+y entran a las negativas, nunca se cruzan y están más juntas donde el campo es
+más intenso.
 
 \begin{center}
-\begin{tikzpicture}[scale=1, >=latex, font=\small]
+\begin{tikzpicture}[scale=0.85, >=latex, font=\small]
   % carga positiva
   \begin{scope}
-    \foreach \a in {0,45,...,315}
-      \draw[->] (\a:0.42) -- (\a:1.45);
-    \draw[fill=white] (0,0) circle (0.32);
-    \node at (0,0) {$+$};
-    \node at (0,-1.95) {carga positiva};
+    \foreach \a in {0,45,...,315} \draw[->] (\a:0.36) -- (\a:1.35);
+    \carga{0,0}{+}
+    \node at (0,-1.9) {carga positiva};
   \end{scope}
   % carga negativa
-  \begin{scope}[xshift=4.6cm]
-    \foreach \a in {0,45,...,315}
-      \draw[<-] (\a:0.42) -- (\a:1.45);
-    \draw[fill=white] (0,0) circle (0.32);
-    \node at (0,0) {$-$};
-    \node at (0,-1.95) {carga negativa};
+  \begin{scope}[xshift=3.6cm]
+    \foreach \a in {0,45,...,315} \draw[<-] (\a:0.36) -- (\a:1.35);
+    \carga{0,0}{-}
+    \node at (0,-1.9) {carga negativa};
+  \end{scope}
+  % dipolo
+  \begin{scope}[xshift=7.6cm]
+    \draw[->] (-0.9,0) -- (0.1,0);
+    \draw[->] (0.1,0) -- (0.9,0);
+    \foreach \h in {0.55,1.1} {
+      \draw[->] (-0.9,0) .. controls (-0.6,\h*1.5) and (0.6,\h*1.5) .. (0.9,0);
+      \draw[->] (-0.9,0) .. controls (-0.6,-\h*1.5) and (0.6,-\h*1.5) .. (0.9,0);
+    }
+    \draw[->] (-0.9,0) -- (-1.7,0);
+    \draw[<-] (0.9,0) -- (1.7,0);
+    \carga{-0.9,0}{+} \carga{0.9,0}{-}
+    \node at (0,-1.9) {dipolo};
+  \end{scope}
+  % dos cargas positivas iguales
+  \begin{scope}[xshift=12cm]
+    \foreach \s in {-1,1} {
+      \draw[->] (\s*0.8,0) -- (\s*1.7,0);
+      \draw[->] (\s*0.8,0) .. controls (\s*0.7,0.5) and (\s*0.3,0.9) .. (\s*0.25,1.6);
+      \draw[->] (\s*0.8,0) .. controls (\s*0.7,-0.5) and (\s*0.3,-0.9) .. (\s*0.25,-1.6);
+      \draw[->] (\s*0.8,0) .. controls (\s*1.1,0.6) .. (\s*1.5,1.2);
+      \draw[->] (\s*0.8,0) .. controls (\s*1.1,-0.6) .. (\s*1.5,-1.2);
+    }
+    \carga{-0.8,0}{+} \carga{0.8,0}{+}
+    \fill (0,0) circle (1.5pt) node[above=2pt, font=\scriptsize] {$E=0$};
+    \node at (0,-1.9) {dos cargas iguales};
   \end{scope}
 \end{tikzpicture}
 \end{center}
 
+% Ejercicio: electrostatica-11-059
 \begin{ejemplo}[Campo de una carga puntual]
-A \qty{30}{cm} de una carga de \qty{5}{\micro\coulomb}:
+A $\qty{80}{cm}$ de una carga de $\qty{1e-6}{C}$:
 \[
-  E = \num{8,99e9}\cdot\frac{\num{5e-6}}{(\num{0,30})^{2}}
-    = \frac{\num{4,495e4}}{\num{9e-2}} \approx \num{5,0e5}\ \mathrm{N/C},
+  E = \num{8,99e9}\cdot\frac{\num{1e-6}}{(\num{0,8})^{2}} \approx
+  \qty{1,4e4}{N/C},
 \]
-dirigido alejándose de la carga. Una carga de prueba de \qty{2}{\nano\coulomb} colocada allí
-sentiría $F = qE = \num{2e-9}\cdot\num{5,0e5} \approx \qty{1,0e-3}{N}$.
+dirigido alejándose de la carga, porque es positiva. Si la carga fuera
+negativa, el campo tendría el mismo valor pero apuntaría hacia ella.
 \end{ejemplo}
 
+Entre dos placas metálicas paralelas con cargas opuestas el campo es
+\textbf{uniforme}: igual en magnitud y dirección en todos los puntos (salvo en
+los bordes). Y dentro de un conductor en equilibrio el campo es
+\textbf{cero}: si no lo fuera, sus cargas libres se moverían hasta anularlo.
+
 \begin{aplicacion}[El pararrayos y la jaula de Faraday]
-En las puntas afiladas de un conductor el campo eléctrico se hace mucho más intenso que en
-las superficies planas. El pararrayos aprovecha eso: su punta ioniza el aire a su alrededor y
-ofrece al rayo un camino conductor hasta tierra, lejos de la estructura del edificio. El
-fenómeno complementario también se usa: dentro de una caja metálica cerrada el campo externo
-no penetra, y por eso un carro o un avión son lugares relativamente seguros durante una
-tormenta eléctrica. A esa protección se le llama jaula de Faraday~\cite{serway2019}.
+En las puntas de un conductor cargado el campo eléctrico es mucho más intenso
+que en las partes planas. El pararrayos aprovecha eso: su punta es el lugar
+donde el rayo encuentra más fácil el camino, y un cable grueso lleva la
+descarga hasta tierra, lejos de la estructura. Dentro de una caja metálica
+cerrada, en cambio, el campo externo no penetra: por eso un carro o un avión
+son lugares relativamente seguros en una tormenta eléctrica (jaula de
+Faraday)~\cite{serway}. En Colombia, donde caen tantos rayos, los colegios,
+las torres y las fincas en campo abierto necesitan esta protección.
 \end{aplicacion}
 
 \begin{preguntas}
-\pregunta Calcula la magnitud del campo eléctrico a \qty{15}{cm} de una carga de
-\qty{-3}{\micro\coulomb} e indica hacia dónde apunta.
+% Ejercicio: electrostatica-11-057
+\pregunta Calcula la fuerza que experimenta una carga de
+$\qty{-5}{\micro\coulomb}$ en un campo eléctrico de $\qty{200}{N/C}$.
+\espacio{2.5cm}
+% Ejercicio: electrostatica-11-058
+\Needspace{8\baselineskip}
+\pregunta Dos cargas $q_1 = \qty{6e-6}{C}$ y $q_2 = \qty{28e-6}{C}$ están
+separadas $\qty{6}{m}$. Halla la intensidad del campo eléctrico en el punto
+medio del segmento que las une.
 \espacio{3cm}
-\pregunta En un punto donde el campo vale \qty{2,0e4}{N/C} se coloca una carga de
-\qty{-5}{\nano\coulomb}. Calcula la magnitud de la fuerza y explica por qué su sentido es
-opuesto al del campo.
-\espacio{3cm}
-\pregunta Dibuja las líneas de campo de dos cargas iguales y positivas, y señala un punto
-donde el campo total sea cero. Justifica por qué lo es.
-\espacio{4cm}
-\pregunta Explica por qué las líneas de campo no pueden cruzarse. (Pista: ¿qué significaría,
-para la fuerza sobre una carga de prueba, que dos líneas pasaran por el mismo punto?)
-\renglones{3}
+% Ejercicio: electrostatica-11-060
+\pregunta En los vértices de un cuadrado cuya diagonal mide $2d$ se colocan
+cuatro cargas positivas iguales $q$. ¿Cuál es la intensidad del campo
+eléctrico en el centro del cuadrado? Justifica tu respuesta con un dibujo de
+los cuatro campos.
+\espacio{2.5cm}
 \end{preguntas}
 
 \begin{resumen}
 \begin{itemize}
-  \item $\vect{E} = \vect{F}/q_0$, y para una carga puntual $E = k|q|/r^{2}$, en N/C.
-  \item Las líneas salen de lo positivo y entran a lo negativo; no se cruzan y su densidad
-        indica la intensidad del campo.
-  \item Sobre una carga negativa la fuerza es opuesta al campo.
-  \item El campo se concentra en las puntas (pararrayos) y no entra en el interior de un
-        conductor cerrado (jaula de Faraday).
+  \item $\vect{E} = \vect{F}/q_0$; para una carga puntual $E = k|q|/r^{2}$, en
+        $\unit{N/C}$.
+  \item Las líneas salen de lo positivo y entran a lo negativo, no se cruzan y
+        su densidad indica la intensidad.
+  \item Sobre una carga negativa, la fuerza es opuesta al campo.
+  \item El campo se concentra en las puntas (pararrayos) y es cero dentro de un
+        conductor en equilibrio (jaula de Faraday).
 \end{itemize}
 \end{resumen}
 
 % ---------------------------------------------------------------------
-% 5. Saber 11
+% 5. Saber 11 (respuestas solo en el informe a la docente)
 % ---------------------------------------------------------------------
 \seccion{Prepárate para Saber 11}
 
 \begin{preguntas}
-\pregunta La carga de un electrón es $\num{1,602e-19}$ C. La carga de un cuerpo que tiene
-$\num{2,0e13}$ electrones en exceso es, aproximadamente:
+% Ejercicio: electrostatica-guia-11-002
+\pregunta Para una fiesta en Cali, Sofía infla un globo y lo frota contra su
+pelo. El globo queda con $\num{2,0e13}$ electrones en exceso. Si la carga de
+un electrón es $\qty{-1,602e-19}{C}$, la carga del globo es,
+aproximadamente:
 \begin{opciones*}(4)
-  \item \qty{3,2}{\micro\coulomb}
-  \item \qty{-3,2}{\micro\coulomb}
-  \item \qty{3,2}{\nano\coulomb}
-  \item \qty{-3,2}{\nano\coulomb}
+  \item $\qty{3,2}{\micro\coulomb}$
+  \item $\qty{-3,2}{\nano\coulomb}$
+  \item $\qty{-3,2}{\micro\coulomb}$
+  \item $\qty{3,2}{\nano\coulomb}$
 \end{opciones*}
 
-\pregunta Dos esferas con cargas iguales se repelen con una fuerza $F$ cuando están separadas
-una distancia $d$. Si la separación se reduce a $d/2$, la fuerza entre ellas será:
+% Ejercicio: electrostatica-guia-11-003
+\Needspace{5\baselineskip}
+\pregunta En el laboratorio, dos esferitas con cargas iguales se repelen con
+una fuerza $F$ cuando están separadas una distancia $d$. Si la separación se
+reduce a $d/2$, la fuerza entre ellas será:
 \begin{opciones*}(4)
-  \item $F/4$
-  \item $F/2$
-  \item $2F$
   \item $4F$
+  \item $F/4$
+  \item $2F$
+  \item $F/2$
 \end{opciones*}
 
-\pregunta Una barra cargada negativamente se acerca, sin tocarla, a una esfera metálica
-neutra y aislada. Lo que ocurre en la esfera es que:
-\begin{opciones*}(2)
-  \item gana electrones y queda cargada negativamente
-  \item pierde protones y queda cargada negativamente
-  \item sus electrones se alejan de la barra y la cara cercana queda positiva
-  \item no ocurre nada, porque la barra no la toca
+% Ejercicio: electrostatica-guia-11-004
+\pregunta Un tubo de PVC frotado con lana queda cargado negativamente y se
+acerca, sin tocarla, a una esfera metálica neutra y aislada. Mientras el tubo
+está cerca, en la esfera:
+\begin{opciones*}(1)
+  \item entran electrones del tubo y la esfera queda negativa
+  \item salen protones y la esfera queda negativa
+  \item no ocurre nada, porque el tubo no la toca
+  \item los electrones se alejan del tubo: la cara cercana queda positiva y la
+        carga total sigue siendo cero
 \end{opciones*}
 
-\pregunta En una región el campo eléctrico apunta hacia la derecha. Si allí se coloca una
-carga negativa, la fuerza eléctrica sobre ella:
+% Ejercicio: electrostatica-guia-11-005
+\pregunta Durante una tormenta en una finca del Valle del Cauca, supón que
+cerca del suelo el campo eléctrico apunta verticalmente hacia arriba y vale
+$\qty{1,0e4}{N/C}$. Sobre una gotita de agua con carga $\qty{-2,0e-12}{C}$ la
+fuerza eléctrica es:
 \begin{opciones*}(2)
-  \item apunta hacia la derecha y es proporcional al campo
-  \item apunta hacia la izquierda y es proporcional al campo
-  \item es cero, porque la carga es negativa
-  \item apunta hacia la derecha, pero no depende del valor de la carga
+  \item $\qty{2,0e-8}{N}$ hacia arriba
+  \item $\qty{2,0e-8}{N}$ hacia abajo
+  \item cero, porque la carga es negativa
+  \item $\qty{5,0e15}{N}$ hacia abajo
 \end{opciones*}
 \end{preguntas}
+
 
 % ---------------------------------------------------------------------
 % 6. Cierre del hilo conductor
 % ---------------------------------------------------------------------
 \seccion{Cierre: del ámbar al pararrayos}
 
-Empezamos con un filósofo frotando una piedra amarilla y terminamos con una varilla metálica
-que protege un edificio de un rayo de millones de voltios. En el camino, Gilbert separó dos
-fenómenos que parecían uno solo, Coulomb midió con un hilo de plata una fuerza que nadie
-podía ver, y Franklin se atrevió a proponer que el rayo del cielo y la chispa del laboratorio
-eran la misma cosa.
+Del ámbar al pararrayos: una tradición griega, un médico que separó dos
+fenómenos, un ingeniero que midió una fuerza invisible, una profesora que
+enseñó física experimental cuando casi ninguna mujer podía, y un impresor que
+convirtió el rayo en algo que se puede desviar. De la cometa de Franklin
+sabemos solo lo que él contó; del pararrayos tenemos las instrucciones
+impresas, y cualquiera puede comprobar que funciona. Esa diferencia entre lo
+que se cuenta y lo que se puede comprobar es la que hace ciencia a la física.
 
-Queda una pregunta abierta, y es la que abre el próximo trimestre. Todo lo que estudiamos
-aquí ocurre con las cargas \emph{quietas}. ¿Qué pasa cuando las ponemos a moverse? Aparecen
-la corriente, los circuitos y algo que Gilbert había separado con tanto cuidado: el
-magnetismo, que resulta estar íntimamente ligado a la electricidad. Esa es la segunda parte
-de nuestro DBA, y la veremos en el trimestre II.
+Todo lo de este trimestre ocurre con cargas \emph{quietas}. ¿Qué pasa cuando
+se mueven? Aparecen la corriente, los circuitos y el magnetismo que Gilbert
+había separado con tanto cuidado: la segunda parte de nuestro DBA, en el
+trimestre II.
 
 % ---------------------------------------------------------------------
-% 7. Evaluación
+% 7. Evaluación (secciones institucionales)
 % ---------------------------------------------------------------------
 \matrizevaluacion
-  {Explica la naturaleza de la carga eléctrica, las formas de electrización y el concepto de campo.}
-  {Calcula fuerzas y campos eléctricos con la ley de Coulomb y el principio de superposición, con unidades correctas.}
-  {Estima órdenes de magnitud y revisa sus resultados antes de darlos por buenos.}
-  {Trabaja en equipo en el laboratorio y cuida los materiales y a sus compañeros.}
+  {Explica la naturaleza de la carga, las formas de electrización y la idea de
+   campo; distingue la fuerza eléctrica, que atrae o repele, de la
+   gravitacional, que solo atrae.}
+  {Predice el signo de un material frotado o tocado; calcula fuerzas y campos
+   con la ley de Coulomb y la superposición, con unidades correctas y en
+   notación científica.}
+  {Estima órdenes de magnitud y revisa sus resultados antes de darlos por
+   buenos; distingue lo documentado de lo que solo se cuenta.}
+  {Trabaja en equipo en el laboratorio y cuida los materiales y a sus
+   compañeros.}
 
 \autoevaluacion
 
@@ -518,27 +736,55 @@ de nuestro DBA, y la veremos en el trimestre II.
 % 8. Referencias
 % ---------------------------------------------------------------------
 \begin{referencias}
-% verificado: https://www.academie-sciences.fr/pdf/dossiers/Coulomb/Coulomb_pdf/Mem1785_p569.pdf — Histoire de l'Académie Royale des Sciences (1785), pp. 569-577, facsímil de la Académie des sciences
-\bibitem{coulomb1785} Coulomb, C.-A. (1785). Premier mémoire sur l'électricité et le
-  magnétisme. \emph{Histoire de l'Académie Royale des Sciences}, 569--577.
-% verificado: https://founders.archives.gov/documents/Franklin/01-04-02-0135 — Founders Online (National Archives): texto publicado en la Pennsylvania Gazette del 19 de octubre de 1752
-\bibitem{franklin1752} Franklin, B. (1752, 19 de octubre). [Experimento de la cometa].
-  \emph{Pennsylvania Gazette}.
-% verificado: https://archive.org/details/1600-william-gilbert-de-magnete — facsímil de la edición de Londres, Peter Short, 1600
-\bibitem{gilbert1600} Gilbert, W. (1600). \emph{De magnete, magneticisque corporibus, et de
-  magno magnete tellure}. Londres: Peter Short.
-% verificado: https://www.mineducacion.gov.co/1780/articles-81033_archivo_pdf.pdf — MEN, Guía n.º 7 (2004), estándares de Ciencias Naturales, grupo 10.º-11.º en la p. 23
-\bibitem{menestandares} Ministerio de Educación Nacional (2004). \emph{Formar en ciencias:
-  ¡el desafío! Estándares Básicos de Competencias en Ciencias Naturales y Ciencias Sociales}
-  (Guía n.º 7). Bogotá: MEN.
-% verificado: https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_C.Naturales-min.pdf — PDF oficial del MEN publicado en Colombia Aprende
-\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos Básicos de
-  Aprendizaje V.1: Ciencias Naturales}. Bogotá: MEN.
-% verificado: https://cengagelatam.editorialdc.com/libros/fisica-para-ciencias-e-ingenieria-vol-2/ — ficha de la editorial Cengage para el volumen 2 (electricidad y magnetismo)
-\bibitem{serway2019} Serway, R. A. y Jewett, J. W. \emph{Física para ciencias e ingeniería,
-  volumen 2}. México: Cengage Learning.
-% verificado: https://www.unibo.it/en/university/who-we-are/our-history/famous-people-and-students/laura-bassi — Universidad de Bolonia: nació en 1711, se graduó en filosofía en abril de 1732 y en 1776 obtuvo la cátedra de física experimental del Istituto delle Scienze
-\bibitem{bassi} Università di Bologna. \emph{Laura Bassi}. Consultado el 14 de septiembre de 2026.
+% verificado: https://www.academie-sciences.fr/pdf/dossiers/Coulomb/Coulomb_pdf/Mem1785_p569.pdf — Histoire de l'Académie Royale des Sciences (1785), pp. 569-577: balanza de torsión con hilo de plata, inverso del cuadrado
+\bibitem{coulomb1785} Coulomb, C.-A. (1785). Premier mémoire sur l'électricité
+  et le magnétisme. \emph{Histoire de l'Académie Royale des Sciences},
+  569--577.
+% verificado: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0258:book%3D1:chapter%3D1 — I.24: «Aristotle and Hippias affirm that, arguing from the magnet and from amber, he attributed a soul or life even to inanimate objects» (trad. R. D. Hicks, Harvard University Press)
+\bibitem{laercio} Diógenes Laercio (1925). \emph{Lives of Eminent
+  Philosophers} (trad. R. D. Hicks), libro I, 24. Cambridge, MA: Harvard
+  University Press.
+% verificado: https://founders.archives.gov/documents/Franklin/01-04-02-0135 — Founders Online (National Archives): texto de la Pennsylvania Gazette del 19 de octubre de 1752
+\bibitem{franklin1752} Franklin, B. (1752, 19 de octubre). [El experimento de
+  la cometa]. \emph{Pennsylvania Gazette}. En \emph{Founders Online},
+  National Archives.
+% verificado: https://founders.archives.gov/documents/Franklin/01-04-02-0148 — Poor Richard Improved, 1753: «How to secure Houses, &c. from Lightning» (varilla de hierro en punta, enterrada en suelo húmedo)
+\bibitem{franklin1753} Franklin, B. (1752). How to secure houses, \&c.\ from
+  lightning. En \emph{Poor Richard Improved, 1753}. En \emph{Founders Online},
+  National Archives.
+% verificado: https://archive.org/details/1600-william-gilbert-de-magnete — facsímil de la edición de Londres, Peter Short, 1600; electrica y versorium en el libro II, cap. 2 (resumen en https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/pioneers/william-gilbert/)
+\bibitem{gilbert1600} Gilbert, W. (1600). \emph{De magnete, magneticisque
+  corporibus, et de magno magnete tellure}. Londres: Peter Short.
+% verificado: https://www.mineducacion.gov.co/1780/articles-81033_archivo_pdf.pdf — MEN, Guía n.º 7 (2004); estándares de 10.º-11.º, entorno físico (copia en dba/naturales/estandares-fisica.md)
+\bibitem{menestandares} Ministerio de Educación Nacional (2004).
+  \emph{Formar en ciencias: ¡el desafío! Estándares Básicos de Competencias en
+  Ciencias Naturales y Ciencias Sociales} (Guía n.º 7). Bogotá: MEN.
+% verificado: https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_C.Naturales-min.pdf — página de créditos del PDF oficial: «Derechos Básicos de Aprendizaje • V.1», ISBN 978-958-691-923-4, contrato MEN-Universidad de Antioquia 0803 de 2016; registro 2016 en https://isbn.cloud/en/9789586919234/derechos-basicos-de-aprendizaje-dba-ciencias-naturales-v1/
+\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos
+  Básicos de Aprendizaje V.1: Ciencias Naturales}. Bogotá: MEN.
+  ISBN 978-958-691-923-4.
+% verificado: https://constitutioncenter.org/blog/the-great-debate-about-if-benjamin-franklin-really-flew-his-kite — las únicas fuentes son la carta de 1752 y Priestley (1767); hay historiadores que dudan
+\bibitem{debatecometa} National Constitution Center. \emph{The great debate
+  about if Benjamin Franklin really flew his kite}. Filadelfia.
+% verificado: https://www.gonvill.com.mx/libro/fisica-para-ciencias-e-ingenieria-vol-2-10ed-_17552422 — Cengage, 10.ª ed., vol. 2, ISBN 978-607-526-670-1 (también https://www.vitalsource.com/products/fisica-para-ciencias-e-ingenieria-volumen-2-raymond-a-serway-john-w-v9786075266725)
+\bibitem{serway} Serway, R. A. y Jewett, J. W. (2018). \emph{Física para
+  ciencias e ingeniería}, vol.~2 (10.\textsuperscript{a} ed.). México:
+  Cengage Learning.
+% verificado: https://www.unibo.it/en/university/who-we-are/our-history/famous-people-and-students/laura-bassi — nació en 1711; se graduó en filosofía en abril de 1732; cátedra de física experimental del Istituto delle Scienze en 1776
+\bibitem{bassi} Università di Bologna. \emph{Laura Bassi}. Consultado el 14 de
+  septiembre de 2026.
+% verificado: https://instructional-resources.physics.uiowa.edu/5a1015-triboelectric-series — tabla de AlphaLab: vidrio +25, papel +10, lana 0, polietileno −90, PVC −100 (más arriba cede electrones)
+\bibitem{uiowa} University of Iowa, Department of Physics \& Astronomy.
+  \emph{5A10.15 -- Triboelectric series}. Instructional Resources and Lecture
+  Demonstrations.
+% verificado: https://openstax.org/books/college-physics-2e/pages/18-1-static-electricity-and-charge-conservation-of-charge — «when glass is rubbed with silk, the glass becomes positively charged and the silk negatively charged»
+\bibitem{openstax} Urone, P. P. y Hinrichs, R. (2022). \emph{College
+  Physics 2e}, §18.1. Houston: OpenStax.
+% verificado: https://raccefyn.co/index.php/raccefyn/article/view/1171 — Rev. Acad. Colomb. Cienc. Exactas Fís. Nat. 44(173), 2020: Colombia «caso especial» por su actividad eléctrica atmosférica, relieve y ubicación tropical
+\bibitem{younes2020} Younes-Velosa, C. (2020). Caracterización de parámetros
+  del rayo en Colombia con base en sistemas de localización terrestres y
+  satelitales, 20 años de análisis. \emph{Revista de la Academia Colombiana de
+  Ciencias Exactas, Físicas y Naturales}, 44(173).
 \end{referencias}
 
 \end{document}

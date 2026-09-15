@@ -1,0 +1,680 @@
+% =====================================================================
+% Guía del estudiante -- Geometría 10° -- Trimestre I
+% María Mercedes Cantillo · Colegio San Alberto Magno
+% ---------------------------------------------------------------------
+% Hilo conductor: Ubicarse en la Tierra (de las coordenadas geográficas
+% al plano cartesiano)
+% Plan (etapas A y B): guia-periodo-I-geometria-analitica.plan.md
+% Temas (propuesta de curriculo/plan-anual.md, sesiones 001-009):
+%   planocartesiano, distancia, lugaresgeometricos, recta
+% Cada \tema tiene \label{tema:...} para que las clases lo citen con
+% \refguia{tema:...}. No borrar el .aux de esta guía.
+% Ejercicios (reutilizados del banco salvo 4 nuevos): geometria-analitica-10,
+% plano-cartesiano-5, coordenadas-11, lugares-geometricos-11, funcion-lineal-9
+% e icfes-cuadernillo-2026 (textuales).
+%
+% Compilar:  latexmk -pdf guia-periodo-I-geometria-analitica.tex
+% =====================================================================
+% BORRADOR: el plan del trimestre está pendiente de aprobación de la docente (generación rápida 2026-09-14).
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% ======================== DATOS DE LA GUÍA ============================
+\tipodocumento{Guía del estudiante}
+\asignatura{Geometría}
+\titulo{El plano cartesiano y la recta}
+\grado{10°}
+\periodo{I}
+\hiloconductor{Ubicarse en la Tierra: de las coordenadas geográficas al plano cartesiano}
+% ======================================================================
+% DBA: matematicas grado 10 · DBA 5 — Explora y describe las propiedades de
+%      los lugares geométricos y de sus transformaciones a partir de
+%      diferentes representaciones.
+
+\begin{document}
+
+\encabezado
+
+% ---------------------------------------------------------------------
+% 1. Frase introductoria
+% ---------------------------------------------------------------------
+% verificado: https://fr.wikisource.org/wiki/La_G%C3%A9om%C3%A9trie_(%C3%A9d._1637) — primera frase del libro primero: «Tous les Problesmes de Geometrie se peuuent facilement reduire a tels termes, qu'il n'est besoin par aprés que de connoitre la longueur de quelques lignes droites, pour les construire» (Leiden, Jan Maire, 1637)
+\frase{Todos los problemas de geometría pueden reducirse fácilmente a tales
+términos que después no es necesario conocer más que la longitud de algunas
+líneas rectas para construirlos.}
+{René Descartes, \emph{La geometría} (1637), libro primero (trad. propia)}
+
+% ---------------------------------------------------------------------
+% 2. Introducción
+% ---------------------------------------------------------------------
+\seccion{Introducción}
+
+En la primera clase vimos cómo se ubica cualquier lugar de la Tierra con dos
+números: la latitud y la longitud. Un mapa de Cali hace lo mismo con una
+cuadrícula: basta decir «tantas cuadras al oriente y tantas al norte». Esa idea
+—dos rectas perpendiculares y dos números— es el \textbf{plano cartesiano}, y
+con él la geometría se vuelve álgebra: una distancia se calcula con una
+fórmula, y una figura se describe con una ecuación.
+
+Nuestro hilo conductor es \emph{ubicarse en la Tierra}: de Hiparco, que usó la
+latitud y la longitud para fijar lugares, a Descartes y Fermat, que llevaron las
+coordenadas a la geometría, y a Katherine Johnson, que calculó con ecuaciones
+dónde debía caer una nave espacial. Cada tema responde una pregunta de
+ubicación: ¿dónde está?, ¿a qué distancia?, ¿qué lugares cumplen una
+condición?, ¿cómo describo un camino recto?
+
+\textbf{Al terminar este trimestre podrás:}
+\begin{itemize}
+  \item ubicar puntos y figuras en el plano cartesiano y relacionarlo con las
+        coordenadas geográficas;
+  \item calcular la distancia entre dos puntos y el punto medio de un segmento,
+        y usarlos para clasificar figuras;
+  \item describir la mediatriz y la circunferencia como lugares geométricos y
+        escribir sus ecuaciones;
+  \item hallar la pendiente y la ecuación de una recta, graficarla y reconocer
+        rectas paralelas y perpendiculares.
+\end{itemize}
+
+Este trimestre trabaja un Derecho Básico de Aprendizaje del Ministerio de
+Educación Nacional~\cite{mendba}:
+
+\begin{dba}[Grado 10° · DBA 5]
+Explora y describe las propiedades de los lugares geométricos y de sus
+transformaciones a partir de diferentes representaciones.
+\end{dba}
+
+% ---------------------------------------------------------------------
+% 3. Marco teórico
+% ---------------------------------------------------------------------
+\seccion{Marco teórico}
+
+\subsubsection*{Dos números para un lugar}
+
+Hiparco de Nicea (c.~190--120 a.\,C.)~\cite{mactutorhiparco}, el gran
+astrónomo griego, comenzó a usar de manera sistemática la latitud y la
+longitud —que ya empleaba en su catálogo de estrellas— para fijar lugares
+sobre la superficie de la Tierra~\cite{ebsco}. La \textbf{latitud} dice qué
+tan al norte o al sur del ecuador está un lugar; la \textbf{longitud}, qué tan
+al oriente o al occidente de un meridiano de referencia. Hoy, por ejemplo, la
+Alcaldía ubica a Cali en $3^\circ 27' 00''$ de latitud norte y
+$76^\circ 32' 00''$ de longitud oeste~\cite{alcaldia}.
+
+\subsubsection*{Del globo al plano}
+
+La Tierra es casi una esfera, pero en el mapa de una ciudad o de una región
+pequeña podemos tratarla como si fuera plana y dibujarle una cuadrícula. Cada
+grado de latitud equivale a unos $111$ km sobre la superficie
+terrestre~\cite{noaa}; en distancias cortas, el error de «aplanar» la Tierra
+es pequeño. Esa cuadrícula, con dos ejes perpendiculares, es el plano
+cartesiano.
+
+\subsubsection*{Descartes y Fermat: la geometría se vuelve álgebra}
+
+En 1637, René Descartes publicó en Leiden su \emph{Discurso del método} con
+tres apéndices; el más importante fue \emph{La Géométrie}, donde aplicó el
+álgebra a la geometría~\cite{mactutordescartes,descartes}. Por la misma época,
+y de forma independiente, Pierre de Fermat había llegado a un sistema casi
+idéntico: su \emph{Introducción a los lugares planos y sólidos} ya estaba
+escrita en la primavera de 1636 y circuló en manuscrito. Allí la ecuación más
+sencilla, $Dx = Ey$, representa una recta~\cite{mahoney}. La obra se publicó
+después de su muerte, en 1679~\cite{fermat}. De Fermat nos queda la palabra
+\emph{lugar}: un lugar geométrico es el conjunto de todos los puntos que
+cumplen una condición.
+
+\subsubsection*{Katherine Johnson: ecuaciones para aterrizar}
+
+Katherine Johnson (1918--2020) fue matemática de la NASA. En 1960 escribió con
+el ingeniero Ted Skopinski un informe con las ecuaciones de un vuelo orbital
+en el que se especifica el lugar de aterrizaje de la nave~\cite{skopinski}. Hizo
+el análisis de la trayectoria del vuelo de Alan Shepard en 1961 y, en 1962,
+comprobó a mano las ecuaciones orbitales programadas en los computadores para
+el vuelo de John Glenn. En 2015 recibió la Medalla Presidencial de la
+Libertad~\cite{nasajohnson}. Su trabajo fue, literalmente, ubicar puntos sobre la
+Tierra con ecuaciones.
+
+% ---------------------------------------------------------------------
+% 4. Temas
+% ---------------------------------------------------------------------
+\tema{Plano cartesiano}\label{tema:planocartesiano}
+
+\begin{hilo}
+Hiparco necesitó dos números para ubicar una ciudad: latitud y longitud. En un
+mapa pequeño, los meridianos y los paralelos se ven casi como rectas
+perpendiculares: una cuadrícula. Ese es nuestro punto de partida.
+\end{hilo}
+
+\begin{definicion}[Plano cartesiano]
+Dos rectas numéricas perpendiculares, el \textbf{eje $x$} (horizontal) y el
+\textbf{eje $y$} (vertical), que se cortan en el \textbf{origen} $O(0, 0)$.
+Cada punto $P$ del plano se nombra con una \textbf{pareja ordenada}
+$(x, y)$: primero la abscisa $x$ (cuánto a la derecha o a la izquierda del
+origen) y después la ordenada $y$ (cuánto arriba o abajo). Los ejes dividen el
+plano en cuatro \textbf{cuadrantes}, numerados I, II, III y IV en sentido
+contrario a las manecillas del reloj; los puntos sobre los ejes no están en
+ningún cuadrante.
+\end{definicion}
+
+% Ejercicio: geometria-analitica-10-002
+\begin{ejemplo}[Cuadrantes y ejes]
+¿Dónde está cada punto? $(-3, 5)$ está en el cuadrante II; $(4, -2)$, en el
+IV; $(-1, -1)$, en el III. $(0, -6)$ está sobre el eje $y$ y $(7, 0)$ sobre el
+eje $x$: tienen una coordenada igual a $0$. Los signos dicen el cuadrante:
+$(+,+)$ I, $(-,+)$ II, $(-,-)$ III, $(+,-)$ IV.
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=-4.5, xmax=8, ymin=-7, ymax=6,
+    xtick={-3,...,7}, ytick={-6,...,5}, width=0.55\linewidth, height=0.5\linewidth]
+  \addplot[only marks, mark=*, mark size=1.8pt] coordinates {(-3,5) (4,-2) (0,-6) (-1,-1) (7,0)};
+  \node[above, fill=white, inner sep=1pt] at (axis cs:-3,5.2) {$(-3, 5)$};
+  \node[right] at (axis cs:4,-2) {$(4, -2)$};
+  \node[right] at (axis cs:0,-6) {$(0, -6)$};
+  \node[below, fill=white, inner sep=1pt] at (axis cs:-1.8,-1.3) {$(-1, -1)$};
+  \node[above] at (axis cs:7,0) {$(7, 0)$};
+  \node[font=\small\bfseries] at (axis cs:3,4) {I};
+  \node[font=\small\bfseries] at (axis cs:-3,2.5) {II};
+  \node[font=\small\bfseries] at (axis cs:-3,-4) {III};
+  \node[font=\small\bfseries] at (axis cs:5,-4.5) {IV};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+Con puntos se forman figuras: un polígono queda determinado por las
+coordenadas de sus vértices. Y un mismo lugar puede tener coordenadas distintas
+si cambiamos el origen: las coordenadas dependen del \emph{sistema de
+referencia}, pero las distancias no.
+
+\begin{aplicacion}[Cali en el plano]
+Si tomamos la longitud como eje $x$ (positiva hacia el este) y la latitud como
+eje $y$ (positiva hacia el norte), Cali ($3^\circ 27'$ N, $76^\circ 32'$ O) es
+un punto con $x$ negativa e $y$ positiva: está en el «cuadrante II» del mundo,
+al oeste del meridiano de Greenwich y al norte del ecuador. Por eso muchos
+mapas digitales escriben su ubicación con signos, como $(3{,}45;\ -76{,}53)$:
+latitud primero y longitud después, con negativo para el oeste.
+\end{aplicacion}
+
+\begin{preguntas}
+% Ejercicio: plano-cartesiano-5-013
+\Needspace{6\baselineskip}
+\pregunta En un plano cartesiano están marcados los puntos $D(-1, +1)$,
+$H(+2, +1)$, $K(+5, +1)$, $A(-5, +2)$, $C(-3, +2)$, $E(0, +2)$, $B(-3, +4)$,
+$F(0, +4)$, $G(+2, +4)$, $J(+5, +4)$, $N(-3, -2)$, $L(+2, -2)$, $M(+4, -2)$,
+$P(-3, -4)$. ¿Cuál es mayor: la distancia del punto $B$ al punto $N$ o la
+distancia del punto $A$ al punto $E$?
+\espacio{3cm}
+% Ejercicio: coordenadas-11-003
+\pregunta En un mapa con unidades en kilómetros y origen en el puerto, una
+estación de radio está en $E(0, 0)$ y un barco en $B(30, 40)$. Un segundo mapa
+pone el origen en un faro que está $20$~km al este y $10$~km al norte del
+puerto.
+\begin{opciones}
+  \item Escribe las coordenadas de $E$ y $B$ en el segundo mapa.
+  \item Calcula la distancia $EB$ en los dos mapas. ¿Qué cambia y qué no cambia
+        al mover el origen?
+\end{opciones}
+\espacio{3.5cm}
+% Ejercicio: geometria-analitica-10-006
+\pregunta Según la Alcaldía, Cali está en $3^\circ 27'$ de latitud norte y
+$76^\circ 32'$ de longitud oeste. Toma un plano en el que $x$ es la longitud
+(positiva al este) e $y$ la latitud (positiva al norte), en grados. Escribe la
+ubicación de Cali como un par ordenado con dos decimales y di en qué cuadrante
+queda. (Recuerda: $1^\circ = 60'$.)
+\espacio{2.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Un punto del plano es una pareja \emph{ordenada} $(x, y)$: el orden
+        importa.
+  \item Los signos de las coordenadas indican el cuadrante; si una coordenada
+        es $0$, el punto está sobre un eje.
+  \item Al cambiar el origen cambian las coordenadas, no las distancias.
+        Latitud y longitud son coordenadas sobre la esfera; en un mapa pequeño
+        funcionan como un plano cartesiano.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Distancia entre dos puntos}\label{tema:distancia}
+
+\begin{hilo}
+Ya sabemos \emph{dónde} está cada lugar. La siguiente pregunta de quien mira un
+mapa es \emph{¿a qué distancia?}, y si dos personas quieren encontrarse a mitad
+de camino, \emph{¿dónde?}
+\end{hilo}
+
+Entre $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$ se forma un triángulo rectángulo con
+catetos $|x_2 - x_1|$ y $|y_2 - y_1|$. Por el teorema de Pitágoras, la
+hipotenusa es la distancia.
+
+\begin{teorema}[Distancia y punto medio]
+\[
+  d(P_1, P_2) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2},
+  \qquad
+  M = \left( \frac{x_1 + x_2}{2},\ \frac{y_1 + y_2}{2} \right).
+\]
+El punto medio $M$ del segmento $\overline{P_1P_2}$ es el promedio de las
+coordenadas.
+\end{teorema}
+
+% Ejercicio: coordenadas-11-001
+\begin{ejemplo}[Distancia y punto medio]
+Entre $A(-3, 2)$ y $B(5, 8)$ los catetos miden $5 - (-3) = 8$ y $8 - 2 = 6$:
+\[ d = \sqrt{8^2 + 6^2} = \sqrt{100} = 10, \qquad
+   M = \left(\frac{-3 + 5}{2}, \frac{2 + 8}{2}\right) = (1, 5). \]
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=-4, xmax=6.5, ymin=0, ymax=9.5, xtick={-3,...,5}, ytick={2,4,...,8},
+    width=0.5\linewidth, height=0.42\linewidth]
+  \addplot[black, very thick] coordinates {(-3,2) (5,8)};
+  \addplot[black, thick, dashed, sharp plot] coordinates {(-3,2) (5,2) (5,8)};
+  \addplot[only marks, mark=*, mark size=1.8pt] coordinates {(-3,2) (5,8) (1,5)};
+  \node[below left] at (axis cs:-3,2) {$A$};
+  \node[above left] at (axis cs:5,8) {$B$};
+  \node[above left] at (axis cs:1,5) {$M$};
+  \node[below] at (axis cs:1,2) {$8$};
+  \node[right] at (axis cs:5,5) {$6$};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+Con la distancia podemos \textbf{clasificar triángulos} dados sus vértices:
+por sus lados (equilátero, isósceles, escaleno) y por sus ángulos, usando el
+recíproco del teorema de Pitágoras: si $a^2 + b^2 = c^2$ para los tres lados,
+el triángulo es rectángulo.
+
+% Ejercicio: geometria-analitica-10-012
+\begin{aplicacion}[Distancias en el globo]
+Cada grado de latitud equivale a unos $111$ km~\cite{noaa}. Dos lugares sobre
+el mismo meridiano, uno en $2^\circ 15'$ N y otro en $3^\circ 45'$ N, están
+separados por $1^\circ 30' = \num{1,5}^\circ$ de latitud, es decir, por unos
+$\num{1,5} \cdot 111 \approx \num{166,5}$ km en dirección norte--sur. Para
+distancias en otras direcciones se necesita la geometría de la esfera, pero en
+el mapa de una ciudad basta la fórmula de la distancia.
+\end{aplicacion}
+
+\begin{preguntas}
+% Ejercicio: coordenadas-11-002
+\pregunta Halla la distancia y el punto medio de cada par de puntos:
+\begin{opciones*}(3)
+  \item $(1, 1)$ y $(4, 5)$
+  \item $(-2, 3)$ y $(4, -5)$
+  \item $(0, 0)$ y $(3, 3)$
+\end{opciones*}
+\espacio{3cm}
+% Ejercicio: coordenadas-11-004
+\Needspace{14\baselineskip}
+\pregunta Demuestra con coordenadas que el triángulo de vértices $A(1, 1)$,
+$B(5, 4)$ y $C(2, 8)$ es isósceles y rectángulo.
+\espacio{3.5cm}
+% Ejercicio: coordenadas-11-005
+\pregunta Un dron de rescate sale del punto $(2, -1)$ y debe llegar a
+$(14, 4)$ (coordenadas en km).
+\begin{opciones}
+  \item ¿Qué distancia recorre en línea recta?
+  \item Debe reportarse a mitad de camino: ¿en qué punto?
+  \item Si vuela a $52$~km/h, ¿cuántos minutos tarda?
+\end{opciones}
+\espacio{3.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item La distancia entre dos puntos es la hipotenusa del triángulo cuyos
+        catetos son las diferencias de las coordenadas.
+  \item El punto medio es el promedio de las coordenadas de los extremos.
+  \item Con las distancias se clasifican triángulos; con el recíproco de
+        Pitágoras se reconoce el ángulo recto.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Lugares geométricos}\label{tema:lugaresgeometricos}
+
+\begin{hilo}
+Fermat hablaba de \emph{lugares}: no un punto, sino todos los puntos que
+cumplen una condición. ¿Dónde tiene señal una antena? ¿Dónde poner algo que
+quede igual de lejos de dos estaciones? Las respuestas son lugares
+geométricos.
+\end{hilo}
+
+\begin{definicion}[Lugar geométrico]
+Un \textbf{lugar geométrico} es el conjunto de todos los puntos del plano que
+cumplen una condición. Su \textbf{ecuación} es la relación entre $x$ e $y$ que
+satisfacen esos puntos, y solo ellos.
+\end{definicion}
+
+\begin{itemize}
+  \item La \textbf{mediatriz} de un segmento $\overline{AB}$ es el lugar de los
+        puntos $P$ que están a igual distancia de $A$ y de $B$: $PA = PB$. Es la
+        recta perpendicular a $\overline{AB}$ por su punto medio.
+  \item La \textbf{circunferencia} de centro $C(h, k)$ y radio $r$ es el lugar
+        de los puntos que están a distancia $r$ de $C$:
+        $(x - h)^2 + (y - k)^2 = r^2$.
+\end{itemize}
+
+% Ejercicio: lugares-geometricos-11-004
+\begin{ejemplo}[La mediatriz]
+Dos estaciones están en $A(0, 0)$ y $B(8, 4)$. Los puntos $P(x, y)$ a igual
+distancia de las dos cumplen $PA^2 = PB^2$:
+\[ x^2 + y^2 = (x - 8)^2 + (y - 4)^2. \]
+Al desarrollar, $x^2$ e $y^2$ se cancelan: $0 = -16x + 64 - 8y + 16$, es decir,
+$16x + 8y = 80$, o $y = -2x + 10$. Pasa por el punto medio $(4, 2)$, y el
+punto $(5, 0)$ la cumple: está a $5$ de $A$ y a $\sqrt{9 + 16} = 5$ de $B$.
+\end{ejemplo}
+
+% Ejercicio: lugares-geometricos-11-001
+\begin{ejemplo}[La circunferencia]
+La circunferencia de centro $(3, -2)$ y radio $5$ es
+$(x - 3)^2 + (y + 2)^2 = 25$. El punto $(6, 2)$ está sobre ella, porque
+$(6 - 3)^2 + (2 + 2)^2 = 9 + 16 = 25$.
+\end{ejemplo}
+
+\begin{center}
+\begin{minipage}{\linewidth}\centering
+\begin{tikzpicture}
+\begin{axis}[mmc, axis equal, xmin=-3, xmax=10, ymin=-8, ymax=11,
+    xtick={-2,2,4,6,8}, ytick={-6,-4,-2,2,4,6,8,10}, width=0.55\linewidth, height=0.6\linewidth]
+  \addplot+[domain=0:360, samples=120, variable=\t] ({3+5*cos(t)}, {-2+5*sin(t)});
+  \addplot+[domain=-0.5:5.5] {10-2*x};
+  \addplot[black, thick] coordinates {(0,0) (8,4)};
+  \addplot[only marks, mark=*, mark size=1.6pt] coordinates {(3,-2) (6,2) (0,0) (8,4) (4,2)};
+  \node[below right] at (axis cs:3,-2) {$(3, -2)$};
+  \node[below right, fill=white, inner sep=1pt] at (axis cs:6.1,1.9) {$(6, 2)$};
+  \node[left] at (axis cs:0,0) {$A$};
+  \node[above] at (axis cs:8,4) {$B$};
+\end{axis}
+\end{tikzpicture}
+
+{\small Circunferencia de centro $(3, -2)$ y radio $5$ (línea continua) y
+mediatriz $y = -2x + 10$ del segmento $\overline{AB}$ (línea discontinua).}
+\end{minipage}
+\end{center}
+
+\begin{aplicacion}[La cobertura de una antena]
+Si en terreno plano y sin obstáculos una antena llega hasta $3$ km a la
+redonda, la zona con señal es el círculo de radio $3$ con centro en la antena,
+y su borde es una circunferencia. En la realidad los edificios y las montañas
+deforman esa zona, pero el modelo ideal ya responde la pregunta básica: una casa
+tiene señal si su distancia a la antena es menor o igual que $3$ km.
+\end{aplicacion}
+
+\begin{preguntas}
+% Ejercicio: lugares-geometricos-11-003
+\Needspace{9\baselineskip}
+\pregunta Una estación en el origen emite un pulso de radio que tarda
+$200$~µs en llegar a un barco. Las ondas de radio viajan a unos
+$\num{0,3}$~km/µs.
+\begin{opciones}
+  \item ¿A qué distancia está el barco?
+  \item ¿Dónde puede estar? Escribe la ecuación.
+  \item ¿Por qué una sola estación no basta para saber la posición?
+\end{opciones}
+\espacio{3.5cm}
+% Ejercicio: lugares-geometricos-11-005
+\pregunta Pedro dice: «Los puntos que están a igual distancia de $A(1, 2)$ y
+$B(5, 2)$ forman la circunferencia de centro $(3, 2)$ que pasa por $A$ y
+$B$». Da un punto de esa circunferencia que no esté a igual distancia de $A$ y
+$B$, y escribe el lugar geométrico correcto.
+\espacio{3.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Un lugar geométrico es el conjunto de \emph{todos} los puntos que
+        cumplen una condición; su ecuación la traduce al álgebra.
+  \item Mediatriz: $PA = PB$; es una recta perpendicular al segmento por su
+        punto medio.
+  \item Circunferencia de centro $(h, k)$ y radio $r$:
+        $(x - h)^2 + (y - k)^2 = r^2$.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{La recta}\label{tema:recta}
+
+\begin{hilo}
+Katherine Johnson calculaba trayectorias de naves que daban vueltas a la
+Tierra. Antes de las curvas, el camino más sencillo entre dos lugares de un
+mapa es la línea recta, el primer lugar geométrico que Fermat escribió con una
+ecuación.
+\end{hilo}
+
+\begin{definicion}[Pendiente]
+La \textbf{pendiente} de la recta que pasa por $P_1(x_1, y_1)$ y
+$P_2(x_2, y_2)$, con $x_1 \neq x_2$, es
+\[ m = \frac{y_2 - y_1}{x_2 - x_1}, \]
+es decir, cuánto cambia $y$ por cada unidad que avanza $x$. Si $m > 0$ la
+recta es creciente; si $m < 0$, decreciente; si $m = 0$, horizontal. Si
+$x_1 = x_2$, la recta es vertical y su pendiente no está definida.
+\end{definicion}
+
+% Ejercicio: funcion-lineal-9-046
+\begin{ejemplo}[Calcular una pendiente]
+Por $(2, 5)$ y $(6, 10)$: $m = \frac{10 - 5}{6 - 2} = \frac{5}{4}$. Por cada
+$4$ unidades que avanza $x$, $y$ sube $5$.
+\end{ejemplo}
+
+\begin{teorema}[Ecuaciones de la recta]
+\begin{itemize}
+  \item Punto-pendiente: $y - y_1 = m(x - x_1)$.
+  \item Pendiente-intercepto: $y = mx + b$, donde $(0, b)$ es el corte con el
+        eje $y$.
+  \item General: $Ax + By + C = 0$, con $A$ y $B$ no ambos cero. Si $B \neq 0$,
+        $m = -\frac{A}{B}$.
+\end{itemize}
+Dos rectas no verticales son \textbf{paralelas} si $m_1 = m_2$, y
+\textbf{perpendiculares} si $m_1 \cdot m_2 = -1$. Una recta horizontal y una
+vertical también son perpendiculares.
+\end{teorema}
+
+% Ejercicio: funcion-lineal-9-060
+\begin{ejemplo}[La recta que pasa por dos puntos]
+Por $(5, 3)$ y $(2, 8)$: $m = \frac{8 - 3}{2 - 5} = -\frac{5}{3}$. Con el punto
+$(5, 3)$: $y - 3 = -\frac{5}{3}(x - 5)$, y despejando,
+$y = -\frac{5}{3}x + \frac{34}{3}$.
+\end{ejemplo}
+
+% Ejercicio: funcion-lineal-9-011
+\begin{ejemplo}[Graficar desde la ecuación]
+Para trazar $y = -2x + 4$ bastan dos puntos: con $x = 0$, $y = 4$; con $y = 0$,
+$x = 2$. La recta corta los ejes en $(0, 4)$ y $(2, 0)$ y es decreciente
+($m = -2$).
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, xmin=-1.5, xmax=4, ymin=-2.5, ymax=6, xtick={-1,...,3}, ytick={-2,...,5},
+    width=0.45\linewidth, height=0.42\linewidth]
+  \addplot+[domain=-1:3.2] {-2*x+4};
+  \addplot[only marks, mark=*, mark size=1.8pt] coordinates {(0,4) (2,0)};
+  \node[right] at (axis cs:0,4) {$(0, 4)$};
+  \node[above right] at (axis cs:2,0) {$(2, 0)$};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+\begin{aplicacion}[Una ruta recta en el mapa]
+Si la ruta de un bus en el mapa es un tramo recto, su ecuación permite saber,
+sin dibujar, si pasa por un lugar: basta reemplazar las coordenadas del lugar
+en la ecuación. Si la igualdad se cumple, el lugar está sobre la ruta; si no,
+queda por fuera. Y si dos rutas tienen la misma pendiente y distinto corte con
+el eje $y$, son paralelas: nunca se cruzan.
+\end{aplicacion}
+
+\begin{preguntas}
+% Ejercicio: funcion-lineal-9-061
+\pregunta Encuentra la ecuación de la recta que pasa por $(4, -4)$ y
+$(-8, 8)$.
+\espacio{2.5cm}
+% Ejercicio: funcion-lineal-9-069
+\Needspace{8\baselineskip}
+\pregunta Encuentra la ecuación de una recta paralela y la de una recta
+perpendicular a la recta $y = -\frac{5}{3}x + \frac{34}{3}$ (la que pasa por
+$(5, 3)$ y $(2, 8)$).
+\espacio{3cm}
+% Ejercicio: funcion-lineal-9-094
+\pregunta Grafica las rectas $y = 5$ y $x = 4$ y determina si son paralelas,
+perpendiculares o ninguna de las dos.
+\espacio{3cm}
+% Ejercicio: funcion-lineal-9-095
+\pregunta Grafica las rectas $2x + 3y = -2$ y $3x - y = 4$ y determina si son
+paralelas, perpendiculares o ninguna de las dos.
+\espacio{3cm}
+% Ejercicio: geometria-analitica-10-030
+\pregunta Sofía calculó la pendiente de la recta que pasa por $(1, 3)$ y
+$(4, 9)$ así: $m = \frac{4 - 1}{9 - 3} = \frac{1}{2}$. Encuentra el error y
+corrígelo.
+\espacio{2.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Pendiente: $m = \frac{y_2 - y_1}{x_2 - x_1}$; su signo dice si la
+        recta crece o decrece; la vertical no tiene pendiente.
+  \item Formas de la ecuación: $y - y_1 = m(x - x_1)$, $y = mx + b$ y
+        $Ax + By + C = 0$.
+  \item Paralelas: $m_1 = m_2$. Perpendiculares: $m_1 \cdot m_2 = -1$.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+% 5. Prepárate para Saber 11
+% ---------------------------------------------------------------------
+\seccion{Prepárate para Saber 11}
+
+\begin{instrucciones}
+Preguntas de selección múltiple con única respuesta, tomadas textualmente del
+cuadernillo de preguntas de Matemáticas Saber 11.º del Icfes~\cite{icfes}.
+Resuélvelas en tu cuaderno y compara tus respuestas con las de tus compañeros.
+\end{instrucciones}
+
+\begin{preguntas}
+% Ejercicio: icfes-cuadernillo-2026-008 (textual; © Icfes 2026, uso académico)
+\pregunta Un grupo de montañistas sabe que cada vez que aumenta la altitud en
+100 m, la temperatura disminuye en 1~°C. Si el grupo se encuentra a una
+altitud de 1.000 m, donde la temperatura es de 20~°C, ¿cuál de las siguientes
+expresiones les permite determinar la temperatura que habrá cuando se
+encuentren a 4.000 m de altitud?
+\begin{opciones}
+  \item $\text{Temperatura} = \left(\dfrac{\text{Altitud}}{100}\right) + 10$
+  \item $\text{Temperatura} = -\,\text{Altitud} \times 100 + 30$
+  \item $\text{Temperatura} = -\left(\dfrac{\text{Altitud}}{100}\right) + 30$
+  \item $\text{Temperatura} = \text{Altitud} \times 100 + 10$
+\end{opciones}
+{\small\color{mmcGris} Icfes, Cuadernillo de preguntas Matemáticas Saber 11.º
+(2026), pregunta 8.}
+% Ejercicio: icfes-cuadernillo-2026-020 (textual; © Icfes 2026, uso académico)
+\pregunta La tabla presenta la información sobre el gasto en publicidad y las
+ganancias de una empresa durante los años 2020 a 2022 (datos en millones de
+pesos): 2020, gasto en publicidad 200, ganancia obtenida 8.000; 2021, gasto
+280, ganancia 10.400; 2022, gasto 250, ganancia 9.500. ¿Cuál es la función que
+representa la ganancia obtenida $G$, en millones de pesos, en función del
+gasto en publicidad $p$?
+\begin{opciones*}(2)
+  \item $G(p) = 30p + 2.000$
+  \item $G(p) = 10p$
+  \item $G(p) = 40p$
+  \item $G(p) = 40p - 800$
+\end{opciones*}
+{\small\color{mmcGris} Icfes, Cuadernillo de preguntas Matemáticas Saber 11.º
+(2026), pregunta 20.}
+% Ejercicio: icfes-cuadernillo-2026-032 (textual; © Icfes 2026, uso académico)
+\pregunta Un trapecio isósceles es un trapecio cuyos lados no paralelos son
+congruentes. En un plano cartesiano se dibuja un trapecio isósceles de modo que
+el eje $y$ divide al trapecio en dos figuras iguales. Si las coordenadas de dos
+de los vértices del trapecio son $(-4, 2)$ y $(-2, 8)$, ¿cuáles son las
+coordenadas de los otros dos vértices?
+\begin{opciones}
+  \item $(8, 2)$ y $(2, 4)$.
+  \item $(2, 8)$ y $(4, 2)$.
+  \item $(-2, -4)$ y $(-8, -2)$.
+  \item $(-4, -2)$ y $(-2, -8)$.
+\end{opciones}
+{\small\color{mmcGris} Icfes, Cuadernillo de preguntas Matemáticas Saber 11.º
+(2026), pregunta 32.}
+\end{preguntas}
+
+% ---------------------------------------------------------------------
+% 6. Cierre del hilo conductor
+% ---------------------------------------------------------------------
+\seccion{Cierre: dos números para ubicarse}
+
+De Hiparco a Katherine Johnson, la idea fue siempre la misma: dos números
+bastan para ubicar un lugar. Con ellos medimos distancias, encontramos el punto
+de encuentro, describimos zonas enteras —todos los puntos a cierta distancia de
+una antena, todos los que están igual de lejos de dos estaciones— y trazamos caminos
+rectos con una ecuación. Eso es lo que Descartes y Fermat llamaron reducir la
+geometría al álgebra. En el siguiente trimestre la circunferencia volverá, junto
+con la parábola: son \emph{cónicas}, curvas que estudió Apolonio y que, hacia el
+año 400, Hipatia comentaba a sus estudiantes en Alejandría~\cite{dzielska}.
+
+% ---------------------------------------------------------------------
+% 7. Evaluación (secciones institucionales)
+% ---------------------------------------------------------------------
+\matrizevaluacion
+  {Reconoce los elementos del plano cartesiano y las fórmulas de distancia,
+   punto medio, pendiente y ecuaciones de la recta y de la circunferencia.}
+  {Ubica figuras en el plano, calcula distancias y puntos medios, encuentra
+   mediatrices, circunferencias y rectas a partir de sus condiciones y las
+   grafica.}
+  {Justifica sus resultados y los comprueba en el plano antes de darlos por
+   buenos.}
+  {Comparte sus estrategias y revisa con respeto el trabajo de sus compañeros,
+   con argumentos.}
+
+\autoevaluacion
+
+\seguimientodocente
+
+% ---------------------------------------------------------------------
+% 8. Referencias
+% ---------------------------------------------------------------------
+\begin{referencias}
+% verificado: https://www.cali.gov.co/informatica/publicaciones/106104/geografia-de-cali/ — «3°27′00″N 76°32′00″O»
+\bibitem{alcaldia} Alcaldía de Santiago de Cali. \emph{Geografía de Cali}.
+  \url{https://www.cali.gov.co/informatica/publicaciones/106104/geografia-de-cali/}
+% verificado: https://fr.wikisource.org/wiki/La_G%C3%A9om%C3%A9trie_(%C3%A9d._1637) — Discours de la méthode plus La Dioptrique, Les Météores et La Géométrie, Leiden, Jan Maire, 1637, pp. 296-413
+\bibitem{descartes} Descartes, R. (1637). La Géométrie. En \emph{Discours de
+  la méthode} (pp. 296--413). Leiden: Jan Maire.
+% verificado: https://bmcr.brynmawr.edu/1995/1995.07.07/ — reseña BMCR de Dzielska, Hypatia of Alexandria, Harvard UP 1995; comentario a las Cónicas de Apolonio en https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/
+\bibitem{dzielska} Dzielska, M. (1995). \emph{Hypatia of Alexandria} (trad.
+  F. Lyra). Cambridge, MA: Harvard University Press.
+% verificado: https://www.ebsco.com/research-starters/history/hipparchus — «He began the systematic use of longitude and latitude [...] as a means of establishing locations on Earth's surface»
+\bibitem{ebsco} EBSCO. \emph{Hipparchus}. Research Starters.
+  \url{https://www.ebsco.com/research-starters/history/hipparchus}
+% verificado: https://archive.org/details/variaoperamathe00ferm — Varia opera mathematica, Tolosae, apud Johannem Pech, 1679 (ed. Samuel de Fermat)
+\bibitem{fermat} Fermat, P. de (1679). \emph{Varia opera mathematica}.
+  Toulouse: J. Pech.
+% verificado: recursos/matematicas/icfes/09-Marzo_Cuadernillo-de-Preguntas-Matematicas-Saber-11-2026.pdf (archivo local) — pregunta 32, clave B
+\bibitem{icfes} Icfes (2026). \emph{Cuadernillo de preguntas: Matemáticas,
+  Saber 11.º}. Bogotá: Instituto Colombiano para la Evaluación de la Educación.
+% verificado: https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/ — La Géométrie, uno de los tres apéndices del tratado publicado en Leiden en 1637, «by far the most important part»
+\bibitem{mactutordescartes} O'Connor, J. J. y Robertson, E. F. \emph{René
+  Descartes}. MacTutor History of Mathematics, Universidad de St Andrews.
+% verificado: https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/ — nacido en 190 a. C. en Nicea, muerto hacia 120 a. C.
+\bibitem{mactutorhiparco} O'Connor, J. J. y Robertson, E. F. \emph{Hipparchus
+  of Rhodes}. MacTutor History of Mathematics, Universidad de St Andrews.
+% verificado: https://www.encyclopedia.com/people/science-and-technology/mathematics-biographies/pierre-de-fermat — M. S. Mahoney, Complete Dictionary of Scientific Biography: Isagoge compuesta antes de la primavera de 1636, independiente de Descartes; Dx = Ey (recta)
+\bibitem{mahoney} Mahoney, M. S. Fermat, Pierre de. En \emph{Complete
+  Dictionary of Scientific Biography}. Charles Scribner's Sons (Encyclopedia.com).
+% verificado: https://gblumen.mineducacion.gov.co/cgi-bin/koha/opac-detail.pl?biblionumber=4785 — MEN 2016, ISBN 978-958-691-913-5
+\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos
+  Básicos de Aprendizaje V.2: Matemáticas}. Bogotá: MEN.
+% verificado: https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/ — 1918-2020; Shepard (1961), Glenn (1962), Medalla Presidencial de la Libertad (2015)
+\bibitem{nasajohnson} NASA. \emph{Katherine Johnson Biography}.
+  \url{https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/}
+% verificado: https://oceanservice.noaa.gov/facts/latitude.html — «Each degree of latitude covers about 111 kilometers on the Earth's surface»
+\bibitem{noaa} NOAA National Ocean Service. \emph{What is latitude?}
+  \url{https://oceanservice.noaa.gov/facts/latitude.html}
+% verificado: https://catalog.hathitrust.org/Record/011445470 — NASA TN D-233, Langley, 1960; Skopinski y Johnson
+\bibitem{skopinski} Skopinski, T. H. y Johnson, K. G. (1960).
+  \emph{Determination of Azimuth Angle at Burnout for Placing a Satellite Over
+  a Selected Earth Position} (NASA TN D-233). Washington: NASA.
+\end{referencias}
+
+\end{document}

@@ -46,10 +46,18 @@ revisar las etapas A y B juntas.
 ### Etapa B — Ejercicios verificados (skill `verificar-ejercicios`)
 
 1. Para cada ejercicio planeado, busca primero en el banco uno ya verificado que sirva
-   (`python3 tools/ejercicios.py listar --tema … --grado …`); reutilízalo tal cual.
-2. Los que falten se escriben en `recursos/banco/` con su comprobación y se verifican; solo se ejecutan
-   los nuevos o cambiados. Los ejemplos resueltos del marco teórico se verifican igual.
-3. Anota en el plan, por tema, los ids de los ejercicios y su estado.
+   (`python3 tools/ejercicios.py listar --tema … --grado …`, y también temas y grados vecinos);
+   reutilízalo tal cual. **El banco es para ahorrar tiempo:** si un ejercicio aprobado cumple
+   la intención del plan, ajusta el plan a él en vez de escribir uno nuevo.
+2. **La guía no crea ejercicios nuevos: usa solo los del banco.** Si una evidencia del DBA no
+   tiene ningún ejercicio verificado, no lo inventes: anótalo en el plan como pendiente para la
+   docente, y escríbelo solo si ella (o el usuario) lo pide expresamente. **Excepción:** si el
+   banco no tiene nada para ese grado o tema (p. ej. Geometría 3°–4°), la guía puede traer unos
+   pocos ejercicios nuevos, los mínimos, verificados y marcados como nuevos en el plan. Lo mismo para los
+   ejemplos resueltos del marco teórico: primero el banco. Ver «Reuse, don't multiply» en el
+   skill `verificar-ejercicios`.
+3. Anota en el plan, por tema, los ids de los ejercicios, su estado, cuáles son reusados y, para
+   cada nuevo, por qué hizo falta.
 
 → **Revisión 2:** la docente aprueba los ejercicios (tabla id · enunciado · respuesta · estado)
 y las respuestas modelo de los manuales (`python3 tools/ejercicios.py aprobar <id>`).

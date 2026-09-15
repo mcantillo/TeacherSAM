@@ -402,6 +402,57 @@ se conocía antes y no hay prueba suya conservada; «teorema de Tales = ángulo 
 semicírculo» → depende del idioma. No se usa la cuerda de 12 nudos de los «tensadores de
 cuerda» egipcios (sin fuente primaria).
 
+## Etapas B y C (modo rápido, 2026-09-15, sin esperar la Revisión 1)
+
+La docente pidió avanzar sin la Revisión 1. Las preguntas de arriba se resolvieron con las
+recomendaciones del propio plan como **decisión provisional**; todas quedan para la revisión.
+
+**Decisiones provisionales**
+
+1. Repaso corto de clasificación (filas 001–002) dentro del tema 1; la guía no tiene tema
+   «Triángulos» aparte.
+2. Fila 003 sin DBA: no se tocó el CSV; la guía no le asigna DBA (los ejercicios del tema 1
+   quedan con `matematicas-8-7` en el banco, como `triangulos-8`).
+3. Orden: Tales (proporcionalidad) después de Pitágoras, como dice el CSV.
+4. «Teorema de Tales» = el de las paralelas (Euclides VI.2); el de la semicircunferencia solo
+   se menciona, sin ejercicios.
+5. Duplicados 6°/8° y 9°/11° sin decidir: se usan `triangulos-8` y `pitagoras-8` (son de 8°);
+   no se usan `pitagoras-9`, `medicion-11` ni `angulos-8`.
+6. `pitagoras-8-039` (√225 o √255) y `triangulos-8-003` (bisectrices) **no se usan**.
+7. El criterio falso del módulo («dos ángulos iguales ⇒ congruentes») se corrige en la guía
+   sin nombrar el recurso.
+
+**Referencias re-verificadas (antes «por confirmar»)**
+
+| Clave | Veredicto | URL |
+|---|---|---|
+| plutarco | confirmada: *Moralia* 147A, trad. F. C. Babbitt, Loeb 222 (1928); se cita textual (trad. propia) | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Dinner_of_the_Seven*.html |
+| elgabry (nueva) | confirmada: base ≈ 230,33 m, altura original 146,59 m (*Scientific Reports*, 2026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13194686/ |
+| garfield (nueva) | confirmada: «Pons Asinorum», J. A. G., *New-England Journal of Education* 3(14), 1 abr. 1876, p. 161 (registro JSTOR hallado por búsqueda; la página no cargó el texto) | https://www.jstor.org/stable/44764657 |
+
+No se usan en la guía: `mactutorbabilonia` (YBC 7289 y √2 son de Álgebra) ni la cita
+Diógenes I.24 textual (va parafraseada).
+
+**Ejercicios (etapa B)** — regla de la docente del 2026-09-15 («Reuse, don't multiply»):
+se reusa todo lo posible y solo se escribe lo que el banco no tiene. Buscado también en otros
+grados: `congruencia-9` y `medicion-indirecta-9` están *sin verificar*; `icfes-cuadernillo-2026-015`
+(sombras) es de 11° y va textual con figura; `semejanza-escala-5` es de 5°. Nuevos en
+`recursos/banco/matematicas/triangulos-geometria-8.py` (verificados con
+`verificar --sin-registro`; falta el `verificar` con registro). Ningún manual nuevo.
+
+| Tema | Reusados | Nuevos y por qué |
+|---|---|---|
+| 1 ángulos | ejemplo triangulos-8-015; ejercicios triangulos-8-017, -021, -014, -018 | ninguno |
+| 2 congruencia | — | tg-001 (qué criterio, y por qué AAA no basta: no hay congruencia de 8° en el banco); tg-002 (el barco de Tales, ALA en contexto: el hilo) |
+| 3 semejanza | — | tg-003 (¿son semejantes?: no hay semejanza de 8°); tg-004 (altura con la sombra de un palo: contexto); tg-005 (la pirámide, ejemplo resuelto del hilo) |
+| 4 Pitágoras | pitagoras-8-008, -005 (recíproco), -036, -026, -041 (lados); demostraciones sin id (son teoría) | tg-006 (escuadra 60-80-100 del maestro de obra: `pitagoras-8` no tiene contexto, y `pitagoras-9`/`medicion-11` esperan la decisión 9°/11°) |
+| 5 Tales | — (ejemplo resuelto: la construcción, sin números) | tg-007 (hallar un segmento); tg-008 (recíproco, argumentación): no hay Tales de 8° |
+
+(tg = `triangulos-geometria-8`.) 8 nuevos, todos verificados: más que el rango orientativo
+(0–5) porque tres temas (congruencia, semejanza, Tales) no tenían ningún ejercicio de 8°; son
+dos por tema más el ejemplo de la pirámide y un contexto de Pitágoras. Una primera versión con
+28 (series de reserva y 5 manuales) se recortó antes de registrarse.
+
 ## Lo que viene
 
 - **Etapa B** (tras la aprobación): usar `triangulos-8` y `pitagoras-8` según las decisiones
