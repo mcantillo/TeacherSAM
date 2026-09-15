@@ -14,7 +14,9 @@ dice cuáles leer y qué cambia en tu entorno.
 ## 1. Al empezar cada sesión
 
 1. Lee `CLAUDE.md` completo: qué es el proyecto, la regla de preguntar en vez de suponer, el
-   orden de trabajo, el esquema de carpetas, el **estado actual** y los **pendientes**.
+   orden de trabajo, el esquema de carpetas y el **estado actual**. Los **pendientes** están en
+   `PENDIENTES.md` y lo ya hecho en `CHANGELOG.md`: lee la parte de `PENDIENTES.md` del curso
+   con el que vas a trabajar.
 2. Identifica la tarea y lee **su** archivo de reglas antes de empezar. Lee solo lo que la tarea
    necesita:
 
@@ -84,6 +86,8 @@ archivos de este proyecto**, que también usa Claude Code. Cuando la docente fij
 nueva o cambie algo del proceso:
 
 - escríbela en `CLAUDE.md` (si vale para todo) o en el `SKILL.md` de la tarea;
-- actualiza la línea «Current status» de `CLAUDE.md` cuando avance el trabajo;
+- cuando se abra o se cierre un pendiente, actualiza `PENDIENTES.md`; cuando termines un
+  trabajo, agrega una línea con la fecha a `CHANGELOG.md`; y cambia el párrafo «Current status»
+  de `CLAUDE.md` solo cuando un curso pase a otro paso;
 - si cambia la forma de trabajar, actualiza también `GUIA-CLAUDE-CODE.md` (la guía de la
   docente) y la tabla de la sección 1 de este archivo.
