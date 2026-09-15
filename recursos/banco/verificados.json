@@ -8117,6 +8117,18 @@
   "fecha": "2026-09-15",
   "archivo": "recursos/banco/matematicas/fracciones-algebraicas-9.py"
  },
+ "fuerzas-10-001": {
+  "huella": "9f97ba97a3deeeb0",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/fuerzas-10.py"
+ },
+ "fuerzas-10-002": {
+  "huella": "4cca895d7a2cc39c",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/fisica/fuerzas-10.py"
+ },
  "funcion-cuadratica-9-001": {
   "huella": "f1265f7f600c04f6",
   "estado": "verificado",

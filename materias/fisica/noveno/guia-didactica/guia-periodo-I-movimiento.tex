@@ -1,0 +1,546 @@
+% =====================================================================
+% Guía del estudiante -- Física 9° -- Trimestre I
+% Hilo conductor: De Aristóteles a Galileo
+% Temas (propuesta de curriculo/plan-anual.md, clases 002-008):
+%   cientificos, describir, mru, marcos
+% Plan: guia-periodo-I-movimiento.plan.md
+% =====================================================================
+% BORRADOR: el plan del trimestre está pendiente de aprobación de la docente (generación rápida 2026-09-14).
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% ======================== DATOS DE LA GUÍA ============================
+\tipodocumento{Guía del estudiante}
+\asignatura{Física}
+\titulo{Describir el movimiento: posición, velocidad y marcos de referencia}
+\grado{9°}
+\periodo{I}
+\hiloconductor{De Aristóteles a Galileo}
+% ======================================================================
+% DBA: naturales grado 9 · DBA 1 — Comprende que el movimiento de un cuerpo, en un marco de
+% referencia inercial dado, se puede describir con gráficos y predecir por medio de
+% expresiones matemáticas. (dba/naturales/grados/grado09.tex; en el trimestre I, solo en una
+% dimensión y con velocidad constante.)
+
+\begin{document}
+
+\encabezado
+
+% ---------------------------------------------------------------------
+% 1. Frase introductoria
+% ---------------------------------------------------------------------
+% verificado: https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_153to160.html — Crew y de Salvio (1914), pp. 153–154: «My purpose is to set forth a very new science dealing with a very ancient subject. There is, in nature, perhaps nothing older than motion»
+\frase{Me propongo exponer una ciencia muy nueva sobre un tema muy antiguo. Quizá no haya
+en la naturaleza nada más antiguo que el movimiento [\ldots]}
+{Galileo Galilei, \emph{Dos nuevas ciencias} (1638), Jornada tercera; trad. propia de la
+versión inglesa de Crew y de Salvio}
+
+% ---------------------------------------------------------------------
+% 2. Introducción
+% ---------------------------------------------------------------------
+\seccion{Introducción}
+
+Todo se mueve: el bus del MIO que te lleva al colegio, el balón en el recreo, la Tierra
+alrededor del Sol. Pero ¿qué significa \emph{describir} un movimiento? Decir «va rápido» no
+basta. En este trimestre aprenderemos a describirlo como lo hace la física: con una posición
+medida desde un punto elegido, con una velocidad que tiene signo, con gráficas y con
+ecuaciones que permiten \emph{predecir} dónde estará un cuerpo dentro de un rato.
+
+Nuestro hilo conductor continúa las exposiciones de científicos que ustedes preparan. Durante
+casi dos mil años se aceptó la explicación de Aristóteles; en la Edad Media, Nicole Oresme
+empezó a dibujar el movimiento; y en el siglo \textsc{xvii} Galileo Galilei lo midió y lo
+escribió en lenguaje matemático. En cada tema daremos un paso de ese camino.
+
+\textbf{Al terminar este trimestre podrás:}
+\begin{itemize}
+  \item distinguir distancia recorrida de desplazamiento, y rapidez de velocidad;
+  \item construir e interpretar gráficas posición--tiempo y velocidad--tiempo de un
+        movimiento con velocidad constante;
+  \item predecir la posición de un cuerpo con la ecuación $x = x_0 + v\,t$;
+  \item explicar cómo cambian la velocidad y la gráfica de un movimiento cuando se describe
+        desde otro marco de referencia.
+\end{itemize}
+
+Este trimestre trabaja el Derecho Básico de Aprendizaje de física de 9.º del Ministerio de
+Educación Nacional~\cite{mendba}. En el trimestre I lo estudiamos en una dimensión y con
+velocidad constante; la aceleración y el movimiento en el plano vienen en el trimestre II.
+
+\begin{dba}[Grado 9 · DBA 1]
+Comprende que el movimiento de un cuerpo, en un marco de referencia inercial dado, se puede
+describir con gráficos y predecir por medio de expresiones matemáticas.
+\end{dba}
+
+% ---------------------------------------------------------------------
+% 3. Marco teórico
+% ---------------------------------------------------------------------
+\seccion{Marco teórico}
+
+\subsubsection*{Aristóteles: todo movimiento necesita un motor}
+
+En su \emph{Física}, escrita en el siglo \textsc{iv} a.\,C., Aristóteles distinguió dos clases
+de movimiento. El \emph{natural}, que un cuerpo realiza por sí mismo según su naturaleza: lo
+pesado cae hacia el centro, lo liviano sube. Y el \emph{forzado} o «violento», como el de una
+piedra lanzada, que va contra esa naturaleza. Para él, todo movimiento necesita algo que lo
+produzca~\cite{sepAristoteles}. Era una explicación del \emph{porqué}; no decía \emph{cuánto}
+se mueve un cuerpo ni \emph{cuándo} llega.
+
+\subsubsection*{Oresme: dibujar el movimiento}
+
+En la década de 1350, el francés Nicole Oresme (c.\,1323--1382) escribió un tratado sobre las
+«configuraciones» de las cualidades y los movimientos. Allí representó una magnitud que
+cambia ---por ejemplo, la velocidad de un cuerpo--- con una figura en la que una línea
+representa el tiempo, y con esas figuras demostró geométricamente una regla sobre la
+velocidad media~\cite{oresme}. Es un antepasado directo de las gráficas que usaremos en este
+trimestre.
+
+\subsubsection*{Galileo: medir}
+
+Galileo Galilei (1564--1642) cambió la pregunta: en lugar de preguntar por qué se mueven los
+cuerpos, se preguntó \emph{cómo} se mueven, y lo midió. En sus \emph{Discursos} de 1638
+definió el movimiento uniforme como aquel en que un cuerpo recorre distancias iguales en
+tiempos iguales, \emph{cualesquiera} que sean esos tiempos~\cite{crew1914}. Y para estudiar la
+caída hizo rodar una esfera por un canal inclinado. Como no tenía cronómetro, medía el tiempo
+con un reloj de agua: dejaba salir un chorrito de un recipiente durante cada bajada y pesaba
+el agua recogida. Encontró que las distancias recorridas en tiempos iguales crecen como los
+números impares $1, 3, 5, 7, \ldots$~\cite{galileo1638}
+
+Seguramente has oído que Galileo dejó caer dos bolas desde la torre inclinada de Pisa. Esa
+historia viene de una biografía que escribió su secretario, Vincenzo Viviani, en 1654 (se
+publicó en 1717); Galileo no dejó ningún registro de ese experimento, y la mayoría de los
+historiadores lo consideran una \emph{leyenda}~\cite{physicsworld}. En ciencia importa
+distinguir lo documentado de lo que solo se cuenta.
+
+\subsubsection*{El barco de Galileo}
+
+En 1632, en su \emph{Diálogo sobre los dos máximos sistemas del mundo}, Galileo propuso un
+experimento imaginario que es la base del último tema de este trimestre~\cite{galileo1632}:
+
+% verificado: https://www.robertoocca.net/fis/fren/fr_principi/galileo_gran_navilio.htm — Dialogo (1632), Jornada segunda: «Riserratevi con qualche amico nella maggiore stanza che sia sotto coverta di alcun gran navilio, e quivi fate d'aver mosche, farfalle e simili animaletti volanti [...] voi non riconoscerete una minima mutazione in tutti li nominati effetti, né da alcuno di quelli potrete comprender se la nave cammina o pure sta ferma»
+\begin{cita}{Galileo Galilei, \emph{Diálogo sobre los dos máximos sistemas del mundo} (1632), Jornada segunda, trad. propia~\cite{galileo1632}}
+Enciérrense con algún amigo en la cámara más grande que haya bajo cubierta de un gran navío,
+y lleven allí moscas, mariposas y otros animalitos voladores [\ldots] no reconocerán el menor
+cambio en ninguno de los efectos mencionados, ni podrán saber por ninguno de ellos si la nave
+avanza o está quieta.
+\end{cita}
+
+Si el barco se mueve con velocidad constante, todo ocurre adentro igual que si estuviera
+quieto. El movimiento siempre se describe \emph{respecto a algo}: a eso lo llamamos marco de
+referencia.
+
+\subsubsection*{Katherine Johnson: trayectorias calculadas a mano}
+
+Tres siglos después, describir movimientos con precisión llevó a los seres humanos al
+espacio. Katherine Johnson (1918--2020) entró en 1953 al centro Langley de la agencia que se
+convertiría en la NASA. Hizo el análisis de la trayectoria del vuelo de Alan Shepard, el
+primer estadounidense en el espacio (1961), y antes del vuelo orbital de John Glenn (1962)
+verificó a mano, con su calculadora de escritorio, las cuentas de la computadora: Glenn pidió
+que ella las revisara antes de despegar. En 2015 recibió la Medalla Presidencial de la
+Libertad~\cite{nasaJohnson}. Calcular una trayectoria exige, antes que nada, elegir desde
+dónde se mide.
+
+% ---------------------------------------------------------------------
+% 4. Temas
+% ---------------------------------------------------------------------
+\tema{Científicos que cambiaron la física}\label{tema:cientificos}
+
+\begin{hilo}
+En las exposiciones conocimos personas que cambiaron la manera de entender el mundo. Hay un
+cambio que nos interesa especialmente: el paso de \emph{explicar} el movimiento con palabras,
+como Aristóteles, a \emph{describirlo} con mediciones, como Galileo.
+\end{hilo}
+
+Describir un movimiento es decir \emph{dónde} está un cuerpo en cada instante. Para eso
+Galileo necesitó dos cosas que hoy parecen obvias: una manera de medir el tiempo y una
+definición precisa. Su definición de movimiento uniforme sigue vigente:
+
+\begin{definicion}[Movimiento uniforme (Galileo, 1638)]
+Un movimiento es uniforme cuando el cuerpo recorre distancias iguales en intervalos de tiempo
+iguales, cualesquiera que sean esos intervalos.
+\end{definicion}
+
+La palabra «cualesquiera» es importante: no basta con que un carro recorra \qty{60}{km} en
+cada hora; también debe recorrer \qty{1}{km} en cada minuto y $\frac{1}{60}$~km en cada segundo.
+Con su plano inclinado Galileo encontró, en cambio, un movimiento que \emph{no} es uniforme:
+en tiempos iguales la esfera recorre distancias que crecen como $1, 3, 5, 7, \ldots$ Ese
+movimiento acelerado lo estudiaremos en el trimestre II.
+
+\begin{aplicacion}[Medir distancias con el tiempo]
+Durante una tormenta, la luz del relámpago llega casi al instante, pero el sonido del trueno
+viaja a unos \qty{340}{m/s}. Contando los segundos entre el relámpago y el trueno se estima a
+qué distancia cayó el rayo: es un movimiento uniforme (el del sonido) usado como instrumento de
+medida, igual que Galileo usaba el agua de su reloj.
+\end{aplicacion}
+
+\begin{preguntas}
+% PENDIENTE: el banco no tiene ejercicios verificados de historia del movimiento; solo se usa uno.
+% Ejercicio: cinematica-10-033
+\pregunta Según una regla práctica, cada cinco segundos entre un relámpago y su trueno indican
+una milla de distancia. Suponiendo que la luz llega instantáneamente, estima con esta regla la
+rapidez del sonido en m/s. ¿Cuál sería la regla en kilómetros?
+\espacio{3cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Aristóteles explicaba por qué se mueven los cuerpos; Galileo midió cómo se mueven.
+  \item Movimiento uniforme: distancias iguales en tiempos iguales, cualesquiera que sean.
+  \item La historia de la torre de Pisa es una leyenda; el plano inclinado y el reloj de agua
+        están documentados en los \emph{Discursos} (1638).
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Describir el movimiento}\label{tema:describir}
+
+\begin{hilo}
+Oresme dibujó el tiempo como una línea. Antes de dibujar, hay que decidir desde dónde medimos
+y hacia dónde contamos positivo: hay que elegir un marco de referencia.
+\end{hilo}
+
+\begin{definicion}[Marco de referencia y posición]
+Un \textbf{marco de referencia} es un cuerpo u objeto desde el que se mide, con un origen y un
+sentido positivo. En una dimensión, la \textbf{posición} $x$ de un cuerpo es su coordenada en
+ese eje: positiva a un lado del origen y negativa al otro.
+\end{definicion}
+
+La \textbf{trayectoria} es el camino que sigue el cuerpo. La \textbf{distancia recorrida} es la
+longitud total de ese camino (siempre positiva). El \textbf{desplazamiento} es el cambio de
+posición, $\Delta x = x_{\text{final}} - x_{\text{inicial}}$: tiene signo y solo depende de dónde
+empezó y dónde terminó el movimiento~\cite{recurso10}.
+
+\begin{definicion}[Rapidez media y velocidad media]
+\[
+  \text{rapidez media} = \frac{\text{distancia recorrida}}{\text{tiempo}},
+  \qquad
+  \bar v = \frac{\Delta x}{\Delta t} = \frac{x_2 - x_1}{t_2 - t_1}.
+\]
+La rapidez media es siempre positiva; el signo de la velocidad media indica el sentido del
+movimiento.
+\end{definicion}
+
+\begin{ejemplo}[Una caminata de ida y vuelta]
+Una persona camina \qty{70}{m} hacia el oriente y luego \qty{30}{m} hacia el occidente, en
+\qty{70}{s} en total. La distancia recorrida es \qty{100}{m}, pero el desplazamiento es
+$\Delta x = \qty{+40}{m}$. Entonces la rapidez media es
+$100/70 \approx \qty{1,4}{m/s}$ y la velocidad media, $40/70 \approx \qty{0,57}{m/s}$ hacia el
+oriente~\cite{recurso10}.
+\end{ejemplo}
+
+\begin{ejemplo}[Velocidad negativa]
+Un corredor pasa de $x_1 = \qty{50,0}{m}$ a $x_2 = \qty{30,5}{m}$ en \qty{3,00}{s}:
+$\bar v = (30{,}5 - 50{,}0)/3{,}00 = \qty{-6,50}{m/s}$. El signo menos indica que se mueve
+hacia el lado negativo del eje~\cite{recurso10}.
+\end{ejemplo}
+
+Para pasar de km/h a m/s se multiplica por $\frac{1000\ \text{m}}{1\ \text{km}}$ y por
+$\frac{1\ \text{h}}{3600\ \text{s}}$, es decir, se divide entre $3{,}6$:
+$\qty{36}{km/h} = \qty{10}{m/s}$.
+
+\begin{aplicacion}[El odómetro y el GPS]
+El odómetro de un carro o de una bicicleta mide la distancia recorrida: sigue sumando aunque
+des vueltas por el mismo barrio. La aplicación de mapas de tu celular, en cambio, puede
+decirte a qué distancia en línea recta estás del punto de partida, que es la magnitud de tu
+desplazamiento. Al final de un paseo que vuelve a la casa, el odómetro marca kilómetros y el
+desplazamiento es cero.
+\end{aplicacion}
+
+\begin{preguntas}
+% Ejercicio: cinematica-10-001
+\pregunta Una hormiga parte de $x = 20$ cm sobre una hoja cuadriculada y camina a lo largo del
+eje $x$ hasta $x = -20$ cm. Luego se devuelve y camina hasta $x = -10$ cm. ¿Cuál es el
+desplazamiento de la hormiga y cuál la distancia total recorrida?
+\espacio{2.5cm}
+% Ejercicio: cinematica-10-030
+\pregunta ¿Cuál debe ser la rapidez promedio de tu automóvil para recorrer 235 km en
+$\num{3,25}$ h?
+\espacio{2cm}
+% Ejercicio: cinematica-10-036
+\pregunta Un caballo se aleja de su entrenador galopando en línea recta 116 m en $\num{14,0}$ s.
+Luego se devuelve y recorre la mitad de esa distancia en $\num{4,8}$ s. Calcula su rapidez
+promedio.
+\espacio{2.5cm}
+% Ejercicio: cinematica-10-037
+\pregunta Para el caballo anterior (116 m alejándose en $\num{14,0}$ s y 58 m de regreso en
+$\num{4,8}$ s), calcula la velocidad promedio de todo el viaje, tomando «alejándose del
+entrenador» como sentido positivo.
+\espacio{2.5cm}
+% Ejercicio: cinematica-10-022
+\pregunta Viajas del punto A al B con rapidez constante de 70 km/h y luego la misma distancia de
+B a C con rapidez constante de 90 km/h. ¿Tu rapidez promedio para el viaje completo es de
+80 km/h? Explica.
+\renglones{4}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Toda posición se mide desde un marco de referencia con origen y sentido positivo.
+  \item Distancia: longitud del camino. Desplazamiento: $\Delta x = x_2 - x_1$, con signo.
+  \item Rapidez media = distancia/tiempo; velocidad media = desplazamiento/tiempo.
+  \item De km/h a m/s se divide entre $3{,}6$.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Movimiento rectilíneo uniforme}\label{tema:mru}
+
+\begin{hilo}
+Galileo definió el movimiento uniforme con palabras; Oresme habría sabido dibujarlo. Juntemos
+las dos ideas: una ecuación y una gráfica para el mismo movimiento.
+\end{hilo}
+
+\begin{definicion}[Movimiento rectilíneo uniforme (MRU)]
+Un cuerpo tiene MRU cuando se mueve en línea recta con velocidad constante $v$. Si en $t = 0$
+está en $x_0$, su posición en cualquier instante es
+\[
+  x = x_0 + v\,t.
+\]
+\end{definicion}
+
+En la gráfica posición--tiempo ($x$--$t$) un MRU es una \textbf{recta}: su punto de corte con
+el eje vertical es $x_0$ y su \textbf{pendiente} es la velocidad. Una pendiente negativa
+significa que el cuerpo se mueve hacia el lado negativo del eje. En la gráfica
+velocidad--tiempo ($v$--$t$) un MRU es una recta horizontal, y el \textbf{área} bajo ella es el
+desplazamiento.
+
+\begin{ejemplo}[Dos movimientos en la misma gráfica]
+Un carro de juguete sigue $x = 20 + 5t$ (en metros y segundos): en $t = 0, 2, 4, 6$ s está en
+$20, 30, 40, 50$ m. Un perro que regresa a su casa sigue $x = 60 - 10t$: llega al origen en
+$t = \qty{6}{s}$. En la gráfica de la izquierda, la recta del carro sube (velocidad
+$+\qty{5}{m/s}$) y la del perro baja (velocidad $\qty{-10}{m/s}$). En la de la derecha, el
+área sombreada es el desplazamiento del carro en 6 s: $5 \times 6 = \qty{30}{m}$, que es
+justamente $50 - 20$.
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, width=0.47\linewidth, height=0.4\linewidth,
+             xmin=0, xmax=7, ymin=0, ymax=65, xlabel={$t$ (s)}, ylabel={$x$ (m)},
+             xtick={0,2,4,6}, ytick={0,20,40,60},
+             legend pos=north east, legend style={draw=none, font=\footnotesize}]
+  \addplot+[domain=0:6.5, samples=2, mark=none] {20+5*x};
+  \addplot+[domain=0:6, samples=2, mark=none] {60-10*x};
+  \legend{carro, perro}
+\end{axis}
+\end{tikzpicture}\hfill
+\begin{tikzpicture}
+\begin{axis}[mmc, width=0.47\linewidth, height=0.4\linewidth,
+             xmin=0, xmax=7, ymin=0, ymax=7, xlabel={$t$ (s)}, ylabel={$v$ (m/s)},
+             xtick={0,2,4,6}, ytick={0,5}]
+  \fill[black!15] (axis cs:0,0) rectangle (axis cs:6,5);
+  \addplot+[domain=0:6.5, samples=2, mark=none] {5};
+  \node[font=\footnotesize] at (axis cs:3,2.5) {área $= \qty{30}{m}$};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+\begin{aplicacion}[Distancias de seguridad]
+Mirar el celular dos segundos mientras se conduce parece poco. Pero a velocidad constante el
+carro sigue avanzando $v\,t$ metros sin que nadie lo controle: a \qty{110}{km/h} son más de
+sesenta metros. Por eso las normas de tránsito piden dejar una distancia de seguridad que
+crece con la velocidad.
+\end{aplicacion}
+
+\begin{preguntas}
+% PENDIENTE (evidencia 1): no hay en el banco un ejercicio verificado de leer una gráfica x–t y
+% escribir x = x0 + v t (cinematica-10-038/039 citan una imagen que la guía no tiene).
+% Ejercicio: cinematica-10-029
+\pregunta Si vas manejando a 110 km/h por una carretera recta y te distraes durante
+$\num{2,0}$ s, ¿qué distancia recorres sin prestar atención?
+\espacio{2.5cm}
+% Ejercicio: cinematica-10-043
+\pregunta Una bola de boliche que rueda con rapidez constante golpea los pinos al final de una
+pista de $\num{16,5}$ m. El jugador oye el golpe $\num{2,50}$ s después de lanzarla. ¿Cuál es la
+rapidez de la bola, si la del sonido es 340 m/s?
+\espacio{3cm}
+% Ejercicio: cinematica-10-040
+\pregunta En un CD de audio, los bits se codifican a lo largo de una espiral y cada bit ocupa
+aproximadamente $\num{0,28}\ \mu$m. El lector láser recorre la espiral a una rapidez constante
+de aproximadamente $\num{1,2}$ m/s. Determina el número $N$ de bits que el reproductor lee cada
+segundo.
+\espacio{2.5cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item MRU: $x = x_0 + v\,t$, con $v$ constante.
+  \item Gráfica $x$--$t$: una recta; su pendiente es la velocidad y su corte, $x_0$.
+  \item Gráfica $v$--$t$: una recta horizontal; el área bajo ella es el desplazamiento.
+  \item Con la ecuación se predice dónde estará un cuerpo y cuándo se encuentran dos cuerpos.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+\tema{Marcos de referencia}\label{tema:marcos}
+
+\begin{hilo}
+Volvamos al barco de Galileo. Para quien está en el camarote, una gota que cae del techo cae
+en línea recta; para alguien en la orilla, la gota además avanza con el barco. ¿Quién tiene
+la razón? Los dos: cada uno describe el movimiento desde su propio marco.
+\end{hilo}
+
+Si un cuerpo $A$ tiene velocidad $v_A$ y un observador $B$ se mueve con velocidad $v_B$ (las
+dos medidas desde el suelo y en la misma recta), el observador $B$ ve moverse a $A$ con la
+\textbf{velocidad relativa}
+\[
+  v_{A\text{ respecto a }B} = v_A - v_B.
+\]
+Al cambiar de marco cambian la velocidad, la ecuación de posición y la gráfica; lo que no
+cambia es \emph{lo que ocurre}: si dos cuerpos se chocan en un marco, se chocan en todos.
+
+\begin{ejemplo}[Un pasajero en el bus]
+Un bus va a \qty{12}{m/s} y un pasajero camina hacia el frente a \qty{1,5}{m/s} respecto al
+bus. Respecto a la calle, el pasajero va a $12 + 1{,}5 = \qty{13,5}{m/s}$; si camina hacia
+atrás, a $12 - 1{,}5 = \qty{10,5}{m/s}$ (todavía hacia adelante). En la gráfica, la misma
+caminata hacia el frente vista desde la calle ($x = 13{,}5\,t$) y desde el bus ($x' = 1{,}5\,t$):
+dos rectas con distinta pendiente para un solo movimiento.
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[mmc, width=0.6\linewidth, height=0.4\linewidth,
+             xmin=0, xmax=4.5, ymin=0, ymax=60, xlabel={$t$ (s)}, ylabel={posición (m)},
+             xtick={0,1,2,3,4}, ytick={0,20,40},
+             legend pos=outer north east, legend style={draw=none, font=\footnotesize}]
+  \addplot+[domain=0:4.2, samples=2, mark=none] {13.5*x};
+  \addplot+[domain=0:4.2, samples=2, mark=none] {1.5*x};
+  \legend{desde la calle, desde el bus}
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{ejemplo}
+
+El ejemplo del propio DBA va un paso más allá: un pasajero de un bus que va con velocidad
+constante deja caer una pelota. Para él, la pelota cae en línea recta vertical; para un peatón
+en la acera, la misma pelota describe una curva, porque además avanza con el bus. Esa curva,
+la parábola, la estudiaremos en el trimestre II.
+
+\begin{aplicacion}[Servir el café en un avión]
+En un avión en vuelo de crucero, a unos \qty{900}{km/h} respecto al suelo, la azafata sirve
+el café en el vaso sin apuntar «hacia atrás», y el café cae dentro. Es el barco de Galileo en
+versión moderna: mientras la velocidad es constante, dentro del avión todo ocurre como si
+estuviera quieto. Solo al despegar, frenar o atravesar turbulencia (cuando la velocidad
+cambia) se nota el movimiento.
+\end{aplicacion}
+
+\begin{preguntas}
+% PENDIENTE (evidencia 3): no hay en el banco un ejercicio verificado de cambiar la gráfica o la
+% ecuación de un movimiento a otro marco; solo el de velocidad relativa.
+% Ejercicio: cinematica-10-042
+\pregunta Un automóvil que viaja a 95 km/h va 110 m detrás de un camión que viaja a 75 km/h.
+¿Cuánto tiempo le tomará al automóvil alcanzar al camión?
+\espacio{3cm}
+% Pendiente de aprobación de la docente (manual-pendiente), no se incluye todavía:
+% Ejercicio: cinematica-2d-10-021 (persona en un vagón de tren que lanza una pelota)
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item La descripción de un movimiento depende del marco de referencia.
+  \item Velocidad relativa en una recta: $v_{A\text{ resp. }B} = v_A - v_B$.
+  \item Al cambiar de marco cambian la ecuación y la pendiente de la gráfica $x$--$t$.
+  \item Con velocidad constante, ningún experimento interior distingue el reposo del
+        movimiento (el barco de Galileo).
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+% 5. Saber 11
+% ---------------------------------------------------------------------
+\seccion{Prepárate para Saber 11}
+
+\begin{preguntas}
+% PENDIENTE: el banco no tiene preguntas tipo Saber de cinemática con contexto colombiano.
+% Ejercicio: cinematica-10-002
+\pregunta Un automóvil viaja a una rapidez constante de 50 km/h durante 100 km. Luego acelera a
+100 km/h y recorre otros 100 km. ¿Cuál es la rapidez promedio de su viaje de 200 km?
+\begin{opciones*}(4)
+  \item 67 km/h
+  \item 75 km/h
+  \item 81 km/h
+  \item 50 km/h
+\end{opciones*}
+
+% Ejercicio: cinematica-10-008
+\pregunta Un automóvil parte del reposo y acelera a $10\ \mathrm{m/s^2}$ constantes durante una
+carrera de un cuarto de milla (402 m). ¿Qué tan rápido viaja cuando cruza la línea de meta?
+\begin{opciones*}(4)
+  \item 8090 m/s
+  \item 90 m/s
+  \item 81 m/s
+  \item 809 m/s
+\end{opciones*}
+
+% Ejercicio: mediciones-10-071
+\pregunta Tres estudiantes obtienen las siguientes ecuaciones, donde $x$ es la distancia
+recorrida, $v$ la rapidez, $a$ la aceleración, $t$ el tiempo y el subíndice 0 indica el valor
+en $t = 0$. ¿Cuál es correcta según una comprobación dimensional?
+\begin{opciones*}(3)
+  \item $x = vt^{2} + 2at$
+  \item $x = v_{0}t + \frac{1}{2}at^{2}$
+  \item $x = v_{0}t + 2at^{2}$
+\end{opciones*}
+\end{preguntas}
+
+% ---------------------------------------------------------------------
+% 6. Cierre del hilo conductor
+% ---------------------------------------------------------------------
+\seccion{Cierre: de explicar a medir}
+
+Aristóteles dio una explicación que duró casi dos mil años. Oresme se atrevió a dibujar el
+tiempo. Galileo midió con agua y con un plano inclinado, definió el movimiento uniforme y
+entendió que el movimiento se describe siempre desde un marco. Con esas herramientas ---una
+posición, una velocidad con signo, una gráfica y una ecuación--- ya puedes predecir dónde
+estará un bus del MIO dentro de un minuto.
+
+Pero Galileo dejó una pregunta abierta en su propio plano inclinado: ¿qué pasa cuando la
+velocidad \emph{cambia}? En el trimestre II estudiaremos la aceleración, la caída libre y los
+movimientos en el plano, y volveremos a la pelota del bus para ver por qué, desde la acera,
+describe una parábola.
+
+% ---------------------------------------------------------------------
+% 7. Evaluación
+% ---------------------------------------------------------------------
+\matrizevaluacion
+  {Distingue distancia de desplazamiento y rapidez de velocidad, y explica qué es un marco de referencia.}
+  {Construye e interpreta gráficas $x$--$t$ y $v$--$t$ de un MRU y predice posiciones con $x = x_0 + v\,t$.}
+  {Distingue lo documentado de las leyendas y revisa las unidades de sus resultados.}
+  {Expone y escucha con respeto en las presentaciones de científicos y trabaja en equipo en los talleres.}
+
+\autoevaluacion
+
+\seguimientodocente
+
+% ---------------------------------------------------------------------
+% 8. Referencias
+% ---------------------------------------------------------------------
+\begin{referencias}
+% verificado: https://archive.org/details/dialoguesconcern00galiuoft — Galileo, Dialogues concerning two new sciences, trad. Crew y de Salvio, Nueva York: Macmillan, 1914; pasaje en pp. 153–154 (https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_153to160.html)
+\bibitem{crew1914} Galilei, G. (1914). \emph{Dialogues concerning two new sciences}
+  (H. Crew y A. de Salvio, trads.). Nueva York: Macmillan. (Obra original de 1638.)
+% verificado: https://portalegalileo.museogalileo.it/igjr.asp?c=36307 — Museo Galileo: Dialogo sopra i due massimi sistemi del mondo, Florencia, Landini, 1632
+\bibitem{galileo1632} Galilei, G. (1632). \emph{Dialogo sopra i due massimi sistemi del
+  mondo, tolemaico e copernicano}. Florencia: G.\,B. Landini.
+% verificado: https://portalegalileo.museogalileo.it/igjr.asp?c=36308 — Museo Galileo: Discorsi e dimostrazioni matematiche intorno a due nuove scienze, Leiden, Elzevir, 1638 (plano inclinado y reloj de agua: https://galileo.library.rice.edu/lib/student_work/experiment95/inclined_plane.html)
+\bibitem{galileo1638} Galilei, G. (1638). \emph{Discorsi e dimostrazioni matematiche intorno
+  a due nuove scienze}. Leiden: Elzevir.
+% verificado: recursos/fisica/Guías pedagógicas Física/markdown/10 - Guia_de_apoyo_cinematica_y_dinamica_grado_10_fisica.md (archivo local), cap. 2
+\bibitem{recurso10} Guía de apoyo de Física 10.º: \emph{Cinemática y dinámica}, cap. 2
+  (Descripción del movimiento: cinemática en una dimensión). Material del colegio.
+% verificado: https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-06/DBA_C.Naturales-min.pdf — PDF oficial del MEN publicado en Colombia Aprende
+\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos Básicos de
+  Aprendizaje V.1: Ciencias Naturales}. Bogotá: MEN.
+% verificado: https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/ — 1918–2020; Langley desde 1953; Shepard 1961; Glenn 1962; Medalla Presidencial de la Libertad 2015
+\bibitem{nasaJohnson} NASA. \emph{Katherine Johnson biography}. Consultado el 14 de
+  septiembre de 2026.
+% verificado: https://mathshistory.st-andrews.ac.uk/Biographies/Oresme/ — 1323–1382; gráficas de una magnitud variable; prueba de la regla de Merton (década de 1350: https://www.encyclopedia.com/people/philosophy-and-religion/other-religious-beliefs-biographies/nicole-oresme)
+\bibitem{oresme} MacTutor History of Mathematics. \emph{Nicole Oresme}. University of St
+  Andrews. Consultado el 14 de septiembre de 2026.
+% verificado: https://physicsworld.com/a/the-legend-of-the-leaning-tower/ — Viviani es la única fuente; la mayoría de los historiadores dudan (Viviani 1654, publicado 1717: https://upittpress.org/wp-content/uploads/2018/07/9780822944072exr.pdf)
+\bibitem{physicsworld} Physics World. \emph{The legend of the leaning tower}. Consultado el 14
+  de septiembre de 2026.
+% verificado: https://plato.stanford.edu/entries/aristotle-natphil/ — §5: movimiento natural y forzado; todo movimiento necesita un motor
+\bibitem{sepAristoteles} Stanford Encyclopedia of Philosophy. \emph{Aristotle's natural
+  philosophy}. Consultado el 14 de septiembre de 2026.
+\end{referencias}
+
+\end{document}
