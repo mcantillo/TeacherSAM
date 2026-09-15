@@ -1,120 +1,108 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
-001,2026-08-04,martes,07:50,100,I,01,,,,,,,clases/semana-01
-002,2026-08-06,jueves,10:10,100,I,01,,,,,,,clases/semana-01
-003,2026-08-11,martes,07:50,100,I,02,,,,,,,clases/semana-02
-004,2026-08-13,jueves,10:10,100,I,02,,,,,,,clases/semana-02
-005,2026-08-14,viernes,11:50,50,I,02,,,,,,,clases/semana-02
-006,2026-08-18,martes,07:50,100,I,03,,,,,,,clases/semana-03
-007,2026-08-20,jueves,10:10,100,I,03,,,,,,,clases/semana-03
-008,2026-08-21,viernes,11:50,50,I,03,,,,,,,clases/semana-03
-009,2026-08-25,martes,07:50,100,I,04,,,,,,,clases/semana-04
-010,2026-08-27,jueves,10:10,100,I,04,,,,,,,clases/semana-04
-011,2026-08-28,viernes,11:50,50,I,04,,,,,,,clases/semana-04
-012,2026-09-01,martes,07:50,100,I,05,,,,,,,clases/semana-05
-013,2026-09-03,jueves,10:10,100,I,05,,,,,,,clases/semana-05
-014,2026-09-04,viernes,11:50,50,I,05,,,,,,,clases/semana-05
-015,2026-09-08,martes,07:50,100,I,06,,,,,,,clases/semana-06
-016,2026-09-10,jueves,10:10,100,I,06,,,,,,,clases/semana-06
-017,2026-09-11,viernes,11:50,50,I,06,,,,,,,clases/semana-06
-018,2026-09-15,martes,07:50,100,I,07,,,,,,,clases/semana-07
-019,2026-09-17,jueves,10:10,100,I,07,,,,,,,clases/semana-07
-020,2026-09-18,viernes,11:50,50,I,07,,,,,,,clases/semana-07
-021,2026-09-22,martes,07:50,100,I,08,,,,,,,clases/semana-08
-022,2026-09-24,jueves,10:10,100,I,08,,,,,,,clases/semana-08
-023,2026-09-25,viernes,11:50,50,I,08,,,,,,,clases/semana-08
-024,2026-09-29,martes,07:50,100,I,09,,,,,,,clases/semana-09
-025,2026-10-01,jueves,10:10,100,I,09,,,,,,,clases/semana-09
-026,2026-10-02,viernes,11:50,50,I,09,,,,,,,clases/semana-09
-027,2026-10-06,martes,07:50,100,I,10,,,,,,,clases/semana-10
-028,2026-10-08,jueves,10:10,100,I,10,,,,,,,clases/semana-10
-029,2026-10-09,viernes,11:50,50,I,10,,,,,,,clases/semana-10
-030,2026-10-20,martes,07:50,100,I,11,,,,,,,clases/semana-11
-031,2026-10-22,jueves,10:10,100,I,11,,,,,,,clases/semana-11
-032,2026-10-23,viernes,11:50,50,I,11,,,,,,,clases/semana-11
-033,2026-10-27,martes,07:50,100,I,12,,,,,,,clases/semana-12
-034,2026-10-29,jueves,10:10,100,I,12,,,,,,,clases/semana-12
-035,2026-10-30,viernes,11:50,50,I,12,,,,,,,clases/semana-12
-036,2026-11-03,martes,07:50,100,I,13,,,,,,,clases/semana-13
-037,2026-11-05,jueves,10:10,100,I,13,,,,,,,clases/semana-13
-038,2026-11-06,viernes,11:50,50,I,13,,,,,,,clases/semana-13
-039,2026-11-10,martes,07:50,100,II,14,,,,,,,clases/semana-14
-040,2026-11-12,jueves,10:10,100,II,14,,,,,,,clases/semana-14
-041,2026-11-13,viernes,11:50,50,II,14,,,,,,,clases/semana-14
-042,2026-11-17,martes,07:50,100,II,15,,,,,,,clases/semana-15
-043,2026-11-19,jueves,10:10,100,II,15,,,,,,,clases/semana-15
-044,2026-11-20,viernes,11:50,50,II,15,,,,,,,clases/semana-15
-045,2026-11-24,martes,07:50,100,II,16,,,,,,,clases/semana-16
-046,2026-11-26,jueves,10:10,100,II,16,,,,,,,clases/semana-16
-047,2026-11-27,viernes,11:50,50,II,16,,,,,,,clases/semana-16
-048,2026-12-01,martes,07:50,100,II,17,,,,,,,clases/semana-17
-049,2026-12-03,jueves,10:10,100,II,17,,,,,,,clases/semana-17
-050,2026-12-04,viernes,11:50,50,II,17,,,,,,,clases/semana-17
-051,2027-01-12,martes,07:50,100,II,18,,,,,,,clases/semana-18
-052,2027-01-14,jueves,10:10,100,II,18,,,,,,,clases/semana-18
-053,2027-01-15,viernes,11:50,50,II,18,,,,,,,clases/semana-18
-054,2027-01-19,martes,07:50,100,II,19,,,,,,,clases/semana-19
-055,2027-01-21,jueves,10:10,100,II,19,,,,,,,clases/semana-19
-056,2027-01-22,viernes,11:50,50,II,19,,,,,,,clases/semana-19
-057,2027-01-26,martes,07:50,100,II,20,,,,,,,clases/semana-20
-058,2027-01-28,jueves,10:10,100,II,20,,,,,,,clases/semana-20
-059,2027-01-29,viernes,11:50,50,II,20,,,,,,,clases/semana-20
-060,2027-02-02,martes,07:50,100,II,21,,,,,,,clases/semana-21
-061,2027-02-04,jueves,10:10,100,II,21,,,,,,,clases/semana-21
-062,2027-02-05,viernes,11:50,50,II,21,,,,,,,clases/semana-21
-063,2027-02-09,martes,07:50,100,II,22,,,,,,,clases/semana-22
-064,2027-02-11,jueves,10:10,100,II,22,,,,,,,clases/semana-22
-065,2027-02-12,viernes,11:50,50,II,22,,,,,,,clases/semana-22
-066,2027-02-16,martes,07:50,100,II,23,,,,,,,clases/semana-23
-067,2027-02-18,jueves,10:10,100,II,23,,,,,,,clases/semana-23
-068,2027-02-19,viernes,11:50,50,II,23,,,,,,,clases/semana-23
-069,2027-02-23,martes,07:50,100,II,24,,,,,,,clases/semana-24
-070,2027-02-25,jueves,10:10,100,II,24,,,,,,,clases/semana-24
-071,2027-02-26,viernes,11:50,50,II,24,,,,,,,clases/semana-24
-072,2027-03-02,martes,07:50,100,II,25,,,,,,,clases/semana-25
-073,2027-03-04,jueves,10:10,100,II,25,,,,,,,clases/semana-25
-074,2027-03-05,viernes,11:50,50,II,25,,,,,,,clases/semana-25
-075,2027-03-09,martes,07:50,100,II,26,,,,,,,clases/semana-26
-076,2027-03-11,jueves,10:10,100,II,26,,,,,,,clases/semana-26
-077,2027-03-12,viernes,11:50,50,II,26,,,,,,,clases/semana-26
-078,2027-03-16,martes,07:50,100,III,27,,,,,,,clases/semana-27
-079,2027-03-18,jueves,10:10,100,III,27,,,,,,,clases/semana-27
-080,2027-03-19,viernes,11:50,50,III,27,,,,,,,clases/semana-27
-081,2027-03-30,martes,07:50,100,III,28,,,,,,,clases/semana-28
-082,2027-04-01,jueves,10:10,100,III,28,,,,,,,clases/semana-28
-083,2027-04-02,viernes,11:50,50,III,28,,,,,,,clases/semana-28
-084,2027-04-06,martes,07:50,100,III,29,,,,,,,clases/semana-29
-085,2027-04-08,jueves,10:10,100,III,29,,,,,,,clases/semana-29
-086,2027-04-09,viernes,11:50,50,III,29,,,,,,,clases/semana-29
-087,2027-04-13,martes,07:50,100,III,30,,,,,,,clases/semana-30
-088,2027-04-15,jueves,10:10,100,III,30,,,,,,,clases/semana-30
-089,2027-04-16,viernes,11:50,50,III,30,,,,,,,clases/semana-30
-090,2027-04-20,martes,07:50,100,III,31,,,,,,,clases/semana-31
-091,2027-04-22,jueves,10:10,100,III,31,,,,,,,clases/semana-31
-092,2027-04-23,viernes,11:50,50,III,31,,,,,,,clases/semana-31
-093,2027-04-27,martes,07:50,100,III,32,,,,,,,clases/semana-32
-094,2027-04-29,jueves,10:10,100,III,32,,,,,,,clases/semana-32
-095,2027-04-30,viernes,11:50,50,III,32,,,,,,,clases/semana-32
-096,2027-05-04,martes,07:50,100,III,33,,,,,,,clases/semana-33
-097,2027-05-06,jueves,10:10,100,III,33,,,,,,,clases/semana-33
-098,2027-05-07,viernes,11:50,50,III,33,,,,,,,clases/semana-33
-099,2027-05-11,martes,07:50,100,III,34,,,,,,,clases/semana-34
-100,2027-05-13,jueves,10:10,100,III,34,,,,,,,clases/semana-34
-101,2027-05-14,viernes,11:50,50,III,34,,,,,,,clases/semana-34
-102,2027-05-18,martes,07:50,100,III,35,,,,,,,clases/semana-35
-103,2027-05-20,jueves,10:10,100,III,35,,,,,,,clases/semana-35
-104,2027-05-21,viernes,11:50,50,III,35,,,,,,,clases/semana-35
-105,2027-05-25,martes,07:50,100,III,36,,,,,,,clases/semana-36
-106,2027-05-27,jueves,10:10,100,III,36,,,,,,,clases/semana-36
-107,2027-05-28,viernes,11:50,50,III,36,,,,,,,clases/semana-36
-108,2027-06-01,martes,07:50,100,III,37,,,,,,,clases/semana-37
-109,2027-06-03,jueves,10:10,100,III,37,,,,,,,clases/semana-37
-110,2027-06-04,viernes,11:50,50,III,37,,,,,,,clases/semana-37
-111,2027-06-08,martes,07:50,100,III,38,,,,,,,clases/semana-38
-112,2027-06-10,jueves,10:10,100,III,38,,,,,,,clases/semana-38
-113,2027-06-11,viernes,11:50,50,III,38,,,,,,,clases/semana-38
-114,2027-06-15,martes,07:50,100,III,39,,,,,,,clases/semana-39
-115,2027-06-17,jueves,10:10,100,III,39,,,,,,,clases/semana-39
-116,2027-06-18,viernes,11:50,50,III,39,,,,,,,clases/semana-39
-117,2027-06-22,martes,07:50,100,III,40,,,,,,,clases/semana-40
-118,2027-06-24,jueves,10:10,100,III,40,,,,,,,clases/semana-40
-119,2027-06-25,viernes,11:50,50,III,40,,,,,,,clases/semana-40
+001,2026-09-01,martes,07:50,100,I,01,Inicio de año,Actividades de integración y dinámicas de grupo,,,,,clases/semana-01
+002,2026-09-03,jueves,10:10,100,I,01,Inicio de año,Diagnóstico inicial de aritmética,,,,,clases/semana-01
+003,2026-09-04,viernes,11:50,50,I,01,Inicio de año,Diagnóstico inicial de aritmética (continuación),,,,,clases/semana-01
+004,2026-09-08,martes,07:50,100,I,02,Refuerzo de aritmética,Operaciones con números enteros,,,,,clases/semana-02
+005,2026-09-10,jueves,10:10,100,I,02,Refuerzo de aritmética,Jerarquización de operaciones,,,,,clases/semana-02
+006,2026-09-11,viernes,11:50,50,I,02,Refuerzo de aritmética,Ejercicios resueltos y revisión de cuaderno,,,,,clases/semana-02
+007,2026-09-15,martes,07:50,100,I,03,De los racionales a los irracionales,Repaso de fracciones y decimales,1,,,,clases/semana-03
+008,2026-09-17,jueves,10:10,100,I,03,De los racionales a los irracionales,Decimales exactos y periódicos: toda fracción es uno de los dos,1;2,,,,clases/semana-03
+009,2026-09-18,viernes,11:50,50,I,03,De los racionales a los irracionales,¿Existen decimales que no sean exactos ni periódicos?,1,,,x,clases/semana-03
+010,2026-09-22,martes,07:50,100,I,04,El escándalo pitagórico,Hipaso de Metaponto y el descubrimiento de los inconmensurables,1,,x,,clases/semana-04
+011,2026-09-24,jueves,10:10,100,I,04,El escándalo pitagórico,Demostración de que √2 no es un número racional,1,,,,clases/semana-04
+012,2026-09-25,viernes,11:50,50,I,04,El escándalo pitagórico,Construcción geométrica de √2: la diagonal del cuadrado,1;2,,,x,clases/semana-04
+013,2026-09-29,martes,07:50,100,I,05,El escándalo pitagórico,Ubicar irracionales en la recta numérica,2,,x,,clases/semana-05
+014,2026-10-01,jueves,10:10,100,I,05,El escándalo pitagórico,La espiral de Teodoro: más irracionales por construcción geométrica,2,,,,clases/semana-05
+015,2026-10-02,viernes,11:50,50,I,05,El escándalo pitagórico,Cierre del hilo: por qué el descubrimiento de Hipaso fue un escándalo,1;2,,,x,clases/semana-05
+016,2026-10-06,martes,07:50,100,I,06,Los irracionales en la vida real,π: el irracional más famoso,2,,x,,clases/semana-06
+017,2026-10-08,jueves,10:10,100,I,06,Los irracionales en la vida real,Aproximaciones decimales de irracionales,2,,,,clases/semana-06
+018,2026-10-09,viernes,11:50,50,I,06,Los irracionales en la vida real,"Otros irracionales notables (e, φ)",2,,,x,clases/semana-06
+019,2026-10-20,martes,07:50,100,I,07,Los irracionales en la vida real,"Clasificación de números: ℕ, ℤ, ℚ, irracionales, ℝ",1;2,,x,,clases/semana-07
+020,2026-10-22,jueves,10:10,100,I,07,Los irracionales en la vida real,Ejercicios de clasificación,1;2,x,,,clases/semana-07
+021,2026-10-23,viernes,11:50,50,I,07,Los irracionales en la vida real,Repaso de clasificación numérica,1;2,,,x,clases/semana-07
+022,2026-10-27,martes,07:50,100,I,08,Los irracionales en la vida real,Suma y producto de racionales e irracionales,2,,x,,clases/semana-08
+023,2026-10-29,jueves,10:10,100,I,08,Los irracionales en la vida real,¿Es siempre irracional el resultado?,2,,,,clases/semana-08
+024,2026-10-30,viernes,11:50,50,I,08,Los irracionales en la vida real,Ejercicios de operaciones mixtas,2,,,x,clases/semana-08
+025,2026-11-03,martes,07:50,100,I,09,Radicales y aplicaciones,Radicales: simplificación de raíces,1;2,,x,,clases/semana-09
+026,2026-11-05,jueves,10:10,100,I,09,Radicales y aplicaciones,Raíces no exactas como irracionales,1;2,,,,clases/semana-09
+027,2026-11-06,viernes,11:50,50,I,09,Radicales y aplicaciones,Ejercicios de simplificación de radicales,1;2,,,x,clases/semana-09
+028,2026-11-10,martes,07:50,100,I,10,Radicales y aplicaciones,Problemas contextualizados con irracionales (medidas y construcciones),1;2,,x,,clases/semana-10
+029,2026-11-12,jueves,10:10,100,I,10,Radicales y aplicaciones,Aplicaciones geométricas de los irracionales,1;2,,,,clases/semana-10
+030,2026-11-13,viernes,11:50,50,I,10,Radicales y aplicaciones,Ejercicios de aplicación,1;2,,,x,clases/semana-10
+031,2026-11-17,martes,07:50,100,I,11,Repaso y cierre del hilo,Repaso general: números reales,1;2,,x,,clases/semana-11
+032,2026-11-19,jueves,10:10,100,I,11,Repaso y cierre del hilo,"Repaso general: irracionales, radicales y aplicaciones",1;2,x,,,clases/semana-11
+033,2026-11-20,viernes,11:50,50,I,11,Repaso y cierre del hilo,Dudas y ejercicios de refuerzo,1;2,,,x,clases/semana-11
+034,2026-11-24,martes,07:50,100,I,12,Evaluación del periodo,Repaso final,1;2,,,,clases/semana-12
+035,2026-11-26,jueves,10:10,100,I,12,Evaluación del periodo,Evaluación del periodo,1;2,,,,clases/semana-12
+036,2026-11-27,viernes,11:50,50,I,12,Evaluación del periodo,Socialización de resultados,1;2,,,,clases/semana-12
+037,2026-12-01,martes,07:50,100,II,13,,,,,,,clases/semana-13
+038,2026-12-03,jueves,10:10,100,II,13,,,,,,,clases/semana-13
+039,2026-12-04,viernes,11:50,50,II,13,,,,,,,clases/semana-13
+040,2026-12-10,jueves,10:10,100,II,14,,,,,,,clases/semana-14
+041,2026-12-11,viernes,11:50,50,II,14,,,,,,,clases/semana-14
+042,2026-12-15,martes,07:50,100,II,15,,,,,,,clases/semana-15
+043,2026-12-17,jueves,10:10,100,II,15,,,,,,,clases/semana-15
+044,2026-12-18,viernes,11:50,50,II,15,,,,,,,clases/semana-15
+045,2027-01-12,martes,07:50,100,II,17,,,,,,,clases/semana-17
+046,2027-01-14,jueves,10:10,100,II,17,,,,,,,clases/semana-17
+047,2027-01-15,viernes,11:50,50,II,17,,,,,,,clases/semana-17
+048,2027-01-19,martes,07:50,100,II,18,,,,,,,clases/semana-18
+049,2027-01-21,jueves,10:10,100,II,18,,,,,,,clases/semana-18
+050,2027-01-22,viernes,11:50,50,II,18,,,,,,,clases/semana-18
+051,2027-01-26,martes,07:50,100,II,19,,,,,,,clases/semana-19
+052,2027-01-28,jueves,10:10,100,II,19,,,,,,,clases/semana-19
+053,2027-01-29,viernes,11:50,50,II,19,,,,,,,clases/semana-19
+054,2027-02-02,martes,07:50,100,II,20,,,,,,,clases/semana-20
+055,2027-02-04,jueves,10:10,100,II,20,,,,,,,clases/semana-20
+056,2027-02-05,viernes,11:50,50,II,20,,,,,,,clases/semana-20
+057,2027-02-09,martes,07:50,100,II,21,,,,,,,clases/semana-21
+058,2027-02-11,jueves,10:10,100,II,21,,,,,,,clases/semana-21
+059,2027-02-12,viernes,11:50,50,II,21,,,,,,,clases/semana-21
+060,2027-02-16,martes,07:50,100,II,22,,,,,,,clases/semana-22
+061,2027-02-18,jueves,10:10,100,II,22,,,,,,,clases/semana-22
+062,2027-02-19,viernes,11:50,50,II,22,,,,,,,clases/semana-22
+063,2027-02-23,martes,07:50,100,II,23,,,,,,,clases/semana-23
+064,2027-02-25,jueves,10:10,100,II,23,,,,,,,clases/semana-23
+065,2027-02-26,viernes,11:50,50,II,23,,,,,,,clases/semana-23
+066,2027-03-02,martes,07:50,100,II,24,,,,,,,clases/semana-24
+067,2027-03-04,jueves,10:10,100,II,24,,,,,,,clases/semana-24
+068,2027-03-05,viernes,11:50,50,II,24,,,,,,,clases/semana-24
+069,2027-03-09,martes,07:50,100,II,25,,,,,,,clases/semana-25
+070,2027-03-11,jueves,10:10,100,II,25,,,,,,,clases/semana-25
+071,2027-03-12,viernes,11:50,50,II,25,,,,,,,clases/semana-25
+072,2027-03-16,martes,07:50,100,II,26,,,,,,,clases/semana-26
+073,2027-03-18,jueves,10:10,100,II,26,,,,,,,clases/semana-26
+074,2027-03-19,viernes,11:50,50,II,26,,,,,,,clases/semana-26
+075,2027-03-30,martes,07:50,100,III,27,,,,,,,clases/semana-27
+076,2027-04-01,jueves,10:10,100,III,27,,,,,,,clases/semana-27
+077,2027-04-02,viernes,11:50,50,III,27,,,,,,,clases/semana-27
+078,2027-04-06,martes,07:50,100,III,28,,,,,,,clases/semana-28
+079,2027-04-08,jueves,10:10,100,III,28,,,,,,,clases/semana-28
+080,2027-04-09,viernes,11:50,50,III,28,,,,,,,clases/semana-28
+081,2027-04-13,martes,07:50,100,III,29,,,,,,,clases/semana-29
+082,2027-04-15,jueves,10:10,100,III,29,,,,,,,clases/semana-29
+083,2027-04-16,viernes,11:50,50,III,29,,,,,,,clases/semana-29
+084,2027-04-20,martes,07:50,100,III,30,,,,,,,clases/semana-30
+085,2027-04-22,jueves,10:10,100,III,30,,,,,,,clases/semana-30
+086,2027-04-23,viernes,11:50,50,III,30,,,,,,,clases/semana-30
+087,2027-04-27,martes,07:50,100,III,31,,,,,,,clases/semana-31
+088,2027-04-29,jueves,10:10,100,III,31,,,,,,,clases/semana-31
+089,2027-04-30,viernes,11:50,50,III,31,,,,,,,clases/semana-31
+090,2027-05-04,martes,07:50,100,III,32,,,,,,,clases/semana-32
+091,2027-05-06,jueves,10:10,100,III,32,,,,,,,clases/semana-32
+092,2027-05-07,viernes,11:50,50,III,32,,,,,,,clases/semana-32
+093,2027-05-11,martes,07:50,100,III,33,,,,,,,clases/semana-33
+094,2027-05-13,jueves,10:10,100,III,33,,,,,,,clases/semana-33
+095,2027-05-14,viernes,11:50,50,III,33,,,,,,,clases/semana-33
+096,2027-05-18,martes,07:50,100,III,34,,,,,,,clases/semana-34
+097,2027-05-20,jueves,10:10,100,III,34,,,,,,,clases/semana-34
+098,2027-05-21,viernes,11:50,50,III,34,,,,,,,clases/semana-34
+099,2027-05-25,martes,07:50,100,III,35,,,,,,,clases/semana-35
+100,2027-05-27,jueves,10:10,100,III,35,,,,,,,clases/semana-35
+101,2027-05-28,viernes,11:50,50,III,35,,,,,,,clases/semana-35
+102,2027-06-01,martes,07:50,100,III,36,,,,,,,clases/semana-36
+103,2027-06-03,jueves,10:10,100,III,36,,,,,,,clases/semana-36
+104,2027-06-04,viernes,11:50,50,III,36,,,,,,,clases/semana-36
+105,2027-06-08,martes,07:50,100,III,37,,,,,,,clases/semana-37
+106,2027-06-10,jueves,10:10,100,III,37,,,,,,,clases/semana-37
+107,2027-06-11,viernes,11:50,50,III,37,,,,,,,clases/semana-37

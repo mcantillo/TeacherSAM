@@ -11,7 +11,7 @@ else. Step 2 (period planning) also needs the DBA: load the `alinear-dba` skill 
 ## Sources
 
 - `horario-2026-2027.md` (repo root): the weekly schedule — source of truth for which courses exist and when they meet.
-- `programacion-2026-2027.md`: the school calendar — trimester dates, weeks without classes and festivos on school days (**provisional**, see the notice in `CLAUDE.md`). Days listed there as festivos, recesos or vacations have no class rows.
+- `programacion-2026-2027.md`: the school calendar — trimester dates, weeks without classes and festivos on school days (official, given by the teacher on 2026-09-14). Days listed there as festivos, recesos or vacations have no class rows.
 - A course in the horario without a `materias/<asignatura>/<grado>/` folder (or a folder with no hours in the horario) is a question for the teacher, not something to fix silently.
 ## Step 1 — Year program (once per year)
 
@@ -40,7 +40,7 @@ UTF-8, comma-separated, one row per session, header exactly:
 
 ```
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
-001,2026-08-03,lunes,07:50,100,I,01,Derivadas,Definición de derivada,5,,x,x,clases/semana-01
+001,2026-09-01,martes,07:50,100,I,01,Derivadas,Definición de derivada,5,,x,x,clases/semana-01
 ```
 
 - `dia`, `inicio` (HH:MM) and `minutos` come from the horario. Consecutive hours of the same course on the same day are **one session** (one row) with the minutes added up (e.g. 10° Física jueves H2–H3 → `07:50,100`); non-consecutive hours on the same day are separate rows (10° Trigonometría jueves H6 and H8). Hour 7 (1:00–1:40) lasts 40 min, hour 1 lasts 55, the rest 50.
@@ -48,7 +48,7 @@ clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea
 - `clase` numbers the course's sessions of the year in order, three digits (`001`…); a course with 4 sessions a week has ~150.
 - `semana` is the school week of the year, `01`–`40`, counting only weeks with classes. All rows of a week share `carpeta` = `clases/semana-NN`.
 - `quiz`, `taller`, `tarea`: `x` on the session where it's applied (quiz taken, taller worked, tarea assigned), empty otherwise. Decided in step 2 — never added on your own.
-- The school year runs 2026-08-01 → 2027-06-30; flag dates outside it.
+- The school year runs 2026-09-01 → 2027-06-18 (final exams 2027-06-14 → 06-18, outside the trimestres, have no rows); flag dates outside it.
 - This file is the source of truth for «which class is next / what topic is on date X».
 
 ## Step 2 — Period planning (start of each trimester)
@@ -60,5 +60,5 @@ clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea
 5. Look in `recursos/` for material on the planned temas (`recursos/CLAUDE.md`) and note what fits in `plan-anual.md`.
 
 Rules:
-- **Dates are provisional, so planning starts at session 001** in every course, as if nothing had been taught yet (teacher's decision, 2026-09-12): don't skip rows because their provisional date has passed. Once the official calendar is in place, a class whose real date passes without being planned is recorded with what was actually taught (ask the teacher, never infer it) and gets no pack.
+- **Planning starts at session 001** in every course (teacher's decision, 2026-09-12). The official calendar is in place since 2026-09-14: a class whose real date passes without being planned is recorded with what was actually taught (ask the teacher, never infer it) and gets no pack.
 - After approving a plan, update the «Current status» line in `CLAUDE.md`.

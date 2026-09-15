@@ -1,0 +1,76 @@
+% =====================================================================
+% Tarea 3 -- Álgebra 8° -- Trimestre I -- Semana 03
+% Se asigna el vie 18 sep. (sesión 009); se revisa el mar 22 sep. (sesión 010)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-irracionales}
+
+\tipodocumento{Tarea}
+\asignatura{Álgebra}
+\titulo{Tarea 3: fracciones, decimales y una pregunta abierta}
+\grado{8°}
+\periodo{I}
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: martes 22 de septiembre. Consulta la \refguia{tema:racionalesirracionales}.
+Escribe todos los procedimientos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta Escribe cada fracción como decimal y di si es exacto o periódico:
+\begin{opciones*}(4)
+  \item $\dfrac{5}{8}$
+  \item $\dfrac{4}{11}$
+  \item $\dfrac{7}{20}$
+  \item $\dfrac{5}{6}$
+\end{opciones*}
+\begin{solucion}[3cm]
+a) $0{,}625$ (exacto). b) $0{,}\overline{36}$ (periódico). c) $0{,}35$ (exacto).
+d) $0{,}8\overline{3}$ (periódico).
+\end{solucion}
+
+\pregunta Escribe cada decimal como fracción irreducible:
+\begin{opciones*}(4)
+  \item $0{,}6$
+  \item $0{,}\overline{5}$
+  \item $0{,}\overline{18}$
+  \item $1{,}5$
+\end{opciones*}
+\begin{solucion}[4cm]
+a) $\frac{3}{5}$. b) $10x - x = 5$, $x = \frac{5}{9}$. c) $100x - x = 18$,
+$x = \frac{18}{99} = \frac{2}{11}$. d) $\frac{3}{2}$.
+\end{solucion}
+
+\pregunta Sin hacer la división completa: explica por qué $\dfrac{1}{9}$ tiene que dar un
+decimal periódico. (Pista: ¿cuántos restos distintos de cero son posibles al dividir entre
+$9$?)
+\renglones{3}
+\begin{solucion}
+Al dividir entre $9$ los restos posibles son $1, 2, \ldots, 8$ (ocho restos distintos de
+cero). Si la división no termina, en a lo más $8$ pasos un resto se repite, y desde ahí las
+cifras del cociente también se repiten. (En efecto, $\frac{1}{9} = 0{,}\overline{1}$.)
+\end{solucion}
+
+\pregunta \textbf{Reto.} Intenta construir un número decimal que tú creas que nunca termina
+y que nunca repite un patrón. Escríbelo con al menos 15 cifras decimales. Luego responde:
+¿podrías escribirlo como una fracción $\frac{p}{q}$? ¿Por qué sí o por qué no?
+\renglones{4}
+\begin{solucion}
+No hay una única respuesta correcta: lo importante es el argumento. Cualquier fracción
+$\frac{p}{q}$ (con $p,q$ enteros, $q\neq 0$) da, según los ejercicios 1–3, un decimal exacto
+o periódico — nunca uno que no repita ningún patrón. Así que si el número propuesto de
+verdad nunca repite, \emph{no} podría ser una fracción. Se retoma esta idea en la próxima
+clase.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

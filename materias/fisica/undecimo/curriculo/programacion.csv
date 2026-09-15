@@ -1,74 +1,66 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
-001,2026-08-03,lunes,11:00,100,I,01,,,,,,,clases/semana-01
-002,2026-08-05,miércoles,10:10,100,I,01,,,,,,,clases/semana-01
-003,2026-08-10,lunes,11:00,100,I,02,,,,,,,clases/semana-02
-004,2026-08-12,miércoles,10:10,100,I,02,,,,,,,clases/semana-02
-005,2026-08-19,miércoles,10:10,100,I,03,,,,,,,clases/semana-03
-006,2026-08-24,lunes,11:00,100,I,04,,,,,,,clases/semana-04
-007,2026-08-26,miércoles,10:10,100,I,04,,,,,,,clases/semana-04
-008,2026-08-31,lunes,11:00,100,I,05,,,,,,,clases/semana-05
-009,2026-09-02,miércoles,10:10,100,I,05,,,,,,,clases/semana-05
-010,2026-09-07,lunes,11:00,100,I,06,,,,,,,clases/semana-06
-011,2026-09-09,miércoles,10:10,100,I,06,,,,,,,clases/semana-06
-012,2026-09-14,lunes,11:00,100,I,07,,,,,,,clases/semana-07
-013,2026-09-16,miércoles,10:10,100,I,07,,,,,,,clases/semana-07
-014,2026-09-21,lunes,11:00,100,I,08,,,,,,,clases/semana-08
-015,2026-09-23,miércoles,10:10,100,I,08,,,,,,,clases/semana-08
-016,2026-09-28,lunes,11:00,100,I,09,,,,,,,clases/semana-09
-017,2026-09-30,miércoles,10:10,100,I,09,,,,,,,clases/semana-09
-018,2026-10-05,lunes,11:00,100,I,10,,,,,,,clases/semana-10
-019,2026-10-07,miércoles,10:10,100,I,10,,,,,,,clases/semana-10
-020,2026-10-19,lunes,11:00,100,I,11,,,,,,,clases/semana-11
-021,2026-10-21,miércoles,10:10,100,I,11,,,,,,,clases/semana-11
-022,2026-10-26,lunes,11:00,100,I,12,,,,,,,clases/semana-12
-023,2026-10-28,miércoles,10:10,100,I,12,,,,,,,clases/semana-12
-024,2026-11-04,miércoles,10:10,100,I,13,,,,,,,clases/semana-13
-025,2026-11-09,lunes,11:00,100,II,14,,,,,,,clases/semana-14
-026,2026-11-11,miércoles,10:10,100,II,14,,,,,,,clases/semana-14
-027,2026-11-18,miércoles,10:10,100,II,15,,,,,,,clases/semana-15
-028,2026-11-23,lunes,11:00,100,II,16,,,,,,,clases/semana-16
-029,2026-11-25,miércoles,10:10,100,II,16,,,,,,,clases/semana-16
-030,2026-11-30,lunes,11:00,100,II,17,,,,,,,clases/semana-17
-031,2026-12-02,miércoles,10:10,100,II,17,,,,,,,clases/semana-17
-032,2027-01-13,miércoles,10:10,100,II,18,,,,,,,clases/semana-18
-033,2027-01-18,lunes,11:00,100,II,19,,,,,,,clases/semana-19
-034,2027-01-20,miércoles,10:10,100,II,19,,,,,,,clases/semana-19
-035,2027-01-25,lunes,11:00,100,II,20,,,,,,,clases/semana-20
-036,2027-01-27,miércoles,10:10,100,II,20,,,,,,,clases/semana-20
-037,2027-02-01,lunes,11:00,100,II,21,,,,,,,clases/semana-21
-038,2027-02-03,miércoles,10:10,100,II,21,,,,,,,clases/semana-21
-039,2027-02-08,lunes,11:00,100,II,22,,,,,,,clases/semana-22
-040,2027-02-10,miércoles,10:10,100,II,22,,,,,,,clases/semana-22
-041,2027-02-15,lunes,11:00,100,II,23,,,,,,,clases/semana-23
-042,2027-02-17,miércoles,10:10,100,II,23,,,,,,,clases/semana-23
-043,2027-02-22,lunes,11:00,100,II,24,,,,,,,clases/semana-24
-044,2027-02-24,miércoles,10:10,100,II,24,,,,,,,clases/semana-24
-045,2027-03-01,lunes,11:00,100,II,25,,,,,,,clases/semana-25
-046,2027-03-03,miércoles,10:10,100,II,25,,,,,,,clases/semana-25
-047,2027-03-08,lunes,11:00,100,II,26,,,,,,,clases/semana-26
-048,2027-03-10,miércoles,10:10,100,II,26,,,,,,,clases/semana-26
-049,2027-03-15,lunes,11:00,100,III,27,,,,,,,clases/semana-27
-050,2027-03-17,miércoles,10:10,100,III,27,,,,,,,clases/semana-27
-051,2027-03-29,lunes,11:00,100,III,28,,,,,,,clases/semana-28
-052,2027-03-31,miércoles,10:10,100,III,28,,,,,,,clases/semana-28
-053,2027-04-05,lunes,11:00,100,III,29,,,,,,,clases/semana-29
-054,2027-04-07,miércoles,10:10,100,III,29,,,,,,,clases/semana-29
-055,2027-04-12,lunes,11:00,100,III,30,,,,,,,clases/semana-30
-056,2027-04-14,miércoles,10:10,100,III,30,,,,,,,clases/semana-30
-057,2027-04-19,lunes,11:00,100,III,31,,,,,,,clases/semana-31
-058,2027-04-21,miércoles,10:10,100,III,31,,,,,,,clases/semana-31
-059,2027-04-26,lunes,11:00,100,III,32,,,,,,,clases/semana-32
-060,2027-04-28,miércoles,10:10,100,III,32,,,,,,,clases/semana-32
-061,2027-05-03,lunes,11:00,100,III,33,,,,,,,clases/semana-33
-062,2027-05-05,miércoles,10:10,100,III,33,,,,,,,clases/semana-33
-063,2027-05-12,miércoles,10:10,100,III,34,,,,,,,clases/semana-34
-064,2027-05-17,lunes,11:00,100,III,35,,,,,,,clases/semana-35
-065,2027-05-19,miércoles,10:10,100,III,35,,,,,,,clases/semana-35
-066,2027-05-24,lunes,11:00,100,III,36,,,,,,,clases/semana-36
-067,2027-05-26,miércoles,10:10,100,III,36,,,,,,,clases/semana-36
-068,2027-06-02,miércoles,10:10,100,III,37,,,,,,,clases/semana-37
-069,2027-06-09,miércoles,10:10,100,III,38,,,,,,,clases/semana-38
-070,2027-06-14,lunes,11:00,100,III,39,,,,,,,clases/semana-39
-071,2027-06-16,miércoles,10:10,100,III,39,,,,,,,clases/semana-39
-072,2027-06-21,lunes,11:00,100,III,40,,,,,,,clases/semana-40
-073,2027-06-23,miércoles,10:10,100,III,40,,,,,,,clases/semana-40
+001,2026-09-02,miércoles,10:10,100,I,01,Inicio de año,Prueba diagnóstica y acuerdos de trabajo,,,,,clases/semana-01
+002,2026-09-07,lunes,11:00,100,I,02,Herramientas de trabajo,Notación científica y orden de magnitud (dictada),,,,,clases/semana-02
+003,2026-09-09,miércoles,10:10,100,I,02,Introducción a la electrostática,Primera aproximación a la ley de Coulomb y al campo eléctrico (dictada),2,,,,clases/semana-02
+004,2026-09-14,lunes,11:00,100,I,03,La carga eléctrica,"Naturaleza de la carga, tipos y conservación; el ámbar de Tales",2,,x,,clases/semana-03
+005,2026-09-16,miércoles,10:10,100,I,03,La carga eléctrica,Electrización por frotamiento y por contacto; conductores y aislantes,2,,,x,clases/semana-03
+006,2026-09-21,lunes,11:00,100,I,04,La carga eléctrica,Electrización por inducción; el electroscopio,2,,x,,clases/semana-04
+007,2026-09-23,miércoles,10:10,100,I,04,La carga eléctrica,Laboratorio: qué carga adquiere un material al frotarlo o al tocarlo,2,,,x,clases/semana-04
+008,2026-09-28,lunes,11:00,100,I,05,La carga eléctrica,Puesta en común del laboratorio; Gilbert y el De Magnete,2,,x,,clases/semana-05
+009,2026-09-30,miércoles,10:10,100,I,05,Ley de Coulomb,"Enunciado, fórmula, constante y unidades de carga; la balanza de torsión",2,x,,,clases/semana-05
+010,2026-10-05,lunes,11:00,100,I,06,Ley de Coulomb,Fuerza entre dos cargas puntuales: cálculo y ejercicios,2,,x,,clases/semana-06
+011,2026-10-07,miércoles,10:10,100,I,06,Ley de Coulomb,Dependencia con la distancia: el inverso del cuadrado y su gráfica,2,,,x,clases/semana-06
+012,2026-10-19,lunes,11:00,100,I,07,Ley de Coulomb,Principio de superposición: varias cargas sobre una misma línea,2,,x,,clases/semana-07
+013,2026-10-21,miércoles,10:10,100,I,07,Ley de Coulomb,Superposición en el plano: suma vectorial de fuerzas,2,,,x,clases/semana-07
+014,2026-10-26,lunes,11:00,100,I,08,Ley de Coulomb,Fuerza eléctrica y fuerza gravitacional: atracción y repulsión frente a solo atracción,2,,x,,clases/semana-08
+015,2026-10-28,miércoles,10:10,100,I,08,Campo eléctrico,De la acción a distancia al campo: definición E = F/q y unidades,2,x,,,clases/semana-08
+016,2026-11-04,miércoles,10:10,100,I,09,Campo eléctrico,"Campo de una carga puntual: magnitud, dirección y sentido",2,,,x,clases/semana-09
+017,2026-11-09,lunes,11:00,100,I,10,Campo eléctrico,Líneas de campo de una carga puntual positiva y negativa,2,,x,,clases/semana-10
+018,2026-11-11,miércoles,10:10,100,I,10,Campo eléctrico,Líneas de campo de dos cargas: dipolo y cargas del mismo signo,2,,,x,clases/semana-10
+019,2026-11-18,miércoles,10:10,100,I,11,Campo eléctrico,Campo uniforme entre placas paralelas; el campo dentro de un conductor,2,,,x,clases/semana-11
+020,2026-11-23,lunes,11:00,100,I,12,Repaso del periodo,"Repaso general: carga, ley de Coulomb y campo eléctrico; el pararrayos y la jaula de Faraday",2,,,,clases/semana-12
+021,2026-11-25,miércoles,10:10,100,I,12,Evaluación del periodo,Evaluación del periodo,2,,,,clases/semana-12
+022,2026-12-02,miércoles,10:10,100,II,13,,,,,,,clases/semana-13
+023,2026-12-07,lunes,11:00,100,II,14,,,,,,,clases/semana-14
+024,2026-12-09,miércoles,10:10,100,II,14,,,,,,,clases/semana-14
+025,2026-12-14,lunes,11:00,100,II,15,,,,,,,clases/semana-15
+026,2026-12-16,miércoles,10:10,100,II,15,,,,,,,clases/semana-15
+027,2026-12-21,lunes,11:00,100,II,16,,,,,,,clases/semana-16
+028,2027-01-13,miércoles,10:10,100,II,17,,,,,,,clases/semana-17
+029,2027-01-18,lunes,11:00,100,II,18,,,,,,,clases/semana-18
+030,2027-01-20,miércoles,10:10,100,II,18,,,,,,,clases/semana-18
+031,2027-01-25,lunes,11:00,100,II,19,,,,,,,clases/semana-19
+032,2027-01-27,miércoles,10:10,100,II,19,,,,,,,clases/semana-19
+033,2027-02-01,lunes,11:00,100,II,20,,,,,,,clases/semana-20
+034,2027-02-03,miércoles,10:10,100,II,20,,,,,,,clases/semana-20
+035,2027-02-08,lunes,11:00,100,II,21,,,,,,,clases/semana-21
+036,2027-02-10,miércoles,10:10,100,II,21,,,,,,,clases/semana-21
+037,2027-02-15,lunes,11:00,100,II,22,,,,,,,clases/semana-22
+038,2027-02-17,miércoles,10:10,100,II,22,,,,,,,clases/semana-22
+039,2027-02-22,lunes,11:00,100,II,23,,,,,,,clases/semana-23
+040,2027-02-24,miércoles,10:10,100,II,23,,,,,,,clases/semana-23
+041,2027-03-01,lunes,11:00,100,II,24,,,,,,,clases/semana-24
+042,2027-03-03,miércoles,10:10,100,II,24,,,,,,,clases/semana-24
+043,2027-03-08,lunes,11:00,100,II,25,,,,,,,clases/semana-25
+044,2027-03-10,miércoles,10:10,100,II,25,,,,,,,clases/semana-25
+045,2027-03-15,lunes,11:00,100,II,26,,,,,,,clases/semana-26
+046,2027-03-17,miércoles,10:10,100,II,26,,,,,,,clases/semana-26
+047,2027-03-29,lunes,11:00,100,III,27,,,,,,,clases/semana-27
+048,2027-03-31,miércoles,10:10,100,III,27,,,,,,,clases/semana-27
+049,2027-04-05,lunes,11:00,100,III,28,,,,,,,clases/semana-28
+050,2027-04-07,miércoles,10:10,100,III,28,,,,,,,clases/semana-28
+051,2027-04-12,lunes,11:00,100,III,29,,,,,,,clases/semana-29
+052,2027-04-14,miércoles,10:10,100,III,29,,,,,,,clases/semana-29
+053,2027-04-19,lunes,11:00,100,III,30,,,,,,,clases/semana-30
+054,2027-04-21,miércoles,10:10,100,III,30,,,,,,,clases/semana-30
+055,2027-04-26,lunes,11:00,100,III,31,,,,,,,clases/semana-31
+056,2027-04-28,miércoles,10:10,100,III,31,,,,,,,clases/semana-31
+057,2027-05-03,lunes,11:00,100,III,32,,,,,,,clases/semana-32
+058,2027-05-05,miércoles,10:10,100,III,32,,,,,,,clases/semana-32
+059,2027-05-12,miércoles,10:10,100,III,33,,,,,,,clases/semana-33
+060,2027-05-17,lunes,11:00,100,III,34,,,,,,,clases/semana-34
+061,2027-05-19,miércoles,10:10,100,III,34,,,,,,,clases/semana-34
+062,2027-05-24,lunes,11:00,100,III,35,,,,,,,clases/semana-35
+063,2027-05-26,miércoles,10:10,100,III,35,,,,,,,clases/semana-35
+064,2027-06-02,miércoles,10:10,100,III,36,,,,,,,clases/semana-36
+065,2027-06-09,miércoles,10:10,100,III,37,,,,,,,clases/semana-37

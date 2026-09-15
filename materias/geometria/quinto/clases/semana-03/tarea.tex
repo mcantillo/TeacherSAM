@@ -1,0 +1,123 @@
+% =====================================================================
+% Tarea 1 -- Geometría 5° -- Trimestre I -- Semana 03
+% Se asigna el lun 14 sep. (sesión 002); se revisa el lun 21 sep. (sesión 003)
+% Hilo conductor del trimestre I: «Cali, mi ciudad»
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-ubicacion}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea 1: filas, columnas y direcciones}
+\grado{5°}
+\periodo{I}
+
+% DBA: matematicas grado 5 · DBA 7 — Resuelve y propone situaciones en las que es necesario
+% describir y localizar la posición y la trayectoria de un objeto con referencia al plano
+% cartesiano. Evidencias: «Interpreta los elementos de un sistema de referencia»,
+% «Localiza puntos en un mapa», «Representa en forma gráfica y simbólica la localización y
+% trayectoria de un objeto».
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: lunes 21 de septiembre. Consulta la \refguia{tema:referencia}. Usa regla para los dibujos y escribe siempre \textbf{primero
+la fila y después la columna}, como acordamos en clase.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta Este es el plano de la biblioteca del colegio. Las filas se nombran con letras y
+las columnas con números.
+
+\begin{center}
+\begin{tikzpicture}[x=2.05cm, y=1.15cm, font=\tiny]
+  \draw[gray!60] (0,0) grid (4,3);
+  \foreach \x/\n in {0.5/1, 1.5/2, 2.5/3, 3.5/4}
+    \node[font=\small\bfseries] at (\x,3.3) {\n};
+  \foreach \y/\l in {2.5/A, 1.5/B, 0.5/C}
+    \node[font=\small\bfseries] at (-0.25,\y) {\l};
+  \node[align=center] at (0.5,2.5) {cuentos};
+  \node[align=center] at (2.5,2.5) {mesa};
+  \node[align=center] at (0.5,1.5) {computador};
+  \node[align=center] at (3.5,0.5) {globo\\terráqueo};
+  \node[align=center] at (1.5,0.5) {revistas};
+\end{tikzpicture}
+\end{center}
+
+Responde:
+\begin{opciones*}(2)
+  \item ¿Qué hay en la posición $(B,1)$?
+  \item Escribe la posición del globo terráqueo.
+  \item ¿Qué hay en la posición $(A,3)$?
+  \item ¿Qué hay en la posición $(C,2)$?
+\end{opciones*}
+\begin{solucion}[3cm]
+a) El computador. \quad b) $(C,4)$. \quad c) La mesa. \quad d) Las revistas.
+\end{solucion}
+
+\pregunta En una hoja cuadriculada, dibuja el plano de tu cuarto o de la sala de tu casa.
+Nombra las filas con letras y las columnas con números, y ubica al menos tres objetos
+(la cama, una silla, la puerta\ldots). Debajo del dibujo, escribe la posición de cada objeto
+con su par, así: \emph{ventana: $(A,2)$}.
+\espacio{1cm}
+\begin{solucion}
+Respuesta abierta. Lo que debe cumplirse: la cuadrícula tiene filas con letras y columnas con
+números, cada objeto ocupa una casilla y la lista usa el par en el orden acordado (fila,
+columna). Si el estudiante invierte el orden, pero lo hace igual en los tres objetos y lo
+explica, vale la pena señalarlo en la revisión sin marcarlo como error de ubicación.
+\end{solucion}
+
+\pregunta Este es el plano de un barrio de Cali. Las carreras van de arriba abajo y las
+calles de lado a lado.
+
+\begin{center}
+\begin{tikzpicture}[x=1.6cm, y=1.15cm, font=\scriptsize]
+  \foreach \x in {0,1,2,3,4} \draw[gray!60] (\x,0) -- (\x,3);
+  \foreach \y in {0,1,2,3} \draw[gray!60] (0,\y) -- (4,\y);
+  \foreach \x/\n in {0/1, 1/2, 2/3, 3/4, 4/5}
+    \node[anchor=north] at (\x,-0.15) {Cra.~\n};
+  \foreach \y/\n in {0/4, 1/3, 2/2, 3/1}
+    \node[anchor=east] at (-0.15,\y) {Calle~\n};
+  \fill (1,3) circle (2pt); \node[anchor=south west] at (1,3) {casa de Mariana};
+  \fill (3,2) circle (2pt); \node[anchor=north east] at (3,2) {colegio};
+  \fill (4,2) circle (2pt); \node[anchor=south east] at (4,2) {papelería};
+  \fill (0,1) circle (2pt); \node[anchor=south west] at (0,1) {parque};
+  \fill (2,0) circle (2pt); \node[anchor=south west] at (2,0) {tienda};
+\end{tikzpicture}
+\end{center}
+
+Responde:
+\begin{opciones*}(1)
+  \item ¿Qué queda en la Calle 2 con Carrera 4?
+  \item Escribe la dirección del parque y la de la papelería.
+  \item Mariana dice que vive «en la Calle 2 con Carrera 1». ¿Es correcto? Explica qué está mal.
+\end{opciones*}
+\begin{solucion}[4cm]
+a) El colegio. \quad b) Parque: Calle 3 con Carrera 1. Papelería: Calle 2 con Carrera 5.
+\quad c) No es correcto: la casa de Mariana está en la Calle 1 con Carrera 2. Se cambiaron de
+lugar los dos datos, y en la Calle 2 con Carrera 1 no hay nada marcado en el plano. El orden
+de los datos cambia el lugar al que se llega.
+\end{solucion}
+
+\pregunta \textbf{Reto.} Mariana sale de su casa hacia el colegio. Escribe las instrucciones
+para llegar, usando solo las calles y las carreras del plano (por ejemplo: «avanza una
+carrera hacia\ldots»). Después responde: ¿existe otro camino distinto que también llegue al
+colegio?
+\renglones{4}
+\begin{solucion}
+Un camino posible: desde la Calle 1 con Carrera 2, avanzar dos carreras (hasta la Carrera 4)
+y luego bajar una calle (hasta la Calle 2). Otro: bajar primero la calle y después avanzar las
+dos carreras. Sí existen otros caminos: lo que no cambia es que hay que recorrer dos carreras
+y una calle. Se aceptan otras redacciones siempre que el recorrido termine en la Calle 2 con
+Carrera 4.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

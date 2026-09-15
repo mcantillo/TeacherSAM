@@ -1,0 +1,167 @@
+% =====================================================================
+% Clase -- Álgebra 8° -- Trimestre I -- Semana 03
+% Sesiones 007 (mar 15 sep., 100 min), 008 (jue 17 sep., 100 min) y
+%          009 (vie 18 sep., 50 min)
+% Tema: De los racionales a los irracionales (puente hacia el Tema
+%       "El escándalo pitagórico" de la semana 04)
+% Tema 1 de la guía: De los racionales a los irracionales
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-irracionales}
+
+\tipodocumento{Clase}
+\asignatura{Álgebra}
+\titulo{Semana 3: de los racionales a los irracionales}
+\grado{8°}
+\periodo{I}
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  007 & mar 15 sep., 07:50 & 100 & Repaso de fracciones y decimales & —\\
+  008 & jue 17 sep., 10:10 & 100 & Decimales exactos y periódicos & —\\
+  009 & vie 18 sep., 11:50 & 50  & ¿Hay decimales que no sean ni exactos ni periódicos? & Tarea 3 (para el mar 22 sep.)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+Esta semana es puente: cierra el repaso de aritmética de las semanas 1–2 y deja planteada
+la pregunta que abre el Tema «El escándalo pitagórico» (semana 4).
+Referencia: \refguia{tema:racionalesirracionales}.
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 007 — martes 15 de septiembre · 07:50 · 100 min}
+
+\textbf{Objetivo.} Repasar la conversión entre fracciones y decimales, y clasificar el
+resultado como decimal exacto o periódico.
+
+\textbf{Materiales.} Tablero; calculadora (solo para verificar, no para dividir a mano).
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0–10 & Recordar la semana pasada (enteros y jerarquización). Pregunta:
+    «¿todas las fracciones se pueden escribir como decimal? ¿Siempre da un decimal
+    "bonito", como $0{,}5$ o $0{,}75$?»\\
+  División a mano & 10–40 & En el tablero, dividir $\frac{3}{4}$, $\frac{1}{3}$ y
+    $\frac{2}{7}$ paso a paso (algoritmo de la división larga). Anotar en cada caso el
+    resto en cada paso.\\
+  Explicación & 40–60 & Un decimal es \emph{exacto} si la división termina (resto $0$) y
+    \emph{periódico} si un resto se repite y desde ahí las cifras se repiten. Definir
+    notación con la rayita: $0{,}\overline{3}$.\\
+  Práctica en parejas & 60–95 & Ejercicio guiado (ver abajo): convertir 8 fracciones a
+    decimal y clasificar cada una. Circula por los puestos.\\
+  Cierre & 95–100 & Puesta en común de 2–3 casos. Pregunta para la próxima clase: «¿por
+    qué \emph{tiene} que pasar una de las dos cosas (terminar o repetirse)?»\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\textbf{Ejercicio guiado (parejas).} Convertir y clasificar:
+\begin{center}
+\begin{tabular}{@{}llll@{}}
+  $\frac{3}{4} = 0{,}75$ (exacto) &
+  $\frac{7}{8} = 0{,}875$ (exacto) &
+  $\frac{1}{6} = 0{,}1\overline{6}$ (periódico) &
+  $\frac{5}{9} = 0{,}\overline{5}$ (periódico)\\[4pt]
+  $\frac{1}{3} = 0{,}\overline{3}$ (periódico) &
+  $\frac{9}{20} = 0{,}45$ (exacto) &
+  $\frac{2}{7} = 0{,}\overline{285714}$ (periódico) &
+  $\frac{11}{16} = 0{,}6875$ (exacto)
+\end{tabular}
+\end{center}
+
+\begin{nota}
+Si el grupo tarda en $\frac{2}{7}$ (periodo de 6 cifras), no te detengas ahí: basta con que
+vean que el patrón de restos se repite y por eso las cifras también. El detalle completo se
+formaliza en la sesión 008.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 008 — jueves 17 de septiembre · 10:10 · 100 min}
+
+\textbf{Objetivo.} Argumentar por qué toda fracción da un decimal exacto o periódico, y
+convertir un decimal periódico de vuelta a fracción.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0–10 & Retomar la pregunta de cierre: al dividir entre $7$, ¿cuántos restos
+    distintos son posibles? (Respuesta: $0,1,\ldots,6$, siete en total.)\\
+  Explicación & 10–35 & Si el resto nunca es $0$, solo quedan $6$ restos posibles distintos
+    de cero; en a lo más $6$ pasos uno se repite, y desde ahí el proceso (y las cifras) se
+    repite. Por eso una fracción \emph{siempre} da decimal exacto o periódico: no hay una
+    tercera opción.\\
+  Ejemplo guiado & 35–60 & Convertir decimal periódico a fracción: $0{,}\overline{4}$.
+    $x = 0{,}4444\ldots$; $10x = 4{,}4444\ldots$; $10x - x = 4$; $x = \frac{4}{9}$. Repetir
+    con $0{,}\overline{27}$: $100x - x = 27$, $x = \frac{27}{99} = \frac{3}{11}$.\\
+  Práctica & 60–90 & Ejercicios: convertir $0{,}\overline{7}$, $0{,}\overline{15}$ y
+    $1{,}2\overline{3}$ a fracción (parejas, circula por los puestos).\\
+  Cierre & 90–100 & Puesta en común de $1{,}2\overline{3}$ (el más difícil, por la parte no
+    periódica). Plantear la pregunta de la sesión 009: «¿existirá algún decimal que nunca
+    termine y nunca repita un patrón?»\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\textbf{Respuestas de la práctica.} $0{,}\overline{7} = \frac{7}{9}$;
+$0{,}\overline{15} = \frac{15}{99} = \frac{5}{33}$; $1{,}2\overline{3}$: $x = 1{,}2333\ldots$,
+$10x = 12{,}333\ldots$, $100x = 123{,}333\ldots$, $100x - 10x = 111$, $x = \frac{111}{90} =
+\frac{37}{30}$.
+
+\begin{nota}
+Guarda la pregunta de cierre para abrir la sesión 009 en vivo, sin adelantar la respuesta:
+la sorpresa de que sí existen (y de que $\sqrt{2}$ es uno de ellos) es el motor de la
+semana 4.
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 009 — viernes 18 de septiembre · 11:50 · 50 min}
+
+\textbf{Objetivo.} Plantear, sin resolverla todavía, la pregunta de si existen decimales
+que no sean exactos ni periódicos — dejando la puerta abierta al Tema de la semana 4.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Reto & 0–15 & En el tablero: «Intenten construir, entre todos, un número decimal que
+    nunca se acabe y que ustedes crean que nunca repite un patrón.» Recoger 2–3 propuestas
+    del grupo (p. ej. $0{,}101001000100001\ldots$ o ir pegando los números naturales:
+    $0{,}123456789101112\ldots$).\\
+  Discusión & 15–35 & Para cada propuesta: «¿de qué fracción $\frac{p}{q}$ vendría este
+    número?» Si nadie logra proponer una fracción que lo produzca, señalar que eso es
+    sospechoso: según la sesión 008, \emph{toda} fracción da decimal exacto o periódico.\\
+  Cierre y tarea & 35–50 & Cerrar sin dar la respuesta: «la próxima semana vamos a conocer
+    la historia de quien se hizo esta misma pregunta hace más de 2000 años — y lo que le
+    costó responderla.» Asignar la Tarea 3, para el martes 22 de septiembre.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+No reveles la palabra «irracional» ni menciones a Hipaso todavía: el efecto narrativo de la
+semana 4 depende de que la pregunta quede abierta. Si algún estudiante ya sabe la respuesta
+(es común que alguien la mencione), agradece el dato y dile que la próxima semana la
+demuestran juntos.
+\end{nota}
+
+\end{document}

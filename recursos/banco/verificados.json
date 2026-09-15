@@ -10247,6 +10247,162 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/intervalos.py"
  },
+ "irracionales-8-001": {
+  "huella": "a53bf8af2d1c9ead",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-002": {
+  "huella": "1c7a1309b5b91e93",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-003": {
+  "huella": "e96afcdf97106f0b",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-004": {
+  "huella": "3f7e6fe31b447765",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-005": {
+  "huella": "c0f438396182931f",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-006": {
+  "huella": "cb17b56c95d9f381",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-007": {
+  "huella": "26c433cb86a4ade0",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-008": {
+  "huella": "d96f1fdaaf2804a0",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-009": {
+  "huella": "98ca320b646cd032",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-010": {
+  "huella": "96510dbdbcf466a6",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-011": {
+  "huella": "cb9872249f1db4e0",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-012": {
+  "huella": "88b8ea5239f9dd69",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-013": {
+  "huella": "a338a6774656819a",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-014": {
+  "huella": "7de4c66ae73f325a",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-015": {
+  "huella": "3c8bcbf5be2aba72",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-016": {
+  "huella": "ac35919ec5b93223",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-017": {
+  "huella": "ebe39bf6a16554be",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-018": {
+  "huella": "7cfd30bf74337d40",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-019": {
+  "huella": "2a3a6480d7eb0de9",
+  "estado": "manual-pendiente",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-020": {
+  "huella": "121f8bd0068b68ec",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-021": {
+  "huella": "1e9cdc958cd883d9",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-022": {
+  "huella": "47b6949c682158a5",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-023": {
+  "huella": "97a65ca4c594404b",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-024": {
+  "huella": "e952197d3e546b19",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-025": {
+  "huella": "2205318cc2b44107",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
+ "irracionales-8-026": {
+  "huella": "a6360161962d8796",
+  "estado": "verificado",
+  "fecha": "2026-09-14",
+  "archivo": "recursos/banco/matematicas/irracionales-8.py"
+ },
  "leyes-newton-10-001": {
   "huella": "593bfe5f0debecb0",
   "estado": "manual-pendiente",

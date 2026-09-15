@@ -154,6 +154,7 @@ python3 tools/ejercicios.py verificar --todos                            # volve
 | `matematicas/division-polinomios-8.py` | 8° | 0 | 1 | 0 | 0 |
 | `matematicas/expresiones-algebraicas-8.py` | 8° | 176 | 0 | 22 | 0 |
 | `matematicas/factorizacion-8.py` | 8° | 419 | 1 | 37 | 0 |
+| `matematicas/irracionales-8.py` (2026-09-14, guía Álgebra 8° P-I) | 8° | 22 | 4 | 0 | 0 |
 | `matematicas/logaritmos-8.py` | 8° | 18 | 0 | 0 | 0 |
 | `matematicas/medidas-con-radicales-8.py` | 8° | 6 | 0 | 2 | 0 |
 | `matematicas/multiplicacion-algebraica-8.py` | 8° | 176 | 0 | 10 | 0 |

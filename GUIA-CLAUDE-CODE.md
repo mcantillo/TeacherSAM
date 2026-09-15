@@ -91,6 +91,7 @@ Si Claude encuentra un error en un recurso, te lo avisará: aprobado no signific
 |---|---|
 | `horario-2026-2027.md` | Tu horario semanal |
 | `programacion-2026-2027.md` | Calendario escolar (trimestres, festivos, recesos) |
+| `bitacora-2026-2027.md` | Tu bitácora: lo que de verdad se dictó cada semana en cada curso |
 | `materias/<asignatura>/<grado>/` | Todo el material de cada curso: plan, guías, clases, evaluaciones |
 | `recursos/` | Material aprobado (guías de apoyo, libros) |
 | `dba/` | Los Derechos Básicos de Aprendizaje del MEN, listos para consultar |
@@ -99,13 +100,23 @@ Si Claude encuentra un error en un recurso, te lo avisará: aprobado no signific
 
 ## 8. Pendientes
 
-- **Calendario oficial:** las fechas actuales son **provisionales**. Cuando el colegio publique
-  el calendario, pásaselo a Claude («actualiza el calendario con estas fechas»); recalculará
-  todas las fechas sin perder lo planeado.
+- **Calendario:** el calendario oficial está en `programacion-2026-2027.md` desde el 2026-09-14.
+  Si el colegio lo cambia, pásale las fechas nuevas a Claude («actualiza el calendario con estas
+  fechas»); recalculará todas las fechas sin perder lo planeado.
 - **Rangos del SIEE:** la escala 1,0–5,0 y los rangos de desempeño (Bajo, Básico, Alto,
   Superior) están pendientes de confirmar con el SIEE del colegio.
 - **Piloto:** Cálculo 11° es el curso piloto. Los demás cursos se planean cuando apruebes cómo
-  quedó el piloto.
+  quedó el piloto. Según tu bitácora, en las semanas 01–02 de Cálculo 11° se hizo diagnóstico
+  y refuerzo de factorización: falta decidir dónde se recuperan los subtemas de «Los sistemas
+  numéricos» que estaban planeados ahí.
+- **Material adelantado por revisar:** Álgebra 8°, Geometría 8°, Geometría 5° y Física 11° ya
+  tienen plan anual y plan del trimestre I (el de Física 11°, solo propuesto); Álgebra 8°,
+  Geometría 5° y Física 11° tienen además guía del trimestre I, y Álgebra 8° y Geometría 5° el
+  paquete de la semana 03. Se hicieron con el calendario provisional: al pasarlos al oficial,
+  la semana 13 que ya no existe se juntó con la semana 12 (repaso y evaluación), y en Física 11°
+  se perdió el quiz de campo eléctrico. Revisa y confirma. Además, los hilos de los trimestres
+  II y III de Cálculo 11° y Física 11° («Las leyes que se ven en una gráfica», «Faraday no sabía
+  matemáticas») están propuestos, no aprobados.
 
 ## 9. Consejos
 

@@ -1,0 +1,473 @@
+% =====================================================================
+% Guía del estudiante -- Geometría 5° -- Trimestre I
+% Hilo conductor: Cali, mi ciudad
+% Temas (de curriculo/programacion.csv, clases 001-010):
+%   referencia, plano, trayectorias, mapas
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+% ======================== DATOS DE LA GUÍA ============================
+\tipodocumento{Guía del estudiante}
+\asignatura{Geometría}
+\titulo{Cali, mi ciudad: ubicarse, orientarse y llegar}
+\grado{5°}
+\periodo{I}
+\hiloconductor{Cali, mi ciudad}
+% ======================================================================
+% DBA: matematicas grado 5 · DBA 7 — Resuelve y propone situaciones en las que es necesario
+% describir y localizar la posición y la trayectoria de un objeto con referencia al plano
+% cartesiano. (dba/matematicas/grados/grado05.tex)
+
+\begin{document}
+
+\encabezado
+
+% ---------------------------------------------------------------------
+% 1. Frase introductoria
+% ---------------------------------------------------------------------
+% verificado: https://portalegalileo.museogalileo.it/egjr.asp?c=36261 — Il Saggiatore (Roma, 1623): el «grandissimo libro» escrito «in lingua matematica», con caracteres «triangoli, cerchi, ed altre figure geometriche»
+\frase{[El universo] está escrito en lengua matemática, y sus caracteres son triángulos,
+círculos y otras figuras geométricas.}
+{Galileo Galilei, \emph{El ensayador} (1623)}
+
+% ---------------------------------------------------------------------
+% 2. Introducción
+% ---------------------------------------------------------------------
+\seccion{Introducción}
+
+Galileo quiso decir algo sencillo con esa frase~\cite{galileo1623}: que el mundo se puede
+explicar con figuras y con números. Este trimestre vamos a comprobarlo con algo que usas todos los días sin
+darte cuenta: \textbf{ubicarte}. Decir dónde queda tu casa, explicarle a alguien cómo llegar
+al parque, encontrar un lugar en un mapa. Todo eso se puede hacer con dos números y un
+acuerdo.
+
+Nuestro hilo conductor será \textbf{Cali, la ciudad donde vivimos}. Cali está construida
+como una cuadrícula: las calles van en un sentido y las carreras en el otro, y por eso una
+dirección se da siempre con dos datos, como «Calle 5 con Carrera 39». Cuando termines esta
+guía vas a entender que esa forma de dar direcciones es exactamente la misma idea que
+usaron los matemáticos para inventar el plano cartesiano, y la misma que usó la NASA para
+llevar a un astronauta al espacio y traerlo de regreso.
+
+\textbf{Al terminar este trimestre podrás:}
+\begin{itemize}
+  \item describir la posición de un objeto usando filas, columnas y puntos cardinales;
+  \item reconocer los elementos del plano cartesiano (ejes, origen, cuadrantes) y ubicar
+        puntos con pares ordenados;
+  \item describir y dibujar la trayectoria que sigue algo o alguien para ir de un lugar a
+        otro;
+  \item localizar lugares en un mapa a partir de sus coordenadas, y escribir las coordenadas
+        de un lugar que ves en el mapa.
+\end{itemize}
+
+Este trimestre trabaja el siguiente Derecho Básico de Aprendizaje del Ministerio de
+Educación Nacional~\cite{mendba}:
+
+\begin{dba}[Grado 5 · DBA 7]
+Resuelve y propone situaciones en las que es necesario describir y localizar la posición y
+la trayectoria de un objeto con referencia al plano cartesiano.
+\end{dba}
+
+% ---------------------------------------------------------------------
+% 3. Marco teórico
+% ---------------------------------------------------------------------
+\seccion{Marco teórico}
+
+\subsubsection*{Antes de los mapas: orientarse con el Sol}
+
+Durante miles de años, las personas se orientaron mirando el cielo. El Sol sale siempre por
+el mismo lado ---el \textbf{oriente}, también llamado este--- y se oculta por el lado
+contrario, el \textbf{occidente} u oeste. Si te paras mirando hacia donde sale el Sol,
+tienes el norte a tu izquierda y el sur a tu derecha. Con esos cuatro puntos, llamados
+\textbf{puntos cardinales}, los navegantes cruzaron océanos mucho antes de que existieran
+los mapas modernos.
+
+En Cali tenemos una ayuda todavía más fácil: los Farallones. La cordillera está siempre
+hacia el occidente, así que basta mirar las montañas grandes para saber hacia dónde estás
+orientado.
+
+\subsubsection*{Descartes: ponerle números al espacio}
+
+Los puntos cardinales sirven para orientarse, pero no para decir \emph{exactamente} dónde
+está algo. Esa idea llegó en 1637, cuando el francés René Descartes publicó un libro con un
+apéndice llamado \emph{La geometría}~\cite{descartes1637}. Allí mostró cómo describir la
+posición de un punto con números, midiendo distancias a partir de rectas de referencia. Con
+el tiempo, otros matemáticos convirtieron esa idea en lo que hoy usamos: dos rectas que se
+cruzan, los \emph{ejes}, y dos números, las \emph{coordenadas}. En honor de Descartes, ese
+sistema se llama \textbf{plano cartesiano}.
+
+Se cuenta la historia de que Descartes tuvo la idea mirando una mosca caminar por el techo
+de su habitación, mientras pensaba cómo describir su posición con números. Es solo una
+leyenda, pero explica muy bien el problema que él resolvió.
+
+\subsubsection*{Coordenadas que llegan al espacio}
+
+Más de trescientos años después, en Estados Unidos, la matemática \textbf{Katherine Johnson}
+trabajó en la NASA calculando trayectorias: el camino exacto que debía seguir una nave para
+salir de la Tierra, dar la vuelta y regresar al punto previsto del océano. En 1962, antes de
+volar, el astronauta John Glenn pidió que fuera ella quien revisara a mano los cálculos del
+computador~\cite{nasajohnson}. Una trayectoria, como las que vas a dibujar en esta guía, es
+una lista de posiciones, una detrás de otra.
+
+\subsubsection*{Los mapas de Colombia}
+
+En nuestro país, la entidad encargada de hacer los mapas oficiales es el Instituto
+Geográfico Agustín Codazzi, y cualquiera puede consultarlos en su portal de mapas en
+internet~\cite{igac}. En esos mapas, cada lugar del país tiene unas coordenadas que lo
+identifican sin ninguna duda: dos números, otra vez.
+
+% ---------------------------------------------------------------------
+% 4. Temas
+% ---------------------------------------------------------------------
+\tema{Sistemas de referencia}\label{tema:referencia}
+
+\begin{hilo}
+Imagina que un primo tuyo llega de otra ciudad y te pregunta dónde queda tu salón. Si le
+dices «al lado de la ventana, detrás del puesto de Samuel», no va a encontrarlo. Necesitas
+algo que no dependa de dónde esté parado cada uno: un acuerdo fijo.
+\end{hilo}
+
+\begin{definicion}[Sistema de referencia]
+Un \textbf{sistema de referencia} es un acuerdo que permite decir dónde está algo sin
+depender de quién lo mire. Dos ejemplos: nombrar las \textbf{filas} con letras y las
+\textbf{columnas} con números, o usar los \textbf{puntos cardinales} (norte, sur, oriente y
+occidente).
+\end{definicion}
+
+Cuando usamos filas y columnas, la posición se escribe como una pareja, así: $(B,3)$, que
+se lee «fila $B$, columna $3$». El orden importa: $(B,3)$ y $(3,B)$ no son la misma casilla,
+de la misma manera que la Calle 5 con Carrera 39 no es lo mismo que la Carrera 5 con
+Calle 39.
+
+\begin{center}
+\begin{tikzpicture}[x=1.5cm, y=1.1cm, font=\scriptsize]
+  \draw[gray!60] (0,0) grid (4,3);
+  \foreach \x/\n in {0.5/1, 1.5/2, 2.5/3, 3.5/4}
+    \node[font=\small\bfseries] at (\x,3.3) {\n};
+  \foreach \y/\l in {2.5/A, 1.5/B, 0.5/C}
+    \node[font=\small\bfseries] at (-0.3,\y) {\l};
+  \node at (1.5,2.5) {biblioteca};
+  \node at (3.5,1.5) {cancha};
+  \node at (0.5,0.5) {cafetería};
+  % rosa de los vientos
+  \begin{scope}[shift={(5.6,1.5)}]
+    \draw[->] (0,0) -- (0,1); \node[above, font=\scriptsize] at (0,1) {N};
+    \draw[->] (0,0) -- (0,-1); \node[below, font=\scriptsize] at (0,-1) {S};
+    \draw[->] (0,0) -- (1,0); \node[right, font=\scriptsize] at (1,0) {E};
+    \draw[->] (0,0) -- (-1,0); \node[left, font=\scriptsize] at (-1,0) {O};
+  \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\begin{ejemplo}[Leer el plano del colegio]
+En el plano de arriba, la biblioteca está en $(A,2)$: fila $A$, columna $2$. La cancha está
+en $(B,4)$ y la cafetería en $(C,1)$. Si alguien te dice que un salón queda en $(C,3)$, ya
+sabes exactamente a cuál se refiere aunque nunca hayas entrado.
+\end{ejemplo}
+
+\begin{aplicacion}[El tablero de un juego]
+En el ajedrez, cada casilla también se nombra con una letra y un número (primero la letra
+de la columna, luego el número de la fila). Por eso una partida
+jugada en Cali se puede escribir en un papel, enviarse a Japón y volverse a armar allá,
+jugada por jugada, sin que falte nada. Un buen sistema de referencia permite guardar y
+compartir información.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Escribe la posición de la biblioteca, la cancha y la cafetería del plano anterior,
+usando la pareja (fila, columna).
+\espacio{2cm}
+\pregunta Dibuja en tu cuaderno una cuadrícula de 4 filas y 5 columnas. Ubica en ella tres
+lugares que tú inventes y escribe la posición de cada uno.
+\espacio{3cm}
+\pregunta Camila dice que su casa queda «en la Carrera 8 con Calle 15» y Julián anota
+«Calle 8 con Carrera 15». Explica por qué no llegarían al mismo lugar.
+\renglones{3}
+\pregunta Si te paras mirando hacia el oriente, ¿hacia dónde queda el norte: a tu izquierda
+o a tu derecha? Explica cómo lo sabes usando la salida del Sol.
+\renglones{3}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Un sistema de referencia es un acuerdo para decir dónde está algo.
+  \item Con filas y columnas, la posición se escribe como una pareja: primero la fila,
+        después la columna.
+  \item El orden de los dos datos cambia el lugar al que se llega.
+  \item Los puntos cardinales son norte, sur, oriente y occidente; el Sol sale por el
+        oriente.
+\end{itemize}
+\end{resumen}
+
+\tema{El plano cartesiano}\label{tema:plano}
+
+\begin{hilo}
+Las cuadrículas del colegio funcionan, pero tienen un problema: si el salón está entre dos
+casillas, no hay forma de decirlo. Descartes resolvió eso cambiando las letras por números y
+poniendo dos rectas numeradas que se cruzan.
+\end{hilo}
+
+\begin{definicion}[Plano cartesiano]
+El \textbf{plano cartesiano} está formado por dos rectas numeradas perpendiculares. La
+horizontal se llama \textbf{eje $x$} y la vertical, \textbf{eje $y$}. El punto donde se
+cruzan es el \textbf{origen} y le corresponde la pareja $(0,0)$. Las dos rectas dividen el
+plano en cuatro regiones llamadas \textbf{cuadrantes}.
+\end{definicion}
+
+La posición de un punto se escribe con un \textbf{par ordenado} $(x,y)$: primero cuánto se
+avanza sobre el eje $x$ y después cuánto se sube por el eje $y$. Se llama «ordenado» justo
+por eso: el orden es parte de la información.
+
+\begin{center}
+\begin{tikzpicture}[x=0.95cm, y=0.95cm, font=\scriptsize]
+  \draw[gray!35] (0,0) grid (6,5);
+  \draw[->] (0,0) -- (6.4,0) node[right, font=\small] {$x$};
+  \draw[->] (0,0) -- (0,5.4) node[above, font=\small] {$y$};
+  \foreach \x in {1,...,6} \node[below] at (\x,0) {\x};
+  \foreach \y in {1,...,5} \node[left] at (0,\y) {\y};
+  \node[below left, font=\small] at (0,0) {$O$};
+  \fill (2,3) circle (2.2pt); \node[above right] at (2,3) {$P(2,3)$};
+  \fill (5,1) circle (2.2pt); \node[above right] at (5,1) {$Q(5,1)$};
+  \fill (3,5) circle (2.2pt); \node[above right] at (3,5) {$R(3,5)$};
+  \draw[dashed, gray] (2,0) -- (2,3) -- (0,3);
+\end{tikzpicture}
+\end{center}
+
+\begin{ejemplo}[Ubicar el punto $P(2,3)$]
+Para ubicar $P(2,3)$ se parte del origen, se avanzan 2 unidades hacia la derecha sobre el
+eje $x$ y desde ahí se suben 3 unidades paralelamente al eje $y$. Las líneas punteadas del
+dibujo muestran ese recorrido. Si hiciéramos lo contrario, 3 a la derecha y 2 hacia arriba,
+llegaríamos al punto $(3,2)$, que es otro lugar distinto.
+\end{ejemplo}
+
+\begin{ejemplo}[Una figura con coordenadas]
+Los puntos $(1,1)$, $(4,1)$, $(4,3)$ y $(1,3)$, unidos en ese orden, forman un rectángulo de
+3 unidades de base y 2 de altura. Con solo cuatro parejas de números queda descrita una
+figura completa.
+\end{ejemplo}
+
+\begin{aplicacion}[Los videojuegos y las pantallas]
+La pantalla de un computador o de un celular es un plano cartesiano: cada punto de luz tiene
+su par de coordenadas, y el programa dibuja moviendo puntos de una coordenada a otra. Cuando
+un personaje salta, lo que cambia es su segundo número.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Escribe las coordenadas de los puntos $Q$ y $R$ del plano anterior.
+\espacio{2cm}
+\pregunta En papel cuadriculado, dibuja unos ejes y ubica los puntos $A(3,4)$, $B(6,2)$ y
+$C(0,5)$. ¿Cuál de ellos está sobre un eje? Explica por qué.
+\espacio{3.5cm}
+\pregunta Ubica los puntos $(2,1)$, $(6,1)$, $(6,4)$ y $(2,4)$ y únelos en ese orden. ¿Qué
+figura se forma? Escribe cuánto miden su base y su altura contando unidades.
+\espacio{3.5cm}
+\pregunta Santiago ubicó el punto $(4,0)$ sobre el eje $y$. Encuentra el error, explícalo y
+di dónde va realmente ese punto.
+\renglones{3}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item El plano cartesiano tiene dos ejes perpendiculares que se cortan en el origen
+        $(0,0)$, y cuatro cuadrantes.
+  \item Un punto se escribe como un par ordenado $(x,y)$: primero el avance horizontal,
+        después el vertical.
+  \item $(2,3)$ y $(3,2)$ son puntos diferentes.
+  \item Con varios puntos se pueden describir figuras completas.
+\end{itemize}
+\end{resumen}
+
+\tema{Trayectorias}\label{tema:trayectorias}
+
+\begin{hilo}
+Katherine Johnson no calculaba un punto: calculaba miles, uno detrás de otro, para saber
+por dónde iba a pasar una nave en cada instante. Eso es una trayectoria, y tú describes una
+cada vez que le explicas a alguien cómo llegar a tu casa.
+\end{hilo}
+
+\begin{definicion}[Trayectoria]
+La \textbf{trayectoria} es el camino que sigue un objeto al moverse de un punto a otro. En
+el plano cartesiano se describe diciendo por cuáles puntos pasa, o dando instrucciones de
+cuántas unidades se avanza en cada dirección.
+\end{definicion}
+
+Una misma trayectoria se puede contar de dos maneras. Con \textbf{puntos}: «salgo de
+$(1,1)$, paso por $(4,1)$ y llego a $(4,3)$». O con \textbf{instrucciones}: «avanzo 3
+unidades hacia la derecha y luego 2 hacia arriba». Las dos dicen lo mismo.
+
+\begin{center}
+\begin{tikzpicture}[x=0.95cm, y=0.95cm, font=\scriptsize, >=latex]
+  \draw[gray!35] (0,0) grid (6,4);
+  \draw[->] (0,0) -- (6.4,0) node[right, font=\small] {$x$};
+  \draw[->] (0,0) -- (0,4.4) node[above, font=\small] {$y$};
+  \foreach \x in {1,...,6} \node[below] at (\x,0) {\x};
+  \foreach \y in {1,...,4} \node[left] at (0,\y) {\y};
+  \draw[very thick, ->] (1,1) -- (4,1);
+  \draw[very thick, ->] (4,1) -- (4,3);
+  \fill (1,1) circle (2.2pt); \node[below right] at (1,1) {casa $(1,1)$};
+  \fill (4,3) circle (2.2pt); \node[above right] at (4,3) {colegio $(4,3)$};
+\end{tikzpicture}
+\end{center}
+
+\begin{ejemplo}[Dos caminos, el mismo destino]
+En el dibujo, el recorrido de la casa al colegio es: 3 unidades a la derecha y 2 hacia
+arriba. Pero también se podría subir primero las 2 unidades y después avanzar las 3: se
+llega al mismo punto $(4,3)$. En cualquiera de los caminos más cortos por las calles de la
+cuadrícula hay que recorrer 3 unidades horizontales y 2 verticales; un camino con vueltas
+de más es más largo.
+\end{ejemplo}
+
+\begin{aplicacion}[Las aplicaciones de mapas]
+Cuando una aplicación de celular te muestra la ruta hacia un lugar, está haciendo justo
+esto: conoce tu posición, conoce la del destino y calcula una trayectoria por las calles que
+existen. Por eso puede ofrecerte varias rutas distintas hacia el mismo sitio.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Describe con instrucciones («avanza\ldots, sube\ldots») la trayectoria que va de
+$(2,1)$ a $(5,4)$.
+\renglones{2}
+\pregunta Dibuja en papel cuadriculado la trayectoria que sale de $(1,4)$, pasa por $(1,1)$
+y termina en $(6,1)$. ¿Cuántas unidades se recorren en total?
+\espacio{3.5cm}
+\pregunta Un compañero afirma que ir de $(2,2)$ a $(5,6)$ es lo mismo que ir de $(5,6)$ a
+$(2,2)$. ¿En qué tiene razón y en qué no? Explica tu respuesta.
+\renglones{3}
+\pregunta Escribe dos trayectorias diferentes que lleven de $(0,0)$ a $(3,3)$ recorriendo la
+misma cantidad de unidades.
+\renglones{3}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Una trayectoria es el camino que se sigue para ir de un punto a otro.
+  \item Se puede describir con los puntos por los que pasa o con instrucciones de avance.
+  \item Entre dos puntos puede haber varias trayectorias distintas.
+  \item El punto de partida y el de llegada no son intercambiables: la trayectoria tiene
+        sentido.
+\end{itemize}
+\end{resumen}
+
+\tema{Mapas y planos}\label{tema:mapas}
+
+\begin{hilo}
+Volvemos a Cali. Un mapa de la ciudad es una cuadrícula gigante: las calles en un sentido,
+las carreras en el otro. Con esos dos números se encuentra cualquier dirección, y por eso un
+taxista puede llevarte a un lugar donde nunca ha estado.
+\end{hilo}
+
+Un \textbf{plano} representa un lugar visto desde arriba y reducido, para que quepa en una
+hoja. Los lugares se marcan con símbolos, y una lista llamada \textbf{convenciones} explica
+qué significa cada símbolo. Para ubicar un punto se usan sus coordenadas, igual que en el
+plano cartesiano; en los mapas grandes, esas coordenadas son las que publica el Instituto
+Geográfico Agustín Codazzi~\cite{igac}.
+
+\begin{center}
+\begin{minipage}{\linewidth}
+\centering
+\begin{tikzpicture}[x=1.5cm, y=1.05cm, font=\scriptsize]
+  \foreach \x in {0,1,2,3,4} \draw[gray!60] (\x,0) -- (\x,3);
+  \foreach \y in {0,1,2,3} \draw[gray!60] (0,\y) -- (4,\y);
+  \foreach \x/\n in {0/1, 1/2, 2/3, 3/4, 4/5}
+    \node[anchor=north] at (\x,-0.12) {Cra.~\n};
+  \foreach \y/\n in {0/4, 1/3, 2/2, 3/1}
+    \node[anchor=east] at (-0.12,\y) {Calle~\n};
+  \fill (0,3) circle (2pt); \node[anchor=south west] at (0,3) {colegio};
+  \fill (2,2) circle (2pt); \node[anchor=south west] at (2,2) {parque};
+  \fill (4,1) circle (2pt); \node[anchor=south east] at (4,1) {hospital};
+  \fill (1,0) circle (2pt); \node[anchor=south west] at (1,0) {biblioteca};
+  \fill (3,3) circle (2pt); \node[anchor=south west] at (3,3) {mercado};
+\end{tikzpicture}
+
+\vspace{2mm}
+{\footnotesize Convenciones: cada punto marca un lugar, en la esquina donde se cruzan una
+calle y una carrera.}
+\end{minipage}
+\end{center}
+
+\begin{ejemplo}[Leer una dirección en el plano]
+El parque queda en la Calle 2 con Carrera 3. Para encontrarlo se busca la Calle 2, se
+recorre hasta la Carrera 3 y en ese cruce está el lugar. Escrito como par ordenado, si
+llamamos $x$ a la carrera y $y$ a la calle, el parque es el punto $(3,2)$.
+\end{ejemplo}
+
+\begin{aplicacion}[Una dirección es información que salva tiempo]
+Cuando alguien llama a una ambulancia, lo primero que preguntan es la dirección exacta. Un
+sistema de referencia bien usado ---calle, carrera, número--- puede ser la diferencia entre
+llegar en cinco minutos o en veinte. Lo mismo ocurre con los domicilios, los bomberos y el
+correo.
+\end{aplicacion}
+
+\begin{preguntas}
+\pregunta Escribe la dirección (calle con carrera) del colegio, del hospital y del mercado
+del plano anterior.
+\espacio{2.5cm}
+\pregunta ¿Qué lugar queda en la Calle 4 con Carrera 2? Explica cómo lo encontraste.
+\renglones{2}
+\pregunta Describe la trayectoria que debe seguir una ambulancia para ir del hospital al
+colegio, usando las calles y carreras del plano.
+\renglones{3}
+\pregunta Dibuja en papel cuadriculado el plano de tu barrio o de las cuadras que rodean el
+colegio. Marca al menos cuatro lugares, escribe sus direcciones y agrega las convenciones.
+\espacio{4cm}
+\end{preguntas}
+
+\begin{resumen}
+\begin{itemize}
+  \item Un plano representa un lugar visto desde arriba y reducido.
+  \item Las convenciones explican qué significa cada símbolo del plano.
+  \item En Cali, una dirección da dos datos: la calle y la carrera, igual que un par
+        ordenado.
+  \item Los mapas oficiales de Colombia los hace el Instituto Geográfico Agustín Codazzi.
+\end{itemize}
+\end{resumen}
+
+% ---------------------------------------------------------------------
+% 5. Cierre del hilo conductor
+% ---------------------------------------------------------------------
+\seccion{Cierre: dos números y un acuerdo}
+
+Empezamos preguntándonos cómo explicarle a alguien dónde queda un puesto en el salón y
+terminamos escribiendo direcciones de la ciudad, dibujando recorridos y leyendo mapas. En el
+camino descubrimos que todo eso es la misma idea, la que tuvo Descartes hace casi cuatrocientos
+años: dos números y un acuerdo sobre desde dónde se cuenta bastan para señalar cualquier punto.
+
+Esa idea sigue creciendo. En el próximo trimestre vamos a medir las figuras que dibujamos en
+el plano: cuánto miden sus lados, cuánto ocupan por dentro y cómo cambia una cosa cuando
+cambia la otra.
+
+% ---------------------------------------------------------------------
+% 6. Evaluación
+% ---------------------------------------------------------------------
+\matrizevaluacion
+  {Reconoce los elementos del plano cartesiano y explica para qué sirve un sistema de referencia.}
+  {Ubica puntos con pares ordenados, describe trayectorias y localiza lugares en un plano.}
+  {Es cuidadoso al dibujar y revisa el orden de los datos antes de responder.}
+  {Da y sigue indicaciones claras para que sus compañeros puedan orientarse.}
+
+\autoevaluacion
+
+\seguimientodocente
+
+% ---------------------------------------------------------------------
+% 7. Referencias
+% ---------------------------------------------------------------------
+\begin{referencias}
+% verificado: https://gallica.bnf.fr/ark:/12148/btv1b86069594.image — facsímil BnF de la edición de Leyde, Jean Maire, 1637: «La géométrie» es uno de los tres ensayos del Discours
+\bibitem{descartes1637} Descartes, R. (1637). \emph{La géométrie} (ensayo publicado con el
+  \emph{Discours de la méthode}). Leyde: Jean Maire.
+% verificado: https://portalegalileo.museogalileo.it/egjr.asp?c=36261 — Il Saggiatore, Roma: Giacomo Mascardi, 1623
+\bibitem{galileo1623} Galilei, G. (1623). \emph{Il Saggiatore}. Roma: Giacomo Mascardi.
+% verificado: https://geoportal.igac.gov.co/ — geoportal oficial del IGAC, entidad encargada de la cartografía oficial de Colombia
+\bibitem{igac} Instituto Geográfico Agustín Codazzi. \emph{Geoportal}. Consultado el 14 de
+  septiembre de 2026.
+% verificado: https://gblumen.mineducacion.gov.co/cgi-bin/koha/opac-detail.pl?biblionumber=4785 — MEN 2016, ISBN 978-958-691-925-8
+\bibitem{mendba} Ministerio de Educación Nacional (2016). \emph{Derechos Básicos de
+  Aprendizaje V.2: Matemáticas}. Bogotá: MEN.
+% verificado: https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/ — biografía oficial de la NASA: Glenn pidió que ella verificara los cálculos antes del vuelo de 1962
+\bibitem{nasajohnson} NASA. \emph{Katherine Johnson biography}. Langley Research Center.
+  Consultado el 14 de septiembre de 2026.
+\end{referencias}
+
+\end{document}
