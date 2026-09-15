@@ -551,6 +551,12 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/angulos-6.py"
  },
+ "angulos-7-003": {
+  "huella": "48949f9c1305baac",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/angulos-7.py"
+ },
  "angulos-8-001": {
   "huella": "bcda821284c6166d",
   "estado": "manual-pendiente",
@@ -652,6 +658,12 @@
   "estado": "manual-pendiente",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/angulos-8.py"
+ },
+ "angulos-medicion-6-004": {
+  "huella": "8c237a6229222916",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
  },
  "angulos-radianes-10-001": {
   "huella": "1a98a1f3b0c5afe2",
@@ -18287,6 +18299,18 @@
   "fecha": "2026-09-15",
   "archivo": "recursos/banco/matematicas/poligonos-4.py"
  },
+ "poligonos-6-001": {
+  "huella": "5624955708729e11",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/poligonos-6.py"
+ },
+ "poligonos-6-005": {
+  "huella": "2938823a0af684c5",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/poligonos-6.py"
+ },
  "potenciacion-8-001": {
   "huella": "150b643bd4995514",
   "estado": "verificado",
@@ -23303,6 +23327,30 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/fisica/termodinamica-9.py"
  },
+ "transformaciones-7-001": {
+  "huella": "933117d6fd708882",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-004": {
+  "huella": "0724c533c52c6ed5",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-009": {
+  "huella": "168938e9e4c2c56a",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-012": {
+  "huella": "bf0cd54cb202f108",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
  "triangulos-6-001": {
   "huella": "f41648ecce681acd",
   "estado": "verificado",
@@ -24430,5 +24478,17 @@
   "estado": "verificado",
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/matematicas/valores-trigonometricos-10.py"
+ },
+ "vistas-7-001": {
+  "huella": "5e0179a17e713664",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/vistas-7.py"
+ },
+ "vistas-7-004": {
+  "huella": "3cf31fda531ca798",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/vistas-7.py"
  }
 }
