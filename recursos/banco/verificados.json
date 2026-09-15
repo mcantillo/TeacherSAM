@@ -8105,6 +8105,18 @@
   "fecha": "2026-09-13",
   "archivo": "recursos/banco/fisica/fluidos-10.py"
  },
+ "fracciones-algebraicas-9-001": {
+  "huella": "74c4593519ea9ea1",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/fracciones-algebraicas-9.py"
+ },
+ "fracciones-algebraicas-9-002": {
+  "huella": "f8620144674072bd",
+  "estado": "verificado",
+  "fecha": "2026-09-15",
+  "archivo": "recursos/banco/matematicas/fracciones-algebraicas-9.py"
+ },
  "funcion-cuadratica-9-001": {
   "huella": "f1265f7f600c04f6",
   "estado": "verificado",
