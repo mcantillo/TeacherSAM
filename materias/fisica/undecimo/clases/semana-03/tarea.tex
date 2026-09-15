@@ -1,0 +1,74 @@
+% =====================================================================
+% Tarea 3 -- Física 11° -- Trimestre I -- Semana 03
+% Se asigna el mié 16 sep. (sesión 005); se revisa el lun 21 sep. (sesión 006)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-electrostatica}
+
+\tipodocumento{Tarea}
+\asignatura{Física}
+\titulo{Tarea 3: electrización por frotamiento y por contacto}
+\grado{11°}
+\periodo{I}
+% DBA: naturales grado 11 · DBA 2 — Comprende que la interacción de las cargas en reposo
+%      genera fuerzas eléctricas y que cuando las cargas están en movimiento genera fuerzas
+%      magnéticas.
+% Evidencia: (1) identifica el tipo de carga eléctrica (positiva o negativa) que adquiere un
+%      material cuando se somete a procedimientos de fricción o contacto.
+% Nota: los dos ejercicios también están entre las preguntas de la guía (Tema 2); el banco no
+%      tiene otros verificados sobre frotamiento y contacto.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: lunes 21 de septiembre. Consulta la \refguia{tema:carga}.
+\end{instrucciones}
+
+\begin{center}
+\begin{tikzpicture}[font=\small, every node/.append style={text height=1.6ex, text depth=0.3ex}]
+  \draw[->, thick] (0,0) -- (11,0);
+  \foreach \x/\m in {1/vidrio, 3.3/papel, 5.4/lana, 7.6/polietileno, 9.8/PVC}
+    { \fill (\x,0) circle (1.5pt); \node[above] at (\x,0.05) {\m}; }
+  \node[below] at (1,-0.1) {tiende a quedar $+$};
+  \node[below] at (9.8,-0.1) {tiende a quedar $-$};
+\end{tikzpicture}
+\end{center}
+
+\begin{preguntas}
+
+% Ejercicio: electrostatica-guia-11-001
+\pregunta Usa la serie de la figura. Al frotar dos materiales, el que está más a la izquierda
+cede electrones. Predice el signo que adquiere cada material:
+\begin{opciones*}(1)
+  \item un tubo de PVC frotado con lana;
+  \item una lámina de vidrio frotada con una bolsa de polietileno;
+  \item una hoja de papel frotada con lana.
+\end{opciones*}
+Después, el tubo de PVC del literal a) toca una esfera metálica neutra y aislada. ¿Qué signo
+adquiere la esfera?
+\espacio{3cm}
+\begin{solucion}
+a) PVC negativo, lana positiva. b) Vidrio positivo, polietileno negativo. c) Papel positivo,
+lana negativa. La esfera queda negativa: por contacto los dos cuerpos quedan con carga del
+mismo signo.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-051
+\pregunta Una barra de vidrio A inicialmente neutra es frotada con seda y pierde $\num{1e13}$
+electrones; otra barra de vidrio idéntica, B, también es frotada y pierde $\num{3e13}$
+electrones. Si ambas barras se ponen en contacto y después quedan con igual cantidad de carga,
+¿cuál es el déficit de electrones de cada barra después del contacto?
+\espacio{3.5cm}
+\begin{solucion}
+El déficit total, $\num{4e13}$ electrones, se reparte por igual: cada barra queda con un
+déficit de $\num{2e13}$ electrones ($q \approx \qty{+3,2e-6}{C}$ cada una).
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

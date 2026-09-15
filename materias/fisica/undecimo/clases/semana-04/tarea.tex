@@ -1,0 +1,81 @@
+% =====================================================================
+% Tarea 4 (informe del laboratorio) -- Física 11° -- Trimestre I -- Semana 04
+% Se asigna el mié 23 sep. (sesión 007); se revisa el lun 28 sep. (sesión 008, puesta en común)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-electrostatica}
+
+\tipodocumento{Tarea}
+\asignatura{Física}
+\titulo{Tarea 4: informe del laboratorio de signos}
+\grado{11°}
+\periodo{I}
+% DBA: naturales grado 11 · DBA 2 — Comprende que la interacción de las cargas en reposo
+%      genera fuerzas eléctricas y que cuando las cargas están en movimiento genera fuerzas
+%      magnéticas.
+% Evidencia: (1) identifica el tipo de carga eléctrica (positiva o negativa) que adquiere un
+%      material cuando se somete a procedimientos de fricción o contacto.
+% Los tres pares de la tabla y sus predicciones son los de electrostatica-guia-11-001 (banco,
+%      verificado). Las preguntas 2 y 3 son del informe del laboratorio (estructura, no
+%      ejercicios del banco): pendientes de la aprobación de la docente.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: lunes 28 de septiembre, un informe por grupo. Usa la serie de la
+\refguia{tema:carga} y los datos que anotaron en el laboratorio.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: electrostatica-guia-11-001 (pares y predicciones de la tabla)
+\pregunta Completa la tabla: la predicción con la serie (vidrio, papel, lana, polietileno,
+PVC; el de más a la izquierda queda positivo) y el signo que observaron con el electroscopio
+cargado negativamente (se abren más: $-$; se cierran: $+$).
+\begin{center}
+{\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|p{3.2cm}|p{3.8cm}|c|c|c|}
+  \hline
+  \textbf{Par frotado} & \textbf{Material} & \textbf{Predicción} & \textbf{Observado} &
+    \textbf{¿Coincide?}\\\hline
+  PVC y lana & PVC & & & \\\cline{2-5}
+             & lana & & & \\\hline
+  vidrio y polietileno & vidrio & & & \\\cline{2-5}
+             & polietileno & & & \\\hline
+  papel y lana & papel & & & \\\cline{2-5}
+             & lana & & & \\\hline
+  globo y pelo & globo & (no está en la serie) & & --- \\\hline
+  contacto & bolita tocada con el PVC & & & \\\hline
+\end{tabular}}
+\end{center}
+\begin{solucion}
+Predicciones: PVC $-$, lana $+$; vidrio $+$, polietileno $-$; papel $+$, lana $-$. La bolita
+tocada con el PVC queda $-$ (por contacto, mismo signo). La columna «Observado» depende de
+cada grupo.
+\end{solucion}
+
+\pregunta ¿En qué pares no coincidió lo observado con lo predicho? Propón una causa para
+cada diferencia. Si todo coincidió, di qué hicieron para que el resultado fuera confiable.
+\renglones{2}
+\begin{solucion}
+Respuesta abierta. Causas razonables: humedad, superficies sucias o grasosas, poco
+frotamiento, carga que se va por la mano, o que la serie de otro laboratorio ordena distinto
+los materiales cercanos.
+\end{solucion}
+
+\pregunta La lana quedó con un signo en un par y con el contrario en otro. ¿Qué nos dice eso
+sobre la pregunta «¿qué carga tiene la lana?»?
+\renglones{3}
+\begin{solucion}
+El signo no es propio del material sino del par: la lana es positiva frente al PVC y
+negativa frente al papel, porque depende de cuál de los dos cede electrones.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

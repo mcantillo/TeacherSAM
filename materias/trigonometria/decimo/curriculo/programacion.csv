@@ -7,46 +7,46 @@ clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea
 006,2026-09-10,jueves,11:50,50,I,02,Refuerzo según el diagnóstico,"Semejanza de triángulos y teorema de Pitágoras: conceptos, ejercicios y puesta en común",,,,,clases/semana-02
 007,2026-09-10,jueves,13:40,50,I,02,Refuerzo según el diagnóstico,"Semejanza de triángulos y teorema de Pitágoras: conceptos, ejercicios y puesta en común",,,,,clases/semana-02
 008,2026-09-11,viernes,10:10,50,I,02,Refuerzo según el diagnóstico,"Semejanza de triángulos y teorema de Pitágoras: conceptos, ejercicios y puesta en común",,,,,clases/semana-02
-009,2026-09-15,martes,11:50,50,I,03,,,,,,,clases/semana-03
-010,2026-09-17,jueves,11:50,50,I,03,,,,,,,clases/semana-03
-011,2026-09-17,jueves,13:40,50,I,03,,,,,,,clases/semana-03
-012,2026-09-18,viernes,10:10,50,I,03,,,,,,,clases/semana-03
-013,2026-09-22,martes,11:50,50,I,04,,,,,,,clases/semana-04
-014,2026-09-24,jueves,11:50,50,I,04,,,,,,,clases/semana-04
-015,2026-09-24,jueves,13:40,50,I,04,,,,,,,clases/semana-04
-016,2026-09-25,viernes,10:10,50,I,04,,,,,,,clases/semana-04
-017,2026-09-29,martes,11:50,50,I,05,,,,,,,clases/semana-05
-018,2026-10-01,jueves,11:50,50,I,05,,,,,,,clases/semana-05
-019,2026-10-01,jueves,13:40,50,I,05,,,,,,,clases/semana-05
-020,2026-10-02,viernes,10:10,50,I,05,,,,,,,clases/semana-05
-021,2026-10-06,martes,11:50,50,I,06,,,,,,,clases/semana-06
-022,2026-10-08,jueves,11:50,50,I,06,,,,,,,clases/semana-06
-023,2026-10-08,jueves,13:40,50,I,06,,,,,,,clases/semana-06
-024,2026-10-09,viernes,10:10,50,I,06,,,,,,,clases/semana-06
-025,2026-10-20,martes,11:50,50,I,07,,,,,,,clases/semana-07
-026,2026-10-22,jueves,11:50,50,I,07,,,,,,,clases/semana-07
-027,2026-10-22,jueves,13:40,50,I,07,,,,,,,clases/semana-07
-028,2026-10-23,viernes,10:10,50,I,07,,,,,,,clases/semana-07
-029,2026-10-27,martes,11:50,50,I,08,,,,,,,clases/semana-08
-030,2026-10-29,jueves,11:50,50,I,08,,,,,,,clases/semana-08
-031,2026-10-29,jueves,13:40,50,I,08,,,,,,,clases/semana-08
-032,2026-10-30,viernes,10:10,50,I,08,,,,,,,clases/semana-08
-033,2026-11-03,martes,11:50,50,I,09,,,,,,,clases/semana-09
-034,2026-11-05,jueves,11:50,50,I,09,,,,,,,clases/semana-09
-035,2026-11-05,jueves,13:40,50,I,09,,,,,,,clases/semana-09
-036,2026-11-06,viernes,10:10,50,I,09,,,,,,,clases/semana-09
-037,2026-11-10,martes,11:50,50,I,10,,,,,,,clases/semana-10
-038,2026-11-12,jueves,11:50,50,I,10,,,,,,,clases/semana-10
-039,2026-11-12,jueves,13:40,50,I,10,,,,,,,clases/semana-10
-040,2026-11-13,viernes,10:10,50,I,10,,,,,,,clases/semana-10
-041,2026-11-17,martes,11:50,50,I,11,,,,,,,clases/semana-11
-042,2026-11-19,jueves,11:50,50,I,11,,,,,,,clases/semana-11
-043,2026-11-19,jueves,13:40,50,I,11,,,,,,,clases/semana-11
-044,2026-11-20,viernes,10:10,50,I,11,,,,,,,clases/semana-11
-045,2026-11-24,martes,11:50,50,I,12,,,,,,,clases/semana-12
-046,2026-11-26,jueves,11:50,50,I,12,,,,,,,clases/semana-12
-047,2026-11-26,jueves,13:40,50,I,12,,,,,,,clases/semana-12
-048,2026-11-27,viernes,10:10,50,I,12,,,,,,,clases/semana-12
+009,2026-09-15,martes,11:50,50,I,03,Razones trigonométricas,"Ángulos: sistema sexagesimal (grados, minutos, segundos) y clasificación",4,,,,clases/semana-03
+010,2026-09-17,jueves,11:50,50,I,03,Razones trigonométricas,De la semejanza a la razón: en triángulos rectángulos semejantes la razón depende solo del ángulo,4,,,,clases/semana-03
+011,2026-09-17,jueves,13:40,50,I,03,Razones trigonométricas,Taller: medir lados en triángulos semejantes y comparar sus razones,4,,x,,clases/semana-03
+012,2026-09-18,viernes,10:10,50,I,03,Razones trigonométricas,"Definición de seno, coseno y tangente (cateto opuesto, adyacente, hipotenusa)",4,,,x,clases/semana-03
+013,2026-09-22,martes,11:50,50,I,04,Razones trigonométricas,Cálculo de razones dados dos lados (con Pitágoras),4,,,,clases/semana-04
+014,2026-09-24,jueves,11:50,50,I,04,Razones trigonométricas,"Dada una razón, hallar las otras con un triángulo auxiliar",4,,,,clases/semana-04
+015,2026-09-24,jueves,13:40,50,I,04,Razones trigonométricas,Taller de cálculo de razones,4,,x,,clases/semana-04
+016,2026-09-25,viernes,10:10,50,I,04,Razones trigonométricas,"La calculadora científica: modo grados, razones y ángulo a partir de la razón",4,,,x,clases/semana-04
+017,2026-09-29,martes,11:50,50,I,05,Ángulos especiales,30° y 60° a partir del triángulo equilátero,4,,,,clases/semana-05
+018,2026-10-01,jueves,11:50,50,I,05,Ángulos especiales,45° a partir del triángulo rectángulo isósceles; √2 y √3 como irracionales,1;4,,,,clases/semana-05
+019,2026-10-01,jueves,13:40,50,I,05,Ángulos especiales,Taller: tabla de valores exactos y ejercicios,4,,x,,clases/semana-05
+020,2026-10-02,viernes,10:10,50,I,05,Ángulos especiales,Quiz de razones y ángulos especiales; ejercicios,4,x,,x,clases/semana-05
+021,2026-10-06,martes,11:50,50,I,06,Resolución de triángulos rectángulos,Resolver dados dos lados,4,,,,clases/semana-06
+022,2026-10-08,jueves,11:50,50,I,06,Resolución de triángulos rectángulos,Resolver dados un lado y un ángulo agudo,4,,,,clases/semana-06
+023,2026-10-08,jueves,13:40,50,I,06,Resolución de triángulos rectángulos,Taller de resolución de triángulos,4,,x,,clases/semana-06
+024,2026-10-09,viernes,10:10,50,I,06,Resolución de triángulos rectángulos,Ángulos de elevación y de depresión,4,,,x,clases/semana-06
+025,2026-10-20,martes,11:50,50,I,07,Aplicaciones del triángulo rectángulo,Repaso tras el receso; medición indirecta (el ancho de un río),4,,,,clases/semana-07
+026,2026-10-22,jueves,11:50,50,I,07,Aplicaciones del triángulo rectángulo,Problemas con dos triángulos (altura de un campanario o edificio),4,,,,clases/semana-07
+027,2026-10-22,jueves,13:40,50,I,07,Aplicaciones del triángulo rectángulo,Taller de medición en el patio con clinómetro casero,4,,x,,clases/semana-07
+028,2026-10-23,viernes,10:10,50,I,07,Aplicaciones del triángulo rectángulo,Quiz de resolución de triángulos y aplicaciones,4,x,,x,clases/semana-07
+029,2026-10-27,martes,11:50,50,I,08,Ángulos como rotación,"Lado inicial y terminal, sentido positivo y negativo, posición estándar y cuadrantes",4,,,,clases/semana-08
+030,2026-10-29,jueves,11:50,50,I,08,Ángulos como rotación,Ángulos coterminales y ángulos mayores de 360°,4,,,,clases/semana-08
+031,2026-10-29,jueves,13:40,50,I,08,Ángulos como rotación,Taller de ángulos en posición estándar,4,,x,,clases/semana-08
+032,2026-10-30,viernes,10:10,50,I,08,Radianes,El radián: ángulo cuyo arco mide un radio,4,,,x,clases/semana-08
+033,2026-11-03,martes,11:50,50,I,09,Radianes,Conversión entre grados y radianes,4,,,,clases/semana-09
+034,2026-11-05,jueves,11:50,50,I,09,Radianes,Ángulos notables en radianes; π como número irracional en la recta,1;4,,,,clases/semana-09
+035,2026-11-05,jueves,13:40,50,I,09,Radianes,Taller de conversión,4,,x,,clases/semana-09
+036,2026-11-06,viernes,10:10,50,I,09,Radianes,Quiz de ángulos en posición estándar y radianes,4,x,,x,clases/semana-09
+037,2026-11-10,martes,11:50,50,I,10,Arco y sector circular,Longitud de arco s = rθ,4,,,,clases/semana-10
+038,2026-11-12,jueves,11:50,50,I,10,Arco y sector circular,Área del sector circular,4,,,,clases/semana-10
+039,2026-11-12,jueves,13:40,50,I,10,Arco y sector circular,Taller: la medición de la Tierra de Eratóstenes y problemas de arco,4,,x,,clases/semana-10
+040,2026-11-13,viernes,10:10,50,I,10,Arco y sector circular,"Problemas de arco y sector (ruedas, relojes, latitudes)",4,,,x,clases/semana-10
+041,2026-11-17,martes,11:50,50,I,11,Círculo unitario,El círculo unitario y los ángulos en posición estándar,4,,,,clases/semana-11
+042,2026-11-19,jueves,11:50,50,I,11,Círculo unitario,Seno y coseno como coordenadas del punto (ángulos agudos y cuadrantales),4,,,,clases/semana-11
+043,2026-11-19,jueves,13:40,50,I,11,Círculo unitario,Taller del círculo unitario,4,,x,,clases/semana-11
+044,2026-11-20,viernes,10:10,50,I,11,Círculo unitario,"Quiz de arco, sector y círculo unitario; guía de repaso",4,x,,x,clases/semana-11
+045,2026-11-24,martes,11:50,50,I,12,Repaso y evaluación,Repaso general del trimestre (razones y triángulos),4,,,,clases/semana-12
+046,2026-11-26,jueves,11:50,50,I,12,Repaso y evaluación,"Repaso general (ángulos, radianes, arco) y dudas",4,,,,clases/semana-12
+047,2026-11-26,jueves,13:40,50,I,12,Repaso y evaluación,Evaluación del periodo,4,,,,clases/semana-12
+048,2026-11-27,viernes,10:10,50,I,12,Repaso y evaluación,Socialización de la evaluación y cierre del trimestre,4,,,,clases/semana-12
 049,2026-12-01,martes,11:50,50,II,13,,,,,,,clases/semana-13
 050,2026-12-03,jueves,11:50,50,II,13,,,,,,,clases/semana-13
 051,2026-12-03,jueves,13:40,50,II,13,,,,,,,clases/semana-13
