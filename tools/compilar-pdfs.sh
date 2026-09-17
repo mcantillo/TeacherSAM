@@ -48,13 +48,17 @@ compilar() {  # compilar <nombre.tex> [jobname con clave]
   [[ -n "${2:-}" ]] && opts+=(-jobname="$2" -usepretex='\def\clave{}')
   local salida
   salida="$(latexmk "${opts[@]}" "$1" 2>&1)" || {
-    local log="${2:-${1%.tex}}.log"
+    local nombre="${2:-${1%.tex}}"
     echo "    ERROR:"
-    if grep -qE '^(!|.*:[0-9]+:)' "$log" 2>/dev/null; then
-      grep -A3 -E '^(!|.*:[0-9]+:)' "$log" | head -15 | sed 's/^/      /'
+    if grep -qE '^(!|.*:[0-9]+:)' "$nombre.log" 2>/dev/null; then
+      grep -A3 -E '^(!|.*:[0-9]+:)' "$nombre.log" | head -15 | sed 's/^/      /'
     else
       tail -15 <<< "$salida" | sed 's/^/      /'
     fi
+    # pdflatex borra el PDF anterior al arrancar y deja el .aux a medias: si la
+    # compilacion falla, se recupera del repositorio lo que ya estaba bien, para que
+    # un error nuevo nunca destruya un PDF (ni un .aux que leen las clases) que sirve.
+    git checkout -- "$nombre.pdf" "$nombre.aux" 2> /dev/null || true
     return 1
   }
 }

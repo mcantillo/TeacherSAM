@@ -4,7 +4,7 @@ Lista de lo que falta, agrupada por quién lo desbloquea. Se actualiza cada vez 
 cierra un pendiente (ver `CLAUDE.md`); lo ya hecho pasa a `CHANGELOG.md`. Los pendientes del
 banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 
-Última actualización: 2026-09-15.
+Última actualización: 2026-09-17.
 
 ## 0. Urgente — desbloquea clases de esta semana
 
@@ -19,13 +19,13 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 - [ ] **Irracionales en 8° y en 9°:** el trimestre I de los dos cursos trabaja los mismos
       temas y los mismos ejercicios (`irracionales-8`). Decidir el reparto antes de la
       semana 04, o el trimestre se repite entero.
-- [ ] **Guías de Geometría 9° y 11°:** el CI no las compila (borró sus PDF en `ca898e5`).
-      Falta reproducir el error y corregirlo; hasta entonces no hay PDF que imprimir.
+- [ ] **Guías de Geometría 9° y 11°:** el CI no las compila. Sus PDF (borrados en `ca898e5`)
+      ya se recuperaron el 2026-09-17 y el CI ya no puede volver a borrarlos, así que sí hay
+      PDF que imprimir; falta reproducir el error de compilación y corregirlo (sección 5).
 - [ ] **Los 9 ejercicios de la guía de Geometría 10°** (`coordenadas-11-001…005` y
       `lugares-geometricos-11-001, -003, -004, -005`) existen en el banco pero **no están
       verificados** (`verificados.json` no los tiene). Hay que correr
       `python3 tools/ejercicios.py verificar` con SymPy antes de dar la guía por buena.
-
 ## 1. Decisiones de la docente — generales
 
 - [ ] **Rangos del SIEE:** confirmar la escala 1,0–5,0 y los rangos de desempeño (Bajo, Básico,
@@ -146,4 +146,16 @@ Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la 
 
 ## 5. Repositorio
 
+- [ ] **Las guías del trimestre I de Geometría 9° y 11° no compilan en el CI.** Sus PDF y `.aux`
+      ya se recuperaron (2026-09-17) y el CI ya no los puede borrar, pero el error sigue ahí:
+      `guia-periodo-I-semejanza-medicion.tex` muere entre el tema «Congruencia» y el tema
+      «Teorema de Thales», y `guia-periodo-I-hiperbola-navegacion.tex`, después del tema «La
+      hipérbola» (según hasta dónde alcanzó a escribirse el `.aux`). No es un entorno ni un
+      paquete que falten: los dos usan solo `mmcantillo` y los mismos entornos que las guías que
+      sí compilan. **Hay que compilarlas en el Mac con Claude Code** («compila las guías del
+      trimestre I de Geometría 9° y 11° y arregla lo que salga»), porque el sandbox de Cowork no
+      tiene el TeX Live completo ni salida a internet para instalarlo.
+- [x] Una compilación fallida ya no borra el PDF ni el `.aux` que estaban bien
+      (`tools/compilar-pdfs.sh` los recupera; el workflow usa `git add --ignore-removal`)
+      (2026-09-17).
 - [x] `.claude/worktrees/` (copias de trabajo de los agentes) agregado a `.gitignore` (2026-09-14).

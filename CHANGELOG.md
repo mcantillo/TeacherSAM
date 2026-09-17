@@ -2,6 +2,20 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-17
+
+- **Se recuperaron dos guías borradas por el CI:** las del trimestre I de Geometría 9°
+  (`guia-periodo-I-semejanza-medicion`) y Geometría 11° (`guia-periodo-I-hiperbola-navegacion`).
+  El commit `ca898e5` («Compilar PDF») había borrado su `.pdf` y dejado su `.aux` a medias; se
+  restauraron ambos desde `4083e90`. Los `.tex` nunca cambiaron, así que los PDF recuperados
+  corresponden a su fuente.
+- **Causa y arreglo:** `pdflatex` borra el PDF anterior al arrancar, así que una compilación
+  fallida deja la carpeta sin PDF; el paso «Subir los PDF» usaba `git add -A`, que publicaba ese
+  borrado. Ahora `tools/compilar-pdfs.sh` recupera del repositorio el `.pdf` y el `.aux` del
+  archivo que falló, y el workflow usa `git add --ignore-removal`: **un error de compilación ya
+  no puede destruir un PDF que servía**.
+- Queda pendiente el error de fondo: esas dos guías no compilan en el CI (ver `PENDIENTES.md`).
+
 ## 2026-09-15
 
 - **Paquetes de la semana 03** (clases del 15 al 18 de septiembre): Trigonometría 10°
