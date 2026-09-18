@@ -20,6 +20,11 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 - [ ] **Irracionales en 8° y en 9°:** el trimestre I de los dos cursos trabaja los mismos
       temas y los mismos ejercicios (`irracionales-8`). Decidir el reparto antes de la
       semana 04, o el trimestre se repite entero.
+- [ ] **Recompilar todo con `--todos` después de arreglar la fuente:** en Actions → «Compilar
+      PDF» → «Run workflow» → marcar *Recompilar todos los .tex de materias/*. Es lo único
+      que vuelve a compilar las guías de 9° y 11° (el CI solo toca los `.tex` que cambian) y
+      la única forma de ver su error de verdad. Ojo: la guía de Geometría 11° usa `\texttt`,
+      así que puede que también fuera la fuente y ya quede arreglada.
 - [ ] **Guías de Geometría 9° y 11°:** el CI no las compila. Sus PDF (borrados en `ca898e5`)
       ya se recuperaron el 2026-09-17 y el CI ya no puede volver a borrarlos, así que sí hay
       PDF que imprimir; falta reproducir el error de compilación y corregirlo (sección 5).

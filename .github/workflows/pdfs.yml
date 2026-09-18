@@ -43,6 +43,7 @@ jobs:
             kvoptions kvsetkeys l3kernel l3packages lastpage latex latexconfig \
             listings listingsutf8 ltxcmds mathtools microtype mweights needspace newpx newtx \
             oberdiek pdfcol pdfescape pdftexcmds pgf pgfplots psnfss refcount rerunfilecheck \
+            txfonts \
             siunitx stringenc symbol tasks tcolorbox tikzfill tools translations trimspaces \
             uniquecounter url was xcolor xkeyval xpatch xstring zapfding
           # Enlaza en el PATH los binarios nuevos (latexmk).

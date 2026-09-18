@@ -2,6 +2,23 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-17 (tarde)
+
+- **Los 4 archivos que fallaban en el CI, diagnosticados** (registro de Actions de la corrida
+  de `366c762`). Son dos errores distintos, no uno:
+  - **Fuente monoespaciada ausente en el CI** (3 archivos: `clase.tex` de Álgebra 9°,
+    Geometría 7° y Trigonometría 10°, semana 03): «Font T1/npxtt/m/n/10.95=t1xtt not
+    loadable: Metric (TFM) file not found». Es la primera vez que un material de `materias/`
+    usa `\texttt`; `newpxtext` toma sus metrías de **`txfonts`**, que no estaba en la lista
+    de `tlmgr install` del workflow. Se agregó. En el Mac no se nota porque allí el TeX Live
+    está completo.
+  - **`%` dentro de modo matemático** (1 archivo: `tarea.tex` de Álgebra 9°, y el mismo caso
+    en su `clase.tex`, que ya moría antes por la fuente): «Incompatible glue units» en
+    `\es@sppercent`. babel-spanish mide `\lastskip` al componer el `%`, y en modo matemático
+    ese `\lastskip` es *muglue*. Se cambiaron los dos `$\num{…}\,\%$` por
+    `\qty{…}{\percent}` (siunitx, que ya estaba cargado). **Regla para lo que venga: los
+    porcentajes se escriben con `\qty{}{\percent}`, nunca con `\%` dentro de `$…$`.**
+
 ## 2026-09-17
 
 - **Se recuperaron dos guías borradas por el CI:** las del trimestre I de Geometría 9°
