@@ -15,6 +15,17 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
   archivo que falló, y el workflow usa `git add --ignore-removal`: **un error de compilación ya
   no puede destruir un PDF que servía**.
 - Queda pendiente el error de fondo: esas dos guías no compilan en el CI (ver `PENDIENTES.md`).
+- **Trimestre I programado en los 9 cursos que faltaban** (106 filas: `tema`, `subtema`, `dba` y
+  las marcas `quiz`/`taller`/`tarea`), por instrucción de la docente de no esperar su aprobación:
+  Álgebra 9°, Física 9° y 10°, y Geometría 3°, 4°, 6°, 7°, 9° y 11°. Cada fila sale del plan de
+  la guía del curso (que ya reparte los temas por número de sesión) y el ritmo de quices,
+  talleres y tareas, del «Ritmo de evaluación» de su `plan-anual.md`. Trigonometría 10° y
+  Geometría 10° ya estaban programados. **Sigue siendo una propuesta:** se escribió sin
+  aprobación, y la docente puede cambiar cualquier fila.
+- Dos filas quedaron **a propósito sin DBA**, porque son decisiones abiertas de la docente
+  (`PENDIENTES.md`, sección 1): «Medición» en Física 10° (sesiones 005–006) y «Líneas» en
+  Geometría 4° (003–006, no están en ningún DBA de 4°). Y la sesión 002 de Geometría 9° sigue
+  vacía: la bitácora no dice qué se dictó ese día y no se inventa.
 
 ## 2026-09-15
 

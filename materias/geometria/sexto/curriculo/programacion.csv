@@ -1,13 +1,13 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-07,lunes,13:40,50,I,02,Ángulos,"Clasificación de ángulos (dictada antes de la planeación, según la bitácora)",,,,,clases/semana-02
-002,2026-09-14,lunes,13:40,50,I,03,,,,,,,clases/semana-03
-003,2026-09-21,lunes,13:40,50,I,04,,,,,,,clases/semana-04
-004,2026-09-28,lunes,13:40,50,I,05,,,,,,,clases/semana-05
-005,2026-10-05,lunes,13:40,50,I,06,,,,,,,clases/semana-06
-006,2026-10-19,lunes,13:40,50,I,07,,,,,,,clases/semana-07
-007,2026-10-26,lunes,13:40,50,I,08,,,,,,,clases/semana-08
-008,2026-11-09,lunes,13:40,50,I,10,,,,,,,clases/semana-10
-009,2026-11-23,lunes,13:40,50,I,12,,,,,,,clases/semana-12
+002,2026-09-14,lunes,13:40,50,I,03,Ángulos,Medir con transportador; complementarios y suplementarios,5,,,x,clases/semana-03
+003,2026-09-21,lunes,13:40,50,I,04,Ángulos,Estimar ángulos con referentes; el ángulo de tiro,5,,x,,clases/semana-04
+004,2026-09-28,lunes,13:40,50,I,05,Ángulos entre rectas,Adyacentes y opuestos por el vértice; bisectriz,5;6,x,,x,clases/semana-05
+005,2026-10-05,lunes,13:40,50,I,06,Polígonos,"Lados, vértices, diagonales y polígonos regulares",4;6,,x,,clases/semana-06
+006,2026-10-19,lunes,13:40,50,I,07,Triángulos,Clasificación por lados y por ángulos,5;6,,,x,clases/semana-07
+007,2026-10-26,lunes,13:40,50,I,08,Triángulos,Suma de los ángulos internos,5;6,,x,,clases/semana-08
+008,2026-11-09,lunes,13:40,50,I,10,Triángulos,Construcción con regla y compás; desigualdad triangular,5;6,x,,x,clases/semana-10
+009,2026-11-23,lunes,13:40,50,I,12,Evaluación del periodo,Evaluación del trimestre I,5;6,,,,clases/semana-12
 010,2026-12-07,lunes,13:40,50,II,14,,,,,,,clases/semana-14
 011,2026-12-14,lunes,13:40,50,II,15,,,,,,,clases/semana-15
 012,2026-12-21,lunes,13:40,50,II,16,,,,,,,clases/semana-16

@@ -1,13 +1,13 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-07,lunes,10:10,50,I,02,Inicio de año,Investigación asignada: cada estudiante escoge un científico de todos los tiempos; exposiciones por grupos en las semanas siguientes (dictada),,,,,clases/semana-02
-002,2026-09-14,lunes,10:10,50,I,03,,,,,,,clases/semana-03
-003,2026-09-21,lunes,10:10,50,I,04,,,,,,,clases/semana-04
-004,2026-09-28,lunes,10:10,50,I,05,,,,,,,clases/semana-05
-005,2026-10-05,lunes,10:10,50,I,06,,,,,,,clases/semana-06
-006,2026-10-19,lunes,10:10,50,I,07,,,,,,,clases/semana-07
-007,2026-10-26,lunes,10:10,50,I,08,,,,,,,clases/semana-08
-008,2026-11-09,lunes,10:10,50,I,10,,,,,,,clases/semana-10
-009,2026-11-23,lunes,10:10,50,I,12,,,,,,,clases/semana-12
+002,2026-09-14,lunes,10:10,50,I,03,Científicos que cambiaron la física,De las exposiciones al método de Galileo,1,,,x,clases/semana-03
+003,2026-09-21,lunes,10:10,50,I,04,Científicos que cambiaron la física,El movimiento uniforme de Galileo y el patrón de los impares,1,,x,,clases/semana-04
+004,2026-09-28,lunes,10:10,50,I,05,Describir el movimiento,"Marco de referencia, posición y trayectoria",1,,,x,clases/semana-05
+005,2026-10-05,lunes,10:10,50,I,06,Describir el movimiento,Distancia y desplazamiento; rapidez y velocidad media,1,,x,,clases/semana-06
+006,2026-10-19,lunes,10:10,50,I,07,Movimiento rectilíneo uniforme,x = x₀ + v t; gráficas x–t y v–t,1,x,,x,clases/semana-07
+007,2026-10-26,lunes,10:10,50,I,08,Movimiento rectilíneo uniforme,Problemas de encuentro,1,,,,clases/semana-08
+008,2026-11-09,lunes,10:10,50,I,10,Marcos de referencia,La pelota en el bus; repaso del trimestre,1,,,,clases/semana-10
+009,2026-11-23,lunes,10:10,50,I,12,Evaluación del periodo,Evaluación del trimestre I,1,,,,clases/semana-12
 010,2026-12-07,lunes,10:10,50,II,14,,,,,,,clases/semana-14
 011,2026-12-14,lunes,10:10,50,II,15,,,,,,,clases/semana-15
 012,2026-12-21,lunes,10:10,50,II,16,,,,,,,clases/semana-16

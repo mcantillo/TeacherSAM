@@ -1,16 +1,16 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-04,viernes,13:00,40,I,01,Actividades de inicio de año,Actividades rompehielo y dinámicas de grupo,,,,,clases/semana-01
 002,2026-09-11,viernes,13:00,40,I,02,Investigación: la hipérbola y LORAN,Pregunta problematizadora sobre la hipérbola y la triangulación que usaba LORAN,,,,,clases/semana-02
-003,2026-09-18,viernes,13:00,40,I,03,,,,,,,clases/semana-03
-004,2026-09-25,viernes,13:00,40,I,04,,,,,,,clases/semana-04
-005,2026-10-02,viernes,13:00,40,I,05,,,,,,,clases/semana-05
-006,2026-10-09,viernes,13:00,40,I,06,,,,,,,clases/semana-06
-007,2026-10-23,viernes,13:00,40,I,07,,,,,,,clases/semana-07
-008,2026-10-30,viernes,13:00,40,I,08,,,,,,,clases/semana-08
-009,2026-11-06,viernes,13:00,40,I,09,,,,,,,clases/semana-09
-010,2026-11-13,viernes,13:00,40,I,10,,,,,,,clases/semana-10
-011,2026-11-20,viernes,13:00,40,I,11,,,,,,,clases/semana-11
-012,2026-11-27,viernes,13:00,40,I,12,,,,,,,clases/semana-12
+003,2026-09-18,viernes,13:00,40,I,03,Coordenadas cartesianas,Distancia entre dos puntos,6,,x,,clases/semana-03
+004,2026-09-25,viernes,13:00,40,I,04,Coordenadas cartesianas,Punto medio y división de un segmento,6,,,x,clases/semana-04
+005,2026-10-02,viernes,13:00,40,I,05,Lugares geométricos,La circunferencia como lugar geométrico,6,,x,,clases/semana-05
+006,2026-10-09,viernes,13:00,40,I,06,Lugares geométricos,Mediatriz y parábola,6,x,,x,clases/semana-06
+007,2026-10-23,viernes,13:00,40,I,07,La hipérbola,Definición como lugar geométrico,6,,x,,clases/semana-07
+008,2026-10-30,viernes,13:00,40,I,08,La hipérbola,"Ecuación, focos y asíntotas",6,,,x,clases/semana-08
+009,2026-11-06,viernes,13:00,40,I,09,Navegación hiperbólica,Diferencia de distancias y el sistema LORAN,4;6,,x,,clases/semana-09
+010,2026-11-13,viernes,13:00,40,I,10,Navegación hiperbólica,Fijar una posición con dos hipérbolas,4;6,,,x,clases/semana-10
+011,2026-11-20,viernes,13:00,40,I,11,Repaso del trimestre,Repaso de lugares geométricos e hipérbola,4;6,x,,,clases/semana-11
+012,2026-11-27,viernes,13:00,40,I,12,Evaluación del periodo,Evaluación del trimestre I,4;6,,,,clases/semana-12
 013,2026-12-04,viernes,13:00,40,II,13,,,,,,,clases/semana-13
 014,2026-12-11,viernes,13:00,40,II,14,,,,,,,clases/semana-14
 015,2026-12-18,viernes,13:00,40,II,15,,,,,,,clases/semana-15

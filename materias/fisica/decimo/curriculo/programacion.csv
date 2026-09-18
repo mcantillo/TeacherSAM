@@ -3,26 +3,26 @@ clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea
 002,2026-09-04,viernes,07:50,100,I,01,Inicio de año,Actividades de integración y proyecto de inicio (primera ley de Newton o presión atmosférica: por confirmar cuál) (dictada),,,,,clases/semana-01
 003,2026-09-10,jueves,07:50,100,I,02,Herramientas de trabajo,"Notación científica: explicación, ejercicios, puesta en común y video (dictada)",,,,,clases/semana-02
 004,2026-09-11,viernes,07:50,100,I,02,Herramientas de trabajo,"Notación científica: explicación, ejercicios, puesta en común y video (dictada)",,,,,clases/semana-02
-005,2026-09-17,jueves,07:50,100,I,03,,,,,,,clases/semana-03
-006,2026-09-18,viernes,07:50,100,I,03,,,,,,,clases/semana-03
-007,2026-09-24,jueves,07:50,100,I,04,,,,,,,clases/semana-04
-008,2026-09-25,viernes,07:50,100,I,04,,,,,,,clases/semana-04
-009,2026-10-01,jueves,07:50,100,I,05,,,,,,,clases/semana-05
-010,2026-10-02,viernes,07:50,100,I,05,,,,,,,clases/semana-05
-011,2026-10-08,jueves,07:50,100,I,06,,,,,,,clases/semana-06
-012,2026-10-09,viernes,07:50,100,I,06,,,,,,,clases/semana-06
-013,2026-10-22,jueves,07:50,100,I,07,,,,,,,clases/semana-07
-014,2026-10-23,viernes,07:50,100,I,07,,,,,,,clases/semana-07
-015,2026-10-29,jueves,07:50,100,I,08,,,,,,,clases/semana-08
-016,2026-10-30,viernes,07:50,100,I,08,,,,,,,clases/semana-08
-017,2026-11-05,jueves,07:50,100,I,09,,,,,,,clases/semana-09
-018,2026-11-06,viernes,07:50,100,I,09,,,,,,,clases/semana-09
-019,2026-11-12,jueves,07:50,100,I,10,,,,,,,clases/semana-10
-020,2026-11-13,viernes,07:50,100,I,10,,,,,,,clases/semana-10
-021,2026-11-19,jueves,07:50,100,I,11,,,,,,,clases/semana-11
-022,2026-11-20,viernes,07:50,100,I,11,,,,,,,clases/semana-11
-023,2026-11-26,jueves,07:50,100,I,12,,,,,,,clases/semana-12
-024,2026-11-27,viernes,07:50,100,I,12,,,,,,,clases/semana-12
+005,2026-09-17,jueves,07:50,100,I,03,Medición,"Magnitudes, unidades del SI y cifras significativas",,,x,,clases/semana-03
+006,2026-09-18,viernes,07:50,100,I,03,Medición,"Notación científica, conversión de unidades y error",,,,x,clases/semana-03
+007,2026-09-24,jueves,07:50,100,I,04,Vectores,"Representación, componentes y suma gráfica",1,,x,,clases/semana-04
+008,2026-09-25,viernes,07:50,100,I,04,Vectores,Suma por componentes y fuerza neta,1,,,x,clases/semana-04
+009,2026-10-01,jueves,07:50,100,I,05,Repaso de cinemática,"Posición, velocidad y aceleración",1,,x,,clases/semana-05
+010,2026-10-02,viernes,07:50,100,I,05,Repaso de cinemática,MRU y MUA; gráficas y caída libre,1,x,,x,clases/semana-05
+011,2026-10-08,jueves,07:50,100,I,06,Primera ley de Newton,"Fuerza, masa e inercia",1,,,,clases/semana-06
+012,2026-10-09,viernes,07:50,100,I,06,Primera ley de Newton,Diagramas de cuerpo libre,1,,,x,clases/semana-06
+013,2026-10-22,jueves,07:50,100,I,07,Primera ley de Newton,Equilibrio de fuerzas concurrentes,1,,x,,clases/semana-07
+014,2026-10-23,viernes,07:50,100,I,07,Primera ley de Newton,Fuerza normal y rozamiento estático,1,x,,x,clases/semana-07
+015,2026-10-29,jueves,07:50,100,I,08,Segunda ley de Newton,F = m a,1,,x,,clases/semana-08
+016,2026-10-30,viernes,07:50,100,I,08,Segunda ley de Newton,Peso y normal en el plano horizontal,1,,,x,clases/semana-08
+017,2026-11-05,jueves,07:50,100,I,09,Segunda ley de Newton,Plano inclinado,1,,x,,clases/semana-09
+018,2026-11-06,viernes,07:50,100,I,09,Segunda ley de Newton,Rozamiento cinético y problemas,1,x,,x,clases/semana-09
+019,2026-11-12,jueves,07:50,100,I,10,Tercera ley de Newton,Acción y reacción,1,,x,,clases/semana-10
+020,2026-11-13,viernes,07:50,100,I,10,Tercera ley de Newton,Pares de fuerzas en sistemas de dos cuerpos,1,,,x,clases/semana-10
+021,2026-11-19,jueves,07:50,100,I,11,Las tres leyes,Problemas integrados,1,,x,,clases/semana-11
+022,2026-11-20,viernes,07:50,100,I,11,Las tres leyes,Laboratorio: medir una fuerza y predecir el movimiento,1,x,,,clases/semana-11
+023,2026-11-26,jueves,07:50,100,I,12,Repaso del trimestre,"Repaso de medición, vectores y leyes de Newton",1,,,,clases/semana-12
+024,2026-11-27,viernes,07:50,100,I,12,Evaluación del periodo,Evaluación del trimestre I,1,,,,clases/semana-12
 025,2026-12-03,jueves,07:50,100,II,13,,,,,,,clases/semana-13
 026,2026-12-04,viernes,07:50,100,II,13,,,,,,,clases/semana-13
 027,2026-12-10,jueves,07:50,100,II,14,,,,,,,clases/semana-14

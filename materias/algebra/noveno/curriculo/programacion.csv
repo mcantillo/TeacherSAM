@@ -3,26 +3,26 @@ clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea
 002,2026-09-04,viernes,06:55,55,I,01,Inicio de año,"Actividades de inicio, dinámicas de grupo y prueba diagnóstica",,,,,clases/semana-01
 003,2026-09-08,martes,13:00,40,I,02,Refuerzo de factorización,"Casos 1 a 4 (factor común, diferencia de cuadrados, trinomio cuadrado perfecto, trinomio x² + bx + c)",,,,,clases/semana-02
 004,2026-09-11,viernes,06:55,55,I,02,Refuerzo de factorización,"Casos 1 a 4 (factor común, diferencia de cuadrados, trinomio cuadrado perfecto, trinomio x² + bx + c)",,,,,clases/semana-02
-005,2026-09-15,martes,13:00,40,I,03,,,,,,,clases/semana-03
-006,2026-09-18,viernes,06:55,55,I,03,,,,,,,clases/semana-03
-007,2026-09-22,martes,13:00,40,I,04,,,,,,,clases/semana-04
-008,2026-09-25,viernes,06:55,55,I,04,,,,,,,clases/semana-04
-009,2026-09-29,martes,13:00,40,I,05,,,,,,,clases/semana-05
-010,2026-10-02,viernes,06:55,55,I,05,,,,,,,clases/semana-05
-011,2026-10-06,martes,13:00,40,I,06,,,,,,,clases/semana-06
-012,2026-10-09,viernes,06:55,55,I,06,,,,,,,clases/semana-06
-013,2026-10-20,martes,13:00,40,I,07,,,,,,,clases/semana-07
-014,2026-10-23,viernes,06:55,55,I,07,,,,,,,clases/semana-07
-015,2026-10-27,martes,13:00,40,I,08,,,,,,,clases/semana-08
-016,2026-10-30,viernes,06:55,55,I,08,,,,,,,clases/semana-08
-017,2026-11-03,martes,13:00,40,I,09,,,,,,,clases/semana-09
-018,2026-11-06,viernes,06:55,55,I,09,,,,,,,clases/semana-09
-019,2026-11-10,martes,13:00,40,I,10,,,,,,,clases/semana-10
-020,2026-11-13,viernes,06:55,55,I,10,,,,,,,clases/semana-10
-021,2026-11-17,martes,13:00,40,I,11,,,,,,,clases/semana-11
-022,2026-11-20,viernes,06:55,55,I,11,,,,,,,clases/semana-11
-023,2026-11-24,martes,13:00,40,I,12,,,,,,,clases/semana-12
-024,2026-11-27,viernes,06:55,55,I,12,,,,,,,clases/semana-12
+005,2026-09-15,martes,13:00,40,I,03,Números reales,Aproximación y error: racionales que se acercan a √2,1,,,,clases/semana-03
+006,2026-09-18,viernes,06:55,55,I,03,Números reales,Exactitud y aproximación en la recta real,1,,,x,clases/semana-03
+007,2026-09-22,martes,13:00,40,I,04,Números reales,Radicales: raíz enésima y simplificación,1,,,,clases/semana-04
+008,2026-09-25,viernes,06:55,55,I,04,Números reales,Suma y resta de radicales semejantes,1,,x,x,clases/semana-04
+009,2026-09-29,martes,13:00,40,I,05,Números reales,"Multiplicación, división y racionalización",1,,,,clases/semana-05
+010,2026-10-02,viernes,06:55,55,I,05,Números reales,Problemas de medida con radicales,1,x,,x,clases/semana-05
+011,2026-10-06,martes,13:00,40,I,06,Productos notables y factorización,Cuadrado de un binomio,1;2,,,,clases/semana-06
+012,2026-10-09,viernes,06:55,55,I,06,Productos notables y factorización,Suma por diferencia y cubo de un binomio,1;2,,x,x,clases/semana-06
+013,2026-10-20,martes,13:00,40,I,07,Productos notables y factorización,Factor común y agrupación,1;2,,,,clases/semana-07
+014,2026-10-23,viernes,06:55,55,I,07,Productos notables y factorización,Diferencia de cuadrados,1;2,,,x,clases/semana-07
+015,2026-10-27,martes,13:00,40,I,08,Productos notables y factorización,Trinomio cuadrado perfecto,1;2,,,,clases/semana-08
+016,2026-10-30,viernes,06:55,55,I,08,Productos notables y factorización,Trinomio de la forma x²+bx+c,1;2,,x,x,clases/semana-08
+017,2026-11-03,martes,13:00,40,I,09,Productos notables y factorización,Completar el cuadrado: x²+10x=39,1;2,,,,clases/semana-09
+018,2026-11-06,viernes,06:55,55,I,09,Fracciones algebraicas y ecuaciones,Simplificación de fracciones algebraicas,2,x,,x,clases/semana-09
+019,2026-11-10,martes,13:00,40,I,10,Fracciones algebraicas y ecuaciones,Multiplicación y división,2,,,,clases/semana-10
+020,2026-11-13,viernes,06:55,55,I,10,Fracciones algebraicas y ecuaciones,Suma y resta con denominadores distintos,2,,x,x,clases/semana-10
+021,2026-11-17,martes,13:00,40,I,11,Fracciones algebraicas y ecuaciones,Ecuaciones con fracciones algebraicas,2,,,,clases/semana-11
+022,2026-11-20,viernes,06:55,55,I,11,Fracciones algebraicas y ecuaciones,Soluciones extrañas: verificar en el problema,2,x,,x,clases/semana-11
+023,2026-11-24,martes,13:00,40,I,12,Repaso del trimestre,Repaso de los tres temas del periodo,1;2,,,,clases/semana-12
+024,2026-11-27,viernes,06:55,55,I,12,Evaluación del periodo,Evaluación del trimestre I,1;2,,,,clases/semana-12
 025,2026-12-01,martes,13:00,40,II,13,,,,,,,clases/semana-13
 026,2026-12-04,viernes,06:55,55,II,13,,,,,,,clases/semana-13
 027,2026-12-11,viernes,06:55,55,II,14,,,,,,,clases/semana-14

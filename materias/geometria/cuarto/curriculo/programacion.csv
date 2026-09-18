@@ -1,16 +1,16 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-02,miércoles,08:40,50,I,01,Inicio de año,"Actividades de inicio, rompehielos y dinámicas de grupo (dictada)",,,,,clases/semana-01
 002,2026-09-09,miércoles,08:40,50,I,02,Líneas,Línea recta y rectas paralelas (dictada),,,,,clases/semana-02
-003,2026-09-16,miércoles,08:40,50,I,03,,,,,,,clases/semana-03
-004,2026-09-23,miércoles,08:40,50,I,04,,,,,,,clases/semana-04
-005,2026-09-30,miércoles,08:40,50,I,05,,,,,,,clases/semana-05
-006,2026-10-07,miércoles,08:40,50,I,06,,,,,,,clases/semana-06
-007,2026-10-21,miércoles,08:40,50,I,07,,,,,,,clases/semana-07
-008,2026-10-28,miércoles,08:40,50,I,08,,,,,,,clases/semana-08
-009,2026-11-04,miércoles,08:40,50,I,09,,,,,,,clases/semana-09
-010,2026-11-11,miércoles,08:40,50,I,10,,,,,,,clases/semana-10
-011,2026-11-18,miércoles,08:40,50,I,11,,,,,,,clases/semana-11
-012,2026-11-25,miércoles,08:40,50,I,12,,,,,,,clases/semana-12
+003,2026-09-16,miércoles,08:40,50,I,03,Líneas,"Recta, segmento y semirrecta; notación",,,,x,clases/semana-03
+004,2026-09-23,miércoles,08:40,50,I,04,Líneas,"Rectas paralelas, secantes y perpendiculares",,,x,,clases/semana-04
+005,2026-09-30,miércoles,08:40,50,I,05,Líneas,Trazar paralelas y perpendiculares con regla y escuadra,,,,x,clases/semana-05
+006,2026-10-07,miércoles,08:40,50,I,06,Líneas,Las vías del tren: paralelas y perpendiculares en el entorno,,x,,,clases/semana-06
+007,2026-10-21,miércoles,08:40,50,I,07,Polígonos,"Lados, vértices y ángulos de un polígono",6,,,x,clases/semana-07
+008,2026-10-28,miércoles,08:40,50,I,08,Polígonos,Polígonos regulares e irregulares; nombres por número de lados,6,,x,,clases/semana-08
+009,2026-11-04,miércoles,08:40,50,I,09,Cuadriláteros,Clasificación de los cuadriláteros,6,,,x,clases/semana-09
+010,2026-11-11,miércoles,08:40,50,I,10,Cuadriláteros,El cuadrado como rectángulo especial; construcción en cuadrícula,6,,x,,clases/semana-10
+011,2026-11-18,miércoles,08:40,50,I,11,Figuras con polígonos,Tangram: armar y desarmar figuras,6,x,,,clases/semana-11
+012,2026-11-25,miércoles,08:40,50,I,12,Evaluación del periodo,Evaluación del trimestre I,6,,,,clases/semana-12
 013,2026-12-02,miércoles,08:40,50,II,13,,,,,,,clases/semana-13
 014,2026-12-09,miércoles,08:40,50,II,14,,,,,,,clases/semana-14
 015,2026-12-16,miércoles,08:40,50,II,15,,,,,,,clases/semana-15

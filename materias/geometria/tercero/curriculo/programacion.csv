@@ -1,16 +1,16 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-04,viernes,11:00,50,I,01,Inicio de año,"Actividades de inicio, rompehielos y dinámicas de grupo (dictada)",,,,,clases/semana-01
 002,2026-09-11,viernes,11:00,50,I,02,"Punto, línea y plano","Punto, línea, recta y plano; práctica con luz láser en las paredes: punto en el espacio y proyección de un plano (dictada)",,,,,clases/semana-02
-003,2026-09-18,viernes,11:00,50,I,03,,,,,,,clases/semana-03
-004,2026-09-25,viernes,11:00,50,I,04,,,,,,,clases/semana-04
-005,2026-10-02,viernes,11:00,50,I,05,,,,,,,clases/semana-05
-006,2026-10-09,viernes,11:00,50,I,06,,,,,,,clases/semana-06
-007,2026-10-23,viernes,11:00,50,I,07,,,,,,,clases/semana-07
-008,2026-10-30,viernes,11:00,50,I,08,,,,,,,clases/semana-08
-009,2026-11-06,viernes,11:00,50,I,09,,,,,,,clases/semana-09
-010,2026-11-13,viernes,11:00,50,I,10,,,,,,,clases/semana-10
-011,2026-11-20,viernes,11:00,50,I,11,,,,,,,clases/semana-11
-012,2026-11-27,viernes,11:00,50,I,12,,,,,,,clases/semana-12
+003,2026-09-18,viernes,11:00,50,I,03,Líneas,"Líneas rectas y curvas; horizontal, vertical e inclinada",6,,,x,clases/semana-03
+004,2026-09-25,viernes,11:00,50,I,04,Líneas,"Líneas abiertas y cerradas; dentro, fuera y borde",6,,x,,clases/semana-04
+005,2026-10-02,viernes,11:00,50,I,05,Figuras planas,Lados y vértices de una figura,6,,,x,clases/semana-05
+006,2026-10-09,viernes,11:00,50,I,06,Figuras planas,Clasificar figuras por el número de lados,6,,x,,clases/semana-06
+007,2026-10-23,viernes,11:00,50,I,07,Figuras planas,Triángulos y cuadriláteros; el cuadrado girado sigue siendo cuadrado,6,x,,x,clases/semana-07
+008,2026-10-30,viernes,11:00,50,I,08,Figuras planas,Construir y comparar figuras planas,6,,x,,clases/semana-08
+009,2026-11-06,viernes,11:00,50,I,09,Cuerpos geométricos,"Caras, aristas y vértices",6,,,x,clases/semana-09
+010,2026-11-13,viernes,11:00,50,I,10,Cuerpos geométricos,Cuerpos que ruedan y que no; caras que son figuras planas,6,,x,,clases/semana-10
+011,2026-11-20,viernes,11:00,50,I,11,Formas a mi alrededor,Describir un cuerpo solo con palabras,6,x,,,clases/semana-11
+012,2026-11-27,viernes,11:00,50,I,12,Evaluación del periodo,Evaluación del trimestre I,6,,,,clases/semana-12
 013,2026-12-04,viernes,11:00,50,II,13,,,,,,,clases/semana-13
 014,2026-12-11,viernes,11:00,50,II,14,,,,,,,clases/semana-14
 015,2026-12-18,viernes,11:00,50,II,15,,,,,,,clases/semana-15

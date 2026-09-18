@@ -1,16 +1,16 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-01,martes,06:55,55,I,01,Inicio del año,"Actividades de inicio de año, rompehielos y dinámicas de grupo (según la bitácora)",,,,,clases/semana-01
 002,2026-09-08,martes,06:55,55,I,02,Ángulos,"Clasificación según su medida: agudo, recto, obtuso, llano y completo (según la bitácora)",,,,,clases/semana-02
-003,2026-09-15,martes,06:55,55,I,03,,,,,,,clases/semana-03
-004,2026-09-22,martes,06:55,55,I,04,,,,,,,clases/semana-04
-005,2026-09-29,martes,06:55,55,I,05,,,,,,,clases/semana-05
-006,2026-10-06,martes,06:55,55,I,06,,,,,,,clases/semana-06
-007,2026-10-20,martes,06:55,55,I,07,,,,,,,clases/semana-07
-008,2026-10-27,martes,06:55,55,I,08,,,,,,,clases/semana-08
-009,2026-11-03,martes,06:55,55,I,09,,,,,,,clases/semana-09
-010,2026-11-10,martes,06:55,55,I,10,,,,,,,clases/semana-10
-011,2026-11-17,martes,06:55,55,I,11,,,,,,,clases/semana-11
-012,2026-11-24,martes,06:55,55,I,12,,,,,,,clases/semana-12
+003,2026-09-15,martes,06:55,55,I,03,Ángulos y giros,El ángulo como giro: sentido y amplitud,5,,,x,clases/semana-03
+004,2026-09-22,martes,06:55,55,I,04,Traslaciones,Vector de traslación en la cuadrícula,5,,x,,clases/semana-04
+005,2026-09-29,martes,06:55,55,I,05,Rotaciones,"Centro, ángulo y sentido de giro",5,,,x,clases/semana-05
+006,2026-10-06,martes,06:55,55,I,06,Reflexiones,Eje de simetría y figuras simétricas,5,,x,,clases/semana-06
+007,2026-10-20,martes,06:55,55,I,07,Transformaciones,Composición de transformaciones y congruencia,5,x,,x,clases/semana-07
+008,2026-10-27,martes,06:55,55,I,08,Vistas de un objeto,"Vista frontal, superior y lateral",5,,x,,clases/semana-08
+009,2026-11-03,martes,06:55,55,I,09,Vistas de un objeto,De las vistas al cuerpo: contar cubos,5,,,x,clases/semana-09
+010,2026-11-10,martes,06:55,55,I,10,Objetos transformados,Teselados y objetos girados en el espacio,5,,x,,clases/semana-10
+011,2026-11-17,martes,06:55,55,I,11,Repaso del trimestre,Repaso de transformaciones y vistas,5,x,,,clases/semana-11
+012,2026-11-24,martes,06:55,55,I,12,Evaluación del periodo,Evaluación del trimestre I,5,,,,clases/semana-12
 013,2026-12-01,martes,06:55,55,II,13,,,,,,,clases/semana-13
 014,2026-12-15,martes,06:55,55,II,15,,,,,,,clases/semana-15
 015,2027-01-12,martes,06:55,55,II,17,,,,,,,clases/semana-17

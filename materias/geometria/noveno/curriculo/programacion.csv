@@ -1,16 +1,16 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-03,jueves,13:00,40,I,01,Actividades de inicio de año,Actividades rompehielo y dinámicas de grupo,,,,,clases/semana-01
 002,2026-09-10,jueves,13:00,40,I,02,,,,,,,clases/semana-02
-003,2026-09-17,jueves,13:00,40,I,03,,,,,,,clases/semana-03
-004,2026-09-24,jueves,13:00,40,I,04,,,,,,,clases/semana-04
-005,2026-10-01,jueves,13:00,40,I,05,,,,,,,clases/semana-05
-006,2026-10-08,jueves,13:00,40,I,06,,,,,,,clases/semana-06
-007,2026-10-22,jueves,13:00,40,I,07,,,,,,,clases/semana-07
-008,2026-10-29,jueves,13:00,40,I,08,,,,,,,clases/semana-08
-009,2026-11-05,jueves,13:00,40,I,09,,,,,,,clases/semana-09
-010,2026-11-12,jueves,13:00,40,I,10,,,,,,,clases/semana-10
-011,2026-11-19,jueves,13:00,40,I,11,,,,,,,clases/semana-11
-012,2026-11-26,jueves,13:00,40,I,12,,,,,,,clases/semana-12
+003,2026-09-17,jueves,13:00,40,I,03,Semejanza de figuras,Razón de semejanza y figuras semejantes,6,,x,,clases/semana-03
+004,2026-09-24,jueves,13:00,40,I,04,Semejanza de figuras,Criterios de semejanza de triángulos,6,,,x,clases/semana-04
+005,2026-10-01,jueves,13:00,40,I,05,Congruencia,"Criterios LLL, LAL y ALA",6,,x,,clases/semana-05
+006,2026-10-08,jueves,13:00,40,I,06,Teorema de Thales,Rectas paralelas y segmentos proporcionales,5;6,x,,x,clases/semana-06
+007,2026-10-22,jueves,13:00,40,I,07,Teorema de Thales,Dividir un segmento; aplicaciones,5;6,,x,,clases/semana-07
+008,2026-10-29,jueves,13:00,40,I,08,Teorema de Pitágoras,Enunciado y demostración,5,,,x,clases/semana-08
+009,2026-11-05,jueves,13:00,40,I,09,Teorema de Pitágoras,Problemas de longitudes,5,,x,,clases/semana-09
+010,2026-11-12,jueves,13:00,40,I,10,Estrategias de medición,"Medición indirecta: sombras, espejos y semejanza",5,,,x,clases/semana-10
+011,2026-11-19,jueves,13:00,40,I,11,Repaso del trimestre,"Repaso de semejanza, Thales y Pitágoras",5;6,x,,,clases/semana-11
+012,2026-11-26,jueves,13:00,40,I,12,Evaluación del periodo,Evaluación del trimestre I,5;6,,,,clases/semana-12
 013,2026-12-03,jueves,13:00,40,II,13,,,,,,,clases/semana-13
 014,2026-12-10,jueves,13:00,40,II,14,,,,,,,clases/semana-14
 015,2026-12-17,jueves,13:00,40,II,15,,,,,,,clases/semana-15
