@@ -1,0 +1,160 @@
+% =====================================================================
+% Clase -- Álgebra 9° -- Trimestre I -- Semana 03
+% Sesión 005 (mar 15 sep., 13:00, 40 min) · 006 (vie 18 sep., 6:55, 55 min)
+% Tema: T1 Números reales
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Tema 1 de la guía: Números reales: aproximación, error y radicales (tema:numerosreales)
+% Material del docente (no se entrega a los estudiantes).
+% ---------------------------------------------------------------------
+% BORRADOR: las filas 005 y 006 de curriculo/programacion.csv están VACÍAS. El tema, el
+% subtema, el DBA y las marcas de taller y tarea se toman de la propuesta del trimestre I
+% de curriculo/plan-anual.md, que la docente aún no ha aprobado, y NO se han escrito en
+% programacion.csv.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Clase}
+\asignatura{Álgebra}
+\titulo{Semana 3: lo exacto y lo aproximado}
+\grado{9°}
+\periodo{I}
+
+% DBA: PROPUESTO, sin aprobar — matematicas grado 9 · DBA 1 — «Utiliza números reales en
+% sus diferentes representaciones y en diversos contextos.» Las dos sesiones trabajan la
+% representación en la recta (005) y la distinción entre valor exacto y aproximación, con
+% su error (006).
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  005 & mar 15 sep., 13:00 & 40 & Racionales e irracionales en la recta real & ---\\
+  006 & vie 18 sep., 6:55 & 55 & Aproximación y error: exactitud frente a aproximación
+      ($\sqrt{2}$, $\pi$) & Taller (en clase) y tarea (para el mar 22 sep.)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+Las semanas 01 y 02 fueron diagnóstico y refuerzo de factorización. Esta semana abre el
+Tema 1 de la guía y el trimestre de verdad: el conjunto de los números reales y, sobre
+todo, una distinción que 9° suele tener borrosa —un número no es lo mismo que su
+aproximación decimal—. Referencia: \refguia{tema:numerosreales}.
+
+\begin{nota}
+\textbf{Pendiente.} Las filas 005 y 006 de \texttt{programacion.csv} están vacías: el
+tema, el DBA y las marcas de taller y tarea salen de la propuesta del plan anual, que
+falta aprobar. Además, los ejercicios de esta semana vienen del banco de Álgebra 8°
+(\texttt{irracionales-8}): hay que decidir cómo se reparten los irracionales entre 8° y 9°
+para no repetir el trimestre entero (ver \texttt{PENDIENTES.md}).
+\end{nota}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 005 — martes 15 de septiembre · 13:00 · 40 min}
+
+\textbf{Objetivo.} Distinguir racionales de irracionales por su expresión decimal y ubicar
+raíces en la recta real con una construcción exacta.
+
+\textbf{Materiales.} Tablero; regla y compás (al menos uno por pareja); calculadora; la
+guía del estudiante.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0--5 & El recuadro del hilo del Tema 1: la tablilla babilónica YBC 7289 trae
+    una aproximación de $\sqrt{2}$ con un error menor a una millonésima, y aun así
+    \emph{no es} $\sqrt{2}$. Pregunta: «si la calculadora muestra $\num{1,4142136}$,
+    ¿eso es $\sqrt{2}$?»\\
+  Decimal y fracción & 5--15 & Repaso operativo: toda fracción da un decimal exacto o
+    periódico, y todo decimal exacto o periódico se escribe como fracción. Hacer en el
+    tablero $0{,}\overline{45}$ con el truco de $100x - x$. Luego el contraste:
+    $2{,}101001000100001\ldots$ no tiene período, así que no es fracción. Definir
+    irracional.\\
+  En la recta & 15--30 & Construcción con regla y compás: la diagonal de un cuadrado de
+    lado $1$ mide $\sqrt{2}$; con el compás en $0$ se lleva a la recta. Con catetos $1$ y
+    $2$ sale $\sqrt{5}$. Insistir en la frase de la guía: \emph{la construcción es exacta;
+    la medida con la regla, no}. Cada pareja construye $\sqrt{2}$ en el cuaderno.\\
+  Práctica & 30--37 & Las dos preguntas de abajo, en el cuaderno.\\
+  Cierre & 37--40 & Idea clave: \emph{los irracionales no son raros ni escasos: están en
+    la diagonal de cualquier cuadrado}. Anunciar el viernes: cuánto nos equivocamos al
+    aproximarlos, y el taller.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\textbf{Práctica de la sesión y sus respuestas.}
+\begin{enumerate}
+  % Ejercicio: irracionales-8-015
+  \item Clasifica cada número como natural, entero, racional o irracional (puede estar en
+    varios conjuntos): $\sqrt{9}$, $\sqrt{7}$, $-\frac{4}{2}$, $\frac{22}{7}$, $\pi$,
+    $2{,}101001000100001\ldots$
+    \\\emph{Respuesta:} $\sqrt{9} = 3$: natural, entero y racional. $\sqrt{7}$:
+    irracional. $-\frac{4}{2} = -2$: entero y racional. $\frac{22}{7}$: racional. $\pi$:
+    irracional. $2{,}1010010001\ldots$: irracional, porque el bloque de ceros crece y
+    nunca se repite un mismo período.
+  % Ejercicio: irracionales-8-010
+  \item Explica cómo llevar $\sqrt{2}$ y $\sqrt{5}$ a la recta numérica con regla y
+    compás, usando un cuadrado de lado $1$ y un triángulo rectángulo de catetos $1$ y $2$.
+    \\\emph{Respuesta:} La diagonal del cuadrado de lado $1$ mide
+    $\sqrt{1^2 + 1^2} = \sqrt{2}$; con el compás en $0$ y abertura igual a la diagonal se
+    marca $\sqrt{2} \approx \num{1,41}$. Con catetos $1$ y $2$ la hipotenusa mide
+    $\sqrt{1^2 + 2^2} = \sqrt{5}$, que se lleva igual hasta $\sqrt{5} \approx \num{2,24}$.
+    El compás conserva la longitud: por eso el punto marcado es exactamente $\sqrt{2}$.
+\end{enumerate}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 006 — viernes 18 de septiembre · 6:55 · 55 min}
+
+\textbf{Objetivo.} Calcular el error absoluto y el error relativo de una aproximación,
+juzgar cuántas cifras hacen falta en un contexto y no confundir un número con su
+aproximación.
+
+\textbf{Materiales.} Tablero; calculadora; el taller y la tarea impresos; la guía.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Repaso & 0--6 & Recoger la construcción del martes. Preguntar: «¿cuál es el punto
+    exacto y cuál el que marcamos con la regla?»\\
+  Error & 6--22 & Definición de la guía: si $a$ aproxima a $x$, error absoluto
+    $= |x - a|$ y error relativo $= \frac{|x - a|}{|x|}$, que se suele dar en \%.
+    Ejemplo en el tablero: $\sqrt{2} \approx \num{1,41}$ da error absoluto
+    $\num{0,0042}$ y relativo cercano al $\num{0,3}\,\%$. Escribir bien grande la regla de
+    notación: \emph{$\sqrt{5} = \num{2,23}$ está mal; $\sqrt{5} \approx \num{2,24}$ está
+    bien}.\\
+  ¿Cuántas cifras? & 22--32 & El recuadro «Planos exactos, obras aproximadas»: la diagonal
+    de una baldosa de $\qty{30}{cm}$ es $30\sqrt{2}$~cm en el plano y una aproximación en
+    la obra. Decidir cuántas cifras es decidir qué error se tolera: una baldosa admite un
+    milímetro; la pieza de un motor, mucho menos. Pedir dos ejemplos más al grupo (una
+    cancha, un medicamento).\\
+  Taller & 32--50 & Repartir el taller (5 puntos), individual, con calculadora. La docente
+    pasa por los puestos; recoger al final.\\
+  Cierre y tarea & 50--55 & Puesta en común de la pregunta 3 del taller (¿la suma de dos
+    irracionales es irracional?). Asignar la tarea, para el martes 22 de septiembre.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+\textbf{Errores típicos de 9°.} (1) Escribir $=$ donde va $\approx$; conviene descontarlo
+explícitamente en el taller desde esta semana. (2) Creer que «irracional» quiere decir
+«decimal largo»: $\frac{1}{7}$ es infinito y periódico, y es racional. (3) Suponer que
+operar dos irracionales da siempre un irracional; la pregunta 3 del taller existe para
+romper eso.
+\end{nota}
+
+\end{document}

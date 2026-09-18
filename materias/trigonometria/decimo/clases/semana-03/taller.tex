@@ -1,0 +1,152 @@
+% =====================================================================
+% Taller -- Trigonometría 10° -- Trimestre I -- Semana 03
+% Se hace en clase el jue 17 sep. (sesión 011), unos 32 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Medir lo inalcanzable»
+% Actividad de medición: los estudiantes miden las figuras impresas. No usa ejercicios
+% del banco (no hay ninguno de este tipo); las figuras están dibujadas a escala exacta
+% con TikZ y las respuestas de la clave son los valores teóricos.
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-medir-lo-inalcanzable}
+
+\tipodocumento{Taller}
+\asignatura{Trigonometría}
+\titulo{Taller: la razón que no cambia}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 4 — Comprende y utiliza funciones para modelar
+% fenómenos periódicos y justifica las soluciones. Evidencia 1: «Reconoce el significado
+% de las razones trigonométricas en un triángulo rectángulo para ángulos agudos, en
+% particular, seno, coseno y tangente.» Las preguntas 1-3 construyen el significado
+% (la razón depende solo del ángulo) y la 4 muestra que cambia con el ángulo.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase, con regla graduada en milímetros, transportador y
+calculadora. \textbf{Mide en milímetros} y escribe la medida antes de dividir; da cada
+razón con dos decimales. Es normal que tu resultado difiera del de un compañero en la
+segunda cifra decimal: se acepta una diferencia de hasta $\num{0,03}$. Puedes consultar
+la \refguia{tema:razones}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+\pregunta[2] Los tres triángulos siguientes son rectángulos y tienen el mismo ángulo
+agudo $\theta$ señalado. Mide con la regla los tres lados de cada uno y completa la tabla.
+
+\begin{center}
+\begin{tikzpicture}[every node/.style={font=\small}]
+  % T1: cateto horizontal 3 cm, theta = 32 grados
+  \begin{scope}[xshift=0cm, yshift=0cm]
+    \draw[thick] (0,0) -- (3,0) -- (3,1.875) -- cycle;
+    \draw (2.8,0) -- (2.8,0.2) -- (3,0.2);
+    \draw (0.55,0) arc (0:32:0.55); \node at (0.86,0.18) {$\theta$};
+    \node[below] at (1.5,0) {$A$};
+  \end{scope}
+  % T2: cateto horizontal 4,5 cm
+  \begin{scope}[xshift=4cm, yshift=0cm]
+    \draw[thick] (0,0) -- (4.5,0) -- (4.5,2.812) -- cycle;
+    \draw (4.3,0) -- (4.3,0.2) -- (4.5,0.2);
+    \draw (0.55,0) arc (0:32:0.55); \node at (0.86,0.18) {$\theta$};
+    \node[below] at (2.25,0) {$B$};
+  \end{scope}
+  % T3: cateto horizontal 6 cm
+  \begin{scope}[xshift=0cm, yshift=-5cm]
+    \draw[thick] (0,0) -- (6,0) -- (6,3.749) -- cycle;
+    \draw (5.8,0) -- (5.8,0.2) -- (6,0.2);
+    \draw (0.55,0) arc (0:32:0.55); \node at (0.86,0.18) {$\theta$};
+    \node[below] at (3,0) {$C$};
+  \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.6}
+\begin{tabular}{@{}l c c c c c@{}}
+  \toprule
+  & \textbf{cateto opuesto} & \textbf{cateto adyacente} & \textbf{hipotenusa}
+  & $\dfrac{\text{opuesto}}{\text{adyacente}}$ & $\dfrac{\text{opuesto}}{\text{hipotenusa}}$\\
+  \midrule
+  $A$ & \hspace{2.2cm} & \hspace{2.2cm} & \hspace{2.2cm} & \hspace{2cm} & \hspace{2cm}\\
+  $B$ & & & & & \\
+  $C$ & & & & & \\
+  \bottomrule
+\end{tabular}}
+\end{center}
+
+\begin{solucion}[0.5cm]
+Medidas teóricas, en milímetros ($\theta = 32^\circ$):
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}l c c c c c@{}}
+  \toprule
+  & opuesto & adyacente & hipotenusa & op/ady & op/hip\\
+  \midrule
+  $A$ & $\num{18,7}$ & $30$ & $\num{35,4}$ & $\num{0,62}$ & $\num{0,53}$\\
+  $B$ & $\num{28,1}$ & $45$ & $\num{53,1}$ & $\num{0,62}$ & $\num{0,53}$\\
+  $C$ & $\num{37,5}$ & $60$ & $\num{70,8}$ & $\num{0,62}$ & $\num{0,53}$\\
+  \bottomrule
+\end{tabular}}
+\end{center}
+
+Se acepta cualquier medida a $\pm 1$ mm y cualquier razón a $\pm \num{0,03}$. Un punto por
+las medidas completas y coherentes, un punto por las seis razones.
+\end{solucion}
+
+\pregunta[1] Mira la tabla que acabas de llenar. ¿Qué cambia de un triángulo a otro y qué
+se mantiene igual? Explica \emph{por qué} ocurre eso, usando la semejanza (no basta con
+decir «porque me dio lo mismo»).
+\begin{solucion}[4cm]
+Cambian las longitudes de los lados; se mantienen las razones. Los tres triángulos son
+semejantes, porque cada uno tiene un ángulo recto y el mismo ángulo $\theta$: dos ángulos
+iguales bastan para la semejanza. Si los lados de $B$ son $k$ veces los de $A$, al formar
+la razón se multiplican por $k$ el numerador y el denominador,
+$\dfrac{k\,a}{k\,b} = \dfrac{a}{b}$, y la razón no cambia. Por eso la razón depende solo
+del ángulo, no del tamaño del triángulo.
+\end{solucion}
+
+\pregunta[1] Un cuarto triángulo, $D$, tiene el mismo ángulo $\theta$ y su cateto
+adyacente mide $120$ mm. \textbf{Sin dibujarlo}, predice cuánto mide su cateto opuesto y
+cuánto su hipotenusa. Escribe el cálculo.
+\begin{solucion}[3.5cm]
+Con la razón $\dfrac{\text{opuesto}}{\text{adyacente}} = \num{0,62}$:
+opuesto $= 120 \times \num{0,62} = \num{74,4}$ mm (valor exacto $\num{75,0}$ mm).
+Con $\dfrac{\text{opuesto}}{\text{hipotenusa}} = \num{0,53}$:
+hipotenusa $= \dfrac{\num{74,4}}{\num{0,53}} \approx 140$ mm (valor exacto
+$\num{141,5}$ mm). También vale llegar a la hipotenusa con el teorema de Pitágoras.
+Se acepta cualquier respuesta entre $72$ y $77$ mm y entre $137$ y $145$ mm.
+\end{solucion}
+
+\pregunta[1] El triángulo $E$ es rectángulo, pero su ángulo agudo señalado mide
+$\varphi = 55^\circ$. Mide sus lados y calcula
+$\dfrac{\text{opuesto}}{\text{adyacente}}$. Compárala con la de los triángulos $A$, $B$ y
+$C$: ¿qué concluyes sobre de qué depende la razón?
+
+\begin{center}
+\begin{tikzpicture}[every node/.style={font=\small}]
+  \draw[thick] (0,0) -- (3,0) -- (3,4.285) -- cycle;
+  \draw (2.8,0) -- (2.8,0.2) -- (3,0.2);
+  \draw (0.55,0) arc (0:55:0.55); \node at (0.9,0.28) {$\varphi$};
+  \node[below] at (1.5,0) {$E$};
+\end{tikzpicture}
+\end{center}
+
+\begin{solucion}[3.5cm]
+Opuesto $\approx \num{42,9}$ mm, adyacente $= 30$ mm, hipotenusa $\approx \num{52,3}$ mm;
+$\dfrac{\text{opuesto}}{\text{adyacente}} \approx \num{1,43}$. Es muy distinta de
+$\num{0,62}$. Conclusión: la razón no depende del tamaño del triángulo, pero sí depende
+del ángulo; a cada ángulo agudo le corresponde su propia razón. (Esa correspondencia es
+justamente lo que la calculadora tiene guardado con los nombres seno, coseno y tangente.)
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

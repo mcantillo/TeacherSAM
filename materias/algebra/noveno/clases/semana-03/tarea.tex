@@ -1,0 +1,91 @@
+% =====================================================================
+% Tarea -- Álgebra 9° -- Trimestre I -- Semana 03
+% Se asigna el vie 18 sep. (sesión 006); se revisa el mar 22 sep. (sesión 007)
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Ejercicios: recursos/banco/matematicas/irracionales-8.py (todos verificados)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% ---------------------------------------------------------------------
+% BORRADOR: la fila 006 de programacion.csv está vacía; la marca de tarea viene de la
+% propuesta del plan anual, pendiente de aprobación.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Tarea}
+\asignatura{Álgebra}
+\titulo{Tarea: decimales, fracciones e irracionales}
+\grado{9°}
+\periodo{I}
+
+% DBA: PROPUESTO, sin aprobar — matematicas grado 9 · DBA 1 — «Utiliza números reales en
+% sus diferentes representaciones y en diversos contextos.»
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: martes 22 de septiembre. Escribe todos los procedimientos. Usa $\approx$ cuando
+el número sea una aproximación. Consulta la \refguia{tema:numerosreales}.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-001
+\pregunta Escribe $\dfrac{3}{8}$ y $\dfrac{1}{9}$ como decimales y di si cada uno es
+exacto o periódico.
+\begin{solucion}[2.5cm]
+$\dfrac{3}{8} = \num{0,375}$ (exacto: el resto llega a $0$);
+$\dfrac{1}{9} = 0{,}\overline{1}$ (periódico: el resto $1$ se repite siempre).
+\end{solucion}
+
+% Ejercicio: irracionales-8-005
+\pregunta Escribe como fracción irreducible:
+\begin{opciones*}(3)
+  \item $0{,}\overline{6}$
+  \item $0{,}\overline{27}$
+  \item $1{,}2\overline{3}$
+\end{opciones*}
+\begin{solucion}[3.5cm]
+a) $\dfrac{6}{9} = \dfrac{2}{3}$. \quad b) $\dfrac{27}{99} = \dfrac{3}{11}$. \quad
+c) $100x - 10x = 123{,}\overline{3} - 12{,}\overline{3} = 111$, luego
+$x = \dfrac{111}{90} = \dfrac{37}{30}$.
+\end{solucion}
+
+% Ejercicio: irracionales-8-011
+\pregunta En la espiral de Teodoro, cada triángulo rectángulo tiene un cateto de $1$ y el
+otro igual a la hipotenusa del triángulo anterior; el primero tiene catetos $1$ y $1$.
+Calcula la hipotenusa de los cinco primeros triángulos y di cuáles son números
+racionales.
+\begin{solucion}[3.5cm]
+$\sqrt{2}$, $\sqrt{3}$, $\sqrt{4} = 2$, $\sqrt{5}$ y $\sqrt{6} \approx \num{2,45}$: cada
+una es $\sqrt{n + 1}$ si el cateto anterior es $\sqrt{n}$. Solo $\sqrt{4} = 2$ es
+racional; las demás son raíces no exactas, irracionales.
+\end{solucion}
+
+% Ejercicio: irracionales-8-021
+\pregunta Camila dice: «$\sqrt{18} + \sqrt{2} = \sqrt{20}$, porque sumé lo de adentro de
+la raíz». ¿Estás de acuerdo? Simplifica cada radical por separado y muestra el
+procedimiento correcto.
+\begin{solucion}[3cm]
+No: la raíz no se reparte en la suma.
+$\sqrt{18} + \sqrt{2} = 3\sqrt{2} + \sqrt{2} = 4\sqrt{2} \approx \num{5,66}$, mientras que
+$\sqrt{20} = 2\sqrt{5} \approx \num{4,47}$.
+\end{solucion}
+
+% Ejercicio: irracionales-8-017
+\pregunta Una rueda de bicicleta mide $66$ cm de diámetro. ¿Cuánto avanza en una vuelta y
+cuántas vueltas da en $1$ km? Si el cuentakilómetros usara $\dfrac{22}{7}$ en vez de
+$\pi$, ¿cuántos metros de más contaría en $1$ km?
+\begin{solucion}[4cm]
+Una vuelta: $66\pi \approx \num{207,3}$ cm. En $1$ km $= \num{100000}$ cm:
+$\num{100000} \div 66\pi \approx \num{482,3}$ vueltas. Con $\dfrac{22}{7}$ cada vuelta
+mediría $\num{207,43}$ cm, y en esas $\num{482,3}$ vueltas contaría unos $\num{0,4}$ m de
+más (un error del $\num{0,04}\,\%$).
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

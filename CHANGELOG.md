@@ -4,6 +4,23 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-15
 
+- **Paquetes de la semana 03** (clases del 15 al 18 de septiembre): Trigonometría 10°
+  (clase de 4 sesiones, taller de medición y tarea con ejercicios del banco), Geometría 7°
+  (clase) y Álgebra 9° (clase de 2 sesiones, taller y tarea). Los de Geometría 7° y
+  Álgebra 9° van marcados **BORRADOR**: sus filas de `programacion.csv` siguen vacías y su
+  plan del trimestre I espera aprobación; no se escribió nada en el CSV.
+- **Revisión del estado tras el corte por límite de uso.** Quedó en `main` más de lo que
+  parecía: las **16** guías del trimestre I (no 13), los paquetes de las semanas 03 y 04 de
+  Física 11°, y los archivos del banco `coordenadas-11.py`, `lugares-geometricos-11.py`,
+  `hiperbola-11.py`, `medicion-indirecta-9.py` y `navegacion-11.py`. Los 9 ejercicios que
+  cita la guía de Geometría 10° **sí existen**; lo que falta es verificarlos (no están en
+  `verificados.json`).
+- **Guías de Geometría 9° y 11°:** el CI las compiló y falló, así que borró sus PDF y dejó
+  su `.aux` a medias (commit `ca898e5`). Los `.tex` están completos; falta encontrar y
+  corregir el error de compilación.
+
+## 2026-09-15 — antes del corte por límite de uso
+
 - **Regla del banco:** los documentos usan solo ejercicios del banco; por defecto no se crean
   ejercicios nuevos (skills `verificar-ejercicios` y `crear-guia`). Si falta uno, se anota como
   pendiente.

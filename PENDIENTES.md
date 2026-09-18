@@ -4,7 +4,27 @@ Lista de lo que falta, agrupada por quién lo desbloquea. Se actualiza cada vez 
 cierra un pendiente (ver `CLAUDE.md`); lo ya hecho pasa a `CHANGELOG.md`. Los pendientes del
 banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 
-Última actualización: 2026-09-14.
+Última actualización: 2026-09-15.
+
+## 0. Urgente — desbloquea clases de esta semana
+
+- [ ] **Aprobar el trimestre I de Geometría 7° y Álgebra 9°** (o corregir la propuesta de
+      su `plan-anual.md`). Sus filas de `programacion.csv` están vacías desde la semana 03.
+      Los paquetes del 15 al 18 de septiembre ya están escritos, pero marcados
+      **BORRADOR**; en cuanto se apruebe se llenan las filas y se les quita la marca.
+- [ ] **Geometría 7° no tiene ejercicios verificados** para el trimestre I: el banco solo
+      trae `angulos-7-003`, que ya usa la guía. Por eso la sesión 003 va sin tarea aunque
+      la propuesta la marque. Hay que escribir y verificar ejercicios de giros,
+      traslaciones, rotaciones, reflexiones y vistas para 7°.
+- [ ] **Irracionales en 8° y en 9°:** el trimestre I de los dos cursos trabaja los mismos
+      temas y los mismos ejercicios (`irracionales-8`). Decidir el reparto antes de la
+      semana 04, o el trimestre se repite entero.
+- [ ] **Guías de Geometría 9° y 11°:** el CI no las compila (borró sus PDF en `ca898e5`).
+      Falta reproducir el error y corregirlo; hasta entonces no hay PDF que imprimir.
+- [ ] **Los 9 ejercicios de la guía de Geometría 10°** (`coordenadas-11-001…005` y
+      `lugares-geometricos-11-001, -003, -004, -005`) existen en el banco pero **no están
+      verificados** (`verificados.json` no los tiene). Hay que correr
+      `python3 tools/ejercicios.py verificar` con SymPy antes de dar la guía por buena.
 
 ## 1. Decisiones de la docente — generales
 
@@ -103,8 +123,12 @@ Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la 
       semanas 01–02.
 - [ ] **Cursos con propuesta:** llenar las filas del trimestre I en `programacion.csv` y escribir
       la guía (tres etapas) de cada curso, a medida que se aprueben.
-- [ ] **Paquetes semanales** de Álgebra 8° y Geometría 5° desde la semana 04; de Geometría 8° y
-      Física 11°, desde la semana 03 (cuando su guía esté aprobada).
+- [ ] **Paquetes semanales** de Álgebra 8° y Geometría 5° desde la semana 05; de Geometría 8°
+      desde la semana 05 y de Física 11° desde la semana 05 (las semanas 03 y 04 ya están).
+- [ ] **Semanas 03 y 04 que faltan:** Geometría 3°, 4°, 6°, 9° y 10°, Física 9° y 10°, y la
+      semana 04 de Geometría 7°, Álgebra 9° y Trigonometría 10°. Las de Geometría 10° y
+      Trigonometría 10° no necesitan aprobación (su `programacion.csv` ya está lleno); las
+      demás sí.
 - [ ] **Verificar antes de escribir cada guía** los datos históricos marcados como no
       verificados en los planes (p. ej. Eratóstenes, Hiparco, Escher en la Alhambra, el balón
       Telstar, alcances de LORAN, Plutarco *Moralia* 147A, la base de la pirámide).

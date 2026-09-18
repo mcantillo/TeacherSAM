@@ -40,6 +40,10 @@ dice cuáles leer y qué cambia en tu entorno.
 - **Tus comandos corren en un entorno aislado, no en el Mac de la docente.** Usa rutas
   relativas a la raíz de esta carpeta; nunca rutas como `/Users/...` (aparecen en algunos
   ejemplos de los archivos de reglas: tradúcelas a rutas relativas).
+- **Los PDF los compila GitHub, no tú.** Decisión de la docente (2026-09-15): en Cowork no
+  se intenta compilar LaTeX en el entorno; se escriben los `.tex`, se hace *push* a `main` y
+  el flujo `.github/workflows` («Compilar PDF») genera los PDF y los confirma. Revisa después
+  que el commit del CI no haya borrado un PDF: si lo borró, ese `.tex` no compila.
 - **Antes de compilar, comprueba las herramientas:**
   `command -v python3 latexmk pdflatex pdfinfo pdftoppm pdftotext`.
 - **Si no hay LaTeX:** puedes intentar instalarlo solo si el entorno lo permite y es rápido (se

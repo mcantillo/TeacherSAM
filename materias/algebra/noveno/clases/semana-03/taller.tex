@@ -1,0 +1,90 @@
+% =====================================================================
+% Taller -- Álgebra 9° -- Trimestre I -- Semana 03
+% Se hace en clase el vie 18 sep. (sesión 006), unos 18 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Ejercicios: recursos/banco/matematicas/irracionales-8.py (todos verificados)
+%   No repite los que usa el Tema 1 de la guía (irracionales-8-013, numeros-reales-8-013,
+%   radicacion-8-014/031/036, numeros-reales-8-031/033, medidas-con-radicales-8-002).
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% ---------------------------------------------------------------------
+% BORRADOR: la fila 006 de programacion.csv está vacía; la marca de taller viene de la
+% propuesta del plan anual, pendiente de aprobación.
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Taller}
+\asignatura{Álgebra}
+\titulo{Taller: cuánto nos equivocamos al aproximar}
+\grado{9°}
+\periodo{I}
+
+% DBA: PROPUESTO, sin aprobar — matematicas grado 9 · DBA 1 — «Utiliza números reales en
+% sus diferentes representaciones y en diversos contextos.» Las preguntas 1 y 2 comparan
+% representaciones decimales y fraccionarias de un mismo irracional; la 3 examina el
+% comportamiento de las operaciones; la 4 lo lleva a un contexto real.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase, con calculadora. Escribe siempre el procedimiento, no solo
+el resultado, y usa $\approx$ cuando el número sea una aproximación: escribir $=$ donde
+va $\approx$ resta puntos. Puedes consultar la \refguia{tema:numerosreales}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: irracionales-8-014
+\pregunta[1.5] Tres aproximaciones históricas de $\pi$ son $\dfrac{256}{81}$ (papiro
+Rhind, Egipto), $\dfrac{22}{7}$ (Arquímedes) y $\dfrac{355}{113}$ (Zu Chongzhi, China).
+Escribe cada una como decimal con siete cifras y di cuántas cifras decimales coinciden
+con $\pi = \num{3,1415926}\ldots$
+\begin{solucion}[4cm]
+$\dfrac{256}{81} \approx \num{3,1604938}$: $1$ cifra decimal ($\num{3,1}$).
+$\dfrac{22}{7} \approx \num{3,1428571}$: $2$ cifras ($\num{3,14}$).
+$\dfrac{355}{113} \approx \num{3,1415929}$: $6$ cifras ($\num{3,141592}$).
+\end{solucion}
+
+% Ejercicio: irracionales-8-022
+\pregunta[1.5] Para encerrar a $\pi$, Arquímedes usó que
+$\dfrac{265}{153} < \sqrt{3} < \dfrac{1351}{780}$. Compruébalo \textbf{sin calculadora}
+elevando al cuadrado (compara $265^2$ con $3 \cdot 153^2$, y $1351^2$ con
+$3 \cdot 780^2$). Luego, con la calculadora, di cuántas cifras decimales de
+$\sqrt{3} = \num{1,7320508}\ldots$ acierta cada fracción.
+\begin{solucion}[4.5cm]
+$265^2 = \num{70225} < 3 \cdot 153^2 = \num{70227}$ y
+$1351^2 = \num{1825201} > 3 \cdot 780^2 = \num{1825200}$, así que la desigualdad es
+cierta. $\dfrac{265}{153} \approx \num{1,7320261}$ acierta $4$ cifras ($\num{1,7320}$);
+$\dfrac{1351}{780} \approx \num{1,7320513}$ acierta $5$ ($\num{1,73205}$).
+\end{solucion}
+
+% Ejercicio: irracionales-8-016
+\pregunta[1] ¿Es siempre irracional el resultado de sumar dos números irracionales?
+Calcula $\sqrt{2} + \sqrt{2}$ y $\sqrt{2} + \left(3 - \sqrt{2}\right)$ y explica qué
+observas.
+\begin{solucion}[3cm]
+No siempre. $\sqrt{2} + \sqrt{2} = 2\sqrt{2}$ es irracional, pero
+$\sqrt{2} + \left(3 - \sqrt{2}\right) = 3$ es racional, aunque $3 - \sqrt{2}$ sea
+irracional.
+\end{solucion}
+
+% Ejercicio: irracionales-8-012
+\pregunta[1] Una hoja A4 mide $210 \times 297$ mm y una hoja carta, $216 \times 279$ mm.
+Calcula la razón largo/ancho de cada una y compárala con $\sqrt{2}$. Luego dobla cada hoja
+por la mitad del largo y calcula de nuevo la razón. ¿Cuál conserva su forma?
+\begin{solucion}[3.5cm]
+A4: $297/210 \approx \num{1,414}$, casi $\sqrt{2} \approx \num{1,414}$; doblada
+($210 \times \num{148,5}$), $210/\num{148,5} \approx \num{1,414}$: conserva la forma.
+Carta: $279/216 \approx \num{1,292}$; doblada ($216 \times \num{139,5}$),
+$216/\num{139,5} \approx \num{1,548}$: cambia de forma. Por eso la norma ISO 216 eligió
+la razón $\sqrt{2}$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

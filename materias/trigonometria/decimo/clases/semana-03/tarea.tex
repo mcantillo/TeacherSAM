@@ -1,0 +1,100 @@
+% =====================================================================
+% Tarea -- Trigonometría 10° -- Trimestre I -- Semana 03
+% Se asigna el vie 18 sep. (sesión 012); se revisa el mar 22 sep. (sesión 013)
+% Hilo conductor del trimestre I: «Medir lo inalcanzable»
+% Ejercicios: recursos/banco/matematicas/razones-trigonometricas-10.py
+%   (no repite los que ya usa el Tema 1 de la guía: 001, 003, 005, 007, 009, 013, 014, 015)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-medir-lo-inalcanzable}
+
+\tipodocumento{Tarea}
+\asignatura{Trigonometría}
+\titulo{Tarea: seno, coseno y tangente con la calculadora}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 4 — Comprende y utiliza funciones para modelar
+% fenómenos periódicos y justifica las soluciones. Evidencia 1: «Reconoce el significado
+% de las razones trigonométricas en un triángulo rectángulo para ángulos agudos, en
+% particular, seno, coseno y tangente.»
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Entrega: martes 22 de septiembre. Trabaja con la calculadora \textbf{en modo grados
+(DEG)}; si un resultado te sorprende, revisa primero el modo. Escribe siempre la razón
+que usaste antes de reemplazar los números. Consulta la \refguia{tema:razones}.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: razones-trigonometricas-10-002, razones-trigonometricas-10-004, razones-trigonometricas-10-006
+\pregunta Evalúa con la calculadora, con cuatro decimales:
+\begin{opciones*}(3)
+  \item $\sen \num{89,3}^\circ$
+  \item $\tg \num{72,3}^\circ$
+  \item $\cos \num{38,7}^\circ$
+\end{opciones*}
+\begin{solucion}[2cm]
+a) $\sen \num{89,3}^\circ \approx \num{0,9999}$. \quad
+b) $\tg \num{72,3}^\circ \approx \num{3,1334}$. \quad
+c) $\cos \num{38,7}^\circ \approx \num{0,7804}$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-008, razones-trigonometricas-10-010, razones-trigonometricas-10-012
+\pregunta Encuentra el ángulo agudo $\theta$ (en grados, a la décima) en cada caso:
+\begin{opciones*}(3)
+  \item $\cos\theta = \num{0,9354}$
+  \item $\cos\theta = \num{0,3535}$
+  \item $\sen\theta = \num{0,7302}$
+\end{opciones*}
+\begin{solucion}[2cm]
+a) $\theta \approx \num{20,7}^\circ$. \quad b) $\theta \approx \num{69,3}^\circ$. \quad
+c) $\theta \approx \num{46,9}^\circ$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-016
+\pregunta En un triángulo rectángulo, el cateto adyacente a un ángulo de $40^\circ$ mide
+$24$. Halla la longitud $x$ de la hipotenusa. Dibuja el triángulo y marca sus partes antes
+de calcular.
+\begin{solucion}[3cm]
+El dato y la incógnita son el cateto adyacente y la hipotenusa: la razón que los contiene
+es el coseno. $\cos 40^\circ = \dfrac{24}{x}$, así que
+$x = \dfrac{24}{\cos 40^\circ} \approx \num{31,3}$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-034
+\pregunta Una escalera de $20$ pies de longitud se apoya en una pared y forma un ángulo de
+$76^\circ$ con el suelo. ¿A qué altura de la pared llega el extremo superior de la
+escalera?
+\begin{solucion}[3cm]
+La escalera es la hipotenusa y la altura es el cateto opuesto al ángulo de $76^\circ$:
+$h = 20\sen 76^\circ \approx \num{19,4}$ pies.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-036
+\pregunta Un alambre tensor atado a un poste forma un ángulo de $69^\circ$ con el suelo y
+está fijado al suelo a $14$ pies del poste. ¿A qué altura del poste está atado el alambre?
+\begin{solucion}[3cm]
+La distancia al poste es el cateto adyacente y la altura el opuesto: la tangente.
+$h = 14\tg 69^\circ \approx \num{36,5}$ pies.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-033
+\pregunta Una trayectoria recta que sube una colina se eleva $26$ pies por cada $100$ pies
+horizontales. ¿Qué ángulo forma con la horizontal?
+\begin{solucion}[3cm]
+Se conocen el cateto opuesto y el adyacente, así que se usa la tangente y se va de la
+razón al ángulo: $\tg\theta = \dfrac{26}{100} = \num{0,26}$, luego
+$\theta = \arctg \num{0,26} \approx \num{14,6}^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
