@@ -1,8 +1,9 @@
 # Plan anual 2026–2027 — Geometría 4°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este plan está
-escrito en `programacion.csv` salvo las dos clases ya dictadas (001–002), registradas según la
-bitácora de la docente.
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «*La vuelta al mundo en 80 días* (Julio Verne), contada con nuestras palabras»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA de la asignatura
 

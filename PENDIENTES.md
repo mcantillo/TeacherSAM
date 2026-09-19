@@ -87,32 +87,31 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 - [ ] Confirmar la semana 12 (evaluación sin sesión de repaso).
 - [ ] Aprobar las 17 abiertas de `angulos-8`.
 
-### Cursos con propuesta de plan anual y trimestre I (pendientes de aprobación)
-Para cada uno: aprobar el reparto por trimestres, el ritmo de evaluación y un hilo del
-trimestre I (el plan propone 2–3), y responder sus preguntas (listadas en su `plan-anual.md`).
+### Cursos aprobados el 2026-09-18 — preguntas abiertas
+Los 11 planes que estaban como propuesta quedaron **aprobados** (reparto por trimestre, ritmo de
+evaluación e hilo del trimestre I, en todos la opción recomendada). Con eso, **los 16 cursos
+tienen plan anual aprobado**. Lo que sigue pendiente es solo responder estas preguntas; la
+docente las contesta una por una y aquí se van tachando.
 
-**Desde el 2026-09-17 su `programacion.csv` ya tiene lleno el trimestre I** (tema, subtema, DBA
-y las marcas de quiz, taller y tarea), por instrucción de la docente de no esperar la
-aprobación. Son filas **provisionales**: aprobarlas o corregirlas sigue siendo la decisión
-pendiente. Lo que queda por hacer en cada curso es la guía y los paquetes semanales.
-
-- [ ] **Álgebra 9°** — hilo sugerido: Al-Juarismi y el nacimiento del álgebra.
-- [ ] **Física 9°** — hilo sugerido: De Aristóteles a Galileo. ¿Quién hizo el proyecto de la
-      semana 01 (primera ley / presión atmosférica)? ¿Cuántas sesiones de exposiciones? Examen
-      del trimestre III (no hay sesión en su semana de evaluación).
-- [ ] **Física 10°** — hilo sugerido: De la inercia a los *Principia*. ¿Vieron cinemática en 9°?
-- [ ] **Trigonometría 10°** — hilo sugerido: Medir lo inalcanzable. ¿Leyes del seno y del coseno
-      en el trimestre II? ¿Unidades inglesas a métricas?
-- [ ] **Geometría 3°** — hilo sugerido: *El renacuajo paseador*. ¿Hubo prueba diagnóstica?
-- [ ] **Geometría 4°** — hilo sugerido: *La vuelta al mundo en 80 días*. ¿Hasta dónde llegó la
+- [x] **Álgebra 9°** — hilo A: Al-Juarismi y el nacimiento del álgebra. Sin preguntas abiertas.
+- [x] **Geometría 6°** — hilo 1: La geometría del fútbol. Sin preguntas abiertas.
+- [x] **Geometría 7°** — hilo 1: Escher, el arte de mover figuras. Sin preguntas abiertas.
+- [x] **Geometría 9°** — hilo A: Eratóstenes mide la Tierra con una sombra. Sin preguntas abiertas.
+- [ ] **Física 9°** — hilo A: De Aristóteles a Galileo. Falta: ¿quién hizo el proyecto de la
+      semana 01 (primera ley / presión atmosférica)? ¿Cuántas sesiones de exposiciones?
+- [ ] **Física 10°** — hilo A: De la inercia a los *Principia*. Falta: ¿vieron cinemática en 9°?
+      De la respuesta depende si el repaso son 2 sesiones o 4.
+- [ ] **Trigonometría 10°** — hilo A: Medir lo inalcanzable. Falta: ¿leyes del seno y del coseno
+      en el trimestre II? ¿Conversión de unidades inglesas a métricas?
+- [ ] **Geometría 3°** — hilo A: *El renacuajo paseador*. Falta: ¿hubo prueba diagnóstica?
+- [ ] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. Falta: ¿hasta dónde llegó la
       sesión 002?
-- [ ] **Geometría 6°** — hilo sugerido: La geometría del fútbol. Reparto con 7°.
-- [ ] **Geometría 7°** — hilo sugerido: Escher y las transformaciones.
-- [ ] **Geometría 9°** — hilo sugerido: Eratóstenes midiendo la Tierra.
-- [ ] **Geometría 10°** — hilo sugerido: Ubicarse en la Tierra. Examen del trimestre III (no hay
-      sesión en su semana de evaluación).
-- [ ] **Geometría 11°** — hilo sugerido: LORAN, ubicar un barco con dos hipérbolas. ¿Usar las
+- [ ] **Geometría 10°** — hilo A: Ubicarse en la Tierra. Falta: dónde va el examen del
+      trimestre III (no hay sesión en su semana de evaluación).
+- [ ] **Geometría 11°** — hilo A: LORAN, ubicar un barco con dos hipérbolas. Falta: ¿uso las
       preguntas ICFES 15, 37 y 41?
+- [ ] **Física 9°, trimestre III:** tampoco hay sesión en su semana de evaluación (semanas
+      36–37, lunes festivos). Decidir dónde va ese examen.
 
 ### Lo que se dictó y aún no está registrado
 Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la bitácora):

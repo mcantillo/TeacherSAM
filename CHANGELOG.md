@@ -2,6 +2,18 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-18 (tarde)
+
+- **Los 11 planes anuales que faltaban quedaron aprobados por la docente**, todos con el hilo
+  recomendado: Álgebra 9° (Al-Juarismi), Física 9° (De Aristóteles a Galileo), Física 10° (De la
+  inercia a los *Principia*), Trigonometría 10° (Medir lo inalcanzable), Geometría 3° (*El
+  renacuajo paseador*), 4° (*La vuelta al mundo en 80 días*), 6° (La geometría del fútbol),
+  7° (Escher), 9° (Eratóstenes), 10° (Ubicarse en la Tierra) y 11° (LORAN). **Los 16 cursos
+  tienen ya plan anual aprobado y trimestre I programado.**
+- Las preguntas abiertas de cada plan **no** se aprobaron: la docente las responde una por una y
+  quedan listadas en `PENDIENTES.md`. Cuatro cursos no tenían ninguna (Álgebra 9°, Geometría 6°,
+  7° y 9°), así que están listos para escribir su guía con el proceso de tres etapas.
+
 ## 2026-09-18
 
 - **Recompilación completa del repositorio** (Actions → «Compilar PDF» → «Run workflow» →

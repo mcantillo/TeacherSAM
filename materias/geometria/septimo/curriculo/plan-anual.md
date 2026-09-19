@@ -1,7 +1,9 @@
 # Plan anual 2026–2027 — Geometría 7°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este plan está
-escrito todavía en `programacion.csv`, salvo las sesiones 001–002, que ya se dictaron (ver abajo).
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **1**, «Escher: el arte de mover figuras»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA de la asignatura
 
@@ -75,7 +77,7 @@ real con biografía citable y conecta con el arte, que 7° no ha usado. Si 6° e
 
 | Trimestre | Hilo | Estado |
 |---|---|---|
-| I | por elegir (propuesta: Escher) | propuesta |
+| I | Escher: el arte de mover figuras | aprobado |
 | II | por definir (idea: planos y mapas de Cali, el colegio a escala) | — |
 | III | por definir | — |
 

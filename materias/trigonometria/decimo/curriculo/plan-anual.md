@@ -1,8 +1,9 @@
 # Plan anual 2026–2027 — Trigonometría 10°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este archivo, ni la
-tabla sesión por sesión del final, se ha escrito todavía en `programacion.csv`: solo se
-registraron las sesiones 001–008, ya dictadas (ver «Semanas 01–02»).
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «Medir lo inalcanzable»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA de la asignatura
 

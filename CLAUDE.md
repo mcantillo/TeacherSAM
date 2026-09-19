@@ -58,10 +58,11 @@ Before generating or filing any material you must know **asignatura**, **grado**
 
 Only step 1 covers the whole year; steps 2–5 go **period by period**. **Don't skip ahead:** if asked for a later step whose prerequisite is missing (a quiz for a week that isn't planned, a `clase.tex` whose trimester has no guía, a guía without an approved plan), say what's missing and offer to do it first; if the teacher still wants to go ahead, do it and note what's pending.
 
-**Current status (2026-09-17):** every course now has its trimestre I planned in
-`programacion.csv`; for the 11 courses whose plan is still a proposal those rows are provisional
-(filled on the teacher's instruction not to wait for approval). The rest of this paragraph is
-from 2026-09-14:
+**Current status (2026-09-18):** all 16 courses have an **approved** plan anual and a planned
+trimestre I in `programacion.csv` (the last 11 plans were approved on 2026-09-18, each with its
+recommended hilo). Step 3 (guía, three etapas) is what's next; four of those courses have no open
+questions left (Álgebra 9°, Geometría 6°, 7°, 9°) and the rest wait on one answer each, listed in
+`PENDIENTES.md`. The rest of this paragraph is from 2026-09-14:
 
 **Status (2026-09-14):** step 1 is done for all 16 courses. The **pilot** is `calculo/undecimo` (steps 2–5 done for trimestre I up to week 02; weeks 03–04 wait for a teacher decision). Step 2 is approved for Álgebra 8°, Geometría 5°, Geometría 8° and Física 11°, and *proposed* for the other 11 courses. Step 3 (guía): Álgebra 8° has gone through all three etapas and awaits Revisiones 2–3; Física 11°, Geometría 5° and Geometría 8° have their etapa A plan, awaiting Revisión 1. Step 4: `semana-03` packs for Álgebra 8° and Geometría 5°. **What's pending is in `PENDIENTES.md`; what's been done, in `CHANGELOG.md`.** Keep both current: when you open or close a pending item, edit `PENDIENTES.md`; when work lands, add a dated line to `CHANGELOG.md`; and rewrite this short paragraph only when a course moves to another step.
 

@@ -1,8 +1,9 @@
 # Plan anual 2026–2027 — Álgebra 9°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de lo que sigue está
-escrito en `programacion.csv` salvo las sesiones 001–004, que ya se dictaron (ver abajo). El
-detalle por sesión de cada trimestre se pasa al CSV solo cuando la docente lo apruebe.
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «Al-Juarismi y el nacimiento del álgebra»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 Sesiones 001–004 (semanas 01–02) registradas el 2026-09-14 con lo que se dictó según la
 bitácora de la docente (`bitacora-2026-2027.md`): semana 01, actividades de inicio, dinámicas
@@ -111,7 +112,7 @@ verifican contra fuente al escribir la guía, como pide `crear-guia`.
 
 | Trimestre | Hilo | Estado |
 |---|---|---|
-| I | por elegir entre A, B y C (se recomienda A) | propuesto |
+| I | Al-Juarismi y el nacimiento del álgebra | aprobado |
 | II | por definir | — |
 | III | por definir | — |
 

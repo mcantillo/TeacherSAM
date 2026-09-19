@@ -1,9 +1,9 @@
 # Plan anual 2026–2027 — Geometría 10°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de esto está
-aprobado: el reparto, el ritmo de evaluación, el hilo y la tabla del trimestre I son una
-propuesta. Solo se escribió en `programacion.csv` la sesión 001 (ya dictada, según la
-bitácora); las demás filas siguen vacías hasta que la docente apruebe.
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «Ubicarse en la Tierra: de las coordenadas geográficas al plano cartesiano»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## Datos del curso
 
@@ -120,7 +120,7 @@ Datos para verificar antes de usarlos en una guía (no verificados aquí):
 
 | Trimestre | Hilo | Estado |
 |---|---|---|
-| I | A, B o C (se recomienda A) | por decidir |
+| I | Ubicarse en la Tierra: de las coordenadas geográficas al plano cartesiano | aprobado |
 | II | por definir | — |
 | III | por definir | — |
 

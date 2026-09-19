@@ -1,7 +1,9 @@
 # Plan anual 2026–2027 — Física 9°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este plan se ha
-escrito todavía en `programacion.csv`, salvo la clase 001, que ya se dictó (ver «Estado»).
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «De Aristóteles a Galileo: aprender a describir el movimiento»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA y estándares de la asignatura
 

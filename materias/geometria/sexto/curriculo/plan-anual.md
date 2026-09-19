@@ -1,7 +1,9 @@
 # Plan anual 2026–2027 — Geometría 6°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este plan está
-escrito todavía en `programacion.csv`, salvo la sesión 001, que ya se dictó (ver abajo).
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **1**, «La geometría del fútbol»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA de la asignatura
 
@@ -85,7 +87,7 @@ recomendada), para no repetir historia.
 
 | Trimestre | Hilo | Estado |
 |---|---|---|
-| I | por elegir (propuesta: la geometría del fútbol) | propuesta |
+| I | La geometría del fútbol | aprobado |
 | II | por definir | — |
 | III | por definir | — |
 

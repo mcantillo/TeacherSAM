@@ -1,8 +1,9 @@
 # Plan anual 2026–2027 — Geometría 9°
 
-**Propuesta — pendiente de aprobación de la docente** (2026-09-14). Nada de este plan se ha
-escrito en `programacion.csv` salvo la sesión 001 ya dictada (ver abajo). El detalle por sesión se
-pasa al CSV solo cuando la docente lo apruebe.
+Aprobado por la docente el 2026-09-18: el reparto por trimestre, el ritmo de evaluación
+y el hilo del trimestre I (opción **A**, «Eratóstenes mide la Tierra con una sombra»). El trimestre I ya está escrito
+sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
+preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
 ## DBA de la asignatura
 
