@@ -5,6 +5,10 @@ y el hilo del trimestre I (opción **A**, «LORAN: encontrar un barco con dos hi
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** **sí se usan las preguntas ICFES 15, 37 y 41** del cuadernillo
+liberado (`recursos/matematicas/icfes/`, banco `icfes-cuadernillo-2026`) dentro de la guía del
+trimestre I, con su formato original de Saber 11 y citando la fuente.
+
 ## DBA de la asignatura
 
 Fuente: `dba/matematicas/grados/grado11.tex`. Según el reparto aprobado en Cálculo 11°

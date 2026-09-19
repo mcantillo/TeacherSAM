@@ -116,8 +116,9 @@ docente las contesta una por una y aquí se van tachando.
       no cambia. Sin preguntas abiertas.
 - [ ] **Geometría 10°** — hilo A: Ubicarse en la Tierra. Falta: dónde va el examen del
       trimestre III (no hay sesión en su semana de evaluación).
-- [ ] **Geometría 11°** — hilo A: LORAN, ubicar un barco con dos hipérbolas. Falta: ¿uso las
-      preguntas ICFES 15, 37 y 41?
+- [x] **Geometría 11°** — hilo A: LORAN, ubicar un barco con dos hipérbolas. **Resuelto
+      (2026-09-19):** sí, las preguntas ICFES 15, 37 y 41 van en la guía, con su formato
+      original y citando la fuente. Sin preguntas abiertas.
 - [ ] **Física 9°, trimestre III:** tampoco hay sesión en su semana de evaluación (semanas
       36–37, lunes festivos). Decidir dónde va ese examen.
 
