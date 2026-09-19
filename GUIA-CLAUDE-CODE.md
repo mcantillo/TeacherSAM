@@ -100,7 +100,62 @@ Si Claude encuentra un error en un recurso, te lo avisará: aprobado no signific
 | `plantillas/` | Los formatos de quiz, taller, guía, etc. (no hace falta tocarlos) |
 | `CLAUDE.md` y `.claude/` | Las instrucciones de Claude (si cambias una regla, pídele que las actualice) |
 
-## 8. Pendientes
+## 8. Qué pedirle ahora (cola de trabajo del 2026-09-19)
+
+Esta lista se armó en Cowork, que no tiene LaTeX ni SymPy y por eso no puede compilar ni
+verificar ejercicios. **Lo de abajo se pide en Claude Code, en tu computador**, donde sí compila
+los PDF, los revisa y hace el commit y el push. Pide **una cosa por conversación**.
+
+### 8.1 Urgente: los paquetes de la semana 04 (clases del 21 al 25 de septiembre)
+
+Faltan 11. Van en orden de fecha; el día es cuando se dicta.
+
+| Día | Qué pedir | Ojo |
+|---|---|---|
+| lun 21 | «Haz el paquete de la semana 04 de Física 9°» | Sesión 003: es el **segundo día de exposiciones** (3 y cierre). El `clase.tex` es el guion del día, sin taller |
+| lun 21 | «Haz el paquete de la semana 04 de Geometría 10°» | Sesión 003, con tarea |
+| lun 21 | «Haz el paquete de la semana 04 de Geometría 6°» | Sesión 003, con taller. Banco: 27 ejercicios |
+| mar 22 | «Haz el paquete de la semana 04 de Álgebra 9°» | Sesiones 007 y 008 (mar y vie); taller y tarea el viernes |
+| mar 22 | «Haz el paquete de la semana 04 de Geometría 7°» | Sesión 004, con taller. **El banco casi no tiene traslaciones: primero el 8.2** |
+| mar 22 | «Haz el paquete de la semana 04 de Trigonometría 10°» | Sesiones 013–016: **cuatro sesiones**, el paquete más grande |
+| mié 23 | «Haz el paquete de la semana 04 de Geometría 4°» | Sesión 004, con taller. **Banco casi vacío: primero el 8.2** |
+| jue 24 | «Haz el paquete de la semana 04 de Física 10°» | Sesiones 007 y 008; taller el jueves y tarea el viernes |
+| jue 24 | «Haz el paquete de la semana 04 de Geometría 9°» | Sesión 004, con tarea. Banco: 25 ejercicios |
+| vie 25 | «Haz el paquete de la semana 04 de Geometría 3°» | Sesión 004, con taller. **Banco casi vacío: primero el 8.2** |
+| vie 25 | «Haz el paquete de la semana 04 de Geometría 11°» | Sesión 004, con tarea. **El banco no tiene nada de coordenadas para 11°: primero el 8.2** |
+
+### 8.2 Llenar el banco donde está vacío
+
+Cinco cursos no tienen con qué armar un taller. Antes de su paquete, pide:
+
+> «Escribe y verifica ejercicios de <tema> para <curso>, y agrégalos al banco.»
+
+| Curso | Verificados hoy | Qué falta |
+|---|---|---|
+| Geometría 11° | **0** | coordenadas, distancia, punto medio, lugares geométricos |
+| Geometría 3° | 4 | líneas rectas y curvas, abiertas y cerradas, figuras planas |
+| Geometría 4° | 6 | paralelas y perpendiculares, polígonos, cuadriláteros |
+| Geometría 7° | 7 | traslaciones, rotaciones, reflexiones, vistas |
+| Geometría 10° y Trigonometría 10° | 12 | y los 9 de la guía de 10° **existen pero no están verificados** |
+
+### 8.3 Después: rehacer las 11 guías con el proceso de tres etapas
+
+Las que hay son el borrador de la generación rápida del 2026-09-14. Ahora que los planes están
+aprobados, se rehacen con `crear-guia`. Orden sugerido, por lo que ya tiene banco:
+
+1. Álgebra 9° (127 ejercicios) · 2. Física 10° y 9° (79) · 3. Geometría 6° (27) ·
+4. Geometría 9° (25) · 5. Trigonometría 10° y Geometría 10° (12, y hay 9 por verificar) ·
+6. Geometría 7°, 4°, 3° y 11°, después del 8.2
+
+> «Rehaz la guía del trimestre I de <curso> con el proceso de tres etapas.»
+
+### 8.4 La decisión que más aprieta
+
+**El reparto de los irracionales entre Álgebra 8° y Álgebra 9°:** hoy los dos cursos trabajan el
+mismo tema con los mismos ejercicios del banco (`irracionales-8`). Si no se decide, el trimestre
+se repite entero. Las demás están en `PENDIENTES.md`.
+
+## 9. Pendientes
 
 Todo lo que falta está en **`PENDIENTES.md`**, en la raíz: primero tus decisiones (generales y
 por curso), después el trabajo de Claude que espera por ellas. Márcalas ahí o díselas a Claude
@@ -110,7 +165,7 @@ se hizo queda en `CHANGELOG.md`.
 Si el colegio cambia el calendario, pásale las fechas nuevas a Claude («actualiza el calendario
 con estas fechas»); recalculará todas las fechas sin perder lo planeado.
 
-## 9. Consejos
+## 10. Consejos
 
 - Revisa por tandas (por ejemplo, dos semanas de clases a la vez) antes de pedir más.
 - Si una regla nueva debe valer siempre («a partir de ahora, los quices de 20 minutos»), dilo
