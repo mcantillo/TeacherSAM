@@ -5,6 +5,12 @@ y el hilo del trimestre I (opción **A**, «Ubicarse en la Tierra: de las coorde
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19 (calendario del trimestre III):** las semanas 36 y 37 caen en
+festivo y ese curso no tiene sesión en su semana de evaluación. El **examen del periodo III se
+adelanta a la sesión 029** (lunes 2027-05-24, semana 35), la última con clase, y el **repaso va
+en la 028** (semana 34). El trimestre III queda con una sesión menos de contenido; se tendrá en
+cuenta al planearlo.
+
 ## Datos del curso
 
 - Una sesión semanal: **lunes, hora 7 (13:00), 40 minutos** (de `programacion.csv`).

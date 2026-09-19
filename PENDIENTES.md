@@ -114,13 +114,14 @@ docente las contesta una por una y aquí se van tachando.
 - [x] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. **Resuelto (2026-09-19):** la
       sesión 002 fue solo la introducción; la 003 retoma el tema desde el principio y el reparto
       no cambia. Sin preguntas abiertas.
-- [ ] **Geometría 10°** — hilo A: Ubicarse en la Tierra. Falta: dónde va el examen del
-      trimestre III (no hay sesión en su semana de evaluación).
+- [x] **Geometría 10°** — hilo A: Ubicarse en la Tierra. **Resuelto (2026-09-19):** el examen
+      del trimestre III se adelanta a la sesión 029 (semana 35) y el repaso va en la 028. Sin
+      preguntas abiertas.
 - [x] **Geometría 11°** — hilo A: LORAN, ubicar un barco con dos hipérbolas. **Resuelto
       (2026-09-19):** sí, las preguntas ICFES 15, 37 y 41 van en la guía, con su formato
       original y citando la fuente. Sin preguntas abiertas.
-- [ ] **Física 9°, trimestre III:** tampoco hay sesión en su semana de evaluación (semanas
-      36–37, lunes festivos). Decidir dónde va ese examen.
+- [x] **Física 9°, trimestre III: resuelto (2026-09-19)** — mismo arreglo que Geometría 10°:
+      examen en la sesión 029 (semana 35), repaso en la 028.
 
 ### Lo que se dictó y aún no está registrado
 Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la bitácora):

@@ -5,6 +5,12 @@ y el hilo del trimestre I (opción **A**, «De Aristóteles a Galileo: aprender 
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19 (calendario del trimestre III):** las semanas 36 y 37 caen en
+festivo y ese curso no tiene sesión en su semana de evaluación. El **examen del periodo III se
+adelanta a la sesión 029** (lunes 2027-05-24, semana 35), la última con clase, y el **repaso va
+en la 028** (semana 34). El trimestre III queda con una sesión menos de contenido; se tendrá en
+cuenta al planearlo.
+
 **Decisión del 2026-09-19:** quedan **7 exposiciones** por presentar y ocupan **dos sesiones
 completas**, la 002 (4 exposiciones) y la 003 (3 y cierre), a unos 12 minutos cada una. Por eso
 esas dos sesiones no llevan taller; los dos talleres del trimestre pasan a las sesiones 005 y
