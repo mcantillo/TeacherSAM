@@ -108,7 +108,9 @@ docente las contesta una por una y aquí se van tachando.
       coseno se quedan en el trimestre II (el trimestre I no cambia) y **todo el material va en
       métricas** — los pies y millas de las fuentes se convierten antes de llegar al estudiante.
       Sin preguntas abiertas.
-- [ ] **Geometría 3°** — hilo A: *El renacuajo paseador*. Falta: ¿hubo prueba diagnóstica?
+- [x] **Geometría 3°** — hilo A: *El renacuajo paseador*. **Resuelto (2026-09-19):** no hubo
+      diagnóstico; el tema 1 arranca desde cero y la sesión 003 abre con un repaso de punto y
+      línea. Sin preguntas abiertas.
 - [ ] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. Falta: ¿hasta dónde llegó la
       sesión 002?
 - [ ] **Geometría 10°** — hilo A: Ubicarse en la Tierra. Falta: dónde va el examen del

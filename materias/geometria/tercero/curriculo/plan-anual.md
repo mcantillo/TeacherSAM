@@ -5,6 +5,10 @@ y el hilo del trimestre I (opción **A**, «*El renacuajo paseador* (Rafael Pomb
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** **no hubo prueba diagnóstica**. El tema 1 (líneas) arranca sin
+suponer nada de 2°: la sesión 003 abre con un repaso corto de punto y línea antes de entrar a
+rectas y curvas. No cambia el reparto de sesiones.
+
 ## DBA de la asignatura
 
 Fuente: `dba/matematicas/grados/grado03.tex`. Geometría 3° cubre el componente

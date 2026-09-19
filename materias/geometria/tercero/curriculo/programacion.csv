@@ -1,7 +1,7 @@
 clase,fecha,dia,inicio,minutos,periodo,semana,tema,subtema,dba,quiz,taller,tarea,carpeta
 001,2026-09-04,viernes,11:00,50,I,01,Inicio de año,"Actividades de inicio, rompehielos y dinámicas de grupo (dictada)",,,,,clases/semana-01
 002,2026-09-11,viernes,11:00,50,I,02,"Punto, línea y plano","Punto, línea, recta y plano; práctica con luz láser en las paredes: punto en el espacio y proyección de un plano (dictada)",,,,,clases/semana-02
-003,2026-09-18,viernes,11:00,50,I,03,Líneas,"Líneas rectas y curvas; horizontal, vertical e inclinada",6,,,x,clases/semana-03
+003,2026-09-18,viernes,11:00,50,I,03,Líneas,"Repaso de punto y línea; líneas rectas y curvas; horizontal, vertical e inclinada",6,,,x,clases/semana-03
 004,2026-09-25,viernes,11:00,50,I,04,Líneas,"Líneas abiertas y cerradas; dentro, fuera y borde",6,,x,,clases/semana-04
 005,2026-10-02,viernes,11:00,50,I,05,Figuras planas,Lados y vértices de una figura,6,,,x,clases/semana-05
 006,2026-10-09,viernes,11:00,50,I,06,Figuras planas,Clasificar figuras por el número de lados,6,,x,,clases/semana-06
