@@ -2,6 +2,20 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-18
+
+- **Recompilación completa del repositorio** (Actions → «Compilar PDF» → «Run workflow» →
+  *Recompilar todos*): **los 56 `.tex` de `materias/` tienen su PDF**. Se cerró lo último que
+  quedaba del lío de los PDF:
+  - Las **guías de Geometría 9° y 11°** volvieron a compilar; sus PDF se regeneraron. La causa
+    era `txfonts`, igual que los `clase.tex` de la semana 03 — no un error dentro de los `.tex`.
+  - Salieron los `clase.pdf` de **Geometría 7° y Trigonometría 10°** (semana 03), que el push
+    anterior no había tocado porque el CI solo compila los `.tex` que cambian.
+- **Lección, anotada porque costó tres vueltas:** cuando una compilación falla, el `.aux` marca
+  hasta dónde alcanzó a llegar, **no dónde está el error**. Deducir el problema leyendo los
+  `.tex` mandó a buscar en el sitio equivocado; el mensaje del registro del CI lo resolvió en un
+  minuto. Primero el registro, después las hipótesis.
+
 ## 2026-09-17 (tarde)
 
 - **Los 4 archivos que fallaban en el CI, diagnosticados** (registro de Actions de la corrida

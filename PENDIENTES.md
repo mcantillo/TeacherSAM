@@ -20,14 +20,9 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 - [ ] **Irracionales en 8° y en 9°:** el trimestre I de los dos cursos trabaja los mismos
       temas y los mismos ejercicios (`irracionales-8`). Decidir el reparto antes de la
       semana 04, o el trimestre se repite entero.
-- [ ] **Recompilar todo con `--todos` después de arreglar la fuente:** en Actions → «Compilar
-      PDF» → «Run workflow» → marcar *Recompilar todos los .tex de materias/*. Es lo único
-      que vuelve a compilar las guías de 9° y 11° (el CI solo toca los `.tex` que cambian) y
-      la única forma de ver su error de verdad. Ojo: la guía de Geometría 11° usa `\texttt`,
-      así que puede que también fuera la fuente y ya quede arreglada.
-- [ ] **Guías de Geometría 9° y 11°:** el CI no las compila. Sus PDF (borrados en `ca898e5`)
-      ya se recuperaron el 2026-09-17 y el CI ya no puede volver a borrarlos, así que sí hay
-      PDF que imprimir; falta reproducir el error de compilación y corregirlo (sección 5).
+- [x] **Recompilación completa hecha** (2026-09-18, `--todos` desde Actions): **los 56 `.tex`
+      de `materias/` tienen su PDF**, incluidas las guías de Geometría 9° y 11°. Era la fuente
+      que faltaba (`txfonts`), no un error de los `.tex`.
 - [ ] **Los 9 ejercicios de la guía de Geometría 10°** (`coordenadas-11-001…005` y
       `lugares-geometricos-11-001, -003, -004, -005`) existen en el banco pero **no están
       verificados** (`verificados.json` no los tiene). Hay que correr
@@ -158,15 +153,13 @@ Contárselo a Claude para registrarlo en `programacion.csv` (o escribirlo en la 
 
 ## 5. Repositorio
 
-- [ ] **Las guías del trimestre I de Geometría 9° y 11° no compilan en el CI.** Sus PDF y `.aux`
-      ya se recuperaron (2026-09-17) y el CI ya no los puede borrar, pero el error sigue ahí:
-      `guia-periodo-I-semejanza-medicion.tex` muere entre el tema «Congruencia» y el tema
-      «Teorema de Thales», y `guia-periodo-I-hiperbola-navegacion.tex`, después del tema «La
-      hipérbola» (según hasta dónde alcanzó a escribirse el `.aux`). No es un entorno ni un
-      paquete que falten: los dos usan solo `mmcantillo` y los mismos entornos que las guías que
-      sí compilan. **Hay que compilarlas en el Mac con Claude Code** («compila las guías del
-      trimestre I de Geometría 9° y 11° y arregla lo que salga»), porque el sandbox de Cowork no
-      tiene el TeX Live completo ni salida a internet para instalarlo.
+- [x] **Las guías del trimestre I de Geometría 9° y 11° ya compilan** (2026-09-18). Era el
+      paquete `txfonts`, que faltaba en la lista de `tlmgr install` del workflow — la misma
+      causa que los `clase.tex` de la semana 03. Quedó dicho aquí que «no es un paquete que
+      falte»: **era exactamente eso**, y el diagnóstico por el `.aux` (que la compilación moría
+      en tal tema) apuntaba al sitio equivocado, porque el `.aux` se queda donde iba, no donde
+      está el error. Para la próxima: el mensaje del CI manda sobre cualquier deducción hecha
+      desde los archivos.
 - [x] Una compilación fallida ya no borra el PDF ni el `.aux` que estaban bien
       (`tools/compilar-pdfs.sh` los recupera; el workflow usa `git add --ignore-removal`)
       (2026-09-17).
