@@ -4,6 +4,16 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-19 (tarde)
 
+- **Paquete de la semana 04 de Física 9°** (sesión 003, lunes 21): `clase.tex` del segundo y
+  último día de exposiciones — las 3 que faltan, la rejilla de 5 puntos para calificarlas y el
+  cierre «describir no es explicar», que abre el tema siguiente. Sin taller ni tarea, como
+  quedó el plan. **Escrito en Cowork: falta compilarlo y revisarlo** (lo hace `pdfs.yml` al
+  subirlo).
+- **Límite encontrado:** sin SymPy, `tools/ejercicios.py listar` ni siquiera puede importar los
+  archivos del banco, así que **desde Cowork no se pueden escoger ejercicios**. Los paquetes con
+  taller, quiz o tarea tienen que hacerse en Claude Code. Física 9° salió porque su sesión no
+  lleva ninguno.
+
 - **Estado real de las guías, medido** (antes se venía describiendo de oído): las 16 existen,
   compilan y tienen PDF. Cinco pasaron por el proceso de tres etapas (Álgebra 8°, Cálculo 11°,
   Física 11°, Geometría 5° y 8°); las otras once salieron de la generación rápida del 2026-09-14,
