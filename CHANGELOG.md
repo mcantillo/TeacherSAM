@@ -2,6 +2,23 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-19 (tarde)
+
+- **Estado real de las guías, medido** (antes se venía describiendo de oído): las 16 existen,
+  compilan y tienen PDF. Cinco pasaron por el proceso de tres etapas (Álgebra 8°, Cálculo 11°,
+  Física 11°, Geometría 5° y 8°); las otras once salieron de la generación rápida del 2026-09-14,
+  pero **no son bosquejos**: tienen de 4 a 8 temas y entre 22 y 45 KB, con hilo, marco teórico y
+  ejercicios del banco. De todos los ejercicios que citan las 16 guías, **solo 17 no están
+  verificados**, repartidos en tres cursos: Geometría 10° (9), Geometría 11° (6) y 9° (2).
+- **`ejercicios.yml`: SymPy ahora corre en el repositorio.** Un workflow nuevo verifica el banco
+  cuando cambia un `.py` de `recursos/banco/` y escribe `verificados.json`; también se lanza a
+  mano con «Run workflow» y la casilla *Verificar todo el banco*. Así el material escrito en
+  Cowork —que no tiene SymPy ni internet para instalarlo— se comprueba al subirlo, igual que los
+  PDF con `pdfs.yml`.
+- Corrección: el 2026-09-19 en la mañana se anotó que a Geometría 3°, 4° y 7° «el banco casi no
+  les alcanza». Ese conteo se hizo por prefijos de nombre y estaba mal; sus guías citan 8/8, 8/8
+  y 9/9 ejercicios verificados. Lo que sí falta es margen para talleres y tareas nuevos.
+
 ## 2026-09-19
 
 - **Las siete preguntas abiertas de los planes quedaron resueltas** por la docente, una por una.

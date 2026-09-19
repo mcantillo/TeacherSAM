@@ -1,0 +1,73 @@
+name: Verificar ejercicios
+
+# Corre SymPy sobre el banco y registra en verificados.json lo que pase.
+# Existe para que la verificación se pueda hacer «en el repositorio»: Cowork no tiene SymPy
+# instalado ni salida a internet para instalarlo, así que los ejercicios nuevos que se
+# escriban allá se verifican aquí.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'recursos/banco/**.py'
+      - 'tools/ejercicios.py'
+  workflow_dispatch:
+    inputs:
+      todos:
+        description: 'Verificar todo el banco, no solo lo que cambió'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ejercicios-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: python3 -m pip install --quiet -r tools/requirements.txt
+
+      - name: Verificar
+        env:
+          ANTES: ${{ github.event.before }}
+          TODOS: ${{ inputs.todos }}
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          if [ "$TODOS" = "true" ] || [ -z "$ANTES" ] || [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then
+            python3 tools/ejercicios.py verificar --todos
+          else
+            mapfile -t cambiados < <(git diff --name-only --diff-filter=AMR "$ANTES" "$GITHUB_SHA" -- 'recursos/banco/*.py')
+            if [ ${#cambiados[@]} -eq 0 ]; then
+              echo "No hay archivos del banco nuevos o modificados."
+            else
+              printf 'Se verificarán %s archivo(s):\n' "${#cambiados[@]}"
+              printf '  %s\n' "${cambiados[@]}"
+              python3 tools/ejercicios.py verificar "${cambiados[@]}"
+            fi
+          fi
+
+      - name: Guardar el registro de verificados
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -- recursos/banco/verificados.json
+          if git diff --cached --quiet; then
+            echo "El registro no cambió."
+          else
+            git commit -m "Verificar ejercicios [skip ci]"
+            git push
+          fi
