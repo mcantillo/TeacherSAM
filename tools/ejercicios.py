@@ -9,6 +9,7 @@ instala las dependencias con: python3 -m pip install -r tools/requirements.txt
   python3 tools/ejercicios.py listar [--tema T] [--grado N] [--estado E]
   python3 tools/ejercicios.py mostrar ID [ID ...]                  # enunciado y respuesta en LaTeX
   python3 tools/ejercicios.py aprobar ID [ID ...]                  # la docente aprobó una respuesta manual
+  python3 tools/ejercicios.py catalogo                             # vuelca el banco a recursos/banco/catalogo.jsonl
 
 Cada archivo recursos/banco/<area>/<tema>.py registra ejercicios con @ejercicio(...) (comprobación con
 código) o ejercicio_manual(...) (respuesta modelo que aprueba la docente). El formato está en
@@ -314,6 +315,36 @@ def cmd_mostrar(args):
     return 1 if errores else 0
 
 
+def cmd_catalogo(args):
+    """Vuelca todo el banco a un archivo de texto, para poder consultarlo sin SymPy.
+
+    Existe porque cargar el banco importa los .py, y esos importan SymPy: en un entorno sin
+    SymPy (Cowork) ni «listar» ni «mostrar» funcionan. El catálogo se regenera en GitHub
+    Actions (.github/workflows/ejercicios.yml) y se guarda en el repositorio, así que desde
+    cualquier parte se puede leer con json y escoger ejercicios.
+    """
+    ejercicios, errores = cargar_todos()
+    registro = leer_registro()
+    salida = Path(args.salida) if args.salida else BANCO / "catalogo.jsonl"
+    with open(salida, "w", encoding="utf-8") as fh:
+        for e in sorted(ejercicios, key=lambda x: x["id"]):
+            estado = registro.get(e["id"], {}).get("estado", "sin verificar")
+            if registro.get(e["id"], {}).get("huella") not in (None, huella(e)):
+                estado = "cambió: re-verificar"
+            fila = {"id": e["id"], "estado": estado, "usable": estado in USABLES,
+                    "tema": e.get("tema"), "grados": e.get("grados", []),
+                    "dba": e.get("dba"), "tipo": e.get("tipo"),
+                    "dificultad": e.get("dificultad"), "manual": e["comprobar"] is None,
+                    "archivo": str(e["archivo"]), "fuente": e.get("fuente"),
+                    "notas": e.get("notas"),
+                    "enunciado": e["enunciado"], "respuesta": e["respuesta"]}
+            fh.write(json.dumps(fila, ensure_ascii=False) + "\n")
+    print(f"{len(ejercicios)} ejercicios en {os.path.relpath(salida, RAIZ)}")
+    for err in errores:
+        print(f"ERROR: {err}")
+    return 1 if errores else 0
+
+
 def cmd_aprobar(args):
     ejercicios, errores = cargar_todos()
     registro = leer_registro()
@@ -341,9 +372,10 @@ def main():
                     help="solo los que tienen notas (correcciones al recurso) y mostrarlas")
     m = sub.add_parser("mostrar"); m.add_argument("ids", nargs="+")
     a = sub.add_parser("aprobar"); a.add_argument("ids", nargs="+")
+    sub.add_parser("catalogo").add_argument("--salida")
     args = p.parse_args()
-    return {"verificar": cmd_verificar, "listar": cmd_listar,
-            "mostrar": cmd_mostrar, "aprobar": cmd_aprobar}[args.cmd](args)
+    return {"verificar": cmd_verificar, "listar": cmd_listar, "mostrar": cmd_mostrar,
+            "aprobar": cmd_aprobar, "catalogo": cmd_catalogo}[args.cmd](args)
 
 
 if __name__ == "__main__":

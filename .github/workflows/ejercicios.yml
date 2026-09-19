@@ -59,15 +59,21 @@ jobs:
             fi
           fi
 
-      - name: Guardar el registro de verificados
+      - name: Regenerar el catálogo del banco
+        if: always()
+        # El catálogo deja el banco en un .jsonl legible sin SymPy, para poder escoger
+        # ejercicios desde Cowork (allá ni «listar» ni «mostrar» pueden importar el banco).
+        run: python3 tools/ejercicios.py catalogo
+
+      - name: Guardar el registro y el catálogo
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add -- recursos/banco/verificados.json
+          git add -- recursos/banco/verificados.json recursos/banco/catalogo.jsonl
           if git diff --cached --quiet; then
-            echo "El registro no cambió."
+            echo "Ni el registro ni el catálogo cambiaron."
           else
-            git commit -m "Verificar ejercicios [skip ci]"
+            git commit -m "Verificar ejercicios y regenerar el catálogo [skip ci]"
             git push
           fi
