@@ -90,17 +90,18 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 ### Cursos aprobados el 2026-09-18 — preguntas abiertas
 Los 11 planes que estaban como propuesta quedaron **aprobados** (reparto por trimestre, ritmo de
 evaluación e hilo del trimestre I, en todos la opción recomendada). Con eso, **los 16 cursos
-tienen plan anual aprobado**. Lo que sigue pendiente es solo responder estas preguntas; la
-docente las contesta una por una y aquí se van tachando.
+tienen plan anual aprobado**. **El 2026-09-19 la docente respondió las siete preguntas abiertas:
+esta sección ya no bloquea nada.** Los 11 cursos están listos para el paso 3 (la guía).
 
 - [x] **Álgebra 9°** — hilo A: Al-Juarismi y el nacimiento del álgebra. Sin preguntas abiertas.
 - [x] **Geometría 6°** — hilo 1: La geometría del fútbol. Sin preguntas abiertas.
 - [x] **Geometría 7°** — hilo 1: Escher, el arte de mover figuras. Sin preguntas abiertas.
 - [x] **Geometría 9°** — hilo A: Eratóstenes mide la Tierra con una sombra. Sin preguntas abiertas.
-- [ ] **Física 9°** — hilo A: De Aristóteles a Galileo. Exposiciones **resuelto** (2026-09-19):
-      quedan 7 y ocupan las sesiones 002 y 003 completas, 4 y 3; esas dos sesiones van sin taller
-      y los talleres del trimestre pasan a la 005 y la 007. Falta: ¿quién hizo el proyecto de la
-      semana 01 (primera ley / presión atmosférica)?
+- [x] **Física 9°** — hilo A: De Aristóteles a Galileo. **Resuelto (2026-09-19):** quedan 7
+      exposiciones y ocupan las sesiones 002 y 003 completas (esas dos sin taller; los talleres
+      pasan a la 005 y la 007); y los experimentos de la semana 01 fueron **demostraciones de la
+      docente**, no un proyecto de estudiantes — no hay nada que evaluar y la guía los retoma
+      como enganche del hilo. Sin preguntas abiertas.
 - [x] **Física 10°** — hilo A: De la inercia a los *Principia*. **Resuelto (2026-09-19):** la
       vieron a medias (MRU sí, MUA y caída libre no) → el repaso pasa a 3 sesiones (009–011),
       «Tercera ley» baja a 1 (020) y «Las tres leyes» se queda con 2. Sin preguntas abiertas.

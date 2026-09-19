@@ -14,7 +14,14 @@ cuenta al planearlo.
 **Decisión del 2026-09-19:** quedan **7 exposiciones** por presentar y ocupan **dos sesiones
 completas**, la 002 (4 exposiciones) y la 003 (3 y cierre), a unos 12 minutos cada una. Por eso
 esas dos sesiones no llevan taller; los dos talleres del trimestre pasan a las sesiones 005 y
-007. Sigue pendiente quién hizo el proyecto de la semana 01 (primera ley / presión atmosférica).
+007.
+
+**Decisión del 2026-09-19 (semana 01):** los experimentos de inicio (primera ley y presión
+atmosférica) **los hizo la docente como demostración**, para despertar curiosidad por la
+ciencia; **no fueron un proyecto de los estudiantes**. Por eso no hay trabajo de estudiantes
+que evaluar de esa semana, y Física 9° sigue sin sesión propia en la semana 01. La guía del
+trimestre I **sí retoma esas demostraciones** como enganche del hilo «De Aristóteles a
+Galileo»: lo que vieron en vivo es justamente lo que Galileo defendía frente a Aristóteles.
 
 ## DBA y estándares de la asignatura
 
@@ -168,11 +175,11 @@ tiene taller ni quiz.
 
 - Registrada en `programacion.csv` solo la clase 001 (7 sept.), con lo que dice la bitácora,
   sin DBA ni marcas.
-- **Semana 01:** la bitácora dice que 9° hizo un proyecto de inicio (primera ley de Newton o
-  presión atmosférica), pero Física 9° no tiene sesión en la semana 01 (su única hora es el
-  lunes y las clases empezaron el martes 1). ¿En qué hora se hizo, y cuál de los dos proyectos
-  fue el de 9°?
-- ¿Cuántos grupos exponen y en cuántas sesiones? (La propuesta supone dos: 002 y 003.)
+- ~~**Semana 01:** ¿quién hizo el proyecto de inicio?~~ **Resuelto el 2026-09-19:** no fue un
+  proyecto de los estudiantes, sino **demostraciones de la docente** (primera ley y presión
+  atmosférica) para despertar curiosidad. Nada que evaluar; la guía las retoma como enganche.
+- ~~¿Cuántos grupos exponen y en cuántas sesiones?~~ **Resuelto el 2026-09-19:** quedan 7
+  exposiciones y ocupan las sesiones 002 y 003 completas (4 y 3).
 - Trimestre III: ¿opción A (ondas y sonido, sin DBA) u opción B (solo DBA 1)? ¿Luz o calor en
   algún momento?
 - ¿Dónde va la evaluación del periodo III, sin sesión en la semana de evaluación?

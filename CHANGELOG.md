@@ -2,6 +2,29 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-19
+
+- **Las siete preguntas abiertas de los planes quedaron resueltas** por la docente, una por una.
+  Con eso **ningún curso espera ya una decisión suya para pasar al paso 3 (la guía)**:
+  - **Física 9°:** quedan 7 exposiciones y ocupan las sesiones 002 y 003 completas (4 y 3); esas
+    dos van sin taller y los dos talleres del trimestre pasan a la 005 y la 007. Los experimentos
+    de la semana 01 fueron **demostraciones de la docente**, no un proyecto de estudiantes: no
+    hay nada que evaluar y la guía los retoma como enganche del hilo.
+  - **Física 10°:** el grupo vio cinemática **a medias** en 9° (MRU sí; MUA y caída libre no), así
+    que el bloque pasa de 2 a 3 sesiones (009–011) y en parte deja de ser repaso. «Tercera ley»
+    baja a 1 sesión (020) y «Las tres leyes» conserva 2.
+  - **Trigonometría 10°:** seno y coseno se quedan en el trimestre II (el I no cambia) y **todo el
+    material va en métricas** — los pies y millas se convierten antes de llegar al estudiante.
+  - **Geometría 3°:** no hubo prueba diagnóstica; la sesión 003 abre con un repaso de punto y línea.
+  - **Geometría 4°:** la sesión 002 fue solo la introducción (la bitácora decía más); la 003
+    retoma el tema desde el principio.
+  - **Geometría 11°:** las preguntas ICFES 15, 37 y 41 entran en la guía, con su formato original.
+  - **Geometría 10° y Física 9°, trimestre III:** las semanas 36–37 son festivas y esos cursos de
+    lunes no tienen sesión en su semana de evaluación; el examen se adelanta a la sesión 029
+    (semana 35) y el repaso va en la 028.
+- Efecto en el calendario: solo Física 9°, Física 10° y el trimestre III de los dos cursos de
+  lunes cambiaron sesiones. Los demás quedaron como estaban.
+
 ## 2026-09-18 (tarde)
 
 - **Los 11 planes anuales que faltaban quedaron aprobados por la docente**, todos con el hilo
