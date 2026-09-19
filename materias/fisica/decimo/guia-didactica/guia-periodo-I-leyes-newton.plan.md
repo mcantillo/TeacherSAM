@@ -83,10 +83,10 @@ apoya en Galileo.
 |---|---|---|
 | `tema:medicion` | Medición (incluye un repaso de la notación científica ya dictada, 003–004) | 005–006 |
 | `tema:vectores` | Vectores | 007–008 |
-| `tema:cinematica` | Repaso de cinemática | 009–010 |
-| `tema:primeraley` | Primera ley de Newton | 011–014 |
-| `tema:segundaley` | Segunda ley de Newton | 015–018 |
-| `tema:terceraley` | Tercera ley de Newton | 019–020 |
+| `tema:cinematica` | Repaso de cinemática (MUA y caída libre son tema nuevo) | 009–011 |
+| `tema:primeraley` | Primera ley de Newton | 012–015 |
+| `tema:segundaley` | Segunda ley de Newton | 016–019 |
+| `tema:terceraley` | Tercera ley de Newton | 020 |
 | `tema:tresleyes` | Las tres leyes | 021–022 |
 
 Omitidos: «Inicio de año» (001–002), «Herramientas de trabajo» (003–004, dictada; se retoma

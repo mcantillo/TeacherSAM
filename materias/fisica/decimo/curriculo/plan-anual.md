@@ -5,6 +5,12 @@ y el hilo del trimestre I (opción **A**, «De la inercia a los *Principia*»). 
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** el grupo vio cinemática **a medias** en 9° (MRU sí; MUA y caída
+libre no), así que no es repaso sino tema nuevo en parte: pasa de 2 a **3 sesiones** (009–011).
+Para no tocar el calendario, «Tercera ley» baja de 2 sesiones a 1 (020) y «Las tres leyes» se
+queda con 2 (021–022). Los quices siguen en las sesiones 010, 014, 018 y 022, y los talleres y
+tareas no se mueven.
+
 ## DBA y estándares de la asignatura
 
 Fuentes: `dba/naturales/grados/grado10.tex` (los dos DBA de física de 10°) y

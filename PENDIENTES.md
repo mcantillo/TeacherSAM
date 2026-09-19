@@ -101,8 +101,9 @@ docente las contesta una por una y aquí se van tachando.
       quedan 7 y ocupan las sesiones 002 y 003 completas, 4 y 3; esas dos sesiones van sin taller
       y los talleres del trimestre pasan a la 005 y la 007. Falta: ¿quién hizo el proyecto de la
       semana 01 (primera ley / presión atmosférica)?
-- [ ] **Física 10°** — hilo A: De la inercia a los *Principia*. Falta: ¿vieron cinemática en 9°?
-      De la respuesta depende si el repaso son 2 sesiones o 4.
+- [x] **Física 10°** — hilo A: De la inercia a los *Principia*. **Resuelto (2026-09-19):** la
+      vieron a medias (MRU sí, MUA y caída libre no) → el repaso pasa a 3 sesiones (009–011),
+      «Tercera ley» baja a 1 (020) y «Las tres leyes» se queda con 2. Sin preguntas abiertas.
 - [ ] **Trigonometría 10°** — hilo A: Medir lo inalcanzable. Falta: ¿leyes del seno y del coseno
       en el trimestre II? ¿Conversión de unidades inglesas a métricas?
 - [ ] **Geometría 3°** — hilo A: *El renacuajo paseador*. Falta: ¿hubo prueba diagnóstica?
