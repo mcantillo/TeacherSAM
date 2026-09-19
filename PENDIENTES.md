@@ -104,8 +104,10 @@ docente las contesta una por una y aquí se van tachando.
 - [x] **Física 10°** — hilo A: De la inercia a los *Principia*. **Resuelto (2026-09-19):** la
       vieron a medias (MRU sí, MUA y caída libre no) → el repaso pasa a 3 sesiones (009–011),
       «Tercera ley» baja a 1 (020) y «Las tres leyes» se queda con 2. Sin preguntas abiertas.
-- [ ] **Trigonometría 10°** — hilo A: Medir lo inalcanzable. Falta: ¿leyes del seno y del coseno
-      en el trimestre II? ¿Conversión de unidades inglesas a métricas?
+- [x] **Trigonometría 10°** — hilo A: Medir lo inalcanzable. **Resuelto (2026-09-19):** seno y
+      coseno se quedan en el trimestre II (el trimestre I no cambia) y **todo el material va en
+      métricas** — los pies y millas de las fuentes se convierten antes de llegar al estudiante.
+      Sin preguntas abiertas.
 - [ ] **Geometría 3°** — hilo A: *El renacuajo paseador*. Falta: ¿hubo prueba diagnóstica?
 - [ ] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. Falta: ¿hasta dónde llegó la
       sesión 002?

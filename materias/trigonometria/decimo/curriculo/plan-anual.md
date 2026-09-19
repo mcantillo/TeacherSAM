@@ -5,6 +5,13 @@ y el hilo del trimestre I (opción **A**, «Medir lo inalcanzable»). El trimest
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** las **leyes del seno y del coseno se quedan en el trimestre II**,
+como proponía el plan. El trimestre I se cierra completo en el triángulo rectángulo (razones,
+ángulos especiales, resolución, elevación y depresión) y no se toca ninguna sesión.
+**Unidades:** todo el material va en el sistema métrico. Si una fuente da pies o millas (alturas
+de edificios, distancias náuticas), el dato se convierte **antes** de llegar al estudiante; la
+conversión de unidades inglesas no es tema de este curso.
+
 ## DBA de la asignatura
 
 Fuente: `dba/matematicas/grados/grado10.tex` (enunciados copiados de ahí). Los DBA son del
