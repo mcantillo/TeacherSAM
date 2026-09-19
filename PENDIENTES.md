@@ -8,11 +8,11 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 
 ## 0. Urgente — desbloquea clases de esta semana
 
-- [ ] **Aprobar el trimestre I de Geometría 7° y Álgebra 9°** (o corregir la propuesta de
-      su `plan-anual.md`). Sus filas de `programacion.csv` **ya se llenaron el 2026-09-17**
-      (por instrucción de la docente de no esperar la aprobación), así que a los paquetes del
-      15 al 18 de septiembre se les puede quitar la marca **BORRADOR** en cuanto la docente
-      confirme el plan; si lo corrige, hay que rehacer las filas y los paquetes.
+- [ ] **Quitar la marca BORRADOR** a los paquetes del 15 al 18 de septiembre de Geometría 7° y
+      Álgebra 9°: sus planes quedaron **aprobados el 2026-09-18** y sus filas de
+      `programacion.csv` están llenas, así que la advertencia que llevan impresa
+      («las filas 005 y 006 están vacías», «la fila 003 está vacía») ya no es cierta. Hay que
+      editar esos `clase.tex` y `tarea.tex` y recompilar.
 - [ ] **Geometría 7° no tiene ejercicios verificados** para el trimestre I: el banco solo
       trae `angulos-7-003`, que ya usa la guía. Por eso la sesión 003 va sin tarea aunque
       la propuesta la marque. Hay que escribir y verificar ejercicios de giros,
