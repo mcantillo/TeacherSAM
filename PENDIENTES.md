@@ -111,8 +111,9 @@ docente las contesta una por una y aquí se van tachando.
 - [x] **Geometría 3°** — hilo A: *El renacuajo paseador*. **Resuelto (2026-09-19):** no hubo
       diagnóstico; el tema 1 arranca desde cero y la sesión 003 abre con un repaso de punto y
       línea. Sin preguntas abiertas.
-- [ ] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. Falta: ¿hasta dónde llegó la
-      sesión 002?
+- [x] **Geometría 4°** — hilo A: *La vuelta al mundo en 80 días*. **Resuelto (2026-09-19):** la
+      sesión 002 fue solo la introducción; la 003 retoma el tema desde el principio y el reparto
+      no cambia. Sin preguntas abiertas.
 - [ ] **Geometría 10°** — hilo A: Ubicarse en la Tierra. Falta: dónde va el examen del
       trimestre III (no hay sesión en su semana de evaluación).
 - [ ] **Geometría 11°** — hilo A: LORAN, ubicar un barco con dos hipérbolas. Falta: ¿uso las

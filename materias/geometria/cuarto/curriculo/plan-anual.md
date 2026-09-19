@@ -5,6 +5,11 @@ y el hilo del trimestre I (opción **A**, «*La vuelta al mundo en 80 días* (Ju
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** la sesión 002 fue **apenas la introducción** del tema, sin
+contenido firme (la bitácora decía «línea recta y rectas paralelas»; la docente precisó que no
+alcanzó a cuajar). La sesión 003 retoma recta, segmento y semirrecta desde el principio, con
+calma. El reparto de sesiones del tema 1 (003–006) no cambia.
+
 ## DBA de la asignatura
 
 Fuente: `dba/matematicas/grados/grado04.tex`. Geometría 4° cubre el componente
