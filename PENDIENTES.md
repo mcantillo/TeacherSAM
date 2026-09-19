@@ -97,8 +97,10 @@ docente las contesta una por una y aquí se van tachando.
 - [x] **Geometría 6°** — hilo 1: La geometría del fútbol. Sin preguntas abiertas.
 - [x] **Geometría 7°** — hilo 1: Escher, el arte de mover figuras. Sin preguntas abiertas.
 - [x] **Geometría 9°** — hilo A: Eratóstenes mide la Tierra con una sombra. Sin preguntas abiertas.
-- [ ] **Física 9°** — hilo A: De Aristóteles a Galileo. Falta: ¿quién hizo el proyecto de la
-      semana 01 (primera ley / presión atmosférica)? ¿Cuántas sesiones de exposiciones?
+- [ ] **Física 9°** — hilo A: De Aristóteles a Galileo. Exposiciones **resuelto** (2026-09-19):
+      quedan 7 y ocupan las sesiones 002 y 003 completas, 4 y 3; esas dos sesiones van sin taller
+      y los talleres del trimestre pasan a la 005 y la 007. Falta: ¿quién hizo el proyecto de la
+      semana 01 (primera ley / presión atmosférica)?
 - [ ] **Física 10°** — hilo A: De la inercia a los *Principia*. Falta: ¿vieron cinemática en 9°?
       De la respuesta depende si el repaso son 2 sesiones o 4.
 - [ ] **Trigonometría 10°** — hilo A: Medir lo inalcanzable. Falta: ¿leyes del seno y del coseno

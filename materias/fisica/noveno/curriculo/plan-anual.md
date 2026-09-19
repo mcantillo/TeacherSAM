@@ -5,6 +5,11 @@ y el hilo del trimestre I (opción **A**, «De Aristóteles a Galileo: aprender 
 sesión a sesión en `programacion.csv` (se llenó el 2026-09-17). Quedan abiertas las
 preguntas de este plan, que la docente responde una por una; ver `PENDIENTES.md`.
 
+**Decisión del 2026-09-19:** quedan **7 exposiciones** por presentar y ocupan **dos sesiones
+completas**, la 002 (4 exposiciones) y la 003 (3 y cierre), a unos 12 minutos cada una. Por eso
+esas dos sesiones no llevan taller; los dos talleres del trimestre pasan a las sesiones 005 y
+007. Sigue pendiente quién hizo el proyecto de la semana 01 (primera ley / presión atmosférica).
+
 ## DBA y estándares de la asignatura
 
 Fuentes: `dba/naturales/grados/grado09.tex` (el único DBA de física de 9°) y
