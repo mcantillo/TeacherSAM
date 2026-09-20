@@ -105,3 +105,57 @@ def _():
            **COMUN)
 def _():
     assert a_distancia("H", 3) == ["D", "G", "K", "L"]
+
+
+# --- Añadidos el 2026-09-20 para la semana 05 (ejes, origen y cuadrantes) -------------
+# El módulo de 5° nombra los ejes y el origen, pero no trabaja los cuatro cuadrantes, que es
+# la mitad del subtema de la sesión 005. Ejercicios propios, mismo tema y DBA del archivo.
+PROPIO = "propio — clase de Geometría 5°, trimestre I, ejes, origen y cuadrantes"
+
+
+def cuadrante(p):
+    """Devuelve el cuadrante (I a IV) de un punto, o 0 si está sobre un eje."""
+    x, y = p.x, p.y
+    if x == 0 or y == 0:
+        return 0
+    return {(True, True): 1, (False, True): 2, (False, False): 3, (True, False): 4}[(x > 0, y > 0)]
+
+
+@ejercicio(id="plano-cartesiano-5-015", tipo="conceptual", dificultad=1, fuente=PROPIO,
+           enunciado=r"Di en qué cuadrante está cada punto: $A(3, 4)$, $B(-2, 5)$, $C(-4, -1)$ "
+                     r"y $D(6, -3)$. Explica en qué te fijaste para decidirlo.",
+           respuesta=r"$A$ en el I, $B$ en el II, $C$ en el III y $D$ en el IV. Basta mirar los "
+                     r"dos signos: $(+,+)$ es el I, $(-,+)$ el II, $(-,-)$ el III y $(+,-)$ el "
+                     r"IV. Los cuadrantes se numeran empezando arriba a la derecha y girando "
+                     r"como las manecillas del reloj al revés.",
+           **COMUN)
+def _():
+    assert [cuadrante(Point(3, 4)), cuadrante(Point(-2, 5)), cuadrante(Point(-4, -1)),
+            cuadrante(Point(6, -3))] == [1, 2, 3, 4]
+
+
+@ejercicio(id="plano-cartesiano-5-016", tipo="conceptual", dificultad=2, fuente=PROPIO,
+           enunciado=r"¿En qué cuadrante están los puntos $E(0, -4)$, $F(-5, 0)$ y el origen? "
+                     r"Si crees que alguno no está en ninguno, di dónde está.",
+           respuesta=r"Ninguno de los tres está en un cuadrante: están \emph{sobre} los ejes. "
+                     r"$E$ está en el eje $y$ (porque su $x$ es 0), $F$ está en el eje $x$ "
+                     r"(porque su $y$ es 0) y el origen $(0,0)$ es el punto donde se cruzan los "
+                     r"dos ejes. Los ejes son la frontera entre cuadrantes y no pertenecen a "
+                     r"ninguno.",
+           **COMUN)
+def _():
+    assert [cuadrante(Point(0, -4)), cuadrante(Point(-5, 0)), cuadrante(Point(0, 0))] == [0, 0, 0]
+
+
+@ejercicio(id="plano-cartesiano-5-017", tipo="encuentra-el-error", dificultad=2, fuente=PROPIO,
+           enunciado=r"Juan dice: «$(-3, 7)$ y $(7, -3)$ son el mismo punto, porque tienen los "
+                     r"mismos números». Ubica los dos en el plano y explica por qué se equivoca.",
+           respuesta=r"No son el mismo punto. En $(-3, 7)$ se camina 3 a la izquierda y 7 hacia "
+                     r"arriba: queda en el cuadrante II. En $(7, -3)$ se camina 7 a la derecha y "
+                     r"3 hacia abajo: queda en el cuadrante IV. En una pareja ordenada importa "
+                     r"el orden: el primer número siempre es el horizontal.",
+           **COMUN)
+def _():
+    p, q = Point(-3, 7), Point(7, -3)
+    assert p != q
+    assert (cuadrante(p), cuadrante(q)) == (2, 4)
