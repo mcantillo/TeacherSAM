@@ -8,7 +8,10 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 
 ## 0. Urgente — desbloquea clases de esta semana
 
-- [ ] **Faltan 8 paquetes de la semana 04** (ya están Física 9°, Geometría 6° y Geometría 10°) (clases del 21 al 25 de septiembre): Física 9° y
+- [ ] **Faltan 6 paquetes de la semana 04**: Trigonometría 10° (martes, 4 sesiones),
+      Geometría 4° (miércoles), Física 10° y Geometría 9° (jueves), Geometría 3° y
+      Geometría 11° (viernes). Ya están Física 9°, Geometría 6°, Geometría 10°,
+      Geometría 7° y Álgebra 9°. (clases del 21 al 25 de septiembre): Física 9° y
       10°, Álgebra 9°, Trigonometría 10° y Geometría 3°, 4°, 6°, 7°, 9°, 10° y 11°. La lista
       con día, sesión y advertencias está en `GUIA-CLAUDE-CODE.md`, sección 8.1. **Se hacen en
       Claude Code**, no en Cowork: allá sí se compilan y se revisan los PDF, y sobre todo allá

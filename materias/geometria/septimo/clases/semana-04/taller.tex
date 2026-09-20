@@ -1,0 +1,82 @@
+% =====================================================================
+% Taller -- Geometría 7° -- Trimestre I -- Semana 04
+% Se hace en clase el mar 22 sep. (sesión 004), unos 17 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Escher: el arte de mover figuras»
+% Ejercicios: recursos/banco/matematicas/transformaciones-7.py (020-023, nuevos)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-transformaciones}
+
+\tipodocumento{Taller}
+\asignatura{Geometría}
+\titulo{Taller: traslaciones}
+\grado{7°}
+\periodo{I}
+
+% DBA: matematicas grado 7 · DBA 5 — Establece y verifica relaciones de congruencia y
+% semejanza entre figuras planas. Evidencias: reconocer que la traslación conserva forma y
+% tamaño (preguntas 1 y 3) y verificar relaciones entre una figura y su imagen (preguntas 2 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase, en papel cuadriculado. Dibuja siempre la figura original y la
+trasladada. Puedes consultar la \refguia{tema:traslaciones}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: transformaciones-7-020
+\pregunta[1.5] Traslada el cuadrilátero de vértices $P(-2, 1)$, $Q(1, 1)$, $R(2, 3)$ y
+$S(-1, 3)$ con el vector $\langle 4, -3 \rangle$. Escribe las coordenadas de $P'$, $Q'$, $R'$
+y $S'$, y dibuja las dos figuras en la cuadrícula.
+\begin{solucion}[5cm]
+$P'(2, -2)$, $Q'(5, -2)$, $R'(6, 0)$, $S'(3, 0)$.
+
+Ojo con el signo: la segunda coordenada del vector es negativa, así que la figura baja.
+\end{solucion}
+
+% Ejercicio: transformaciones-7-021
+\pregunta[1.5] Una baldosa con un vértice en $A(2, 5)$ se deslizó hasta quedar con ese vértice
+en $A'(7, 2)$. ¿Cuál fue el vector de la traslación? Si otro vértice de la baldosa estaba en
+$B(4, 5)$, ¿dónde quedó?
+\begin{solucion}[4cm]
+El vector es $\langle 7 - 2,\; 2 - 5 \rangle = \langle 5, -3 \rangle$. Entonces
+$B'(4 + 5,\; 5 - 3) = B'(9, 2)$.
+
+El vector se halla restando \emph{la original a la imagen}, no al revés.
+\end{solucion}
+
+% Ejercicio: transformaciones-7-022
+\pregunta[1] En un papel de colgadura, una figura se traslada primero con
+$\langle 3, 1 \rangle$ y después el resultado se traslada con $\langle 2, 4 \rangle$. ¿Se puede
+llegar al mismo sitio con una sola traslación? Si se puede, di con qué vector, y comprueba con
+el punto $M(0, 0)$. ¿Cambia algo si se hacen en el otro orden?
+\begin{solucion}[4.5cm]
+Sí: basta la traslación de vector $\langle 3 + 2,\; 1 + 4 \rangle = \langle 5, 5 \rangle$.
+
+Con $M(0,0)$: primero llega a $(3, 1)$ y luego a $(5, 5)$, lo mismo que con el vector único. El
+orden no cambia nada, porque sumar números se puede hacer en cualquier orden. Por eso en los
+teselados de Escher la figura se repite siempre igual, se recorra la fila hacia donde se recorra.
+\end{solucion}
+
+% Ejercicio: transformaciones-7-023
+\pregunta[1] Mateo trasladó el punto $T(-3, 4)$ con el vector $\langle 2, -6 \rangle$ y
+escribió $T'(-5, 10)$. Encuentra el error, corrígelo y explica en una frase cómo se puede
+comprobar el resultado sin volver a hacer la cuenta.
+\begin{solucion}[4cm]
+Mateo restó en vez de sumar. Lo correcto es $T'(-3 + 2,\; 4 - 6) = T'(-1, -2)$.
+
+Para comprobarlo basta dibujar: el punto debe quedar 2 unidades a la derecha y 6 hacia abajo del
+original, y el de Mateo quedó a la izquierda y arriba, justo al contrario.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

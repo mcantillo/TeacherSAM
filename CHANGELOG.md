@@ -2,6 +2,22 @@
 
 Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `PENDIENTES.md`.
 
+## 2026-09-20
+
+- **Paquetes de la semana 04 de Geometría 7° y Álgebra 9°** (los del martes 22):
+  - **Geometría 7°**, sesión 004: `clase.tex` (el vector de traslación, deducirlo restando
+    «imagen menos original», y por qué la figura trasladada es congruente) y `taller.tex` de
+    5 puntos.
+  - **Álgebra 9°**, sesiones 007 y 008: `clase.tex` de las dos (simplificar radicales el martes;
+    el viernes, la trampa de $\sqrt{18}+\sqrt{2}$ y los radicales semejantes), `taller.tex` y
+    `tarea.tex` de 5 puntos cada uno. Los ejercicios salen del banco de 8°, así que el paquete
+    repite el aviso del reparto de irracionales entre 8° y 9°, que sigue sin decidirse.
+- **Cuatro ejercicios nuevos de traslaciones** (`transformaciones-7-020…023`): aplicar el vector
+  con una coordenada negativa, deducir el vector, componer dos traslaciones (y ver que da otra
+  traslación, y que el orden da igual), y el error de restar en vez de sumar. El banco solo tenía
+  uno de traslaciones y ya lo usaba la guía.
+- Escrito en Cowork: los PDF no están compilados ni revisados.
+
 ## 2026-09-19 (tarde)
 
 - **Los dos workflows se pisaban.** Los paquetes de Geometría 6° y 10° **sí compilaron** —los

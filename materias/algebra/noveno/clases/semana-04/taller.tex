@@ -1,0 +1,80 @@
+% =====================================================================
+% Taller -- Álgebra 9° -- Trimestre I -- Semana 04
+% Se hace en clase el vie 25 sep. (sesión 008), unos 16 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Ejercicios: recursos/banco/matematicas/numeros-reales-8.py
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Taller}
+\asignatura{Álgebra}
+\titulo{Taller: sumar y restar radicales}
+\grado{9°}
+\periodo{I}
+
+% DBA: matematicas grado 9 · DBA 1 — Utiliza los números reales (sus operaciones, relaciones
+% y propiedades) para resolver problemas con expresiones polinómicas. Evidencias: «Construye
+% representaciones geométricas y numéricas de los números reales» (preguntas 2, 3 y 4) e
+% «Identifica la diferencia entre exactitud y aproximación» (preguntas 3 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase. Sin calculadora. Deja las respuestas \textbf{exactas}, con el
+radical simplificado. Puedes consultar la \refguia{tema:numerosreales}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: numeros-reales-8-011
+\pregunta[1] Usa las propiedades conmutativa y asociativa de la adición en $\mathbb{R}$ para
+expresar de tres maneras diferentes la suma $\sqrt{2} + \pi + \sqrt{3} + \sqrt{2} + \sqrt{3}$.
+¿Cuál de las tres es la más corta y por qué?
+\begin{solucion}[4cm]
+Por ejemplo: $(\sqrt{2} + \sqrt{2}) + (\sqrt{3} + \sqrt{3}) + \pi = 2\sqrt{2} + 2\sqrt{3} + \pi$;
+\quad $\pi + (\sqrt{2} + \sqrt{3}) + (\sqrt{2} + \sqrt{3})$; \quad
+$(\sqrt{3} + \pi) + (\sqrt{2} + \sqrt{2} + \sqrt{3})$.
+
+La más corta es la primera, porque junta los radicales \emph{semejantes}. A $\pi$ no se le puede
+juntar nada: no hay otro $\pi$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-003
+\pregunta[1] Representa en la recta real el número que resulta de la operación
+$\sqrt{5} + \sqrt{3} + \sqrt{3}$. Di entre qué dos enteros queda.
+\begin{solucion}[3.5cm]
+$\sqrt{5} + 2\sqrt{3} \approx \num{5,70}$: queda entre $5$ y $6$, más cerca de $6$.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-009
+\pregunta[1] Encuentra el perímetro de un triángulo rectángulo isósceles cuyos catetos miden
+$5$ cm. Deja el resultado exacto y, aparte, su aproximación con dos decimales.
+\begin{solucion}[3.5cm]
+La hipotenusa mide $\sqrt{5^2 + 5^2} = \sqrt{50} = 5\sqrt{2}$ cm.
+
+Perímetro exacto: $10 + 5\sqrt{2}$ cm. Aproximado: $\approx \num{17,07}$ cm.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-010
+\pregunta[2] En el triángulo isósceles $ABC$, la base $AB$ mide $10$ cm, $BC = CA$ y la altura
+$CH$ mide $8$ cm ($CH$ es perpendicular a $AB$ y $H$ es el punto medio de $AB$). Encuentra el
+perímetro del triángulo. Haz el dibujo.
+\begin{solucion}[6cm]
+La altura parte la base en dos mitades de $5$ cm. En el triángulo rectángulo $AHC$:
+$CA = \sqrt{5^2 + 8^2} = \sqrt{25 + 64} = \sqrt{89}$ cm.
+
+Como $BC = CA$, el perímetro es $10 + 2\sqrt{89} \approx \num{28,87}$ cm.
+
+$\sqrt{89}$ no se puede simplificar: $89$ es primo.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

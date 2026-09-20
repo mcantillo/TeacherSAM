@@ -1,0 +1,81 @@
+% =====================================================================
+% Tarea -- Álgebra 9° -- Trimestre I -- Semana 04
+% Se deja el vie 25 sep. (sesión 008) y se revisa el martes siguiente. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Ejercicios: numeros-reales-8.py y medidas-con-radicales-8.py
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Tarea}
+\asignatura{Álgebra}
+\titulo{Tarea: radicales en figuras}
+\grado{9°}
+\periodo{I}
+
+% DBA: matematicas grado 9 · DBA 1 — Utiliza los números reales (sus operaciones, relaciones
+% y propiedades) para resolver problemas con expresiones polinómicas. Evidencias: «Construye
+% representaciones geométricas y numéricas de los números reales» (todas) y «Considera el error
+% que genera la aproximación de un número real a partir de números racionales» (pregunta 2).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se revisa el martes. Respuestas \textbf{exactas}, con el radical simplificado;
+la aproximación solo cuando se pida. Las preguntas 3 y 4 son sobre el mismo cubo: conviene
+dibujarlo una vez y trabajar sobre ese dibujo. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: numeros-reales-8-004
+\pregunta[1] Representa en la recta real el número que resulta de la operación
+$\sqrt{5} - \sqrt{3}$. Di entre qué dos enteros queda.
+\begin{solucion}[3cm]
+$\sqrt{5} - \sqrt{3} \approx \num{2,236} - \num{1,732} = \num{0,50}$: queda entre $0$ y $1$,
+casi en la mitad.
+
+Ojo: $\sqrt{5} - \sqrt{3}$ \textbf{no} es $\sqrt{2}$. La raíz tampoco se reparte en la resta.
+\end{solucion}
+
+% Ejercicio: numeros-reales-8-008
+\pregunta[1] Dos de los lados de un cuadrilátero $ABCD$ miden $\sqrt{5}$ cm cada uno y los
+otros dos miden $\sqrt{3}$ cm y $\pi$ cm. Halla la diferencia entre el lado más largo y el más
+corto.
+\begin{solucion}[3.5cm]
+Ordenando: $\sqrt{3} \approx \num{1,73}$, $\sqrt{5} \approx \num{2,24}$ y
+$\pi \approx \num{3,14}$. El más largo mide $\pi$ cm y el más corto $\sqrt{3}$ cm.
+
+Diferencia: $\pi - \sqrt{3} \approx \num{1,41}$ cm. Queda así, exacta: no hay manera de
+juntarlos en un solo símbolo.
+\end{solucion}
+
+% Ejercicio: medidas-con-radicales-8-003
+\pregunta[1.5] Un cubo tiene la cara frontal $ABCD$ y la base $ABFE$, y cada arista mide
+$5$~cm ($E$ es el vértice de la base opuesto a $B$ y $C$ está sobre $B$). Calcula la longitud
+de la diagonal $EB$ de la base.
+\begin{solucion}[4cm]
+La base es un cuadrado de lado $5$~cm y $EB$ es su diagonal. Por Pitágoras:
+$EB = \sqrt{5^2 + 5^2} = \sqrt{50} = 5\sqrt{2} \approx \num{7,07}$~cm.
+\end{solucion}
+
+% Ejercicio: medidas-con-radicales-8-004
+\pregunta[1.5] En el mismo cubo, calcula la longitud de la diagonal $EC$ del cubo (la que
+atraviesa por dentro, de un vértice al opuesto).
+\begin{solucion}[4.5cm]
+El triángulo $EBC$ es rectángulo en $B$: un cateto es la diagonal de la base, $EB = 5\sqrt{2}$,
+y el otro es la arista vertical $BC = 5$.
+
+$EC = \sqrt{(5\sqrt{2})^2 + 5^2} = \sqrt{50 + 25} = \sqrt{75} = 5\sqrt{3} \approx \num{8,66}$~cm.
+
+Nótese el patrón: lado $5$, diagonal de la cara $5\sqrt{2}$, diagonal del cubo $5\sqrt{3}$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

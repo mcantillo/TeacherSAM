@@ -1,0 +1,123 @@
+% =====================================================================
+% Clase -- Álgebra 9° -- Trimestre I -- Semana 04
+% Sesión 007 (mar 22 sep., 13:00, 40 min) y sesión 008 (vie 25 sep., 6:55, 55 min)
+% Tema: Números reales
+% Subtemas: Radicales: raíz enésima y simplificación / Suma y resta de radicales semejantes
+% Hilo conductor del trimestre I: «Al-Juarismi y el nacimiento del álgebra»
+% Tema 1 de la guía: Números reales (tema:numerosreales)
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-reales-y-factorizacion}
+
+\tipodocumento{Clase}
+\asignatura{Álgebra}
+\titulo{Semana 4: radicales que se pueden juntar}
+\grado{9°}
+\periodo{I}
+
+% DBA: matematicas grado 9 · DBA 1 — Utiliza los números reales (sus operaciones, relaciones
+% y propiedades) para resolver problemas con expresiones polinómicas. Evidencias de estas dos
+% sesiones: «Construye representaciones geométricas y numéricas de los números reales (con
+% decimales, raíces, razones, y otros símbolos) y realiza conversiones entre ellas» y, en la
+% sesión 008, «Identifica la diferencia entre exactitud y aproximación».
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  007 & mar 22 sep., 13:00 & 40 & Radicales: raíz enésima y simplificación & ---\\
+  008 & vie 25 sep., 6:55 & 55 & Suma y resta de radicales semejantes & Taller y tarea\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+Segunda semana del tema 1. Al-Juarismi operaba con raíces sin tener nuestros símbolos: las
+escribía con palabras. Estas dos sesiones son justamente la herramienta que a él le faltaba —
+poder escribir $5\sqrt{2}$ y saber que dos de esos se suman como se suman dos manzanas.
+Referencia: \refguia{tema:numerosreales}.
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 007 — martes 22 de septiembre · 13:00 · 40 min}
+
+\textbf{Objetivo.} Leer y escribir raíces enésimas, y simplificar un radical extrayendo los
+factores que son potencias perfectas.
+
+\textbf{Materiales.} Tablero; la guía. No hace falta calculadora (y conviene que no la usen).
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Revisión & 0--5 & Revisar la tarea de la semana pasada. Tomar una respuesta con
+    $\sqrt{18}$ sin simplificar como puente al tema de hoy.\\
+  Notación & 5--14 & $\sqrt[n]{a}$: índice, radicando, raíz. Leerlas en voz alta
+    ($\sqrt[3]{8}$, «raíz cúbica de 8»). Por qué $\sqrt{a^2} = |a|$ y no siempre $a$: probar
+    con $a = -3$. Es el detalle que más adelante arruina ecuaciones.\\
+  Simplificar & 14--32 & La idea: buscar dentro del radical un factor que sea potencia
+    perfecta y sacarlo. $\sqrt{18} = \sqrt{9 \cdot 2} = 3\sqrt{2}$;
+    $\sqrt{75} = 5\sqrt{3}$; $\sqrt[3]{54} = 3\sqrt[3]{2}$. Método al tablero:
+    descomponer en factores primos y agrupar de a $n$. Hacer dos con el curso y dos solos.\\
+  Cierre & 32--40 & Pregunta que deja abierta la sesión 008: «¿cuánto es
+    $\sqrt{18} + \sqrt{2}$?» Dejar que tanteen; casi seguro alguien dirá $\sqrt{20}$.
+    No corregir todavía: mañana se ve por qué no.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 008 — viernes 25 de septiembre · 6:55 · 55 min}
+
+\textbf{Objetivo.} Sumar y restar radicales semejantes, reconocer cuándo \emph{no} se pueden
+juntar, y usarlo para calcular perímetros exactos.
+
+\textbf{Materiales.} Tablero; regla; la guía.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  La trampa & 0--10 & Retomar $\sqrt{18} + \sqrt{2}$. Comprobar numéricamente:
+    $\num{4,243} + \num{1,414} = \num{5,657}$, mientras que $\sqrt{20} = \num{4,472}$. No
+    son iguales. Entonces, ¿cuánto es? Simplificando: $3\sqrt{2} + \sqrt{2} = 4\sqrt{2}$.
+    \textbf{La raíz no se reparte en la suma.}\\
+  Semejantes & 10--24 & Radicales semejantes: mismo índice y mismo radicando \emph{después
+    de simplificar}. Se suman los coeficientes, como $3x + x = 4x$. Ejemplos de la guía:
+    $5\sqrt{27} - \sqrt{147} + \sqrt{12} = 10\sqrt{3}$. Y uno que no se puede:
+    $\sqrt{2} + \sqrt{3}$ se queda así.\\
+  Perímetros & 24--34 & Aplicación: el perímetro de un triángulo rectángulo isósceles de
+    catetos 5 es $10 + 5\sqrt{2}$. Exacto contra aproximado: $\num{17,07}$ es una
+    aproximación; $10 + 5\sqrt{2}$ es el número. Volver a la distinción del tema.\\
+  Taller & 34--50 & Taller individual (5 puntos).\\
+  Cierre & 50--55 & Recoger el taller y dejar la tarea. Anuncio: la próxima semana,
+    multiplicar y dividir radicales — ahí sí la raíz se reparte, y conviene ver por qué.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+\textbf{El error que hay que cazar.} $\sqrt{a + b} \neq \sqrt{a} + \sqrt{b}$. Vale la pena
+dejarlo escrito en el tablero toda la semana, con el contraejemplo al lado:
+$\sqrt{9 + 16} = 5$ pero $\sqrt{9} + \sqrt{16} = 7$. Es el mismo error que reaparecerá en
+potencias y en logaritmos.
+\end{nota}
+
+\begin{nota}
+\textbf{Pendiente.} Los ejercicios de esta semana vienen del banco de Álgebra 8°
+(\texttt{numeros-reales-8}, \texttt{medidas-con-radicales-8}): falta decidir cómo se reparten
+los irracionales entre 8° y 9° para no repetir el trimestre entero (ver \texttt{PENDIENTES.md}).
+\end{nota}
+
+\end{document}
