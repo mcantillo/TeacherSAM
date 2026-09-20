@@ -74,5 +74,12 @@ jobs:
             echo "No hay PDF nuevos."
           else
             git commit -m "Compilar PDF [skip ci]"
-            git push
+            # Los dos workflows escriben en main y el de los PDF tarda mucho más: si el
+            # otro empuja mientras este compila, el push se rechaza por «non-fast-forward»
+            # y el trabajo compilado se pierde. Por eso se reintenta rebasando encima.
+            for intento in 1 2 3; do
+              git push && break
+              echo "Push rechazado (main se movió). Rebaso e intento de nuevo."
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}" || exit 1
+            done
           fi

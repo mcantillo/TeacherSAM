@@ -4,6 +4,15 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-19 (tarde)
 
+- **Los dos workflows se pisaban.** Los paquetes de Geometría 6° y 10° **sí compilaron** —los
+  seis PDF se crearon—, pero `pdfs.yml` no pudo guardarlos: mientras compilaba (instala TeX
+  Live en cada corrida, varios minutos), `ejercicios.yml` terminó y empujó su commit; cuando el
+  de los PDF fue a empujar, main ya se había movido y GitHub lo rechazó por
+  «non-fast-forward». El trabajo compilado se perdió.
+  **Arreglo:** los dos reintentan el push hasta tres veces, rebasando sobre lo que haya en
+  main. Era un error de diseño del 2026-09-19: dos robots escribiendo en la misma rama sin
+  prever la carrera.
+
 - **Catálogo del banco en marcha:** la docente lanzó «Verificar ejercicios» con la casilla de
   todo el banco. Resultado: **4098 ejercicios, 3144 verificados** y 954 manuales pendientes de
   su aprobación; los **17 que citaban las guías sin verificar quedaron verificados**. Con
