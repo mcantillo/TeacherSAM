@@ -3137,6 +3137,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/coordenadas-11.py"
  },
+ "coordenadas-11-010": {
+  "huella": "e787f7dcd1b5e17a",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/coordenadas-11.py"
+ },
+ "coordenadas-11-011": {
+  "huella": "a42b27206a1d3798",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/coordenadas-11.py"
+ },
+ "coordenadas-11-012": {
+  "huella": "22b015527f38c327",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/coordenadas-11.py"
+ },
+ "coordenadas-11-013": {
+  "huella": "49a6691e4468d6ae",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/coordenadas-11.py"
+ },
  "cuadrilateros-4-001": {
   "huella": "e03f22965a2707c5",
   "estado": "verificado",
@@ -11045,6 +11069,24 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/lineas-3.py"
  },
+ "lineas-3-010": {
+  "huella": "a0bfc4e9c3639101",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-3.py"
+ },
+ "lineas-3-011": {
+  "huella": "2181953b293dfef2",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-3.py"
+ },
+ "lineas-3-012": {
+  "huella": "3a057f1cd4317413",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-3.py"
+ },
  "lineas-4-001": {
   "huella": "d2286ea94076f5d9",
   "estado": "verificado",
@@ -11055,6 +11097,30 @@
   "huella": "36dad275421fe790",
   "estado": "verificado",
   "fecha": "2026-09-19",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
+ },
+ "lineas-4-010": {
+  "huella": "1fe3ee0fe1371656",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
+ },
+ "lineas-4-011": {
+  "huella": "3ce3c813e0745d36",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
+ },
+ "lineas-4-012": {
+  "huella": "b5239854e68794c8",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/lineas-4.py"
+ },
+ "lineas-4-013": {
+  "huella": "026063ac99189e6e",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
   "archivo": "recursos/banco/matematicas/lineas-4.py"
  },
  "logaritmos-8-001": {
