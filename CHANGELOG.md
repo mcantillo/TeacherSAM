@@ -4,6 +4,24 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **Semana 05: los seis paquetes del lunes 28.** Cálculo 11° (intervalos, unión e
+  intersección y el argumento de la diagonal de Cantor; taller y tarea), Geometría 10°
+  (punto medio como promedio, perímetro y clasificación de triángulos; taller), Geometría 5°
+  (ejes, origen y los cuatro cuadrantes; tarea), Geometría 6° (adyacentes, opuestos por el
+  vértice y bisectriz; quiz y tarea), Física 9° (marco de referencia, posición y trayectoria,
+  con el eje marcado con tiza en el piso; tarea) y Física 11° (puesta en común del
+  laboratorio con Gilbert, y ley de Coulomb; taller y quiz). Quince archivos; cada quiz,
+  taller y tarea suma exactamente 5 puntos, comprobado.
+- **Once ejercicios nuevos en el banco**, todos comprobables con código: `angulos-6-004…007`
+  (ángulos entre rectas, que el módulo de Quintero Palomino salta), `plano-cartesiano-5-015…017`
+  (cuadrantes y puntos sobre los ejes) y el archivo nuevo `movimiento-9.py` (marco de
+  referencia y desplazamiento, con contextos de Cali). Los demás puntos reutilizan banco ya
+  verificado.
+- **Nota de entorno:** en Cowork no hay SymPy y el espejo de paquetes de Python tampoco
+  responde, así que la verificación de los ejercicios nuevos la hace el robot del repositorio.
+  La aritmética de las 32 respuestas calculadas de la semana se revisó aparte, a mano, antes
+  de escribirlas.
+
 - **El robot de los PDF ya no instala LaTeX a mano.** Pasó a la imagen completa
   `texlive/texlive:latest` y se borró el paso de `tlmgr install`. Dos fallos seguidos
   vinieron de ahí: el 19 faltaba `txfonts` en la lista (`t1xtt not loadable`, la primera vez

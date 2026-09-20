@@ -1,0 +1,64 @@
+% =====================================================================
+% Quiz 2 -- Geometría 6° -- Trimestre I -- Semana 05 (sesión 004, lun 28 sep.)
+% Individual, últimos 8 minutos de la sesión. Total: 5 puntos.
+% Ejercicios del banco: angulos-6.py (004, 005 -- nuevos, semana 05).
+% Clave:  pdflatex -jobname=quiz-clave "\def\clave{}\input{quiz}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Quiz}
+\asignatura{Geometría}
+\titulo{Quiz 2: ángulos entre rectas}
+\grado{6°}
+\periodo{I}
+\tiempo{8 min}
+
+% DBA: matematicas grado 6 · DBA 5 — Utiliza y explica diferentes estrategias e instrumentos
+% para calcular ángulos. Evidencia: hallar medidas de ángulos a partir de relaciones entre
+% ellos (adyacentes y opuestos por el vértice), sin transportador.
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Individual, sin transportador. Escribe la cuenta, no solo el resultado.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: angulos-6-004
+\pregunta[2.5] Dos rectas se cortan y forman cuatro ángulos. Uno de ellos mide $47^\circ$.
+¿Cuánto miden los otros tres? Di cuál de ellos es el opuesto por el vértice del primero.
+\espacio{4cm}
+\begin{solucion}
+Los adyacentes miden $180^\circ - 47^\circ = 133^\circ$ cada uno, y el opuesto por el vértice
+mide $47^\circ$.
+
+En orden de giro: $47^\circ$, $133^\circ$, $47^\circ$, $133^\circ$. El opuesto por el vértice
+es el tercero, el que no comparte ningún lado con el primero.
+
+Comprobación: $47 + 133 + 47 + 133 = 360^\circ$.
+\end{solucion}
+
+% Ejercicio: angulos-6-005
+\pregunta[2.5] Dos rectas se cortan. Uno de los ángulos mide $(3x + 10)^\circ$ y su opuesto
+por el vértice mide $(5x - 20)^\circ$. Halla $x$ y la medida de los cuatro ángulos.
+\espacio{5cm}
+\begin{solucion}
+Los ángulos opuestos por el vértice son iguales, así que $3x + 10 = 5x - 20$.
+
+Entonces $30 = 2x$ y $x = 15$.
+
+Cada uno de esos dos mide $3(15) + 10 = 55^\circ$ (y también $5(15) - 20 = 55^\circ$, que sirve
+de comprobación), y los otros dos miden $180^\circ - 55^\circ = 125^\circ$.
+
+Comprobación: $55 + 125 + 55 + 125 = 360^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

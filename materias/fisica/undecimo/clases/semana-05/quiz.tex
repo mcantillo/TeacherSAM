@@ -1,0 +1,80 @@
+% =====================================================================
+% Quiz 2 -- Física 11° -- Trimestre I -- Semana 05 (sesión 009, mié 30 sep.)
+% Individual, últimos 12 minutos de la sesión. Total: 5 puntos.
+% Ejercicios del banco: electrostatica-11.py (046, 047, 055, 054, 050), todos reutilizados.
+% Clave:  pdflatex -jobname=quiz-clave "\def\clave{}\input{quiz}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+
+\tipodocumento{Quiz}
+\asignatura{Física}
+\titulo{Quiz 2: ley de Coulomb}
+\grado{11°}
+\periodo{I}
+\tiempo{12 min}
+
+% DBA: naturales grado 11 · DBA 2 — Comprende la naturaleza de la carga eléctrica y las
+% interacciones entre cuerpos cargados, y explica la ley de Coulomb. Evidencias: predecir cómo
+% cambia la fuerza al cambiar cargas o distancia (puntos 1 y 2) y calcular la fuerza entre
+% cargas puntuales con sus unidades (puntos 3 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Individual, con calculadora. $k = \qty{8,99e9}{N.m^2/C^2}$. Pasa todo a coulombs y a metros
+\textbf{antes} de reemplazar y escribe el procedimiento: las respuestas sin procedimiento no
+tienen puntos. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: electrostatica-11-046
+\pregunta[1] Dos esferas se atraen con una fuerza determinada. ¿Cómo cambia el valor de la
+fuerza si se triplica la carga de cada esfera? No uses números.
+\espacio{2.5cm}
+\begin{solucion}
+$F' = k\dfrac{(3q_1)(3q_2)}{r^2} = 9\,k\dfrac{q_1 q_2}{r^2} = 9F$: la fuerza se hace nueve
+veces mayor. La distancia no cambió.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-047
+\pregunta[1] Dos esferas se atraen con una fuerza determinada. ¿Qué sucede con la fuerza si la
+carga de cada esfera se reduce a la tercera parte?
+\espacio{2.5cm}
+\begin{solucion}
+$F' = k\dfrac{(q_1/3)(q_2/3)}{r^2} = \dfrac{F}{9}$: la fuerza se reduce a la novena parte.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-055
+\pregunta[1.5] Se tienen dos cargas de \qty{2}{\micro\coulomb} y \qty{8}{\micro\coulomb}
+separadas \qty{10}{cm}. Calcula la fuerza, en newtons, que existe entre ellas y di si es de
+atracción o de repulsión.
+\espacio{4cm}
+\begin{solucion}
+$q_1 = \qty{2e-6}{C}$, $q_2 = \qty{8e-6}{C}$, $r = \qty{0,1}{m}$.
+
+$F = \dfrac{(\num{8,99e9})(\num{2e-6})(\num{8e-6})}{(\num{0,1})^2} \approx \qty{14,4}{N}$.
+
+Las dos cargas son positivas, así que es de \textbf{repulsión}. Ojo con el paso
+$\qty{10}{cm} = \qty{0,1}{m}$: dejar los centímetros da un resultado diez mil veces menor.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-054
+\pregunta[1.5] Dos cargas de \qty{40}{\micro\coulomb} se repelen con una fuerza de
+\qty{360}{N}. Calcula la distancia que las separa.
+\espacio{4cm}
+\begin{solucion}
+Se despeja $r$ de $F = k\dfrac{q^2}{r^2}$:
+
+$r = \sqrt{\dfrac{k q^2}{F}} =
+\sqrt{\dfrac{(\num{8,99e9})(\num{40e-6})^2}{360}} \approx \qty{0,20}{m}$, es decir unos
+\qty{20}{cm}.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

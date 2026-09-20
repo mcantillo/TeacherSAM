@@ -1,0 +1,106 @@
+% =====================================================================
+% Tarea -- Física 9° -- Trimestre I -- Semana 05
+% Se deja el lun 28 sep. (sesión 004) y se recoge la sesión siguiente. Total: 5 puntos.
+% Ejercicios del banco: movimiento-9.py (001-004 -- archivo nuevo, semana 05).
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-movimiento}
+
+\tipodocumento{Tarea}
+\asignatura{Física}
+\titulo{Tarea: marco de referencia y desplazamiento}
+\grado{9°}
+\periodo{I}
+
+% DBA: naturales grado 9 · DBA 1 — Comprende que el movimiento de un cuerpo, en un marco de
+% referencia inercial dado, se puede describir con gráficos y predecir por medio de
+% expresiones matemáticas. Evidencias: establecer un marco de referencia y describir en él el
+% movimiento (puntos 1 y 4) y distinguir las magnitudes de esa descripción — trayectoria,
+% distancia y desplazamiento (puntos 2 y 3).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se recoge la próxima sesión. En cada punto escribe primero cuál es el origen
+y cuál el sentido positivo que estás usando; después la cuenta. Puedes consultar la
+\refguia{tema:describir}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: movimiento-9-001
+\pregunta[1.25] Una ruta del MIO va por una avenida recta. Tomamos como origen la estación
+Universidades y como sentido positivo el norte. El bus está primero en $x_1 = \qty{+800}{m}$ y
+después en $x_2 = \qty{+200}{m}$.
+\begin{enumerate}[a.]
+  \item ¿Cuál es su desplazamiento?
+  \item Repite la cuenta poniendo el origen \qty{500}{m} al sur de la estación (allí las
+        posiciones son \qty{1300}{m} y \qty{700}{m}). ¿Cambió el desplazamiento?
+\end{enumerate}
+\begin{solucion}[4.5cm]
+a) $\Delta x = 200 - 800 = \qty{-600}{m}$: seiscientos metros hacia el sur. El signo indica el
+sentido, no que sea «menos camino».
+
+b) $\Delta x = 700 - 1300 = \qty{-600}{m}$: el mismo.
+
+Cambiar el origen cambia las posiciones, pero no el desplazamiento, porque el desplazamiento
+es una \emph{diferencia} de posiciones y el corrimiento se cancela al restar.
+\end{solucion}
+
+% Ejercicio: movimiento-9-002
+\pregunta[1.5] En la ciclovía, Laura da exactamente una vuelta a una manzana rectangular de
+\qty{120}{m} por \qty{80}{m} y termina donde arrancó. Tarda \qty{100}{s}. Calcula: a) la
+distancia recorrida; b) la magnitud del desplazamiento; c) la rapidez media; d) la velocidad
+media.
+\begin{solucion}[5cm]
+a) Es el perímetro: $2(120) + 2(80) = \qty{400}{m}$.
+
+b) Cero: empezó y terminó en el mismo punto.
+
+c) $\dfrac{400}{100} = \qty{4}{m/s}$.
+
+d) $\dfrac{0}{100} = \qty{0}{m/s}$.
+
+No es un error que den distinto: la rapidez mide cuánto camino hizo y la velocidad media, qué
+tan lejos quedó de donde arrancó. Dar la vuelta completa deja las dos cosas muy distintas.
+\end{solucion}
+
+% Ejercicio: movimiento-9-003
+\pregunta[1.25] Un estudiante camina \qty{5}{m} hacia el oriente y luego \qty{12}{m} hacia el
+norte. Escribe: «mi desplazamiento fue de \qty{17}{m}». Encuentra el error, corrígelo y di qué
+fue lo que sí calculó.
+\begin{solucion}[4.5cm]
+Lo que calculó fueron \qty{17}{m} de \emph{distancia recorrida}: la longitud del camino,
+$5 + 12$.
+
+El desplazamiento es el segmento recto desde donde arrancó hasta donde terminó, y como los dos
+tramos son perpendiculares se halla con Pitágoras:
+$\sqrt{5^2 + 12^2} = \sqrt{169} = \qty{13}{m}$, hacia el nororiente.
+
+El desplazamiento nunca es mayor que la distancia recorrida; solo son iguales cuando el camino
+es recto y sin devolverse.
+\end{solucion}
+
+% Ejercicio: movimiento-9-004
+\pregunta[1] Un pasajero va sentado y quieto en su silla de un bus que viaja por una recta a
+\qty{60}{km/h}. a) ¿Cuál es su velocidad respecto del bus? b) ¿Y respecto de la vía? Da esta
+última también en \unit{m/s}. c) ¿Está el pasajero en movimiento o en reposo?
+\begin{solucion}[4.5cm]
+a) Cero: respecto del bus no cambia de posición.
+
+b) \qty{60}{km/h}, que en \unit{m/s} es $60 \div \num{3,6} = \qty{16,7}{m/s}$ (exactamente
+$\frac{50}{3}$).
+
+c) Las dos cosas, y no hay contradicción: estar en movimiento o en reposo no es una propiedad
+del pasajero, sino de la pareja pasajero–marco de referencia. Por eso lo primero al describir
+un movimiento es decir desde dónde se mira.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

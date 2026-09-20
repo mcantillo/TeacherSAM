@@ -1,0 +1,111 @@
+% =====================================================================
+% Taller -- Física 11° -- Trimestre I -- Semana 05 (sesión 008, lun 28 sep.)
+% Individual, en clase, y se recoge al final. Total: 5 puntos.
+% Ejercicios del banco: electrostatica-guia-11.py (001, 004) y electrostatica-11.py (006,
+% 051, 053), todos reutilizados; ninguno nuevo.
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-electrostatica}
+
+\tipodocumento{Taller}
+\asignatura{Física}
+\titulo{Taller: leer el laboratorio}
+\grado{11°}
+\periodo{I}
+
+% DBA: naturales grado 11 · DBA 2 — Comprende la naturaleza de la carga eléctrica y las
+% interacciones entre cuerpos cargados. Evidencias: explicar la electrización por frotamiento
+% y por inducción en términos de transferencia de electrones (puntos 1, 2 y 3) y reconocer la
+% conservación y la cuantización de la carga (puntos 4 y 5).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Individual, en clase. Usa tu cuaderno de laboratorio de la sesión anterior. Carga del
+electrón: $e = \qty{1,602e-19}{C}$. Puedes consultar la \refguia{tema:carga}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: electrostatica-guia-11-001
+\pregunta[1] Usa la serie triboeléctrica de la guía (vidrio, papel, lana, polietileno, PVC, de
+mayor a menor tendencia a quedar positivo). Al frotar dos materiales, el que está más a la
+izquierda queda positivo. Di el signo de cada uno: a) PVC y lana; b) vidrio y polietileno;
+c) papel y lana. d) Si acercas la esfera de tu electroscopio al PVC frotado, ¿qué esperas ver?
+\begin{solucion}[4.5cm]
+a) PVC negativo, lana positiva. \quad b) Vidrio positivo, polietileno negativo. \quad
+c) Papel positivo, lana negativa.
+
+d) Las laminillas se separan. El PVC negativo repele los electrones de la esfera hacia abajo,
+las laminillas quedan con exceso de carga negativa y se repelen entre sí. Basta acercarlo, sin
+tocar.
+\end{solucion}
+
+% Ejercicio: electrostatica-guia-11-004
+\pregunta[1] Un tubo de PVC frotado con lana queda cargado negativamente y se acerca, sin
+tocarla, a una esfera metálica neutra y aislada. Mientras el tubo está cerca, en la esfera:
+\begin{enumerate}[a.]
+  \item se acumula carga negativa en el lado cercano al tubo;
+  \item los protones se desplazan hacia el lado cercano al tubo;
+  \item la carga total de la esfera se vuelve positiva;
+  \item los electrones se alejan del tubo y el lado cercano queda positivo.
+\end{enumerate}
+\begin{solucion}[4cm]
+La d). Es inducción: sin contacto no hay transferencia de carga, así que la carga total de la
+esfera sigue siendo cero. Lo único que se mueve son los electrones libres del metal, que son
+repelidos por el tubo negativo y se van al lado lejano; el lado cercano queda con déficit de
+electrones, es decir, positivo. Los protones están fijos en los núcleos y no se mueven nunca.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-006
+\pregunta[1] Al frotar un globo inflado con lana, el globo gana dos millones de electrones.
+¿De qué signo queda la carga de cada uno? ¿Cuánta carga adquiere el globo?
+\begin{solucion}[4cm]
+El globo queda negativo (ganó electrones) y la lana, positiva (los perdió), con el mismo valor
+absoluto.
+
+$q = (2\times10^{6})(\qty{1,602e-19}{C}) \approx \qty{3,2e-13}{C}$, es decir
+$q_{\text{globo}} \approx \qty{-3,2e-13}{C}$ y $q_{\text{lana}} \approx \qty{+3,2e-13}{C}$.
+
+La carga no se creó: se pasó de un cuerpo al otro.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-051
+\pregunta[1] Una barra de vidrio A, inicialmente neutra, se frota con seda y pierde
+$1\times10^{13}$ electrones; otra barra idéntica, B, también se frota y pierde
+$3\times10^{13}$. Si después se ponen en contacto y se separan, ¿con cuántos electrones de
+déficit queda cada una?
+\begin{solucion}[4.5cm]
+El déficit total es $1\times10^{13} + 3\times10^{13} = 4\times10^{13}$ electrones.
+
+Como las barras son idénticas, al tocarse la carga se reparte por igual: cada una queda con un
+déficit de $2\times10^{13}$ electrones, o sea $q \approx \qty{+3,2e-6}{C}$ cada una.
+
+Esto es la conservación de la carga: el total antes y después es el mismo.
+\end{solucion}
+
+% Ejercicio: electrostatica-11-053
+\pregunta[1] ¿Cuál de estas dos cargas no concuerda con la realidad?
+$q_1 = \qty{2,4e-19}{C}$ y $q_2 = \qty{11,2e-19}{C}$. Justifica con el valor de la carga del
+electrón.
+\begin{solucion}[4.5cm]
+Toda carga es un múltiplo entero de $e$, porque los electrones no se parten.
+
+$\dfrac{q_2}{e} = \dfrac{\num{11,2e-19}}{\num{1,602e-19}} \approx 7$: posible, son 7 cargas
+elementales.
+
+$\dfrac{q_1}{e} = \dfrac{\num{2,4e-19}}{\num{1,602e-19}} \approx \num{1,5}$: no es entero, así
+que $q_1$ no puede existir.
+
+A esto se le llama cuantización de la carga.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

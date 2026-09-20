@@ -1,0 +1,86 @@
+% =====================================================================
+% Tarea -- Geometría 6° -- Trimestre I -- Semana 05
+% Se deja el lun 28 sep. (sesión 004) y se revisa la sesión siguiente. Total: 5 puntos.
+% Ejercicios del banco: angulos-6.py (006, 007 -- nuevos, semana 05; 002 reutilizado).
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-angulos-poligonos}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea: deducir en vez de medir}
+\grado{6°}
+\periodo{I}
+
+% DBA: matematicas grado 6 · DBA 5 — Utiliza y explica diferentes estrategias e instrumentos
+% para calcular ángulos. DBA 6 — Representa y construye formas bidimensionales a partir de
+% las medidas de sus lados y ángulos. Evidencias: justificar una relación entre ángulos sin
+% medirla (puntos 1 y 2) y construir la bisectriz con regla y compás (punto 3).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. En los puntos 1 y 2 no se puede usar transportador: hay que razonar. El punto
+3 sí se dibuja, con regla y compás. Puedes consultar la \refguia{tema:angulosrectas}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: angulos-6-006
+\pregunta[1.5] Demuestra que dos ángulos opuestos por el vértice son iguales. (Sugerencia: los
+dos son adyacentes al mismo ángulo.)
+\begin{solucion}[5cm]
+Sean $\alpha$ y $\beta$ los ángulos opuestos por el vértice, y $\gamma$ el ángulo que está
+entre ellos, adyacente a los dos.
+
+Como $\alpha$ y $\gamma$ son adyacentes: $\alpha + \gamma = 180^\circ$, luego
+$\alpha = 180^\circ - \gamma$.
+
+Como $\beta$ y $\gamma$ también son adyacentes: $\beta + \gamma = 180^\circ$, luego
+$\beta = 180^\circ - \gamma$.
+
+Los dos son iguales a lo mismo, así que $\alpha = \beta$. No hizo falta medirlos, y por eso
+vale para cualquier par de rectas que se corten.
+\end{solucion}
+
+% Ejercicio: angulos-6-007
+\pregunta[2] El ángulo $AOB$ mide $70^\circ$ y $BOC$ es su adyacente. $OM$ es la bisectriz de
+$AOB$ y $ON$ es la bisectriz de $BOC$. ¿Cuánto mide el ángulo $MON$? Repite la cuenta cambiando
+$70^\circ$ por otra medida: ¿qué observas?
+\begin{solucion}[6cm]
+$BOC = 180^\circ - 70^\circ = 110^\circ$.
+
+La bisectriz parte cada ángulo en dos partes iguales: $MOB = \frac{70^\circ}{2} = 35^\circ$ y
+$BON = \frac{110^\circ}{2} = 55^\circ$.
+
+Entonces $MON = 35^\circ + 55^\circ = 90^\circ$.
+
+Con cualquier otra medida da lo mismo: si $AOB = \alpha$, entonces
+$MON = \frac{\alpha}{2} + \frac{180^\circ - \alpha}{2} = \frac{180^\circ}{2} = 90^\circ$.
+
+Las bisectrices de dos ángulos adyacentes son siempre perpendiculares.
+\end{solucion}
+
+% Ejercicio: angulos-6-002
+\pregunta[1.5] Demuestra que si dos ángulos suplementarios son iguales, entonces cada uno es un
+ángulo recto. Después dibuja el caso con regla y compás: traza dos rectas que se corten
+formando cuatro ángulos iguales.
+\begin{solucion}[5cm]
+Si $\alpha = \beta$ y $\alpha + \beta = 180^\circ$, entonces $2\alpha = 180^\circ$, así que
+$\alpha = \beta = 90^\circ$: cada uno es recto.
+
+El dibujo son dos rectas perpendiculares. Con compás: se traza una recta, se marca un punto en
+ella y se levanta la perpendicular por ese punto (arco que corta la recta en dos puntos; desde
+cada uno, dos arcos iguales que se crucen; la recta del punto al cruce). Los cuatro ángulos
+quedan de $90^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

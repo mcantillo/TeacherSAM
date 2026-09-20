@@ -1,0 +1,90 @@
+% =====================================================================
+% Tarea -- Cálculo 11° -- Trimestre I -- Semana 05
+% Se deja el vie 2 oct. (sesión 014) y se recoge el lunes siguiente. Total: 5 puntos.
+% Ejercicios del banco (recursos/banco/matematicas/intervalos.py), todos reutilizados.
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Tarea}
+\asignatura{Cálculo}
+\titulo{Tarea 5: unir, cortar y contar}
+\grado{11°}
+\periodo{I}
+
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+% enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar los
+% distintos sistemas numéricos. Evidencias: «construye representaciones de los conjuntos
+% numéricos» (puntos 1 a 4, unión e intersección sobre la recta) y «reconoce propiedades
+% comunes y diferentes de los sistemas numéricos» (punto 5, numerabilidad).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se recoge el lunes. \textbf{Cada punto lleva su dibujo}: dos rectas, una
+encima de la otra, y el resultado abajo. Puedes consultar la \refguia{tema:intervalos}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: intervalos-024
+\pregunta[0.75] Representa en la recta real y escribe el resultado: $(1, 6) \cup (-3, 5)$.
+\begin{solucion}[3.5cm]
+$(-3, 6)$. Los dos intervalos se traslapan entre $1$ y $5$, así que la unión es una sola
+franja que va desde el extremo izquierdo del uno hasta el extremo derecho del otro. Los dos
+extremos quedan abiertos porque lo eran en sus intervalos.
+\end{solucion}
+
+% Ejercicio: intervalos-025
+\pregunta[0.75] Representa en la recta real y escribe el resultado:
+$\left[-1, \frac{1}{2}\right) \cap (1, 5)$.
+\begin{solucion}[3.5cm]
+$\varnothing$. El primero termina en $\frac{1}{2}$ y el segundo empieza en $1$: no hay ningún
+punto de la recta cubierto por los dos, así que no hay intersección.
+\end{solucion}
+
+% Ejercicio: intervalos-017
+\pregunta[1] Escribe como un intervalo o una unión de intervalos:
+$\left[-2, \frac{6}{7}\right) \cap [0, 1)$.
+\begin{solucion}[4cm]
+$\left[0, \frac{6}{7}\right)$. En una intersección el resultado empieza en el \emph{mayor} de
+los dos extremos izquierdos ($0$, que gana a $-2$) y termina en el \emph{menor} de los dos
+derechos ($\frac{6}{7}$, que gana a $1$). Cada extremo conserva el tipo de paréntesis que
+traía: corchete en $0$, paréntesis en $\frac{6}{7}$.
+\end{solucion}
+
+% Ejercicio: intervalos-021
+\pregunta[1.25] Escribe como un intervalo o una unión de intervalos:
+$(-\infty, 12) \cup (11{,}9\,;\ \infty)$. Explica en una frase por qué el resultado sorprende.
+\begin{solucion}[4.5cm]
+$\mathbb{R}$: todos los números reales.
+
+Sorprende porque uno espera un hueco en la mitad, pero no lo hay: los dos intervalos se
+traslapan en la franja $(11{,}9\,;\ 12)$, y entre los dos cubren la recta entera. Todo número
+menor que $12$ está en el primero, todo número mayor o igual que $12$ está en el segundo, y no
+queda ninguno por fuera.
+\end{solucion}
+
+% Ejercicio: intervalos-016
+\pregunta[1.25] Escribe como un intervalo o una unión de intervalos: $(1, 6) \cup (-2, 9)$.
+Después responde: el conjunto que te dio, ¿tiene más números que el conjunto
+$\{1, 2, 3, 4, \dots\}$ de todos los naturales? Justifica con lo que vimos el viernes.
+\begin{solucion}[5.5cm]
+$(-2, 9)$: el primer intervalo está contenido en el segundo, así que la unión es el segundo.
+
+Sí tiene más. Los naturales se pueden poner en fila (esa es su definición de tamaño: $1$,
+$2$, $3$, …), y el argumento de la diagonal de Cantor muestra que los números de un intervalo
+como $(-2, 9)$ \textbf{no} se pueden poner en fila: cualquier lista que alguien proponga deja
+por fuera al menos un número. Son dos infinitos de distinto tamaño, y el del intervalo es el
+mayor, por pequeño que parezca el intervalo.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

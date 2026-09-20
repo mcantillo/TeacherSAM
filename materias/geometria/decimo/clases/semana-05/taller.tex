@@ -1,0 +1,96 @@
+% =====================================================================
+% Taller -- Geometría 10° -- Trimestre I -- Semana 05 (sesión 004, lun 28 sep.)
+% Se empieza en clase y lo que falte queda de tarea para el lunes. Total: 5 puntos.
+% Ejercicios del banco: coordenadas-11.py (001, 002, 005) y geometria-analitica-10.py (041),
+% todos reutilizados; ninguno nuevo.
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-geometria-analitica}
+
+\tipodocumento{Taller}
+\asignatura{Geometría}
+\titulo{Taller: punto medio, perímetro y clasificación}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 5 — Explora y describe las propiedades de los lugares
+% geométricos y de sus transformaciones a partir de diferentes representaciones. Evidencias:
+% describir propiedades de una figura a partir de su representación en coordenadas (puntos 1
+% a 3) y usar esa representación para describir y decidir sobre una situación modelada en el
+% plano (punto 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Se empieza en clase; lo que no alcances queda para el lunes. Deja los radicales exactos y
+aproxima solo al final. Haz el dibujo en los puntos 2 y 3. Puedes consultar la
+\refguia{tema:distancia}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: coordenadas-11-001
+\pregunta[1] Halla la distancia y el punto medio entre $A(-3, 2)$ y $B(5, 8)$.
+\begin{solucion}[4cm]
+$d = \sqrt{(5 + 3)^2 + (8 - 2)^2} = \sqrt{64 + 36} = \sqrt{100} = 10$.
+
+Punto medio: $M\left(\frac{-3 + 5}{2},\ \frac{2 + 8}{2}\right) = (1, 5)$.
+
+Comprobación: $M$ queda entre los dos extremos en las dos coordenadas, como tiene que ser.
+\end{solucion}
+
+% Ejercicio: coordenadas-11-002
+\pregunta[1.5] Halla la distancia y el punto medio de cada par de puntos:
+
+\begin{center}
+a) $(1, 1)$ y $(4, 5)$ \qquad b) $(-2, 3)$ y $(4, -5)$ \qquad c) $(0, 0)$ y $(3, 3)$
+\end{center}
+\begin{solucion}[5cm]
+a) $d = \sqrt{3^2 + 4^2} = 5$; \quad $M\left(\frac{5}{2}, 3\right)$.
+
+b) $d = \sqrt{6^2 + (-8)^2} = \sqrt{100} = 10$; \quad $M(1, -1)$.
+
+c) $d = \sqrt{3^2 + 3^2} = \sqrt{18} = 3\sqrt{2} \approx \num{4,24}$; \quad
+$M\left(\frac{3}{2}, \frac{3}{2}\right)$.
+
+En b) el cuidado está en las restas con negativos: $4 - (-2) = 6$ y $-5 - 3 = -8$.
+\end{solucion}
+
+% Ejercicio: geometria-analitica-10-041
+\pregunta[1.5] Los vértices de un triángulo son $P(1, 1)$, $Q(5, 1)$ y $R(3, 5)$. Calcula la
+longitud de sus tres lados, el perímetro, y decide si el triángulo es equilátero, isósceles o
+escaleno. Justifica.
+\begin{solucion}[5.5cm]
+$PQ = \sqrt{4^2 + 0^2} = 4$; \quad $QR = \sqrt{(-2)^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$; \quad
+$PR = \sqrt{2^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$.
+
+Perímetro: $4 + 4\sqrt{5} \approx \num{12,94}$.
+
+Es \textbf{isósceles}: dos lados iguales ($QR = PR$) y el tercero distinto. A ojo parece
+equilátero, y no lo es: $2\sqrt{5} \approx \num{4,47}$, cerca de $4$ pero no igual. Por eso se
+calcula en vez de mirar.
+\end{solucion}
+
+% Ejercicio: coordenadas-11-005
+\pregunta[1] Un dron de rescate sale del punto $(2, -1)$ y debe llegar a $(14, 4)$
+(coordenadas en km). a) ¿Qué distancia recorre en línea recta? b) Debe reportarse a mitad de
+camino: ¿en qué punto? c) Si vuela a \qty{52}{km/h}, ¿cuánto tarda en llegar?
+\begin{solucion}[5cm]
+a) $d = \sqrt{12^2 + 5^2} = \sqrt{169} = \qty{13}{km}$.
+
+b) El punto medio: $\left(\frac{2 + 14}{2},\ \frac{-1 + 4}{2}\right) = (8\,;\ \num{1,5})$.
+
+c) $t = \frac{13}{52} = \num{0,25}$ h $= 15$ min.
+
+Nota: el punto medio es el punto del recorrido, no la mitad del tiempo por casualidad; como la
+rapidez es constante, aquí coinciden.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

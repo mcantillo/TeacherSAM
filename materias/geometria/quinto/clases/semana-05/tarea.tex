@@ -1,0 +1,84 @@
+% =====================================================================
+% Tarea -- Geometría 5° -- Trimestre I -- Semana 05
+% Se deja el lun 28 sep. (sesión 004) y se revisa la sesión siguiente. Total: 5 puntos.
+% Ejercicios del banco: plano-cartesiano-5.py (015, 016, 017 -- nuevos, semana 05) y
+% ubicacion-5.py (011, reutilizado).
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-ubicacion}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea: ejes, origen y cuadrantes}
+\grado{5°}
+\periodo{I}
+
+% DBA: matematicas grado 5 · DBA 7 — Identifica, describe y representa figuras
+% bidimensionales, y establece relaciones entre ellas usando sistemas de coordenadas.
+% Evidencias: ubicar y leer puntos en el plano cartesiano (puntos 1 a 3) y usar las
+% coordenadas para describir una figura bidimensional (punto 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Dibuja los dos ejes en tu cuaderno cuadriculado, marca el origen y numera de
+$-6$ a $6$ en cada eje. Recuerda: primero se camina en horizontal y después en vertical.
+Puedes consultar la \refguia{tema:plano}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: plano-cartesiano-5-015
+\pregunta[1.5] Di en qué cuadrante está cada punto: $A(3, 4)$, $B(-2, 5)$, $C(-4, -1)$ y
+$D(6, -3)$. Ubícalos en tu dibujo y explica en qué te fijaste para decidirlo.
+\begin{solucion}[4.5cm]
+$A$ en el I, $B$ en el II, $C$ en el III y $D$ en el IV.
+
+Basta mirar los dos signos: $(+,+)$ es el I, $(-,+)$ el II, $(-,-)$ el III y $(+,-)$ el IV.
+Los cuadrantes se numeran empezando arriba a la derecha y girando al contrario de las
+manecillas del reloj.
+\end{solucion}
+
+% Ejercicio: plano-cartesiano-5-016
+\pregunta[1.5] ¿En qué cuadrante están los puntos $E(0, -4)$, $F(-5, 0)$ y el origen? Si crees
+que alguno no está en ninguno, di dónde está.
+\begin{solucion}[4.5cm]
+Ninguno de los tres está en un cuadrante: están \emph{sobre} los ejes.
+
+$E$ está en el eje $y$ (porque su $x$ es 0), $F$ está en el eje $x$ (porque su $y$ es 0) y el
+origen $(0,0)$ es el punto donde se cruzan los dos ejes. Los ejes son la frontera entre
+cuadrantes y no pertenecen a ninguno.
+\end{solucion}
+
+% Ejercicio: plano-cartesiano-5-017
+\pregunta[1] Juan dice: «$(-3, 7)$ y $(7, -3)$ son el mismo punto, porque tienen los mismos
+números». Ubica los dos en el plano y explica por qué se equivoca.
+\begin{solucion}[4.5cm]
+No son el mismo punto.
+
+En $(-3, 7)$ se camina 3 a la izquierda y 7 hacia arriba: queda en el cuadrante II. En
+$(7, -3)$ se camina 7 a la derecha y 3 hacia abajo: queda en el cuadrante IV.
+
+En una pareja ordenada importa el orden: el primer número siempre es el horizontal.
+\end{solucion}
+
+% Ejercicio: ubicacion-5-011
+\pregunta[1] Tres vértices de un rectángulo son $(1, 1)$, $(5, 1)$ y $(5, 4)$. ¿Cuál es el
+cuarto vértice? ¿Cuánto miden la base y la altura?
+\begin{solucion}[4cm]
+El cuarto vértice es $(1, 4)$.
+
+La base mide 4 unidades (de $x = 1$ a $x = 5$) y la altura, 3 (de $y = 1$ a $y = 4$).
+
+Para hallarlo sin adivinar: el cuarto vértice comparte la $x$ con uno de los que ya están y la
+$y$ con otro.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

@@ -1,0 +1,109 @@
+% =====================================================================
+% Taller -- Cálculo 11° -- Trimestre I -- Semana 05 (sesión 012, lun 28 sep.)
+% Se trabaja en parejas en clase y se recoge al final. Total: 5 puntos.
+% Ejercicios del banco (recursos/banco/matematicas/intervalos.py), todos reutilizados.
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-numeros-reales}
+
+\tipodocumento{Taller}
+\asignatura{Cálculo}
+\titulo{Taller: de la desigualdad al intervalo}
+\grado{11°}
+\periodo{I}
+
+% DBA: matematicas grado 11 · DBA 1 — Utiliza las propiedades de los números (naturales,
+% enteros, racionales y reales) y sus relaciones y operaciones para construir y comparar los
+% distintos sistemas numéricos. Evidencia: «construye representaciones de los conjuntos
+% numéricos y establece relaciones acordes con sus propiedades» (todos los puntos: cada
+% intervalo se escribe y se dibuja en la recta real).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+En parejas, en clase. \textbf{Cada punto lleva su dibujo en la recta real}: sin el dibujo, el
+punto vale la mitad. Puedes consultar la \refguia{tema:intervalos}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: intervalos-003
+\pregunta[0.5] Escribe en forma de intervalo y representa en la recta real: $x \ge 9$.
+\espacio{2cm}
+\begin{solucion}
+$[9, \infty)$. Punto relleno en 9 (el 9 sí cumple $x \ge 9$) y la recta sombreada hacia la
+derecha. El $\infty$ va con paréntesis siempre.
+\end{solucion}
+
+% Ejercicio: intervalos-004
+\pregunta[0.5] Escribe en forma de intervalo y representa en la recta real: $x < 0$ y $x > -8$.
+\espacio{2cm}
+\begin{solucion}
+$(-8, 0)$: los números que cumplen las dos condiciones a la vez están entre $-8$ y $0$, sin
+incluir ninguno de los dos extremos. Dos puntos vacíos y la franja del medio sombreada.
+\end{solucion}
+
+% Ejercicio: intervalos-002
+\pregunta[0.75] Escribe en forma de intervalo y representa en la recta real: $x < -10$ y
+$x > 3$.
+\espacio{2.5cm}
+\begin{solucion}
+$\varnothing$ (ningún número cumple las dos). Al dibujar las dos condiciones una encima de la
+otra se ve que no hay ninguna franja con dos rayas: un número no puede ser al mismo tiempo
+menor que $-10$ y mayor que $3$. Ojo: si el enunciado dijera «o» en vez de «y», la respuesta
+sería $(-\infty, -10) \cup (3, \infty)$.
+\end{solucion}
+
+% Ejercicio: intervalos-005
+\pregunta[0.75] Escribe en forma de intervalo y representa en la recta real:
+$x \le \frac{2}{3}$ o $x > \frac{3}{2}$.
+\espacio{2.5cm}
+\begin{solucion}
+$\left(-\infty, \frac{2}{3}\right] \cup \left(\frac{3}{2}, \infty\right)$. Corchete en
+$\frac{2}{3}$ porque la desigualdad lo incluye; paréntesis en $\frac{3}{2}$ porque no. Queda un
+hueco entre $\frac{2}{3}$ y $\frac{3}{2}$, así que el resultado se deja con el $\cup$ puesto:
+no se puede escribir como un solo intervalo.
+\end{solucion}
+
+% Ejercicio: intervalos-011
+\pregunta[0.5] Expresa el intervalo $[-2, 0)$ como una desigualdad en términos de $x$.
+\espacio{1.5cm}
+\begin{solucion}
+$-2 \le x < 0$. El corchete de la izquierda se vuelve $\le$ y el paréntesis de la derecha, $<$.
+\end{solucion}
+
+% Ejercicio: intervalos-012
+\pregunta[0.5] Expresa el intervalo $(-4\,;\ 4{,}1]$ como una desigualdad en términos de $x$.
+\espacio{1.5cm}
+\begin{solucion}
+$-4 < x \le 4{,}1$.
+\end{solucion}
+
+% Ejercicio: intervalos-013
+\pregunta[0.5] Expresa el intervalo $(-\infty, 3)$ como una desigualdad en términos de $x$.
+\espacio{1.5cm}
+\begin{solucion}
+$x < 3$. Del lado del infinito no se escribe nada: no hay ninguna cota por abajo.
+\end{solucion}
+
+% Ejercicio: intervalos-014
+\pregunta[1] Expresa el intervalo $(-\infty, \infty)$ como una desigualdad en términos de $x$.
+Después explica por qué sus dos extremos llevan paréntesis y no corchete.
+\espacio{3cm}
+\begin{solucion}
+$-\infty < x < \infty$: son todos los números reales, $\mathbb{R}$.
+
+Los paréntesis no son un capricho de notación. El corchete significa «este extremo es un
+número del conjunto», y $\infty$ no es un número: es una manera de decir «esto no se acaba por
+ese lado». Como no hay ningún número que meter, no hay nada que encerrar con corchete.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
