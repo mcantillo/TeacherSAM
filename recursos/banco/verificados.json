@@ -21065,6 +21065,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/semejanza-escala-5.py"
  },
+ "semejanza-triangulos-9-001": {
+  "huella": "05619853fce89290",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/semejanza-triangulos-9.py"
+ },
+ "semejanza-triangulos-9-002": {
+  "huella": "f5740f80d0f99c40",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/semejanza-triangulos-9.py"
+ },
+ "semejanza-triangulos-9-003": {
+  "huella": "7ebf0a878162e6de",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/semejanza-triangulos-9.py"
+ },
+ "semejanza-triangulos-9-004": {
+  "huella": "f839a4c94f4a3df5",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/semejanza-triangulos-9.py"
+ },
  "signos-agrupacion-8-001": {
   "huella": "6502fd3a81813e08",
   "estado": "verificado",
@@ -24664,6 +24688,42 @@
   "estado": "verificado",
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/valores-trigonometricos-10.py"
+ },
+ "vectores-10-001": {
+  "huella": "431f963d1dc53403",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
+ },
+ "vectores-10-002": {
+  "huella": "93a8bc5b49d3047b",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
+ },
+ "vectores-10-003": {
+  "huella": "f195f7ac5cd3aaaa",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
+ },
+ "vectores-10-004": {
+  "huella": "c5c4a20db9d05031",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
+ },
+ "vectores-10-005": {
+  "huella": "15917f77bb3065a1",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
+ },
+ "vectores-10-006": {
+  "huella": "cfbc3a07495f0a92",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/vectores-10.py"
  },
  "vistas-7-001": {
   "huella": "5e0179a17e713664",
