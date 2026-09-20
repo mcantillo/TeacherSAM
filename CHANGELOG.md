@@ -4,6 +4,23 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **Paquetes de la semana 04 de Física 10° y Geometría 9°** (los del jueves 24):
+  - **Física 10°**, sesiones 007 y 008 (100 min cada una): `clase.tex` de las dos, con la
+    demostración de la cuerda que abre el tema —dos estudiantes halando con la misma fuerza
+    en tres direcciones distintas y tres resultados— más `taller.tex` (jueves) y `tarea.tex`
+    (viernes), de 5 puntos cada uno. Regla de la clase: **dibujar el vector antes de
+    calcular**, porque la calculadora no sabe en qué cuadrante estamos.
+  - **Geometría 9°**, sesión 004 (40 min): `clase.tex` con los tres criterios (AA, LAL, LLL)
+    y el cierre del hilo —la sombra del árbol es el método de Eratóstenes— y `tarea.tex` de
+    5 puntos. La tarea exige nombrar el criterio: «la respuesta numérica sola vale la mitad».
+- **Diez ejercicios nuevos en dos archivos de banco que no existían:**
+  `recursos/banco/fisica/vectores-10.py` (6: componentes, cuadrante, resultante
+  perpendicular, suma de tres por componentes, el rango de la neta entre 10 y 70 N, y el
+  error de sumar magnitudes y ángulos) y
+  `recursos/banco/matematicas/semejanza-triangulos-9.py` (4: LLL, Thales como AA, la sombra
+  del árbol, y el verdadero/falso que incluye el error del módulo de recursos). El banco no
+  tenía **nada** de vectores ni de criterios de semejanza en triángulos.
+
 - **Paquete de la semana 04 de Trigonometría 10°**, el más grande del curso: cuatro sesiones
   (013 a 016) en un solo `clase.tex`, más `taller.tex` y `tarea.tex` de 5 puntos cada uno.
   El martes, las seis razones a partir de dos lados; el jueves, el triángulo auxiliar para

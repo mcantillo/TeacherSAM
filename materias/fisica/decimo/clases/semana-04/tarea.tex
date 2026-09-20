@@ -1,0 +1,85 @@
+% =====================================================================
+% Tarea -- Física 10° -- Trimestre I -- Semana 04
+% Se deja el vie 25 sep. (sesión 008) y se revisa el jueves siguiente. Total: 5 puntos.
+% Hilo conductor del trimestre I: «De la inercia a los Principia»
+% Ejercicios: recursos/banco/fisica/vectores-10.py (004, 006; nuevos)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-leyes-newton}
+
+\tipodocumento{Tarea}
+\asignatura{Física}
+\titulo{Tarea: suma por componentes}
+\grado{10°}
+\periodo{I}
+
+% DBA: naturales grado 10 · DBA 1 — Comprende que el reposo o el movimiento rectilíneo
+% uniforme se presentan cuando las fuerzas aplicadas sobre el sistema se anulan entre ellas, y
+% que en presencia de fuerzas resultantes no nulas se producen cambios de velocidad.
+% Evidencias: hallar la fuerza neta de varias fuerzas concurrentes (preguntas 1 y 3) y
+% distinguir suma vectorial de suma aritmética (pregunta 2).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se revisa el jueves. Usa la \textbf{tabla de componentes}: una fila por
+vector, una columna para $F_x$ y otra para $F_y$. Dibuja siempre antes de calcular.
+Magnitudes y ángulos a una décima, con la calculadora en modo grados.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: vectores-10-004
+\pregunta[2] Sobre un cuerpo actúan tres fuerzas: $\vec{F_1}$ de \qty{20}{N} a $0^\circ$,
+$\vec{F_2}$ de \qty{30}{N} a $90^\circ$ y $\vec{F_3}$ de \qty{10}{N} a $180^\circ$. Halla la
+fuerza neta sumando por componentes: primero $\sum F_x$ y $\sum F_y$, después la magnitud y el
+ángulo.
+\begin{solucion}[6cm]
+$\sum F_x = 20 - 10 = \qty{10}{N}$ \quad y \quad $\sum F_y = \qty{30}{N}$.
+
+Magnitud: $\sqrt{10^2 + 30^2} = \sqrt{1000} \approx \qty{31,6}{N}$.
+
+Ángulo: $\arctg\frac{30}{10} \approx 71{,}6^\circ$.
+
+Sumar por componentes evita dibujar y es lo que se usa de aquí en adelante.
+\end{solucion}
+
+% Ejercicio: vectores-10-006
+\pregunta[2] Julián sumó una fuerza de \qty{60}{N} a $30^\circ$ con otra de \qty{80}{N} a
+$120^\circ$ y escribió que la neta mide $60 + 80 = \qty{140}{N}$ a $150^\circ$. Encuentra los
+dos errores, haz la suma correcta por componentes y explica en una frase qué se sumó mal.
+\begin{solucion}[6.5cm]
+Julián sumó magnitudes y ángulos como si fueran números sueltos.
+
+Por componentes:
+$\sum F_x = 60\cos 30^\circ + 80\cos 120^\circ \approx 51{,}96 - 40 = \qty{11,96}{N}$ \quad y
+\quad $\sum F_y = 60\sen 30^\circ + 80\sen 120^\circ \approx 30 + 69{,}28 = \qty{99,28}{N}$.
+
+La neta mide $\approx \qty{100,0}{N}$ a $\approx 83{,}1^\circ$.
+
+Los ángulos nunca se suman, y las magnitudes solo si las dos fuerzas van en el mismo sentido
+(aquí forman $90^\circ$ entre ellas).
+\end{solucion}
+
+\pregunta[1] Dibuja tres fuerzas cuya suma vectorial sea cero. Explica, sin fórmulas, cómo se
+ve eso en el dibujo y qué le pasa a un cuerpo sobre el que actúan.
+\begin{solucion}[5cm]
+Cualquier terna que, puesta cabeza con cola, cierre un triángulo. Por ejemplo, tres fuerzas de
+la misma magnitud separadas $120^\circ$ entre sí.
+
+En el dibujo se ve que al recorrer los tres vectores se vuelve al punto de partida: no hay
+flecha resultante.
+
+Al cuerpo no le pasa nada nuevo: si estaba quieto sigue quieto, y si iba en línea recta con
+rapidez constante, sigue igual. Eso es justo lo que dice la primera ley de Newton.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

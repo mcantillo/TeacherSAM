@@ -1,0 +1,88 @@
+% =====================================================================
+% Taller -- Física 10° -- Trimestre I -- Semana 04
+% Se hace en clase el jue 24 sep. (sesión 007), unos 25 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «De la inercia a los Principia»
+% Ejercicios: recursos/banco/fisica/vectores-10.py (001-003, 005; nuevos)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-leyes-newton}
+
+\tipodocumento{Taller}
+\asignatura{Física}
+\titulo{Taller: vectores y componentes}
+\grado{10°}
+\periodo{I}
+
+% DBA: naturales grado 10 · DBA 1 — Comprende que el reposo o el movimiento rectilíneo
+% uniforme se presentan cuando las fuerzas aplicadas sobre el sistema se anulan entre ellas.
+% Evidencias: descomponer y recomponer vectores (preguntas 1 y 2) y hallar la resultante de
+% fuerzas concurrentes (preguntas 3 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase. Necesitas regla, transportador y calculadora en modo grados
+(\textsc{deg}). \textbf{Dibuja siempre el vector antes de calcular}: si el número no concuerda
+con el dibujo, el número está mal. Magnitudes y ángulos a una décima. Puedes consultar la
+\refguia{tema:vectores}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: vectores-10-001
+\pregunta[1] Una fuerza de \qty{50}{N} forma un ángulo de $37^\circ$ con el eje $x$ positivo.
+Calcula sus componentes $F_x$ y $F_y$, a una décima.
+\begin{solucion}[3cm]
+$F_x = 50\cos 37^\circ \approx \qty{39,9}{N}$ y $F_y = 50\sen 37^\circ \approx \qty{30,1}{N}$.
+
+Comprobación: $\sqrt{39{,}9^2 + 30{,}1^2} \approx 50$.
+\end{solucion}
+
+% Ejercicio: vectores-10-002
+\pregunta[1.5] Un vector tiene componentes $v_x = \qty{-6}{m/s}$ y $v_y = \qty{8}{m/s}$. Halla
+su magnitud y el ángulo que forma con el eje $x$ positivo (medido en sentido antihorario).
+¿En qué cuadrante está?
+\begin{solucion}[4.5cm]
+Magnitud: $\sqrt{(-6)^2 + 8^2} = \sqrt{100} = \qty{10}{m/s}$.
+
+Ángulo: la componente $x$ es negativa y la $y$ positiva, así que el vector está en el
+\textbf{segundo cuadrante} y el ángulo es $\approx 126{,}9^\circ$.
+
+Si se usa la calculadora sin mirar los signos sale $-53{,}1^\circ$, que apunta justo al lado
+contrario. Por eso se dibuja primero.
+\end{solucion}
+
+% Ejercicio: vectores-10-003
+\pregunta[1.5] Sobre una caja actúan dos fuerzas perpendiculares: \qty{30}{N} hacia el este y
+\qty{40}{N} hacia el norte. Halla la fuerza neta (magnitud y dirección) y dibuja la suma con
+el método del paralelogramo.
+\begin{solucion}[5cm]
+$F = \sqrt{30^2 + 40^2} = \sqrt{2500} = \qty{50}{N}$.
+
+El ángulo con el este es $\arctg\frac{40}{30} \approx 53{,}1^\circ$ hacia el norte.
+
+Es el triángulo $3$-$4$-$5$ de siempre, en newtons.
+\end{solucion}
+
+% Ejercicio: vectores-10-005
+\pregunta[1] Dos fuerzas de \qty{30}{N} y \qty{40}{N} actúan sobre el mismo cuerpo. Sin hacer
+cuentas, ¿entre qué valores puede estar la magnitud de la fuerza neta? Da un ejemplo de cada
+extremo y explica por qué \qty{70}{N} no siempre es la respuesta.
+\begin{solucion}[4.5cm]
+Entre \qty{10}{N} y \qty{70}{N}.
+
+El máximo, \qty{70}{N}, se da si las dos apuntan en el mismo sentido; el mínimo,
+$40 - 30 = \qty{10}{N}$, si apuntan en sentidos opuestos. Cualquier valor intermedio
+corresponde a algún ángulo entre ellas: con $90^\circ$, por ejemplo, da \qty{50}{N}.
+
+Sumar \qty{70}{N} siempre es el error de tratar los vectores como si fueran números sueltos.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

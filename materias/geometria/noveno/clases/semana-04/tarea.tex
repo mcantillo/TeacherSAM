@@ -1,0 +1,95 @@
+% =====================================================================
+% Tarea -- Geometría 9° -- Trimestre I -- Semana 04
+% Se deja el jue 24 sep. (sesión 004) y se revisa el jueves siguiente. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Eratóstenes mide la Tierra con una sombra»
+% Ejercicios: recursos/banco/matematicas/semejanza-triangulos-9.py (001-004, nuevos)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-semejanza-medicion}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea: criterios de semejanza}
+\grado{9°}
+\periodo{I}
+
+% DBA: matematicas grado 9 · DBA 6 — Identifica relaciones de congruencia y semejanza entre
+% las formas geométricas que configuran el diseño de un objeto. Evidencias: «Utiliza criterios
+% para argumentar la semejanza de dos triángulos» (preguntas 1, 2 y 4) y «Describe y justifica
+% procesos de medición de longitudes» (pregunta 3).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se revisa el jueves. En cada punto \textbf{di qué criterio usaste} (AA, LAL o
+LLL): la respuesta numérica sola vale la mitad. Haz el dibujo siempre. Puedes consultar la
+\refguia{tema:semejanza}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: semejanza-triangulos-9-001
+\pregunta[1] Los triángulos $ABC$ y $DEF$ tienen $AB = 6$, $BC = 9$, $CA = 12$ y $DE = 4$,
+$EF = 6$, $FD = 8$. ¿Son semejantes? Si lo son, di por cuál criterio y cuál es la razón de
+semejanza.
+\begin{solucion}[3.5cm]
+Sí, por el criterio \textbf{LLL}: los tres pares de lados están en la misma razón,
+$\frac{6}{4} = \frac{9}{6} = \frac{12}{8} = \frac{3}{2}$.
+
+La razón de semejanza de $ABC$ a $DEF$ es $\frac{3}{2}$ (o $\frac{2}{3}$ si se mira al revés).
+\end{solucion}
+
+% Ejercicio: semejanza-triangulos-9-002
+\pregunta[1.5] En el triángulo $ABC$, el segmento $DE$ es paralelo al lado $BC$, con $D$ sobre
+$AB$ y $E$ sobre $AC$. Se sabe que $AD = 4$, $DB = 6$ y $AE = 5$. Explica por qué $ADE$ y
+$ABC$ son semejantes y calcula $EC$.
+\begin{solucion}[5cm]
+Son semejantes por el criterio \textbf{AA}: comparten el ángulo en $A$, y como
+$DE \parallel BC$, los ángulos $ADE$ y $ABC$ son correspondientes e iguales.
+
+La razón es $\frac{AD}{AB} = \frac{4}{10} = \frac{2}{5}$, luego $\frac{AE}{AC} = \frac{2}{5}$
+y $AC = \frac{5 \cdot 5}{2} = \num{12,5}$.
+
+Por tanto $EC = \num{12,5} - 5 = \num{7,5}$.
+\end{solucion}
+
+% Ejercicio: semejanza-triangulos-9-003
+\pregunta[1] A la misma hora, un poste de \qty{4}{m} proyecta una sombra de \qty{6}{m} y un
+árbol proyecta una sombra de \qty{21}{m}. ¿Cuánto mide el árbol? Explica qué criterio de
+semejanza permite plantear la proporción.
+\begin{solucion}[4cm]
+Los rayos del Sol llegan paralelos, así que el poste y el árbol forman con su sombra dos
+triángulos rectángulos con el mismo ángulo de elevación: son semejantes por \textbf{AA}.
+
+Entonces $\frac{h}{21} = \frac{4}{6}$ y $h = \qty{14}{m}$.
+
+Es exactamente el método con el que Tales midió la pirámide y con el que se mide cualquier
+altura inalcanzable.
+\end{solucion}
+
+% Ejercicio: semejanza-triangulos-9-004
+\pregunta[1.5] Decide si cada afirmación es verdadera o falsa y justifica.
+\begin{opciones*}(1)
+  \item Dos triángulos con los tres ángulos iguales son congruentes.
+  \item Dos triángulos equiláteros cualesquiera son semejantes.
+  \item Dos triángulos rectángulos con un ángulo agudo igual son semejantes.
+\end{opciones*}
+\begin{solucion}[5.5cm]
+a) \textbf{Falsa}: tres ángulos iguales dan \emph{semejanza}, no congruencia; un triángulo
+$3$-$4$-$5$ y uno $6$-$8$-$10$ tienen los mismos ángulos y distinto tamaño.
+
+b) \textbf{Verdadera}: todos sus ángulos miden $60^\circ$, así que cumplen AA (y también LLL,
+porque los tres lados están en la misma razón).
+
+c) \textbf{Verdadera}: tienen el ángulo recto y el agudo dado, luego el tercero también
+coincide; es AA.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
