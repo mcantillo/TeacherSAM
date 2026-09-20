@@ -55,3 +55,80 @@ def _():
     s1, s2 = Segment(Point(0, 0), Point(3, 0)), Segment(Point(5, 1), Point(7, 3))
     assert s1.intersection(s2) == []
     assert Line(s1).intersection(Line(s2)) == [Point(4, 0)]
+
+
+# --- Añadidos el 2026-09-20 para el taller de la sesión 004 (semana 04) --------------
+# El 001 y el 003 los usa la guía. Estos cuatro sostienen el taller sin repetirlos; todos
+# con coordenadas, para que el dibujo del taller y la comprobación digan lo mismo.
+
+VIA = {"riel A": Line(Point(0, 0), Point(9, 0)), "riel B": Line(Point(0, 3), Point(9, 3)),
+       "durmiente": Line(Point(2, -1), Point(2, 4)), "cruce": Line(Point(0, -1), Point(6, 5))}
+
+
+@ejercicio(id="lineas-4-010", tipo="conceptual", dificultad=1, fuente=FUENTE,
+           enunciado=r"En el dibujo de la vía del tren hay cuatro rectas: los dos rieles "
+                     r"($A$ y $B$), un durmiente y el camino que cruza. Di si cada pareja es de "
+                     r"rectas paralelas, perpendiculares o secantes no perpendiculares: "
+                     r"riel $A$ y riel $B$; riel $A$ y durmiente; riel $B$ y durmiente; "
+                     r"riel $A$ y cruce.",
+           respuesta=r"Riel $A$ y riel $B$: paralelas (por eso el tren no se sale). "
+                     r"Riel $A$ y durmiente: perpendiculares. Riel $B$ y durmiente: "
+                     r"perpendiculares. Riel $A$ y cruce: secantes, porque se cortan pero no "
+                     r"forman ángulo recto.",
+           notas="Dibujo: riel A (0,0)–(9,0); riel B (0,3)–(9,3); durmiente (2,-1)–(2,4); "
+                 "cruce (0,-1)–(6,5).",
+           **COMUN)
+def _():
+    assert [relacion(VIA["riel A"], VIA["riel B"]), relacion(VIA["riel A"], VIA["durmiente"]),
+            relacion(VIA["riel B"], VIA["durmiente"]), relacion(VIA["riel A"], VIA["cruce"])] == \
+        ["paralelas", "perpendiculares", "perpendiculares", "secantes"]
+
+
+@ejercicio(id="lineas-4-011", tipo="conceptual", dificultad=1, fuente=FUENTE,
+           enunciado=r"Los dos rieles son paralelos y el durmiente es perpendicular al riel $A$. "
+                     r"Sin mirar el dibujo, ¿el durmiente es perpendicular también al riel $B$? "
+                     r"Explica por qué.",
+           respuesta=r"Sí. Si dos rectas son paralelas, van en la misma dirección; una recta que "
+                     r"forma ángulo recto con una de ellas forma el mismo ángulo recto con la "
+                     r"otra. Por eso los durmientes quedan bien puestos con los dos rieles a la "
+                     r"vez.",
+           **COMUN)
+def _():
+    assert VIA["riel A"].is_parallel(VIA["riel B"])
+    assert VIA["durmiente"].is_perpendicular(VIA["riel A"])
+    assert VIA["durmiente"].is_perpendicular(VIA["riel B"])
+
+
+@ejercicio(id="lineas-4-012", tipo="calculo", dificultad=2, fuente=FUENTE,
+           enunciado=r"Con la regla y la escuadra, traza en tu cuaderno: a) una recta paralela "
+                     r"al riel $A$ que pase por el punto $(1, 5)$; b) una recta perpendicular al "
+                     r"riel $A$ que pase por el punto $(7, 1)$. Después di por qué punto del "
+                     r"riel $A$ pasa la recta de la parte b).",
+           respuesta=r"a) Una recta horizontal por $(1, 5)$: pasa también por $(9, 5)$, por "
+                     r"ejemplo. b) Una recta vertical por $(7, 1)$; corta al riel $A$ en el "
+                     r"punto $(7, 0)$. Al ser perpendicular, lo corta «en la esquina», formando "
+                     r"cuatro ángulos rectos.",
+           notas="Mismo dibujo del 010.",
+           **COMUN)
+def _():
+    A = VIA["riel A"]
+    par = A.parallel_line(Point(1, 5))
+    per = A.perpendicular_line(Point(7, 1))
+    assert par.is_parallel(A) and par.contains(Point(9, 5))
+    assert per.is_perpendicular(A) and per.intersection(A) == [Point(7, 0)]
+
+
+@ejercicio(id="lineas-4-013", tipo="conceptual", dificultad=2, fuente=FUENTE,
+           enunciado=r"Fogg dibuja un cuadrilátero con vértices $P(0, 0)$, $Q(6, 0)$, "
+                     r"$R(6, 4)$ y $S(0, 4)$. ¿Qué parejas de lados son paralelas? ¿Qué parejas "
+                     r"son perpendiculares? ¿Cómo se llama esa figura?",
+           respuesta=r"$PQ$ es paralelo a $SR$, y $QR$ es paralelo a $PS$. Cada lado horizontal "
+                     r"es perpendicular a cada lado vertical. Como tiene los cuatro ángulos "
+                     r"rectos y los lados opuestos iguales, es un \textbf{rectángulo}.",
+           notas="Se retoma en el tema 3 (cuadriláteros).",
+           **COMUN)
+def _():
+    P, Q, R, S = Point(0, 0), Point(6, 0), Point(6, 4), Point(0, 4)
+    PQ, QR, SR, PS = Line(P, Q), Line(Q, R), Line(S, R), Line(P, S)
+    assert PQ.is_parallel(SR) and QR.is_parallel(PS)
+    assert PQ.is_perpendicular(QR) and SR.is_perpendicular(PS)

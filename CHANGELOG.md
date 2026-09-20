@@ -4,6 +4,22 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **Semana 04 completa en los 16 cursos.** Los tres últimos paquetes:
+  - **Geometría 4°** (mié 23): la vía del tren — dos rieles paralelos y los durmientes
+    perpendiculares — y el error de «no se tocan, entonces son paralelas». Taller de 5 puntos.
+  - **Geometría 3°** (vie 25): abiertas y cerradas con una cuerda en el piso, y el
+    descubrimiento de que una línea cerrada parte el papel en tres (dentro, fuera y borde).
+    Taller de 5 puntos.
+  - **Geometría 11°** (vie 25): el punto medio dicho como lo que es, un promedio; hallar un
+    extremo conocido el medio; y la fracción del camino, con el barco de (0,0) a (12,9).
+    Tarea de 5 puntos.
+- **Once ejercicios nuevos**, todos comprobables con código: `lineas-4-010…013` (la vía del
+  tren y el rectángulo), `lineas-3-010…012` (caminos abiertos y cerrados, dentro/fuera/borde,
+  y «el papel se acabó» como falsa razón para cerrar) y `coordenadas-11-010…013` (extremo a
+  partir del medio, división en cuatro, fracción del camino, y el error de signo). **Ninguno
+  quedó manual-pendiente:** los de primaria se comprueban con coordenadas, igual que los que
+  ya había, así que no hace falta que la docente apruebe respuestas a mano.
+
 - **Paquetes de la semana 04 de Física 10° y Geometría 9°** (los del jueves 24):
   - **Física 10°**, sesiones 007 y 008 (100 min cada una): `clase.tex` de las dos, con la
     demostración de la cuerda que abre el tema —dos estudiantes halando con la misma fuerza

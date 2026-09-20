@@ -8,8 +8,8 @@ banco de ejercicios están aparte, en `recursos/banco/PENDIENTES.md`.
 
 ## 0. Urgente — desbloquea clases de esta semana
 
-- [ ] **Faltan 3 paquetes de la semana 04**: Geometría 4° (miércoles), Geometría 3° y
-      Geometría 11° (viernes). **Ojo con 3° y 4°:** su
+- [x] **Semana 04 completa en los 16 cursos** (2026-09-20). Los PDF los compila `pdfs.yml`
+      al subir; si un push no cambia ningún `.tex`, hay que lanzarlo a mano desde Actions. **Ojo con 3° y 4°:** su
       banco está casi vacío para el grado y en primaria muchos ejercicios son de dibujar o
       recortar, que no se comprueban con código y quedan «manual-pendiente» hasta que la
       docente los apruebe. (clases del 21 al 25 de septiembre): Física 9° y

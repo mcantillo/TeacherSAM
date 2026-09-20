@@ -56,3 +56,66 @@ def lugar(p):
 def _():
     r = {k: lugar(p) for k, p in COSAS.items()}
     assert r == {"Rinrín": "dentro", "la mosca": "fuera", "la flor": "borde", "la hoja": "borde"}
+
+
+# --- Añadidos el 2026-09-20 para el taller de la sesión 004 (semana 04) --------------
+# El 002 y el 004 los usa la guía. Estos tres son del taller: abiertas y cerradas, y el
+# borde como frontera. Mismas coordenadas en el dibujo y en la comprobación.
+
+CAMINOS = {"A": [Point(0, 0), Point(2, 1), Point(4, 0)],
+           "B": [Point(6, 0), Point(8, 2), Point(10, 0), Point(6, 0)],
+           "C": [Point(0, 4), Point(3, 6), Point(6, 4), Point(3, 2), Point(0, 4)],
+           "D": [Point(8, 4), Point(10, 6), Point(12, 4)]}
+
+
+def cerrada(camino):
+    return camino[0] == camino[-1]
+
+
+@ejercicio(id="lineas-3-010", tipo="conceptual", dificultad=1, fuente=FUENTE,
+           enunciado=r"Rinrín dejó cuatro caminos en la arena: $A$, $B$, $C$ y $D$. Mira el "
+                     r"dibujo y escribe al lado de cada letra si el camino es \emph{abierto} o "
+                     r"\emph{cerrado}. Acuérdate: es cerrado si terminas donde empezaste sin "
+                     r"levantar el lápiz.",
+           respuesta=r"$A$: abierto. $B$: cerrado. $C$: cerrado. $D$: abierto.",
+           notas="Dibujo: A (0,0)-(2,1)-(4,0); B (6,0)-(8,2)-(10,0)-(6,0); "
+                 "C (0,4)-(3,6)-(6,4)-(3,2)-(0,4); D (8,4)-(10,6)-(12,4).",
+           **COMUN)
+def _():
+    assert [cerrada(CAMINOS[k]) for k in ("A", "B", "C", "D")] == [False, True, True, False]
+
+
+@ejercicio(id="lineas-3-011", tipo="conceptual", dificultad=2, fuente=FUENTE,
+           enunciado=r"El camino $C$ del dibujo es cerrado. Mamá Rana está en el punto "
+                     r"$(3, 4)$, una hormiga en el punto $(7, 5)$ y una piedrita justo en el "
+                     r"punto $(3, 6)$. ¿Quién está dentro del camino, quién está fuera y quién "
+                     r"está en el borde?",
+           respuesta=r"Mamá Rana está \emph{dentro}, la hormiga está \emph{fuera} y la piedrita "
+                     r"está \emph{en el borde}. Una línea cerrada siempre parte el papel en tres "
+                     r"partes: lo de dentro, lo de fuera y la línea misma.",
+           notas="Dibujo: el mismo camino C del ejercicio anterior, con los tres puntos marcados.",
+           **COMUN)
+def _():
+    C = Polygon(*CAMINOS["C"][:-1])
+    def lugar(p):
+        if any(l.contains(p) for l in C.sides):
+            return "borde"
+        return "dentro" if C.encloses_point(p) else "fuera"
+    assert lugar(Point(3, 4)) == "dentro"
+    assert lugar(Point(7, 5)) == "fuera"
+    assert lugar(Point(3, 6)) == "borde"
+
+
+@ejercicio(id="lineas-3-012", tipo="conceptual", dificultad=2, fuente=FUENTE,
+           enunciado=r"Rinrín dice: «Mi camino $A$ es cerrado, porque el papel se acabó y no "
+                     r"pude seguir». ¿Tiene razón? Explícale con tus palabras qué le falta al "
+                     r"camino $A$ para ser cerrado.",
+           respuesta=r"No tiene razón. Que el papel se acabe no cierra un camino. Al camino $A$ "
+                     r"le falta volver hasta donde empezó: si desde el final $(4, 0)$ dibuja una "
+                     r"línea hasta el comienzo $(0, 0)$, entonces sí queda cerrado y ya se puede "
+                     r"decir qué está dentro y qué está fuera.",
+           **COMUN)
+def _():
+    A = CAMINOS["A"]
+    assert not cerrada(A)
+    assert cerrada(A + [A[0]])

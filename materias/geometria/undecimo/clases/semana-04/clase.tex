@@ -1,0 +1,95 @@
+% =====================================================================
+% Clase -- Geometría 11° -- Trimestre I -- Semana 04
+% Sesión 004 (vie 25 sep., 13:00, 40 min)
+% Tema: Coordenadas cartesianas · Subtema: Punto medio y división de un segmento
+% Hilo conductor del trimestre I: «LORAN: encontrar un barco con dos hipérbolas»
+% Tema 1 de la guía: Coordenadas cartesianas (tema:coordenadas)
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-hiperbola-navegacion}
+
+\tipodocumento{Clase}
+\asignatura{Geometría}
+\titulo{Semana 4: la mitad del camino}
+\grado{11°}
+\periodo{I}
+
+% DBA: matematicas grado 11 · DBA 6 — Modela objetos geométricos en diversos sistemas de
+% coordenadas (cartesiano, polar, esférico) y realiza comparaciones y toma decisiones con
+% respecto a los modelos. Evidencia de esta sesión: «Reconoce y utiliza distintos sistemas de
+% coordenadas para modelar»; el punto medio y la división de un segmento son la herramienta
+% con la que en el tema 2 se define la mediatriz como lugar geométrico.
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  004 & vie 25 sep., 13:00 & 40 & Punto medio y división de un segmento & Se deja tarea\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+Segundo paso del tema 1. La sesión anterior dio la distancia entre dos puntos; esta da el
+punto que está \emph{en la mitad} — y, de paso, el que está a un tercio, o a cualquier
+fracción del camino. Es lo que necesita un barco para saber dónde va, y lo que necesitaremos
+en la sesión 005 para definir la mediatriz sin dibujarla.
+Referencia: \refguia{tema:coordenadas}.
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 004 — viernes 25 de septiembre · 13:00 · 40 min}
+
+\textbf{Objetivo.} Calcular el punto medio de un segmento, hallar un extremo conocido el punto
+medio, y dividir un segmento en partes iguales o en una fracción dada.
+
+\textbf{Materiales.} Tablero cuadriculado; regla; la guía.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0--5 & Dos puntos en el tablero y la pregunta: «¿cuál es el punto que está
+    justo en la mitad?» Casi todos lo señalan bien a ojo. «¿Y cómo lo escribirían con
+    números, sin mirar el dibujo?»\\
+  El promedio & 5--16 & La fórmula es un promedio, y conviene decirlo así: la $x$ del punto
+    medio es el promedio de las dos $x$, y lo mismo con la $y$. $M = \left(\frac{x_1+x_2}{2},
+    \frac{y_1+y_2}{2}\right)$. Comprobación de sentido común: $M$ siempre queda
+    \emph{entre} los dos extremos.\\
+  Al revés & 16--26 & Dado un extremo y el punto medio, hallar el otro extremo: se despeja,
+    $x_2 = 2x_M - x_1$. Ejemplo en el tablero. Este es el que más cuesta y es la pregunta 1
+    de la tarea.\\
+  Fracciones del camino & 26--36 & Partir un segmento en cuatro (dos veces el punto medio)
+    y el caso general: el punto a una fracción $t$ del camino de $A$ a $B$ es
+    $A + t\,(B - A)$. Ejemplo con el barco: de $(0,0)$ a $(12,9)$, un tercio del camino es
+    $(4, 3)$, y son 5 de las 15 millas.\\
+  Cierre & 36--40 & Dejar la tarea. Anuncio: la sesión 005 usa el punto medio y la distancia
+    juntos, para definir la mediatriz como \emph{lugar geométrico} — todos los puntos que
+    equidistan de dos dados.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+\textbf{La comprobación de un segundo.} El punto medio siempre queda entre los dos extremos,
+en las dos coordenadas. Si a alguien le sale una ordenada mayor que las dos originales (o menor
+que las dos), se equivocó en un signo. Es exactamente el caso de la pregunta 4 de la tarea, y
+sirve para todo el año.
+\end{nota}
+
+\begin{nota}
+\textbf{40 minutos son justos.} Si el «al revés» cuesta más de lo previsto, las fracciones del
+camino se pueden dejar solo enunciadas —con el ejemplo del barco— y trabajarlas al inicio de la
+sesión 005: la mediatriz necesita el punto medio, no la división en tercios.
+\end{nota}
+
+\end{document}

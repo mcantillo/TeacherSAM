@@ -77,3 +77,76 @@ def _():
     P, Q = Point(2, -1), Point(14, 4)
     assert P.distance(Q) == 13 and P.midpoint(Q) == Point(8, Rational(3, 2))
     assert Rational(13, 52) * 60 == 15
+
+
+# --- Añadidos el 2026-09-20 para la tarea de la sesión 004 (semana 04) ----------------
+# Los cinco anteriores los usa la guía. Estos cuatro son de la sesión 004: punto medio y
+# división de un segmento.
+
+
+@ejercicio(id="coordenadas-11-010", tipo="calculo", dificultad=1,
+           enunciado=r"El punto medio del segmento $AB$ es $M(2, -1)$ y uno de sus extremos es "
+                     r"$A(-4, 3)$. Halla el otro extremo $B$.",
+           respuesta=r"Si $M$ es el punto medio, $M = \left(\frac{x_A + x_B}{2}, "
+                     r"\frac{y_A + y_B}{2}\right)$, luego $x_B = 2 \cdot 2 - (-4) = 8$ y "
+                     r"$y_B = 2 \cdot (-1) - 3 = -5$. Entonces $B(8, -5)$. Comprobación: el "
+                     r"punto medio de $(-4, 3)$ y $(8, -5)$ es $(2, -1)$.", **COMUN)
+def _():
+    A, M = Point(-4, 3), Point(2, -1)
+    B = Point(2 * M.x - A.x, 2 * M.y - A.y)
+    assert B == Point(8, -5) and A.midpoint(B) == M
+
+
+@ejercicio(id="coordenadas-11-011", tipo="calculo", dificultad=2,
+           enunciado=r"Divide el segmento de extremos $P(-2, 1)$ y $Q(10, 7)$ en cuatro partes "
+                     r"iguales: halla los tres puntos que lo parten. (Sugerencia: empieza por el "
+                     r"punto medio y después parte cada mitad.)",
+           respuesta=r"El punto medio de $PQ$ es $M(4, 4)$. El punto medio de $PM$ es "
+                     r"$(1, \frac{5}{2})$ y el de $MQ$ es $(7, \frac{11}{2})$. Los tres puntos "
+                     r"son $\left(1, \frac{5}{2}\right)$, $(4, 4)$ y "
+                     r"$\left(7, \frac{11}{2}\right)$. Se puede comprobar que los cuatro trozos "
+                     r"miden lo mismo.", **COMUN)
+def _():
+    P, Q = Point(-2, 1), Point(10, 7)
+    M = P.midpoint(Q)
+    M1, M2 = P.midpoint(M), M.midpoint(Q)
+    assert M == Point(4, 4) and M1 == Point(1, Rational(5, 2)) and M2 == Point(7, Rational(11, 2))
+    trozos = [P.distance(M1), M1.distance(M), M.distance(M2), M2.distance(Q)]
+    assert len(set(trozos)) == 1
+
+
+@ejercicio(id="coordenadas-11-012", tipo="calculo", dificultad=2,
+           enunciado=r"Un barco navega en línea recta desde el puerto $A(0, 0)$ hasta la boya "
+                     r"$B(12, 9)$, con las coordenadas en millas náuticas. ¿En qué punto está "
+                     r"cuando ha recorrido un tercio del camino? ¿Y cuánto ha navegado hasta "
+                     r"ahí?",
+           respuesta=r"El punto que está a un tercio es $\left(0 + \frac{12}{3}, "
+                     r"0 + \frac{9}{3}\right) = (4, 3)$. La distancia total es "
+                     r"$\sqrt{12^2 + 9^2} = 15$ millas, así que ha navegado $5$ millas: "
+                     r"justo un tercio. En general, el punto a una fracción $t$ del camino de "
+                     r"$A$ a $B$ es $A + t\,(B - A)$.",
+           notas="Prepara la navegación hiperbólica del tema 4; la fracción del camino es la "
+                 "misma idea que el punto medio con t = 1/2.", **COMUN)
+def _():
+    A, B = Point(0, 0), Point(12, 9)
+    t = Rational(1, 3)
+    P3 = Point(A.x + t * (B.x - A.x), A.y + t * (B.y - A.y))
+    assert P3 == Point(4, 3)
+    assert A.distance(B) == 15 and A.distance(P3) == 5
+
+
+@ejercicio(id="coordenadas-11-013", tipo="argumentacion", dificultad=2,
+           enunciado=r"Para hallar el punto medio de $A(-6, 4)$ y $B(2, -8)$, Daniel escribió "
+                     r"$M\left(\frac{-6 - 2}{2}, \frac{4 + 8}{2}\right) = (-4, 6)$. Encuentra "
+                     r"los dos errores, corrígelo y explica cómo comprobar en un segundo que su "
+                     r"respuesta no podía ser correcta.",
+           respuesta=r"Daniel restó en vez de sumar las abscisas y cambió el signo de $-8$. Lo "
+                     r"correcto es $M\left(\frac{-6 + 2}{2}, \frac{4 - 8}{2}\right) = (-2, -2)$. "
+                     r"Comprobación rápida: el punto medio siempre queda \emph{entre} los dos "
+                     r"extremos, y su $(-4, 6)$ tiene la ordenada por encima de las dos "
+                     r"($4$ y $-8$), lo cual es imposible.", **COMUN)
+def _():
+    A, B = Point(-6, 4), Point(2, -8)
+    M = A.midpoint(B)
+    assert M == Point(-2, -2)
+    assert min(A.y, B.y) <= M.y <= max(A.y, B.y) and not (min(A.y, B.y) <= 6 <= max(A.y, B.y))
