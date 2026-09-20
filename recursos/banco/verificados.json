@@ -12641,6 +12641,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/medidas-con-radicales-8.py"
  },
+ "movimiento-9-001": {
+  "huella": "b35e182b4cc879e9",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/movimiento-9.py"
+ },
+ "movimiento-9-002": {
+  "huella": "0cf4d2be3ee2c0e8",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/movimiento-9.py"
+ },
+ "movimiento-9-003": {
+  "huella": "e12f9deab842e161",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/movimiento-9.py"
+ },
+ "movimiento-9-004": {
+  "huella": "482d15a992680342",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/fisica/movimiento-9.py"
+ },
  "movimiento-circular-10-001": {
   "huella": "f9bac4257dacddf4",
   "estado": "manual-pendiente",
@@ -18434,7 +18458,7 @@
  "plano-cartesiano-5-004": {
   "huella": "bc72ee90d8a08fc4",
   "estado": "manual-pendiente",
-  "fecha": "2026-09-19",
+  "fecha": "2026-09-20",
   "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
  },
  "plano-cartesiano-5-005": {
@@ -18495,6 +18519,24 @@
   "huella": "65a9840de141d18d",
   "estado": "verificado",
   "fecha": "2026-09-19",
+  "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
+ },
+ "plano-cartesiano-5-015": {
+  "huella": "75efd4dc38aac47b",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
+ },
+ "plano-cartesiano-5-016": {
+  "huella": "e727e4e49ba0a0f2",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
+ },
+ "plano-cartesiano-5-017": {
+  "huella": "542234503c5c6b95",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
   "archivo": "recursos/banco/matematicas/plano-cartesiano-5.py"
  },
  "poligonos-4-001": {
