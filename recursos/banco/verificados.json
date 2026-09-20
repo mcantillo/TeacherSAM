@@ -665,6 +665,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
  },
+ "angulos-medicion-6-005": {
+  "huella": "c740659bd5436c52",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
+ },
+ "angulos-medicion-6-006": {
+  "huella": "dc3fcfc155cfe4be",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
+ },
+ "angulos-medicion-6-007": {
+  "huella": "bfac96f5f4f035f7",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
+ },
+ "angulos-medicion-6-008": {
+  "huella": "5309df486dea1d1a",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-medicion-6.py"
+ },
  "angulos-radianes-10-001": {
   "huella": "1a98a1f3b0c5afe2",
   "estado": "verificado",
@@ -9075,6 +9099,30 @@
   "huella": "0b6eeb51d8369310",
   "estado": "verificado",
   "fecha": "2026-09-19",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-040": {
+  "huella": "6c748a1cdccecffc",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-041": {
+  "huella": "7c986dc00ad228b4",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-042": {
+  "huella": "26425c3f30425c1d",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
+ },
+ "geometria-analitica-10-043": {
+  "huella": "f118a7b3257a87e9",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
   "archivo": "recursos/banco/matematicas/geometria-analitica-10.py"
  },
  "graficas-trigonometricas-10-001": {
