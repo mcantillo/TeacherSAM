@@ -1,0 +1,173 @@
+% =====================================================================
+% Clase -- Trigonometría 10° -- Trimestre I -- Semana 04
+% Sesión 013 (mar 22 sep., 11:50, 50 min) · 014 (jue 24, 11:50, 50) ·
+% 015 (jue 24, 13:40, 50) · 016 (vie 25, 10:10, 50)
+% Tema: Razones trigonométricas
+% Hilo conductor del trimestre I: «Medir lo inalcanzable»
+% Tema 1 de la guía: Razones trigonométricas (tema:razones)
+% Todas las medidas en métricas (decisión de la docente, 2026-09-19).
+% Material del docente (no se entrega a los estudiantes).
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-medir-lo-inalcanzable}
+
+\tipodocumento{Clase}
+\asignatura{Trigonometría}
+\titulo{Semana 4: las seis razones}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 4 — Comprende y utiliza funciones para modelar fenómenos
+% periódicos y justifica las soluciones. Evidencias de esta semana: establecer las razones
+% trigonométricas en el triángulo rectángulo y usarlas en los dos sentidos —de los lados al
+% ángulo y del ángulo a los lados—, que es la base de toda la medición indirecta del hilo.
+
+\begin{document}
+
+\encabezado*
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l l X l@{}}
+  \toprule
+  \textbf{Sesión} & \textbf{Fecha} & \textbf{Min} & \textbf{Subtema} & \textbf{Entregables}\\
+  \midrule
+  013 & mar 22 sep., 11:50 & 50 & Razones dados dos lados (con Pitágoras) & ---\\
+  014 & jue 24 sep., 11:50 & 50 & Dada una razón, hallar las otras & ---\\
+  015 & jue 24 sep., 13:40 & 50 & Taller de cálculo de razones & Taller (5 puntos)\\
+  016 & vie 25 sep., 10:10 & 50 & La calculadora científica & Tarea (5 puntos)\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+La semana en que la trigonometría deja de ser geometría y se vuelve cuenta. Tales midió la
+pirámide con una sombra y una proporción; estas cuatro sesiones convierten esa proporción en
+seis números con nombre propio, y enseñan a sacarlos en los dos sentidos.
+Referencia: \refguia{tema:razones}.
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 013 — martes 22 de septiembre · 11:50 · 50 min}
+
+\textbf{Objetivo.} Calcular las seis razones trigonométricas de un ángulo agudo a partir de
+dos lados del triángulo rectángulo, hallando el tercero con Pitágoras.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Enganche & 0--6 & Dos triángulos rectángulos semejantes en el tablero (catetos $3$--$4$ y
+    $6$--$8$). Medir y comparar $\frac{\text{opuesto}}{\text{hipotenusa}}$ en los dos: da
+    lo mismo. \textbf{La razón depende del ángulo, no del tamaño.} Ahí está la idea entera.\\
+  Las seis & 6--22 & Nombrar seno, coseno y tangente respecto de un ángulo agudo
+    \emph{concreto} (marcarlo siempre). Luego cosecante, secante y cotangente como sus
+    inversas. Tabla en el tablero. Insistir en que «opuesto» y «adyacente» dependen de cuál
+    de los dos ángulos agudos se mire.\\
+  Con Pitágoras & 22--40 & Si faltan datos, primero el tercer lado. Ejemplo guiado: catetos
+    $5$ y $12$, hipotenusa $13$, y las seis razones exactas como fracciones. Segundo
+    ejemplo con el curso: $8$ y $15$ (hipotenusa $17$).\\
+  Cierre & 40--50 & Que cada uno escriba las seis razones del \emph{otro} ángulo agudo del
+    triángulo $5$--$12$--$13$ y compare: el seno de uno es el coseno del otro. Anotarlo, se
+    usa en el trimestre II.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 014 — jueves 24 de septiembre · 11:50 · 50 min}
+
+\textbf{Objetivo.} Dada una sola razón de un ángulo agudo, construir un triángulo auxiliar y
+deducir las demás.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  El problema & 0--8 & «Sé que $\tg \theta = \frac{3}{4}$ y nada más. ¿Cuánto vale
+    $\sen \theta$?» Dejar que lo intenten un par de minutos antes de dar la técnica.\\
+  Triángulo auxiliar & 8--26 & La técnica: la razón dice dos lados; se dibuja un triángulo
+    con \emph{esos} números ($3$ opuesto, $4$ adyacente), se halla el tercero con Pitágoras
+    ($5$) y se leen las demás razones. Comprobar con
+    $\sen^2\theta + \cos^2\theta = 1$.\\
+  ¿Y si cambio el tamaño? & 26--36 & Rehacerlo con $6$ y $8$: mismas razones. Conectar con
+    el enganche del martes. Un ángulo, una razón — no importa el triángulo que se dibuje.\\
+  Práctica & 36--50 & Dos o tres casos en el cuaderno, uno con $\sen$ dado y otro con
+    $\cos$ dado, circulando por los puestos. Preparación directa del taller de la tarde.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 015 — jueves 24 de septiembre · 13:40 · 50 min}
+
+\textbf{Objetivo.} Aplicar lo de las dos sesiones anteriores en el taller, con seguimiento
+individual.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  Repaso & 0--8 & Tres preguntas rápidas al aire: ¿qué es el seno? ¿de qué depende una
+    razón? ¿qué se hace si solo dan una razón? Despejar dudas antes de empezar.\\
+  Taller & 8--42 & Taller individual (5 puntos), sin calculadora: todas las respuestas son
+    fracciones exactas. Circular. La pregunta 4 es un error ajeno y suele ser la que más
+    discusión genera.\\
+  Puesta en común & 42--50 & Recoger y resolver en el tablero solo la pregunta 4. Anuncio
+    de la sesión 016: mañana sí entra la calculadora.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+% ---------------------------------------------------------------------
+\seccion{Sesión 016 — viernes 25 de septiembre · 10:10 · 50 min}
+
+\textbf{Objetivo.} Usar la calculadora científica en modo grados para evaluar una razón y,
+al revés, para hallar el ángulo a partir de la razón.
+
+\textbf{Materiales.} \textbf{Calculadora científica} (avisarlo con un día de anticipación);
+si faltan, trabajar en parejas.
+
+\begin{center}
+{\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}l l X@{}}
+  \toprule
+  \textbf{Momento} & \textbf{Min} & \textbf{Actividad}\\
+  \midrule
+  \textbf{Modo grados} & 0--10 & \textbf{Lo primero, y lo que más errores causa en todo el
+    año}: poner la calculadora en \textsc{deg} (no \textsc{rad} ni \textsc{grad}). Prueba
+    de control en el tablero: $\sen 30^\circ$ debe dar exactamente $0{,}5$. Si no da,
+    la calculadora está en otro modo. Que todos la hagan antes de seguir.\\
+  Ida & 10--24 & Del ángulo a la razón: $\tg \num{54,4}^\circ$, $\cos \num{49,2}^\circ$.
+    Convención de la clase: cuatro decimales para las razones. Y expresiones mixtas, como
+    $\num{24,6}\cos\num{74,3}^\circ$, cuidando el orden de las teclas.\\
+  Vuelta & 24--40 & De la razón al ángulo: las teclas $\sen^{-1}$, $\cos^{-1}$,
+    $\tg^{-1}$ (casi siempre con \textsc{shift}). Ojo con el nombre: \emph{no} es el
+    inverso multiplicativo. Ángulos a una décima de grado.\\
+  Cierre & 40--50 & Dejar la tarea. Anuncio: con estas dos teclas ya se puede resolver un
+    triángulo rectángulo completo — y con eso, medir la altura de un edificio desde la
+    acera. Es el tema de la próxima semana.\\
+  \bottomrule
+\end{tabularx}}
+\end{center}
+
+\begin{nota}
+\textbf{La prueba de los $30^\circ$.} Vale la pena volverla un ritual: cada vez que alguien
+saque un resultado raro en lo que queda del año, lo primero es teclear $\sen 30^\circ$. Si no
+da $0{,}5$, el problema no es el procedimiento sino el modo de la calculadora.
+\end{nota}
+
+\begin{nota}
+\textbf{Unidades.} El módulo de las Guías de Apoyo trae los problemas de contexto en pies y
+pulgadas. Según la decisión del 2026-09-19, el material de este curso va en métricas, así que
+esos ejercicios quedaron fuera del taller y de la tarea; los que se usan son de cálculo puro o
+ya vienen sin unidades.
+\end{nota}
+
+\end{document}

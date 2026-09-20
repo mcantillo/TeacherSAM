@@ -4,6 +4,19 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **Paquete de la semana 04 de Trigonometría 10°**, el más grande del curso: cuatro sesiones
+  (013 a 016) en un solo `clase.tex`, más `taller.tex` y `tarea.tex` de 5 puntos cada uno.
+  El martes, las seis razones a partir de dos lados; el jueves, el triángulo auxiliar para
+  deducir las demás a partir de una, y el taller por la tarde; el viernes, la calculadora.
+  El taller va **sin calculadora** (respuestas exactas) y la tarea **con** ella.
+- La sesión 016 abre con la prueba de control de la calculadora: `sen 30°` debe dar `0,5`, o
+  está en radianes. Queda propuesta como ritual para el resto del año.
+- **Tres ejercicios nuevos** (`razones-trigonometricas-10-070…072`): las seis razones con
+  catetos 5 y 12, el triángulo auxiliar con `tg θ = 3/4`, y el error de confundir el cateto
+  opuesto con el adyacente. El banco tenía 38 libres, pero ninguno de esos dos tipos.
+- **Unidades:** de los 38 libres, 10 vienen en pies y pulgadas y se descartaron por la
+  decisión del 2026-09-19 de trabajar todo en métricas. Queda dicho en el `clase.tex`.
+
 - **Paquetes de la semana 04 de Geometría 7° y Álgebra 9°** (los del martes 22):
   - **Geometría 7°**, sesión 004: `clase.tex` (el vector de traslación, deducirlo restando
     «imagen menos original», y por qué la figura trasladada es congruente) y `taller.tex` de

@@ -1,0 +1,99 @@
+% =====================================================================
+% Taller -- Trigonometría 10° -- Trimestre I -- Semana 04
+% Se hace en clase el jue 24 sep. (sesión 015), unos 34 min. Total: 5 puntos.
+% Sin calculadora: todas las respuestas son fracciones exactas.
+% Hilo conductor del trimestre I: «Medir lo inalcanzable»
+% Ejercicios: razones-trigonometricas-10.py (070-072 nuevos, y 029)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-medir-lo-inalcanzable}
+
+\tipodocumento{Taller}
+\asignatura{Trigonometría}
+\titulo{Taller: cálculo de razones}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 4 — Comprende y utiliza funciones para modelar fenómenos
+% periódicos y justifica las soluciones. Evidencias: establecer las razones de un ángulo
+% agudo a partir de los lados (preguntas 1 y 2) y usar una razón conocida para deducir las
+% demás (preguntas 3 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase, \textbf{sin calculadora}: todas las respuestas son fracciones
+exactas. Dibuja el triángulo en cada punto y marca el ángulo del que hablas. Puedes consultar
+la \refguia{tema:razones}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: razones-trigonometricas-10-070
+\pregunta[1.5] En un triángulo rectángulo los catetos miden $\qty{5}{cm}$ y $\qty{12}{cm}$.
+Llama $\alpha$ al ángulo opuesto al cateto de $\qty{5}{cm}$. Halla primero la hipotenusa y
+después las seis razones trigonométricas de $\alpha$, como fracciones exactas.
+\begin{solucion}[5.5cm]
+Hipotenusa: $\sqrt{5^2 + 12^2} = \sqrt{169} = \qty{13}{cm}$.
+
+$\sen \alpha = \frac{5}{13}$, \quad $\cos \alpha = \frac{12}{13}$, \quad
+$\tg \alpha = \frac{5}{12}$,
+
+$\csc \alpha = \frac{13}{5}$, \quad $\sec \alpha = \frac{13}{12}$, \quad
+$\cot \alpha = \frac{12}{5}$.
+
+Las tres de la segunda fila son las inversas de las tres primeras.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-029
+\pregunta[1] Resuelve el triángulo rectángulo con $\gamma = 90^\circ$ (hipotenusa $c$) en el
+que $a = 24$ y $b = 10$. Dibújalo primero y marca sus partes. (Para los ángulos, basta con
+dejar indicado cuál razón usarías.)
+\begin{solucion}[4.5cm]
+$c = \sqrt{24^2 + 10^2} = \sqrt{676} = 26$.
+
+Para los ángulos: $\tg \alpha = \frac{24}{10}$, de donde $\alpha \approx \num{67,4}^\circ$, y
+$\beta = 90^\circ - \alpha \approx \num{22,6}^\circ$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-071
+\pregunta[1.5] De un ángulo agudo $\theta$ se sabe únicamente que $\tg \theta = \frac{3}{4}$.
+Dibuja un triángulo rectángulo auxiliar que cumpla esa condición y halla con él
+$\sen \theta$ y $\cos \theta$, exactos. Comprueba que
+$\sen^2 \theta + \cos^2 \theta = 1$.
+\begin{solucion}[5.5cm]
+Como $\tg \theta = \frac{\text{opuesto}}{\text{adyacente}}$, sirve el triángulo de catetos $3$
+(opuesto) y $4$ (adyacente); su hipotenusa es $\sqrt{3^2 + 4^2} = 5$.
+
+Entonces $\sen \theta = \frac{3}{5}$ y $\cos \theta = \frac{4}{5}$.
+
+Comprobación: $\left(\frac{3}{5}\right)^2 + \left(\frac{4}{5}\right)^2 = \frac{9 + 16}{25} = 1$.
+
+Cualquier triángulo semejante ($6$ y $8$, por ejemplo) da las mismas razones: dependen del
+ángulo, no del tamaño.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-072
+\pregunta[1] En un triángulo rectángulo, el cateto opuesto a $\alpha$ mide $\qty{8}{cm}$ y el
+otro cateto mide $\qty{15}{cm}$. Sofía escribió $\cos \alpha = \frac{8}{17}$. Encuentra el
+error, corrígelo y explica cómo comprobar de un vistazo, sin calculadora, que su respuesta no
+podía ser la del coseno.
+\begin{solucion}[5cm]
+La hipotenusa sí es $\sqrt{8^2 + 15^2} = \sqrt{289} = 17$, pero Sofía usó el cateto
+\emph{opuesto}: eso es el seno.
+
+Lo correcto es $\cos \alpha = \frac{15}{17}$ (adyacente sobre hipotenusa) y
+$\sen \alpha = \frac{8}{17}$.
+
+Comprobación rápida: el cateto de $8$ es el corto, así que $\alpha$ es el ángulo pequeño; el
+coseno de un ángulo pequeño está cerca de $1$, y $\frac{8}{17}$ es menos de la mitad.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

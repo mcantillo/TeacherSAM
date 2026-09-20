@@ -1,0 +1,89 @@
+% =====================================================================
+% Tarea -- Trigonometría 10° -- Trimestre I -- Semana 04
+% Se deja el vie 25 sep. (sesión 016) y se revisa el martes siguiente. Total: 5 puntos.
+% CON calculadora científica en modo grados.
+% Hilo conductor del trimestre I: «Medir lo inalcanzable»
+% Ejercicios: razones-trigonometricas-10.py (003, 005, 040, 042, 044, 030)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-medir-lo-inalcanzable}
+
+\tipodocumento{Tarea}
+\asignatura{Trigonometría}
+\titulo{Tarea: la calculadora en modo grados}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 4 — Comprende y utiliza funciones para modelar fenómenos
+% periódicos y justifica las soluciones. Evidencias: evaluar razones de un ángulo dado
+% (preguntas 1-3) y hallar el ángulo a partir de la razón (preguntas 4-6).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa, \textbf{con calculadora científica en modo grados} (\textsc{deg}). Antes de
+empezar, comprueba: $\sen 30^\circ$ debe dar exactamente $0{,}5$; si no, tu calculadora está
+en otro modo. Razones con \textbf{cuatro decimales}, ángulos con \textbf{una décima de grado}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: razones-trigonometricas-10-003
+\pregunta[0.5] Usa la calculadora (en modo grados) para evaluar $\tg \num{54,4}^\circ$. Da el
+resultado con cuatro decimales.
+\begin{solucion}[1.8cm]
+$\tg \num{54,4}^\circ \approx \num{1,3968}$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-005
+\pregunta[0.5] Usa la calculadora (en modo grados) para evaluar $\cos \num{49,2}^\circ$. Da el
+resultado con cuatro decimales.
+\begin{solucion}[1.8cm]
+$\cos \num{49,2}^\circ \approx \num{0,6534}$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-040
+\pregunta[1] Calcula con la calculadora $\num{24,6} \cos \num{74,3}^\circ$. Cuida el orden de
+las teclas: primero el coseno del ángulo y después la multiplicación.
+\begin{solucion}[2.5cm]
+$\num{24,6} \cos \num{74,3}^\circ \approx \num{6,657}$.
+
+Si da algo muy distinto, probablemente se calculó $\cos(\num{24,6} \times \num{74,3})$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-042
+\pregunta[1] Encuentra el ángulo agudo $\theta$ (en grados, a la décima) tal que
+$\sen \theta = \num{0,6691}$.
+\begin{solucion}[2.5cm]
+$\theta = \sen^{-1}(\num{0,6691}) \approx \num{42,0}^\circ$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-044
+\pregunta[1] Encuentra el ángulo agudo $\theta$ (en grados, a la décima) tal que
+$\tg \theta = \num{5,396}$.
+\begin{solucion}[2.5cm]
+$\theta = \tg^{-1}(\num{5,396}) \approx \num{79,5}^\circ$.
+
+Tiene sentido: una tangente grande significa que el cateto opuesto es mucho mayor que el
+adyacente, es decir, un ángulo cercano a $90^\circ$.
+\end{solucion}
+
+% Ejercicio: razones-trigonometricas-10-030
+\pregunta[1] Resuelve el triángulo rectángulo con $\gamma = 90^\circ$ (hipotenusa $c$) en el
+que $c = 41$ y $a = 40$. Dibújalo primero y marca sus partes.
+\begin{solucion}[4cm]
+$b = \sqrt{41^2 - 40^2} = \sqrt{1681 - 1600} = \sqrt{81} = 9$.
+
+$\sen \alpha = \frac{40}{41}$, de donde $\alpha \approx \num{77,3}^\circ$, y
+$\beta = 90^\circ - \alpha \approx \num{12,7}^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

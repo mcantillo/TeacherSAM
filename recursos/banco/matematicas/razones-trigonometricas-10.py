@@ -360,3 +360,78 @@ reg(60, f"{FR} 2",
     r"$h = 10 \tg 18^\circ + 10 \tg 10^\circ \approx \num{3,25} + \num{1,76} \approx "
     r"\num{5,0}$ pies.",
     lambda: cerca(10 * tan(rad(18)) + 10 * tan(rad(10)), 5.0, 1), tipo="contexto", dificultad=2)
+
+
+# --- Añadidos el 2026-09-20 para el taller de la sesión 015 (semana 04) ---------------
+# El banco trae muchos «resuelve el triángulo» y muchos de calculadora, pero ninguno libre
+# de las dos cosas que ven las sesiones 013 y 014: calcular las seis razones a partir de dos
+# lados, y deducir las demás a partir de una sola con un triángulo auxiliar. En métricas
+# (decisión de la docente del 2026-09-19: las medidas en pies se convierten o se evitan).
+
+
+@ejercicio(id=f"{PRE}-070", tipo="calculo", dificultad=1, fuente="propio (sesión 013)",
+           enunciado=r"En un triángulo rectángulo los catetos miden $\qty{5}{cm}$ y "
+                     r"$\qty{12}{cm}$. Llama $\alpha$ al ángulo opuesto al cateto de "
+                     r"$\qty{5}{cm}$. Halla primero la hipotenusa y después las seis razones "
+                     r"trigonométricas de $\alpha$, como fracciones exactas.",
+           respuesta=r"Hipotenusa: $\sqrt{5^2 + 12^2} = \sqrt{169} = \qty{13}{cm}$. "
+                     r"$\sen \alpha = \frac{5}{13}$, $\cos \alpha = \frac{12}{13}$, "
+                     r"$\tg \alpha = \frac{5}{12}$, $\csc \alpha = \frac{13}{5}$, "
+                     r"$\sec \alpha = \frac{13}{12}$, $\cot \alpha = \frac{12}{5}$. "
+                     r"Las tres de la segunda fila son las inversas de las tres primeras.",
+           **COMUN)
+def _():
+    cat_op, cat_ad = sp.Integer(5), sp.Integer(12)
+    hip = sp.sqrt(cat_op**2 + cat_ad**2)
+    assert hip == 13
+    sen, cos_, tg = cat_op / hip, cat_ad / hip, cat_op / cat_ad
+    assert (sen, cos_, tg) == (sp.Rational(5, 13), sp.Rational(12, 13), sp.Rational(5, 12))
+    assert (1 / sen, 1 / cos_, 1 / tg) == (sp.Rational(13, 5), sp.Rational(13, 12), sp.Rational(12, 5))
+    assert sp.simplify(sen**2 + cos_**2) == 1
+
+
+@ejercicio(id=f"{PRE}-071", tipo="calculo", dificultad=2, fuente="propio (sesión 014)",
+           enunciado=r"De un ángulo agudo $\theta$ se sabe únicamente que "
+                     r"$\tg \theta = \frac{3}{4}$. Dibuja un triángulo rectángulo auxiliar que "
+                     r"cumpla esa condición y halla con él $\sen \theta$ y $\cos \theta$, "
+                     r"exactos. Comprueba que $\sen^2 \theta + \cos^2 \theta = 1$.",
+           respuesta=r"Como $\tg \theta = \frac{\text{opuesto}}{\text{adyacente}}$, sirve el "
+                     r"triángulo de catetos $3$ (opuesto) y $4$ (adyacente); su hipotenusa es "
+                     r"$\sqrt{3^2 + 4^2} = 5$. Entonces $\sen \theta = \frac{3}{5}$ y "
+                     r"$\cos \theta = \frac{4}{5}$. Comprobación: "
+                     r"$\left(\frac{3}{5}\right)^2 + \left(\frac{4}{5}\right)^2 = "
+                     r"\frac{9 + 16}{25} = 1$. Cualquier triángulo semejante ($6$ y $8$, por "
+                     r"ejemplo) da las mismas razones: dependen del ángulo, no del tamaño.",
+           notas="El triángulo auxiliar es la técnica del tema; conviene insistir en que la "
+                 "respuesta no cambia al escalar el triángulo.",
+           **COMUN)
+def _():
+    op, ad = sp.Integer(3), sp.Integer(4)
+    hip = sp.sqrt(op**2 + ad**2)
+    assert hip == 5 and op / ad == sp.Rational(3, 4)
+    sen, cos_ = op / hip, ad / hip
+    assert (sen, cos_) == (sp.Rational(3, 5), sp.Rational(4, 5))
+    assert sp.simplify(sen**2 + cos_**2) == 1
+    # el doble del triángulo da lo mismo
+    assert (2 * op) / sp.sqrt((2 * op)**2 + (2 * ad)**2) == sen
+
+
+@ejercicio(id=f"{PRE}-072", tipo="argumentacion", dificultad=2, fuente="propio (sesión 014)",
+           enunciado=r"En un triángulo rectángulo, el cateto opuesto a $\alpha$ mide "
+                     r"$\qty{8}{cm}$ y el otro cateto mide $\qty{15}{cm}$. Sofía escribió "
+                     r"$\cos \alpha = \frac{8}{17}$. Encuentra el error, corrígelo y explica "
+                     r"cómo comprobar de un vistazo, sin calculadora, que su respuesta no podía "
+                     r"ser la del coseno.",
+           respuesta=r"La hipotenusa sí es $\sqrt{8^2 + 15^2} = \sqrt{289} = 17$, pero Sofía "
+                     r"usó el cateto \emph{opuesto}: eso es el seno. Lo correcto es "
+                     r"$\cos \alpha = \frac{15}{17}$ (adyacente sobre hipotenusa) y "
+                     r"$\sen \alpha = \frac{8}{17}$. Comprobación rápida: el cateto de $8$ es el "
+                     r"corto, así que $\alpha$ es el ángulo pequeño; el coseno de un ángulo "
+                     r"pequeño está cerca de $1$, y $\frac{8}{17}$ es menos de la mitad.",
+           **COMUN)
+def _():
+    op, ad = sp.Integer(8), sp.Integer(15)
+    hip = sp.sqrt(op**2 + ad**2)
+    assert hip == 17
+    assert ad / hip == sp.Rational(15, 17) and op / hip == sp.Rational(8, 17)
+    assert sp.Rational(15, 17) > sp.Rational(1, 2) > sp.Rational(8, 17)
