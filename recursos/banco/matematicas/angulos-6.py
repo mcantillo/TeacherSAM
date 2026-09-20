@@ -58,9 +58,12 @@ def _():
 # el vértice y bisectriz), que es el subtema de la sesión 005 de Geometría 6°. Son ejercicios
 # propios; el tema y el DBA son los mismos del resto del archivo.
 PROPIO = "propio — clase de Geometría 6°, trimestre I, ángulos entre rectas"
+# COMUN ya fija tipo="argumentacion"; los que son de cálculo lo cambian con COMUN_CALC,
+# nunca repitiendo el argumento (eso rompe la importación del módulo entero).
+COMUN_CALC = {**COMUN, "tipo": "calculo"}
 
 
-@ejercicio(id="angulos-6-004", tipo="calculo", dificultad=1, fuente=PROPIO,
+@ejercicio(id="angulos-6-004", dificultad=1, fuente=PROPIO,
            enunciado=r"Dos rectas se cortan y forman cuatro ángulos. Uno de ellos mide "
                      r"$47^\circ$. ¿Cuánto miden los otros tres? Di cuál de ellos es el opuesto "
                      r"por el vértice del primero.",
@@ -68,7 +71,7 @@ PROPIO = "propio — clase de Geometría 6°, trimestre I, ángulos entre rectas
                      r"opuesto por el vértice mide $47^\circ$. En orden de giro: $47^\circ$, "
                      r"$133^\circ$, $47^\circ$, $133^\circ$. El opuesto por el vértice es el "
                      r"tercero, el que no comparte ningún lado con el primero.",
-           **COMUN)
+           **COMUN_CALC)
 def _():
     ady = solve(Eq(47 + a, 180), a)[0]
     op = solve(Eq(ady + b, 180), b)[0]
@@ -76,7 +79,7 @@ def _():
     assert 47 + ady + op + ady == 360
 
 
-@ejercicio(id="angulos-6-005", tipo="calculo", dificultad=2, fuente=PROPIO,
+@ejercicio(id="angulos-6-005", dificultad=2, fuente=PROPIO,
            enunciado=r"Dos rectas se cortan. Uno de los ángulos mide $(3x + 10)^\circ$ y su "
                      r"opuesto por el vértice mide $(5x - 20)^\circ$. Halla $x$ y la medida de "
                      r"los cuatro ángulos.",
@@ -84,7 +87,7 @@ def _():
                      r"luego $2x = 30$ y $x = 15$. Cada uno de esos dos mide "
                      r"$3(15) + 10 = 55^\circ$, y los otros dos, $180^\circ - 55^\circ = "
                      r"125^\circ$.",
-           **COMUN)
+           **COMUN_CALC)
 def _():
     x = symbols("x", real=True)
     xs = solve(Eq(3 * x + 10, 5 * x - 20), x)[0]
@@ -111,7 +114,7 @@ def _():
     assert sol[a] - sol[b] == 0
 
 
-@ejercicio(id="angulos-6-007", tipo="calculo", dificultad=2, fuente=PROPIO,
+@ejercicio(id="angulos-6-007", dificultad=2, fuente=PROPIO,
            enunciado=r"El ángulo $AOB$ mide $70^\circ$ y $BOC$ es su adyacente. $OM$ es la "
                      r"bisectriz de $AOB$ y $ON$ es la bisectriz de $BOC$. ¿Cuánto mide el "
                      r"ángulo $MON$? Repite la cuenta cambiando $70^\circ$ por otra medida: "
@@ -122,7 +125,7 @@ def _():
                      r"\alpha$, entonces $MON = \frac{\alpha}{2} + \frac{180^\circ - \alpha}{2} "
                      r"= 90^\circ$. Las bisectrices de dos ángulos adyacentes son siempre "
                      r"perpendiculares.",
-           **COMUN)
+           **COMUN_CALC)
 def _():
     boc = solve(Eq(70 + a, 180), a)[0]
     assert boc == 110

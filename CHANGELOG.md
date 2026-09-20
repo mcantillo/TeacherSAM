@@ -4,6 +4,24 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **Tres errores de la semana 05, corregidos.** Los tres eran míos:
+  - `\begin{enumerate}[a.]` en la tarea de Física 9° y en el taller de Física 11°.
+    `enumitem` está cargado sin la opción `shortlabels`, así que esa forma corta no existe
+    aquí: hay que escribir `label=\alph*)`, o usar el entorno `opciones` del estilo cuando
+    son alternativas de selección múltiple. Fueron los dos únicos `.tex` de la semana que no
+    compilaron.
+  - En `angulos-6.py` pasé `tipo=` dos veces —una explícita y otra dentro de `**COMUN`—, y eso
+    tumba la importación del módulo entero: los cuatro ejercicios nuevos de Geometría 6° no
+    quedaron registrados. Se revisó todo el banco (100 archivos) en busca del mismo patrón:
+    no hay más.
+  - El reintento de push de los dos robots rebasaba. Rebasar un commit lleno de archivos
+    generados sobre una rama que ya tiene esos mismos archivos da conflicto `add/add` en cada
+    binario, que un robot no puede resolver. Ahora, si el push se rechaza, se deshace el
+    commit local (`git reset --mixed FETCH_HEAD`), se vuelve a añadir lo que ese trabajo
+    acaba de producir y se hace un commit nuevo encima: sin conflictos posibles. Probado con
+    dos simulaciones de la carrera, incluida la de que el otro robot haya subido algo distinto
+    entre medio (su trabajo sobrevive).
+
 - **Semana 05: los seis paquetes del lunes 28.** Cálculo 11° (intervalos, unión e
   intersección y el argumento de la diagonal de Cantor; taller y tarea), Geometría 10°
   (punto medio como promedio, perímetro y clasificación de triángulos; taller), Geometría 5°

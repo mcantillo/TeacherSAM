@@ -72,17 +72,31 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          rama="${GITHUB_REF_NAME:-main}"
           git add -- recursos/banco/verificados.json recursos/banco/catalogo.jsonl
           if git diff --cached --quiet; then
             echo "Ni el registro ni el catálogo cambiaron."
           else
             git commit -m "Verificar ejercicios y regenerar el catálogo [skip ci]"
-            # Los dos workflows escriben en main y el de los PDF tarda mucho más: si el
-            # otro empuja mientras este compila, el push se rechaza por «non-fast-forward»
-            # y el trabajo compilado se pierde. Por eso se reintenta rebasando encima.
+            # Los dos workflows escriben en main, así que el push puede llegar tarde y ser
+            # rechazado por «non-fast-forward». Antes se reintentaba con «git pull --rebase»,
+            # y eso falló el 2026-09-20: rebasar un commit lleno de archivos generados sobre
+            # una rama que ya tiene esos mismos archivos da un conflicto «add/add» en cada
+            # binario, que nadie puede resolver desde un robot. En vez de rebasar se deshace
+            # el commit local, se trae lo último de origin y se vuelve a armar el commit con
+            # lo que este trabajo acaba de producir: sin conflictos posibles.
             for intento in 1 2 3; do
               git push && break
-              echo "Push rechazado (main se movió). Rebaso e intento de nuevo."
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}" || exit 1
+              echo "Push rechazado (main se movió). Rehago el commit sobre lo último."
+              git fetch origin "$rama" || exit 1
+              git reset --mixed FETCH_HEAD # deshace el commit y pone HEAD en lo último
+                                           # de origin; el disco no se toca, así que lo
+                                           # recién producido sigue ahí para volver a añadirlo
+              git add -- recursos/banco/verificados.json recursos/banco/catalogo.jsonl
+              if git diff --cached --quiet; then
+                echo "Otro trabajo ya subió esto; no hay nada que rehacer."
+                break
+              fi
+              git commit -m "Verificar ejercicios y regenerar el catálogo [skip ci]"
             done
           fi
