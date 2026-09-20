@@ -22,32 +22,30 @@ concurrency:
 jobs:
   pdfs:
     runs-on: ubuntu-latest
-    # La imagen más liviana de TeX Live; los paquetes que usa mmcantillo.sty se instalan abajo.
-    container: texlive/texlive:latest-minimal
+    # Imagen COMPLETA de TeX Live: trae todos los paquetes ya instalados.
+    # Antes se usaba latest-minimal y se instalaban a mano con tlmgr, y eso falló dos veces:
+    # una porque faltaba txfonts en la lista (2026-09-19) y otra porque el espejo de CTAN
+    # estaba más viejo que el contenedor y tlmgr se negó a trabajar (2026-09-20). Con la
+    # imagen completa no hay lista que mantener ni espejo del que depender.
+    container: texlive/texlive:latest
     steps:
       - name: Instalar git
-        run: apt-get update -qq && apt-get install -y -qq git > /dev/null
+        run: |
+          if command -v git > /dev/null; then
+            echo "git ya viene en la imagen: $(git --version)"
+            exit 0
+          fi
+          for intento in 1 2 3; do
+            apt-get update -qq && apt-get install -y -qq git > /dev/null && exit 0
+            echo "Intento $intento fallido al instalar git; reintento en 15 s."
+            sleep 15
+          done
+          echo "No se pudo instalar git después de 3 intentos."
+          exit 1
 
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Instalar paquetes LaTeX
-        run: |
-          # Lista sacada de los .fls de todos los .tex de materias/ (si un material nuevo usa
-          # otro paquete, agrégalo aquí).
-          tlmgr install latexmk latex-bin amscls amsmath babel babel-spanish bigintcalc bitset booktabs \
-            cancel carlisle cm cm-super ec enumitem environ epstopdf-pkg etoolbox fancyhdr \
-            figureversions fontaxes fontname geometry gettitlestring graphics graphics-cfg \
-            graphics-def hycolor hyperref iftex infwarerr intcalc kastrup kvdefinekeys \
-            kvoptions kvsetkeys l3kernel l3packages lastpage latex latexconfig \
-            listings listingsutf8 ltxcmds mathtools microtype mweights needspace newpx newtx \
-            oberdiek pdfcol pdfescape pdftexcmds pgf pgfplots psnfss refcount rerunfilecheck \
-            txfonts \
-            siunitx stringenc symbol tasks tcolorbox tikzfill tools translations trimspaces \
-            uniquecounter url was xcolor xkeyval xpatch xstring zapfding
-          # Enlaza en el PATH los binarios nuevos (latexmk).
-          tlmgr path add
 
       - name: Compilar
         env:
@@ -62,7 +60,9 @@ jobs:
           fi
 
       - name: Subir los PDF al repositorio
-        if: always()
+        # «always()» para que los PDF que sí compilaron se guarden aunque otro .tex falle,
+        # pero solo tiene sentido si el repositorio llegó a clonarse.
+        if: always() && hashFiles('.git/HEAD') != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"

@@ -4,6 +4,21 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-20
 
+- **El robot de los PDF ya no instala LaTeX a mano.** Pasó a la imagen completa
+  `texlive/texlive:latest` y se borró el paso de `tlmgr install`. Dos fallos seguidos
+  vinieron de ahí: el 19 faltaba `txfonts` en la lista (`t1xtt not loadable`, la primera vez
+  que un material usó `\texttt`), y el 20 el espejo de CTAN estaba más viejo que el
+  contenedor y `tlmgr` se negó a trabajar («Remote database … seems to be older than the
+  local installation»). Con la imagen completa no hay lista que mantener ni espejo del que
+  depender: los paquetes ya vienen dentro. El arranque es más lento, pero no vuelve a
+  romperse por algo de afuera.
+- **El paso que instala git ahora se salta si git ya está** (la imagen completa lo trae) y,
+  si hace falta instalarlo, reintenta 3 veces con pausas de 15 s.
+- **Los pasos que suben archivos solo corren si el repositorio alcanzó a clonarse**
+  (`if: always() && hashFiles('.git/HEAD') != ''`). Si el primer paso falla, `checkout`
+  nunca corre y el paso de subida moría con `fatal: not in a git directory` — un error
+  confuso que tapaba la causa real. Ahora el registro muestra el fallo verdadero.
+
 - **Semana 04 completa en los 16 cursos.** Los tres últimos paquetes:
   - **Geometría 4°** (mié 23): la vía del tren — dos rieles paralelos y los durmientes
     perpendiculares — y el error de «no se tocan, entonces son paralelas». Taller de 5 puntos.
