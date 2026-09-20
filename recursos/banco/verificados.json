@@ -23495,6 +23495,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/transformaciones-7.py"
  },
+ "transformaciones-7-020": {
+  "huella": "4e729add570c93fe",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-021": {
+  "huella": "39510bb760d822ce",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-022": {
+  "huella": "d873bcbe233831dc",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
+ "transformaciones-7-023": {
+  "huella": "71c4942ef1c54cf1",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/transformaciones-7.py"
+ },
  "triangulos-6-001": {
   "huella": "f41648ecce681acd",
   "estado": "verificado",
