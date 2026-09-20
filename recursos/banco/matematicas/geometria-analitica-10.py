@@ -15,7 +15,7 @@ La relación m = tan θ (ángulo de inclinación) queda en Trigonometría 10° (
 Formato y reglas: .claude/skills/verificar-ejercicios/SKILL.md
 Verificar:  python3 tools/ejercicios.py verificar --sin-registro recursos/banco/matematicas/geometria-analitica-10.py
 """
-from sympy import Rational
+from sympy import Rational, sqrt
 
 from ejercicios import ejercicio
 
@@ -90,3 +90,72 @@ def _():
      r"$m = \frac{9 - 3}{4 - 1} = 2$.", tipo="encuentra-el-error")
 def _():
     assert Rational(4 - 1, 9 - 3) == Rational(1, 2) != pendiente((1, 3), (4, 9)) == 2
+
+
+# --- Añadidos el 2026-09-19 para la tarea de la sesión 003 (semana 04) ----------------
+# La sesión deduce la fórmula de la distancia desde Pitágoras. El banco no tenía ejercicios
+# de distancia entre dos puntos para 10°: coordenadas-11 y lugares-geometricos-11 ya los usa
+# la guía, y plano-cartesiano-5 es de primaria.
+
+
+def dist(p, q):
+    return sqrt((q[0] - p[0]) ** 2 + (q[1] - p[1]) ** 2)
+
+
+@reg(40, "distancia entre dos puntos",
+     r"Calcula la distancia entre cada pareja de puntos y deja el resultado exacto: "
+     r"(a) $A(2, 3)$ y $B(6, 6)$; (b) $C(-3, 2)$ y $D(5, -4)$; (c) $E(1, -2)$ y $F(7, 6)$.",
+     r"(a) $\sqrt{4^2 + 3^2} = \sqrt{25} = 5$. (b) $\sqrt{8^2 + (-6)^2} = \sqrt{100} = 10$. "
+     r"(c) $\sqrt{6^2 + 8^2} = \sqrt{100} = 10$. Los tres son ternas pitagóricas: "
+     r"$3$-$4$-$5$, $6$-$8$-$10$ y $6$-$8$-$10$.")
+def _():
+    assert dist((2, 3), (6, 6)) == 5
+    assert dist((-3, 2), (5, -4)) == 10
+    assert dist((1, -2), (7, 6)) == 10
+
+
+@reg(41, "distancia entre dos puntos",
+     r"Los vértices de un triángulo son $P(1, 1)$, $Q(5, 1)$ y $R(3, 5)$. Calcula la longitud "
+     r"de sus tres lados y decide si el triángulo es equilátero, isósceles o escaleno. "
+     r"Justifica con los números, no con el dibujo.",
+     r"$PQ = \sqrt{4^2 + 0^2} = 4$; $QR = \sqrt{(-2)^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$; "
+     r"$PR = \sqrt{2^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$. Como $QR = PR \neq PQ$, el triángulo es "
+     r"\textbf{isósceles}. Medir con regla sobre el dibujo no bastaría: $\sqrt{20} \approx "
+     r"\num{4,47}$ se parece mucho a $4$.",
+     tipo="argumentacion", dificultad=2,
+     notas="El punto del ejercicio es que la fórmula decide lo que el ojo no distingue.")
+def _():
+    P_, Q_, R_ = (1, 1), (5, 1), (3, 5)
+    pq, qr, pr = dist(P_, Q_), dist(Q_, R_), dist(P_, R_)
+    assert pq == 4 and qr == pr == 2 * sqrt(5) and qr != pq
+
+
+@reg(42, "distancia entre dos puntos",
+     r"Un cuadrilátero tiene vértices $A(0, 0)$, $B(4, 3)$, $C(8, 0)$ y $D(4, -3)$. Calcula "
+     r"$AB$, $BC$, $CD$ y $DA$. ¿Qué tienen en común los cuatro lados? ¿Basta eso para afirmar "
+     r"que es un cuadrado? Calcula también las dos diagonales $AC$ y $BD$ y decide.",
+     r"Los cuatro lados miden $5$: $AB = \sqrt{4^2 + 3^2} = 5$, y lo mismo $BC$, $CD$ y $DA$. "
+     r"Tener los cuatro lados iguales lo hace un \textbf{rombo}, pero \emph{no} basta para decir "
+     r"que es un cuadrado. Las diagonales lo resuelven: $AC = 8$ y $BD = 6$. En un cuadrado las "
+     r"dos diagonales miden lo mismo, así que este rombo no es un cuadrado.",
+     tipo="argumentacion", dificultad=3,
+     notas="La comparación de diagonales prepara el criterio de perpendicularidad de la sesión "
+           "siguiente. Con lados iguales y diagonales iguales sí sería un cuadrado.")
+def _():
+    A_, B_, C_, D_ = (0, 0), (4, 3), (8, 0), (4, -3)
+    assert [dist(A_, B_), dist(B_, C_), dist(C_, D_), dist(D_, A_)] == [5, 5, 5, 5]
+    assert dist(A_, C_) == 8 and dist(B_, D_) == 6 and dist(A_, C_) != dist(B_, D_)
+
+
+@reg(43, "distancia entre dos puntos",
+     r"Camila calculó así la distancia entre $M(-2, 5)$ y $N(4, -3)$: «$d = \sqrt{(4 - 2)^2 + "
+     r"(-3 - 5)^2} = \sqrt{4 + 64} = \sqrt{68}$». Encuentra el error, corrígelo y explica en una "
+     r"frase por qué el resultado correcto no cambia si se intercambian $M$ y $N$.",
+     r"El error está en la resta de las abscisas: es $4 - (-2) = 6$, no $4 - 2 = 2$. Lo correcto "
+     r"es $d = \sqrt{6^2 + (-8)^2} = \sqrt{36 + 64} = \sqrt{100} = 10$. Intercambiar los puntos "
+     r"no cambia nada porque las diferencias solo cambian de signo y van elevadas al cuadrado.",
+     tipo="argumentacion", dificultad=2)
+def _():
+    M_, N_ = (-2, 5), (4, -3)
+    assert dist(M_, N_) == 10 and dist(N_, M_) == 10
+    assert sqrt((4 - 2) ** 2 + (-3 - 5) ** 2) == 2 * sqrt(17)  # lo que le dio a Camila

@@ -4,6 +4,28 @@ Lo que ya se hizo, por fecha (lo más reciente primero). Lo que falta está en `
 
 ## 2026-09-19 (tarde)
 
+- **Catálogo del banco en marcha:** la docente lanzó «Verificar ejercicios» con la casilla de
+  todo el banco. Resultado: **4098 ejercicios, 3144 verificados** y 954 manuales pendientes de
+  su aprobación; los **17 que citaban las guías sin verificar quedaron verificados**. Con
+  `recursos/banco/catalogo.jsonl` en el repositorio ya se pueden escoger ejercicios desde
+  Cowork.
+- **Paquetes de la semana 04 de Geometría 6° y Geometría 10°** (los dos del lunes 21 que
+  faltaban):
+  - **Geometría 6°**, sesión 003: `clase.tex` (estimar con el ángulo recto como referente,
+    el error aceptable de 10°, y la figura del ángulo de tiro que resuelve la apuesta del
+    trimestre) y `taller.tex` de 5 puntos.
+  - **Geometría 10°**, sesión 003: `clase.tex` (deducir la distancia desde Pitágoras, los dos
+    cuidados con los negativos, y el triángulo que parece equilátero y no lo es) y `tarea.tex`
+    de 5 puntos.
+- **Ocho ejercicios nuevos en el banco**, porque ninguno de los dos temas tenía libres:
+  `angulos-medicion-6-005…008` (error de estimación, referentes del recto, ángulo de tiro de
+  frente contra de lado, suplementarios) y `geometria-analitica-10-040…043` (distancias con
+  ternas pitagóricas, triángulo isósceles que parece equilátero, rombo que no es cuadrado,
+  y el error de restar mal un negativo). Los ocho son comprobables con código: el robot los
+  verifica al subirlos.
+- **Escrito en Cowork: falta compilar y revisar.** Lo hacen `pdfs.yml` y `ejercicios.yml` al
+  subirlo.
+
 - **Paquete de la semana 04 de Física 9°** (sesión 003, lunes 21): `clase.tex` del segundo y
   último día de exposiciones — las 3 que faltan, la rejilla de 5 puntos para calificarlas y el
   cierre «describir no es explicar», que abre el tema siguiente. Sin taller ni tarea, como

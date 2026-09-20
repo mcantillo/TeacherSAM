@@ -1,0 +1,85 @@
+% =====================================================================
+% Taller -- Geometría 6° -- Trimestre I -- Semana 04
+% Se hace en clase el lun 21 sep. (sesión 003), unos 19 min. Total: 5 puntos.
+% Hilo conductor del trimestre I: «La geometría del fútbol»
+% Ejercicios: recursos/banco/matematicas/angulos-medicion-6.py (005-008, nuevos)
+% Clave:  pdflatex -jobname=taller-clave "\def\clave{}\input{taller}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-angulos-poligonos}
+
+\tipodocumento{Taller}
+\asignatura{Geometría}
+\titulo{Taller: estimar y medir ángulos}
+\grado{6°}
+\periodo{I}
+
+% DBA: matematicas grado 6 · DBA 5 — Propone y desarrolla estrategias de estimación,
+% medición y cálculo de diferentes cantidades (ángulos, longitudes, áreas, volúmenes, etc.)
+% para resolver problemas. Evidencias: «Estima el resultado de una medición sin realizarla,
+% de acuerdo con un referente previo» (preguntas 2 y 3) y «Decide acerca de las estrategias
+% para determinar qué tan pertinente es la estimación y analiza las causas de error»
+% (preguntas 1 y 3).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo individual en clase. Necesitas regla, transportador y la hoja cuadriculada. Puedes
+consultar la \refguia{tema:angulos}. En las preguntas 3 y 4, dibuja a escala:
+\textbf{$\qty{1}{cm}$ del dibujo $=$ $\qty{1}{m}$ de la cancha}. Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: angulos-medicion-6-005
+\pregunta[1] Antes de medir, Andrés estimó que un ángulo medía $50^\circ$. Al medirlo con el
+transportador le dio $62^\circ$. ¿De cuántos grados fue su error? Si en clase acordamos que
+una estimación sirve cuando se aleja menos de $10^\circ$ del valor medido, ¿la de Andrés sirve?
+\begin{solucion}[2.5cm]
+El error es $62^\circ - 50^\circ = 12^\circ$. Como $12^\circ > 10^\circ$, la estimación no
+sirve según lo acordado: se quedó corto por poco más del margen. Conviene volver a estimar
+comparando con el ángulo recto.
+\end{solucion}
+
+% Ejercicio: angulos-medicion-6-006
+\pregunta[1] Sin usar transportador, y tomando el ángulo recto como referente, di cuánto mide
+cada ángulo. Clasifica cada uno como agudo, recto u obtuso.
+\begin{opciones*}(3)
+  \item la mitad de un recto
+  \item un recto y medio
+  \item dos tercios de un recto
+\end{opciones*}
+\begin{solucion}[2.5cm]
+a) $\frac{90^\circ}{2} = 45^\circ$, agudo. \quad b) $90^\circ \cdot \frac{3}{2} = 135^\circ$,
+obtuso. \quad c) $90^\circ \cdot \frac{2}{3} = 60^\circ$, agudo.
+\end{solucion}
+
+% Ejercicio: angulos-medicion-6-007
+\pregunta[2] Dos jugadores están a la misma distancia de la línea de meta, $\qty{5,5}{m}$:
+$D$ está justo frente al centro del arco y $E$ está corrido $\qty{5,5}{m}$ hacia un lado.
+El arco mide $\qty{7,32}{m}$ entre los postes. Dibuja la situación a escala, \textbf{estima}
+el ángulo de tiro de cada uno y luego \textbf{mídelo} con el transportador. ¿Cuál de los dos
+tiene mejor ángulo, y por qué, si están a la misma distancia?
+\begin{solucion}[6cm]
+$D \approx 67^\circ$ y $E \approx 41^\circ$ (se aceptan $1^\circ$ o $2^\circ$ de diferencia).
+$D$ tiene mucho mejor ángulo: estar a la misma distancia de la línea de meta no basta, porque
+$E$ ve el arco «de lado» y los dos postes le quedan casi alineados. Lo que importa es la
+posición frente al arco, no solo la distancia.
+\end{solucion}
+
+% Ejercicio: angulos-medicion-6-008
+\pregunta[1] Dos ángulos son suplementarios y uno mide el doble del otro. ¿Cuánto mide cada
+uno? Comprueba tu respuesta sumándolos.
+\begin{solucion}[3cm]
+Si el menor mide $x$, el otro mide $2x$ y $x + 2x = 180^\circ$, luego $3x = 180^\circ$ y
+$x = 60^\circ$. Los ángulos miden $60^\circ$ y $120^\circ$, y en efecto
+$60^\circ + 120^\circ = 180^\circ$.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}

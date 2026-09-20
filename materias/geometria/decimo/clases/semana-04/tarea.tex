@@ -1,0 +1,89 @@
+% =====================================================================
+% Tarea -- Geometría 10° -- Trimestre I -- Semana 04
+% Se deja el lun 21 sep. (sesión 003) y se revisa al comienzo de la 004. Total: 5 puntos.
+% Hilo conductor del trimestre I: «Ubicarse en la Tierra»
+% Ejercicios: recursos/banco/matematicas/geometria-analitica-10.py (040-043, nuevos)
+% Clave:  pdflatex -jobname=tarea-clave "\def\clave{}\input{tarea}"  (dos veces)
+% =====================================================================
+\documentclass[11pt]{article}
+\makeatletter\def\input@path{{../../../../../plantillas/estilo/}}\makeatother
+\usepackage{mmcantillo}
+\guiadelestudiante{../../guia-didactica/guia-periodo-I-geometria-analitica}
+
+\tipodocumento{Tarea}
+\asignatura{Geometría}
+\titulo{Tarea: distancia entre dos puntos}
+\grado{10°}
+\periodo{I}
+
+% DBA: matematicas grado 10 · DBA 5 — Explora y describe las propiedades de los lugares
+% geométricos y de sus transformaciones a partir de diferentes representaciones. Evidencias:
+% usar la expresión de la distancia para describir y clasificar figuras (preguntas 2 y 3) y
+% reconocer el papel de la representación algebraica frente al dibujo (preguntas 2 y 4).
+
+\begin{document}
+
+\encabezado
+
+\begin{instrucciones}
+Trabajo en casa. Se revisa al comienzo de la próxima clase. Deja los resultados
+\textbf{exactos} (con raíz, sin decimales) salvo que se pida lo contrario, y muestra el
+procedimiento. Puedes consultar la \refguia{tema:distancia}.
+Total: \totalpuntos{} puntos.
+\end{instrucciones}
+
+\begin{preguntas}
+
+% Ejercicio: geometria-analitica-10-040
+\pregunta[1] Calcula la distancia entre cada pareja de puntos y deja el resultado exacto.
+\begin{opciones*}(3)
+  \item $A(2, 3)$ y $B(6, 6)$
+  \item $C(-3, 2)$ y $D(5, -4)$
+  \item $E(1, -2)$ y $F(7, 6)$
+\end{opciones*}
+\begin{solucion}[4cm]
+a) $\sqrt{4^2 + 3^2} = \sqrt{25} = 5$. \quad b) $\sqrt{8^2 + (-6)^2} = \sqrt{100} = 10$. \quad
+c) $\sqrt{6^2 + 8^2} = \sqrt{100} = 10$.
+
+Los tres son ternas pitagóricas: $3$-$4$-$5$, $6$-$8$-$10$ y $6$-$8$-$10$.
+\end{solucion}
+
+% Ejercicio: geometria-analitica-10-041
+\pregunta[1.5] Los vértices de un triángulo son $P(1, 1)$, $Q(5, 1)$ y $R(3, 5)$. Calcula la
+longitud de sus tres lados y decide si el triángulo es equilátero, isósceles o escaleno.
+Justifica con los números, no con el dibujo.
+\begin{solucion}[4.5cm]
+$PQ = \sqrt{4^2 + 0^2} = 4$; \quad $QR = \sqrt{(-2)^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$; \quad
+$PR = \sqrt{2^2 + 4^2} = \sqrt{20} = 2\sqrt{5}$.
+
+Como $QR = PR \neq PQ$, el triángulo es \textbf{isósceles}. Medir con regla sobre el dibujo no
+bastaría: $\sqrt{20} \approx \num{4,47}$ se parece mucho a $4$.
+\end{solucion}
+
+% Ejercicio: geometria-analitica-10-042
+\pregunta[1.5] Un cuadrilátero tiene vértices $A(0, 0)$, $B(4, 3)$, $C(8, 0)$ y $D(4, -3)$.
+Calcula $AB$, $BC$, $CD$ y $DA$. ¿Qué tienen en común los cuatro lados? ¿Basta eso para
+afirmar que es un cuadrado? Calcula también las dos diagonales $AC$ y $BD$ y decide.
+\begin{solucion}[5cm]
+Los cuatro lados miden $5$: $AB = \sqrt{4^2 + 3^2} = 5$, y lo mismo $BC$, $CD$ y $DA$.
+
+Tener los cuatro lados iguales lo hace un \textbf{rombo}, pero \emph{no} basta para decir que
+es un cuadrado. Las diagonales lo resuelven: $AC = 8$ y $BD = 6$. En un cuadrado las dos
+diagonales miden lo mismo, así que este rombo no es un cuadrado.
+\end{solucion}
+
+% Ejercicio: geometria-analitica-10-043
+\pregunta[1] Camila calculó así la distancia entre $M(-2, 5)$ y $N(4, -3)$:
+\[ d = \sqrt{(4 - 2)^2 + (-3 - 5)^2} = \sqrt{4 + 64} = \sqrt{68}. \]
+Encuentra el error, corrígelo y explica en una frase por qué el resultado correcto no cambia
+si se intercambian $M$ y $N$.
+\begin{solucion}[4cm]
+El error está en la resta de las abscisas: es $4 - (-2) = 6$, no $4 - 2 = 2$.
+
+Lo correcto es $d = \sqrt{6^2 + (-8)^2} = \sqrt{36 + 64} = \sqrt{100} = 10$. Intercambiar los
+puntos no cambia nada porque las diferencias solo cambian de signo y van elevadas al cuadrado.
+\end{solucion}
+
+\end{preguntas}
+
+\end{document}
