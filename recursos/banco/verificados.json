@@ -551,6 +551,30 @@
   "fecha": "2026-09-19",
   "archivo": "recursos/banco/matematicas/angulos-6.py"
  },
+ "angulos-6-004": {
+  "huella": "2510f656eac0b27b",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-6.py"
+ },
+ "angulos-6-005": {
+  "huella": "3ddebe5c7e62b0f3",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-6.py"
+ },
+ "angulos-6-006": {
+  "huella": "8691a9801301032a",
+  "estado": "verificado",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-6.py"
+ },
+ "angulos-6-007": {
+  "huella": "9e620d82e1c0cb82",
+  "estado": "falla",
+  "fecha": "2026-09-20",
+  "archivo": "recursos/banco/matematicas/angulos-6.py"
+ },
  "angulos-7-003": {
   "huella": "48949f9c1305baac",
   "estado": "verificado",
